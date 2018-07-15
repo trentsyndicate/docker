@@ -1,0 +1,777 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Movie>
+  <art>
+    <item external="True" url="http://image.tmdb.org/t/p/original/pEL81RWzS3LaybTCf7vp2KvVLhw.jpg" sort_order="1" provider="com.plexapp.agents.imdb" media="com.plexapp.agents.imdb_22536ef5bc397f79ffe5c7f1d5dc94c2e52a2f79"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/vLRFwAdp7JakQKvXT5ojSboSpdY.jpg" preview="com.plexapp.agents.imdb_cba86730a29d6c1e143d7b2bfb6a21a38e67173b" sort_order="2" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/jLrN9LZRD6FiB2B9oYXKS1f1zK1.jpg" preview="com.plexapp.agents.imdb_0b57dd99d85459bb720d0d11f6e5a1c01e6e2017" sort_order="3" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/6MvcfwaMnVDeXvI5uzbmu0sxnWg.jpg" preview="com.plexapp.agents.imdb_a66b1bdb5a00721fa87323464e51796831d94bac" sort_order="4" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/3IJ8kG8i84PncXkSovu0PaZQfjM.jpg" preview="com.plexapp.agents.imdb_6df9662b24b626085744dd75653d64a38d729dee" sort_order="5" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/y8QIZg7gI0dcK640sA4M9hmFIj2.jpg" preview="com.plexapp.agents.imdb_dd6628ad349a9ae196f22eec3a7b5f554d1ac871" sort_order="6" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/iey7wKps9EVDIYnC1vZUL50GS8d.jpg" preview="com.plexapp.agents.imdb_418d3a7ac312bfa591d75250ae55b0a482462bd8" sort_order="7" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/jzdnhRhG0dsuYorwvSqPqqnM1cV.jpg" preview="com.plexapp.agents.imdb_f92beb1fa3825873790335c82d4db7b482ec82c2" sort_order="8" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/a0GKNhUnezN4HzrtoJmQZJglpu7.jpg" preview="com.plexapp.agents.imdb_7aa5e6babffbaf17325724cb07b026a0ffb55a4d" sort_order="9" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/39988gnisJ6WeVFdSlAFvFz3FOz.jpg" preview="com.plexapp.agents.imdb_3e715d0fc5bdd7e0c9eebd8f01354caf5e4c7647" sort_order="10" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/z1sdCwVIqm49BMZSSXUgYTtx3Bh.jpg" preview="com.plexapp.agents.imdb_e3256b977b56c2b9d7512f417f6bab0c30bcaadd" sort_order="11" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/7Xhe8vnss2Pw8ZnT34KEDtetPHr.jpg" preview="com.plexapp.agents.imdb_fa4d90c20d8168a054d490a11863a98341035a7b" sort_order="12" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/hxGXL1LY1jLYD45TIjt7DcghZOu.jpg" preview="com.plexapp.agents.imdb_d8693dd55a38dec5d57c17a1e31cfb63838c826b" sort_order="13" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/vMqLatZC65uUT1ojmxnE47TkmsM.jpg" preview="com.plexapp.agents.imdb_a1e60f2db6568b9381684a58b0dc27584a764271" sort_order="14" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/xOL4K5ZZfa7bx54QbVlyE3P70eV.jpg" preview="com.plexapp.agents.imdb_cab9bbad2338794cbd852737f2f35ae622703393" sort_order="15" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/eSbOhGw07HQfUqMi2MDWHnW6fkt.jpg" preview="com.plexapp.agents.imdb_8cb9edbfd8cc6e8bfa60a2246c073a649873ac40" sort_order="16" provider="com.plexapp.agents.imdb"/>
+  </art>
+  <banners/>
+  <chapters>
+    <item index="0">
+      <title>Chapter 1</title>
+      <end_time_offset>788000</end_time_offset>
+      <start_time_offset>0</start_time_offset>
+    </item>
+    <item index="1">
+      <title>Chapter 2</title>
+      <end_time_offset>1229000</end_time_offset>
+      <start_time_offset>788000</start_time_offset>
+    </item>
+    <item index="2">
+      <title>Chapter 3</title>
+      <end_time_offset>1597000</end_time_offset>
+      <start_time_offset>1229000</start_time_offset>
+    </item>
+    <item index="3">
+      <title>Chapter 4</title>
+      <end_time_offset>1944000</end_time_offset>
+      <start_time_offset>1597000</start_time_offset>
+    </item>
+    <item index="4">
+      <title>Chapter 5</title>
+      <end_time_offset>2198000</end_time_offset>
+      <start_time_offset>1944000</start_time_offset>
+    </item>
+    <item index="5">
+      <title>Chapter 6</title>
+      <end_time_offset>2613000</end_time_offset>
+      <start_time_offset>2198000</start_time_offset>
+    </item>
+    <item index="6">
+      <title>Chapter 7</title>
+      <end_time_offset>2863000</end_time_offset>
+      <start_time_offset>2613000</start_time_offset>
+    </item>
+    <item index="7">
+      <title>Chapter 8</title>
+      <end_time_offset>3357000</end_time_offset>
+      <start_time_offset>2863000</start_time_offset>
+    </item>
+    <item index="8">
+      <title>Chapter 9</title>
+      <end_time_offset>3844000</end_time_offset>
+      <start_time_offset>3357000</start_time_offset>
+    </item>
+    <item index="9">
+      <title>Chapter 10</title>
+      <end_time_offset>4144000</end_time_offset>
+      <start_time_offset>3844000</start_time_offset>
+    </item>
+    <item index="10">
+      <title>Chapter 11</title>
+      <end_time_offset>4399000</end_time_offset>
+      <start_time_offset>4144000</start_time_offset>
+    </item>
+    <item index="11">
+      <title>Chapter 12</title>
+      <end_time_offset>4880000</end_time_offset>
+      <start_time_offset>4399000</start_time_offset>
+    </item>
+    <item index="12">
+      <title>Chapter 13</title>
+      <end_time_offset>5364000</end_time_offset>
+      <start_time_offset>4880000</start_time_offset>
+    </item>
+    <item index="13">
+      <title>Chapter 14</title>
+      <end_time_offset>5706000</end_time_offset>
+      <start_time_offset>5364000</start_time_offset>
+    </item>
+    <item index="14">
+      <title>Chapter 15</title>
+      <end_time_offset>5989000</end_time_offset>
+      <start_time_offset>5706000</start_time_offset>
+    </item>
+    <item index="15">
+      <title>Chapter 16</title>
+      <end_time_offset>6294000</end_time_offset>
+      <start_time_offset>5989000</start_time_offset>
+    </item>
+    <item index="16">
+      <title>Chapter 17</title>
+      <end_time_offset>6775000</end_time_offset>
+      <start_time_offset>6294000</start_time_offset>
+    </item>
+    <item index="17">
+      <title>Chapter 18</title>
+      <end_time_offset>7304000</end_time_offset>
+      <start_time_offset>6775000</start_time_offset>
+    </item>
+    <item index="18">
+      <title>Chapter 19</title>
+      <end_time_offset>7597000</end_time_offset>
+      <start_time_offset>7304000</start_time_offset>
+    </item>
+    <item index="19">
+      <title>Chapter 20</title>
+      <end_time_offset>8149000</end_time_offset>
+      <start_time_offset>7597000</start_time_offset>
+    </item>
+    <item index="20">
+      <title>Chapter 21</title>
+      <end_time_offset>-1</end_time_offset>
+      <start_time_offset>8149000</start_time_offset>
+    </item>
+  </chapters>
+  <collections/>
+  <content_rating>PG-13</content_rating>
+  <countries>
+    <item index="0">China</item>
+  </countries>
+  <directors>
+    <item index="0">
+      <photo>http://image.tmdb.org/t/p/original/hjMfkAyz5ECn0svAzrkG3YsEaEW.jpg</photo>
+      <role/>
+      <name>F. Gary Gray</name>
+    </item>
+  </directors>
+  <duration>8160000</duration>
+  <genres>
+    <item index="0">Action</item>
+    <item index="1">Crime</item>
+    <item index="2">Thriller</item>
+  </genres>
+  <originally_available_at>2017-04-12</originally_available_at>
+  <posters>
+    <item external="True" url="http://image.tmdb.org/t/p/original/c4n5eV3XmTSWLtKCklA6trJhivI.jpg" sort_order="1" provider="com.plexapp.agents.imdb" media="com.plexapp.agents.imdb_bcc4f93354e03c4eb163cbce5af715b5bb4dcd83"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/9g24RBM4NaZtJKXrsAPUdr9BeqS.jpg" preview="com.plexapp.agents.imdb_ba0ebda6c1fe13f1134268f021e456acbdaf9bd3" sort_order="2" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/zHdzzKwJjrMwSoy6ab4rI8siwPe.jpg" preview="com.plexapp.agents.imdb_aedaa3c4cf6cf530a806eb01d529afa3b4096b30" sort_order="3" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/5Xx38EykFpGGAqEFNmwGV5CeeZ4.jpg" preview="com.plexapp.agents.imdb_368ced295cc472758de7cdc6f0e17f2cdf7c180e" sort_order="4" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/fq9ic4Su4VTWaXExVwKfK0l9F7B.jpg" preview="com.plexapp.agents.imdb_b6eb812e50a7667a00a528555abcac3dd9d187cb" sort_order="5" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/yv7nfJYC5W4cSRSyGLa5nrDi7J4.jpg" preview="com.plexapp.agents.imdb_783c1a2d3ca27d04d0200acf3d97b8e3daadbf27" sort_order="6" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/dImWM7GJqryWJO9LHa3XQ8DD5NH.jpg" preview="com.plexapp.agents.imdb_2a49d2d628c9b03c0daf8861041d41c71b546000" sort_order="7" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/g52r6ZXqRPfRagwsOaorOGWxOk3.jpg" preview="com.plexapp.agents.imdb_77b49922082dbabaaea3be0ba77f711cc5578d8f" sort_order="8" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/yEyzxObWEVCdVGq35JVFpP0NdaG.jpg" preview="com.plexapp.agents.imdb_19b0d3614e0c4c7eedb14bf147c27cc75c083d44" sort_order="9" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/vahdpFqqJLJLwIKMC0C0ZLLSewW.jpg" preview="com.plexapp.agents.imdb_7e4cfd68f536789f23f61cb2afdab499e332657f" sort_order="10" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/euTJvayBRLRQI5RI5ayQhWfwQ4H.jpg" preview="com.plexapp.agents.imdb_c83e85ea31c7c44d754c68244c1fcac442381cd3" sort_order="11" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/nWAL75EYu59l6mPgdgyIQqihqvk.jpg" preview="com.plexapp.agents.imdb_689e6f93d0e29fd242be54642589de5d8a54590d" sort_order="12" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/wmGO2oUkpciG5zKcDZv5ScZreBP.jpg" preview="com.plexapp.agents.imdb_e32839f84f7472eb320cd3fbe5bb4b2579720d0e" sort_order="13" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/iY4Gbm8GmxauwaUy0pRHkNXiTLu.jpg" preview="com.plexapp.agents.imdb_44d4c3dd0d81917df05b8b67ee74c20aa7c895ab" sort_order="14" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/d9AkTDeEhlWUwNgm9Fi0S1C3QVG.jpg" preview="com.plexapp.agents.imdb_2d4b51825df8edc1766b0c9b41299105af653761" sort_order="15" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/eYh9tOLpMgB0RLeaeADE7UO4tdj.jpg" preview="com.plexapp.agents.imdb_58748e5dbff94100804a93ba5cd2f6eb996084f8" sort_order="16" provider="com.plexapp.agents.imdb"/>
+  </posters>
+  <producers>
+    <item index="0">
+      <photo>http://image.tmdb.org/t/p/original/mjRdM6w6Uz1UnrKQ5Kw02qGln2K.jpg</photo>
+      <role/>
+      <name>Vin Diesel</name>
+    </item>
+    <item index="1">
+      <photo>http://image.tmdb.org/t/p/original/cNcsEYmoS4niCz3UkVAA09dUIob.jpg</photo>
+      <role/>
+      <name>Neal H. Moritz</name>
+    </item>
+    <item index="2">
+      <photo/>
+      <role/>
+      <name>Michael Fottrell</name>
+    </item>
+  </producers>
+  <rating>6.6</rating>
+  <rating_image>rottentomatoes://image.rating.ripe</rating_image>
+  <audience_rating>7.3</audience_rating>
+  <audience_rating_image>rottentomatoes://image.rating.upright</audience_rating_image>
+  <reviews>
+    <item index="0">
+      <text>Like a good car the series needs all of its parts to work. And also like a car, if you keep adding more parts, it only works better. (I know nothing about cars.)</text>
+      <source>The New Republic</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>https://newrepublic.com/article/142060/fast-furious-movies-bad-what</link>
+      <author>Clio Chang</author>
+    </item>
+    <item index="1">
+      <text>Just when the Fast-and-the-Furious-on-Ice finale threatens to drag on past the point of action-setpiece endurance, director F. Gary Gray has the grace to send a supercar from heaven as an actual answer to prayer.</text>
+      <source>San Diego Reader</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>http://www.sandiegoreader.com/movies/the-fate-of-the-furious/</link>
+      <author>Matthew Lickona</author>
+    </item>
+    <item index="2">
+      <text>The Fate of the Furious offers everything you might want from the series, but those offerings are beginning to look ever so slightly stale.</text>
+      <source>The Atlantic</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>https://www.theatlantic.com/entertainment/archive/2017/04/the-fate-of-the-furious-review/522864/</link>
+      <author>David Sims</author>
+    </item>
+    <item index="3">
+      <text>You know what you're getting before you go, and you get it.</text>
+      <source>ReelViews</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>http://www.reelviews.net/reelviews/fate-of-the-furious-the</link>
+      <author>James Berardinelli</author>
+    </item>
+    <item index="4">
+      <text>If you're not interested in seeing a fleet of cars get chased across a frozen lake by a Russian submarine, that's between you and your maker. As long as you are, [Fate] is a wildly entertaining thrill ride that never lets its foot off the gas.</text>
+      <source>Detroit News</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>http://www.detroitnews.com/story/entertainment/movies/2017/04/12/movie-review-fate-furious-pedal-metal-fun/100377524/</link>
+      <author>Adam Graham</author>
+    </item>
+    <item index="5">
+      <text>If the fate of the Furious series is to grow somehow both wearier and dumber with age, then the eighth film is proof of a mission firmly accomplished. And there's no shame, Vin, in hanging it all up after a job well done.</text>
+      <source>Globe and Mail</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>http://www.theglobeandmail.com/arts/film/film-reviews/the-fate-of-the-furious-review-big-dumb-and-undeniably-fun/article34695296/</link>
+      <author>Barry Hertz</author>
+    </item>
+    <item index="6">
+      <text>"The Fate of the Furious" begins and ends with adrenaline-spiking scenes - a drag race through Havana, an airplane brawl - that remind you why this gear-head franchise is still purring along. As for the two hours in between . . . not so much.</text>
+      <source>New York Post</source>
+      <image>rottentomatoes://image.review.rotten</image>
+      <link>http://nypost.com/2017/04/13/fast-and-furious-franchise-hits-a-speed-bump/</link>
+      <author>Sara Stewart</author>
+    </item>
+    <item index="7">
+      <text>[It] will earn zillions of dollars during the first nanoseconds of its global opening this weekend, so who am I to call it soulless, graceless, witless, incoherent -- even for the franchise -- and, not incidentally, brain-numbingly long at 136 minutes?</text>
+      <source>Wall Street Journal</source>
+      <image>rottentomatoes://image.review.rotten</image>
+      <link>https://www.wsj.com/articles/the-fate-of-the-furious-review-nothing-good-under-the-hood-1492118400</link>
+      <author>Joe Morgenstern</author>
+    </item>
+    <item index="8">
+      <text>It feels like the movies have gotten as big as they can get, and the gleeful absurdity that drove them is losing ground to the specter of obligation.</text>
+      <source>Slate</source>
+      <image>rottentomatoes://image.review.rotten</image>
+      <link>http://www.slate.com/articles/arts/movies/2017/04/the_fate_of_the_furious_reviewed.html</link>
+      <author>Sam Adams</author>
+    </item>
+    <item index="9">
+      <text>One of these decades, Dom and company will be saving the world in turbo-powered wheelchairs.</text>
+      <source>Chicago Sun-Times</source>
+      <image>rottentomatoes://image.review.rotten</image>
+      <link>http://chicago.suntimes.com/entertainment/overlong-idiotic-fate-of-the-furious-drags-down-the-franchise/</link>
+      <author>Richard Roeper</author>
+    </item>
+    <item index="10">
+      <text>If anyone here is having more fun than either Theron or Statham, it's their Italian Job director, F. Gary Gray.</text>
+      <source>New York Observer</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>http://observer.com/2017/04/fate-of-the-furious-review-vin-diesel-dwayne-johnson/</link>
+      <author>Oliver Jones</author>
+    </item>
+    <item index="11">
+      <text>I get that these movies are not primarily targeted at English-speaking audiences, but they've got a writer (Chris Morgan, who's done a half-dozen of these) on payroll. He could try writing a little. It would pass the time.</text>
+      <source>NPR</source>
+      <image>rottentomatoes://image.review.rotten</image>
+      <link>http://www.npr.org/2017/04/13/523327966/the-fate-of-the-furious-runs-on-diesel-fumes?utm_medium=RSS&amp;utm_campaign=movies</link>
+      <author>Chris Klimek</author>
+    </item>
+    <item index="12">
+      <text>The Fate Of The Furious -- a.k.a. The Fast &amp; The Furious 8 -- is faster and furiouser than ever. Accelerating speed and furiousness is pretty much a given when you've had eight tries at this.</text>
+      <source>Toronto Sun</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>http://www.torontosun.com/2017/04/13/the-fate-of-the-furious-review-franchise-still-has-gas-in-the-tank</link>
+      <author>Jim Slotek</author>
+    </item>
+    <item index="13">
+      <text>The often silly, always outrageous, comfortably formulaic films about fast cars and chosen family have a charm that manages to permeate the crusty exterior of even the most curmudgeonly of critics.</text>
+      <source>Tribune News Service</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>http://www.newsobserver.com/entertainment/movies-news-reviews/article144200364.html</link>
+      <author>Katie Walsh</author>
+    </item>
+    <item index="14">
+      <text>[Gray] has the common sense to slow things down now and then, letting the charismatic players (among them Vin Diesel, Michelle Rodriguez, Dwayne Johnson, and Kurt Russell) carry the show instead of bombarding viewers with action.</text>
+      <source>Chicago Reader</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>http://www.chicagoreader.com/chicago/the-fate-of-the-furious-the-imax-2d-experience/MovieTimes?oid=25808339</link>
+      <author>Ben Sachs</author>
+    </item>
+    <item index="15">
+      <text>Holy motors! Excuse me while I catch my breath. This is perhaps the fastest and, if not, certainly the most furious of the Fast &amp; Furious movies.</text>
+      <source>Village Voice</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>http://www.villagevoice.com/film/if-its-the-fate-of-the-furious-to-get-bigger-and-madder-each-sequel-sign-us-up-9870217</link>
+      <author>Kristen Yoonsoo Kim</author>
+    </item>
+    <item index="16">
+      <text>I predict they'll be eventually leaving skid marks on the moon, as long as their varooms are answered by box-office ka-chings.</text>
+      <source>Toronto Star</source>
+      <image>rottentomatoes://image.review.rotten</image>
+      <link>https://www.thestar.com/entertainment/movies/2017/04/13/fate-of-the-furious-shows-franchise-is-running-on-fumes-review.html</link>
+      <author>Peter Howell</author>
+    </item>
+    <item index="17">
+      <text>At this point, shuffling alliances and adding a few big-name actors... is about all that can be done to distinguish one outing from the next, which doesn't prevent the movie from feeling mechanical, and -- at well over two hours -- a little bloated.</text>
+      <source>CNN.com</source>
+      <image>rottentomatoes://image.review.rotten</image>
+      <link>http://www.cnn.com/2017/04/13/entertainment/fate-of-the-furious-review/index.html</link>
+      <author>Brian Lowry</author>
+    </item>
+    <item index="18">
+      <text>"Fate" gives fans of the franchise exactly what they want, provided they can ditch logic as easily as the movie does.</text>
+      <source>Washington Post</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>https://www.washingtonpost.com/goingoutguide/movies/the-fate-of-the-furious-silly-loud--and-exactly-what-fans-have-come-to-expect/2017/04/13/2b6d0dcc-1f80-11e7-ad74-3a742a6e93a7_story.html?utm_term=.716fd9588fa9</link>
+      <author>Stephanie Merry</author>
+    </item>
+    <item index="19">
+      <text>"The Fate of the Furious" offers plenty of bang for your buck. Nothing but bang, as a matter of fact.</text>
+      <source>Minneapolis Star Tribune</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>http://www.startribune.com/fast-fans-get-more-of-the-same/419397244/</link>
+      <author>Colin Covert</author>
+    </item>
+  </reviews>
+  <roles>
+    <item index="0">
+      <photo>http://image.tmdb.org/t/p/original/mjRdM6w6Uz1UnrKQ5Kw02qGln2K.jpg</photo>
+      <role>Dominic Toretto</role>
+      <name>Vin Diesel</name>
+    </item>
+    <item index="1">
+      <photo>http://image.tmdb.org/t/p/original/PhWiWgasncGWD9LdbsGcmxkV4r.jpg</photo>
+      <role>Deckard Shaw</role>
+      <name>Jason Statham</name>
+    </item>
+    <item index="2">
+      <photo>http://image.tmdb.org/t/p/original/akweMz59qsSoPUJYe7QpjAc2rQp.jpg</photo>
+      <role>Luke Hobbs</role>
+      <name>Dwayne Johnson</name>
+    </item>
+    <item index="3">
+      <photo>http://image.tmdb.org/t/p/original/xNQX2itPnMaznG3GhHKdxBhwbum.jpg</photo>
+      <role>Letty Ortiz</role>
+      <name>Michelle Rodriguez</name>
+    </item>
+    <item index="4">
+      <photo>http://image.tmdb.org/t/p/original/a3tyF7QXgeEH0QuEuIzNZZ8oLNS.jpg</photo>
+      <role>Roman Pearce</role>
+      <name>Tyrese Gibson</name>
+    </item>
+    <item index="5">
+      <photo>http://image.tmdb.org/t/p/original/xLfq9wFO6dtYuUK96hbJ8I8EKFw.jpg</photo>
+      <role>Tej Parker</role>
+      <name>Ludacris</name>
+    </item>
+    <item index="6">
+      <photo>http://image.tmdb.org/t/p/original/aHOB9UMgSI7MlXF3GMZaVQXqfQg.jpg</photo>
+      <role>Cipher</role>
+      <name>Charlize Theron</name>
+    </item>
+    <item index="7">
+      <photo>http://image.tmdb.org/t/p/original/rlnFuNkisPpuypARI7QaGCmOY6V.jpg</photo>
+      <role>Frank Petty / Mr. Nobody</role>
+      <name>Kurt Russell</name>
+    </item>
+    <item index="8">
+      <photo>http://image.tmdb.org/t/p/original/yYiJwunH04doOZJgMu7qTZyrRYJ.jpg</photo>
+      <role>Ramsey</role>
+      <name>Nathalie Emmanuel</name>
+    </item>
+    <item index="9">
+      <photo>http://image.tmdb.org/t/p/original/1d31uDYub8TaLOPWfgX78OotduD.jpg</photo>
+      <role>Owen Shaw</role>
+      <name>Luke Evans</name>
+    </item>
+    <item index="10">
+      <photo>http://image.tmdb.org/t/p/original/c1km2kqasJT9GTISMbBZpp3jbuR.jpg</photo>
+      <role>Elena Neves</role>
+      <name>Elsa Pataky</name>
+    </item>
+    <item index="11">
+      <photo>http://image.tmdb.org/t/p/original/qlGV5b8FMx2Ut1fgmm6TDc1fHxC.jpg</photo>
+      <role>Connor Rhodes</role>
+      <name>Kristofer Hivju</name>
+    </item>
+    <item index="12">
+      <photo>http://image.tmdb.org/t/p/original/w8yZtoTB2XGJWYJxZBLWp1Smqrk.jpg</photo>
+      <role>Eric Reisner / Little Nobody</role>
+      <name>Scott Eastwood</name>
+    </item>
+    <item index="13">
+      <photo>http://image.tmdb.org/t/p/original/8CL5z034mG0F4rw9elZWlUFgS5s.jpg</photo>
+      <role>Tac Team Leader</role>
+      <name>Corey Maher</name>
+    </item>
+    <item index="14">
+      <photo>http://image.tmdb.org/t/p/original/pz7i7LV35XRC5Si8liRoYWdrcr0.jpg</photo>
+      <role>Tego Leo</role>
+      <name>Tego Calderón</name>
+    </item>
+    <item index="15">
+      <photo>http://image.tmdb.org/t/p/original/f1INIG2TE9jXXp5A3gGJR9UkePK.jpg</photo>
+      <role>Rico Santos</role>
+      <name>Don Omar</name>
+    </item>
+    <item index="16">
+      <photo>http://image.tmdb.org/t/p/original/4EGgBJPUBz68ZrnFuLVo01r0uND.jpg</photo>
+      <role>Magdalene Shaw</role>
+      <name>Helen Mirren</name>
+    </item>
+    <item index="17">
+      <photo>http://image.tmdb.org/t/p/original/qctM6vy28cnwLVP1qLtDmR7EEnV.jpg</photo>
+      <role>DS Allan</role>
+      <name>Patrick St. Esprit</name>
+    </item>
+    <item index="18">
+      <photo>http://image.tmdb.org/t/p/original/xxzcCrgD38jOyCRlbBA5ksfrN14.jpg</photo>
+      <role>Samantha Hobbs</role>
+      <name>Eden Estrella</name>
+    </item>
+    <item index="19">
+      <photo>http://image.tmdb.org/t/p/original/oou2ntZXsPibPK7GPf96AQkDwwK.jpg</photo>
+      <role>Fernando</role>
+      <name>Janmarco Santiago</name>
+    </item>
+    <item index="20">
+      <photo>http://image.tmdb.org/t/p/original/hxCm0WeU1NfEbfLxh2oy4s9nf0W.jpg</photo>
+      <role>Miller</role>
+      <name>Luke Hawx</name>
+    </item>
+    <item index="21">
+      <photo>http://image.tmdb.org/t/p/original/4dR1lTp8IEDuokdAAQeO6anY6hL.jpg</photo>
+      <role>Raldo</role>
+      <name>Celestino Cornielle</name>
+    </item>
+    <item index="22">
+      <photo>http://image.tmdb.org/t/p/original/nv44QkTPkymcd7MiB1K69RsG4B1.jpg</photo>
+      <role>Russian Minister of Defense</role>
+      <name>Olek Krupa</name>
+    </item>
+    <item index="23">
+      <photo>http://image.tmdb.org/t/p/original/nvhKQdgkUmjvbswqHbU3RLftCbb.jpg</photo>
+      <role>Russian Aide</role>
+      <name>Alexander Babara</name>
+    </item>
+    <item index="24">
+      <photo>http://image.tmdb.org/t/p/original/goyqk1ki9XDevC5xXkYUNkS4HUK.jpg</photo>
+      <role>Russian Lead Driver</role>
+      <name>Andre Pushkin</name>
+    </item>
+    <item index="25">
+      <photo>http://image.tmdb.org/t/p/original/YHQwlDgYEOL4OXOvHpymFnAmpX.jpg</photo>
+      <role>Russian MMV Driver</role>
+      <name>Robert Jekabson</name>
+    </item>
+    <item index="26">
+      <photo>http://image.tmdb.org/t/p/original/gOHClPy81Jrapta7r1E8DMCtj1W.jpg</photo>
+      <role>Russian MMV Soldier</role>
+      <name>Nick Gracer</name>
+    </item>
+    <item index="27">
+      <photo>http://image.tmdb.org/t/p/original/eZNvAf6RaRs0bYrc6lzTzXXuBSC.jpg</photo>
+      <role>Super Jet Pilot</role>
+      <name>Gary Weeks</name>
+    </item>
+    <item index="28">
+      <photo>http://image.tmdb.org/t/p/original/tVDIXazCDwrCHpHiBAI0jHr9d7C.jpg</photo>
+      <role>Showroom Employee</role>
+      <name>Joe Fishel</name>
+    </item>
+    <item index="29">
+      <photo/>
+      <role>Big Mike</role>
+      <name>Michael W. Broomer</name>
+    </item>
+    <item index="30">
+      <photo>http://image.tmdb.org/t/p/original/zFMbmOICyBmUKnfRXuS6TvPL9tm.jpg</photo>
+      <role>Business Woman (uncredited)</role>
+      <name>Theresa Cook</name>
+    </item>
+    <item index="31">
+      <photo>http://image.tmdb.org/t/p/original/iUo0mZMZYlaD9Q01AWJnkH52MCF.jpg</photo>
+      <role>Showroom Customer (uncredited)</role>
+      <name>Kim Evans</name>
+    </item>
+    <item index="32">
+      <photo>http://image.tmdb.org/t/p/original/vm35geTm0yagJnT6TLkmRabJpxL.jpg</photo>
+      <role>Russian Assassin (uncredited)</role>
+      <name>Oleg Prudius</name>
+    </item>
+    <item index="33">
+      <photo>http://image.tmdb.org/t/p/original/pHhL9fUfMV1pPIgnlhq4oYDfEX0.jpg</photo>
+      <role>New York Pedestrian / Tourist / Girl at Flower Stand (uncredited)</role>
+      <name>Connie Kincer</name>
+    </item>
+    <item index="34">
+      <photo>http://image.tmdb.org/t/p/original/zGs7QnpmWDLDvtpcwtIrvAwEUy6.jpg</photo>
+      <role>Park Girl (uncredited)</role>
+      <name>Yassie Hawkes</name>
+    </item>
+    <item index="35">
+      <photo>http://image.tmdb.org/t/p/original/pGAcgK3TXdrSFHCZ8orkDHHnV0P.jpg</photo>
+      <role>NYC Crime Witness (uncredited)</role>
+      <name>Destiny Lopez</name>
+    </item>
+    <item index="36">
+      <photo>http://image.tmdb.org/t/p/original/hEIvxdw7lNvUu1I5uG81BxvAeMy.jpg</photo>
+      <role>Business Woman (uncredited)</role>
+      <name>Anita Farmer Bergman</name>
+    </item>
+    <item index="37">
+      <photo>http://image.tmdb.org/t/p/original/sZ2ze7BffkwUqh8XXAy9KubtGhI.jpg</photo>
+      <role>Zombie Car Tech</role>
+      <name>Friday Chamberlain</name>
+    </item>
+    <item index="38">
+      <photo>http://image.tmdb.org/t/p/original/aUr3M4QRFq2tD6vMlUSO4smNHJO.jpg</photo>
+      <role>Businesswoman (uncredited)</role>
+      <name>Mya Levels</name>
+    </item>
+    <item index="39">
+      <photo>http://image.tmdb.org/t/p/original/pslhHGwoUgNgiZJKeOL79YDDQN5.jpg</photo>
+      <role>Tourist (uncredited)</role>
+      <name>Yuliya Zelenskaya</name>
+    </item>
+    <item index="40">
+      <photo/>
+      <role>Ultra Max Prison Guard (uncredited)</role>
+      <name>Trevor Wolf</name>
+    </item>
+    <item index="41">
+      <photo>http://image.tmdb.org/t/p/original/7JwWbaGuCeEyWZqmHQStQyscDBl.jpg</photo>
+      <role>Pedestrian (uncredited)</role>
+      <name>Megan Marie Wilson</name>
+    </item>
+    <item index="42">
+      <photo>http://image.tmdb.org/t/p/original/g5cGIzYnaNv9LILT0IGtXa9Uw9k.jpg</photo>
+      <role>Russian Soldier (uncredited)</role>
+      <name>Myrom Kingery</name>
+    </item>
+    <item index="43">
+      <photo/>
+      <role>Business Pedestrian (uncredited)</role>
+      <name>Dominick Wilkins</name>
+    </item>
+    <item index="44">
+      <photo/>
+      <role>Business Pedestrian (uncredited)</role>
+      <name>Shannon Marie Watts</name>
+    </item>
+    <item index="45">
+      <photo/>
+      <role>Chess Player (uncredited)</role>
+      <name>Gary Lee Vincent</name>
+    </item>
+    <item index="46">
+      <photo>http://image.tmdb.org/t/p/original/abuADRRP8FnyMCEVm9JvsMF5KbO.jpg</photo>
+      <role>CIA Worker (uncredited)</role>
+      <name>Zachary Vazquez</name>
+    </item>
+    <item index="47">
+      <photo>http://image.tmdb.org/t/p/original/c0TYiHAacaxDfGRoTemSJYIMy55.jpg</photo>
+      <role>Prisoner (uncredited)</role>
+      <name>Ronald Joe Vasquez</name>
+    </item>
+    <item index="48">
+      <photo/>
+      <role>Street Vendor (uncredited)</role>
+      <name>Alan Tuskes</name>
+    </item>
+    <item index="49">
+      <photo/>
+      <role>Construction Worker (uncredited)</role>
+      <name>Mikhail Tot</name>
+    </item>
+    <item index="50">
+      <photo/>
+      <role>Vendor (uncredited)</role>
+      <name>Branislav R. Tatalovic</name>
+    </item>
+    <item index="51">
+      <photo/>
+      <role>CIA Agent (uncredited)</role>
+      <name>Doug Stroup</name>
+    </item>
+    <item index="52">
+      <photo/>
+      <role>Mechanic (uncredited)</role>
+      <name>Eddy Stewart</name>
+    </item>
+    <item index="53">
+      <photo/>
+      <role>Tourist (uncredited)</role>
+      <name>Shawn Sterba</name>
+    </item>
+    <item index="54">
+      <photo>http://image.tmdb.org/t/p/original/6XXDWeAAzqrYYPApbQCEXzuVMXw.jpg</photo>
+      <role>Tourist (uncredited)</role>
+      <name>Nancy Ellen Shore</name>
+    </item>
+    <item index="55">
+      <photo/>
+      <role>Soldier (uncredited)</role>
+      <name>Jon Komp Shin</name>
+    </item>
+    <item index="56">
+      <photo/>
+      <role>Mechanic (uncredited)</role>
+      <name>Darren Sheehan</name>
+    </item>
+    <item index="57">
+      <photo/>
+      <role>Tourist / College Student (uncredited)</role>
+      <name>Gabrielle Sebben</name>
+    </item>
+    <item index="58">
+      <photo/>
+      <role>Pedestrian (uncredited)</role>
+      <name>Ramona Schwalbach</name>
+    </item>
+    <item index="59">
+      <photo>http://image.tmdb.org/t/p/original/tQKHaaZLK9z6wJ3L8eEEF3dnuGs.jpg</photo>
+      <role>Pedestrian (uncredited)</role>
+      <name>Debbie Scaletta</name>
+    </item>
+    <item index="60">
+      <photo/>
+      <role>Businesswomen (uncredited)</role>
+      <name>Melissa Santiago</name>
+    </item>
+    <item index="61">
+      <photo/>
+      <role>Tourist (uncredited)</role>
+      <name>Mark Salas</name>
+    </item>
+    <item index="62">
+      <photo/>
+      <role>Kid in Park (uncredited)</role>
+      <name>Jostein Sagnes</name>
+    </item>
+    <item index="63">
+      <photo/>
+      <role>Business Pedestrian (uncredited)</role>
+      <name>Porche Robinson</name>
+    </item>
+    <item index="64">
+      <photo/>
+      <role>Fish Worker (uncredited)</role>
+      <name>Charlie Reyes-Torreblanca</name>
+    </item>
+    <item index="65">
+      <photo>http://image.tmdb.org/t/p/original/jQvNTAIgN7ZrDOSHD2jKGi1ZJ7f.jpg</photo>
+      <role>Berlin Swat (uncredited)</role>
+      <name>William Cowboy Reed</name>
+    </item>
+    <item index="66">
+      <photo/>
+      <role>College Student / NY Businessman (uncredited)</role>
+      <name>Ryan Poole</name>
+    </item>
+    <item index="67">
+      <photo>http://image.tmdb.org/t/p/original/mmo0Mxp9omrOgNAtfRuoHLKkavJ.jpg</photo>
+      <role>NY Businesswoman / Tourist (uncredited)</role>
+      <name>Michelle Poole</name>
+    </item>
+    <item index="68">
+      <photo/>
+      <role>NY Businessman / Tourist (uncredited)</role>
+      <name>Charles Poole</name>
+    </item>
+    <item index="69">
+      <photo/>
+      <role>Monarch Soccer Coach (uncredited)</role>
+      <name>Anthony Vance Pierce</name>
+    </item>
+    <item index="70">
+      <photo/>
+      <role>Mercenary (uncredited)</role>
+      <name>Carmelo Oquendo</name>
+    </item>
+    <item index="71">
+      <photo/>
+      <role>Street Vender (uncredited)</role>
+      <name>Pauline Nowakowski</name>
+    </item>
+    <item index="72">
+      <photo/>
+      <role>NY Businessman / operative (uncredited)</role>
+      <name>Darko Nikolic</name>
+    </item>
+    <item index="73">
+      <photo/>
+      <role>Jet Tech (uncredited)</role>
+      <name>Ryan Newton</name>
+    </item>
+    <item index="74">
+      <photo/>
+      <role>Tourist (uncredited)</role>
+      <name>Zoya Naumchik</name>
+    </item>
+    <item index="75">
+      <photo/>
+      <role>Tourist (uncredited)</role>
+      <name>Doug Meacham</name>
+    </item>
+    <item index="76">
+      <photo/>
+      <role>Business pedestrian (uncredited)</role>
+      <name>Chris McCail</name>
+    </item>
+    <item index="77">
+      <photo>http://image.tmdb.org/t/p/original/l8BiPThZNi0mBJuTRZMrHjvJA6o.jpg</photo>
+      <role>Sexy Hipster Tourist (uncredited)</role>
+      <name>Faith Logan</name>
+    </item>
+    <item index="78">
+      <photo/>
+      <role>Special Operative (uncredited)</role>
+      <name>Gary Lavard</name>
+    </item>
+    <item index="79">
+      <photo/>
+      <role>Turkish Tourist (uncredited)</role>
+      <name>Özcan Özdemir</name>
+    </item>
+    <item index="80">
+      <photo>http://image.tmdb.org/t/p/original/n6GjjXgyzei5cOcmsFq9hRPECJP.jpg</photo>
+      <role>Tourist / Pedestrian (uncredited)</role>
+      <name>Karin Boesler</name>
+    </item>
+    <item index="81">
+      <photo>http://image.tmdb.org/t/p/original/fw6pIImSmsw6ywXuJzdhszULxkO.jpg</photo>
+      <role>Fish Warehouse Worker</role>
+      <name>Apollo GT</name>
+    </item>
+  </roles>
+  <similar>
+    <item index="0">Furious 7</item>
+    <item index="1">Fast Five</item>
+    <item index="2">xXx: Return of Xander Cage</item>
+    <item index="3">Transformers: The Last Knight</item>
+    <item index="4">The Fast and the Furious: Tokyo Drift</item>
+    <item index="5">Fast &amp; Furious</item>
+    <item index="6">Kong: Skull Island</item>
+    <item index="7">Baywatch</item>
+    <item index="8">John Wick: Chapter 2</item>
+    <item index="9">Pirates of the Caribbean: Dead Men Tell No Tales</item>
+    <item index="10">2 Fast 2 Furious</item>
+    <item index="11">Power Rangers</item>
+    <item index="12">King Arthur: Legend of the Sword</item>
+    <item index="13">The Mummy</item>
+    <item index="14">Central Intelligence</item>
+    <item index="15">Guardians of the Galaxy Vol. 2</item>
+    <item index="16">The Hitman's Bodyguard</item>
+    <item index="17">Now You See Me 2</item>
+    <item index="18">Logan</item>
+    <item index="19">The Great Wall</item>
+  </similar>
+  <studio>Universal Pictures</studio>
+  <summary>When a mysterious woman seduces Dom into the world of crime and a betrayal of those closest to him, the crew face trials that will test them as never before.</summary>
+  <tagline>Family no more</tagline>
+  <tags/>
+  <themes/>
+  <title>The Fate of the Furious</title>
+  <writers>
+    <item index="0">
+      <photo>http://image.tmdb.org/t/p/original/dUGxIwFBLrSFLImxjeda1krndMO.jpg</photo>
+      <role/>
+      <name>Chris Morgan</name>
+    </item>
+  </writers>
+  <year>2017</year>
+</Movie>

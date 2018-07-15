@@ -1,0 +1,29 @@
+Jul 14, 2018 20:58:32.591 [0x7f9dd52a9700] INFO - Plex Tuner Service v1.0.0.0 - unknown docker unknown - build: 
+Jul 14, 2018 20:58:32.592 [0x7f9dd52a9700] INFO - Linux version: 4.15.0-24-generic (#26-Ubuntu SMP Wed Jun 13 08:44:47 UTC 2018), language: C
+Jul 14, 2018 20:58:32.592 [0x7f9dd52a9700] INFO - Processor Intel(R) Core(TM) i7-4770R CPU @ 3.20GHz
+Jul 14, 2018 20:58:32.592 [0x7f9dd52a9700] INFO - /usr/lib/plexmediaserver/Plex Tuner Service /usr/lib/plexmediaserver/Resources/Tuner/Private /usr/lib/plexmediaserver/Resources/Tuner/Shared 1.13.2.5154-fd05be322 32600 /waitmutex
+Jul 14, 2018 20:58:32.568 [0x7f9dda2d6780] INFO - [I] broker_t::start...
+Jul 14, 2018 20:58:32.579 [0x7f9dda2d6780] INFO - [I] device_manager_t::init.
+Jul 14, 2018 20:58:32.579 [0x7f9dda2d6780] INFO - [I] device_manager_t::init. Initialize provider manager
+Jul 14, 2018 20:58:32.579 [0x7f9dda2d6780] INFO - [I] device_manager_t::init. Initialize all device auxes
+Jul 14, 2018 20:58:32.579 [0x7f9dda2d6780] INFO - [I] dvb_device_factory_t::get_aux_list
+Jul 14, 2018 20:58:32.580 [0x7f9dda2d6780] INFO - [I] tvbutler_aux_t::init
+Jul 14, 2018 20:58:32.581 [0x7f9dda2d6780] INFO - [I] web_server_t::start. Starting web server on port 32600
+Jul 14, 2018 20:58:37.903 [0x7f9dcffff700] INFO - [I] web_service_t::process_device_discovery
+Jul 14, 2018 20:58:37.903 [0x7f9dcffff700] INFO - [I] device_reactor_t::get_device_list ()
+Jul 14, 2018 20:58:37.903 [0x7f9dcffff700] INFO - [I] dvb_device_factory_t::get_device_list ()
+Jul 14, 2018 20:58:39.908 [0x7f9dcffff700] INFO - [I] SAT2IP - discover_satip_servers(): no servers found
+Jul 14, 2018 20:58:40.317 [0x7f9dcffff700] INFO - [I] v4l::DeviceGetList_impl. getting v4l device list
+Jul 14, 2018 20:58:40.318 [0x7f9dcffff700] INFO - [I] onetv_factory::DeviceGetListEx >>
+Jul 14, 2018 20:58:40.319 [0x7f9dcffff700] WARN - [W] onetv_factory::DeviceGetListEx. libusb_init returned an error -99
+Jul 14, 2018 22:34:27.859 [0x7f9dda2d6780] INFO - [I] Received SIGTERM: Software termination signal.
+Jul 14, 2018 22:34:27.870 [0x7f9dda2d6780] DEBUG - Unable to lock named mutex F8EEB26D-AB23-4061-8250-130AB5285A4A: Interrupted system call
+Jul 14, 2018 22:34:27.871 [0x7f9dda2d6780] INFO - [I] device_manager_t::term
+Jul 14, 2018 22:34:27.871 [0x7f9dda2d6780] INFO - [I] device_manager_t::term. Stop all devices
+Jul 14, 2018 22:34:27.871 [0x7f9dda2d6780] INFO - [I] device_manager_t::term. Shut down all device auxes
+Jul 14, 2018 22:34:27.872 [0x7f9dda2d6780] INFO - [I] tvbutler_aux_t::term
+Jul 14, 2018 22:34:27.873 [0x7f9dda2d6780] INFO - [I] web_server_t::stop. Web server is stopped
+Jul 14, 2018 22:34:27.873 [0x7f9dda2d6780] INFO - [I] device_manager_t::term
+Jul 14, 2018 22:34:27.873 [0x7f9dda2d6780] INFO - [I] device_manager_t::term. Stop all devices
+Jul 14, 2018 22:34:27.873 [0x7f9dda2d6780] INFO - [I] device_manager_t::term. Shut down all device auxes
+Jul 14, 2018 22:34:27.873 [0x7f9dda2d6780] INFO - [I] broker_t::shutdown. Shutdown is completed.

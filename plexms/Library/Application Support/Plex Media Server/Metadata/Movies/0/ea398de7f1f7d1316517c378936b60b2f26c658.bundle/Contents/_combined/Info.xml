@@ -1,0 +1,584 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Movie>
+  <art>
+    <item external="True" url="http://image.tmdb.org/t/p/original/kKI7MkhmWDWIVcXT5I2cWxcS1vw.jpg" sort_order="1" provider="com.plexapp.agents.imdb" media="com.plexapp.agents.imdb_2896c0c567d90ad05ccfac89c6df2a0779eb87b1"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/wacEk5YSNE41QeKseilyytksXmv.jpg" preview="com.plexapp.agents.imdb_cf22d24e4891ecc204a84562a448b1999593d5ab" sort_order="2" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/x5EUEv1N9g4BCX9GQXKvv3nqMVo.jpg" preview="com.plexapp.agents.imdb_a53b655c39fa42d7edac19ff411abc1c02e11548" sort_order="3" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/8jyF6QCJYM9vi8uIftHHSUlOl4z.jpg" preview="com.plexapp.agents.imdb_1ae8efbe76f122c22eb66eebe44ca2ae936f9b0e" sort_order="4" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/iyRYmyt7vET1jr38Y1hFk0IRQnG.jpg" preview="com.plexapp.agents.imdb_f64e16c3bf265b8ebf495903392664f88ae28c39" sort_order="5" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/4brL0RspR69mh7ETFmMFmzLqPsp.jpg" preview="com.plexapp.agents.imdb_74adf65060b5545a0c169f28b6c8e5e4d28d290a" sort_order="6" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/5T3P3JEQAScQWjBRajabsvOQnfH.jpg" preview="com.plexapp.agents.imdb_3f685c8cc85c3d8ad591aa683460018b104d07c5" sort_order="7" provider="com.plexapp.agents.imdb"/>
+  </art>
+  <banners/>
+  <chapters>
+    <item index="0">
+      <title>Chapter 1</title>
+      <end_time_offset>761000</end_time_offset>
+      <start_time_offset>0</start_time_offset>
+    </item>
+    <item index="1">
+      <title>Chapter 2</title>
+      <end_time_offset>1313000</end_time_offset>
+      <start_time_offset>761000</start_time_offset>
+    </item>
+    <item index="2">
+      <title>Chapter 3</title>
+      <end_time_offset>1976000</end_time_offset>
+      <start_time_offset>1313000</start_time_offset>
+    </item>
+    <item index="3">
+      <title>Chapter 4</title>
+      <end_time_offset>2643000</end_time_offset>
+      <start_time_offset>1976000</start_time_offset>
+    </item>
+    <item index="4">
+      <title>Chapter 5</title>
+      <end_time_offset>3381000</end_time_offset>
+      <start_time_offset>2643000</start_time_offset>
+    </item>
+    <item index="5">
+      <title>Chapter 6</title>
+      <end_time_offset>4204000</end_time_offset>
+      <start_time_offset>3381000</start_time_offset>
+    </item>
+    <item index="6">
+      <title>Chapter 7</title>
+      <end_time_offset>4863000</end_time_offset>
+      <start_time_offset>4204000</start_time_offset>
+    </item>
+    <item index="7">
+      <title>Chapter 8</title>
+      <end_time_offset>5248000</end_time_offset>
+      <start_time_offset>4863000</start_time_offset>
+    </item>
+    <item index="8">
+      <title>Chapter 9</title>
+      <end_time_offset>6079000</end_time_offset>
+      <start_time_offset>5248000</start_time_offset>
+    </item>
+    <item index="9">
+      <title>Chapter 10</title>
+      <end_time_offset>6616000</end_time_offset>
+      <start_time_offset>6079000</start_time_offset>
+    </item>
+    <item index="10">
+      <title>Chapter 11</title>
+      <end_time_offset>7276000</end_time_offset>
+      <start_time_offset>6616000</start_time_offset>
+    </item>
+    <item index="11">
+      <title>Chapter 12</title>
+      <end_time_offset>-1</end_time_offset>
+      <start_time_offset>7276000</start_time_offset>
+    </item>
+  </chapters>
+  <collections/>
+  <content_rating>R</content_rating>
+  <countries>
+    <item index="0">USA</item>
+  </countries>
+  <directors>
+    <item index="0">
+      <photo/>
+      <role/>
+      <name>Nicolai Fuglsig</name>
+    </item>
+  </directors>
+  <duration>7800000</duration>
+  <genres>
+    <item index="0">Action</item>
+    <item index="1">Drama</item>
+    <item index="2">History</item>
+    <item index="3">War</item>
+  </genres>
+  <originally_available_at>2018-01-16</originally_available_at>
+  <posters>
+    <item external="True" url="http://image.tmdb.org/t/p/original/j18021qCeRi3yUBtqd2UFj1c0RQ.jpg" sort_order="1" provider="com.plexapp.agents.imdb" media="com.plexapp.agents.imdb_351b05597638f09d901950c7e3e42f146e8a1dec"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/aJ9p9mYn4MnPUQnrbqzblmVHoL.jpg" preview="com.plexapp.agents.imdb_c09df18a95a5262a13a4ee88c0b4b10fde7b22f0" sort_order="2" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/aGFvoacEOClm0QtnEFDOBNXA6JH.jpg" preview="com.plexapp.agents.imdb_eaf91de38bbe857e4ad2f99f52b5546155af31d8" sort_order="3" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/iFVFgcOEikwkf9gTBpWjDw7l69S.jpg" preview="com.plexapp.agents.imdb_3e749083fa0b01f5af7d6da1a135a478cf0a998b" sort_order="4" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/yu6bI1T064wK8WXEpws5fow0sua.jpg" preview="com.plexapp.agents.imdb_6b69c567cec153808cfc9c7d9909c7957169106d" sort_order="5" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/ln4WDPh5HKF37ihlm4nJC2SpEGA.jpg" preview="com.plexapp.agents.imdb_b4b30ef83737042180a9cb527b8a5110111eba07" sort_order="6" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/cYarc5YhqInPtLIsChBh1Dsv7cC.jpg" preview="com.plexapp.agents.imdb_1312f8935e1cbe1d33d3c7757d918e37299b9964" sort_order="7" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/pUDMsDWh3ESeMIp0sqMNBYIEqSv.jpg" preview="com.plexapp.agents.imdb_06430ea24b6b625e9b3a53c40e5985ca526eb3e0" sort_order="8" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/f67TlohGmOFCtE97ocRSCUq6Yo.jpg" preview="com.plexapp.agents.imdb_ae5b85471bba2076f0de2fda91a1710fe1edc60e" sort_order="9" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/lv1GufsFili8gHhO1n9gYWJx3z4.jpg" preview="com.plexapp.agents.imdb_03f4a922c8a88e4a3fd2a38ada43386081689652" sort_order="10" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/r3jEE0rEFoAvjjLElk2qmgsY8Sf.jpg" preview="com.plexapp.agents.imdb_992a69ecc4d00545c1771bbb081cdba8aa365e4a" sort_order="11" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/4wehFAeEogl5IC2mJBSUdUXTw1T.jpg" preview="com.plexapp.agents.imdb_691bb9808e18e626b321d7e64f7bb361d9004e4b" sort_order="12" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/wSvOPKw8qoOw1Wh7qFfFcSDbMHX.jpg" preview="com.plexapp.agents.imdb_10557b62a1eed2fb71458a0238641a294c093138" sort_order="13" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/onQTiwGNXr46bq2R39JIIAy26fu.jpg" preview="com.plexapp.agents.imdb_7a5ad255d89edc36e2ed875761ba9e32c7f84e08" sort_order="14" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/xiiyh02DvmfoIJYZFHE3CJren50.jpg" preview="com.plexapp.agents.imdb_4e9a7fc2c01e2c6cd01321a5eacb4f3316953ecb" sort_order="15" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/n8100Q9P1nbprNMl788LhZAKBQk.jpg" preview="com.plexapp.agents.imdb_127a0487a53e2594c86c1b482fcde397f0dbcdb0" sort_order="16" provider="com.plexapp.agents.imdb"/>
+  </posters>
+  <producers>
+    <item index="0">
+      <photo>http://image.tmdb.org/t/p/original/lQu9eRzRX264j2LFQwvKC50wb9s.jpg</photo>
+      <role/>
+      <name>Jerry Bruckheimer</name>
+    </item>
+    <item index="1">
+      <photo>http://image.tmdb.org/t/p/original/slnwMyaoNK6IY4LYjdNUHIEdm5Y.jpg</photo>
+      <role/>
+      <name>Thad Luckinbill</name>
+    </item>
+    <item index="2">
+      <photo/>
+      <role/>
+      <name>Trent Luckinbill</name>
+    </item>
+    <item index="3">
+      <photo/>
+      <role/>
+      <name>Molly Smith</name>
+    </item>
+  </producers>
+  <rating>5.4</rating>
+  <rating_image>rottentomatoes://image.rating.rotten</rating_image>
+  <audience_rating>6.5</audience_rating>
+  <audience_rating_image>rottentomatoes://image.rating.spilled</audience_rating_image>
+  <reviews>
+    <item index="0">
+      <text>The Horse Soldiers' story is unconventional, and the film-produced by uber-slickster Jerry Bruckheimer-has been shaped along conventional war-movie lines.</text>
+      <source>New York Magazine/Vulture</source>
+      <image>rottentomatoes://image.review.rotten</image>
+      <link>http://www.vulture.com/2018/01/review-12-strong-is-an-underwhelming-tribute-to-soldiers.html</link>
+      <author>David Edelstein</author>
+    </item>
+    <item index="1">
+      <text>Although the characters are all types, the performances are strong enough that we identify with them despite their lack of depth.</text>
+      <source>ReelViews</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>http://www.reelviews.net/reelviews/12-strong</link>
+      <author>James Berardinelli</author>
+    </item>
+    <item index="2">
+      <text>It's all solid from a technical perspective. Where the film could have used more power is in its narrative momentum.</text>
+      <source>RogerEbert.com</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>https://www.rogerebert.com/reviews/12-strong-2018</link>
+      <author>Christy Lemire</author>
+    </item>
+    <item index="3">
+      <text>Never delves deep enough to examine the larger involvement of the U.S. and those ramifications, but "12 Strong" manages to infuse heart and character into this adrenaline-fueled war film</text>
+      <source>Tribune News Service</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>http://triblive.com/aande/movies/13195301-74/review-adrenaline-fueled-12-strong-explores-how-and-why-men-fight</link>
+      <author>Katie Walsh</author>
+    </item>
+    <item index="4">
+      <text>Fuglsig's feature debut is ultimately less an action movie and more a procedural, one in which incremental gains and minimal casualties are as much as can be hoped for.</text>
+      <source>indieWire</source>
+      <image>rottentomatoes://image.review.rotten</image>
+      <link>http://www.indiewire.com/2018/01/12-strong-review-chris-hemsworth-michael-shannon-1201918960/</link>
+      <author>Michael Nordine</author>
+    </item>
+    <item index="5">
+      <text>Shannon and Hemsworth employ all their uncomplicated masculine charisma, and the war scenes are pumped with adrenaline.</text>
+      <source>Newark Star-Ledger</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>http://www.nj.com/entertainment/index.ssf/2018/01/12_strong_review_chris_hemsworth_fights_the_taliba.html</link>
+      <author>Stephen Whitty</author>
+    </item>
+    <item index="6">
+      <text>Put aside your hindsight and at least you'll be rewarded with some invigorating action.</text>
+      <source>Globe and Mail</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>https://www.theglobeandmail.com/arts/film/film-reviews/review-12-strong-is-highly-watchable-but-stuffed-with-cliches/article37655603/</link>
+      <author>Kate Taylor</author>
+    </item>
+    <item index="7">
+      <text>"12 Strong" does its best to tell a story of heroism from a dark chapter in our history, but its reality is much more complicated.</text>
+      <source>Detroit News</source>
+      <image>rottentomatoes://image.review.rotten</image>
+      <link>http://www.detroitnews.com/story/entertainment/movies/2018/01/19/movie-review-hero-story-undercooked-strong/109585730/</link>
+      <author>Adam Graham</author>
+    </item>
+    <item index="8">
+      <text>Combat scenes seem more interested in the faces than the fracas, missions are undertaken with no apparent outcome, and great difficulties loom and then dissolve like mist.</text>
+      <source>San Diego Reader</source>
+      <image>rottentomatoes://image.review.rotten</image>
+      <link>https://www.sandiegoreader.com/movies/12-strong/</link>
+      <author>Matthew Lickona</author>
+    </item>
+    <item index="9">
+      <text>What makes "12 Strong" objectionable - and what will also make it appealing to some - is its attempt to induce a kind of amnesia in the audience ...</text>
+      <source>Los Angeles Times</source>
+      <image>rottentomatoes://image.review.rotten</image>
+      <link>http://beta.latimes.com/entertainment/movies/la-et-mn-12-strong-review-20180118-story.html</link>
+      <author>Justin Chang</author>
+    </item>
+    <item index="10">
+      <text>If you want to feel good about a war with no end, this one's for you.</text>
+      <source>Time Out</source>
+      <image>rottentomatoes://image.review.rotten</image>
+      <link>https://www.timeout.com/us/film/12-strong</link>
+      <author>Joshua Rothkopf</author>
+    </item>
+    <item index="11">
+      <text>"12 Strong" lacks depth but fulfills its mission to entertain.</text>
+      <source>St. Louis Post-Dispatch</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>http://www.stltoday.com/entertainment/movies/reviews/strong-avoids-politics-but-fulfills-mission-to-entertain/article_1280eb71-f2f3-5ef5-a682-210615f61ecc.html</link>
+      <author>Calvin Wilson</author>
+    </item>
+    <item index="12">
+      <text>... the numbers don't add up; the movie lacks a discernible attitude toward those desperate days in America's history.</text>
+      <source>Wall Street Journal</source>
+      <image>rottentomatoes://image.review.rotten</image>
+      <link>https://www.wsj.com/articles/12-strong-review-fiery-heroism-pale-reflection-1516312602</link>
+      <author>Joe Morgenstern</author>
+    </item>
+    <item index="13">
+      <text>This is not a movie with time on its hands for character development or scrappy political discussions. What 12 Strong does deliver is a rousing tribute to soldiers whose contributions went unheralded for years.</text>
+      <source>Rolling Stone</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>https://www.rollingstone.com/movies/reviews/12-strong-review-he-man-war-movie-is-horse-of-a-different-color-w515451</link>
+      <author>Peter Travers</author>
+    </item>
+    <item index="14">
+      <text>It tells its story, about 12 American special-forces soldiers who spearhead a decisive battle in Afghanistan against the Taliban, with both laudable restraint and a healthy respect for what actually happened.</text>
+      <source>Toronto Star</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>https://www.thestar.com/entertainment/movies/2018/01/18/12-strong-brings-authenticity-to-the-battlefield.html</link>
+      <author>Bruce Demara</author>
+    </item>
+    <item index="15">
+      <text>It's a remarkable true tale of great heroism.</text>
+      <source>Seattle Times</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>https://www.seattletimes.com/entertainment/movies/12-strong-chris-hemsworth-leads-tale-of-war-heroism-after-911/?utm_source=RSS&amp;utm_medium=Referral&amp;utm_campaign=RSS_movies</link>
+      <author>Soren Anderson</author>
+    </item>
+    <item index="16">
+      <text>12 Strong winds up being an almost-good film about some great American soldiers.</text>
+      <source>Chicago Sun-Times</source>
+      <image>rottentomatoes://image.review.rotten</image>
+      <link>https://chicago.suntimes.com/entertainment/the-war-horsemen-ride-to-afghanistans-rescue-in-cliche-collection-12-strong/</link>
+      <author>Richard Roeper</author>
+    </item>
+    <item index="17">
+      <text>More often than not, "12 Strong" feels like a sports movie, where all the stakes rest not on matters of honor and duty, but on a single field goal.</text>
+      <source>Washington Post</source>
+      <image>rottentomatoes://image.review.rotten</image>
+      <link>https://www.washingtonpost.com/goingoutguide/movies/12-strong-formulaic-war-movie-tells-the-true-story-of-american-horse-soldiers-of-afghanistan/2018/01/17/4607d59a-f6f8-11e7-a9e3-ab18ce41436a_story.html?utm_term=.b5342be7e0bc</link>
+      <author>Michael O'Sullivan</author>
+    </item>
+    <item index="18">
+      <text>A fairly straightforward and enjoyable movie about an extremely complicated and demoralizing war. Its goal is to focus on a small group of heroes, and it shows little interest in the bigger picture.</text>
+      <source>Newsday</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>https://www.newsday.com/entertainment/movies/12-strong-review-1.16241988</link>
+      <author>Rafer Guzman</author>
+    </item>
+    <item index="19">
+      <text>For devotees of cinematic blowouts and dedicated students of screen masculinity (like me), "12 Strong" is premium, Grade A catnip.</text>
+      <source>New York Times</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>https://www.nytimes.com/2018/01/18/movies/12-strong-review-chris-hemsworth.html</link>
+      <author>Manohla Dargis</author>
+    </item>
+  </reviews>
+  <roles>
+    <item index="0">
+      <photo>http://image.tmdb.org/t/p/original/lrhth7yK9p3vy6p7AabDUM1THKl.jpg</photo>
+      <role>Captain Mitch Nelson</role>
+      <name>Chris Hemsworth</name>
+    </item>
+    <item index="1">
+      <photo>http://image.tmdb.org/t/p/original/5yGCJ6znHM96zTfW2LNP6uPPDCZ.jpg</photo>
+      <role>Chief Warrant Officer Hal Spencer</role>
+      <name>Michael Shannon</name>
+    </item>
+    <item index="2">
+      <photo>http://image.tmdb.org/t/p/original/oqlIKSglghuX7kSTalODn71nlOd.jpg</photo>
+      <role>Sgt First Class Sam Diller</role>
+      <name>Michael Peña</name>
+    </item>
+    <item index="3">
+      <photo>http://image.tmdb.org/t/p/original/knTgoykLiZsbONTwYmz1je9MwA6.jpg</photo>
+      <role>Sgt First Class Ben Milo</role>
+      <name>Trevante Rhodes</name>
+    </item>
+    <item index="4">
+      <photo>http://image.tmdb.org/t/p/original/qxp9X0SIA0FWts2qK60IcrmUhnF.jpg</photo>
+      <role>General Dostum</role>
+      <name>Navid Negahban</name>
+    </item>
+    <item index="5">
+      <photo>http://image.tmdb.org/t/p/original/qK8b5FKl5UZmVPTPFYiWyGKCnf7.jpg</photo>
+      <role>Sean Coffers</role>
+      <name>Geoff Stults</name>
+    </item>
+    <item index="6">
+      <photo>http://image.tmdb.org/t/p/original/slnwMyaoNK6IY4LYjdNUHIEdm5Y.jpg</photo>
+      <role>Vern Michaels</role>
+      <name>Thad Luckinbill</name>
+    </item>
+    <item index="7">
+      <photo>http://image.tmdb.org/t/p/original/su6KMYwfr4qVXRjlXi4u0h16Fxg.jpg</photo>
+      <role>Fred Falls</role>
+      <name>Austin Stowell</name>
+    </item>
+    <item index="8">
+      <photo>http://image.tmdb.org/t/p/original/f9cCCp1PlRZo4sWdwppHTeOC8kZ.jpg</photo>
+      <role>Scott Black</role>
+      <name>Ben O'Toole</name>
+    </item>
+    <item index="9">
+      <photo>http://image.tmdb.org/t/p/original/2BjaGPVBIC2EKoPaEWj06JpRQMh.jpg</photo>
+      <role>Charles Jones</role>
+      <name>Jack Kesy</name>
+    </item>
+    <item index="10">
+      <photo>http://image.tmdb.org/t/p/original/ybLWM4LBYrsqZ3h2qgn2zOUiIX0.jpg</photo>
+      <role>Commander Khaled</role>
+      <name>Fahim Fazli</name>
+    </item>
+    <item index="11">
+      <photo>http://image.tmdb.org/t/p/original/knNYAZnXpSBwsYd9et4ui7wpiCI.jpg</photo>
+      <role>Sgt First Class Pat Essex</role>
+      <name>Austin Hébert</name>
+    </item>
+    <item index="12">
+      <photo>http://image.tmdb.org/t/p/original/nZJyQ3oYZOVsCs6wN9RbVObUCix.jpg</photo>
+      <role>Sergeant First Class Bill Bennett</role>
+      <name>Kenny Sheard</name>
+    </item>
+    <item index="13">
+      <photo>http://image.tmdb.org/t/p/original/c1km2kqasJT9GTISMbBZpp3jbuR.jpg</photo>
+      <role>Jean Nelson</role>
+      <name>Elsa Pataky</name>
+    </item>
+    <item index="14">
+      <photo>http://image.tmdb.org/t/p/original/lEB2ryIlwygt5msLv4ICxPKBYxX.jpg</photo>
+      <role>Captain</role>
+      <name>Yousuf Azami</name>
+    </item>
+    <item index="15">
+      <photo>http://image.tmdb.org/t/p/original/vdGTrPJG95AhBXr3xId5Fj8cTCu.jpg</photo>
+      <role>Brian</role>
+      <name>Taylor Sheridan</name>
+    </item>
+    <item index="16">
+      <photo>http://image.tmdb.org/t/p/original/oIGjbztWvTqn4tnolW9rDCjpgxu.jpg</photo>
+      <role>Colonel Mulholland</role>
+      <name>William Fichtner</name>
+    </item>
+    <item index="17">
+      <photo>http://image.tmdb.org/t/p/original/tWh7aVLl82jxX6U0f7tRTN7Sw3S.jpg</photo>
+      <role>Colonel Max Bowers</role>
+      <name>Rob Riggle</name>
+    </item>
+    <item index="18">
+      <photo>http://image.tmdb.org/t/p/original/96H85Q9PeSovgXdw2ofGZSOTQNO.jpg</photo>
+      <role>Teacher</role>
+      <name>Yasmine Aker</name>
+    </item>
+    <item index="19">
+      <photo>http://image.tmdb.org/t/p/original/cyqkUNw6uAzXlgh3AydW6UyHcph.jpg</photo>
+      <role>Maddy Nelson</role>
+      <name>Marie Wagenman</name>
+    </item>
+    <item index="20">
+      <photo>http://image.tmdb.org/t/p/original/kmK20UNBpcZCBjUHsA88YVcW34O.jpg</photo>
+      <role>555 Soldier</role>
+      <name>Kevin Kent</name>
+    </item>
+    <item index="21">
+      <photo>http://image.tmdb.org/t/p/original/IY6lzif2ht7mJ4vK7KOOh45xgr.jpg</photo>
+      <role>Lisa Diller</role>
+      <name>Lauren Myers</name>
+    </item>
+    <item index="22">
+      <photo>http://image.tmdb.org/t/p/original/t4FpJLKWdkBNxZlyM3OGLQuI3b6.jpg</photo>
+      <role>Josh</role>
+      <name>Seth Adkins</name>
+    </item>
+    <item index="23">
+      <photo>http://image.tmdb.org/t/p/original/dJxzHvXiuLtqG82kgAwiTzU1DJv.jpg</photo>
+      <role>Marcha Spencer</role>
+      <name>Allison King</name>
+    </item>
+    <item index="24">
+      <photo>http://image.tmdb.org/t/p/original/2uQ0tpbHbR59nmEYNJBMjlmMPtM.jpg</photo>
+      <role>Taliban Fighter</role>
+      <name>Mustafa Haidari</name>
+    </item>
+    <item index="25">
+      <photo>http://image.tmdb.org/t/p/original/9sfAyM1UCwcWa51z6m5Hv8rrdng.jpg</photo>
+      <role>Northern Alliance Soldier / Dostum Flank</role>
+      <name>Shawn Lecrone</name>
+    </item>
+    <item index="26">
+      <photo>http://image.tmdb.org/t/p/original/gisDi6upDyITIEFAenbncAVV912.jpg</photo>
+      <role>SF Civilian</role>
+      <name>Frank Powers</name>
+    </item>
+    <item index="27">
+      <photo>http://image.tmdb.org/t/p/original/nHNZ9uJ02o1ID1Yr5IyRwwcVD73.jpg</photo>
+      <role>Northern Alliance Soldier</role>
+      <name>Martin Palmer</name>
+    </item>
+    <item index="28">
+      <photo>http://image.tmdb.org/t/p/original/1I9yZDO77qqxNT1wdNtjl0XTYQh.jpg</photo>
+      <role>Commander Ahmed Lal</role>
+      <name>Laith Nakli</name>
+    </item>
+    <item index="29">
+      <photo>http://image.tmdb.org/t/p/original/obcEumoCx3pXhhZBZcsImV3OtxQ.jpg</photo>
+      <role>Villiage Elder</role>
+      <name>J. Nathan Simmons</name>
+    </item>
+    <item index="30">
+      <photo/>
+      <role>Lt Henriques</role>
+      <name>Veronica Diaz-Carranza</name>
+    </item>
+    <item index="31">
+      <photo/>
+      <role>Habib</role>
+      <name>Peter Malek</name>
+    </item>
+    <item index="32">
+      <photo/>
+      <role>Afghan Man</role>
+      <name>Ali Olomi</name>
+    </item>
+    <item index="33">
+      <photo/>
+      <role>Al Qaeda Fighter</role>
+      <name>Shvan Aladdin</name>
+    </item>
+    <item index="34">
+      <photo/>
+      <role>Jackson</role>
+      <name>Kenneth Miller</name>
+    </item>
+    <item index="35">
+      <photo/>
+      <role>Special Forces First Sargent</role>
+      <name>Tim Aydelott</name>
+    </item>
+    <item index="36">
+      <photo/>
+      <role>Desk Sargent</role>
+      <name>Matthew Van Wettering</name>
+    </item>
+    <item index="37">
+      <photo/>
+      <role>Newmark</role>
+      <name>James Joseph Pulido</name>
+    </item>
+    <item index="38">
+      <photo/>
+      <role>Dostums bodyguard</role>
+      <name>Shawn Sarmeidani</name>
+    </item>
+    <item index="39">
+      <photo/>
+      <role>Taliban Fighter</role>
+      <name>Anouar H. Smaine</name>
+    </item>
+    <item index="40">
+      <photo/>
+      <role>Afghany Mother</role>
+      <name>Nour Bitar</name>
+    </item>
+    <item index="41">
+      <photo/>
+      <role>Taliban / New Alliance</role>
+      <name>Edward Butron</name>
+    </item>
+    <item index="42">
+      <photo/>
+      <role>SF Soldier</role>
+      <name>Christian Pedersen</name>
+    </item>
+    <item index="43">
+      <photo/>
+      <role>Najeeb</role>
+      <name>Arshia Mandavi</name>
+    </item>
+    <item index="44">
+      <photo>http://image.tmdb.org/t/p/original/fzs5OJEkfO0wKHJPZxLRZKf09aU.jpg</photo>
+      <role>Captain Nosorog</role>
+      <name>Nate Boyer</name>
+    </item>
+    <item index="45">
+      <photo/>
+      <role>Taliban Soldier</role>
+      <name>Adrian Luna</name>
+    </item>
+    <item index="46">
+      <photo/>
+      <role>Special Forces Captain</role>
+      <name>Benjamin Poe</name>
+    </item>
+    <item index="47">
+      <photo/>
+      <role>Afghani Girl</role>
+      <name>Perla Daoud</name>
+    </item>
+    <item index="48">
+      <photo/>
+      <role>Village Elder</role>
+      <name>Michael E. Stogner</name>
+    </item>
+    <item index="49">
+      <photo/>
+      <role>Taliban Soldier</role>
+      <name>Lawrence Gilligan</name>
+    </item>
+    <item index="50">
+      <photo/>
+      <role>Soldier</role>
+      <name>Michael Sercerchi</name>
+    </item>
+    <item index="51">
+      <photo/>
+      <role>Chinook Pilot</role>
+      <name>Tommy Truex</name>
+    </item>
+  </roles>
+  <similar>
+    <item index="0">Den of Thieves</item>
+    <item index="1">The Commuter</item>
+    <item index="2">Braven</item>
+    <item index="3">Only the Brave</item>
+    <item index="4">Death Wish</item>
+    <item index="5">Hostiles</item>
+    <item index="6">The 15:17 to Paris</item>
+    <item index="7">The Wall</item>
+    <item index="8">The Hurricane Heist</item>
+    <item index="9">The Foreigner</item>
+    <item index="10">Escape Plan 2: Hades</item>
+    <item index="11">Thank You for Your Service</item>
+    <item index="12">American Assassin</item>
+    <item index="13">Geostorm</item>
+    <item index="14">Pacific Rim: Uprising</item>
+    <item index="15">Samson</item>
+    <item index="16">Rampage</item>
+    <item index="17">All the Money in the World</item>
+    <item index="18">24 Hours to Live</item>
+    <item index="19">Game Night</item>
+  </similar>
+  <studio>Jerry Bruckheimer Films</studio>
+  <summary>A team of CIA agents and special forces head into Afghanistan in the aftermath of the September 11th attacks in an attempt to dismantle the Taliban.</summary>
+  <tagline>The declassified true story of the horse soldiers</tagline>
+  <tags/>
+  <themes/>
+  <title>12 Strong</title>
+  <writers>
+    <item index="0">
+      <photo/>
+      <role/>
+      <name>Ted Tally</name>
+    </item>
+    <item index="1">
+      <photo>http://image.tmdb.org/t/p/original/yzJp4yfpJnbnXJXkJC8qpfX2s9y.jpg</photo>
+      <role/>
+      <name>Peter Craig</name>
+    </item>
+  </writers>
+  <year>2018</year>
+</Movie>

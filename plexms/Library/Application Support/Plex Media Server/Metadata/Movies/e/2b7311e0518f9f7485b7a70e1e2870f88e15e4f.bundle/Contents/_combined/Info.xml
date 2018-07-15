@@ -1,0 +1,377 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Movie>
+  <art>
+    <item external="True" url="http://image.tmdb.org/t/p/original/rJFPXPRPqGPIRzWLRfqvWz9lAkN.jpg" sort_order="1" provider="com.plexapp.agents.imdb" media="com.plexapp.agents.imdb_59f3879b763be0382ba7123c31cc1209e339f3a6"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/2tQ4Hf7LJMHvqZrJCEDmAY9LoBX.jpg" preview="com.plexapp.agents.imdb_7d317d7bbc54bc0c941438d3d0413314183d2e1c" sort_order="2" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/xiROFhMD30QLWY9mVPaGBH5hUR7.jpg" preview="com.plexapp.agents.imdb_dfb4eac7062c16ab10fca72acbbbdc81c60ad3d0" sort_order="3" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/q0WHcme22Qlr7Bj5ys6Hv82Yr28.jpg" preview="com.plexapp.agents.imdb_b2ab4cd88fcfd9269578deaa6396eb6d72764ba2" sort_order="4" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/dGefBlufvQyXsEvVCQCAmhYU2Iu.jpg" preview="com.plexapp.agents.imdb_fdd24e918b02e2c747ba837a6e5a6bd0393f07bc" sort_order="5" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/mzB8SKE5HwIV7pHWALBbRqEvwXj.jpg" preview="com.plexapp.agents.imdb_592c3a5ada49fa0e53ac96b26bbd7e429bacc0e4" sort_order="6" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/tHWo5ZyZ5HY9vsrPOWYT5pNvvcc.jpg" preview="com.plexapp.agents.imdb_abe450ab7d8616a16e6704e01cca04d4a93cf237" sort_order="7" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/bbN5G6IyECAPnUgBznddu9bclgQ.jpg" preview="com.plexapp.agents.imdb_1ad9280d40e7ae86b9324ddfefd176d1b6a47a4f" sort_order="8" provider="com.plexapp.agents.imdb"/>
+  </art>
+  <banners/>
+  <chapters>
+    <item index="0">
+      <title>Main Title/The Best</title>
+      <end_time_offset>366000</end_time_offset>
+      <start_time_offset>0</start_time_offset>
+    </item>
+    <item index="1">
+      <title>The Double Deuce</title>
+      <end_time_offset>1000000</end_time_offset>
+      <start_time_offset>366000</start_time_offset>
+    </item>
+    <item index="2">
+      <title>New Wheels and Digs</title>
+      <end_time_offset>1263000</end_time_offset>
+      <start_time_offset>1000000</start_time_offset>
+    </item>
+    <item index="3">
+      <title>The Rules</title>
+      <end_time_offset>1679000</end_time_offset>
+      <start_time_offset>1263000</start_time_offset>
+    </item>
+    <item index="4">
+      <title>A Good Night</title>
+      <end_time_offset>2110000</end_time_offset>
+      <start_time_offset>1679000</start_time_offset>
+    </item>
+    <item index="5">
+      <title>Dead Man</title>
+      <end_time_offset>2422000</end_time_offset>
+      <start_time_offset>2110000</start_time_offset>
+    </item>
+    <item index="6">
+      <title>Brawn &amp; Brains</title>
+      <end_time_offset>2936000</end_time_offset>
+      <start_time_offset>2422000</start_time_offset>
+    </item>
+    <item index="7">
+      <title>Improvement Society</title>
+      <end_time_offset>3434000</end_time_offset>
+      <start_time_offset>2936000</start_time_offset>
+    </item>
+    <item index="8">
+      <title>Wade</title>
+      <end_time_offset>3858000</end_time_offset>
+      <start_time_offset>3434000</start_time_offset>
+    </item>
+    <item index="9">
+      <title>Some Kind of Life</title>
+      <end_time_offset>4117000</end_time_offset>
+      <start_time_offset>3858000</start_time_offset>
+    </item>
+    <item index="10">
+      <title>The Town Ruler</title>
+      <end_time_offset>4452000</end_time_offset>
+      <start_time_offset>4117000</start_time_offset>
+    </item>
+    <item index="11">
+      <title>Physical Examination</title>
+      <end_time_offset>4818000</end_time_offset>
+      <start_time_offset>4452000</start_time_offset>
+    </item>
+    <item index="12">
+      <title>Old Buddies</title>
+      <end_time_offset>5015000</end_time_offset>
+      <start_time_offset>4818000</start_time_offset>
+    </item>
+    <item index="13">
+      <title>Firestarter</title>
+      <end_time_offset>5512000</end_time_offset>
+      <start_time_offset>5015000</start_time_offset>
+    </item>
+    <item index="14">
+      <title>Monster Truck</title>
+      <end_time_offset>6010000</end_time_offset>
+      <start_time_offset>5512000</start_time_offset>
+    </item>
+    <item index="15">
+      <title>Called Out</title>
+      <end_time_offset>-1</end_time_offset>
+      <start_time_offset>6010000</start_time_offset>
+    </item>
+  </chapters>
+  <collections/>
+  <content_rating>R</content_rating>
+  <countries>
+    <item index="0">USA</item>
+  </countries>
+  <directors>
+    <item index="0">
+      <photo/>
+      <role/>
+      <name>Rowdy Herrington</name>
+    </item>
+  </directors>
+  <duration>6840000</duration>
+  <genres>
+    <item index="0">Action</item>
+    <item index="1">Thriller</item>
+  </genres>
+  <originally_available_at>1989-05-19</originally_available_at>
+  <posters>
+    <item external="True" url="http://image.tmdb.org/t/p/original/epxeFRI1Ig3CU7hnz9pZVkarfOz.jpg" sort_order="1" provider="com.plexapp.agents.imdb" media="com.plexapp.agents.imdb_5cd8f6091ec488c9eede027999e0246b361bdc58"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/fSiDWJ7EyA4JVVlPHwhFzYmWYDG.jpg" preview="com.plexapp.agents.imdb_855007849f88a40f21a63bf8a4c478f5b6775868" sort_order="2" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/qU5l5HfPTbXKWFdTENtUZpKhgqv.jpg" preview="com.plexapp.agents.imdb_dd7abec9cc8aca4853b757af867680cef5919f87" sort_order="3" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/ynZzJj7uM6UuGM97GWFidMLqp0i.jpg" preview="com.plexapp.agents.imdb_e7f582ba49f55a36faeebbfd8df0afbc6bb3f555" sort_order="4" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/cSOLI186bfMdKUaDm2G8rptMRbX.jpg" preview="com.plexapp.agents.imdb_e502e05dc9538bf733ef1e8e54607918b3e6808a" sort_order="5" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/ou9OiWb22pNFy22VyOrgkhNPZHc.jpg" preview="com.plexapp.agents.imdb_a56de7410170f55b7cfe4c272e0acc008ac6b12f" sort_order="6" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/ly16hncdEhJm9mo0wmEI0JaMbfr.jpg" preview="com.plexapp.agents.imdb_2e38b523be4198749aa7aa256fa9dec388195629" sort_order="7" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/9BNIgyAf3VgK38wKEWGO5F2Ikgu.jpg" preview="com.plexapp.agents.imdb_2076d9ef63bd67aefa69441d9b6a237f44ab7925" sort_order="8" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/H7F1hwzq6Sac1TZsrJaJ4Uj5Lu.jpg" preview="com.plexapp.agents.imdb_5e086dd47a66be2f6847c483c7f3b4766bad0464" sort_order="9" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/sLIRRfOI8MaSx119dVVrAUkCZQf.jpg" preview="com.plexapp.agents.imdb_ed18a6d97d7557584b747adfa5c74afaaca5651f" sort_order="10" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/lgXTw3pnj6CmlLeJBcW5d9yc6WR.jpg" preview="com.plexapp.agents.imdb_0bd60849f7cdc2decc2a0a23ba19a031521e7f2d" sort_order="11" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/nVOjWpfvTDRCALPRUkbiWURTSen.jpg" preview="com.plexapp.agents.imdb_fd6711cdf2e2b799986abe41267224b12ac0592d" sort_order="12" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/9uBIHDqNDTxhafx8DtbSP1v5ZZT.jpg" preview="com.plexapp.agents.imdb_371258a1ebb8d1050cacf66734ec7ab3ad0bc980" sort_order="13" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/zR0XttsSPksmn3rNvurZVlZkWIC.jpg" preview="com.plexapp.agents.imdb_2641ecf4861d962fced19b5b6d917deb760c7b35" sort_order="14" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/3Jrrm7a8HFxweysOdXPduK9llNQ.jpg" preview="com.plexapp.agents.imdb_169873300690bd9652e9680bdc71114719608972" sort_order="15" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/god0Xc4yjXSVpIHWGxx2MxzL3OE.jpg" preview="com.plexapp.agents.imdb_7eac4967bbb3e70923b751cf0fdf110665b3f362" sort_order="16" provider="com.plexapp.agents.imdb"/>
+  </posters>
+  <producers>
+    <item index="0">
+      <photo>http://image.tmdb.org/t/p/original/9BUSlPpIAEQYtRdzVrSXaivld04.jpg</photo>
+      <role/>
+      <name>Joel Silver</name>
+    </item>
+  </producers>
+  <rating>3.8</rating>
+  <rating_image>rottentomatoes://image.rating.rotten</rating_image>
+  <audience_rating>6.6</audience_rating>
+  <audience_rating_image>rottentomatoes://image.rating.spilled</audience_rating_image>
+  <reviews>
+    <item index="0">
+      <text>Road House is startling because of the intensity of its violence and because of Swayze's mindless posturing.</text>
+      <source>Chicago Tribune</source>
+      <image>rottentomatoes://image.review.rotten</image>
+      <link>http://articles.chicagotribune.com/1989-05-19/entertainment/8902020495_1_star-flick-mcclurg-court</link>
+      <author>Gene Siskel</author>
+    </item>
+    <item index="1">
+      <text>All Road House amounts to is a botched southern, and it's not worth a detour.</text>
+      <source>Philadelphia Inquirer</source>
+      <image>rottentomatoes://image.review.rotten</image>
+      <link>http://www.philly.com/philly_movies.rss</link>
+      <author>Desmond Ryan</author>
+    </item>
+    <item index="2">
+      <text>Eventually it mutates into a paranoid revenge plot that might be called Walking Short.</text>
+      <source>Chicago Reader</source>
+      <image>rottentomatoes://image.review.rotten</image>
+      <link>http://www.chicagoreader.com/chicago/road-house/Film?oid=2732537</link>
+      <author>Jonathan Rosenbaum</author>
+    </item>
+    <item index="3">
+      <text>Its vigilante justice, lawlessness and wanton violence feel ludicrous in a modern setting.</text>
+      <source>Variety</source>
+      <image>rottentomatoes://image.review.rotten</image>
+      <link>http://www.variety.com/review/VE1117794498.html?categoryid=31&amp;cs=1</link>
+      <author>Variety Staff</author>
+    </item>
+    <item index="4">
+      <text>Mindless entertainment of the highest order.</text>
+      <source>Time Out</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>http://www.timeout.com/film/reviews/76807/road_house.html</link>
+      <author/>
+    </item>
+    <item index="5">
+      <text>Road House lays out its story with the subtlety of a wrestling match, and probably with less sharpness or savvy.</text>
+      <source>Washington Post</source>
+      <image>rottentomatoes://image.review.rotten</image>
+      <link>http://www.washingtonpost.com/wp-srv/style/longterm/movies/videos/roadhouserhinson_a0a927.htm</link>
+      <author>Hal Hinson</author>
+    </item>
+    <item index="6">
+      <text>This is not a good movie. But viewed in the right frame of mind, it is not a boring one, either.</text>
+      <source>Chicago Sun-Times</source>
+      <image>rottentomatoes://image.review.rotten</image>
+      <link>http://www.rogerebert.com/reviews/road-house-1989</link>
+      <author>Roger Ebert</author>
+    </item>
+  </reviews>
+  <roles>
+    <item index="0">
+      <photo>http://image.tmdb.org/t/p/original/b5G8AGP609DsUeokQ1asnqYJBSl.jpg</photo>
+      <role>James Dalton</role>
+      <name>Patrick Swayze</name>
+    </item>
+    <item index="1">
+      <photo>http://image.tmdb.org/t/p/original/2ZbV0mppAxxyh4mIG4HKTHfLkDM.jpg</photo>
+      <role>Dr. Elizabeth Clay</role>
+      <name>Kelly Lynch</name>
+    </item>
+    <item index="2">
+      <photo>http://image.tmdb.org/t/p/original/f2AxZZ6d0Cit0tmf6wYTHcGfwT9.jpg</photo>
+      <role>Wade Garrett</role>
+      <name>Sam Elliott</name>
+    </item>
+    <item index="3">
+      <photo>http://image.tmdb.org/t/p/original/ywxPLxBIZU7nUx0HcNHD1xSXy0w.jpg</photo>
+      <role>Brad Wesley</role>
+      <name>Ben Gazzara</name>
+    </item>
+    <item index="4">
+      <photo>http://image.tmdb.org/t/p/original/qRDCvSWg76O071pggoGeru30SGk.jpg</photo>
+      <role>Jimmy</role>
+      <name>Marshall R. Teague</name>
+    </item>
+    <item index="5">
+      <photo>http://image.tmdb.org/t/p/original/zvLoCe27ecwnddDCxjB7uflXa8q.jpg</photo>
+      <role>Denise</role>
+      <name>Julie Michaels</name>
+    </item>
+    <item index="6">
+      <photo>http://image.tmdb.org/t/p/original/acW4XSH8M1CYgfoJLpceOX9XOBe.jpg</photo>
+      <role>Red Webster</role>
+      <name>Red West</name>
+    </item>
+    <item index="7">
+      <photo/>
+      <role>Emmet</role>
+      <name>Sunshine Parker</name>
+    </item>
+    <item index="8">
+      <photo>http://image.tmdb.org/t/p/original/5Q1Z89xsrnLdQWdHLuiaraS89vV.jpg</photo>
+      <role>Tilghman</role>
+      <name>Kevin Tighe</name>
+    </item>
+    <item index="9">
+      <photo>http://image.tmdb.org/t/p/original/EuDIT3BBTqkkLKD8wgp7MwuGCx.jpg</photo>
+      <role>Pat McGurn</role>
+      <name>John Doe</name>
+    </item>
+    <item index="10">
+      <photo>http://image.tmdb.org/t/p/original/53qB97B6QJeMtqeENUH1TyiM9BW.jpg</photo>
+      <role>Carrie</role>
+      <name>Kathleen Wilhoite</name>
+    </item>
+    <item index="11">
+      <photo/>
+      <role>Jack</role>
+      <name>Travis McKenna</name>
+    </item>
+    <item index="12">
+      <photo>http://image.tmdb.org/t/p/original/fVX5UUZPX8YV52V8ATuI6hAgbde.jpg</photo>
+      <role>Younger</role>
+      <name>Roger Hewlett</name>
+    </item>
+    <item index="13">
+      <photo>http://image.tmdb.org/t/p/original/iaOIeKW3Og5gYxNnsHpEJsnldBR.jpg</photo>
+      <role>Bandstand Bouncer</role>
+      <name>Bob Jennings</name>
+    </item>
+    <item index="14">
+      <photo>http://image.tmdb.org/t/p/original/dxSlkPMnjaCHH5z6wNTW4NCYuW7.jpg</photo>
+      <role>Party Girl</role>
+      <name>Kym Malin</name>
+    </item>
+    <item index="15">
+      <photo/>
+      <role>Cody</role>
+      <name>Jeff Healey</name>
+    </item>
+    <item index="16">
+      <photo>http://image.tmdb.org/t/p/original/fHnzZ2e0djGf2NZut16YAmOAAbs.jpg</photo>
+      <role>Steve</role>
+      <name>Gary Hudson</name>
+    </item>
+    <item index="17">
+      <photo>http://image.tmdb.org/t/p/original/ebDUtKHeOv2mZthv8cLfKWev2Vi.jpg</photo>
+      <role>Karpis</role>
+      <name>Joe Unger</name>
+    </item>
+    <item index="18">
+      <photo/>
+      <role>Judy (as Sheila Caan)</role>
+      <name>Sheila Ryan</name>
+    </item>
+    <item index="19">
+      <photo>http://image.tmdb.org/t/p/original/nwAC9TgwRkj0Ritq93O8GeublyL.jpg</photo>
+      <role>Ernie Bass</role>
+      <name>Keith David</name>
+    </item>
+    <item index="20">
+      <photo>http://image.tmdb.org/t/p/original/jl8F0Nv4dQJqg1014baS5eiHWaR.jpg</photo>
+      <role>Bandstand Babe</role>
+      <name>Patricia Tallman</name>
+    </item>
+    <item index="21">
+      <photo/>
+      <role>Party Girl</role>
+      <name>Heidi Paine</name>
+    </item>
+    <item index="22">
+      <photo/>
+      <role>Party Girl</role>
+      <name>Jacklyn Palmer</name>
+    </item>
+    <item index="23">
+      <photo>http://image.tmdb.org/t/p/original/pjGjbASqtLeVAxq1GJstTRbLp63.jpg</photo>
+      <role>Strip Joint Girl</role>
+      <name>Laura Albert</name>
+    </item>
+    <item index="24">
+      <photo>http://image.tmdb.org/t/p/original/npq8ambyy8BvldZNARgD3gCKF9u.jpg</photo>
+      <role>Strip Joint Girl</role>
+      <name>Christina Veronica</name>
+    </item>
+    <item index="25">
+      <photo/>
+      <role>Strip Joint Girl</role>
+      <name>Jasae</name>
+    </item>
+    <item index="26">
+      <photo/>
+      <role>Strip Joint Girl</role>
+      <name>Michele Burger</name>
+    </item>
+    <item index="27">
+      <photo>http://image.tmdb.org/t/p/original/1sv31PtOnQmCMKizK2rEfplv4jf.jpg</photo>
+      <role>Morgan</role>
+      <name>Terry Funk</name>
+    </item>
+  </roles>
+  <similar>
+    <item index="0">Stakeout</item>
+    <item index="1">48 Hrs.</item>
+    <item index="2">City Slickers</item>
+    <item index="3">Young Guns</item>
+    <item index="4">Striking Distance</item>
+    <item index="5">Red Dawn</item>
+    <item index="6">Smokey and the Bandit</item>
+    <item index="7">Men at Work</item>
+    <item index="8">Ransom</item>
+    <item index="9">Under Siege</item>
+    <item index="10">The Last Boy Scout</item>
+    <item index="11">Red Heat</item>
+    <item index="12">The Jewel of the Nile</item>
+    <item index="13">The Long Kiss Goodnight</item>
+    <item index="14">Cobra</item>
+    <item index="15">Risky Business</item>
+    <item index="16">Raw Deal</item>
+    <item index="17">Iron Eagle</item>
+    <item index="18">Broken Arrow</item>
+    <item index="19">Hard to Kill</item>
+  </similar>
+  <studio>United Artists</studio>
+  <summary>The Double Deuce is the meanest, loudest and rowdiest bar south of the Mason-Dixon Line, and Dalton (Patrick Swayze) has been hired to clean it up. He might not look like much, but the Ph.D.-educated bouncer proves he's more than capable -- busting the heads of troublemakers and turning the roadhouse into a jumping hot-spot. But Dalton's romance with the gorgeous Dr. Clay (Kelly Lynch) puts him on the bad side of cutthroat local big shot Brad Wesley (Ben Gazzara).</summary>
+  <tagline>Dalton lives like a loner, fights like a professional. And loves like there's no tomorrow.</tagline>
+  <tags/>
+  <themes/>
+  <title>Road House</title>
+  <writers>
+    <item index="0">
+      <photo/>
+      <role/>
+      <name>David Lee Henry</name>
+    </item>
+    <item index="1">
+      <photo/>
+      <role/>
+      <name>Hilary Henkin</name>
+    </item>
+  </writers>
+  <year>1989</year>
+</Movie>

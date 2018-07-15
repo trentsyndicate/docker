@@ -1,0 +1,721 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Movie>
+  <art>
+    <item external="True" url="http://image.tmdb.org/t/p/original/szytSpLAyBh3ULei3x663mAv5ZT.jpg" sort_order="1" provider="com.plexapp.agents.imdb" media="com.plexapp.agents.imdb_19866f619e0d1a5826be31a2e3b91917fa84985e"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/aRpjibK5lb8DdGuwwz7vbekyJK3.jpg" preview="com.plexapp.agents.imdb_56891f1f1b33c396fce81d7bd0194cb237c1f388" sort_order="2" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/bksWgF2FVHNR9YmV3aRLdqisbx4.jpg" preview="com.plexapp.agents.imdb_20f3fe0cbc5241c80ff50f023dd879f561840086" sort_order="3" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/3rhYu6wdnLorVbvTwGkXLqneh7F.jpg" preview="com.plexapp.agents.imdb_8d18fe9bcddb7ecdd2f8d238435368a578e9089f" sort_order="4" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/wYqsFpVYfEjqrIQHo0C6kGBlLTT.jpg" preview="com.plexapp.agents.imdb_b553ce697cc3949a96b7f711e1aa8031fa08a63e" sort_order="5" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/3EZbjPoeQ55lNGVTAuwteSNbgZZ.jpg" preview="com.plexapp.agents.imdb_53c9e9aa683ce9b04f6461b8e354d818e8dd3d39" sort_order="6" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/dHiZbNgCG5FtGr8UlNTewvGGJo3.jpg" preview="com.plexapp.agents.imdb_aae31e1df9cc652230b6699a647d7a3ff1edb3e4" sort_order="7" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/jXflDtkQYTId9myQQ2EQNb66YHW.jpg" preview="com.plexapp.agents.imdb_6f021ee289e002c1cc469d09a5d58bd31d4fd1c3" sort_order="8" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/kaHXByeErA4MYbdw4aeCuHDZsIP.jpg" preview="com.plexapp.agents.imdb_4f60d2c582c3edae01f45601f609ad3a845a1dd0" sort_order="9" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/JmhaE48vw1m5g5hT7vz7IhNG5z.jpg" preview="com.plexapp.agents.imdb_655076ebf833ee7d756695431c261862b19d9f3b" sort_order="10" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/kVEGqKtcuT1eguyYmrOjYKcQ6B2.jpg" preview="com.plexapp.agents.imdb_e7a4c4abfe8bb25bd26958690267a55f2edb7029" sort_order="11" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/8fW3GPYTFUCutgfh77LbGbw3yQI.jpg" preview="com.plexapp.agents.imdb_aca1752aaad3f83c1af4da9545fe70587b9e73bc" sort_order="12" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/qRapb707Nez85Ap47X62yISs61y.jpg" preview="com.plexapp.agents.imdb_ec09848105919ac0d8b6554e8a016d9f0dfbdc68" sort_order="13" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/aFlzwBkvnbWQn7arN4AUvmaNq9a.jpg" preview="com.plexapp.agents.imdb_1385c82e157df4049dfa0bd28f56c09057a4bac9" sort_order="14" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/qLaomZEv8pOMhkMELCwKRpUHnMP.jpg" preview="com.plexapp.agents.imdb_f86d1cdb19b667611f5cbe46654552eaf2607033" sort_order="15" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/prDYjuAjDWFLpsxe8kw9C8jPm8D.jpg" preview="com.plexapp.agents.imdb_4969ffcc9fd14e29a8ee3995b0be0b03528f2c40" sort_order="16" provider="com.plexapp.agents.imdb"/>
+  </art>
+  <banners/>
+  <chapters>
+    <item index="0">
+      <title>Golden Days</title>
+      <end_time_offset>442000</end_time_offset>
+      <start_time_offset>0</start_time_offset>
+    </item>
+    <item index="1">
+      <title>The Move</title>
+      <end_time_offset>696000</end_time_offset>
+      <start_time_offset>442000</start_time_offset>
+    </item>
+    <item index="2">
+      <title>Joy and Sadness</title>
+      <end_time_offset>946000</end_time_offset>
+      <start_time_offset>696000</start_time_offset>
+    </item>
+    <item index="3">
+      <title>Bedtime</title>
+      <end_time_offset>1202000</end_time_offset>
+      <start_time_offset>946000</start_time_offset>
+    </item>
+    <item index="4">
+      <title>Embarrassed</title>
+      <end_time_offset>1521000</end_time_offset>
+      <start_time_offset>1202000</start_time_offset>
+    </item>
+    <item index="5">
+      <title>Outer Edge</title>
+      <end_time_offset>1607000</end_time_offset>
+      <start_time_offset>1521000</start_time_offset>
+    </item>
+    <item index="6">
+      <title>Dinner</title>
+      <end_time_offset>1810000</end_time_offset>
+      <start_time_offset>1607000</start_time_offset>
+    </item>
+    <item index="7">
+      <title>Mind Map</title>
+      <end_time_offset>2085000</end_time_offset>
+      <start_time_offset>1810000</start_time_offset>
+    </item>
+    <item index="8">
+      <title>Forgetters</title>
+      <end_time_offset>2162000</end_time_offset>
+      <start_time_offset>2085000</start_time_offset>
+    </item>
+    <item index="9">
+      <title>Friendship</title>
+      <end_time_offset>2265000</end_time_offset>
+      <start_time_offset>2162000</start_time_offset>
+    </item>
+    <item index="10">
+      <title>Saved</title>
+      <end_time_offset>2487000</end_time_offset>
+      <start_time_offset>2265000</start_time_offset>
+    </item>
+    <item index="11">
+      <title>Abstract Thought</title>
+      <end_time_offset>2615000</end_time_offset>
+      <start_time_offset>2487000</start_time_offset>
+    </item>
+    <item index="12">
+      <title>Imagination Land</title>
+      <end_time_offset>2719000</end_time_offset>
+      <start_time_offset>2615000</start_time_offset>
+    </item>
+    <item index="13">
+      <title>No More Hockey</title>
+      <end_time_offset>2811000</end_time_offset>
+      <start_time_offset>2719000</start_time_offset>
+    </item>
+    <item index="14">
+      <title>Sad Bing Bong</title>
+      <end_time_offset>3002000</end_time_offset>
+      <start_time_offset>2811000</start_time_offset>
+    </item>
+    <item index="15">
+      <title>The Big Idea</title>
+      <end_time_offset>3094000</end_time_offset>
+      <start_time_offset>3002000</start_time_offset>
+    </item>
+    <item index="16">
+      <title>Dream Productions</title>
+      <end_time_offset>3372000</end_time_offset>
+      <start_time_offset>3094000</start_time_offset>
+    </item>
+    <item index="17">
+      <title>Subconscious</title>
+      <end_time_offset>3603000</end_time_offset>
+      <start_time_offset>3372000</start_time_offset>
+    </item>
+    <item index="18">
+      <title>Riley Plans</title>
+      <end_time_offset>3677000</end_time_offset>
+      <start_time_offset>3603000</start_time_offset>
+    </item>
+    <item index="19">
+      <title>Train of Thought</title>
+      <end_time_offset>3830000</end_time_offset>
+      <start_time_offset>3677000</start_time_offset>
+    </item>
+    <item index="20">
+      <title>Crossroads</title>
+      <end_time_offset>3987000</end_time_offset>
+      <start_time_offset>3830000</start_time_offset>
+    </item>
+    <item index="21">
+      <title>Memory Dump</title>
+      <end_time_offset>4275000</end_time_offset>
+      <start_time_offset>3987000</start_time_offset>
+    </item>
+    <item index="22">
+      <title>Back Up</title>
+      <end_time_offset>4420000</end_time_offset>
+      <start_time_offset>4275000</start_time_offset>
+    </item>
+    <item index="23">
+      <title>She's Gone</title>
+      <end_time_offset>4538000</end_time_offset>
+      <start_time_offset>4420000</start_time_offset>
+    </item>
+    <item index="24">
+      <title>Return</title>
+      <end_time_offset>4800000</end_time_offset>
+      <start_time_offset>4538000</start_time_offset>
+    </item>
+    <item index="25">
+      <title>Change Her Mind</title>
+      <end_time_offset>5037000</end_time_offset>
+      <start_time_offset>4800000</start_time_offset>
+    </item>
+    <item index="26">
+      <title>Epilogue</title>
+      <end_time_offset>5178000</end_time_offset>
+      <start_time_offset>5037000</start_time_offset>
+    </item>
+    <item index="27">
+      <title>End Credits</title>
+      <end_time_offset>-1</end_time_offset>
+      <start_time_offset>5178000</start_time_offset>
+    </item>
+  </chapters>
+  <collections/>
+  <content_rating>PG</content_rating>
+  <countries>
+    <item index="0">USA</item>
+  </countries>
+  <directors>
+    <item index="0">
+      <photo>http://image.tmdb.org/t/p/original/r6ngPgnReA3RHmKjmSoVsc6Awjp.jpg</photo>
+      <role/>
+      <name>Pete Docter</name>
+    </item>
+  </directors>
+  <duration>5700000</duration>
+  <genres>
+    <item index="0">Animation</item>
+    <item index="1">Adventure</item>
+    <item index="2">Comedy</item>
+    <item index="3">Drama</item>
+    <item index="4">Family</item>
+    <item index="5">Fantasy</item>
+  </genres>
+  <originally_available_at>2015-06-09</originally_available_at>
+  <posters>
+    <item external="True" url="http://image.tmdb.org/t/p/original/aAmfIX3TT40zUHGcCKrlOZRKC7u.jpg" sort_order="1" provider="com.plexapp.agents.imdb" media="com.plexapp.agents.imdb_20360c6efc0788c932deebc8496e3024f96c89b1"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/hwwIFa4IQbjON8JLZS7wjbOSYMH.jpg" preview="com.plexapp.agents.imdb_47c653805ac93597ac6f99b115a2ebae76eaf4f5" sort_order="2" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/vQqGtWCKdzC69GOJqjRUYXrikK8.jpg" preview="com.plexapp.agents.imdb_d225d94f8f7861616b8a63d1dc7b01a34788c5a8" sort_order="3" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/lRHE0vzf3oYJrhbsHXjIkF4Tl5A.jpg" preview="com.plexapp.agents.imdb_9fc3b734f22d1d660a4309c15ce4017e5b314bf1" sort_order="4" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/sHtQ7pXWLrmtg1frDOtowuMqPLQ.jpg" preview="com.plexapp.agents.imdb_47c0934ff18980c0a447f9c3f7353394be455d6c" sort_order="5" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/yl8Xhnmm7Nl05AcSzNaH68lGXhl.jpg" preview="com.plexapp.agents.imdb_34400e104f03578b1d754b916f04cce6e6cafbf4" sort_order="6" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/pxBI7PlZCfMPcYduFitsZhHlKvo.jpg" preview="com.plexapp.agents.imdb_8a63d4b60fbe2b9d4d2252184bfe8ae322a85c7a" sort_order="7" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/8edV72VfHPyNVlFyiQWjsF9KgtK.jpg" preview="com.plexapp.agents.imdb_2e87df070809c313d861d32ace1f6e002a0865b5" sort_order="8" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/zZqrQLZs764xp5C7LMUmFjriZtP.jpg" preview="com.plexapp.agents.imdb_ce946c5e53f56871f142a25b6070478d8a9fa04d" sort_order="9" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/A2CZLMLnwDbvkaYFjlQZ1dZ4Ofd.jpg" preview="com.plexapp.agents.imdb_e3ad3d40e82f35976f82a2eb3d7675804eea1d61" sort_order="10" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/iYxBluTDAgy6YpkLVlGSA5uGt45.jpg" preview="com.plexapp.agents.imdb_5061ff6065df05a4cc490c8dade59757c1e9afc6" sort_order="11" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/aTnNTNm4jvndbTHNVXTnPeKAY3h.jpg" preview="com.plexapp.agents.imdb_a3f14951703ec451658d51c77528cb828b9e28b8" sort_order="12" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/rDycdoAXtBb7hoWlBpZqbwk2F44.jpg" preview="com.plexapp.agents.imdb_bb857dc6b280d9ca11bfdf9bf14c665b25968b98" sort_order="13" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/5RY4Am9qcDT2RjlzWV6UcROgJIi.jpg" preview="com.plexapp.agents.imdb_42da8ac6e923dd925fffbfce0ea0371438165c6d" sort_order="14" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/7BDKYPEDA3UUQCX9AKzCkn8wgV7.jpg" preview="com.plexapp.agents.imdb_9e7e03cdd810c2fa037ea8431ba10781a5cb8cd6" sort_order="15" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/mMNDpkhKoyRT1NLD6KYpu4DnS6N.jpg" preview="com.plexapp.agents.imdb_2acfe848ea5300984ca0584acf98c305a01ce4c9" sort_order="16" provider="com.plexapp.agents.imdb"/>
+  </posters>
+  <producers>
+    <item index="0">
+      <photo/>
+      <role/>
+      <name>Jonas Rivera</name>
+    </item>
+  </producers>
+  <rating>9.8</rating>
+  <rating_image>rottentomatoes://image.rating.ripe</rating_image>
+  <audience_rating>8.9</audience_rating>
+  <audience_rating_image>rottentomatoes://image.rating.upright</audience_rating_image>
+  <reviews>
+    <item index="0">
+      <text>This is a movie that dares to explore existential crises, in the middle of the summer, in an animated movie that's aimed at the whole family</text>
+      <source>ChristyLemire.com</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>http://christylemire.com/inside-out/</link>
+      <author>Christy Lemire</author>
+    </item>
+    <item index="1">
+      <text>On the scale of inventiveness, "Inside Out" will be hard to top this year. As so often with Pixar, you feel that you are visiting a laboratory crossed with a rainbow.</text>
+      <source>New Yorker</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>http://www.newyorker.com/magazine/2015/06/29/head-trips</link>
+      <author>Anthony Lane</author>
+    </item>
+    <item index="2">
+      <text>Welcome back, Pixar. You were sorely missed.</text>
+      <source>The Atlantic</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>http://www.theatlantic.com/entertainment/archive/2015/06/inside-out-review-pixar/396311/</link>
+      <author>Christopher Orr</author>
+    </item>
+    <item index="3">
+      <text>The challenge here involves maintaining a believable humanity while also making an entertaining case that humanity is impossible without the proper emotional configuration. And in meeting that challenge, the movie keeps surprising and delighting you.</text>
+      <source>Grantland</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>http://grantland.com/hollywood-prospectus/so-emotional-the-sensational-high-of-inside-out-and-utter-shock-of-the-tribe/</link>
+      <author>Wesley Morris</author>
+    </item>
+    <item index="4">
+      <text>It's all very Freudian, or Jungian, or whatever, and little kids may get lost, but there's real verve in the animation and wit in the byplay.</text>
+      <source>Christian Science Monitor</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>http://www.csmonitor.com/The-Culture/Movies/2015/0619/Inside-Out-There-s-verve-in-the-animation-and-wit-in-the-byplay</link>
+      <author>Peter Rainer</author>
+    </item>
+    <item index="5">
+      <text>Inside Out is the best American-produced animated film we have seen in many summers and deserves to be recognized as such.</text>
+      <source>ReelViews</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>http://www.reelviews.net/reelviews/inside-out</link>
+      <author>James Berardinelli</author>
+    </item>
+    <item index="6">
+      <text>Inside Out is the first psychological thriller that's fun for the whole family. Really psychological. And really fun.</text>
+      <source>Philadelphia Inquirer</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>http://www.philly.com/philly/entertainment/movies/20150619_Pixar_scores_with_bold__whimsical__Inside_Out_.html</link>
+      <author>Steven Rea</author>
+    </item>
+    <item index="7">
+      <text>Inside Out is imaginative and ambitious, even if it sometimes feels a bit manically overstuffed. And it's definitely a big step up from some recent Pixar films, such as Cars 2 and Monsters University.</text>
+      <source>Globe and Mail</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>http://www.theglobeandmail.com/arts/film/film-reviews/inside-out-pixars-latest-offers-a-fun-filled-inside-look-at-emotions/article25026513/</link>
+      <author>Liam Lacey</author>
+    </item>
+    <item index="8">
+      <text>At times, you ache to put the brakes on the chaos, but still Pixar manages to do what it does best, turning the everyday rough and smooth of childhood experience into a thoughtful, inventive adventure.</text>
+      <source>Time Out</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>http://www.timeout.com/us/film/inside-out-2015</link>
+      <author>Dave Calhoun</author>
+    </item>
+    <item index="9">
+      <text>What's most refreshing about "Inside Out" is its inversion of the standard prescriptions of big-budget animation: It's ultimately about the importance of embracing sadness.</text>
+      <source>Associated Press</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>http://news.yahoo.com/review-pixars-inside-cacophony-childhood-191121157.html</link>
+      <author>Jake Coyle</author>
+    </item>
+    <item index="10">
+      <text>Inside Out isn't just a sign of renewed youth from Pixar. It's the reason Pixar exists.</text>
+      <source>NPR</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>http://www.npr.org/2015/06/18/414701069/from-the-inside-out-a-lively-look-inside-a-young-mind?utm_medium=RSS&amp;utm_campaign=movies</link>
+      <author>Andrew Lapin</author>
+    </item>
+    <item index="11">
+      <text>Only in the medium of animation could a conceit as elaborate as Inside Out's be dramatized, and only animation this well-designed and executed could bring such a story so vibrantly to life.</text>
+      <source>Slate</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>http://www.slate.com/articles/arts/movies/2015/06/inside_out_review_pixar_s_astonishing_new_movie_will_change_the_way_you.html</link>
+      <author>Dana Stevens</author>
+    </item>
+    <item index="12">
+      <text>It's good to get your emotions in check before watching the exquisite Inside Out. You're bound to feel the whole bunch watching a child's mind come alive in the most imaginative ways.</text>
+      <source>USA Today</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>http://www.usatoday.com/story/life/movies/2015/06/18/inside-out-movie-review/28872569/</link>
+      <author>Brian Truitt</author>
+    </item>
+    <item index="13">
+      <text>It's not unusual for a film about childhood loss to be this funny while it sets about the work of making you cry; it is unusual for it to be this much fun.</text>
+      <source>San Diego Reader</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>http://www.sandiegoreader.com/movies/inside-out/</link>
+      <author>Matthew Lickona</author>
+    </item>
+    <item index="14">
+      <text>Buddy films have always been about balancing opposite urges. Here the balance mirrors not only what's needed for great art, but also for mental and spiritual healing.</text>
+      <source>Dallas Morning News</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>http://www.guidelive.com/movie-reviews/2015/06/18/brilliantly-inventive-inside-takes-rollicking-romp-childs-emotions</link>
+      <author>Nancy Churnin</author>
+    </item>
+    <item index="15">
+      <text>As funny, stirring, unpredictable, exciting and riotously beautiful as it is profound.</text>
+      <source>Wall Street Journal</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>http://www.wsj.com/articles/inside-out-review-pixars-brilliant-life-of-the-mind-1434643424</link>
+      <author>Joe Morgenstern</author>
+    </item>
+    <item index="16">
+      <text>The best animated movies are made as much for the grown-ups who will accompany the children as for the kids themselves. That's certainly true of "Inside Out" ...</text>
+      <source>St. Louis Post-Dispatch</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>http://www.stltoday.com/entertainment/movies/reviews/pixar-s-inside-out-is-an-emotional-charmer/article_af08af9d-0450-5023-8ef8-e2caa196e043.html</link>
+      <author>Gail Pennington</author>
+    </item>
+    <item index="17">
+      <text>Inside Out, the latest Disney-Pixar coproduction, feels like a clever educational short stretched to feature length.</text>
+      <source>Chicago Reader</source>
+      <image>rottentomatoes://image.review.rotten</image>
+      <link>http://www.chicagoreader.com/chicago/inside-out-pete-docter-disney-pixar-animation/Content?oid=18038469</link>
+      <author>Ben Sachs</author>
+    </item>
+  </reviews>
+  <roles>
+    <item index="0">
+      <photo>http://image.tmdb.org/t/p/original/uMGW762oDZbR8jhFJRImJ1ls5cd.jpg</photo>
+      <role>Joy (voice)</role>
+      <name>Amy Poehler</name>
+    </item>
+    <item index="1">
+      <photo>http://image.tmdb.org/t/p/original/jSheKnNOV5UJq4RNMbpFT3ONniy.jpg</photo>
+      <role>Sadness (voice)</role>
+      <name>Phyllis Smith</name>
+    </item>
+    <item index="2">
+      <photo>http://image.tmdb.org/t/p/original/xpLufPiiFgoCEdIMqD4RY79PKGb.jpg</photo>
+      <role>Bing Bong (voice)</role>
+      <name>Richard Kind</name>
+    </item>
+    <item index="3">
+      <photo>http://image.tmdb.org/t/p/original/3Z5JsyLw7YTLZgpA3FAlLmFSN9F.jpg</photo>
+      <role>Fear (voice)</role>
+      <name>Bill Hader</name>
+    </item>
+    <item index="4">
+      <photo>http://image.tmdb.org/t/p/original/rtlzszC0uPvHZtrXzwYNT9jYPsU.jpg</photo>
+      <role>Anger (voice)</role>
+      <name>Lewis Black</name>
+    </item>
+    <item index="5">
+      <photo>http://image.tmdb.org/t/p/original/m4veWEp9TEDallTZRobb7MLkd9K.jpg</photo>
+      <role>Disgust (voice)</role>
+      <name>Mindy Kaling</name>
+    </item>
+    <item index="6">
+      <photo>http://image.tmdb.org/t/p/original/ey3Cvdw1EFR1OnKyHo8E7NoPHHg.jpg</photo>
+      <role>Riley (voice)</role>
+      <name>Kaitlyn Dias</name>
+    </item>
+    <item index="7">
+      <photo>http://image.tmdb.org/t/p/original/81fhEMQlbhQ3mbI5ghq9RUrjkLB.jpg</photo>
+      <role>Mom (voice)</role>
+      <name>Diane Lane</name>
+    </item>
+    <item index="8">
+      <photo>http://image.tmdb.org/t/p/original/t9slRTMH3sGlUbITmpmbLLZEukO.jpg</photo>
+      <role>Dad (voice)</role>
+      <name>Kyle MacLachlan</name>
+    </item>
+    <item index="9">
+      <photo>http://image.tmdb.org/t/p/original/9NnG2VHQyypmeW33gPRVMDxolo7.jpg</photo>
+      <role>Forgetter Paula (voice)</role>
+      <name>Paula Poundstone</name>
+    </item>
+    <item index="10">
+      <photo>http://image.tmdb.org/t/p/original/oMnwyuUAJOUWLgG3nomfQqtRvzf.jpg</photo>
+      <role>Forgetter Bobby (voice)</role>
+      <name>Bobby Moynihan</name>
+    </item>
+    <item index="11">
+      <photo>http://image.tmdb.org/t/p/original/rsGZfTkEydD1lYGpPwLgfXiLUn3.jpg</photo>
+      <role>Dream Director / Mom's Anger / Additional Voices (voice)</role>
+      <name>Paula Pell</name>
+    </item>
+    <item index="12">
+      <photo>http://image.tmdb.org/t/p/original/hVfv7gsUPDRDFxUk7fyCktIL7Ar.jpg</photo>
+      <role>Subconscious Guard Frank (voice)</role>
+      <name>Dave Goelz</name>
+    </item>
+    <item index="13">
+      <photo>http://image.tmdb.org/t/p/original/aLH5bYwMIlVxCe4rIDaEsVJqDKn.jpg</photo>
+      <role>Subconscious Guard Dave (voice)</role>
+      <name>Frank Oz</name>
+    </item>
+    <item index="14">
+      <photo>http://image.tmdb.org/t/p/original/yctxPn9Nk0ACFuf4KRUbbeYSxjT.jpg</photo>
+      <role>Jangles (voice)</role>
+      <name>Josh Cooley</name>
+    </item>
+    <item index="15">
+      <photo>http://image.tmdb.org/t/p/original/3mvSPp8RpuuPJUuNwq9PyjFu2Ug.jpg</photo>
+      <role>Mind Worker Cop Jake (voice)</role>
+      <name>Flea</name>
+    </item>
+    <item index="16">
+      <photo>http://image.tmdb.org/t/p/original/yGechiKWL6TJDfVE2KPSJYqdMsY.jpg</photo>
+      <role>Fritz (voice)</role>
+      <name>John Ratzenberger</name>
+    </item>
+    <item index="17">
+      <photo>http://image.tmdb.org/t/p/original/o62NevO1Vt9n1MdYsWOsDyhUt3A.jpg</photo>
+      <role>Brazilian Pilot / Additional Voices (voice)</role>
+      <name>Carlos Alazraqui</name>
+    </item>
+    <item index="18">
+      <photo>http://image.tmdb.org/t/p/original/j2iFR2GC2sXC4CPuzDzHEqAIpis.jpg</photo>
+      <role>Clown's Joy (voice)</role>
+      <name>Peter Sagal</name>
+    </item>
+    <item index="19">
+      <photo>http://image.tmdb.org/t/p/original/jjp33eRM6oavyesW0UM6XBCxQSa.jpg</photo>
+      <role>Cool Girl's Emotions (voice)</role>
+      <name>Rashida Jones</name>
+    </item>
+    <item index="20">
+      <photo>http://image.tmdb.org/t/p/original/mNfJWzuaKgkIaK7CuirXOMosd2h.jpg</photo>
+      <role>Additional Voices (voice)</role>
+      <name>Lori Alan</name>
+    </item>
+    <item index="21">
+      <photo>http://image.tmdb.org/t/p/original/fIb7F9PiTY8kcWfmRlgZ2G7FMOh.jpg</photo>
+      <role>Additional Voices (voice)</role>
+      <name>Gregg Berger</name>
+    </item>
+    <item index="22">
+      <photo/>
+      <role>Additional Voices (voice)</role>
+      <name>Aurora Blue</name>
+    </item>
+    <item index="23">
+      <photo/>
+      <role>Additional Voices (voice)</role>
+      <name>Veronika Bonell</name>
+    </item>
+    <item index="24">
+      <photo/>
+      <role>Additional Voices (voice)</role>
+      <name>Lola Cooley</name>
+    </item>
+    <item index="25">
+      <photo>http://image.tmdb.org/t/p/original/peq0EjfKWVDQ8Gr83v0UO1wuFn6.jpg</photo>
+      <role>Additional Voices (voice)</role>
+      <name>John Cygan</name>
+    </item>
+    <item index="26">
+      <photo/>
+      <role>Additional Voices (voice)</role>
+      <name>Dani Dare</name>
+    </item>
+    <item index="27">
+      <photo/>
+      <role>Additional Voices (voice)</role>
+      <name>Andrea Datzman</name>
+    </item>
+    <item index="28">
+      <photo/>
+      <role>Additional Voices (voice)</role>
+      <name>Ronnie del Carmen</name>
+    </item>
+    <item index="29">
+      <photo>http://image.tmdb.org/t/p/original/r6ngPgnReA3RHmKjmSoVsc6Awjp.jpg</photo>
+      <role>Additional Voices (voice)</role>
+      <name>Pete Docter</name>
+    </item>
+    <item index="30">
+      <photo>http://image.tmdb.org/t/p/original/sXZ1nVUUnt36PPC0LbhrcZKK7id.jpg</photo>
+      <role>Additional Voices (voice)</role>
+      <name>Keith Ferguson</name>
+    </item>
+    <item index="31">
+      <photo>http://image.tmdb.org/t/p/original/jlSBVbXA5UAvQSOnmterUF3XQLn.jpg</photo>
+      <role>Additional Voices (voice)</role>
+      <name>Tony Fucile</name>
+    </item>
+    <item index="32">
+      <photo>http://image.tmdb.org/t/p/original/cxnX6F7ZmfXmMKcdLuRXa7GKvGz.jpg</photo>
+      <role>Additional Voices (voice)</role>
+      <name>Mary Gibbs</name>
+    </item>
+    <item index="33">
+      <photo/>
+      <role>Additional Voices (voice)</role>
+      <name>Randy Hahn</name>
+    </item>
+    <item index="34">
+      <photo>http://image.tmdb.org/t/p/original/9RXGqHKK1a1hJ0qag0vjlmejTRh.jpg</photo>
+      <role>Additional Voices (voice)</role>
+      <name>Carter Hastings</name>
+    </item>
+    <item index="35">
+      <photo>http://image.tmdb.org/t/p/original/5oafwxyGuyn16KusxNxdNf6ackQ.jpg</photo>
+      <role>Additional Voices (voice)</role>
+      <name>Jacob Hopkins</name>
+    </item>
+    <item index="36">
+      <photo/>
+      <role>Additional Voices (voice)</role>
+      <name>Emma Hudak</name>
+    </item>
+    <item index="37">
+      <photo/>
+      <role>Additional Voices (voice)</role>
+      <name>Evan Hudak</name>
+    </item>
+    <item index="38">
+      <photo/>
+      <role>Additional Voices (voice)</role>
+      <name>Dara Iruka</name>
+    </item>
+    <item index="39">
+      <photo/>
+      <role>Additional Voices (voice)</role>
+      <name>Molly Jackson</name>
+    </item>
+    <item index="40">
+      <photo/>
+      <role>Additional Voices (voice)</role>
+      <name>Daniella Jones</name>
+    </item>
+    <item index="41">
+      <photo/>
+      <role>Additional Voices (voice)</role>
+      <name>Sophia Lee Karadi</name>
+    </item>
+    <item index="42">
+      <photo>http://image.tmdb.org/t/p/original/21JKhZc6bTAoHcwSjQhZcdhhx5d.jpg</photo>
+      <role>Additional Voices (voice)</role>
+      <name>Elissa Knight</name>
+    </item>
+    <item index="43">
+      <photo/>
+      <role>Additional Voices (voice)</role>
+      <name>Erik Langley</name>
+    </item>
+    <item index="44">
+      <photo>http://image.tmdb.org/t/p/original/jUcmxF8i2HVrYELV5cOKNfncKVN.jpg</photo>
+      <role>Additional Voices (voice)</role>
+      <name>Dawnn Lewis</name>
+    </item>
+    <item index="45">
+      <photo>http://image.tmdb.org/t/p/original/kQDSC2z7sb6S5HcpOH6cmeJokKE.jpg</photo>
+      <role>Additional Voices (voice)</role>
+      <name>Sherry Lynn</name>
+    </item>
+    <item index="46">
+      <photo/>
+      <role>Additional Voices (voice)</role>
+      <name>Tony Maki</name>
+    </item>
+    <item index="47">
+      <photo>http://image.tmdb.org/t/p/original/9BK7xa1tn6lPIuYOR2fPvUxP6fw.jpg</photo>
+      <role>Additional Voices (voice)</role>
+      <name>Mona Marshall</name>
+    </item>
+    <item index="48">
+      <photo>http://image.tmdb.org/t/p/original/ApYftBOqDMBnVColOQwXIodOt5s.jpg</photo>
+      <role>Additional Voices (voice)</role>
+      <name>Laraine Newman</name>
+    </item>
+    <item index="49">
+      <photo>http://image.tmdb.org/t/p/original/776ZYJGQO4Wer1cDq9XXAZ0z4C1.jpg</photo>
+      <role>Additional Voices (voice)</role>
+      <name>Bret 'Brook' Parker</name>
+    </item>
+    <item index="50">
+      <photo>http://image.tmdb.org/t/p/original/rsGZfTkEydD1lYGpPwLgfXiLUn3.jpg</photo>
+      <role>Additional Voices (voice)</role>
+      <name>Paula Pell</name>
+    </item>
+    <item index="51">
+      <photo/>
+      <role>Additional Voices (voice)</role>
+      <name>Nick Pitera</name>
+    </item>
+    <item index="52">
+      <photo>http://image.tmdb.org/t/p/original/15jVORFFWoRMcqKoeVJQXyEfLVz.jpg</photo>
+      <role>Additional Voices (voice)</role>
+      <name>Phil Proctor</name>
+    </item>
+    <item index="53">
+      <photo/>
+      <role>Additional Voices (voice)</role>
+      <name>Murray Pearl Schaeffer</name>
+    </item>
+    <item index="54">
+      <photo/>
+      <role>Additional Voices (voice)</role>
+      <name>Patrick Seitz</name>
+    </item>
+    <item index="55">
+      <photo>http://image.tmdb.org/t/p/original/em3vVj6UM6eeyEG4JvRJ030G4Kt.jpg</photo>
+      <role>Additional Voices (voice)</role>
+      <name>Paris Van Dyke</name>
+    </item>
+    <item index="56">
+      <photo/>
+      <role>Additional Voices (voice)</role>
+      <name>James Kevin Ward</name>
+    </item>
+    <item index="57">
+      <photo>http://image.tmdb.org/t/p/original/xFQCDJCqDFnmwmIz1l9x5wNzJ2u.jpg</photo>
+      <role>Additional Voices (voice)</role>
+      <name>Jim Ward</name>
+    </item>
+    <item index="58">
+      <photo>http://image.tmdb.org/t/p/original/vCQ9i5QfNb8JyNjRDPcT3xmacEP.jpg</photo>
+      <role>Additional Voices (voice)</role>
+      <name>Lennon Wynn</name>
+    </item>
+    <item index="59">
+      <photo/>
+      <role>Additional Voices (voice)</role>
+      <name>Dashell Zamm</name>
+    </item>
+    <item index="60">
+      <photo>http://image.tmdb.org/t/p/original/8MRcVeLPBvzr368tOhvsLz4BDhl.jpg</photo>
+      <role>Additional Voices (voice) (uncredited)</role>
+      <name>Bob Bergen</name>
+    </item>
+    <item index="61">
+      <photo>http://image.tmdb.org/t/p/original/4cIwealxv1bizPJks34Gfk7okBF.jpg</photo>
+      <role>Additional Voices (voice) (uncredited)</role>
+      <name>Teresa Ganzel</name>
+    </item>
+    <item index="62">
+      <photo>http://image.tmdb.org/t/p/original/28IRdSEiIndu0vuTqV90cZK2uJq.jpg</photo>
+      <role>Additional Voices (voice) (uncredited)</role>
+      <name>Jess Harnell</name>
+    </item>
+    <item index="63">
+      <photo>http://image.tmdb.org/t/p/original/28JtvJrUIcHM4s8HV84ncxPD7Uv.jpg</photo>
+      <role>Additional Voices (voice) (uncredited)</role>
+      <name>Danny Mann</name>
+    </item>
+    <item index="64">
+      <photo>http://image.tmdb.org/t/p/original/k7TjJBfINsg8vLQxJwos6XObAD6.jpg</photo>
+      <role>Additional Voices (voice) (uncredited)</role>
+      <name>Mickie McGowan</name>
+    </item>
+    <item index="65">
+      <photo>http://image.tmdb.org/t/p/original/6mfE6PFzOlKb2Qf4dURbKzLrTTC.jpg</photo>
+      <role>Additional Voices (voice) (uncredited)</role>
+      <name>Jan Rabson</name>
+    </item>
+  </roles>
+  <similar>
+    <item index="0">Zootopia</item>
+    <item index="1">Frozen</item>
+    <item index="2">Big Hero 6</item>
+    <item index="3">Ratatouille</item>
+    <item index="4">Finding Nemo</item>
+    <item index="5">Up</item>
+    <item index="6">Monsters University</item>
+    <item index="7">Toy Story 2</item>
+    <item index="8">The Incredibles</item>
+    <item index="9">Monsters, Inc.</item>
+    <item index="10">Toy Story</item>
+    <item index="11">The Good Dinosaur</item>
+    <item index="12">Toy Story 3</item>
+    <item index="13">How to Train Your Dragon 2</item>
+    <item index="14">Tangled</item>
+    <item index="15">Shrek</item>
+    <item index="16">Brave</item>
+    <item index="17">Finding Dory</item>
+    <item index="18">Shrek 2</item>
+    <item index="19">Ice Age</item>
+  </similar>
+  <studio>Pixar</studio>
+  <summary>Growing up can be a bumpy road, and it's no exception for Riley, who is uprooted from her Midwest life when her father starts a new job in San Francisco. Like all of us, Riley is guided by her emotions - Joy, Fear, Anger, Disgust and Sadness. The emotions live in Headquarters, the control center inside Riley's mind, where they help advise her through everyday life. As Riley and her emotions struggle to adjust to a new life in San Francisco, turmoil ensues in Headquarters. Although Joy, Riley's main and most important emotion, tries to keep things positive, the emotions conflict on how best to navigate a new city, house and school.</summary>
+  <tagline>Meet the little voices inside your head.</tagline>
+  <tags/>
+  <themes/>
+  <title>Inside Out</title>
+  <writers>
+    <item index="0">
+      <photo>http://image.tmdb.org/t/p/original/3xv8tzlBZoGDqEoZqktqu2LRLUe.jpg</photo>
+      <role/>
+      <name>Meg LeFauve</name>
+    </item>
+    <item index="1">
+      <photo>http://image.tmdb.org/t/p/original/yctxPn9Nk0ACFuf4KRUbbeYSxjT.jpg</photo>
+      <role/>
+      <name>Josh Cooley</name>
+    </item>
+    <item index="2">
+      <photo>http://image.tmdb.org/t/p/original/r6ngPgnReA3RHmKjmSoVsc6Awjp.jpg</photo>
+      <role/>
+      <name>Pete Docter</name>
+    </item>
+  </writers>
+  <year>2015</year>
+</Movie>

@@ -1,0 +1,143 @@
+<?xml version='1.0' encoding='utf-8'?>
+<MediaContainer size="7" identifier="com.plexapp.agents.imdb" mediaTagPrefix="/system/bundle/media/flags/" prefsKey="/:/plugins/com.plexapp.agents.imdb/prefs">
+  <Video url="iva://api.internetvideoarchive.com/2.0/DataService/VideoAssets(711570)?lang=en&amp;bitrates=80,212,450,750,1500,2500,5000,8000&amp;duration=113&amp;adaptive=1&amp;dts=0" key="/system/services/url/lookup?url=iva%3A%2F%2Fapi.internetvideoarchive.com%2F2.0%2FDataService%2FVideoAssets%28711570%29%3Flang%3Den%26bitrates%3D80%2C212%2C450%2C750%2C1500%2C2500%2C5000%2C8000%26duration%3D113%26adaptive%3D1%26dts%3D0" type="clip" relationType="trailer" year="2015" title="The Last Witch Hunter" originallyAvailableAt="2015-09-18" thumb="https://iva-images.plex.tv/content/hdphotos/9771/009771/009771_1280x720_711570_032.jpg" ratingKey="iva://api.internetvideoarchive.com/2.0/DataService/VideoAssets(711570)?lang=en&amp;bitrates=80,212,450,750,1500,2500,5000,8000&amp;duration=113&amp;adaptive=1&amp;dts=0">
+    <Media container="mp4" height="1080" width="1920" audioCodec="aac" duration="113000" videoCodec="h264" bitrate="2500">
+      <Part duration="113000" key="/services/iva/assets/711570/video.mp4?bitrate=2500" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="1080" width="1920" codec="h264" bitrate="2500" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+    <Media container="mp4" height="720" width="1280" audioCodec="aac" duration="113000" videoCodec="h264" bitrate="1500">
+      <Part duration="113000" key="/services/iva/assets/711570/video.mp4?bitrate=1500" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="720" width="1280" codec="h264" bitrate="1500" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+    <Media container="mp4" height="480" width="640" audioCodec="aac" duration="113000" videoCodec="h264" bitrate="450">
+      <Part duration="113000" key="/services/iva/assets/711570/video.mp4?bitrate=450" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="480" width="640" codec="h264" bitrate="450" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+  </Video>
+  <Video url="iva://api.internetvideoarchive.com/2.0/DataService/VideoAssets(985510)?lang=en&amp;bitrates=80,212,450,750,1500,2500,5000,8000&amp;duration=27&amp;adaptive=1&amp;dts=0" key="/system/services/url/lookup?url=iva%3A%2F%2Fapi.internetvideoarchive.com%2F2.0%2FDataService%2FVideoAssets%28985510%29%3Flang%3Den%26bitrates%3D80%2C212%2C450%2C750%2C1500%2C2500%2C5000%2C8000%26duration%3D27%26adaptive%3D1%26dts%3D0" type="clip" relationType="behindTheScenes" year="2015" title="Elijah Wood On The Script Being An Original Idea" originallyAvailableAt="2015-10-07" thumb="https://iva-images.plex.tv/content/hdphotos/9798/009798/009798_1003x564_985510_001.jpg" ratingKey="iva://api.internetvideoarchive.com/2.0/DataService/VideoAssets(985510)?lang=en&amp;bitrates=80,212,450,750,1500,2500,5000,8000&amp;duration=27&amp;adaptive=1&amp;dts=0">
+    <Media container="mp4" height="1080" width="1920" audioCodec="aac" duration="27000" videoCodec="h264" bitrate="2500">
+      <Part duration="27000" key="/services/iva/assets/985510/video.mp4?bitrate=2500" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="1080" width="1920" codec="h264" bitrate="2500" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+    <Media container="mp4" height="720" width="1280" audioCodec="aac" duration="27000" videoCodec="h264" bitrate="1500">
+      <Part duration="27000" key="/services/iva/assets/985510/video.mp4?bitrate=1500" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="720" width="1280" codec="h264" bitrate="1500" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+    <Media container="mp4" height="480" width="640" audioCodec="aac" duration="27000" videoCodec="h264" bitrate="450">
+      <Part duration="27000" key="/services/iva/assets/985510/video.mp4?bitrate=450" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="480" width="640" codec="h264" bitrate="450" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+  </Video>
+  <Video url="iva://api.internetvideoarchive.com/2.0/DataService/VideoAssets(271339)?lang=en&amp;bitrates=80,212,450,750,1500,2500,5000,8000&amp;duration=29&amp;adaptive=1&amp;dts=0" key="/system/services/url/lookup?url=iva%3A%2F%2Fapi.internetvideoarchive.com%2F2.0%2FDataService%2FVideoAssets%28271339%29%3Flang%3Den%26bitrates%3D80%2C212%2C450%2C750%2C1500%2C2500%2C5000%2C8000%26duration%3D29%26adaptive%3D1%26dts%3D0" type="clip" relationType="behindTheScenes" year="2015" title="Breck Eisner On His Research Into Witchcraft" originallyAvailableAt="2015-10-07" thumb="https://iva-images.plex.tv/content/hdphotos/9798/009798/009798_1068x601_271339_020.jpg" ratingKey="iva://api.internetvideoarchive.com/2.0/DataService/VideoAssets(271339)?lang=en&amp;bitrates=80,212,450,750,1500,2500,5000,8000&amp;duration=29&amp;adaptive=1&amp;dts=0">
+    <Media container="mp4" height="1080" width="1920" audioCodec="aac" duration="29000" videoCodec="h264" bitrate="2500">
+      <Part duration="29000" key="/services/iva/assets/271339/video.mp4?bitrate=2500" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="1080" width="1920" codec="h264" bitrate="2500" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+    <Media container="mp4" height="720" width="1280" audioCodec="aac" duration="29000" videoCodec="h264" bitrate="1500">
+      <Part duration="29000" key="/services/iva/assets/271339/video.mp4?bitrate=1500" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="720" width="1280" codec="h264" bitrate="1500" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+    <Media container="mp4" height="480" width="640" audioCodec="aac" duration="29000" videoCodec="h264" bitrate="450">
+      <Part duration="29000" key="/services/iva/assets/271339/video.mp4?bitrate=450" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="480" width="640" codec="h264" bitrate="450" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+  </Video>
+  <Video url="iva://api.internetvideoarchive.com/2.0/DataService/VideoAssets(809001)?lang=en&amp;bitrates=80,212,450,750,1500,2500,5000,8000&amp;duration=27&amp;adaptive=1&amp;dts=0" key="/system/services/url/lookup?url=iva%3A%2F%2Fapi.internetvideoarchive.com%2F2.0%2FDataService%2FVideoAssets%28809001%29%3Flang%3Den%26bitrates%3D80%2C212%2C450%2C750%2C1500%2C2500%2C5000%2C8000%26duration%3D27%26adaptive%3D1%26dts%3D0" type="clip" relationType="behindTheScenes" year="2015" title="Julie Engelbrecht On What Attracted Her To The Role Of 'Witch Queen'" originallyAvailableAt="2015-10-07" thumb="https://iva-images.plex.tv/content/hdphotos/9798/009798/009798_1047x589_809001_008.jpg" ratingKey="iva://api.internetvideoarchive.com/2.0/DataService/VideoAssets(809001)?lang=en&amp;bitrates=80,212,450,750,1500,2500,5000,8000&amp;duration=27&amp;adaptive=1&amp;dts=0">
+    <Media container="mp4" height="1080" width="1920" audioCodec="aac" duration="27000" videoCodec="h264" bitrate="2500">
+      <Part duration="27000" key="/services/iva/assets/809001/video.mp4?bitrate=2500" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="1080" width="1920" codec="h264" bitrate="2500" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+    <Media container="mp4" height="720" width="1280" audioCodec="aac" duration="27000" videoCodec="h264" bitrate="1500">
+      <Part duration="27000" key="/services/iva/assets/809001/video.mp4?bitrate=1500" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="720" width="1280" codec="h264" bitrate="1500" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+    <Media container="mp4" height="480" width="640" audioCodec="aac" duration="27000" videoCodec="h264" bitrate="450">
+      <Part duration="27000" key="/services/iva/assets/809001/video.mp4?bitrate=450" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="480" width="640" codec="h264" bitrate="450" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+  </Video>
+  <Video url="iva://api.internetvideoarchive.com/2.0/DataService/VideoAssets(520936)?lang=en&amp;bitrates=80,212,450,750,1500,2500,5000,8000&amp;duration=31&amp;adaptive=1&amp;dts=0" key="/system/services/url/lookup?url=iva%3A%2F%2Fapi.internetvideoarchive.com%2F2.0%2FDataService%2FVideoAssets%28520936%29%3Flang%3Den%26bitrates%3D80%2C212%2C450%2C750%2C1500%2C2500%2C5000%2C8000%26duration%3D31%26adaptive%3D1%26dts%3D0" type="clip" relationType="behindTheScenes" year="2015" title="Michael Caine On Vin Diesel" originallyAvailableAt="2015-10-07" thumb="https://iva-images.plex.tv/content/hdphotos/9798/009798/009798_1047x589_520936_021.jpg" ratingKey="iva://api.internetvideoarchive.com/2.0/DataService/VideoAssets(520936)?lang=en&amp;bitrates=80,212,450,750,1500,2500,5000,8000&amp;duration=31&amp;adaptive=1&amp;dts=0">
+    <Media container="mp4" height="1080" width="1920" audioCodec="aac" duration="31000" videoCodec="h264" bitrate="2500">
+      <Part duration="31000" key="/services/iva/assets/520936/video.mp4?bitrate=2500" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="1080" width="1920" codec="h264" bitrate="2500" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+    <Media container="mp4" height="720" width="1280" audioCodec="aac" duration="31000" videoCodec="h264" bitrate="1500">
+      <Part duration="31000" key="/services/iva/assets/520936/video.mp4?bitrate=1500" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="720" width="1280" codec="h264" bitrate="1500" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+    <Media container="mp4" height="480" width="640" audioCodec="aac" duration="31000" videoCodec="h264" bitrate="450">
+      <Part duration="31000" key="/services/iva/assets/520936/video.mp4?bitrate=450" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="480" width="640" codec="h264" bitrate="450" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+  </Video>
+  <Video url="iva://api.internetvideoarchive.com/2.0/DataService/VideoAssets(795970)?lang=en&amp;bitrates=80,212,450,750,1500,2500,5000,8000&amp;duration=11&amp;adaptive=1&amp;dts=0" key="/system/services/url/lookup?url=iva%3A%2F%2Fapi.internetvideoarchive.com%2F2.0%2FDataService%2FVideoAssets%28795970%29%3Flang%3Den%26bitrates%3D80%2C212%2C450%2C750%2C1500%2C2500%2C5000%2C8000%26duration%3D11%26adaptive%3D1%26dts%3D0" type="clip" relationType="behindTheScenes" year="2015" title="Rose Leslie On The Genre Of The Film" originallyAvailableAt="2015-10-07" thumb="https://iva-images.plex.tv/content/hdphotos/9798/009798/009798_951x535_795970_005.jpg" ratingKey="iva://api.internetvideoarchive.com/2.0/DataService/VideoAssets(795970)?lang=en&amp;bitrates=80,212,450,750,1500,2500,5000,8000&amp;duration=11&amp;adaptive=1&amp;dts=0">
+    <Media container="mp4" height="1080" width="1920" audioCodec="aac" duration="11000" videoCodec="h264" bitrate="2500">
+      <Part duration="11000" key="/services/iva/assets/795970/video.mp4?bitrate=2500" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="1080" width="1920" codec="h264" bitrate="2500" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+    <Media container="mp4" height="720" width="1280" audioCodec="aac" duration="11000" videoCodec="h264" bitrate="1500">
+      <Part duration="11000" key="/services/iva/assets/795970/video.mp4?bitrate=1500" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="720" width="1280" codec="h264" bitrate="1500" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+    <Media container="mp4" height="480" width="640" audioCodec="aac" duration="11000" videoCodec="h264" bitrate="450">
+      <Part duration="11000" key="/services/iva/assets/795970/video.mp4?bitrate=450" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="480" width="640" codec="h264" bitrate="450" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+  </Video>
+  <Video url="iva://api.internetvideoarchive.com/2.0/DataService/VideoAssets(951454)?lang=en&amp;bitrates=80,212,450,750,1500,2500,5000,8000&amp;duration=27&amp;adaptive=1&amp;dts=0" key="/system/services/url/lookup?url=iva%3A%2F%2Fapi.internetvideoarchive.com%2F2.0%2FDataService%2FVideoAssets%28951454%29%3Flang%3Den%26bitrates%3D80%2C212%2C450%2C750%2C1500%2C2500%2C5000%2C8000%26duration%3D27%26adaptive%3D1%26dts%3D0" type="clip" relationType="behindTheScenes" year="2015" title="Vin Diesel On Being In An Action Fantasy Film" originallyAvailableAt="2015-10-07" thumb="https://iva-images.plex.tv/content/hdphotos/9798/009798/009798_1060x596_951454_010.jpg" ratingKey="iva://api.internetvideoarchive.com/2.0/DataService/VideoAssets(951454)?lang=en&amp;bitrates=80,212,450,750,1500,2500,5000,8000&amp;duration=27&amp;adaptive=1&amp;dts=0">
+    <Media container="mp4" height="1080" width="1920" audioCodec="aac" duration="27000" videoCodec="h264" bitrate="2500">
+      <Part duration="27000" key="/services/iva/assets/951454/video.mp4?bitrate=2500" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="1080" width="1920" codec="h264" bitrate="2500" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+    <Media container="mp4" height="720" width="1280" audioCodec="aac" duration="27000" videoCodec="h264" bitrate="1500">
+      <Part duration="27000" key="/services/iva/assets/951454/video.mp4?bitrate=1500" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="720" width="1280" codec="h264" bitrate="1500" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+    <Media container="mp4" height="480" width="640" audioCodec="aac" duration="27000" videoCodec="h264" bitrate="450">
+      <Part duration="27000" key="/services/iva/assets/951454/video.mp4?bitrate=450" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="480" width="640" codec="h264" bitrate="450" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+  </Video>
+</MediaContainer>

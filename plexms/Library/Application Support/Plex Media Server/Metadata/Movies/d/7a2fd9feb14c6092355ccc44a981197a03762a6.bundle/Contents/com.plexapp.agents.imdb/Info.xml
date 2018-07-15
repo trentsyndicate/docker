@@ -1,0 +1,417 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Movie id="tt0087032">
+  <rating>1.3</rating>
+  <title_sort/>
+  <art>
+    <item external="True" url="http://image.tmdb.org/t/p/original/wYvnqSrZssK5oNOQbs6FrpRoDOQ.jpg" preview="10269669224732664d666de35712e5e0a0997ad1" sort_order="1"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/z5ZSKUmgNEUVYk2e1qBCCB1Jqbm.jpg" preview="4354eeda5273fa60147c421b33493922247f3836" sort_order="2"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/p3t7WaA2XydK44t7MmJzA4RZqiY.jpg" preview="dfd99f037e886a3c5c30a9c4e8d1c19edd91a83d" sort_order="3"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/tV7b20Z9afc5UMBpc59HsnEgO7U.jpg" preview="b2547391cb886883628500801ed63905e717536d" sort_order="4"/>
+  </art>
+  <writers>
+    <item index="0">
+      <photo>http://image.tmdb.org/t/p/original/u2JnSd9p1yWLXwEy9pCJ7Wjg2FG.jpg</photo>
+      <role/>
+      <name>Hal Needham</name>
+    </item>
+    <item index="1">
+      <photo/>
+      <role/>
+      <name>Albert S. Ruddy</name>
+    </item>
+    <item index="2">
+      <photo/>
+      <role/>
+      <name>Harvey Miller</name>
+    </item>
+  </writers>
+  <chapters>
+    <item index="0">
+      <title>Chapter 1</title>
+      <end_time_offset>165000</end_time_offset>
+      <start_time_offset>0</start_time_offset>
+    </item>
+    <item index="1">
+      <title>Chapter 2</title>
+      <end_time_offset>471000</end_time_offset>
+      <start_time_offset>165000</start_time_offset>
+    </item>
+    <item index="2">
+      <title>Chapter 3</title>
+      <end_time_offset>639000</end_time_offset>
+      <start_time_offset>471000</start_time_offset>
+    </item>
+    <item index="3">
+      <title>Chapter 4</title>
+      <end_time_offset>772000</end_time_offset>
+      <start_time_offset>639000</start_time_offset>
+    </item>
+    <item index="4">
+      <title>Chapter 5</title>
+      <end_time_offset>964000</end_time_offset>
+      <start_time_offset>772000</start_time_offset>
+    </item>
+    <item index="5">
+      <title>Chapter 6</title>
+      <end_time_offset>1127000</end_time_offset>
+      <start_time_offset>964000</start_time_offset>
+    </item>
+    <item index="6">
+      <title>Chapter 7</title>
+      <end_time_offset>1302000</end_time_offset>
+      <start_time_offset>1127000</start_time_offset>
+    </item>
+    <item index="7">
+      <title>Chapter 8</title>
+      <end_time_offset>1644000</end_time_offset>
+      <start_time_offset>1302000</start_time_offset>
+    </item>
+    <item index="8">
+      <title>Chapter 9</title>
+      <end_time_offset>1802000</end_time_offset>
+      <start_time_offset>1644000</start_time_offset>
+    </item>
+    <item index="9">
+      <title>Chapter 10</title>
+      <end_time_offset>1962000</end_time_offset>
+      <start_time_offset>1802000</start_time_offset>
+    </item>
+    <item index="10">
+      <title>Chapter 11</title>
+      <end_time_offset>2206000</end_time_offset>
+      <start_time_offset>1962000</start_time_offset>
+    </item>
+    <item index="11">
+      <title>Chapter 12</title>
+      <end_time_offset>2443000</end_time_offset>
+      <start_time_offset>2206000</start_time_offset>
+    </item>
+    <item index="12">
+      <title>Chapter 13</title>
+      <end_time_offset>2701000</end_time_offset>
+      <start_time_offset>2443000</start_time_offset>
+    </item>
+    <item index="13">
+      <title>Chapter 14</title>
+      <end_time_offset>2865000</end_time_offset>
+      <start_time_offset>2701000</start_time_offset>
+    </item>
+    <item index="14">
+      <title>Chapter 15</title>
+      <end_time_offset>3186000</end_time_offset>
+      <start_time_offset>2865000</start_time_offset>
+    </item>
+    <item index="15">
+      <title>Chapter 16</title>
+      <end_time_offset>3455000</end_time_offset>
+      <start_time_offset>3186000</start_time_offset>
+    </item>
+    <item index="16">
+      <title>Chapter 17</title>
+      <end_time_offset>3650000</end_time_offset>
+      <start_time_offset>3455000</start_time_offset>
+    </item>
+    <item index="17">
+      <title>Chapter 18</title>
+      <end_time_offset>3822000</end_time_offset>
+      <start_time_offset>3650000</start_time_offset>
+    </item>
+    <item index="18">
+      <title>Chapter 19</title>
+      <end_time_offset>4007000</end_time_offset>
+      <start_time_offset>3822000</start_time_offset>
+    </item>
+    <item index="19">
+      <title>Chapter 20</title>
+      <end_time_offset>4147000</end_time_offset>
+      <start_time_offset>4007000</start_time_offset>
+    </item>
+    <item index="20">
+      <title>Chapter 21</title>
+      <end_time_offset>4358000</end_time_offset>
+      <start_time_offset>4147000</start_time_offset>
+    </item>
+    <item index="21">
+      <title>Chapter 22</title>
+      <end_time_offset>4494000</end_time_offset>
+      <start_time_offset>4358000</start_time_offset>
+    </item>
+    <item index="22">
+      <title>Chapter 23</title>
+      <end_time_offset>4681000</end_time_offset>
+      <start_time_offset>4494000</start_time_offset>
+    </item>
+    <item index="23">
+      <title>Chapter 24</title>
+      <end_time_offset>4785000</end_time_offset>
+      <start_time_offset>4681000</start_time_offset>
+    </item>
+    <item index="24">
+      <title>Chapter 25</title>
+      <end_time_offset>5029000</end_time_offset>
+      <start_time_offset>4785000</start_time_offset>
+    </item>
+    <item index="25">
+      <title>Chapter 26</title>
+      <end_time_offset>5178000</end_time_offset>
+      <start_time_offset>5029000</start_time_offset>
+    </item>
+    <item index="26">
+      <title>Chapter 27</title>
+      <end_time_offset>5380000</end_time_offset>
+      <start_time_offset>5178000</start_time_offset>
+    </item>
+    <item index="27">
+      <title>Chapter 28</title>
+      <end_time_offset>5597000</end_time_offset>
+      <start_time_offset>5380000</start_time_offset>
+    </item>
+    <item index="28">
+      <title>Chapter 29</title>
+      <end_time_offset>5922000</end_time_offset>
+      <start_time_offset>5597000</start_time_offset>
+    </item>
+    <item index="29">
+      <title>Chapter 30</title>
+      <end_time_offset>6188000</end_time_offset>
+      <start_time_offset>5922000</start_time_offset>
+    </item>
+    <item index="30">
+      <title>Chapter 31</title>
+      <end_time_offset>6269000</end_time_offset>
+      <start_time_offset>6188000</start_time_offset>
+    </item>
+    <item index="31">
+      <title>Chapter 32</title>
+      <end_time_offset>-1</end_time_offset>
+      <start_time_offset>6269000</start_time_offset>
+    </item>
+  </chapters>
+  <themes/>
+  <quotes/>
+  <year>1984</year>
+  <duration>6480000</duration>
+  <genres>
+    <item index="0">Action</item>
+    <item index="1">Comedy</item>
+  </genres>
+  <title>Cannonball Run II</title>
+  <tagline>The popcorn's in the lobby. The nuts are on the screen.</tagline>
+  <content_rating_age/>
+  <rating_count/>
+  <collections/>
+  <trivia/>
+  <tags/>
+  <audience_rating_image>rottentomatoes://image.rating.spilled</audience_rating_image>
+  <rating_image>rottentomatoes://image.rating.rotten</rating_image>
+  <producers>
+    <item index="0">
+      <photo/>
+      <role/>
+      <name>Albert S. Ruddy</name>
+    </item>
+  </producers>
+  <audience_rating>4.6</audience_rating>
+  <studio>Warner Bros. Pictures</studio>
+  <posters>
+    <item external="True" url="http://image.tmdb.org/t/p/original/nrxcsJGZB5gHOmL2OAoA12WooXy.jpg" preview="2286c2fd243a8bcf6825b0357e145086fc383282" sort_order="1"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/6Z5wXVG5V05WigfjMXGm87ipkvZ.jpg" preview="c2ac56c9fa9dbef104a045b7d483f00c7bb46be4" sort_order="2"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/k5SPLa8DHGLbr9eypjMtD5MNBcA.jpg" preview="66df22b357246e3e284021c22023909cd0b31986" sort_order="3"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/21tCAfc9NifqrQygUZeG2XyMLuD.jpg" preview="9847e808e862572787882ae848be46c4dcd0e3f4" sort_order="4"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/cvVSQd6keF2WvSFWzZNFnLgDMhc.jpg" preview="8b916412545f7138a3a6d807ef68cbe00f5d812d" sort_order="5"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/5AdLnpTu0I5jsoVmhb7gWGMlYqH.jpg" preview="918dc69edff7c61172ee2cc4e12dfd757b323683" sort_order="6"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/vUpLjmN9kV6lmCJtSbNyBZylhLf.jpg" preview="21f81d821bac21ae878b880a10c15defe300e413" sort_order="7"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/AhFe0iwNhijfvI9etb3aOTqZZie.jpg" preview="83cbfa6b533d275a4ee5027fcd5d0691cc54134d" sort_order="8"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/om7nHoXXpmYKoUWKhtu9XPY6Efb.jpg" preview="95647aa935088dcd30a889c141fb07a8f84fe276" sort_order="9"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/bkq9ExSemNRBpAy6zwQci4j7hti.jpg" preview="9a8cab848fad8b7f4ce16c31779a89c46bfc7779" sort_order="10"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/vVKPJ71Awwp97ie4FXUfClPKVB7.jpg" preview="2dcdaeb9fb8d9a101384637b6636b72272b68268" sort_order="11"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/o1LD5BA0pCWJqNPsCbfKPnHM4JP.jpg" preview="ec22ac569b4f62eb31a727c844e885e6836f5b35" sort_order="12"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/2LRCTyT9IVoNvrgJWIhTTgO2Sfk.jpg" preview="d86ef747b8a1d5d24695af759e582a47db790605" sort_order="13"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/r3BwPyfpAj7IrgKhIj4zrjF0YQ3.jpg" preview="6d094d9ccec4faeeba43d163b334813fc78ec20f" sort_order="14"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/cp7DC6BoZf8SVSC42wCZaaKDRKt.jpg" preview="c242a75f1a3232877f26be44b8dc2d29ef8e3e5f" sort_order="15"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/lfm52ajEGz33rj5fEBdOG5Uwhpt.jpg" preview="1ceda7ccdb290094e7b8d8bd2d0f344ff9d1b099" sort_order="16"/>
+  </posters>
+  <originally_available_at>1984-06-29</originally_available_at>
+  <roles>
+    <item index="0">
+      <photo>http://image.tmdb.org/t/p/original/az0ywVQY1RLbHYJrIhw61N6w8d8.jpg</photo>
+      <role>J.J. McClure</role>
+      <name>Burt Reynolds</name>
+    </item>
+    <item index="1">
+      <photo>http://image.tmdb.org/t/p/original/u1DOOocPOgaiCucbbbxPkdOTuo8.jpg</photo>
+      <role>Victor Prinzim</role>
+      <name>Dom DeLuise</name>
+    </item>
+    <item index="2">
+      <photo>http://image.tmdb.org/t/p/original/jSKT0dtqCaCFccga7bweuwYXQI8.jpg</photo>
+      <role>Jamie Blake</role>
+      <name>Dean Martin</name>
+    </item>
+    <item index="3">
+      <photo>http://image.tmdb.org/t/p/original/d7T4L0A0RCd1hkRNs2yp2y0mUDT.jpg</photo>
+      <role>Morris Fenderbaum</role>
+      <name>Sammy Davis, Jr.</name>
+    </item>
+    <item index="4">
+      <photo>http://image.tmdb.org/t/p/original/faG5S4EOVaGHNf1CwZryGcHCE4e.jpg</photo>
+      <role>Veronica</role>
+      <name>Shirley MacLaine</name>
+    </item>
+    <item index="5">
+      <photo>http://image.tmdb.org/t/p/original/pN5jiLdHKzDXn8GZHPnJHwdax1H.jpg</photo>
+      <role>Hymie Kaplan</role>
+      <name>Telly Savalas</name>
+    </item>
+    <item index="6">
+      <photo>http://image.tmdb.org/t/p/original/4ZOR6UYT4aMjcL8D5QMSudeSAJ0.jpg</photo>
+      <role>The Sheik</role>
+      <name>Jamie Farr</name>
+    </item>
+    <item index="7">
+      <photo>http://image.tmdb.org/t/p/original/lLdcfeQSsYeMKsFUEL9Il5K874h.jpg</photo>
+      <role>Betty</role>
+      <name>Marilu Henner</name>
+    </item>
+    <item index="8">
+      <photo>http://image.tmdb.org/t/p/original/wiqv8U31ArlhH4GVhJd5GnBH3zr.jpg</photo>
+      <role>Jill, Lamborghini Babe</role>
+      <name>Susan Anton</name>
+    </item>
+    <item index="9">
+      <photo>http://image.tmdb.org/t/p/original/nVdEzObWsdIcjHD9buogB1deemB.jpg</photo>
+      <role>Marcie, Lamborghini Babe</role>
+      <name>Catherine Bach</name>
+    </item>
+    <item index="10">
+      <photo>http://image.tmdb.org/t/p/original/pmKJ4sGvPQ3imzXaFnjW4Vk5Gyc.jpg</photo>
+      <role>Jackie Chan, Mitsubishi Engineer</role>
+      <name>Jackie Chan</name>
+    </item>
+    <item index="11">
+      <photo>http://image.tmdb.org/t/p/original/non96yYuFTWnopBgNtj1MWcm0Z5.jpg</photo>
+      <role>CHP Officer</role>
+      <name>Tim Conway</name>
+    </item>
+    <item index="12">
+      <photo>http://image.tmdb.org/t/p/original/nsPOk2xOj33fpsBj60mcxGcjyBW.jpg</photo>
+      <role>Doctor Nikolas Van Helsing</role>
+      <name>Jack Elam</name>
+    </item>
+    <item index="13">
+      <photo>http://image.tmdb.org/t/p/original/wop4KV2ywl6gdYnCUs1OthtGylM.jpg</photo>
+      <role>Arnold, Mitsubishi Driver</role>
+      <name>Richard Kiel</name>
+    </item>
+    <item index="14">
+      <photo>http://image.tmdb.org/t/p/original/qMqpOuJj69ozHCViUZSiFvgggva.jpg</photo>
+      <role>CHP Officer</role>
+      <name>Don Knotts</name>
+    </item>
+    <item index="15">
+      <photo>http://image.tmdb.org/t/p/original/cjVYY35mjqZsno1qECjTr4lzqbS.jpg</photo>
+      <role>King</role>
+      <name>Ricardo Montalban</name>
+    </item>
+    <item index="16">
+      <photo>http://image.tmdb.org/t/p/original/zuGqT0ZJQFm0GMUnEa32jYu75Fy.jpg</photo>
+      <role>Terry</role>
+      <name>Tony Danza</name>
+    </item>
+    <item index="17">
+      <photo>http://image.tmdb.org/t/p/original/A80Ko6WmH3oPlHslbZylNTzN9uN.jpg</photo>
+      <role>Pvt. Homer Lyle</role>
+      <name>Jim Nabors</name>
+    </item>
+    <item index="18">
+      <photo>http://image.tmdb.org/t/p/original/vn9qWseEb2LspaS0LBDntH0L4Qw.jpg</photo>
+      <role>Himself</role>
+      <name>Frank Sinatra</name>
+    </item>
+    <item index="19">
+      <photo>http://image.tmdb.org/t/p/original/pN6cl0FoQgBz6RKWNvbCmjbfQnP.jpg</photo>
+      <role>Pilot</role>
+      <name>Arte Johnson</name>
+    </item>
+    <item index="20">
+      <photo>http://image.tmdb.org/t/p/original/fE8Oouf3sn4ATl0c31kkTxCtug9.jpg</photo>
+      <role>The Slapper</role>
+      <name>Doug McClure</name>
+    </item>
+    <item index="21">
+      <photo>http://image.tmdb.org/t/p/original/wSDmsMhQ95utBggMaHOCALMM9CC.jpg</photo>
+      <role>Slim</role>
+      <name>Henry Silva</name>
+    </item>
+    <item index="22">
+      <photo>http://image.tmdb.org/t/p/original/luWKPNb58IgJ2ovrtgPAzHGLLYL.jpg</photo>
+      <role>Caesar</role>
+      <name>Abe Vigoda</name>
+    </item>
+    <item index="23">
+      <photo>http://image.tmdb.org/t/p/original/rOP2Q3SidVsZn30CEk70bHz6k48.jpg</photo>
+      <role>Sheriff</role>
+      <name>Dub Taylor</name>
+    </item>
+  </roles>
+  <countries>
+    <item index="0">Hong Kong</item>
+  </countries>
+  <content_rating>PG</content_rating>
+  <original_title/>
+  <summary>The original characters from the first Cannonball Run movie compete in an illegal race across the country once more in various cars and trucks.</summary>
+  <reviews>
+    <item index="0">
+      <text>Execution is uninspired, laughs are hard to find, and the script is also difficult to locate.</text>
+      <source>Variety</source>
+      <image>rottentomatoes://image.review.rotten</image>
+      <link>http://www.variety.com/review/VE1117789682.html?categoryid=31&amp;cs=1</link>
+      <author>Variety Staff</author>
+    </item>
+    <item index="1">
+      <text>There are nun jokes, mafia jokes, big breast jokes, karate jokes, Jaws jokes, more big breasts. It's a long ride.</text>
+      <source>Time Out</source>
+      <image>rottentomatoes://image.review.rotten</image>
+      <link>http://www.timeout.com/film/reviews/68793/cannonball_run_ii.html</link>
+      <author></author>
+    </item>
+    <item index="2">
+      <text>Cannonball Run II is one of the laziest insults to the intelligence of moviegoers that I can remember. Sheer arrogance made this picture.</text>
+      <source>Chicago Sun-Times</source>
+      <image>rottentomatoes://image.review.rotten</image>
+      <link>http://www.rogerebert.com/reviews/cannonball-run-ii-1984</link>
+      <author>Roger Ebert</author>
+    </item>
+  </reviews>
+  <directors>
+    <item index="0">
+      <photo>http://image.tmdb.org/t/p/original/u2JnSd9p1yWLXwEy9pCJ7Wjg2FG.jpg</photo>
+      <role/>
+      <name>Hal Needham</name>
+    </item>
+  </directors>
+  <extras external="True" extension="xml"/>
+  <banners/>
+  <similar>
+    <item index="0">The Cannonball Run</item>
+    <item index="1">Smokey and the Bandit II</item>
+    <item index="2">Hooper</item>
+    <item index="3">Speed Zone</item>
+    <item index="4">Spies Like Us</item>
+    <item index="5">Armed and Dangerous</item>
+    <item index="6">Smokey and the Bandit</item>
+    <item index="7">Brewster's Millions</item>
+    <item index="8">Fletch Lives</item>
+    <item index="9">Neighbors</item>
+    <item index="10">Stakeout</item>
+    <item index="11">Smokey and the Bandit Part 3</item>
+    <item index="12">Stripes</item>
+    <item index="13">Any Which Way You Can</item>
+    <item index="14">Fletch</item>
+    <item index="15">Stir Crazy</item>
+    <item index="16">Doc Hollywood</item>
+    <item index="17">F/X</item>
+    <item index="18">Another 48 Hrs.</item>
+    <item index="19">Down and Out in Beverly Hills</item>
+  </similar>
+</Movie>

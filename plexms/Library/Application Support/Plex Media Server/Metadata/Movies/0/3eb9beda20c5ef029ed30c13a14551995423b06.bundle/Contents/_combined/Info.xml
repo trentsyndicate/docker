@@ -1,0 +1,709 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Movie>
+  <art>
+    <item external="True" url="http://image.tmdb.org/t/p/original/5tMJqM3ecc0LxCoB3Y3uWYS3NK8.jpg" sort_order="1" provider="com.plexapp.agents.imdb" media="com.plexapp.agents.imdb_ee2bf79cd96dcfcbd03095bc4d556305c9d072d4"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/8wQHJczZQxUfv3Tnk7sbYCGW5Vl.jpg" preview="com.plexapp.agents.imdb_92a160c86d81756d17147fe648dd06a099704bff" sort_order="2" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/vrkP48vabxSeXIHrjrCGXVtlhAt.jpg" preview="com.plexapp.agents.imdb_2061e5d42e6d29599befb854a0ceb2cfe1980c92" sort_order="3" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/tf5Yf21n5aRzosQkHGOqjqY6YPV.jpg" preview="com.plexapp.agents.imdb_a2ed9be9fd88397d0d36b3074cf655317729099c" sort_order="4" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/xIJUbSNAmqSfmATWDZJdSEmQk3G.jpg" preview="com.plexapp.agents.imdb_c00049f4ac15c92f7ac5b30ee0cddd0159be40ea" sort_order="5" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/5Xc6rwgrb5Jki5OsE1EqIE9Kjhd.jpg" preview="com.plexapp.agents.imdb_df1ea99a5aad68c1a90a9a1f9984980ceed951cd" sort_order="6" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/zI9bSUiiNpumGOYKwz9SXqBrvhC.jpg" preview="com.plexapp.agents.imdb_57ec5c9c608ae68b1037008344ec3f26aa212cc4" sort_order="7" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/7PON1rVESxzFTNsTVgnU8sXg8AF.jpg" preview="com.plexapp.agents.imdb_dc4fed34fc1582d3e036ce7d671e18457c0f9889" sort_order="8" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/RxYWvWo5NyZZqflznui1txgaVs.jpg" preview="com.plexapp.agents.imdb_f780e39b7e289ef96da7892e0a621a553a8bd976" sort_order="9" provider="com.plexapp.agents.imdb"/>
+  </art>
+  <banners/>
+  <chapters>
+    <item index="0">
+      <title>Main Titles</title>
+      <end_time_offset>154000</end_time_offset>
+      <start_time_offset>0</start_time_offset>
+    </item>
+    <item index="1">
+      <title>Twenty Years Later</title>
+      <end_time_offset>444000</end_time_offset>
+      <start_time_offset>154000</start_time_offset>
+    </item>
+    <item index="2">
+      <title>Living on the Edge</title>
+      <end_time_offset>568000</end_time_offset>
+      <start_time_offset>444000</start_time_offset>
+    </item>
+    <item index="3">
+      <title>Choreographing The Match</title>
+      <end_time_offset>760000</end_time_offset>
+      <start_time_offset>568000</start_time_offset>
+    </item>
+    <item index="4">
+      <title>Weekend Warriors</title>
+      <end_time_offset>1078000</end_time_offset>
+      <start_time_offset>760000</start_time_offset>
+    </item>
+    <item index="5">
+      <title>The Lovely Cassidy</title>
+      <end_time_offset>1409000</end_time_offset>
+      <start_time_offset>1078000</start_time_offset>
+    </item>
+    <item index="6">
+      <title>Keeping It Going</title>
+      <end_time_offset>1633000</end_time_offset>
+      <start_time_offset>1409000</start_time_offset>
+    </item>
+    <item index="7">
+      <title>The Staple Gun</title>
+      <end_time_offset>2080000</end_time_offset>
+      <start_time_offset>1633000</start_time_offset>
+    </item>
+    <item index="8">
+      <title>It's Your Heart</title>
+      <end_time_offset>2338000</end_time_offset>
+      <start_time_offset>2080000</start_time_offset>
+    </item>
+    <item index="9">
+      <title>Welcome Home</title>
+      <end_time_offset>2588000</end_time_offset>
+      <start_time_offset>2338000</start_time_offset>
+    </item>
+    <item index="10">
+      <title>Can We Talk?</title>
+      <end_time_offset>2791000</end_time_offset>
+      <start_time_offset>2588000</start_time_offset>
+    </item>
+    <item index="11">
+      <title>Trying to Connect</title>
+      <end_time_offset>2982000</end_time_offset>
+      <start_time_offset>2791000</start_time_offset>
+    </item>
+    <item index="12">
+      <title>A Few Autographs</title>
+      <end_time_offset>3144000</end_time_offset>
+      <start_time_offset>2982000</start_time_offset>
+    </item>
+    <item index="13">
+      <title>Feeling Good</title>
+      <end_time_offset>3388000</end_time_offset>
+      <start_time_offset>3144000</start_time_offset>
+    </item>
+    <item index="14">
+      <title>Go With Your Gut</title>
+      <end_time_offset>3727000</end_time_offset>
+      <start_time_offset>3388000</start_time_offset>
+    </item>
+    <item index="15">
+      <title>Deli Man</title>
+      <end_time_offset>4063000</end_time_offset>
+      <start_time_offset>3727000</start_time_offset>
+    </item>
+    <item index="16">
+      <title>Just Hanging Out</title>
+      <end_time_offset>4490000</end_time_offset>
+      <start_time_offset>4063000</start_time_offset>
+    </item>
+    <item index="17">
+      <title>Let's Party</title>
+      <end_time_offset>4855000</end_time_offset>
+      <start_time_offset>4490000</start_time_offset>
+    </item>
+    <item index="18">
+      <title>Never Again!</title>
+      <end_time_offset>5171000</end_time_offset>
+      <start_time_offset>4855000</start_time_offset>
+    </item>
+    <item index="19">
+      <title>Falling Apart</title>
+      <end_time_offset>5373000</end_time_offset>
+      <start_time_offset>5171000</start_time_offset>
+    </item>
+    <item index="20">
+      <title>Back In the Game</title>
+      <end_time_offset>5563000</end_time_offset>
+      <start_time_offset>5373000</start_time_offset>
+    </item>
+    <item index="21">
+      <title>This Is Where I Belong</title>
+      <end_time_offset>5844000</end_time_offset>
+      <start_time_offset>5563000</start_time_offset>
+    </item>
+    <item index="22">
+      <title>The Main Event</title>
+      <end_time_offset>6303000</end_time_offset>
+      <start_time_offset>5844000</start_time_offset>
+    </item>
+    <item index="23">
+      <title>End Titles</title>
+      <end_time_offset>-1</end_time_offset>
+      <start_time_offset>6303000</start_time_offset>
+    </item>
+  </chapters>
+  <collections/>
+  <content_rating>R</content_rating>
+  <countries>
+    <item index="0">USA</item>
+  </countries>
+  <directors>
+    <item index="0">
+      <photo>http://image.tmdb.org/t/p/original/AtBEqPkWw5txAuMJ5vk4dFhmMrR.jpg</photo>
+      <role/>
+      <name>Darren Aronofsky</name>
+    </item>
+  </directors>
+  <duration>6540000</duration>
+  <genres>
+    <item index="0">Drama</item>
+    <item index="1">Sport</item>
+  </genres>
+  <originally_available_at>2008-09-07</originally_available_at>
+  <posters>
+    <item external="True" url="http://image.tmdb.org/t/p/original/2PqmOaq7mGbpsCrUatspkPDooen.jpg" sort_order="1" provider="com.plexapp.agents.imdb" media="com.plexapp.agents.imdb_14a4181a3150976161f8054cc043e94130212fe7"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/huooRmB7yksJyVVSkqOgitxlCec.jpg" preview="com.plexapp.agents.imdb_c25c5b763adec47c4892fc6a4d861a5a9113e6a1" sort_order="2" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/qybnVuw9E4Sqwqa9LI0HeuNpH15.jpg" preview="com.plexapp.agents.imdb_a9524cf5b7584df908569d2d5c49e6b8031ba9ea" sort_order="3" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/pEWgST8h2PbepqB1UBV0Lt0aMXg.jpg" preview="com.plexapp.agents.imdb_27e4cde40775b34a7f1be0f965d880730046a59e" sort_order="4" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/dmQeo9YXA2DGQc2yVqdpyMNdAiJ.jpg" preview="com.plexapp.agents.imdb_88071a7eb1f841c01fecac97b9abdd62b0c941aa" sort_order="5" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/o7ABuWqd553S85zKwDfTk8Gh6wJ.jpg" preview="com.plexapp.agents.imdb_40b7260a0a6d889c2de4e07fba303e73d407ed0b" sort_order="6" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/22zQ6CDivDnLKnYKKzdI7Cswr1M.jpg" preview="com.plexapp.agents.imdb_1b81c08bf8dc5443e4b7f0baf7a9ca76a4061377" sort_order="7" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/4LQpX8gFBjq1qOqn6HlkbPkEKrp.jpg" preview="com.plexapp.agents.imdb_09d78d495c0a300e0975c59f97b4cf6901a26d52" sort_order="8" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/3iNuo3i7hPEhwWwocSnbUsAmzkS.jpg" preview="com.plexapp.agents.imdb_2980219b2554665e8c04449264258c48b3f7f661" sort_order="9" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/6oik8XwlzKGFTIdUjgVkCt7cvoi.jpg" preview="com.plexapp.agents.imdb_e4d3fc81cf82031896d16dad43710a4cc293ea2a" sort_order="10" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/wp2OpT97RwMRO4oxQ1gWCqlRQ7j.jpg" preview="com.plexapp.agents.imdb_a7abaa150c7980dc324a1801bc49937072a1eae3" sort_order="11" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/b5TXXhI82gEUNyHIIct080HagHU.jpg" preview="com.plexapp.agents.imdb_215c94c977b3cabc52c8315922bd4e09e543f75a" sort_order="12" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/eXJMXtg0e3Swgb3NQF2lSz2bM6H.jpg" preview="com.plexapp.agents.imdb_aae4c91ddc32e969d9db248d39ce8b2389e14775" sort_order="13" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/5Zgh2hN0R0sTnI3df9YuKonyWca.jpg" preview="com.plexapp.agents.imdb_01aab65fa6f7f7395fcbf9043729162813c6e78f" sort_order="14" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/usbOZQ4fPNXdpdRMBxV2KUyLMsF.jpg" preview="com.plexapp.agents.imdb_77501c1129edc3df44e947f4fa4282d56c18ff76" sort_order="15" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/lre9gb3iOHAi4BXwR5zescQDWzz.jpg" preview="com.plexapp.agents.imdb_aa2a632a4e44c89a070fed36adeb7682e6323fdc" sort_order="16" provider="com.plexapp.agents.imdb"/>
+  </posters>
+  <producers>
+    <item index="0">
+      <photo>http://image.tmdb.org/t/p/original/AtBEqPkWw5txAuMJ5vk4dFhmMrR.jpg</photo>
+      <role/>
+      <name>Darren Aronofsky</name>
+    </item>
+    <item index="1">
+      <photo/>
+      <role/>
+      <name>Scott Franklin</name>
+    </item>
+  </producers>
+  <rating>9.8</rating>
+  <rating_image>rottentomatoes://image.rating.ripe</rating_image>
+  <audience_rating>8.8</audience_rating>
+  <audience_rating_image>rottentomatoes://image.rating.upright</audience_rating_image>
+  <reviews>
+    <item index="0">
+      <text>Predictable as it is, this sad, strong beast of a film keeps us pinned to the mat with the strength of its compassion and the overpowering force of its central performance.</text>
+      <source>Houston Chronicle</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>http://www.chron.com/disp/story.mpl/ent/movies/nowshowing/6213520.html</link>
+      <author>Amy Biancolli</author>
+    </item>
+    <item index="1">
+      <text>Aronofsky directs with unfussy candour, alternating between the intensity of the wrestling and the drabness of Randy's 'real' life.</text>
+      <source>Time Out</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>http://www.timeout.com/film/reviews/85210/the-wrestler.html</link>
+      <author>Tom Huddlestone</author>
+    </item>
+    <item index="2">
+      <text>The chance to play that poignant confusion is the real prize that Rourke and Tomei earn in The Wrestler.</text>
+      <source>Orlando Sentinel</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>http://www.orlandosentinel.com/entertainment/movies/orl-movie-review-the-wrestler,0,1579218.story</link>
+      <author>Roger Moore</author>
+    </item>
+    <item index="3">
+      <text>The movie presses too hard and too often, but the performances are strong enough to withstand the melodramatic impulses, and the themes of isolation and self-destructiveness are too sharply realized to be trivialized.</text>
+      <source>Dallas Morning News</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>http://www.guidelive.com/portal/page?_pageid=33,97283&amp;_dad=portal&amp;_schema=PORTAL&amp;item_id=70203</link>
+      <author>Tom Maurstad</author>
+    </item>
+    <item index="4">
+      <text>With uncommon intelligence and brutal honesty, The Wrestler examines the cost, and need, of battle.</text>
+      <source>Detroit News</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>http://www.detnews.com/apps/pbcs.dll/article?AID=/20090109/OPINION03/901090401/1034/ENT02</link>
+      <author>Tom Long</author>
+    </item>
+    <item index="5">
+      <text>The Wrestler is strong, confident filmmaking. It shows you everything you need to know, and never whispers in your ear what you're supposed to feel about it.</text>
+      <source>Minneapolis Star Tribune</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>http://www.startribune.com/entertainment/movies/37283739.html?elr=KArksD:aDyaEP:kD:aUnc5PDiUiD3aPc:_Yyc:aULPQL7PQLanchO7DiU</link>
+      <author>Colin Covert</author>
+    </item>
+    <item index="6">
+      <text>If this ragged but near-brilliant movie is about a guy trying to resurrect his career, so too is the performance at its heart.</text>
+      <source>Philadelphia Inquirer</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>http://www.philly.com/philly/entertainment/movies/20090109_Mickey_Rourke__art_imitating_life.html</link>
+      <author>Steven Rea</author>
+    </item>
+    <item index="7">
+      <text>Mickey Rourke delivers such an unexpectedly moving, charming and physically impressive performance that he deserves some other award than Guy Who Gets Asked 'What The Hell Happened To You?' Most Often.</text>
+      <source>Seattle Times</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>http://seattletimes.nwsource.com/html/movies/2008605325_mr09wrestler.html</link>
+      <author>Mark Rahner</author>
+    </item>
+    <item index="8">
+      <text>The Wrestler isn't a perfect movie, but Rourke's performance gives it the impact of an atomic elbow drop.</text>
+      <source>Arizona Republic</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>http://www.azcentral.com/ent/movies/articles/2009/01/09/20090109wrestler0109.html</link>
+      <author>Bill Goodykoontz</author>
+    </item>
+    <item index="9">
+      <text>The famously downbeat Aronofsky captures the grimy texture of life at the bummed-out bottom of the wrestling circuit, but the center of the movie is Rourke's unimpeachable performance as a man who exults in self-punishment.</text>
+      <source>Chicago Reader</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>http://onfilm.chicagoreader.com/movies/briefs/33692_WRESTLER.html</link>
+      <author>J. R. Jones</author>
+    </item>
+    <item index="10">
+      <text>Imagining someone other than the beatifically battered Mickey Rourke in the title role of The Wrestler would be like picturing someone other than John Malkovich in Being John Malkovich.</text>
+      <source>Washington Post</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>http://www.washingtonpost.com/wp-dyn/content/article/2008/12/24/AR2008122402133.html</link>
+      <author>John Anderson</author>
+    </item>
+    <item index="11">
+      <text>Mickey Rourke in The Wrestler is one of the all-time exalted examples of an actor meeting a character and of each redeeming the other.</text>
+      <source>San Francisco Chronicle</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>http://www.sfgate.com/cgi-bin/article.cgi?f=/c/a/2008/12/24/DDEJ14U023.DTL&amp;type=movies</link>
+      <author>Mick LaSalle</author>
+    </item>
+    <item index="12">
+      <text>Rourke, in a role that could have invited outsized characterization, instead offers modesty and understatement. This small performance, in a small film, is by far the biggest of his career.</text>
+      <source>The New Republic</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>http://www.tnr.com/politics/story.html?id=da6ab794-feb6-49c3-a261-a0ab48a54295</link>
+      <author>Christopher Orr</author>
+    </item>
+    <item index="13">
+      <text>The Wrestler is suffused with sadness, yet also the wonder of a spirit that refuses to be snuffed out, and it's a lesson to us all.</text>
+      <source>Toronto Star</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>http://www.thestar.com/Entertainment/Movies/article/557928</link>
+      <author>Peter Howell</author>
+    </item>
+    <item index="14">
+      <text>Mickey Rourke plays the battered, broke, lonely hero, Randy ('The Ram') Robinson. This is the performance of his lifetime, will win him a nomination, may win him the Oscar.</text>
+      <source>Chicago Sun-Times</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>http://www.rogerebert.com/reviews/the-wrestler-2008</link>
+      <author>Roger Ebert</author>
+    </item>
+  </reviews>
+  <roles>
+    <item index="0">
+      <photo>http://image.tmdb.org/t/p/original/AvGzQ8fvjurGmZW3W1wlQ5WfSeT.jpg</photo>
+      <role>Randy "Ram"  Robinson</role>
+      <name>Mickey Rourke</name>
+    </item>
+    <item index="1">
+      <photo>http://image.tmdb.org/t/p/original/l87UKhZ1ethWmn8lksmLZ2LcQJ1.jpg</photo>
+      <role>Cassidy</role>
+      <name>Marisa Tomei</name>
+    </item>
+    <item index="2">
+      <photo>http://image.tmdb.org/t/p/original/8FlQq58MYv3Wd91R8WV6jrWIeLy.jpg</photo>
+      <role>Stephanie</role>
+      <name>Evan Rachel Wood</name>
+    </item>
+    <item index="3">
+      <photo>http://image.tmdb.org/t/p/original/ue04GglAWi7FnxLWeESekpRJ8do.jpg</photo>
+      <role>Lenny</role>
+      <name>Mark Margolis</name>
+    </item>
+    <item index="4">
+      <photo>http://image.tmdb.org/t/p/original/hstCbjHGB6gTt7W1v2Ds4gZgCip.jpg</photo>
+      <role>Wayne</role>
+      <name>Todd Barry</name>
+    </item>
+    <item index="5">
+      <photo>http://image.tmdb.org/t/p/original/vxu9cJFuratBSLAhzz3KFqRv6R4.jpg</photo>
+      <role>Scott Brumberg</role>
+      <name>Judah Friedlander</name>
+    </item>
+    <item index="6">
+      <photo>http://image.tmdb.org/t/p/original/tDVGVnzUDPjl8UbHBb6zxqAysfc.jpg</photo>
+      <role>The Ayatollah</role>
+      <name>Ernest Miller</name>
+    </item>
+    <item index="7">
+      <photo>http://image.tmdb.org/t/p/original/yIlmjzp1IX1sehbE0xvozEBQbxA.jpg</photo>
+      <role>Medic</role>
+      <name>Ajay Naidu</name>
+    </item>
+    <item index="8">
+      <photo>http://image.tmdb.org/t/p/original/sNnC9CZmboI13C3ueW6AeXYOQ0w.jpg</photo>
+      <role>Nick Volpe</role>
+      <name>Wass Stevens</name>
+    </item>
+    <item index="9">
+      <photo>http://image.tmdb.org/t/p/original/aNjV02nk7DPIFllFYsFNAM4lZ9d.jpg</photo>
+      <role>Adam</role>
+      <name>John D'Leo</name>
+    </item>
+    <item index="10">
+      <photo>http://image.tmdb.org/t/p/original/eSgxPpUEe0hZcBxQEem3DWeq054.jpg</photo>
+      <role>JAPW Promoter Larry Cohen</role>
+      <name>Gregg Bello</name>
+    </item>
+    <item index="11">
+      <photo>http://image.tmdb.org/t/p/original/nfmv33HC6ik9q5J6BR1Ru5N2IxP.jpg</photo>
+      <role>Necro Butcher</role>
+      <name>Dylan Keith Summers</name>
+    </item>
+    <item index="12">
+      <photo>http://image.tmdb.org/t/p/original/peuSjJeTAR22ezu7MO2DREG0aUK.jpg</photo>
+      <role>Jen</role>
+      <name>Donnetta Lavinia Grays</name>
+    </item>
+    <item index="13">
+      <photo>http://image.tmdb.org/t/p/original/nvq4R3v0s3RQedIjhcNZRyJkkHP.jpg</photo>
+      <role>Dr. Moayedizadeh</role>
+      <name>Armin Amiri</name>
+    </item>
+    <item index="14">
+      <photo>http://image.tmdb.org/t/p/original/lzmW0hnVyyRUkU0tjtFvlfViG9K.jpg</photo>
+      <role>Admissions Desk Woman</role>
+      <name>Marcia Jean Kurtz</name>
+    </item>
+    <item index="15">
+      <photo>http://image.tmdb.org/t/p/original/dGyKNwA3iqr7MuRnjNADYScEIgQ.jpg</photo>
+      <role>Strip Club Best Man</role>
+      <name>Ryan Lynn</name>
+    </item>
+    <item index="16">
+      <photo>http://image.tmdb.org/t/p/original/3yB686fmGoIC4Dv3r1pzz6xjdHK.jpg</photo>
+      <role>Strip Club Bachelor</role>
+      <name>Michael Drayer</name>
+    </item>
+    <item index="17">
+      <photo>http://image.tmdb.org/t/p/original/5F521t68YpgCZSQQCkm5v7LHcGW.jpg</photo>
+      <role>Cheeques Bartender</role>
+      <name>Alyssa Bresnahan</name>
+    </item>
+    <item index="18">
+      <photo>http://image.tmdb.org/t/p/original/kWzrgpzIJMRqN55hHBZrL1w3aoD.jpg</photo>
+      <role>Big Chris</role>
+      <name>Vernon Campbell</name>
+    </item>
+    <item index="19">
+      <photo/>
+      <role>Tanning Salon Owner</role>
+      <name>Bernadette Penotti</name>
+    </item>
+    <item index="20">
+      <photo/>
+      <role>The Legend Johnny Valiant</role>
+      <name>Johnny Valiant</name>
+    </item>
+    <item index="21">
+      <photo>http://image.tmdb.org/t/p/original/awDuR7wyUeyhpnos6YPjjufDLJS.jpg</photo>
+      <role>Ron 'The Truth' Killings</role>
+      <name>Ron Killings</name>
+    </item>
+    <item index="22">
+      <photo>http://image.tmdb.org/t/p/original/gHnfJ6NECWkWV5HmeorjHtro5QE.jpg</photo>
+      <role>Romeo Roselli</role>
+      <name>Giovanni Roselli</name>
+    </item>
+    <item index="23">
+      <photo>http://image.tmdb.org/t/p/original/2UuNYEIzglgHq10ODjEisdXkhD7.jpg</photo>
+      <role>Autograph Fan #1</role>
+      <name>Robert D. Siegel</name>
+    </item>
+    <item index="24">
+      <photo/>
+      <role>Autograph Fan #2</role>
+      <name>Scott Franklin</name>
+    </item>
+    <item index="25">
+      <photo>http://image.tmdb.org/t/p/original/6gIprrLikBbbyhav8REa8OscbBO.jpg</photo>
+      <role>Hudson Acres Lady at Deli Counter</role>
+      <name>Sylvia Kauders</name>
+    </item>
+    <item index="26">
+      <photo/>
+      <role>German Potato Salad Lady at Deli Counter</role>
+      <name>Rebecca Darke</name>
+    </item>
+    <item index="27">
+      <photo>http://image.tmdb.org/t/p/original/f3GAZS0stfSDuea5KqAUJ8fdjCD.jpg</photo>
+      <role>Teamster at Deli Counter</role>
+      <name>E.J. Carroll</name>
+    </item>
+    <item index="28">
+      <photo>http://image.tmdb.org/t/p/original/vqOnhVVShEqBeTiDlkYdiJzLwLk.jpg</photo>
+      <role>Annoyed Man at Deli Counter</role>
+      <name>Abraham Aronofsky</name>
+    </item>
+    <item index="29">
+      <photo/>
+      <role>Annoyed Woman at Deli Counter</role>
+      <name>Charlotte Aronofsky</name>
+    </item>
+    <item index="30">
+      <photo/>
+      <role>Get a Room Lady</role>
+      <name>Jen Cohn</name>
+    </item>
+    <item index="31">
+      <photo/>
+      <role>WXW Announcer</role>
+      <name>Tyrone Scott</name>
+    </item>
+    <item index="32">
+      <photo/>
+      <role>WXW Referee</role>
+      <name>Douglas Crosby</name>
+    </item>
+    <item index="33">
+      <photo/>
+      <role>CZW Announcer</role>
+      <name>Larry Mercer</name>
+    </item>
+    <item index="34">
+      <photo/>
+      <role>ROH Referee</role>
+      <name>Jon Trosky</name>
+    </item>
+    <item index="35">
+      <photo/>
+      <role>Wrestler</role>
+      <name>Brian Heffron</name>
+    </item>
+    <item index="36">
+      <photo>http://image.tmdb.org/t/p/original/gRglZuFrmxNsZ05NRdnu9ri9ebj.jpg</photo>
+      <role>Wrestler</role>
+      <name>Claudio Castagnoli</name>
+    </item>
+    <item index="37">
+      <photo>http://image.tmdb.org/t/p/original/lCptVEgvT7M2NzNkKwZpYYpEWab.jpg</photo>
+      <role>Wrestler</role>
+      <name>David John Markland</name>
+    </item>
+    <item index="38">
+      <photo>http://image.tmdb.org/t/p/original/9YUopTXfT9HCQsGyXONwmqKFDz1.jpg</photo>
+      <role>Wrestler</role>
+      <name>Jess Liaudin</name>
+    </item>
+    <item index="39">
+      <photo>http://image.tmdb.org/t/p/original/cy6Z1gG8NjXsCXlIWtRV72ALnTY.jpg</photo>
+      <role>Wrestler</role>
+      <name>Charles Renner</name>
+    </item>
+    <item index="40">
+      <photo>http://image.tmdb.org/t/p/original/ndo7lcqPh5LGn73BEGY8Mwep1ew.jpg</photo>
+      <role>Wrestler</role>
+      <name>Alex Whybrow</name>
+    </item>
+    <item index="41">
+      <photo/>
+      <role>Alyssa's Roommate (uncredited)</role>
+      <name>Olivia Baseman</name>
+    </item>
+    <item index="42">
+      <photo/>
+      <role>Ring Girl (uncredited)</role>
+      <name>Sakinah Bingham</name>
+    </item>
+    <item index="43">
+      <photo>http://image.tmdb.org/t/p/original/xDq4H9WxamZyFnKUXeWrXgTQFKB.jpg</photo>
+      <role>Crazy Fan (uncredited)</role>
+      <name>Matt Cannon</name>
+    </item>
+    <item index="44">
+      <photo>http://image.tmdb.org/t/p/original/ij4FZN1w1kLsZLzOFEMycOmKcCH.jpg</photo>
+      <role>Fans at Table (uncredited)</role>
+      <name>Peter Conboy</name>
+    </item>
+    <item index="45">
+      <photo/>
+      <role>Fan at Convention (uncredited)</role>
+      <name>Evan Ginzburg</name>
+    </item>
+    <item index="46">
+      <photo/>
+      <role>Fan (uncredited)</role>
+      <name>Ryan Tygh</name>
+    </item>
+    <item index="47">
+      <photo>http://image.tmdb.org/t/p/original/k06MvLRvUKes7NOiBFxVOr7ex4F.jpg</photo>
+      <role>Audience Member (uncredited)</role>
+      <name>Brandon DiCamillo</name>
+    </item>
+    <item index="48">
+      <photo/>
+      <role>Girl in Supermarket (uncredited)</role>
+      <name>Anna-Karin Eskilsson</name>
+    </item>
+    <item index="49">
+      <photo/>
+      <role>Wrestler (uncredited)</role>
+      <name>Cory Kastle</name>
+    </item>
+    <item index="50">
+      <photo/>
+      <role>Wrestler (uncredited)</role>
+      <name>Robert Oppel</name>
+    </item>
+    <item index="51">
+      <photo/>
+      <role>DJ (uncredited)</role>
+      <name>Piper Kenny</name>
+    </item>
+    <item index="52">
+      <photo/>
+      <role>Medic #2 (uncredited)</role>
+      <name>Michael Marino</name>
+    </item>
+    <item index="53">
+      <photo/>
+      <role>Wrestling Fan (uncredited)</role>
+      <name>Rafaela Ochoa</name>
+    </item>
+    <item index="54">
+      <photo>http://image.tmdb.org/t/p/original/Aufg5TLu3dmxy35RT9rY4PIsLXs.jpg</photo>
+      <role>Wrestling Fan (uncredited)</role>
+      <name>Bill Walters</name>
+    </item>
+    <item index="55">
+      <photo/>
+      <role>Vendor (uncredited)</role>
+      <name>Eric Santamaria</name>
+    </item>
+    <item index="56">
+      <photo>http://image.tmdb.org/t/p/original/LgEKz7lPx7zmxqIT3WVDtiW59m.jpg</photo>
+      <role>Dancer (uncredited)</role>
+      <name>Erika Smith</name>
+    </item>
+    <item index="57">
+      <photo/>
+      <role>Strip Club Patron (uncredited)</role>
+      <name>Paul Thornton</name>
+    </item>
+    <item index="58">
+      <photo>http://image.tmdb.org/t/p/original/wchvu8GwDksX3fazbQGy83SSvYZ.jpg</photo>
+      <role>Deli Customer (uncredited)</role>
+      <name>Ben Van Bergen</name>
+    </item>
+    <item index="59">
+      <photo/>
+      <role>Sumo Wrestler (uncredited)</role>
+      <name>Emmanuel Yarborough</name>
+    </item>
+    <item index="60">
+      <photo/>
+      <role/>
+      <name>Andrew Anderson</name>
+    </item>
+    <item index="61">
+      <photo/>
+      <role/>
+      <name>Pappadon</name>
+    </item>
+    <item index="62">
+      <photo/>
+      <role/>
+      <name>Jay Santana</name>
+    </item>
+    <item index="63">
+      <photo/>
+      <role/>
+      <name>Robert Strauss</name>
+    </item>
+    <item index="64">
+      <photo>http://image.tmdb.org/t/p/original/rpzLkKZXMaABKQ2heBpntbhOM26.jpg</photo>
+      <role/>
+      <name>Nicholas K. Berk</name>
+    </item>
+    <item index="65">
+      <photo>http://image.tmdb.org/t/p/original/kaQlH3kTMBIN0hrLPzqhHZXcTra.jpg</photo>
+      <role/>
+      <name>Darnell Kittrell</name>
+    </item>
+    <item index="66">
+      <photo>http://image.tmdb.org/t/p/original/mLfXNt9XGNqwGUExqyI5ahsVhzw.jpg</photo>
+      <role/>
+      <name>Nate Hatred</name>
+    </item>
+    <item index="67">
+      <photo/>
+      <role/>
+      <name>Lloyd Anoa'i</name>
+    </item>
+    <item index="68">
+      <photo>http://image.tmdb.org/t/p/original/tyBKVPB9LcSo2UfS13nPnaQKT1F.jpg</photo>
+      <role/>
+      <name>Jamar Shipman</name>
+    </item>
+    <item index="69">
+      <photo/>
+      <role/>
+      <name>James Manley</name>
+    </item>
+    <item index="70">
+      <photo>http://image.tmdb.org/t/p/original/bVf0WH6DnSYhco9qwXwaaDitnql.jpg</photo>
+      <role/>
+      <name>John Corson</name>
+    </item>
+    <item index="71">
+      <photo>http://image.tmdb.org/t/p/original/hSVce2s4qKwY7yE6cZDJ1KrinBE.jpg</photo>
+      <role/>
+      <name>Dustin Howard</name>
+    </item>
+    <item index="72">
+      <photo>http://image.tmdb.org/t/p/original/sttpGfJCVeHNOosf8aTzUJdRfJs.jpg</photo>
+      <role/>
+      <name>Steven Haworth</name>
+    </item>
+    <item index="73">
+      <photo/>
+      <role/>
+      <name>Kristopher Cope</name>
+    </item>
+    <item index="74">
+      <photo/>
+      <role>Wrestler (uncredited)</role>
+      <name>John Zandig</name>
+    </item>
+  </roles>
+  <similar>
+    <item index="0">A History of Violence</item>
+    <item index="1">Eastern Promises</item>
+    <item index="2">Michael Clayton</item>
+    <item index="3">The Fighter</item>
+    <item index="4">Magnolia</item>
+    <item index="5">Sideways</item>
+    <item index="6">Pi</item>
+    <item index="7">Unforgiven</item>
+    <item index="8">Crash</item>
+    <item index="9">Traffic</item>
+    <item index="10">Raging Bull</item>
+    <item index="11">21 Grams</item>
+    <item index="12">25th Hour</item>
+    <item index="13">Munich</item>
+    <item index="14">Before the Devil Knows You're Dead</item>
+    <item index="15">Dog Day Afternoon</item>
+    <item index="16">Miller's Crossing</item>
+    <item index="17">Adaptation.</item>
+    <item index="18">L.A. Confidential</item>
+    <item index="19">There Will Be Blood</item>
+  </similar>
+  <studio>Saturn Films</studio>
+  <summary>Aging wrestler Randy "The Ram" Robinson is long past his prime but still ready and rarin' to go on the pro-wrestling circuit. After a particularly brutal beating, however, Randy hangs up his tights, pursues a serious relationship with a long-in-the-tooth stripper, and tries to reconnect with his estranged daughter. But he can't resist the lure of the ring and readies himself for a comeback.</summary>
+  <tagline>Love. Pain. Glory.</tagline>
+  <tags/>
+  <themes/>
+  <title>The Wrestler</title>
+  <writers>
+    <item index="0">
+      <photo>http://image.tmdb.org/t/p/original/2UuNYEIzglgHq10ODjEisdXkhD7.jpg</photo>
+      <role/>
+      <name>Robert D. Siegel</name>
+    </item>
+  </writers>
+  <year>2008</year>
+</Movie>

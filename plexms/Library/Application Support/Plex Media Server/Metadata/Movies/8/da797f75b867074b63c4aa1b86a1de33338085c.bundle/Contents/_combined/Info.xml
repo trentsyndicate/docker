@@ -1,0 +1,417 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Movie>
+  <art>
+    <item external="True" url="http://image.tmdb.org/t/p/original/g6EFJmGHbyQjgGK58FZ6FdvvSEy.jpg" sort_order="1" provider="com.plexapp.agents.imdb" media="com.plexapp.agents.imdb_4f85681bfdbd80b05d51320ac5b88d54f3857d49"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/1qGzqGUd1pa05aqYXGSbLkiBlLB.jpg" preview="com.plexapp.agents.imdb_2dc85db0f2f2e2664c1cd8472318569e5dadfa0c" sort_order="2" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/rPCvRf72tkMCao9mRT99DYJUZLE.jpg" preview="com.plexapp.agents.imdb_3024375b5f8f9f11193f29d38c8d04128c8320ea" sort_order="3" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/6v9KZ5DEwT1cgnpRDbHfS5edXpe.jpg" preview="com.plexapp.agents.imdb_1fbcdcf36621cb90af21cde8ca51cf262e737778" sort_order="4" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/A7t83cscR3kbgyDPaTDSM3gi1ii.jpg" preview="com.plexapp.agents.imdb_3ae87202dd048ddeee6d76cc8684fa9af08c7c34" sort_order="5" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/hYRkKcX9FOuHfd4coca6C6nWVuN.jpg" preview="com.plexapp.agents.imdb_a4644812633e53495dcb11d1fec7b9b7bd09abb1" sort_order="6" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/JyOHUWkB6ILo0zGL4jDQCfaYak.jpg" preview="com.plexapp.agents.imdb_5d58f74f9dc09a9c82954eb5be4834c6687040e7" sort_order="7" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/gyDpttDrIS5fJkzQ5u4sSLGqSgX.jpg" preview="com.plexapp.agents.imdb_31d8ac1c7df2483de4589e365a85919ae499e129" sort_order="8" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/xpSMuU01it6ZLmNZF0uvLxGJOBj.jpg" preview="com.plexapp.agents.imdb_52ff3f300fbceef43d7886146164afa983518bb2" sort_order="9" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/xpcyGWrMYavuYkOOhLuOHeuvmPe.jpg" preview="com.plexapp.agents.imdb_46685660e61cfb1d98d3b5a0655e96f10ed20d12" sort_order="10" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/eWzwYqBm5iztV1IEVWIfGUEng1u.jpg" preview="com.plexapp.agents.imdb_17ec31e157364d8953b42935a70515b14eb92bd4" sort_order="11" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/fHkzkQxqyyEdLN55ACURg4DnJxI.jpg" preview="com.plexapp.agents.imdb_6c2b93042df41137c34ce4722361edbeb3ce8391" sort_order="12" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/1pctTFmg6WYFT1aMzAM41hgSACW.jpg" preview="com.plexapp.agents.imdb_08d0c90aa36541465038e05f7020e761609f45e4" sort_order="13" provider="com.plexapp.agents.imdb"/>
+  </art>
+  <banners/>
+  <chapters>
+    <item index="0">
+      <title>Tala's Tale</title>
+      <end_time_offset>435000</end_time_offset>
+      <start_time_offset>0</start_time_offset>
+    </item>
+    <item index="1">
+      <title>"Where You Are"</title>
+      <end_time_offset>719000</end_time_offset>
+      <start_time_offset>435000</start_time_offset>
+    </item>
+    <item index="2">
+      <title>Motunui</title>
+      <end_time_offset>973000</end_time_offset>
+      <start_time_offset>719000</start_time_offset>
+    </item>
+    <item index="3">
+      <title>"How Far I'll Go"</title>
+      <end_time_offset>1289000</end_time_offset>
+      <start_time_offset>973000</start_time_offset>
+    </item>
+    <item index="4">
+      <title>"We Know the Way"</title>
+      <end_time_offset>1682000</end_time_offset>
+      <start_time_offset>1289000</start_time_offset>
+    </item>
+    <item index="5">
+      <title>Beyond the Reef</title>
+      <end_time_offset>1931000</end_time_offset>
+      <start_time_offset>1682000</start_time_offset>
+    </item>
+    <item index="6">
+      <title>"The Ocean Is a Friend of Mine"</title>
+      <end_time_offset>2116000</end_time_offset>
+      <start_time_offset>1931000</start_time_offset>
+    </item>
+    <item index="7">
+      <title>"You're Welcome"</title>
+      <end_time_offset>2496000</end_time_offset>
+      <start_time_offset>2116000</start_time_offset>
+    </item>
+    <item index="8">
+      <title>"You Will Restore the Heart"</title>
+      <end_time_offset>2704000</end_time_offset>
+      <start_time_offset>2496000</start_time_offset>
+    </item>
+    <item index="9">
+      <title>Beware the Kakamora</title>
+      <end_time_offset>2950000</end_time_offset>
+      <start_time_offset>2704000</start_time_offset>
+    </item>
+    <item index="10">
+      <title>"Hero to All"</title>
+      <end_time_offset>3201000</end_time_offset>
+      <start_time_offset>2950000</start_time_offset>
+    </item>
+    <item index="11">
+      <title>The Realm of Monsters</title>
+      <end_time_offset>3453000</end_time_offset>
+      <start_time_offset>3201000</start_time_offset>
+    </item>
+    <item index="12">
+      <title>"Shiny"</title>
+      <end_time_offset>3945000</end_time_offset>
+      <start_time_offset>3453000</start_time_offset>
+    </item>
+    <item index="13">
+      <title>Every Picture Tells a Story</title>
+      <end_time_offset>4246000</end_time_offset>
+      <start_time_offset>3945000</start_time_offset>
+    </item>
+    <item index="14">
+      <title>Wayfinding</title>
+      <end_time_offset>4372000</end_time_offset>
+      <start_time_offset>4246000</start_time_offset>
+    </item>
+    <item index="15">
+      <title>Te Ka</title>
+      <end_time_offset>4541000</end_time_offset>
+      <start_time_offset>4372000</start_time_offset>
+    </item>
+    <item index="16">
+      <title>"I Am Moana"</title>
+      <end_time_offset>4997000</end_time_offset>
+      <start_time_offset>4541000</start_time_offset>
+    </item>
+    <item index="17">
+      <title>"Returning the Heart"</title>
+      <end_time_offset>5390000</end_time_offset>
+      <start_time_offset>4997000</start_time_offset>
+    </item>
+    <item index="18">
+      <title>Te Fiti</title>
+      <end_time_offset>5773000</end_time_offset>
+      <start_time_offset>5390000</start_time_offset>
+    </item>
+    <item index="19">
+      <title>End Credits</title>
+      <end_time_offset>-1</end_time_offset>
+      <start_time_offset>5773000</start_time_offset>
+    </item>
+  </chapters>
+  <collections/>
+  <content_rating>PG</content_rating>
+  <countries>
+    <item index="0">USA</item>
+  </countries>
+  <directors>
+    <item index="0">
+      <photo>http://image.tmdb.org/t/p/original/lakkEixaHuVflUy5nkqeKI7LMT.jpg</photo>
+      <role/>
+      <name>Ron Clements</name>
+    </item>
+    <item index="1">
+      <photo>http://image.tmdb.org/t/p/original/jQCExCN0TcjRkv2EbnbIDH7ycfR.jpg</photo>
+      <role/>
+      <name>John Musker</name>
+    </item>
+  </directors>
+  <duration>6420000</duration>
+  <genres>
+    <item index="0">Animation</item>
+    <item index="1">Adventure</item>
+    <item index="2">Comedy</item>
+    <item index="3">Family</item>
+    <item index="4">Fantasy</item>
+    <item index="5">Musical</item>
+  </genres>
+  <originally_available_at>2016-11-23</originally_available_at>
+  <posters>
+    <item external="True" url="http://image.tmdb.org/t/p/original/z4x0Bp48ar3Mda8KiPD1vwSY3D8.jpg" sort_order="1" provider="com.plexapp.agents.imdb" media="com.plexapp.agents.imdb_a0b730a96d4cfbc7d9e88ff3273a66d1491828b6"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/qC9Y4ZGXpZIIVJUUJT3XiNRAZGn.jpg" preview="com.plexapp.agents.imdb_d9d5b6fda2872d66c48c33ab8ed62e3acb2a3551" sort_order="2" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/q7TCpGWA08tmrF3VA9MQycbkHo2.jpg" preview="com.plexapp.agents.imdb_55721aeb555f6da3a7baa099b46d29227cdbdc6d" sort_order="3" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/n7AJMME1l8xg3S7OKoFasW13N5l.jpg" preview="com.plexapp.agents.imdb_dd662917c299d3f769fab9ca04b350a5de8a12b4" sort_order="4" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/pp6Cd5XuTiMsWZE6dTPp97J8Byr.jpg" preview="com.plexapp.agents.imdb_ce11fab36b21a0c2e87e903ac60bc2e90cab659b" sort_order="5" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/okgLEF1yObvTOzfKc6pkoovFHFg.jpg" preview="com.plexapp.agents.imdb_0ebd45a52a87577ab2f2aad5f9030cfd57a81a18" sort_order="6" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/cuEohgNSBwOuKdQKXgBDI5RTsro.jpg" preview="com.plexapp.agents.imdb_27262140b667205f7e5c24959fd8fce4724d80bd" sort_order="7" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/tXTKlmUHTW03DkXeLxQ8pqDFHhl.jpg" preview="com.plexapp.agents.imdb_158269ab2d22b20b0a2502c6fab415b6c0409b70" sort_order="8" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/yvfAjygFvH0nCNtywOjbbpPdTFc.jpg" preview="com.plexapp.agents.imdb_4948aa16a8b78cbde983510403f01f91d554a082" sort_order="9" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/tLXXvremqD8dBAJj6H7XC2xt7IX.jpg" preview="com.plexapp.agents.imdb_b44bb17fa1c42fdc43f9f2bcd4ed6f074725ad7a" sort_order="10" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/vUcw7CLBAQl3gLQgU128eFQwhgp.jpg" preview="com.plexapp.agents.imdb_cda4b890fa057700d55b0a4b430b8b00870eb774" sort_order="11" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/8m0lCMGVLuDod7lL20deiXInMq0.jpg" preview="com.plexapp.agents.imdb_94df1529ab2adacc51d064b5c771c2112d02e07e" sort_order="12" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/bXXqTF83FFaTJqhLbhUpH2eZN1u.jpg" preview="com.plexapp.agents.imdb_ae7eaa2fb1565eb0336081d013f7db158880d676" sort_order="13" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/fass9TJ2a06LYakYbiI11AeSdvQ.jpg" preview="com.plexapp.agents.imdb_39fc3c4571eaabbabd22458a2019b521ade2661a" sort_order="14" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/i2p2qeDWzq83QVBHAq24OdlSExC.jpg" preview="com.plexapp.agents.imdb_93cbc2b3007f7b71bd3e73af295a50e8266aa4cd" sort_order="15" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/rvjnjI5zrCsjkgJPXCwGOcIyJAe.jpg" preview="com.plexapp.agents.imdb_426865a8bbabca75cdd61be7ff211e493b0c6a33" sort_order="16" provider="com.plexapp.agents.imdb"/>
+  </posters>
+  <producers>
+    <item index="0">
+      <photo/>
+      <role/>
+      <name>Osnat Shurer</name>
+    </item>
+  </producers>
+  <rating>9.6</rating>
+  <rating_image>rottentomatoes://image.rating.ripe</rating_image>
+  <audience_rating>8.9</audience_rating>
+  <audience_rating_image>rottentomatoes://image.rating.upright</audience_rating_image>
+  <reviews>
+    <item index="0">
+      <text>This is Disney's way of having its formulaic cake and eating it, too: "We know what we're doing here, and we know that you know it, too. So please stop fretting and enjoy while the pieces fall into place."</text>
+      <source>San Diego Reader</source>
+      <image>rottentomatoes://image.review.rotten</image>
+      <link>http://www.sandiegoreader.com/movies/moana/</link>
+      <author>Matthew Lickona</author>
+    </item>
+    <item index="1">
+      <text>The narrative is a fairly predictable hero's journey -- Maui even calls her "The Chosen One" -- but the movie is refreshing for its lack of a love interest; instead Moana learns how to chart her own course.</text>
+      <source>Chicago Reader</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>http://www.chicagoreader.com/chicago/moana-3d/MovieTimes?oid=24190856</link>
+      <author>Leah Pickett</author>
+    </item>
+    <item index="2">
+      <text>An absolute delight, a lush, exuberant quest fable full of big musical numbers and featuring perhaps the most stunning visuals of any Disney film to date.</text>
+      <source>The Atlantic</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>http://www.theatlantic.com/entertainment/archive/2016/11/moana-a-big-beautiful-disney-smash/508568/</link>
+      <author>Christopher Orr</author>
+    </item>
+    <item index="3">
+      <text>Story of Pacific Islander girl on a quest benefits from Dwayne Johnson's comic timing and a Lin-Manuel Miranda soundtrack</text>
+      <source>Rolling Stone</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>http://www.rollingstone.com/movies/reviews/peter-travers-moana-movie-review-w451909</link>
+      <author>Peter Travers</author>
+    </item>
+    <item index="4">
+      <text>The film achieves what the best Disney animated features do: a sense of place that is refined and specific.</text>
+      <source>NPR</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>http://www.npr.org/2016/11/23/503039259/disneys-moana-needs-no-prince-just-the-land-and-sea?utm_medium=RSS&amp;utm_campaign=movies</link>
+      <author>Andrew Lapin</author>
+    </item>
+    <item index="5">
+      <text>[Moana] is beautiful in more ways than I can tell, thanks to the brilliance of more animators than I could count.</text>
+      <source>Wall Street Journal</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>http://www.wsj.com/articles/moana-review-the-waves-part-1479935029</link>
+      <author>Joe Morgenstern</author>
+    </item>
+    <item index="6">
+      <text>Moana is a movie of natural delights.</text>
+      <source>Toronto Star</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>https://www.thestar.com/entertainment/movies/2016/11/23/moana-rides-ocean-wave-to-female-empowerment-review.html</link>
+      <author>Peter Howell</author>
+    </item>
+    <item index="7">
+      <text>There's not a prince or potential husband in sight; Moana's future is entirely defined by her leadership and ability to fend off the mansplaining know-it-all Maui. As messages go, we'll take it.</text>
+      <source>Time Out</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>https://www.timeout.com/us/film/moana</link>
+      <author>Dave Calhoun</author>
+    </item>
+    <item index="8">
+      <text>[Moana] has supercharged wit, eye-popping visuals featuring azure seas and glowing coral, spirited voice work from Auli'i Cravalho as Moana and Dwayne Johnson.</text>
+      <source>Christian Science Monitor</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>http://www.csmonitor.com/The-Culture/Movies/2016/1123/Moana-is-one-of-the-better-Disney-animated-features-to-come-along-in-a-while</link>
+      <author>Peter Rainer</author>
+    </item>
+    <item index="9">
+      <text>Say aloha to "Moana."</text>
+      <source>Newark Star-Ledger</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>http://www.nj.com/entertainment/index.ssf/2016/11/moana_review_disneys_latest_is_a_polynesian_treat.html</link>
+      <author>Stephen Whitty</author>
+    </item>
+    <item index="10">
+      <text>A progressive and rousing tale that becomes the crown jewel of the latest renaissance from the company.</text>
+      <source>Globe and Mail</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>http://www.theglobeandmail.com/arts/film/film-reviews/moana-disneys-latest-big-hero-fix-is-a-progressive-and-rousing-tale/article32958975/</link>
+      <author>Andrew Parker</author>
+    </item>
+    <item index="11">
+      <text>If movies are meant to be a getaway, "Moana" is like a vacation.</text>
+      <source>Detroit News</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>http://www.detroitnews.com/story/entertainment/movies/2016/11/22/review-moanas-crisp-visuals-create-island-paradise/94316480/</link>
+      <author>Adam Graham</author>
+    </item>
+    <item index="12">
+      <text>While Moana's story is rooted in the past, she's a modern heroine, a smart, resourceful leader who learns to find her own way.</text>
+      <source>St. Louis Post-Dispatch</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>http://www.stltoday.com/entertainment/movies/reviews/disney-s-moana-is-a-smart-tale-of-a-modern/article_612b386c-8a85-5adb-a94e-b41ec867a1ac.html</link>
+      <author>Jody Mitori</author>
+    </item>
+    <item index="13">
+      <text>"Moana" is a welcome step forward in its message and its look, and for young women characters in this type of film. It's a way without many satisfying twists and turns, but forward nevertheless.</text>
+      <source>Arizona Republic</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>http://www.azcentral.com/story/entertainment/movies/billgoodykoontz/2016/11/22/moana-disney-movie-review/94250398/</link>
+      <author>Bill Goodykoontz</author>
+    </item>
+    <item index="14">
+      <text>Paying respect and homage to the Polynesian culture and its ancient mythology, the Walt Disney animation Moana is as culturally rich as it is entertaining.</text>
+      <source>Toronto Sun</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>http://www.torontosun.com/2016/11/22/moana-review-disney-musical-fun-for-both-kids-and-adults</link>
+      <author>Bruce Kirkland</author>
+    </item>
+    <item index="15">
+      <text>Moana is solid "retro Disney" - a new film that embraces older ideas, themes, and narrative approaches.</text>
+      <source>ReelViews</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>http://www.reelviews.net/reelviews/moana</link>
+      <author>James Berardinelli</author>
+    </item>
+    <item index="16">
+      <text>You succumb to an enjoyable experience that splits the difference between mythology and merchandising.</text>
+      <source>New York Times</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>http://www.nytimes.com/2016/11/22/movies/moana-review.html</link>
+      <author>A.O. Scott</author>
+    </item>
+    <item index="17">
+      <text>For holiday family entertainment, it does not get better than a fantastically lush Disney musical.</text>
+      <source>Us Weekly</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>http://www.usmagazine.com/entertainment/news/7-standout-new-movies-to-catch-this-thanksgiving-break-w451450</link>
+      <author>Mara Reinstein</author>
+    </item>
+    <item index="18">
+      <text>Disney continues its animation roll with Moana, a seafaring quest that sails past its one rocky patch with visual brilliance and several Broadway-ready songs, the latter conjured in part by Hamilton's Lin-Manuel Miranda.</text>
+      <source>CNN.com</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>http://www.cnn.com/2016/11/22/entertainment/moana-review/index.html</link>
+      <author>Brian Lowry</author>
+    </item>
+    <item index="19">
+      <text>While the main themes of "Moana" are identity and self-discovery - familiar territory, to be sure - the film manages to enliven such well-traveled latitudes with a breeze as fresh as the islands.</text>
+      <source>Washington Post</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>https://www.washingtonpost.com/goingoutguide/movies/disneys-moana-is-a-breath-of-fresh-island-air/2016/11/22/96bd1f90-a50f-11e6-8fc0-7be8f848c492_story.html</link>
+      <author>Caitlin Moore</author>
+    </item>
+  </reviews>
+  <roles>
+    <item index="0">
+      <photo>http://image.tmdb.org/t/p/original/av5ZZ67BlHCzyWrUBg5xTUNGiWq.jpg</photo>
+      <role>Moana (voice)</role>
+      <name>Auli'i Cravalho</name>
+    </item>
+    <item index="1">
+      <photo>http://image.tmdb.org/t/p/original/akweMz59qsSoPUJYe7QpjAc2rQp.jpg</photo>
+      <role>Maui (voice)</role>
+      <name>Dwayne Johnson</name>
+    </item>
+    <item index="2">
+      <photo>http://image.tmdb.org/t/p/original/8UGo2lHG5wtnH55lKPDm8oJ0IOk.jpg</photo>
+      <role>Gramma Tala (voice)</role>
+      <name>Rachel House</name>
+    </item>
+    <item index="3">
+      <photo>http://image.tmdb.org/t/p/original/1ckHDFgKXJ8pazmvLCW7DeOKqA0.jpg</photo>
+      <role>Chief Tui (voice)</role>
+      <name>Temuera Morrison</name>
+    </item>
+    <item index="4">
+      <photo>http://image.tmdb.org/t/p/original/juL82d8Cl1AQ1cUIOgJLRBGuNyY.jpg</photo>
+      <role>Tamatoa (voice)</role>
+      <name>Jemaine Clement</name>
+    </item>
+    <item index="5">
+      <photo>http://image.tmdb.org/t/p/original/vJksimGKKHXx6NlvqVIBfmo1XQA.jpg</photo>
+      <role>Sina (voice)</role>
+      <name>Nicole Scherzinger</name>
+    </item>
+    <item index="6">
+      <photo>http://image.tmdb.org/t/p/original/6QuMtbD8kmhpwWhFKfNzEvHRLOu.jpg</photo>
+      <role>Heihei / Villager #3 (voice)</role>
+      <name>Alan Tudyk</name>
+    </item>
+    <item index="7">
+      <photo/>
+      <role>Toddler Moana (voice)</role>
+      <name>Louise Bush</name>
+    </item>
+    <item index="8">
+      <photo>http://image.tmdb.org/t/p/original/iczG0WVwwifbOTY5JWvBVz9DVaj.jpg</photo>
+      <role>Chief Tui (singing voice)</role>
+      <name>Chris Jackson</name>
+    </item>
+    <item index="9">
+      <photo>http://image.tmdb.org/t/p/original/7yaqZT5e1UlxBmqQ3xpXAUP7SNL.jpg</photo>
+      <role>Fisherman (voice)</role>
+      <name>Oscar Kightley</name>
+    </item>
+    <item index="10">
+      <photo>http://image.tmdb.org/t/p/original/51rD9ZZYyXNmk7xiotiVBqhBHqS.jpg</photo>
+      <role>Villager #1 (voice)</role>
+      <name>Troy Polamalu</name>
+    </item>
+    <item index="11">
+      <photo>http://image.tmdb.org/t/p/original/qPxMhzDmrvuIQZCeamiUzynLEFz.jpg</photo>
+      <role>Villager #2 (voice)</role>
+      <name>Puanani Cravalho</name>
+    </item>
+  </roles>
+  <similar>
+    <item index="0">Finding Dory</item>
+    <item index="1">Sing</item>
+    <item index="2">Zootopia</item>
+    <item index="3">Kubo and the Two Strings</item>
+    <item index="4">The Good Dinosaur</item>
+    <item index="5">The Secret Life of Pets</item>
+    <item index="6">Trolls</item>
+    <item index="7">Storks</item>
+    <item index="8">Kung Fu Panda 3</item>
+    <item index="9">The Jungle Book</item>
+    <item index="10">Fantastic Beasts and Where to Find Them</item>
+    <item index="11">Miss Peregrine's Home for Peculiar Children</item>
+    <item index="12">Tangled</item>
+    <item index="13">The Princess and the Frog</item>
+    <item index="14">Hotel Transylvania 2</item>
+    <item index="15">Mulan</item>
+    <item index="16">Pete's Dragon</item>
+    <item index="17">Lilo &amp; Stitch</item>
+    <item index="18">Ice Age: Collision Course</item>
+    <item index="19">Frozen</item>
+  </similar>
+  <studio>Walt Disney Pictures</studio>
+  <summary>In Ancient Polynesia, when a terrible curse incurred by Maui reaches an impetuous Chieftain's daughter's island, she answers the Ocean's call to seek out the demigod to set things right.</summary>
+  <tagline>The ocean is calling.</tagline>
+  <tags/>
+  <themes/>
+  <title>Moana</title>
+  <writers>
+    <item index="0">
+      <photo>http://image.tmdb.org/t/p/original/2gIwj1cnqZIKWaFg0ihmZnuZypR.jpg</photo>
+      <role/>
+      <name>Jared Bush</name>
+    </item>
+  </writers>
+  <year>2016</year>
+</Movie>

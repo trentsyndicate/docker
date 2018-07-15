@@ -1,0 +1,575 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Movie id="tt0088763">
+  <rating>9.6</rating>
+  <title_sort/>
+  <art>
+    <item external="True" url="http://image.tmdb.org/t/p/original/4co826v5HlHwzpYfTJJgwfBR9ZH.jpg" preview="600f3c87ef57f1ad2d4e16e1273772c019feeb6d" sort_order="1"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/8fluiiTRgYGktgRnVwciuwEFmAH.jpg" preview="c6e6d54389f8854ac30d20faffc6552934dd52a2" sort_order="2"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/pfe3iD5zgch74pVxwLNje63v4kf.jpg" preview="be4548d3ffc7dd35d8e0e52a204e0f4b1bf440ea" sort_order="3"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/kPI4WOpYecuX92KRr43JHqaUujk.jpg" preview="4dbbcc7e661c6dc60852d337459d80ddaccc682f" sort_order="4"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/8dW77FN5r8H0WjlQe3i71aQkCGf.jpg" preview="585d80e37f8fec58d23d27f48c6cd5e792c11182" sort_order="5"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/x4N74cycZvKu5k3KDERJay4ajR3.jpg" preview="762a58d882c5ca1014abfbf731709b6e4a0409cb" sort_order="6"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/r6uvRozSY7DITG48ndFHvTjh8hc.jpg" preview="b36419ca1a8f99e0c94cb7f9f0f0f1d5ea30e36e" sort_order="7"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/mJaVISlECd0u3ojqwJFdnCb5ttZ.jpg" preview="4fb53433e9af8887e7848b6bf060046280fa0b92" sort_order="8"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/5hqWyAi9ta26jdLeq3E9Xy5vlzC.jpg" preview="91e9e5f8d65248015e670df0788fef0e0e26304c" sort_order="9"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/55LP95aktZlGn2uRKO15qEUrIfU.jpg" preview="57808650656d5115b1815bb5ffdbc2f3df369276" sort_order="10"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/egHZrxeISVru2JXgZBJR4Vy5U1K.jpg" preview="db3ab17520994e5e73d07740f992919e8ae1b391" sort_order="11"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/wgatx4dNByQTHE8TzmxTBoEAuSl.jpg" preview="953d5a637ceef40b30836b9f8e7cc770a35d1805" sort_order="12"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/3CoPJIsimrAnswGEFMNAH0Fv3qM.jpg" preview="2a2e790a3a3cd09330736e9060d6bf307683eda5" sort_order="13"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/AgQ5hH1ciPc584OIaUlqHLEwJZ6.jpg" preview="0437be34e96d19e970905d7aa121551536c31a78" sort_order="14"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/e7SXujuOFtO5w462aQzcs6KJPWc.jpg" preview="eeb9d7a37a456e4f7b27977e3e08ad9bb01dc2c1" sort_order="15"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/9dGZ1xz0VFFKfXECAkoMfhDAdF6.jpg" preview="bc002241c6588213758f781bc6dc1b81dd01ce9e" sort_order="16"/>
+  </art>
+  <writers>
+    <item index="0">
+      <photo>http://image.tmdb.org/t/p/original/isCuZ9PWIOyXzdf3ihodXzjIumL.jpg</photo>
+      <role/>
+      <name>Robert Zemeckis</name>
+    </item>
+    <item index="1">
+      <photo>http://image.tmdb.org/t/p/original/3LMtxKoveYdhHQqHUBKdqK7SnIQ.jpg</photo>
+      <role/>
+      <name>Bob Gale</name>
+    </item>
+  </writers>
+  <chapters>
+    <item index="0">
+      <title>Main Titles</title>
+      <end_time_offset>253000</end_time_offset>
+      <start_time_offset>0</start_time_offset>
+    </item>
+    <item index="1">
+      <title>Late for School</title>
+      <end_time_offset>407000</end_time_offset>
+      <start_time_offset>253000</start_time_offset>
+    </item>
+    <item index="2">
+      <title>The Slacker</title>
+      <end_time_offset>705000</end_time_offset>
+      <start_time_offset>407000</start_time_offset>
+    </item>
+    <item index="3">
+      <title>The Family McFly</title>
+      <end_time_offset>1084000</end_time_offset>
+      <start_time_offset>705000</start_time_offset>
+    </item>
+    <item index="4">
+      <title>A Time Machine?</title>
+      <end_time_offset>1692000</end_time_offset>
+      <start_time_offset>1084000</start_time_offset>
+    </item>
+    <item index="5">
+      <title>Escape to the Past</title>
+      <end_time_offset>1890000</end_time_offset>
+      <start_time_offset>1692000</start_time_offset>
+    </item>
+    <item index="6">
+      <title>1955</title>
+      <end_time_offset>2320000</end_time_offset>
+      <start_time_offset>1890000</start_time_offset>
+    </item>
+    <item index="7">
+      <title>Dad the Dork</title>
+      <end_time_offset>2482000</end_time_offset>
+      <start_time_offset>2320000</start_time_offset>
+    </item>
+    <item index="8">
+      <title>Calvin &amp; Lorraine</title>
+      <end_time_offset>2873000</end_time_offset>
+      <start_time_offset>2482000</start_time_offset>
+    </item>
+    <item index="9">
+      <title>Future Boy &amp; Doc</title>
+      <end_time_offset>3353000</end_time_offset>
+      <start_time_offset>2873000</start_time_offset>
+    </item>
+    <item index="10">
+      <title>Marty's Problem</title>
+      <end_time_offset>3529000</end_time_offset>
+      <start_time_offset>3353000</start_time_offset>
+    </item>
+    <item index="11">
+      <title>The Matchmaker</title>
+      <end_time_offset>3916000</end_time_offset>
+      <start_time_offset>3529000</start_time_offset>
+    </item>
+    <item index="12">
+      <title>Skateboard Hero</title>
+      <end_time_offset>4600000</end_time_offset>
+      <start_time_offset>3916000</start_time_offset>
+    </item>
+    <item index="13">
+      <title>The Big Date</title>
+      <end_time_offset>4814000</end_time_offset>
+      <start_time_offset>4600000</start_time_offset>
+    </item>
+    <item index="14">
+      <title>The Real George</title>
+      <end_time_offset>5243000</end_time_offset>
+      <start_time_offset>4814000</start_time_offset>
+    </item>
+    <item index="15">
+      <title>Johnny B. Goode</title>
+      <end_time_offset>5472000</end_time_offset>
+      <start_time_offset>5243000</start_time_offset>
+    </item>
+    <item index="16">
+      <title>Back to the Future</title>
+      <end_time_offset>6100000</end_time_offset>
+      <start_time_offset>5472000</start_time_offset>
+    </item>
+    <item index="17">
+      <title>Doc's Decision</title>
+      <end_time_offset>6401000</end_time_offset>
+      <start_time_offset>6100000</start_time_offset>
+    </item>
+    <item index="18">
+      <title>Future Shock</title>
+      <end_time_offset>6684000</end_time_offset>
+      <start_time_offset>6401000</start_time_offset>
+    </item>
+    <item index="19">
+      <title>Roads? (Credits)</title>
+      <end_time_offset>-1</end_time_offset>
+      <start_time_offset>6684000</start_time_offset>
+    </item>
+  </chapters>
+  <themes/>
+  <quotes/>
+  <year>1985</year>
+  <duration>6960000</duration>
+  <genres>
+    <item index="0">Adventure</item>
+    <item index="1">Comedy</item>
+    <item index="2">Sci-Fi</item>
+  </genres>
+  <title>Back to the Future</title>
+  <tagline>He's the only kid ever to get into trouble before he was born.</tagline>
+  <content_rating_age/>
+  <rating_count/>
+  <collections/>
+  <trivia/>
+  <tags/>
+  <audience_rating_image>rottentomatoes://image.rating.upright</audience_rating_image>
+  <rating_image>rottentomatoes://image.rating.ripe</rating_image>
+  <producers>
+    <item index="0">
+      <photo>http://image.tmdb.org/t/p/original/3LMtxKoveYdhHQqHUBKdqK7SnIQ.jpg</photo>
+      <role/>
+      <name>Bob Gale</name>
+    </item>
+    <item index="1">
+      <photo/>
+      <role/>
+      <name>Neil Canton</name>
+    </item>
+  </producers>
+  <audience_rating>9.4</audience_rating>
+  <studio>Universal Pictures</studio>
+  <posters>
+    <item external="True" url="http://image.tmdb.org/t/p/original/pTpxQB1N0waaSc3OSn0e9oc8kx9.jpg" preview="997dd822e899eb4198396492a4465f4492d4c915" sort_order="1"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/mzdDEuzFOPlfIHmln32JCzNtXPx.jpg" preview="5d89735d96ca59e8802e4f02dee3e070b689420e" sort_order="2"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/7lyBcpYB0Qt8gYhXYaEZUNlNQAv.jpg" preview="24fee01c08068da6473f9e48ab50b76904039904" sort_order="3"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/spvmciRSYW2M5Zbuw9QbP5jl43H.jpg" preview="a77cef05af51c2609641244835d0476f4082e7ff" sort_order="4"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/myiFIxoyIMGtrYesHOH0wx9qcbu.jpg" preview="f07e9d5ad40810d82faae76ca1773be57e7d8a16" sort_order="5"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/5MkgCJXEFGVTdT8rqMYGznZ0JHM.jpg" preview="1063dceb4310b00e705a15344e025c050e5e2e7a" sort_order="6"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/rdJeYMF0u9zmbOUsSDCKoy8XvgS.jpg" preview="aaf770dfc8dc0c323a8ab11c9105d562514ad81f" sort_order="7"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/8yq2iqnoeRdb4rzx15OukKqinjl.jpg" preview="e64303a49c801a6ce4e763c1ee40f28b6902abba" sort_order="8"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/dW5w2QsLR1L2ue1NMJnb6YyCknM.jpg" preview="2b684795566318554f4e3004b7e2d214d7d7eaf1" sort_order="9"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/vyirYmlGAHJupVEomHcQsW8DVxw.jpg" preview="eef1156bff35d93132dd9e90c1b129f80e69a20a" sort_order="10"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/7PfFargfGjhMUHEdFM1hQcXXsgY.jpg" preview="18f4b621e7b744a7603ec0b9afcd0ed413c43817" sort_order="11"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/w5LE6GTdfGOBK1oYJ8H2nALpWEp.jpg" preview="299bf9314d2e74c1e81692ab7cde6e447a3b581c" sort_order="12"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/yeiolxpUuOpVU5UY6zhhHSUuyh6.jpg" preview="aced229d6a0f7367e18aae9d7897d48a391ee745" sort_order="13"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/gusGFg6KvddxbcnmEgptiYBZD97.jpg" preview="79191fffe9439cecf0382fe1f64c86cf9333d6b5" sort_order="14"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/mzPyTVcL46M8BaZt2DZhcPQhLzi.jpg" preview="5cd631321292c02b2661b481a98e6c8daec1d89d" sort_order="15"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/jXfKUnd7vwkRdYDxb8HeqKONWgS.jpg" preview="f81a419df938a0c8e766340c52add536a9647fbb" sort_order="16"/>
+  </posters>
+  <originally_available_at>1985-07-03</originally_available_at>
+  <roles>
+    <item index="0">
+      <photo>http://image.tmdb.org/t/p/original/2CwTJuL6UHqPJ82oh8WpWUw8Q0V.jpg</photo>
+      <role>Marty McFly</role>
+      <name>Michael J. Fox</name>
+    </item>
+    <item index="1">
+      <photo>http://image.tmdb.org/t/p/original/iQzG9apaIsHnn7iGrer3YEDp8Zo.jpg</photo>
+      <role>Dr. Emmett Brown</role>
+      <name>Christopher Lloyd</name>
+    </item>
+    <item index="2">
+      <photo>http://image.tmdb.org/t/p/original/gaZhgJdLmWkEdqkkfomnBQn16uo.jpg</photo>
+      <role>Lorraine Baines</role>
+      <name>Lea Thompson</name>
+    </item>
+    <item index="3">
+      <photo>http://image.tmdb.org/t/p/original/thA5rOv5XE1oFpxD9DSp0tDrIIR.jpg</photo>
+      <role>George McFly</role>
+      <name>Crispin Glover</name>
+    </item>
+    <item index="4">
+      <photo>http://image.tmdb.org/t/p/original/n5Vk17hmXW5OqltDYH3i0qOTHcZ.jpg</photo>
+      <role>Biff Tannen</role>
+      <name>Thomas F. Wilson</name>
+    </item>
+    <item index="5">
+      <photo>http://image.tmdb.org/t/p/original/lQWUidwPartKLzV3NYMVrkxooRO.jpg</photo>
+      <role>Jennifer Parker</role>
+      <name>Claudia Wells</name>
+    </item>
+    <item index="6">
+      <photo>http://image.tmdb.org/t/p/original/5VPLVH1eAiIQ3s7aNjrgvzwTt3t.jpg</photo>
+      <role>Dave McFly</role>
+      <name>Marc McClure</name>
+    </item>
+    <item index="7">
+      <photo>http://image.tmdb.org/t/p/original/nadvO9Q24eNrGAznKmlOwV6E6Wb.jpg</photo>
+      <role>Linda McFly</role>
+      <name>Wendie Jo Sperber</name>
+    </item>
+    <item index="8">
+      <photo>http://image.tmdb.org/t/p/original/u5pQL3gkcGcnpkc9NPuyiBB3e8f.jpg</photo>
+      <role>Sam Baines</role>
+      <name>George DiCenzo</name>
+    </item>
+    <item index="9">
+      <photo>http://image.tmdb.org/t/p/original/kOI0WF56kQLIDCkEdT30KBDQNYT.jpg</photo>
+      <role>Stella Baines</role>
+      <name>Frances Lee McCain</name>
+    </item>
+    <item index="10">
+      <photo>http://image.tmdb.org/t/p/original/mB9vHaDMzy5Z5pPWOliA6MJ3gTq.jpg</photo>
+      <role>Mr. Strickland</role>
+      <name>James Tolkan</name>
+    </item>
+    <item index="11">
+      <photo>http://image.tmdb.org/t/p/original/lDpuXzAeqfoYbxV0QxidKPXoYfV.jpg</photo>
+      <role>Marvin Berry</role>
+      <name>Harry Waters, Jr.</name>
+    </item>
+    <item index="12">
+      <photo>http://image.tmdb.org/t/p/original/lkwvmo7vVL8TpMCDLRoHjZIkJQ4.jpg</photo>
+      <role>Match</role>
+      <name>Billy Zane</name>
+    </item>
+    <item index="13">
+      <photo>http://image.tmdb.org/t/p/original/cEmMWxPQ1PfpEYU1NjNb2F4XSJo.jpg</photo>
+      <role>Skinhead</role>
+      <name>J.J. Cohen</name>
+    </item>
+    <item index="14">
+      <photo>http://image.tmdb.org/t/p/original/kW2A2OrOMnlU7FoVDFbFmZJIUa8.jpg</photo>
+      <role>3-D</role>
+      <name>Casey Siemaszko</name>
+    </item>
+    <item index="15">
+      <photo>http://image.tmdb.org/t/p/original/dInPIKh7AfGLR1LT3aZnL8jPKwQ.jpg</photo>
+      <role>Goldie Wilson</role>
+      <name>Donald Fullilove</name>
+    </item>
+    <item index="16">
+      <photo>http://image.tmdb.org/t/p/original/spwZaVY8ufKeT0Kkb02a8HgAr9i.jpg</photo>
+      <role>Babs</role>
+      <name>Lisa Freeman</name>
+    </item>
+    <item index="17">
+      <photo>http://image.tmdb.org/t/p/original/b8mpdSwVGQqdZo37BDAeseCcQB0.jpg</photo>
+      <role>Betty</role>
+      <name>Cristen Kauffman</name>
+    </item>
+    <item index="18">
+      <photo>http://image.tmdb.org/t/p/original/4pxbeI6yZyAMmeikbM7DzPex4z4.jpg</photo>
+      <role>Clocktower Lady</role>
+      <name>Elsa Raven</name>
+    </item>
+    <item index="19">
+      <photo>http://image.tmdb.org/t/p/original/ucBDiQeJBnrwPvTCYiH194lRru5.jpg</photo>
+      <role>Pa Peabody</role>
+      <name>Will Hare</name>
+    </item>
+    <item index="20">
+      <photo>http://image.tmdb.org/t/p/original/9I1oyF0Fee3pQABnADhG0Kq73Vw.jpg</photo>
+      <role>Ma Peabody</role>
+      <name>Ivy Bethune</name>
+    </item>
+    <item index="21">
+      <photo>http://image.tmdb.org/t/p/original/vt8OeZi93AlWkVGZ3yazBqh4jWx.jpg</photo>
+      <role>Sherman Peabody</role>
+      <name>Jason Marin</name>
+    </item>
+    <item index="22">
+      <photo>http://image.tmdb.org/t/p/original/s4w5tbvGWrFkRCvNZ9AgNV9xse5.jpg</photo>
+      <role>Daughter Peabody</role>
+      <name>Katherine Britton</name>
+    </item>
+    <item index="23">
+      <photo>http://image.tmdb.org/t/p/original/5iPGOkmXarMbMLQfBPUNQRWVCqQ.jpg</photo>
+      <role>Milton Baines</role>
+      <name>Jason Hervey</name>
+    </item>
+    <item index="24">
+      <photo>http://image.tmdb.org/t/p/original/w10sqQx1ANA2KFwYc37gS4Kl8Up.jpg</photo>
+      <role>Sally Baines</role>
+      <name>Maia Brewton</name>
+    </item>
+    <item index="25">
+      <photo>http://image.tmdb.org/t/p/original/7u8dTzgr4ODfpKwdYoUlTwptoCq.jpg</photo>
+      <role>Dixon</role>
+      <name>Courtney Gains</name>
+    </item>
+    <item index="26">
+      <photo>http://image.tmdb.org/t/p/original/iRdAaP2YNnhWk0iTfyTVzLkP8VU.jpg</photo>
+      <role>Terrorist</role>
+      <name>Richard L. Duran</name>
+    </item>
+    <item index="27">
+      <photo>http://image.tmdb.org/t/p/original/jxzZd6t8KhDx5aKkRJyBxgXWBM0.jpg</photo>
+      <role>Terrorist Van Driver</role>
+      <name>Jeff O'Haco</name>
+    </item>
+    <item index="28">
+      <photo>http://image.tmdb.org/t/p/original/wjx2eWoZ3GVuu4Po2gXGIdXbICn.jpg</photo>
+      <role>Scooter Kid #1</role>
+      <name>Johnny Green</name>
+    </item>
+    <item index="29">
+      <photo/>
+      <role>Scooter Kid #2</role>
+      <name>Jamie Abbott</name>
+    </item>
+    <item index="30">
+      <photo>http://image.tmdb.org/t/p/original/vdzvCDT4UtVctmo17OSpU8HVUxe.jpg</photo>
+      <role>Lou</role>
+      <name>Norman Alden</name>
+    </item>
+    <item index="31">
+      <photo>http://image.tmdb.org/t/p/original/stXkSnEaGj9cSLIdiqlCWzasV0O.jpg</photo>
+      <role>Cop</role>
+      <name>Read Morgan</name>
+    </item>
+    <item index="32">
+      <photo>http://image.tmdb.org/t/p/original/hjJZ6459PmWZKsOKZ1V8dbIjDTG.jpg</photo>
+      <role>Bystander #1</role>
+      <name>Sachi Parker</name>
+    </item>
+    <item index="33">
+      <photo>http://image.tmdb.org/t/p/original/8zrLA17q7BcACYbTRwCcs1xYyKi.jpg</photo>
+      <role>Bystander #2</role>
+      <name>Robert Krantz</name>
+    </item>
+    <item index="34">
+      <photo>http://image.tmdb.org/t/p/original/d1TZEZcWxyTnqLdop06MOKWMvm8.jpg</photo>
+      <role>Guy #1</role>
+      <name>Gary Riley</name>
+    </item>
+    <item index="35">
+      <photo/>
+      <role>Girl #1</role>
+      <name>Karen Petrasek</name>
+    </item>
+    <item index="36">
+      <photo>http://image.tmdb.org/t/p/original/xHzW4GszCLTZLNxvTcKL9ICuLIc.jpg</photo>
+      <role>Red Thomas - The Bum</role>
+      <name>George Buck Flower</name>
+    </item>
+    <item index="37">
+      <photo/>
+      <role>Starlighter</role>
+      <name>Tommy Thomas</name>
+    </item>
+    <item index="38">
+      <photo/>
+      <role>Starlighter</role>
+      <name>Granville 'Danny' Young</name>
+    </item>
+    <item index="39">
+      <photo/>
+      <role>Starlighter</role>
+      <name>David Harold Brown</name>
+    </item>
+    <item index="40">
+      <photo>http://image.tmdb.org/t/p/original/5q81Ro5P2nonxEHq1L6kAebMVWV.jpg</photo>
+      <role>Starlighter</role>
+      <name>Lloyd L. Tolbert</name>
+    </item>
+    <item index="41">
+      <photo>http://image.tmdb.org/t/p/original/3rdsCqjVoLEZpO5iqVrQbZHOsyp.jpg</photo>
+      <role>Pinhead</role>
+      <name>Paul Hanson</name>
+    </item>
+    <item index="42">
+      <photo/>
+      <role>Pinhead</role>
+      <name>Lee Brownfield</name>
+    </item>
+    <item index="43">
+      <photo/>
+      <role>Pinhead</role>
+      <name>Robert DeLapp</name>
+    </item>
+    <item index="44">
+      <photo>http://image.tmdb.org/t/p/original/l8uXZW6xypNY7e4wd7a0HqzP6iA.jpg</photo>
+      <role>Man driving jeep - 1985 (uncredited)</role>
+      <name>Walter Scott</name>
+    </item>
+    <item index="45">
+      <photo>http://image.tmdb.org/t/p/original/1MoCPekZ23I9uyq6VPFka6o9Zkz.jpg</photo>
+      <role>1955 Radio Announcer (voice) (uncredited)</role>
+      <name>Charles L. Campbell</name>
+    </item>
+    <item index="46">
+      <photo>http://image.tmdb.org/t/p/original/1PmLrtndDP3Fee7DpeTJoQ90GyU.jpg</photo>
+      <role>TV Newscaster (uncredited)</role>
+      <name>Deborah Harmon</name>
+    </item>
+    <item index="47">
+      <photo>http://image.tmdb.org/t/p/original/lr97zuxxGlLivxcQbSbNGiliesE.jpg</photo>
+      <role>High School Girl (uncredited)</role>
+      <name>Janine King</name>
+    </item>
+    <item index="48">
+      <photo>http://image.tmdb.org/t/p/original/5x30rIs9NnV4r1AUMpPIhw9UhgQ.jpg</photo>
+      <role>High School Band Audition Judge (uncredited)</role>
+      <name>Huey Lewis</name>
+    </item>
+    <item index="49">
+      <photo>http://image.tmdb.org/t/p/original/3IhcC4FmrgBtcCZpl85amgVaVRy.jpg</photo>
+      <role>Student (uncredited)</role>
+      <name>Tom Tangen</name>
+    </item>
+    <item index="50">
+      <photo/>
+      <role>Wilbur (uncredited)</role>
+      <name>Arthur Tovey</name>
+    </item>
+  </roles>
+  <countries>
+    <item index="0">USA</item>
+  </countries>
+  <content_rating>PG</content_rating>
+  <original_title/>
+  <summary>Eighties teenager Marty McFly is accidentally sent back in time to 1955, inadvertently disrupting his parents' first meeting and attracting his mother's romantic interest. Marty must repair the damage to history by rekindling his parents' romance and - with the help of his eccentric inventor friend Doc Brown - return to 1985.</summary>
+  <reviews>
+    <item index="0">
+      <text>Zemeckis and Gale have cannily chosen the time periods, which are funny as much for their similarities (political and materalistic) as their contrasts (music, fashions, language).</text>
+      <source>New York Post</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>http://www.twitlonger.com/show/n_1sn49n8</link>
+      <author>Lou Lumenick</author>
+    </item>
+    <item index="1">
+      <text>Every bit as classy, clever and cockle-warming as it was 30 years ago.</text>
+      <source>Time Out</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>http://www.timeout.com/london/film/back-to-the-future</link>
+      <author>Tom Huddleston</author>
+    </item>
+    <item index="2">
+      <text>Kids and parents alike are gonna dig this wonderful fantasy.</text>
+      <source>New York Daily News</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>http://www.nydailynews.com/entertainment/back-future-witty-fantasy-1985-review-article-1.2267841</link>
+      <author>Kathleen Carroll</author>
+    </item>
+    <item index="3">
+      <text>Zemeckis and Gale have given the movie a core of feeling that makes real claims on us. For all its comedy, Back to the Future is about a kid coming to terms with his parents' inadequacies, a moment familiar to everyone, and the fulcrum in growing up.</text>
+      <source>Washington Post</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>http://www.washingtonpost.com/archive/lifestyle/1985/07/03/the-future-is-wowcomedy-with-a-story-to-tell/3c8f1b62-c55a-46c9-ada7-4b2fc6aa496d/</link>
+      <author>Paul Attanasio</author>
+    </item>
+    <item index="4">
+      <text>It isn't often that extremely clever moviemakers use their brains in the service of pure fun. But that's just what the people who made Back to the Future have done. This brilliant contraption of a film could become the hit of the summer.</text>
+      <source>Orlando Sentinel</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>http://articles.orlandosentinel.com/1985-07-04/lifestyle/0310210084_1_marty-steven-spielberg-walt-disney</link>
+      <author>Jay Boyar</author>
+    </item>
+    <item index="5">
+      <text>It's big, cartoonish and empty, with an interesting premise that is underdeveloped and overproduced.</text>
+      <source>Los Angeles Times</source>
+      <image>rottentomatoes://image.review.rotten</image>
+      <link>http://articles.latimes.com/1985-07-03/entertainment/ca-10392_1_back-future-movies</link>
+      <author>Sheila Benson</author>
+    </item>
+    <item index="6">
+      <text>Zemeckis and Gale... give us two priceless scenes in which the young time-traveler simply regards his parents-to-be with wonderment, delight and empathy. And we cannot help but share that emotion and relate it to our own lives.</text>
+      <source>Chicago Tribune</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>http://articles.chicagotribune.com/1985-07-03/features/8502130086_1_zemeckis-and-gale-movies-time-travel</link>
+      <author>Gene Siskel</author>
+    </item>
+    <item index="7">
+      <text>The picture packs a wonderful wallop.</text>
+      <source>TIME Magazine</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>http://www.time.com/time/magazine/article/0,9171,959559,00.html</link>
+      <author>Richard Corliss</author>
+    </item>
+    <item index="8">
+      <text>Performances by the earnest Fox, the lunatic Lloyd, the deceptively passionate Lea Thompson, and, particularly, the bumbling-to-confident Glover, who runs away with the picture, merrily keep the ship sailing.</text>
+      <source>Variety</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>http://www.variety.com/review/VE1117788826.html?categoryid=31&amp;cs=1</link>
+      <author>Variety Staff</author>
+    </item>
+    <item index="9">
+      <text>Director Robert Zemeckis confronts the oedipal heart of the time-travel genre with this zestfully tasteless 1985 tale about a teenager (Michael J. Fox) who is projected back to 1955 and then must arrange the romance of his parents.</text>
+      <source>Chicago Reader</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>http://www.chicagoreader.com/chicago/back-to-the-future/Film?oid=1629194</link>
+      <author>Dave Kehr</author>
+    </item>
+    <item index="10">
+      <text>The movie has all the benign good nature of a Frank Capra.</text>
+      <source>Time Out</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>http://www.timeout.com/film/reviews/67267/back_to_the_future.html</link>
+      <author>Chris Peachment</author>
+    </item>
+    <item index="11">
+      <text>Shows not only a fine comic touch but also some of the lighthearted humanism of a Frank Capra.</text>
+      <source>Chicago Sun-Times</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>http://www.rogerebert.com/reviews/back-to-the-future-1985</link>
+      <author>Roger Ebert</author>
+    </item>
+    <item index="12">
+      <text>One of the mid-'80s most enduring and enjoyable confections: an infectious mix of comedy, fantasy, satire, excitement, and nostalgia.</text>
+      <source>ReelViews</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>http://www.reelviews.net/php_review_template.php?identifier=1643</link>
+      <author>James Berardinelli</author>
+    </item>
+  </reviews>
+  <directors>
+    <item index="0">
+      <photo>http://image.tmdb.org/t/p/original/isCuZ9PWIOyXzdf3ihodXzjIumL.jpg</photo>
+      <role/>
+      <name>Robert Zemeckis</name>
+    </item>
+  </directors>
+  <extras external="True" extension="xml"/>
+  <banners/>
+  <similar>
+    <item index="0">Back to the Future Part II</item>
+    <item index="1">Back to the Future Part III</item>
+    <item index="2">Raiders of the Lost Ark</item>
+    <item index="3">Indiana Jones and the Last Crusade</item>
+    <item index="4">The Terminator</item>
+    <item index="5">Indiana Jones and the Temple of Doom</item>
+    <item index="6">Terminator 2: Judgment Day</item>
+    <item index="7">Jurassic Park</item>
+    <item index="8">Men in Black</item>
+    <item index="9">Ghostbusters</item>
+    <item index="10">Return of the Jedi</item>
+    <item index="11">E.T. the Extra-Terrestrial</item>
+    <item index="12">Groundhog Day</item>
+    <item index="13">Die Hard</item>
+    <item index="14">The Empire Strikes Back</item>
+    <item index="15">Indiana Jones and the Kingdom of the Crystal Skull</item>
+    <item index="16">Independence Day</item>
+    <item index="17">Alien</item>
+    <item index="18">Men in Black II</item>
+    <item index="19">Mission: Impossible</item>
+  </similar>
+</Movie>

@@ -1,0 +1,383 @@
+<?xml version='1.0' encoding='utf-8'?>
+<MediaContainer size="19" identifier="com.plexapp.agents.imdb" mediaTagPrefix="/system/bundle/media/flags/" prefsKey="/:/plugins/com.plexapp.agents.imdb/prefs">
+  <Video url="iva://api.internetvideoarchive.com/2.0/DataService/VideoAssets(144674)?lang=en&amp;bitrates=80,212,450,750,1500,2500,5000,8000&amp;duration=119&amp;adaptive=1&amp;dts=0" key="/system/services/url/lookup?url=iva%3A%2F%2Fapi.internetvideoarchive.com%2F2.0%2FDataService%2FVideoAssets%28144674%29%3Flang%3Den%26bitrates%3D80%2C212%2C450%2C750%2C1500%2C2500%2C5000%2C8000%26duration%3D119%26adaptive%3D1%26dts%3D0" type="clip" relationType="trailer" year="2017" title="The Infiltrator (International Trailer)" originallyAvailableAt="2017-11-02" thumb="https://iva-images.plex.tv/content/hdphotos/11509/011509/011509_1280x720_144674_097.jpg" ratingKey="iva://api.internetvideoarchive.com/2.0/DataService/VideoAssets(144674)?lang=en&amp;bitrates=80,212,450,750,1500,2500,5000,8000&amp;duration=119&amp;adaptive=1&amp;dts=0">
+    <Media container="mp4" height="1080" width="1920" audioCodec="aac" duration="119000" videoCodec="h264" bitrate="2500">
+      <Part duration="119000" key="/services/iva/assets/144674/video.mp4?bitrate=2500" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="1080" width="1920" codec="h264" bitrate="2500" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+    <Media container="mp4" height="720" width="1280" audioCodec="aac" duration="119000" videoCodec="h264" bitrate="1500">
+      <Part duration="119000" key="/services/iva/assets/144674/video.mp4?bitrate=1500" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="720" width="1280" codec="h264" bitrate="1500" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+    <Media container="mp4" height="480" width="640" audioCodec="aac" duration="119000" videoCodec="h264" bitrate="450">
+      <Part duration="119000" key="/services/iva/assets/144674/video.mp4?bitrate=450" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="480" width="640" codec="h264" bitrate="450" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+  </Video>
+  <Video url="iva://api.internetvideoarchive.com/2.0/DataService/VideoAssets(717679)?lang=en&amp;bitrates=80,212,450,750,1500,2500,5000,8000&amp;duration=197&amp;adaptive=1&amp;dts=0" key="/system/services/url/lookup?url=iva%3A%2F%2Fapi.internetvideoarchive.com%2F2.0%2FDataService%2FVideoAssets%28717679%29%3Flang%3Den%26bitrates%3D80%2C212%2C450%2C750%2C1500%2C2500%2C5000%2C8000%26duration%3D197%26adaptive%3D1%26dts%3D0" type="clip" relationType="behindTheScenes" year="2016" title="The Infiltrator: The Three Bobs" originallyAvailableAt="2016-09-27" thumb="https://iva-images.plex.tv/content/hdphotos/10648/010648/010648_1280x720_717679_153.jpg" ratingKey="iva://api.internetvideoarchive.com/2.0/DataService/VideoAssets(717679)?lang=en&amp;bitrates=80,212,450,750,1500,2500,5000,8000&amp;duration=197&amp;adaptive=1&amp;dts=0">
+    <Media container="mp4" height="1080" width="1920" audioCodec="aac" duration="197000" videoCodec="h264" bitrate="2500">
+      <Part duration="197000" key="/services/iva/assets/717679/video.mp4?bitrate=2500" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="1080" width="1920" codec="h264" bitrate="2500" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+    <Media container="mp4" height="720" width="1280" audioCodec="aac" duration="197000" videoCodec="h264" bitrate="1500">
+      <Part duration="197000" key="/services/iva/assets/717679/video.mp4?bitrate=1500" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="720" width="1280" codec="h264" bitrate="1500" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+    <Media container="mp4" height="480" width="640" audioCodec="aac" duration="197000" videoCodec="h264" bitrate="450">
+      <Part duration="197000" key="/services/iva/assets/717679/video.mp4?bitrate=450" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="480" width="640" codec="h264" bitrate="450" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+  </Video>
+  <Video url="iva://api.internetvideoarchive.com/2.0/DataService/VideoAssets(310230)?lang=en&amp;bitrates=80,212,450,750,1500,2500,5000,8000&amp;duration=197&amp;adaptive=1&amp;dts=0" key="/system/services/url/lookup?url=iva%3A%2F%2Fapi.internetvideoarchive.com%2F2.0%2FDataService%2FVideoAssets%28310230%29%3Flang%3Den%26bitrates%3D80%2C212%2C450%2C750%2C1500%2C2500%2C5000%2C8000%26duration%3D197%26adaptive%3D1%26dts%3D0" type="clip" relationType="behindTheScenes" year="2016" title="The Infiltrator: The 3 Bobs (Featurette)" originallyAvailableAt="2016-07-13" thumb="https://iva-images.plex.tv/content/hdphotos/10447/010447/010447_1280x720_310230_041.jpg" ratingKey="iva://api.internetvideoarchive.com/2.0/DataService/VideoAssets(310230)?lang=en&amp;bitrates=80,212,450,750,1500,2500,5000,8000&amp;duration=197&amp;adaptive=1&amp;dts=0">
+    <Media container="mp4" height="1080" width="1920" audioCodec="aac" duration="197000" videoCodec="h264" bitrate="2500">
+      <Part duration="197000" key="/services/iva/assets/310230/video.mp4?bitrate=2500" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="1080" width="1920" codec="h264" bitrate="2500" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+    <Media container="mp4" height="720" width="1280" audioCodec="aac" duration="197000" videoCodec="h264" bitrate="1500">
+      <Part duration="197000" key="/services/iva/assets/310230/video.mp4?bitrate=1500" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="720" width="1280" codec="h264" bitrate="1500" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+    <Media container="mp4" height="480" width="640" audioCodec="aac" duration="197000" videoCodec="h264" bitrate="450">
+      <Part duration="197000" key="/services/iva/assets/310230/video.mp4?bitrate=450" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="480" width="640" codec="h264" bitrate="450" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+  </Video>
+  <Video url="iva://api.internetvideoarchive.com/2.0/DataService/VideoAssets(839426)?lang=en&amp;bitrates=80,212,450,750,1500,2500,5000,8000&amp;duration=118&amp;adaptive=1&amp;dts=0" key="/system/services/url/lookup?url=iva%3A%2F%2Fapi.internetvideoarchive.com%2F2.0%2FDataService%2FVideoAssets%28839426%29%3Flang%3Den%26bitrates%3D80%2C212%2C450%2C750%2C1500%2C2500%2C5000%2C8000%26duration%3D118%26adaptive%3D1%26dts%3D0" type="clip" relationType="behindTheScenes" year="2016" title="The Infiltrator: Psychology (Featurette)" originallyAvailableAt="2016-07-13" thumb="https://iva-images.plex.tv/content/hdphotos/10447/010447/010447_1280x720_839426_070.jpg" ratingKey="iva://api.internetvideoarchive.com/2.0/DataService/VideoAssets(839426)?lang=en&amp;bitrates=80,212,450,750,1500,2500,5000,8000&amp;duration=118&amp;adaptive=1&amp;dts=0">
+    <Media container="mp4" height="1080" width="1920" audioCodec="aac" duration="118000" videoCodec="h264" bitrate="2500">
+      <Part duration="118000" key="/services/iva/assets/839426/video.mp4?bitrate=2500" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="1080" width="1920" codec="h264" bitrate="2500" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+    <Media container="mp4" height="720" width="1280" audioCodec="aac" duration="118000" videoCodec="h264" bitrate="1500">
+      <Part duration="118000" key="/services/iva/assets/839426/video.mp4?bitrate=1500" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="720" width="1280" codec="h264" bitrate="1500" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+    <Media container="mp4" height="480" width="640" audioCodec="aac" duration="118000" videoCodec="h264" bitrate="450">
+      <Part duration="118000" key="/services/iva/assets/839426/video.mp4?bitrate=450" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="480" width="640" codec="h264" bitrate="450" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+  </Video>
+  <Video url="iva://api.internetvideoarchive.com/2.0/DataService/VideoAssets(44501)?lang=en&amp;bitrates=80,212,450,750,1500,2500,5000,8000&amp;duration=48&amp;adaptive=1&amp;dts=0" key="/system/services/url/lookup?url=iva%3A%2F%2Fapi.internetvideoarchive.com%2F2.0%2FDataService%2FVideoAssets%2844501%29%3Flang%3Den%26bitrates%3D80%2C212%2C450%2C750%2C1500%2C2500%2C5000%2C8000%26duration%3D48%26adaptive%3D1%26dts%3D0" type="clip" relationType="behindTheScenes" year="2016" title="The Infiltrator: Amy Ryan On Getting Involved" originallyAvailableAt="2016-06-29" thumb="https://iva-images.plex.tv/content/hdphotos/10417/010417/010417_1280x720_44501_006.jpg" ratingKey="iva://api.internetvideoarchive.com/2.0/DataService/VideoAssets(44501)?lang=en&amp;bitrates=80,212,450,750,1500,2500,5000,8000&amp;duration=48&amp;adaptive=1&amp;dts=0">
+    <Media container="mp4" height="1080" width="1920" audioCodec="aac" duration="48000" videoCodec="h264" bitrate="2500">
+      <Part duration="48000" key="/services/iva/assets/44501/video.mp4?bitrate=2500" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="1080" width="1920" codec="h264" bitrate="2500" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+    <Media container="mp4" height="720" width="1280" audioCodec="aac" duration="48000" videoCodec="h264" bitrate="1500">
+      <Part duration="48000" key="/services/iva/assets/44501/video.mp4?bitrate=1500" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="720" width="1280" codec="h264" bitrate="1500" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+    <Media container="mp4" height="480" width="640" audioCodec="aac" duration="48000" videoCodec="h264" bitrate="450">
+      <Part duration="48000" key="/services/iva/assets/44501/video.mp4?bitrate=450" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="480" width="640" codec="h264" bitrate="450" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+  </Video>
+  <Video url="iva://api.internetvideoarchive.com/2.0/DataService/VideoAssets(525258)?lang=en&amp;bitrates=80,212,450,750,1500,2500,5000,8000&amp;duration=128&amp;adaptive=1&amp;dts=0" key="/system/services/url/lookup?url=iva%3A%2F%2Fapi.internetvideoarchive.com%2F2.0%2FDataService%2FVideoAssets%28525258%29%3Flang%3Den%26bitrates%3D80%2C212%2C450%2C750%2C1500%2C2500%2C5000%2C8000%26duration%3D128%26adaptive%3D1%26dts%3D0" type="clip" relationType="behindTheScenes" year="2016" title="The Infiltrator: Bryan Cranston On The Three Different Criminals" originallyAvailableAt="2016-06-29" thumb="https://iva-images.plex.tv/content/hdphotos/10417/010417/010417_1280x720_525258_005.jpg" ratingKey="iva://api.internetvideoarchive.com/2.0/DataService/VideoAssets(525258)?lang=en&amp;bitrates=80,212,450,750,1500,2500,5000,8000&amp;duration=128&amp;adaptive=1&amp;dts=0">
+    <Media container="mp4" height="1080" width="1920" audioCodec="aac" duration="128000" videoCodec="h264" bitrate="2500">
+      <Part duration="128000" key="/services/iva/assets/525258/video.mp4?bitrate=2500" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="1080" width="1920" codec="h264" bitrate="2500" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+    <Media container="mp4" height="720" width="1280" audioCodec="aac" duration="128000" videoCodec="h264" bitrate="1500">
+      <Part duration="128000" key="/services/iva/assets/525258/video.mp4?bitrate=1500" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="720" width="1280" codec="h264" bitrate="1500" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+    <Media container="mp4" height="480" width="640" audioCodec="aac" duration="128000" videoCodec="h264" bitrate="450">
+      <Part duration="128000" key="/services/iva/assets/525258/video.mp4?bitrate=450" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="480" width="640" codec="h264" bitrate="450" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+  </Video>
+  <Video url="iva://api.internetvideoarchive.com/2.0/DataService/VideoAssets(353192)?lang=en&amp;bitrates=80,212,450,750,1500,2500,5000,8000&amp;duration=60&amp;adaptive=1&amp;dts=0" key="/system/services/url/lookup?url=iva%3A%2F%2Fapi.internetvideoarchive.com%2F2.0%2FDataService%2FVideoAssets%28353192%29%3Flang%3Den%26bitrates%3D80%2C212%2C450%2C750%2C1500%2C2500%2C5000%2C8000%26duration%3D60%26adaptive%3D1%26dts%3D0" type="clip" relationType="behindTheScenes" year="2016" title="The Infiltrator: Benjamin Bratt On The Humanity Of A Criminal" originallyAvailableAt="2016-06-29" thumb="https://iva-images.plex.tv/content/hdphotos/10417/010417/010417_1280x720_353192_007.jpg" ratingKey="iva://api.internetvideoarchive.com/2.0/DataService/VideoAssets(353192)?lang=en&amp;bitrates=80,212,450,750,1500,2500,5000,8000&amp;duration=60&amp;adaptive=1&amp;dts=0">
+    <Media container="mp4" height="1080" width="1920" audioCodec="aac" duration="60000" videoCodec="h264" bitrate="2500">
+      <Part duration="60000" key="/services/iva/assets/353192/video.mp4?bitrate=2500" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="1080" width="1920" codec="h264" bitrate="2500" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+    <Media container="mp4" height="720" width="1280" audioCodec="aac" duration="60000" videoCodec="h264" bitrate="1500">
+      <Part duration="60000" key="/services/iva/assets/353192/video.mp4?bitrate=1500" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="720" width="1280" codec="h264" bitrate="1500" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+    <Media container="mp4" height="480" width="640" audioCodec="aac" duration="60000" videoCodec="h264" bitrate="450">
+      <Part duration="60000" key="/services/iva/assets/353192/video.mp4?bitrate=450" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="480" width="640" codec="h264" bitrate="450" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+  </Video>
+  <Video url="iva://api.internetvideoarchive.com/2.0/DataService/VideoAssets(266441)?lang=en&amp;bitrates=80,212,450,750,1500,2500,5000,8000&amp;duration=29&amp;adaptive=1&amp;dts=0" key="/system/services/url/lookup?url=iva%3A%2F%2Fapi.internetvideoarchive.com%2F2.0%2FDataService%2FVideoAssets%28266441%29%3Flang%3Den%26bitrates%3D80%2C212%2C450%2C750%2C1500%2C2500%2C5000%2C8000%26duration%3D29%26adaptive%3D1%26dts%3D0" type="clip" relationType="behindTheScenes" year="2016" title="The Infiltrator: Diane Kruger On The Story With A Strong Woman" originallyAvailableAt="2016-06-29" thumb="https://iva-images.plex.tv/content/hdphotos/10417/010417/010417_1280x720_266441_045.jpg" ratingKey="iva://api.internetvideoarchive.com/2.0/DataService/VideoAssets(266441)?lang=en&amp;bitrates=80,212,450,750,1500,2500,5000,8000&amp;duration=29&amp;adaptive=1&amp;dts=0">
+    <Media container="mp4" height="1080" width="1920" audioCodec="aac" duration="29000" videoCodec="h264" bitrate="2500">
+      <Part duration="29000" key="/services/iva/assets/266441/video.mp4?bitrate=2500" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="1080" width="1920" codec="h264" bitrate="2500" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+    <Media container="mp4" height="720" width="1280" audioCodec="aac" duration="29000" videoCodec="h264" bitrate="1500">
+      <Part duration="29000" key="/services/iva/assets/266441/video.mp4?bitrate=1500" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="720" width="1280" codec="h264" bitrate="1500" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+    <Media container="mp4" height="480" width="640" audioCodec="aac" duration="29000" videoCodec="h264" bitrate="450">
+      <Part duration="29000" key="/services/iva/assets/266441/video.mp4?bitrate=450" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="480" width="640" codec="h264" bitrate="450" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+  </Video>
+  <Video url="iva://api.internetvideoarchive.com/2.0/DataService/VideoAssets(811878)?lang=en&amp;bitrates=80,212,450,750,1500,2500,5000,8000&amp;duration=45&amp;adaptive=1&amp;dts=0" key="/system/services/url/lookup?url=iva%3A%2F%2Fapi.internetvideoarchive.com%2F2.0%2FDataService%2FVideoAssets%28811878%29%3Flang%3Den%26bitrates%3D80%2C212%2C450%2C750%2C1500%2C2500%2C5000%2C8000%26duration%3D45%26adaptive%3D1%26dts%3D0" type="clip" relationType="behindTheScenes" year="2016" title="The Infiltrator: Elena Anaya On How Real Relationships Were Formed" originallyAvailableAt="2016-06-29" thumb="https://iva-images.plex.tv/content/hdphotos/10417/010417/010417_1280x720_811878_003.jpg" ratingKey="iva://api.internetvideoarchive.com/2.0/DataService/VideoAssets(811878)?lang=en&amp;bitrates=80,212,450,750,1500,2500,5000,8000&amp;duration=45&amp;adaptive=1&amp;dts=0">
+    <Media container="mp4" height="1080" width="1920" audioCodec="aac" duration="45000" videoCodec="h264" bitrate="2500">
+      <Part duration="45000" key="/services/iva/assets/811878/video.mp4?bitrate=2500" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="1080" width="1920" codec="h264" bitrate="2500" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+    <Media container="mp4" height="720" width="1280" audioCodec="aac" duration="45000" videoCodec="h264" bitrate="1500">
+      <Part duration="45000" key="/services/iva/assets/811878/video.mp4?bitrate=1500" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="720" width="1280" codec="h264" bitrate="1500" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+    <Media container="mp4" height="480" width="640" audioCodec="aac" duration="45000" videoCodec="h264" bitrate="450">
+      <Part duration="45000" key="/services/iva/assets/811878/video.mp4?bitrate=450" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="480" width="640" codec="h264" bitrate="450" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+  </Video>
+  <Video url="iva://api.internetvideoarchive.com/2.0/DataService/VideoAssets(139805)?lang=en&amp;bitrates=80,212,450,750,1500,2500,5000,8000&amp;duration=50&amp;adaptive=1&amp;dts=0" key="/system/services/url/lookup?url=iva%3A%2F%2Fapi.internetvideoarchive.com%2F2.0%2FDataService%2FVideoAssets%28139805%29%3Flang%3Den%26bitrates%3D80%2C212%2C450%2C750%2C1500%2C2500%2C5000%2C8000%26duration%3D50%26adaptive%3D1%26dts%3D0" type="clip" relationType="behindTheScenes" year="2016" title="The Infiltrator: John Leguizamo On Acting But With Higher Stakes" originallyAvailableAt="2016-06-29" thumb="https://iva-images.plex.tv/content/hdphotos/10417/010417/010417_1280x720_139805_003.jpg" ratingKey="iva://api.internetvideoarchive.com/2.0/DataService/VideoAssets(139805)?lang=en&amp;bitrates=80,212,450,750,1500,2500,5000,8000&amp;duration=50&amp;adaptive=1&amp;dts=0">
+    <Media container="mp4" height="1080" width="1920" audioCodec="aac" duration="50000" videoCodec="h264" bitrate="2500">
+      <Part duration="50000" key="/services/iva/assets/139805/video.mp4?bitrate=2500" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="1080" width="1920" codec="h264" bitrate="2500" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+    <Media container="mp4" height="720" width="1280" audioCodec="aac" duration="50000" videoCodec="h264" bitrate="1500">
+      <Part duration="50000" key="/services/iva/assets/139805/video.mp4?bitrate=1500" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="720" width="1280" codec="h264" bitrate="1500" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+    <Media container="mp4" height="480" width="640" audioCodec="aac" duration="50000" videoCodec="h264" bitrate="450">
+      <Part duration="50000" key="/services/iva/assets/139805/video.mp4?bitrate=450" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="480" width="640" codec="h264" bitrate="450" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+  </Video>
+  <Video url="iva://api.internetvideoarchive.com/2.0/DataService/VideoAssets(422144)?lang=en&amp;bitrates=80,212,450,750,1500,2500,5000,8000&amp;duration=68&amp;adaptive=1&amp;dts=0" key="/system/services/url/lookup?url=iva%3A%2F%2Fapi.internetvideoarchive.com%2F2.0%2FDataService%2FVideoAssets%28422144%29%3Flang%3Den%26bitrates%3D80%2C212%2C450%2C750%2C1500%2C2500%2C5000%2C8000%26duration%3D68%26adaptive%3D1%26dts%3D0" type="clip" relationType="behindTheScenes" year="2016" title="The Infiltrator: Joseph Gilgun On Being Worried About Fitting The Role" originallyAvailableAt="2016-06-29" thumb="https://iva-images.plex.tv/content/hdphotos/10417/010417/010417_1280x720_422144_005.jpg" ratingKey="iva://api.internetvideoarchive.com/2.0/DataService/VideoAssets(422144)?lang=en&amp;bitrates=80,212,450,750,1500,2500,5000,8000&amp;duration=68&amp;adaptive=1&amp;dts=0">
+    <Media container="mp4" height="1080" width="1920" audioCodec="aac" duration="68000" videoCodec="h264" bitrate="2500">
+      <Part duration="68000" key="/services/iva/assets/422144/video.mp4?bitrate=2500" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="1080" width="1920" codec="h264" bitrate="2500" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+    <Media container="mp4" height="720" width="1280" audioCodec="aac" duration="68000" videoCodec="h264" bitrate="1500">
+      <Part duration="68000" key="/services/iva/assets/422144/video.mp4?bitrate=1500" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="720" width="1280" codec="h264" bitrate="1500" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+    <Media container="mp4" height="480" width="640" audioCodec="aac" duration="68000" videoCodec="h264" bitrate="450">
+      <Part duration="68000" key="/services/iva/assets/422144/video.mp4?bitrate=450" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="480" width="640" codec="h264" bitrate="450" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+  </Video>
+  <Video url="iva://api.internetvideoarchive.com/2.0/DataService/VideoAssets(377619)?lang=en&amp;bitrates=80,212,450,750,1500,2500,5000,8000&amp;duration=34&amp;adaptive=1&amp;dts=0" key="/system/services/url/lookup?url=iva%3A%2F%2Fapi.internetvideoarchive.com%2F2.0%2FDataService%2FVideoAssets%28377619%29%3Flang%3Den%26bitrates%3D80%2C212%2C450%2C750%2C1500%2C2500%2C5000%2C8000%26duration%3D34%26adaptive%3D1%26dts%3D0" type="clip" relationType="behindTheScenes" year="2016" title="The Infiltrator: Juliet Aubrey On The Sacrifices For Bob's Ambition" originallyAvailableAt="2016-06-29" thumb="https://iva-images.plex.tv/content/hdphotos/10417/010417/010417_1280x720_377619_003.jpg" ratingKey="iva://api.internetvideoarchive.com/2.0/DataService/VideoAssets(377619)?lang=en&amp;bitrates=80,212,450,750,1500,2500,5000,8000&amp;duration=34&amp;adaptive=1&amp;dts=0">
+    <Media container="mp4" height="1080" width="1920" audioCodec="aac" duration="34000" videoCodec="h264" bitrate="2500">
+      <Part duration="34000" key="/services/iva/assets/377619/video.mp4?bitrate=2500" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="1080" width="1920" codec="h264" bitrate="2500" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+    <Media container="mp4" height="720" width="1280" audioCodec="aac" duration="34000" videoCodec="h264" bitrate="1500">
+      <Part duration="34000" key="/services/iva/assets/377619/video.mp4?bitrate=1500" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="720" width="1280" codec="h264" bitrate="1500" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+    <Media container="mp4" height="480" width="640" audioCodec="aac" duration="34000" videoCodec="h264" bitrate="450">
+      <Part duration="34000" key="/services/iva/assets/377619/video.mp4?bitrate=450" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="480" width="640" codec="h264" bitrate="450" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+  </Video>
+  <Video url="iva://api.internetvideoarchive.com/2.0/DataService/VideoAssets(180427)?lang=en&amp;bitrates=80,212,450,750,1500,2500,5000,8000&amp;duration=49&amp;adaptive=1&amp;dts=0" key="/system/services/url/lookup?url=iva%3A%2F%2Fapi.internetvideoarchive.com%2F2.0%2FDataService%2FVideoAssets%28180427%29%3Flang%3Den%26bitrates%3D80%2C212%2C450%2C750%2C1500%2C2500%2C5000%2C8000%26duration%3D49%26adaptive%3D1%26dts%3D0" type="clip" relationType="behindTheScenes" year="2016" title="The Infiltrator: Yul Vazquez On The Character's Backstory And Role" originallyAvailableAt="2016-06-29" thumb="https://iva-images.plex.tv/content/hdphotos/10417/010417/010417_1280x720_180427_009.jpg" ratingKey="iva://api.internetvideoarchive.com/2.0/DataService/VideoAssets(180427)?lang=en&amp;bitrates=80,212,450,750,1500,2500,5000,8000&amp;duration=49&amp;adaptive=1&amp;dts=0">
+    <Media container="mp4" height="1080" width="1920" audioCodec="aac" duration="49000" videoCodec="h264" bitrate="2500">
+      <Part duration="49000" key="/services/iva/assets/180427/video.mp4?bitrate=2500" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="1080" width="1920" codec="h264" bitrate="2500" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+    <Media container="mp4" height="720" width="1280" audioCodec="aac" duration="49000" videoCodec="h264" bitrate="1500">
+      <Part duration="49000" key="/services/iva/assets/180427/video.mp4?bitrate=1500" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="720" width="1280" codec="h264" bitrate="1500" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+    <Media container="mp4" height="480" width="640" audioCodec="aac" duration="49000" videoCodec="h264" bitrate="450">
+      <Part duration="49000" key="/services/iva/assets/180427/video.mp4?bitrate=450" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="480" width="640" codec="h264" bitrate="450" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+  </Video>
+  <Video url="iva://api.internetvideoarchive.com/2.0/DataService/VideoAssets(387615)?lang=en&amp;bitrates=80,212,450,750,1500,2500,5000,8000&amp;duration=33&amp;adaptive=1&amp;dts=0" key="/system/services/url/lookup?url=iva%3A%2F%2Fapi.internetvideoarchive.com%2F2.0%2FDataService%2FVideoAssets%28387615%29%3Flang%3Den%26bitrates%3D80%2C212%2C450%2C750%2C1500%2C2500%2C5000%2C8000%26duration%3D33%26adaptive%3D1%26dts%3D0" type="clip" relationType="behindTheScenes" year="2016" title="The Infiltrator: Bob Mazur On How Information Became His Drug" originallyAvailableAt="2016-06-29" thumb="https://iva-images.plex.tv/content/hdphotos/10421/010421/010421_1280x720_387615_005.jpg" ratingKey="iva://api.internetvideoarchive.com/2.0/DataService/VideoAssets(387615)?lang=en&amp;bitrates=80,212,450,750,1500,2500,5000,8000&amp;duration=33&amp;adaptive=1&amp;dts=0">
+    <Media container="mp4" height="1080" width="1920" audioCodec="aac" duration="33000" videoCodec="h264" bitrate="2500">
+      <Part duration="33000" key="/services/iva/assets/387615/video.mp4?bitrate=2500" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="1080" width="1920" codec="h264" bitrate="2500" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+    <Media container="mp4" height="720" width="1280" audioCodec="aac" duration="33000" videoCodec="h264" bitrate="1500">
+      <Part duration="33000" key="/services/iva/assets/387615/video.mp4?bitrate=1500" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="720" width="1280" codec="h264" bitrate="1500" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+    <Media container="mp4" height="480" width="640" audioCodec="aac" duration="33000" videoCodec="h264" bitrate="450">
+      <Part duration="33000" key="/services/iva/assets/387615/video.mp4?bitrate=450" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="480" width="640" codec="h264" bitrate="450" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+  </Video>
+  <Video url="iva://api.internetvideoarchive.com/2.0/DataService/VideoAssets(328041)?lang=en&amp;bitrates=80,212,450,750,1500,2500,5000,8000&amp;duration=25&amp;adaptive=1&amp;dts=0" key="/system/services/url/lookup?url=iva%3A%2F%2Fapi.internetvideoarchive.com%2F2.0%2FDataService%2FVideoAssets%28328041%29%3Flang%3Den%26bitrates%3D80%2C212%2C450%2C750%2C1500%2C2500%2C5000%2C8000%26duration%3D25%26adaptive%3D1%26dts%3D0" type="clip" relationType="behindTheScenes" year="2016" title="The Infiltrator: Brad Furman Something Special" originallyAvailableAt="2016-06-29" thumb="https://iva-images.plex.tv/content/hdphotos/10421/010421/010421_1280x720_328041_005.jpg" ratingKey="iva://api.internetvideoarchive.com/2.0/DataService/VideoAssets(328041)?lang=en&amp;bitrates=80,212,450,750,1500,2500,5000,8000&amp;duration=25&amp;adaptive=1&amp;dts=0">
+    <Media container="mp4" height="1080" width="1920" audioCodec="aac" duration="25000" videoCodec="h264" bitrate="2500">
+      <Part duration="25000" key="/services/iva/assets/328041/video.mp4?bitrate=2500" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="1080" width="1920" codec="h264" bitrate="2500" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+    <Media container="mp4" height="720" width="1280" audioCodec="aac" duration="25000" videoCodec="h264" bitrate="1500">
+      <Part duration="25000" key="/services/iva/assets/328041/video.mp4?bitrate=1500" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="720" width="1280" codec="h264" bitrate="1500" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+    <Media container="mp4" height="480" width="640" audioCodec="aac" duration="25000" videoCodec="h264" bitrate="450">
+      <Part duration="25000" key="/services/iva/assets/328041/video.mp4?bitrate=450" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="480" width="640" codec="h264" bitrate="450" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+  </Video>
+  <Video url="iva://api.internetvideoarchive.com/2.0/DataService/VideoAssets(272543)?lang=en&amp;bitrates=80,212,450,750,1500,2500,5000,8000&amp;duration=37&amp;adaptive=1&amp;dts=0" key="/system/services/url/lookup?url=iva%3A%2F%2Fapi.internetvideoarchive.com%2F2.0%2FDataService%2FVideoAssets%28272543%29%3Flang%3Den%26bitrates%3D80%2C212%2C450%2C750%2C1500%2C2500%2C5000%2C8000%26duration%3D37%26adaptive%3D1%26dts%3D0" type="clip" relationType="behindTheScenes" year="2016" title="The Infiltrator: Crispian Sallis On The Bowling Alley" originallyAvailableAt="2016-06-29" thumb="https://iva-images.plex.tv/content/hdphotos/10421/010421/010421_1280x720_272543_005.jpg" ratingKey="iva://api.internetvideoarchive.com/2.0/DataService/VideoAssets(272543)?lang=en&amp;bitrates=80,212,450,750,1500,2500,5000,8000&amp;duration=37&amp;adaptive=1&amp;dts=0">
+    <Media container="mp4" height="1080" width="1920" audioCodec="aac" duration="37000" videoCodec="h264" bitrate="2500">
+      <Part duration="37000" key="/services/iva/assets/272543/video.mp4?bitrate=2500" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="1080" width="1920" codec="h264" bitrate="2500" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+    <Media container="mp4" height="720" width="1280" audioCodec="aac" duration="37000" videoCodec="h264" bitrate="1500">
+      <Part duration="37000" key="/services/iva/assets/272543/video.mp4?bitrate=1500" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="720" width="1280" codec="h264" bitrate="1500" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+    <Media container="mp4" height="480" width="640" audioCodec="aac" duration="37000" videoCodec="h264" bitrate="450">
+      <Part duration="37000" key="/services/iva/assets/272543/video.mp4?bitrate=450" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="480" width="640" codec="h264" bitrate="450" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+  </Video>
+  <Video url="iva://api.internetvideoarchive.com/2.0/DataService/VideoAssets(651909)?lang=en&amp;bitrates=80,212,450,750,1500,2500,5000,8000&amp;duration=39&amp;adaptive=1&amp;dts=0" key="/system/services/url/lookup?url=iva%3A%2F%2Fapi.internetvideoarchive.com%2F2.0%2FDataService%2FVideoAssets%28651909%29%3Flang%3Den%26bitrates%3D80%2C212%2C450%2C750%2C1500%2C2500%2C5000%2C8000%26duration%3D39%26adaptive%3D1%26dts%3D0" type="clip" relationType="behindTheScenes" year="2016" title="The Infiltrator: Ellen Brown Furman On Brad's Vision" originallyAvailableAt="2016-06-29" thumb="https://iva-images.plex.tv/content/hdphotos/10421/010421/010421_1280x720_651909_005.jpg" ratingKey="iva://api.internetvideoarchive.com/2.0/DataService/VideoAssets(651909)?lang=en&amp;bitrates=80,212,450,750,1500,2500,5000,8000&amp;duration=39&amp;adaptive=1&amp;dts=0">
+    <Media container="mp4" height="1080" width="1920" audioCodec="aac" duration="39000" videoCodec="h264" bitrate="2500">
+      <Part duration="39000" key="/services/iva/assets/651909/video.mp4?bitrate=2500" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="1080" width="1920" codec="h264" bitrate="2500" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+    <Media container="mp4" height="720" width="1280" audioCodec="aac" duration="39000" videoCodec="h264" bitrate="1500">
+      <Part duration="39000" key="/services/iva/assets/651909/video.mp4?bitrate=1500" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="720" width="1280" codec="h264" bitrate="1500" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+    <Media container="mp4" height="480" width="640" audioCodec="aac" duration="39000" videoCodec="h264" bitrate="450">
+      <Part duration="39000" key="/services/iva/assets/651909/video.mp4?bitrate=450" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="480" width="640" codec="h264" bitrate="450" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+  </Video>
+  <Video url="iva://api.internetvideoarchive.com/2.0/DataService/VideoAssets(418560)?lang=en&amp;bitrates=80,212,450,750,1500,2500,5000,8000&amp;duration=41&amp;adaptive=1&amp;dts=0" key="/system/services/url/lookup?url=iva%3A%2F%2Fapi.internetvideoarchive.com%2F2.0%2FDataService%2FVideoAssets%28418560%29%3Flang%3Den%26bitrates%3D80%2C212%2C450%2C750%2C1500%2C2500%2C5000%2C8000%26duration%3D41%26adaptive%3D1%26dts%3D0" type="clip" relationType="behindTheScenes" year="2016" title="The Infiltrator: Evelyn Mazur On Life Undercover Being Normal Life" originallyAvailableAt="2016-06-29" thumb="https://iva-images.plex.tv/content/hdphotos/10421/010421/010421_1280x720_418560_005.jpg" ratingKey="iva://api.internetvideoarchive.com/2.0/DataService/VideoAssets(418560)?lang=en&amp;bitrates=80,212,450,750,1500,2500,5000,8000&amp;duration=41&amp;adaptive=1&amp;dts=0">
+    <Media container="mp4" height="1080" width="1920" audioCodec="aac" duration="41000" videoCodec="h264" bitrate="2500">
+      <Part duration="41000" key="/services/iva/assets/418560/video.mp4?bitrate=2500" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="1080" width="1920" codec="h264" bitrate="2500" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+    <Media container="mp4" height="720" width="1280" audioCodec="aac" duration="41000" videoCodec="h264" bitrate="1500">
+      <Part duration="41000" key="/services/iva/assets/418560/video.mp4?bitrate=1500" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="720" width="1280" codec="h264" bitrate="1500" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+    <Media container="mp4" height="480" width="640" audioCodec="aac" duration="41000" videoCodec="h264" bitrate="450">
+      <Part duration="41000" key="/services/iva/assets/418560/video.mp4?bitrate=450" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="480" width="640" codec="h264" bitrate="450" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+  </Video>
+  <Video url="iva://api.internetvideoarchive.com/2.0/DataService/VideoAssets(409876)?lang=en&amp;bitrates=80,212,450,750,1500,2500,5000,8000&amp;duration=36&amp;adaptive=1&amp;dts=0" key="/system/services/url/lookup?url=iva%3A%2F%2Fapi.internetvideoarchive.com%2F2.0%2FDataService%2FVideoAssets%28409876%29%3Flang%3Den%26bitrates%3D80%2C212%2C450%2C750%2C1500%2C2500%2C5000%2C8000%26duration%3D36%26adaptive%3D1%26dts%3D0" type="clip" relationType="behindTheScenes" year="2016" title="The Infiltrator: Miriam Segal On Capturing The Essence" originallyAvailableAt="2016-06-29" thumb="https://iva-images.plex.tv/content/hdphotos/10421/010421/010421_1241x698_409876_056.jpg" ratingKey="iva://api.internetvideoarchive.com/2.0/DataService/VideoAssets(409876)?lang=en&amp;bitrates=80,212,450,750,1500,2500,5000,8000&amp;duration=36&amp;adaptive=1&amp;dts=0">
+    <Media container="mp4" height="1080" width="1920" audioCodec="aac" duration="36000" videoCodec="h264" bitrate="2500">
+      <Part duration="36000" key="/services/iva/assets/409876/video.mp4?bitrate=2500" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="1080" width="1920" codec="h264" bitrate="2500" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+    <Media container="mp4" height="720" width="1280" audioCodec="aac" duration="36000" videoCodec="h264" bitrate="1500">
+      <Part duration="36000" key="/services/iva/assets/409876/video.mp4?bitrate=1500" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="720" width="1280" codec="h264" bitrate="1500" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+    <Media container="mp4" height="480" width="640" audioCodec="aac" duration="36000" videoCodec="h264" bitrate="450">
+      <Part duration="36000" key="/services/iva/assets/409876/video.mp4?bitrate=450" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="480" width="640" codec="h264" bitrate="450" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+  </Video>
+</MediaContainer>

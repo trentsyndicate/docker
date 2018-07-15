@@ -1,0 +1,88 @@
+Jul 15, 2018 03:35:18.971 [0x7fd6fbfff700] INFO - Plex Media Scanner v1.13.2.5154-fd05be322 - ubuntu docker x86_64 - build: linux-ubuntu-x86_64 - GMT -04:00
+Jul 15, 2018 03:35:18.971 [0x7fd6fbfff700] INFO - Linux version: 4.15.0-24-generic (#26-Ubuntu SMP Wed Jun 13 08:44:47 UTC 2018), language: C
+Jul 15, 2018 03:35:18.971 [0x7fd6fbfff700] INFO - Processor Intel(R) Core(TM) i7-4770R CPU @ 3.20GHz
+Jul 15, 2018 03:35:18.971 [0x7fd6fbfff700] INFO - /usr/lib/plexmediaserver/Plex Media Scanner --analyze-deeply --item 4892 --log-file-suffix  Deep Analysis
+Jul 15, 2018 03:35:18.975 [0x7fd707847800] DEBUG - Opening 20 database sessions to library (com.plexapp.plugins.library), SQLite 3.13.0, threadsafe=1
+Jul 15, 2018 03:35:19.138 [0x7fd707847800] DEBUG - [MI] Opening input file: "/movies/Red.Dawn.1984.720p.BrRip.x264-YIFY/Red.Dawn.1984.720p.BrRip.x264.YIFY.mp4"
+Jul 15, 2018 03:35:19.138 [0x7fd707847800] DEBUG - [FFMPEG] - Opening '/movies/Red.Dawn.1984.720p.BrRip.x264-YIFY/Red.Dawn.1984.720p.BrRip.x264.YIFY.mp4' for reading
+Jul 15, 2018 03:35:19.139 [0x7fd707847800] DEBUG - [FFMPEG] - Setting default whitelist 'file,crypto'
+Jul 15, 2018 03:35:19.199 [0x7fd707847800] DEBUG - [FFMPEG] - Format mov,mp4,m4a,3gp,3g2,mj2 probed with size=2048 and score=100
+Jul 15, 2018 03:35:19.199 [0x7fd707847800] DEBUG - [FFMPEG] - ISO: File Type Major Brand: isom
+Jul 15, 2018 03:35:19.199 [0x7fd707847800] DEBUG - [FFMPEG] - Unknown dref type 0x206c7275 size 12
+Jul 15, 2018 03:35:19.269 [0x7fd707847800] DEBUG - [FFMPEG] - Setting codecpar->delay to 2 for stream st: 0
+Jul 15, 2018 03:35:19.269 [0x7fd707847800] DEBUG - [FFMPEG] - Unknown dref type 0x206c7275 size 12
+Jul 15, 2018 03:35:19.357 [0x7fd707847800] DEBUG - [FFMPEG] - Before avformat_find_stream_info() pos: 786705730 bytes read:3252150 seeks:1 nb_streams:2
+Jul 15, 2018 03:35:19.358 [0x7fd707847800] DEBUG - [FFMPEG] - nal_unit_type: 7, nal_ref_idc: 3
+Jul 15, 2018 03:35:19.358 [0x7fd707847800] DEBUG - [FFMPEG] - nal_unit_type: 8, nal_ref_idc: 3
+Jul 15, 2018 03:35:19.359 [0x7fd707847800] DEBUG - [FFMPEG] - nal_unit_type: 6, nal_ref_idc: 0
+Jul 15, 2018 03:35:19.359 [0x7fd707847800] DEBUG - [FFMPEG] - nal_unit_type: 5, nal_ref_idc: 3
+Jul 15, 2018 03:35:19.359 [0x7fd707847800] DEBUG - [FFMPEG] - Format yuv420p chosen by get_format().
+Jul 15, 2018 03:35:19.361 [0x7fd707847800] DEBUG - [FFMPEG] - no picture 
+Jul 15, 2018 03:35:19.363 [0x7fd707847800] DEBUG - [FFMPEG] - nal_unit_type: 1, nal_ref_idc: 2
+Jul 15, 2018 03:35:19.364 [0x7fd707847800] DEBUG - [FFMPEG] - no picture 
+Jul 15, 2018 03:35:19.366 [0x7fd707847800] DEBUG - [FFMPEG] - nal_unit_type: 1, nal_ref_idc: 1
+Jul 15, 2018 03:35:19.370 [0x7fd707847800] DEBUG - [FFMPEG] - nal_unit_type: 1, nal_ref_idc: 0
+Jul 15, 2018 03:35:19.374 [0x7fd707847800] DEBUG - [FFMPEG] - nal_unit_type: 1, nal_ref_idc: 0
+Jul 15, 2018 03:35:19.377 [0x7fd707847800] DEBUG - [FFMPEG] - nal_unit_type: 1, nal_ref_idc: 0
+Jul 15, 2018 03:35:19.378 [0x7fd707847800] DEBUG - [FFMPEG] - nal_unit_type: 1, nal_ref_idc: 0
+Jul 15, 2018 03:35:19.380 [0x7fd707847800] DEBUG - [FFMPEG] - nal_unit_type: 1, nal_ref_idc: 0
+Jul 15, 2018 03:35:19.382 [0x7fd707847800] DEBUG - [FFMPEG] - nal_unit_type: 1, nal_ref_idc: 0
+Jul 15, 2018 03:35:19.384 [0x7fd707847800] DEBUG - [FFMPEG] - All info found
+Jul 15, 2018 03:35:19.384 [0x7fd707847800] DEBUG - [FFMPEG] - After avformat_find_stream_info() pos: 3247561 bytes read:3284918 seeks:2 frames:13
+Jul 15, 2018 03:35:19.460 [0x7fd707847800] DEBUG - Deep Analysis: Read 10000 packets at 141.248000
+Jul 15, 2018 03:35:19.603 [0x7fd707847800] DEBUG - Deep Analysis: Read 20000 packets at 282.304000
+Jul 15, 2018 03:35:19.845 [0x7fd707847800] DEBUG - Deep Analysis: Read 30000 packets at 423.172750
+Jul 15, 2018 03:35:20.036 [0x7fd707847800] DEBUG - Deep Analysis: Read 40000 packets at 564.650667
+Jul 15, 2018 03:35:20.182 [0x7fd707847800] DEBUG - Deep Analysis: Read 50000 packets at 705.706667
+Jul 15, 2018 03:35:20.304 [0x7fd707847800] DEBUG - Deep Analysis: Read 60000 packets at 846.512333
+Jul 15, 2018 03:35:20.547 [0x7fd707847800] DEBUG - Deep Analysis: Read 70000 packets at 988.053333
+Jul 15, 2018 03:35:20.725 [0x7fd707847800] DEBUG - Deep Analysis: Read 80000 packets at 1129.044583
+Jul 15, 2018 03:35:20.856 [0x7fd707847800] DEBUG - Deep Analysis: Read 90000 packets at 1270.400000
+Jul 15, 2018 03:35:21.010 [0x7fd707847800] DEBUG - Deep Analysis: Read 100000 packets at 1411.456000
+Jul 15, 2018 03:35:21.172 [0x7fd707847800] DEBUG - Deep Analysis: Read 110000 packets at 1552.384167
+Jul 15, 2018 03:35:21.301 [0x7fd707847800] DEBUG - Deep Analysis: Read 120000 packets at 1693.802667
+Jul 15, 2018 03:35:21.436 [0x7fd707847800] DEBUG - Deep Analysis: Read 130000 packets at 1834.858667
+Jul 15, 2018 03:35:21.585 [0x7fd707847800] DEBUG - Deep Analysis: Read 140000 packets at 1975.723750
+Jul 15, 2018 03:35:21.703 [0x7fd707847800] DEBUG - Deep Analysis: Read 150000 packets at 2117.205333
+Jul 15, 2018 03:35:21.911 [0x7fd707847800] DEBUG - Deep Analysis: Read 160000 packets at 2258.261333
+Jul 15, 2018 03:35:22.067 [0x7fd707847800] DEBUG - Deep Analysis: Read 170000 packets at 2399.063333
+Jul 15, 2018 03:35:22.171 [0x7fd707847800] DEBUG - Deep Analysis: Read 180000 packets at 2540.608000
+Jul 15, 2018 03:35:22.391 [0x7fd707847800] DEBUG - Deep Analysis: Read 190000 packets at 2681.595583
+Jul 15, 2018 03:35:22.513 [0x7fd707847800] DEBUG - Deep Analysis: Read 200000 packets at 2822.954667
+Jul 15, 2018 03:35:22.713 [0x7fd707847800] DEBUG - Deep Analysis: Read 210000 packets at 2964.010667
+Jul 15, 2018 03:35:22.896 [0x7fd707847800] DEBUG - Deep Analysis: Read 220000 packets at 3104.935167
+Jul 15, 2018 03:35:23.058 [0x7fd707847800] DEBUG - Deep Analysis: Read 230000 packets at 3246.357333
+Jul 15, 2018 03:35:23.221 [0x7fd707847800] DEBUG - Deep Analysis: Read 240000 packets at 3387.413333
+Jul 15, 2018 03:35:23.322 [0x7fd707847800] DEBUG - Deep Analysis: Read 250000 packets at 3528.274750
+Jul 15, 2018 03:35:23.480 [0x7fd707847800] DEBUG - Deep Analysis: Read 260000 packets at 3669.760000
+Jul 15, 2018 03:35:23.605 [0x7fd707847800] DEBUG - Deep Analysis: Read 270000 packets at 3810.816000
+Jul 15, 2018 03:35:23.829 [0x7fd707847800] DEBUG - Deep Analysis: Read 280000 packets at 3951.614333
+Jul 15, 2018 03:35:24.007 [0x7fd707847800] DEBUG - Deep Analysis: Read 290000 packets at 4093.162667
+Jul 15, 2018 03:35:24.160 [0x7fd707847800] DEBUG - Deep Analysis: Read 300000 packets at 4234.146583
+Jul 15, 2018 03:35:24.417 [0x7fd707847800] DEBUG - Deep Analysis: Read 310000 packets at 4375.509333
+Jul 15, 2018 03:35:24.545 [0x7fd707847800] DEBUG - Deep Analysis: Read 320000 packets at 4516.565333
+Jul 15, 2018 03:35:24.700 [0x7fd707847800] DEBUG - Deep Analysis: Read 330000 packets at 4657.486167
+Jul 15, 2018 03:35:24.886 [0x7fd707847800] DEBUG - Deep Analysis: Read 340000 packets at 4798.912000
+Jul 15, 2018 03:35:25.043 [0x7fd707847800] DEBUG - Deep Analysis: Read 350000 packets at 4939.968000
+Jul 15, 2018 03:35:25.237 [0x7fd707847800] DEBUG - Deep Analysis: Read 360000 packets at 5080.825750
+Jul 15, 2018 03:35:25.464 [0x7fd707847800] DEBUG - Deep Analysis: Read 370000 packets at 5222.314667
+Jul 15, 2018 03:35:25.562 [0x7fd707847800] DEBUG - Deep Analysis: Read 380000 packets at 5363.370667
+Jul 15, 2018 03:35:25.732 [0x7fd707847800] DEBUG - Deep Analysis: Read 390000 packets at 5504.165333
+Jul 15, 2018 03:35:25.985 [0x7fd707847800] DEBUG - Deep Analysis: Read 400000 packets at 5645.717333
+Jul 15, 2018 03:35:26.194 [0x7fd707847800] DEBUG - Deep Analysis: Read 410000 packets at 5786.697583
+Jul 15, 2018 03:35:26.308 [0x7fd707847800] DEBUG - Deep Analysis: Read 420000 packets at 5928.064000
+Jul 15, 2018 03:35:26.392 [0x7fd707847800] DEBUG - Deep Analysis: Read 430000 packets at 6069.120000
+Jul 15, 2018 03:35:26.491 [0x7fd707847800] DEBUG - Deep Analysis: Read 440000 packets at 6210.037167
+Jul 15, 2018 03:35:26.656 [0x7fd707847800] DEBUG - Deep Analysis: Read 450000 packets at 6351.466667
+Jul 15, 2018 03:35:26.795 [0x7fd707847800] DEBUG - Deep Analysis: Read 460000 packets at 6492.522667
+Jul 15, 2018 03:35:26.958 [0x7fd707847800] DEBUG - Deep Analysis: Read 470000 packets at 6633.376750
+Jul 15, 2018 03:35:27.026 [0x7fd707847800] DEBUG - Deep Analysis: Read 480000 packets at 6774.869333
+Jul 15, 2018 03:35:27.052 [0x7fd707847800] DEBUG - Deep Analysis: Sorting packets
+Jul 15, 2018 03:35:27.078 [0x7fd707847800] DEBUG - Deep Analysis: Performing file bitrate analysis
+Jul 15, 2018 03:35:27.119 [0x7fd707847800] DEBUG - Deep Analysis: Performing stream bitrate analysis on stream 0
+Jul 15, 2018 03:35:27.136 [0x7fd707847800] DEBUG - Deep Analysis: Performing stream bitrate analysis on stream 1
+Jul 15, 2018 03:35:27.171 [0x7fd707847800] DEBUG - Deep Analysis: Saving GoP analysis for stream 0
+Jul 15, 2018 03:35:27.174 [0x7fd707847800] DEBUG - Deep Analysis: Saving bitrate analysis
+Jul 15, 2018 03:35:27.184 [0x7fd707847800] DEBUG - Updating part with ID=9206 [/movies/Red.Dawn.1984.720p.BrRip.x264-YIFY/Red.Dawn.1984.720p.BrRip.x264.YIFY.mp4]
+Jul 15, 2018 03:35:27.192 [0x7fd707847800] DEBUG - [MI] Closing input file: /movies/Red.Dawn.1984.720p.BrRip.x264-YIFY/Red.Dawn.1984.720p.BrRip.x264.YIFY.mp4
+Jul 15, 2018 03:35:27.194 [0x7fd707847800] DEBUG - [FFMPEG] - Statistics: 786711692 bytes read, 2 seeks

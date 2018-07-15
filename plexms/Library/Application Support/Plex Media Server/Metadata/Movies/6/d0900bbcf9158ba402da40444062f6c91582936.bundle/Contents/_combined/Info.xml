@@ -1,0 +1,687 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Movie>
+  <art>
+    <item external="True" url="http://image.tmdb.org/t/p/original/3OUvzQaMgbieHDtF6NRs6Kyhapr.jpg" sort_order="1" provider="com.plexapp.agents.imdb" media="com.plexapp.agents.imdb_6f139f99bb3c1406f9178c2f42224b706b069515"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/tcheoA2nPATCm2vvXw2hVQoaEFD.jpg" preview="com.plexapp.agents.imdb_911f2ee95d4340a205341184986701b4edd99d38" sort_order="2" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/fAf4I3h8kDcvm5wQyxyrBmTeDcv.jpg" preview="com.plexapp.agents.imdb_26ac74e0c447c6e72b5da9f525d5366136fa0610" sort_order="3" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/ApPBMGy8uWkDiPYAAMxgdC0j0gv.jpg" preview="com.plexapp.agents.imdb_e22b1808fa4394c37d9ff317123eb5edf3725cd9" sort_order="4" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/qVGpxnjrGlHaSTCqTQI6viBDSfp.jpg" preview="com.plexapp.agents.imdb_7ae18b0b36848568a4a33913babb5b80d40f1279" sort_order="5" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/zr6NdlckEffWTB70mqtG1ocWvaz.jpg" preview="com.plexapp.agents.imdb_a3343b4978edfbe2a2dbdd6a6c912d85b2c01e17" sort_order="6" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/rAQcPrEaPzDRVNX7XX5TWyxCGFN.jpg" preview="com.plexapp.agents.imdb_43e5cb97b4965d48437ff691253fffd76dac8b13" sort_order="7" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/A7Rjfn8aEPaecanOcCfYiFS1X8C.jpg" preview="com.plexapp.agents.imdb_f3e68ddc31034ed43745de84edf0516a83f576fd" sort_order="8" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/g8wnyyR6vlZjfdePD2v1lKGLUix.jpg" preview="com.plexapp.agents.imdb_20cfd0f9ae93a18ebea67b47ef98b6b929b7c87b" sort_order="9" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/zFEPvuTpsOjsE4571npAMoAZknB.jpg" preview="com.plexapp.agents.imdb_f276eb57c9e49b39fad2cb4b7fdbf1d18a405765" sort_order="10" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/u8UoW14LiNDJNnZae2hfFdTNOQf.jpg" preview="com.plexapp.agents.imdb_6c33176b103525b67c7ef53c71a15784582875b5" sort_order="11" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/wcckSvkbtCTLStPN6aab13mpGKv.jpg" preview="com.plexapp.agents.imdb_7c58f04286a9e89de87e63c5b4fd0aac4398b67d" sort_order="12" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/dyJmrDtFiWRL1Z48pajPE4kQuLP.jpg" preview="com.plexapp.agents.imdb_0d19bfab63134871ec71f69e42038d7af7fb3dfc" sort_order="13" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/910sIQYhWe924cqjZZQEKQRVGgq.jpg" preview="com.plexapp.agents.imdb_347b6f2e6ebaf76ee72003400caa0e9829cffe0c" sort_order="14" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/1h1L9WYiFOlCZnMWDlYNi1NGl2x.jpg" preview="com.plexapp.agents.imdb_1a4b4e6c00e22cca3a55a471600ad2aaad2aca58" sort_order="15" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/djZ91wFhH07ufDwfaEo6c4tm7x.jpg" preview="com.plexapp.agents.imdb_02d9ee8aec8d26e99f6a208f731f810a68b91e7c" sort_order="16" provider="com.plexapp.agents.imdb"/>
+  </art>
+  <banners/>
+  <chapters>
+    <item index="0">
+      <title>1. Main Title</title>
+      <end_time_offset>405000</end_time_offset>
+      <start_time_offset>0</start_time_offset>
+    </item>
+    <item index="1">
+      <title>2. Big Dubya</title>
+      <end_time_offset>701000</end_time_offset>
+      <start_time_offset>405000</start_time_offset>
+    </item>
+    <item index="2">
+      <title>3. Mum's The Word</title>
+      <end_time_offset>1018000</end_time_offset>
+      <start_time_offset>701000</start_time_offset>
+    </item>
+    <item index="3">
+      <title>4. Head Games</title>
+      <end_time_offset>1339000</end_time_offset>
+      <start_time_offset>1018000</start_time_offset>
+    </item>
+    <item index="4">
+      <title>5. Capitain Culpepper</title>
+      <end_time_offset>1466000</end_time_offset>
+      <start_time_offset>1339000</start_time_offset>
+    </item>
+    <item index="5">
+      <title>6. Splits</title>
+      <end_time_offset>1874000</end_time_offset>
+      <start_time_offset>1466000</start_time_offset>
+    </item>
+    <item index="6">
+      <title>7. Reckless</title>
+      <end_time_offset>2128000</end_time_offset>
+      <start_time_offset>1874000</start_time_offset>
+    </item>
+    <item index="7">
+      <title>8. Other Means</title>
+      <end_time_offset>2487000</end_time_offset>
+      <start_time_offset>2128000</start_time_offset>
+    </item>
+    <item index="8">
+      <title>9. Piece Of The Pie</title>
+      <end_time_offset>2752000</end_time_offset>
+      <start_time_offset>2487000</start_time_offset>
+    </item>
+    <item index="9">
+      <title>10. Dirty Lies</title>
+      <end_time_offset>3120000</end_time_offset>
+      <start_time_offset>2752000</start_time_offset>
+    </item>
+    <item index="10">
+      <title>11. Demolition</title>
+      <end_time_offset>3364000</end_time_offset>
+      <start_time_offset>3120000</start_time_offset>
+    </item>
+    <item index="11">
+      <title>12. Shake It Up</title>
+      <end_time_offset>3702000</end_time_offset>
+      <start_time_offset>3364000</start_time_offset>
+    </item>
+    <item index="12">
+      <title>13. Full Circle</title>
+      <end_time_offset>4033000</end_time_offset>
+      <start_time_offset>3702000</start_time_offset>
+    </item>
+    <item index="13">
+      <title>14. Downhill</title>
+      <end_time_offset>4300000</end_time_offset>
+      <start_time_offset>4033000</start_time_offset>
+    </item>
+    <item index="14">
+      <title>15. Equal Treatment</title>
+      <end_time_offset>4559000</end_time_offset>
+      <start_time_offset>4300000</start_time_offset>
+    </item>
+    <item index="15">
+      <title>16. Mixed Nuts</title>
+      <end_time_offset>4851000</end_time_offset>
+      <start_time_offset>4559000</start_time_offset>
+    </item>
+    <item index="16">
+      <title>17. Big Bang</title>
+      <end_time_offset>5227000</end_time_offset>
+      <start_time_offset>4851000</start_time_offset>
+    </item>
+    <item index="17">
+      <title>18. High Tension</title>
+      <end_time_offset>5532000</end_time_offset>
+      <start_time_offset>5227000</start_time_offset>
+    </item>
+    <item index="18">
+      <title>19. Intermission</title>
+      <end_time_offset>5553000</end_time_offset>
+      <start_time_offset>5532000</start_time_offset>
+    </item>
+    <item index="19">
+      <title>20. Out Of Control</title>
+      <end_time_offset>5863000</end_time_offset>
+      <start_time_offset>5553000</start_time_offset>
+    </item>
+    <item index="20">
+      <title>21. Emergency Priority</title>
+      <end_time_offset>6291000</end_time_offset>
+      <start_time_offset>5863000</start_time_offset>
+    </item>
+    <item index="21">
+      <title>22. Loopy</title>
+      <end_time_offset>6655000</end_time_offset>
+      <start_time_offset>6291000</start_time_offset>
+    </item>
+    <item index="22">
+      <title>23. Out Alive</title>
+      <end_time_offset>7016000</end_time_offset>
+      <start_time_offset>6655000</start_time_offset>
+    </item>
+    <item index="23">
+      <title>24. Arrival</title>
+      <end_time_offset>7447000</end_time_offset>
+      <start_time_offset>7016000</start_time_offset>
+    </item>
+    <item index="24">
+      <title>25. W</title>
+      <end_time_offset>7716000</end_time_offset>
+      <start_time_offset>7447000</start_time_offset>
+    </item>
+    <item index="25">
+      <title>26. The Dig</title>
+      <end_time_offset>7887000</end_time_offset>
+      <start_time_offset>7716000</start_time_offset>
+    </item>
+    <item index="26">
+      <title>27. To The Police</title>
+      <end_time_offset>8047000</end_time_offset>
+      <start_time_offset>7887000</start_time_offset>
+    </item>
+    <item index="27">
+      <title>28. Leniency</title>
+      <end_time_offset>8259000</end_time_offset>
+      <start_time_offset>8047000</start_time_offset>
+    </item>
+    <item index="28">
+      <title>29. Crooked Cop</title>
+      <end_time_offset>8756000</end_time_offset>
+      <start_time_offset>8259000</start_time_offset>
+    </item>
+    <item index="29">
+      <title>30. Mad For Money</title>
+      <end_time_offset>9256000</end_time_offset>
+      <start_time_offset>8756000</start_time_offset>
+    </item>
+    <item index="30">
+      <title>31. Airborne Hag</title>
+      <end_time_offset>9413000</end_time_offset>
+      <start_time_offset>9256000</start_time_offset>
+    </item>
+    <item index="31">
+      <title>32. The End</title>
+      <end_time_offset>-1</end_time_offset>
+      <start_time_offset>9413000</start_time_offset>
+    </item>
+  </chapters>
+  <collections/>
+  <content_rating>R</content_rating>
+  <countries>
+    <item index="0">USA</item>
+  </countries>
+  <directors>
+    <item index="0">
+      <photo>http://image.tmdb.org/t/p/original/vWiAwINWnwr3sZWdLJ7pt6LrUkb.jpg</photo>
+      <role/>
+      <name>Andy Muschietti</name>
+    </item>
+  </directors>
+  <duration>8100000</duration>
+  <genres>
+    <item index="0">Drama</item>
+    <item index="1">Horror</item>
+    <item index="2">Thriller</item>
+  </genres>
+  <originally_available_at>2017-09-05</originally_available_at>
+  <posters>
+    <item external="True" url="http://image.tmdb.org/t/p/original/9E2y5Q7WlCVNEhP5GiVTjhEhx1o.jpg" sort_order="1" provider="com.plexapp.agents.imdb" media="com.plexapp.agents.imdb_5acefa9f0b29c99657527dbc988c4ecbbfa1d3ac"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/6uDpMsdn8bbZScDptbika5JEtSH.jpg" preview="com.plexapp.agents.imdb_a1b77d6894a901f4f33ec133882934dc2ca23f49" sort_order="2" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/fCKQZkjxD4nkuI27lxit2wXN3Cu.jpg" preview="com.plexapp.agents.imdb_7a57affd1eb4d9ae8d57360a6c0ce68a22badcf9" sort_order="3" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/zSo9i3K3ZC1r35XaTyrh8SkFxRU.jpg" preview="com.plexapp.agents.imdb_bebee7ee8923d90247b8088589e981c73ce1a33a" sort_order="4" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/oDj0Bqi31EkVfMdPQWeUdLJURxN.jpg" preview="com.plexapp.agents.imdb_9cd9798ba02c37b0a81d4bd1c439e36a66127ca9" sort_order="5" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/8mFJQIoMjZP1s3PCVviIUdKh2iZ.jpg" preview="com.plexapp.agents.imdb_71bd56f935ec05b4340086616f75b3e7d4480c30" sort_order="6" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/eL2OloweBRHyycwdrmSgW5fIr1F.jpg" preview="com.plexapp.agents.imdb_78d65d7c14fd6a39f650d2082d455a5d2238e840" sort_order="7" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/jMp6fKhd2UbGYqdxVhSyUFWKYYV.jpg" preview="com.plexapp.agents.imdb_377955c896277bf2d9d035726212cd2ec8114259" sort_order="8" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/bmVqA48mxytv70fhvTIHsVNDIxT.jpg" preview="com.plexapp.agents.imdb_ee3314bb28976c82287b8462ecfa0b4e07f76007" sort_order="9" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/tp9SBVBvouRipujcx0Q793R3ik2.jpg" preview="com.plexapp.agents.imdb_c1022e5c48e1581dc876787f962d51e44864acac" sort_order="10" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/1Z8bdOXPvMeSivCUiWwgiA4vt0m.jpg" preview="com.plexapp.agents.imdb_306e3759e255635c7d2c99f890471bdb93ba24c7" sort_order="11" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/7HiZeQzCieoHhsOX2KHDaq3aP8y.jpg" preview="com.plexapp.agents.imdb_e3faf3362e62a41e83e54ee6ddd080b11d366e0e" sort_order="12" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/yRKMgsxvvBKbeIYbFHHQigITW4i.jpg" preview="com.plexapp.agents.imdb_10ae1e50aafe437e5e5570c951c42b8a87309d9a" sort_order="13" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/egHDUfEz67fKeJIBvMGPdoAFz4X.jpg" preview="com.plexapp.agents.imdb_5c2727b47368464dbb6e70a291343b32cad6235c" sort_order="14" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/qky6Qm6O85zYVGSH2h3GaCuuCQ7.jpg" preview="com.plexapp.agents.imdb_3c95519f80f989228cb26d27e02d488af63891e1" sort_order="15" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/tZ55C7gPExwzvBLCsZMqFZMbB2I.jpg" preview="com.plexapp.agents.imdb_decd05bdbdf89eeccf851816132706afb901a8cc" sort_order="16" provider="com.plexapp.agents.imdb"/>
+  </posters>
+  <producers>
+    <item index="0">
+      <photo>http://image.tmdb.org/t/p/original/3uJS2OcxFXlxyT1ytHQt2vjmeez.jpg</photo>
+      <role/>
+      <name>Seth Grahame-Smith</name>
+    </item>
+    <item index="1">
+      <photo>http://image.tmdb.org/t/p/original/kcj5OatIvE2h5MvF4RBVsap2cEj.jpg</photo>
+      <role/>
+      <name>David Katzenberg</name>
+    </item>
+    <item index="2">
+      <photo/>
+      <role/>
+      <name>Roy Lee</name>
+    </item>
+    <item index="3">
+      <photo>http://image.tmdb.org/t/p/original/qrQNLd6nHOWCIfDyybbSQZF7bze.jpg</photo>
+      <role/>
+      <name>Dan Lin</name>
+    </item>
+    <item index="4">
+      <photo>http://image.tmdb.org/t/p/original/A4B89740kRD0bkA6JYHPnS7E6iB.jpg</photo>
+      <role/>
+      <name>Barbara Muschietti</name>
+    </item>
+  </producers>
+  <rating>8.5</rating>
+  <rating_image>rottentomatoes://image.rating.ripe</rating_image>
+  <audience_rating>8.4</audience_rating>
+  <audience_rating_image>rottentomatoes://image.rating.upright</audience_rating_image>
+  <reviews>
+    <item index="0">
+      <text>It is [a] study in trauma to match the best of them.</text>
+      <source>The New Republic</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>https://newrepublic.com/article/144778/stephen-kings-call-solidarity-among-traumatized</link>
+      <author>Josephine Livingstone</author>
+    </item>
+    <item index="1">
+      <text>I'm writing this not so much as a critic but as an ordinary moviegoer, experiencing Proustian transport via an old-fashioned scary movie executed by a team of filmmakers and actors at the top of their game.</text>
+      <source>Salon.com</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>http://www.salon.com/2017/09/11/it-deserves-an-array-of-oscars/</link>
+      <author>Matthew Rozsa</author>
+    </item>
+    <item index="2">
+      <text>What we're left with is a solid but relatively conventional horror movie, above average but overlong.</text>
+      <source>The Atlantic</source>
+      <image>rottentomatoes://image.review.rotten</image>
+      <link>https://www.theatlantic.com/entertainment/archive/2017/09/stephen-king-it-review/539157/</link>
+      <author>Christopher Orr</author>
+    </item>
+    <item index="3">
+      <text>The movie is not terrifying but blandly edifying; its scares, foreshadowed as if by telegram, are delivered less effectively than its life lessons.</text>
+      <source>New Yorker</source>
+      <image>rottentomatoes://image.review.rotten</image>
+      <link>https://www.newyorker.com/goings-on-about-town/movies/it-2</link>
+      <author>Richard Brody</author>
+    </item>
+    <item index="4">
+      <text>Doesn't cut very deep and isn't very scary.</text>
+      <source>TIME Magazine</source>
+      <image>rottentomatoes://image.review.rotten</image>
+      <link>http://time.com/4934369/movie-review-it-stephen-king/</link>
+      <author>Stephanie Zacharek</author>
+    </item>
+    <item index="5">
+      <text>It's such a great performance that you wish Muschietti had eased up on the CGI and just let Skarsgård do the talking.</text>
+      <source>Tribune News Service</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>https://www.abqjournal.com/1059579/laughing-matter.html</link>
+      <author>Katie Walsh</author>
+    </item>
+    <item index="6">
+      <text>Even those unfamiliar with the book might wonder why this kids-only manifestation of IT feels strangely toothless on the horror front.</text>
+      <source>Village Voice</source>
+      <image>rottentomatoes://image.review.rotten</image>
+      <link>https://www.villagevoice.com/2017/09/06/it-me/</link>
+      <author>Bilge Ebiri</author>
+    </item>
+    <item index="7">
+      <text>This new It has more on its mind, and gives more body and voice to King's ideas of childhood anxieties and the corrosive power of fear.</text>
+      <source>New York Magazine/Vulture</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>http://www.vulture.com/2017/09/the-scarier-funnier-new-it-easily-surpasses-its-predecessor.html</link>
+      <author>Emily Yoshida</author>
+    </item>
+    <item index="8">
+      <text>Horror's power here does not come from monstrous imagery, but from the encounter with evil... Muschietti seems to miss that, going for teeth over terror from the get-go.</text>
+      <source>San Diego Reader</source>
+      <image>rottentomatoes://image.review.rotten</image>
+      <link>https://www.sandiegoreader.com/movies/it/</link>
+      <author>Matthew Lickona</author>
+    </item>
+    <item index="9">
+      <text>I can't say the first half of It scared me senseless, but it built up enough goodwill toward its young heroes to make me curious about what they'll be like in their grown-up incarnations.</text>
+      <source>Slate</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>https://slate.com/arts/2017/09/the-new-adaptation-of-stephen-kings-it-reviewed.html</link>
+      <author>Dana Stevens</author>
+    </item>
+    <item index="10">
+      <text>You'll scream bloody murder!</text>
+      <source>Rolling Stone</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>http://www.rollingstone.com/movies/reviews/peter-travers-it-will-give-you-killer-clown-nightmares-w501070</link>
+      <author>Peter Travers</author>
+    </item>
+    <item index="11">
+      <text>While the killer clown Pennywise is the center of the film's marketing campaign, the image on the film's poster, it's the kids in this surprisingly robust adaptation of Stephen King's novel who give "It" its center.</text>
+      <source>Detroit News</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>http://www.detroitnews.com/story/entertainment/movies/2017/09/06/review-delivers-clowning-around/105323350/</link>
+      <author>Adam Graham</author>
+    </item>
+    <item index="12">
+      <text>"It" fills its 135-minute run time with enough impressive visuals to keep its audience rapt, if not as emotionally invested as the source material deserves.</text>
+      <source>Los Angeles Times</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>http://www.latimes.com/entertainment/movies/la-et-mn-it-review-20170907-story.html</link>
+      <author>Jen Yamato</author>
+    </item>
+    <item index="13">
+      <text>[It's] themes survive the mayhem that pops up with metronomic regularity, but just barely.</text>
+      <source>NPR</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>http://www.npr.org/2017/09/07/547972006/-it-happens-again-and-again-and-again</link>
+      <author>Scott Tobias</author>
+    </item>
+    <item index="14">
+      <text>What is it about clowns, anyway?</text>
+      <source>ReelViews</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>http://www.reelviews.net/reelviews/it</link>
+      <author>James Berardinelli</author>
+    </item>
+    <item index="15">
+      <text>Muschietti's It strikes a nice balance between sleepover-ready gross-outs (tiptoeing through raw sewage, for example) and tender coming-of-age storytelling.</text>
+      <source>Toronto Star</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>https://www.thestar.com/entertainment/movies/2017/09/07/the-clown-isnt-the-scariest-part-of-it-the-stephen-king-reboot-review.html</link>
+      <author>Ryan Porter</author>
+    </item>
+    <item index="16">
+      <text>It, on the page or the screen, is a complex mix of coming-of-age elements with ideas about childhood fears, memory and human nature - good and bad.</text>
+      <source>Toronto Sun</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>http://www.torontosun.com/2017/09/07/it-review-adaptation-of-stephen-king-classic-never-quite-feels-like-a-movie-for-grown-ups</link>
+      <author>Liz Braun</author>
+    </item>
+    <item index="17">
+      <text>If a blood-gushing horror film were to mate with a whacking good screwball farce, this would be the gripping, R-rated result.</text>
+      <source>Minneapolis Star Tribune</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>http://www.startribune.com/the-monstrously-fun-it-is-one-of-the-best-stephen-king-movies-in-40-years/443036013/</link>
+      <author>Colin Covert</author>
+    </item>
+    <item index="18">
+      <text>If you're looking for a film that's guaranteed to have you gripping your seat, this is "It."</text>
+      <source>St. Louis Post-Dispatch</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>http://www.stltoday.com/entertainment/movies/reviews/it-is-among-the-best-scariest-stephen-king-film-adaptations/article_86f72edf-adcd-54d4-91e7-800f5fe50b67.html</link>
+      <author>Calvin Wilson</author>
+    </item>
+    <item index="19">
+      <text>Call it a symphony of orchestral meta-horror, an elaborate waking nightmare in which you, as the dreamer, are constantly reminded of what the film is trying to do, and yet are powerless to stop it.</text>
+      <source>Washington Post</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>https://www.washingtonpost.com/goingoutguide/movies/it-is-a-waking-nightmare-curated-from-a-catalogue-of-horror-movie-tropes/2017/09/07/2be19ad4-9307-11e7-89fa-bb822a46da5b_story.html?utm_term=.0efbe883d1ef</link>
+      <author>Michael O'Sullivan</author>
+    </item>
+  </reviews>
+  <roles>
+    <item index="0">
+      <photo>http://image.tmdb.org/t/p/original/5iGyfDlrYsQwEeGz8rZibBcxbus.jpg</photo>
+      <role>Bill Denbrough</role>
+      <name>Jaeden Lieberher</name>
+    </item>
+    <item index="1">
+      <photo>http://image.tmdb.org/t/p/original/dNBVysW90WipOgX81sAsvxtvddF.jpg</photo>
+      <role>Pennywise</role>
+      <name>Bill Skarsgård</name>
+    </item>
+    <item index="2">
+      <photo>http://image.tmdb.org/t/p/original/lorg5MgHUzKr5KuhZ3durEyjKtp.jpg</photo>
+      <role>Ben Hanscom</role>
+      <name>Jeremy Ray Taylor</name>
+    </item>
+    <item index="3">
+      <photo>http://image.tmdb.org/t/p/original/r62iGGF7ERQ0oJqq473lcBOVmVr.jpg</photo>
+      <role>Beverly Marsh</role>
+      <name>Sophia Lillis</name>
+    </item>
+    <item index="4">
+      <photo>http://image.tmdb.org/t/p/original/fMCfuF7OaekBBsPSvzHSPSZgmOZ.jpg</photo>
+      <role>Richie Tozier</role>
+      <name>Finn Wolfhard</name>
+    </item>
+    <item index="5">
+      <photo>http://image.tmdb.org/t/p/original/q3eF91Q7A3t5GFB5N0S7A1OSvV0.jpg</photo>
+      <role>Eddie Kaspbrak</role>
+      <name>Jack Dylan Grazer</name>
+    </item>
+    <item index="6">
+      <photo>http://image.tmdb.org/t/p/original/18K1XQR54wzaAjrBh1FUBGKFuNv.jpg</photo>
+      <role>Stanley Uris</role>
+      <name>Wyatt Oleff</name>
+    </item>
+    <item index="7">
+      <photo>http://image.tmdb.org/t/p/original/t4z7eqz4JxNkykXuD0UitFmWAvY.jpg</photo>
+      <role>Mike Hanlon</role>
+      <name>Chosen Jacobs</name>
+    </item>
+    <item index="8">
+      <photo>http://image.tmdb.org/t/p/original/kQjhd1u58Lrlfvh6jiKDYn7GA31.jpg</photo>
+      <role>Henry Bowers</role>
+      <name>Nicholas Hamilton</name>
+    </item>
+    <item index="9">
+      <photo>http://image.tmdb.org/t/p/original/g8GuQLVz2tVjGh5keZzz48f67HJ.jpg</photo>
+      <role>Georgie Denbrough</role>
+      <name>Jackson Robert Scott</name>
+    </item>
+    <item index="10">
+      <photo>http://image.tmdb.org/t/p/original/reBPuiffmHcktvIAjnOVl5oHA0f.jpg</photo>
+      <role>Patrick Hockstetter</role>
+      <name>Owen Teague</name>
+    </item>
+    <item index="11">
+      <photo>http://image.tmdb.org/t/p/original/83H2f8eRUhqfwSjaBxA9x2jRaVK.jpg</photo>
+      <role>Victor Criss</role>
+      <name>Logan Thompson</name>
+    </item>
+    <item index="12">
+      <photo>http://image.tmdb.org/t/p/original/wUxtIWMCAkFvxLHT5idYvpEuhiC.jpg</photo>
+      <role>Belch Huggins</role>
+      <name>Jake Sim</name>
+    </item>
+    <item index="13">
+      <photo>http://image.tmdb.org/t/p/original/4u8ZkMMt5ipQgfpb81YudFW5rQG.jpg</photo>
+      <role>The Leper</role>
+      <name>Javier Botet</name>
+    </item>
+    <item index="14">
+      <photo>http://image.tmdb.org/t/p/original/oj6BQSAOq4NF0E7yYQfHUPKSCLJ.jpg</photo>
+      <role>Judith</role>
+      <name>Tatum Lee</name>
+    </item>
+    <item index="15">
+      <photo>http://image.tmdb.org/t/p/original/pu4BR6pmCoWG5ZIM9qFTtRJHZXE.jpg</photo>
+      <role>Leroy Hanlon</role>
+      <name>Steven Williams</name>
+    </item>
+    <item index="16">
+      <photo>http://image.tmdb.org/t/p/original/xEfkwQ4geFjNqN8djI78lkvqq8i.jpg</photo>
+      <role>Al Marsh</role>
+      <name>Stephen Bogaert</name>
+    </item>
+    <item index="17">
+      <photo>http://image.tmdb.org/t/p/original/xbp0HABLoF0onvNg8OsiLxO8yVx.jpg</photo>
+      <role>Zach Denbrough</role>
+      <name>Geoffrey Pounsett</name>
+    </item>
+    <item index="18">
+      <photo>http://image.tmdb.org/t/p/original/pquSL8wPZjPTzwKhE9VYWwCpo57.jpg</photo>
+      <role>Sharon Denbrough</role>
+      <name>Pip Dwyer</name>
+    </item>
+    <item index="19">
+      <photo>http://image.tmdb.org/t/p/original/gvhuDRzUtq6BhgEveNZBKGvrOwL.jpg</photo>
+      <role>Rabbi Uris</role>
+      <name>Ari Cohen</name>
+    </item>
+    <item index="20">
+      <photo>http://image.tmdb.org/t/p/original/6RjlNAtI4xHPPvSth5crTE6IQJb.jpg</photo>
+      <role>Officer Oscar 'Butch' Bowers</role>
+      <name>Stuart Hughes</name>
+    </item>
+    <item index="21">
+      <photo>http://image.tmdb.org/t/p/original/oWudEkOHnrw9T1IB3QGilqnrIzJ.jpg</photo>
+      <role>Gretta Keene</role>
+      <name>Megan Charpentier</name>
+    </item>
+    <item index="22">
+      <photo/>
+      <role>Sonia Kasprak</role>
+      <name>Molly Atkinson</name>
+    </item>
+    <item index="23">
+      <photo>http://image.tmdb.org/t/p/original/h6Wv6kDvXIvQibFpSzAONKNinmT.jpg</photo>
+      <role>Mrs. Starret</role>
+      <name>Elizabeth Saunders</name>
+    </item>
+    <item index="24">
+      <photo/>
+      <role>Mr. Keene</role>
+      <name>Joe Bostick</name>
+    </item>
+    <item index="25">
+      <photo>http://image.tmdb.org/t/p/original/xBRSD1kN3W8IL4zpzqYJQgzfRCn.jpg</photo>
+      <role>Joe the Butcher</role>
+      <name>Anthony Ulc</name>
+    </item>
+    <item index="26">
+      <photo/>
+      <role>Betty Ripsom</role>
+      <name>Katie Lunman</name>
+    </item>
+    <item index="27">
+      <photo>http://image.tmdb.org/t/p/original/8LYTbOzuqFQoSOFRggM28JzgEXb.jpg</photo>
+      <role>Chief Borton</role>
+      <name>Neil Crone</name>
+    </item>
+    <item index="28">
+      <photo>http://image.tmdb.org/t/p/original/iuI2W6VAWnUMVyE7m0BG5aKSTq9.jpg</photo>
+      <role>Mrs. Ripsom</role>
+      <name>Sonia Gascón</name>
+    </item>
+    <item index="29">
+      <photo>http://image.tmdb.org/t/p/original/kcj5OatIvE2h5MvF4RBVsap2cEj.jpg</photo>
+      <role>El Aparato (uncredited)</role>
+      <name>David Katzenberg</name>
+    </item>
+    <item index="30">
+      <photo>http://image.tmdb.org/t/p/original/eUCvJ8afV5WTNpcH2BiIkp80cAH.jpg</photo>
+      <role>Pharmacy Cashier (uncredited)</role>
+      <name>Cyndy Day</name>
+    </item>
+    <item index="31">
+      <photo>http://image.tmdb.org/t/p/original/kIJVcF4YYMS4UQFqrSIZyGYpRPq.jpg</photo>
+      <role>Hostess</role>
+      <name>Edie Inksetter</name>
+    </item>
+    <item index="32">
+      <photo>http://image.tmdb.org/t/p/original/1bXFx2dQdWnKgQOB1mbngiUAP5k.jpg</photo>
+      <role>Headless Boy</role>
+      <name>Carter Musselman</name>
+    </item>
+    <item index="33">
+      <photo/>
+      <role>Student (uncredited)</role>
+      <name>Aimee Lenihan</name>
+    </item>
+    <item index="34">
+      <photo/>
+      <role>Student (uncredited)</role>
+      <name>Kylie Lenihan</name>
+    </item>
+    <item index="35">
+      <photo/>
+      <role>Girl on Street (uncredited)</role>
+      <name>Becky Wolf</name>
+    </item>
+    <item index="36">
+      <photo>http://image.tmdb.org/t/p/original/axFNVt54lGkVxSVpVUyJ2fAFHPB.jpg</photo>
+      <role>Abigail (uncredited)</role>
+      <name>Kelly Van der Burg</name>
+    </item>
+    <item index="37">
+      <photo/>
+      <role>Old Woman</role>
+      <name>Martha Gibson</name>
+    </item>
+    <item index="38">
+      <photo/>
+      <role>Field Hockey Girl #1</role>
+      <name>Kasie Rayner</name>
+    </item>
+    <item index="39">
+      <photo>http://image.tmdb.org/t/p/original/gkWNefDoAFgruXKAgdozVg9ONHd.jpg</photo>
+      <role>Girl in Bathroom</role>
+      <name>Isabelle Nélisse</name>
+    </item>
+    <item index="40">
+      <photo/>
+      <role>Another Girl</role>
+      <name>Jocelyn Mattka</name>
+    </item>
+    <item index="41">
+      <photo/>
+      <role>Old Man in Car</role>
+      <name>Don Tripe</name>
+    </item>
+    <item index="42">
+      <photo/>
+      <role>Old Woman in Car</role>
+      <name>Liz Gordon</name>
+    </item>
+    <item index="43">
+      <photo/>
+      <role>Dead Girl #1</role>
+      <name>Paige Rosamond</name>
+    </item>
+    <item index="44">
+      <photo>http://image.tmdb.org/t/p/original/4dgZ2QZHUPoLwnkhrKFe4ACmTZ0.jpg</photo>
+      <role>Stanley's Mother</role>
+      <name>Janet Porter</name>
+    </item>
+    <item index="45">
+      <photo/>
+      <role>4th of July Clown</role>
+      <name>Memo Díaz Capt.</name>
+    </item>
+    <item index="46">
+      <photo/>
+      <role>Girl in Magazine</role>
+      <name>Chantal Vachon</name>
+    </item>
+    <item index="47">
+      <photo/>
+      <role>Organ Player Clown</role>
+      <name>Roberto Campanella</name>
+    </item>
+    <item index="48">
+      <photo/>
+      <role>Esther (uncredited)</role>
+      <name>Kate Moyer</name>
+    </item>
+  </roles>
+  <similar>
+    <item index="0">Get Out</item>
+    <item index="1">Annabelle: Creation</item>
+    <item index="2">mother!</item>
+    <item index="3">Happy Death Day</item>
+    <item index="4">Split</item>
+    <item index="5">Spider-Man: Homecoming</item>
+    <item index="6">Baby Driver</item>
+    <item index="7">Thor: Ragnarok</item>
+    <item index="8">Blade Runner 2049</item>
+    <item index="9">Jigsaw</item>
+    <item index="10">Dunkirk</item>
+    <item index="11">War for the Planet of the Apes</item>
+    <item index="12">Don't Breathe</item>
+    <item index="13">The Conjuring 2</item>
+    <item index="14">Justice League</item>
+    <item index="15">Lights Out</item>
+    <item index="16">Kingsman: The Golden Circle</item>
+    <item index="17">Alien: Covenant</item>
+    <item index="18">Star Wars: The Last Jedi</item>
+    <item index="19">Guardians of the Galaxy Vol. 2</item>
+  </similar>
+  <studio>New Line Cinema</studio>
+  <summary>In a small town in Maine, seven children known as The Losers Club come face to face with life problems, bullies and a monster that takes the shape of a clown called Pennywise.</summary>
+  <tagline>Your fears are unleashed</tagline>
+  <tags/>
+  <themes/>
+  <title>It</title>
+  <writers>
+    <item index="0">
+      <photo/>
+      <role/>
+      <name>Chase Palmer</name>
+    </item>
+    <item index="1">
+      <photo>http://image.tmdb.org/t/p/original/ui8SCAamTIA0odRunlxr8aPJlRj.jpg</photo>
+      <role/>
+      <name>Gary Dauberman</name>
+    </item>
+    <item index="2">
+      <photo>http://image.tmdb.org/t/p/original/9BDeASL8E1Rr55fn0uQwEv1EAH6.jpg</photo>
+      <role/>
+      <name>Cary Fukunaga</name>
+    </item>
+  </writers>
+  <year>2017</year>
+</Movie>

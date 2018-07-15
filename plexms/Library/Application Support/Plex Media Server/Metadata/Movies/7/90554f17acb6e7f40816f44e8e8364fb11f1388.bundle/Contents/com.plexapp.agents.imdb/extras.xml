@@ -1,0 +1,203 @@
+<?xml version='1.0' encoding='utf-8'?>
+<MediaContainer size="10" identifier="com.plexapp.agents.imdb" mediaTagPrefix="/system/bundle/media/flags/" prefsKey="/:/plugins/com.plexapp.agents.imdb/prefs">
+  <Video url="iva://api.internetvideoarchive.com/2.0/DataService/VideoAssets(438322)?lang=en&amp;bitrates=80,212,450,750,1500,2500,5000,8000&amp;duration=69&amp;adaptive=1&amp;dts=0" key="/system/services/url/lookup?url=iva%3A%2F%2Fapi.internetvideoarchive.com%2F2.0%2FDataService%2FVideoAssets%28438322%29%3Flang%3Den%26bitrates%3D80%2C212%2C450%2C750%2C1500%2C2500%2C5000%2C8000%26duration%3D69%26adaptive%3D1%26dts%3D0" type="clip" relationType="trailer" year="2016" title="The East" originallyAvailableAt="2016-06-09" thumb="https://iva-images.plex.tv/content/hdphotos/10375/010375/010375_1280x720_438322_057.jpg" ratingKey="iva://api.internetvideoarchive.com/2.0/DataService/VideoAssets(438322)?lang=en&amp;bitrates=80,212,450,750,1500,2500,5000,8000&amp;duration=69&amp;adaptive=1&amp;dts=0">
+    <Media container="mp4" height="1080" width="1920" audioCodec="aac" duration="69000" videoCodec="h264" bitrate="2500">
+      <Part duration="69000" key="/services/iva/assets/438322/video.mp4?bitrate=2500" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="1080" width="1920" codec="h264" bitrate="2500" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+    <Media container="mp4" height="720" width="1280" audioCodec="aac" duration="69000" videoCodec="h264" bitrate="1500">
+      <Part duration="69000" key="/services/iva/assets/438322/video.mp4?bitrate=1500" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="720" width="1280" codec="h264" bitrate="1500" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+    <Media container="mp4" height="480" width="640" audioCodec="aac" duration="69000" videoCodec="h264" bitrate="450">
+      <Part duration="69000" key="/services/iva/assets/438322/video.mp4?bitrate=450" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="480" width="640" codec="h264" bitrate="450" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+  </Video>
+  <Video url="iva://api.internetvideoarchive.com/2.0/DataService/VideoAssets(277262)?lang=en&amp;bitrates=80,212,450,750,1500,8000&amp;duration=147&amp;adaptive=1&amp;dts=0" key="/system/services/url/lookup?url=iva%3A%2F%2Fapi.internetvideoarchive.com%2F2.0%2FDataService%2FVideoAssets%28277262%29%3Flang%3Den%26bitrates%3D80%2C212%2C450%2C750%2C1500%2C8000%26duration%3D147%26adaptive%3D1%26dts%3D0" type="clip" relationType="behindTheScenes" year="2013" title="Brothers Collaboration (UK)" originallyAvailableAt="2013-07-24" thumb="https://iva-images.plex.tv/content/hdphotos/8424/008424/008424_521x293_277262_001.jpg" ratingKey="iva://api.internetvideoarchive.com/2.0/DataService/VideoAssets(277262)?lang=en&amp;bitrates=80,212,450,750,1500,8000&amp;duration=147&amp;adaptive=1&amp;dts=0">
+    <Media container="mp4" height="720" width="1280" audioCodec="aac" duration="147000" videoCodec="h264" bitrate="1500">
+      <Part duration="147000" key="/services/iva/assets/277262/video.mp4?bitrate=1500" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="720" width="1280" codec="h264" bitrate="1500" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+    <Media container="mp4" height="480" width="640" audioCodec="aac" duration="147000" videoCodec="h264" bitrate="750">
+      <Part duration="147000" key="/services/iva/assets/277262/video.mp4?bitrate=750" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="480" width="640" codec="h264" bitrate="750" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+    <Media container="mp4" height="480" width="640" audioCodec="aac" duration="147000" videoCodec="h264" bitrate="450">
+      <Part duration="147000" key="/services/iva/assets/277262/video.mp4?bitrate=450" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="480" width="640" codec="h264" bitrate="450" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+  </Video>
+  <Video url="iva://api.internetvideoarchive.com/2.0/DataService/VideoAssets(948956)?lang=en&amp;bitrates=80,212,450,750,1500,8000&amp;duration=173&amp;adaptive=1&amp;dts=0" key="/system/services/url/lookup?url=iva%3A%2F%2Fapi.internetvideoarchive.com%2F2.0%2FDataService%2FVideoAssets%28948956%29%3Flang%3Den%26bitrates%3D80%2C212%2C450%2C750%2C1500%2C8000%26duration%3D173%26adaptive%3D1%26dts%3D0" type="clip" relationType="behindTheScenes" year="2013" title="Cause and Effect (UK)" originallyAvailableAt="2013-07-24" thumb="https://iva-images.plex.tv/content/hdphotos/8424/008424/008424_523x294_948956_023.jpg" ratingKey="iva://api.internetvideoarchive.com/2.0/DataService/VideoAssets(948956)?lang=en&amp;bitrates=80,212,450,750,1500,8000&amp;duration=173&amp;adaptive=1&amp;dts=0">
+    <Media container="mp4" height="720" width="1280" audioCodec="aac" duration="173000" videoCodec="h264" bitrate="1500">
+      <Part duration="173000" key="/services/iva/assets/948956/video.mp4?bitrate=1500" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="720" width="1280" codec="h264" bitrate="1500" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+    <Media container="mp4" height="480" width="640" audioCodec="aac" duration="173000" videoCodec="h264" bitrate="750">
+      <Part duration="173000" key="/services/iva/assets/948956/video.mp4?bitrate=750" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="480" width="640" codec="h264" bitrate="750" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+    <Media container="mp4" height="480" width="640" audioCodec="aac" duration="173000" videoCodec="h264" bitrate="450">
+      <Part duration="173000" key="/services/iva/assets/948956/video.mp4?bitrate=450" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="480" width="640" codec="h264" bitrate="450" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+  </Video>
+  <Video url="iva://api.internetvideoarchive.com/2.0/DataService/VideoAssets(321296)?lang=en&amp;bitrates=80,212,450,750,1500,8000&amp;duration=181&amp;adaptive=1&amp;dts=0" key="/system/services/url/lookup?url=iva%3A%2F%2Fapi.internetvideoarchive.com%2F2.0%2FDataService%2FVideoAssets%28321296%29%3Flang%3Den%26bitrates%3D80%2C212%2C450%2C750%2C1500%2C8000%26duration%3D181%26adaptive%3D1%26dts%3D0" type="clip" relationType="behindTheScenes" year="2013" title="Casting The East (UK)" originallyAvailableAt="2013-07-24" thumb="https://iva-images.plex.tv/content/hdphotos/8424/008424/008424_521x293_321296_041.jpg" ratingKey="iva://api.internetvideoarchive.com/2.0/DataService/VideoAssets(321296)?lang=en&amp;bitrates=80,212,450,750,1500,8000&amp;duration=181&amp;adaptive=1&amp;dts=0">
+    <Media container="mp4" height="720" width="1280" audioCodec="aac" duration="181000" videoCodec="h264" bitrate="1500">
+      <Part duration="181000" key="/services/iva/assets/321296/video.mp4?bitrate=1500" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="720" width="1280" codec="h264" bitrate="1500" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+    <Media container="mp4" height="480" width="640" audioCodec="aac" duration="181000" videoCodec="h264" bitrate="750">
+      <Part duration="181000" key="/services/iva/assets/321296/video.mp4?bitrate=750" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="480" width="640" codec="h264" bitrate="750" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+    <Media container="mp4" height="480" width="640" audioCodec="aac" duration="181000" videoCodec="h264" bitrate="450">
+      <Part duration="181000" key="/services/iva/assets/321296/video.mp4?bitrate=450" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="480" width="640" codec="h264" bitrate="450" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+  </Video>
+  <Video url="iva://api.internetvideoarchive.com/2.0/DataService/VideoAssets(208523)?lang=en&amp;bitrates=80,212,450,750,1500,8000&amp;duration=173&amp;adaptive=1&amp;dts=0" key="/system/services/url/lookup?url=iva%3A%2F%2Fapi.internetvideoarchive.com%2F2.0%2FDataService%2FVideoAssets%28208523%29%3Flang%3Den%26bitrates%3D80%2C212%2C450%2C750%2C1500%2C8000%26duration%3D173%26adaptive%3D1%26dts%3D0" type="clip" relationType="behindTheScenes" year="2013" title="The Story (UK)" originallyAvailableAt="2013-07-24" thumb="https://iva-images.plex.tv/content/hdphotos/8424/008424/008424_523x294_208523_113.jpg" ratingKey="iva://api.internetvideoarchive.com/2.0/DataService/VideoAssets(208523)?lang=en&amp;bitrates=80,212,450,750,1500,8000&amp;duration=173&amp;adaptive=1&amp;dts=0">
+    <Media container="mp4" height="720" width="1280" audioCodec="aac" duration="173000" videoCodec="h264" bitrate="1500">
+      <Part duration="173000" key="/services/iva/assets/208523/video.mp4?bitrate=1500" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="720" width="1280" codec="h264" bitrate="1500" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+    <Media container="mp4" height="480" width="640" audioCodec="aac" duration="173000" videoCodec="h264" bitrate="750">
+      <Part duration="173000" key="/services/iva/assets/208523/video.mp4?bitrate=750" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="480" width="640" codec="h264" bitrate="750" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+    <Media container="mp4" height="480" width="640" audioCodec="aac" duration="173000" videoCodec="h264" bitrate="450">
+      <Part duration="173000" key="/services/iva/assets/208523/video.mp4?bitrate=450" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="480" width="640" codec="h264" bitrate="450" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+  </Video>
+  <Video url="iva://api.internetvideoarchive.com/2.0/DataService/VideoAssets(306031)?lang=en&amp;bitrates=80,212,450,750,1500,2500,5000,8000&amp;duration=183&amp;adaptive=1&amp;dts=0" key="/system/services/url/lookup?url=iva%3A%2F%2Fapi.internetvideoarchive.com%2F2.0%2FDataService%2FVideoAssets%28306031%29%3Flang%3Den%26bitrates%3D80%2C212%2C450%2C750%2C1500%2C2500%2C5000%2C8000%26duration%3D183%26adaptive%3D1%26dts%3D0" type="clip" relationType="behindTheScenes" year="2013" title="Off The Grid Featurette (German)" originallyAvailableAt="2013-07-17" thumb="https://iva-images.plex.tv/content/hdphotos/8417/008417/008417_1280x720_306031_114.jpg" ratingKey="iva://api.internetvideoarchive.com/2.0/DataService/VideoAssets(306031)?lang=en&amp;bitrates=80,212,450,750,1500,2500,5000,8000&amp;duration=183&amp;adaptive=1&amp;dts=0">
+    <Media container="mp4" height="1080" width="1920" audioCodec="aac" duration="183000" videoCodec="h264" bitrate="2500">
+      <Part duration="183000" key="/services/iva/assets/306031/video.mp4?bitrate=2500" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="1080" width="1920" codec="h264" bitrate="2500" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+    <Media container="mp4" height="720" width="1280" audioCodec="aac" duration="183000" videoCodec="h264" bitrate="1500">
+      <Part duration="183000" key="/services/iva/assets/306031/video.mp4?bitrate=1500" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="720" width="1280" codec="h264" bitrate="1500" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+    <Media container="mp4" height="480" width="640" audioCodec="aac" duration="183000" videoCodec="h264" bitrate="450">
+      <Part duration="183000" key="/services/iva/assets/306031/video.mp4?bitrate=450" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="480" width="640" codec="h264" bitrate="450" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+  </Video>
+  <Video url="iva://api.internetvideoarchive.com/2.0/DataService/VideoAssets(480945)?lang=en&amp;bitrates=80,212,450,750,1500,2500,5000,8000&amp;duration=185&amp;adaptive=1&amp;dts=0" key="/system/services/url/lookup?url=iva%3A%2F%2Fapi.internetvideoarchive.com%2F2.0%2FDataService%2FVideoAssets%28480945%29%3Flang%3Den%26bitrates%3D80%2C212%2C450%2C750%2C1500%2C2500%2C5000%2C8000%26duration%3D185%26adaptive%3D1%26dts%3D0" type="clip" relationType="behindTheScenes" year="2013" title="Cause And Effect Featurette (German)" originallyAvailableAt="2013-07-17" thumb="https://iva-images.plex.tv/content/hdphotos/8417/008417/008417_1280x720_480945_091.jpg" ratingKey="iva://api.internetvideoarchive.com/2.0/DataService/VideoAssets(480945)?lang=en&amp;bitrates=80,212,450,750,1500,2500,5000,8000&amp;duration=185&amp;adaptive=1&amp;dts=0">
+    <Media container="mp4" height="1080" width="1920" audioCodec="aac" duration="185000" videoCodec="h264" bitrate="2500">
+      <Part duration="185000" key="/services/iva/assets/480945/video.mp4?bitrate=2500" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="1080" width="1920" codec="h264" bitrate="2500" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+    <Media container="mp4" height="720" width="1280" audioCodec="aac" duration="185000" videoCodec="h264" bitrate="1500">
+      <Part duration="185000" key="/services/iva/assets/480945/video.mp4?bitrate=1500" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="720" width="1280" codec="h264" bitrate="1500" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+    <Media container="mp4" height="480" width="640" audioCodec="aac" duration="185000" videoCodec="h264" bitrate="450">
+      <Part duration="185000" key="/services/iva/assets/480945/video.mp4?bitrate=450" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="480" width="640" codec="h264" bitrate="450" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+  </Video>
+  <Video url="iva://api.internetvideoarchive.com/2.0/DataService/VideoAssets(342982)?lang=en&amp;bitrates=80,212,450,750,1500,2500,5000,8000&amp;duration=193&amp;adaptive=1&amp;dts=0" key="/system/services/url/lookup?url=iva%3A%2F%2Fapi.internetvideoarchive.com%2F2.0%2FDataService%2FVideoAssets%28342982%29%3Flang%3Den%26bitrates%3D80%2C212%2C450%2C750%2C1500%2C2500%2C5000%2C8000%26duration%3D193%26adaptive%3D1%26dts%3D0" type="clip" relationType="behindTheScenes" year="2013" title="Casting Featurette (German)" originallyAvailableAt="2013-07-17" thumb="https://iva-images.plex.tv/content/hdphotos/8417/008417/008417_1280x720_342982_088.jpg" ratingKey="iva://api.internetvideoarchive.com/2.0/DataService/VideoAssets(342982)?lang=en&amp;bitrates=80,212,450,750,1500,2500,5000,8000&amp;duration=193&amp;adaptive=1&amp;dts=0">
+    <Media container="mp4" height="1080" width="1920" audioCodec="aac" duration="193000" videoCodec="h264" bitrate="2500">
+      <Part duration="193000" key="/services/iva/assets/342982/video.mp4?bitrate=2500" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="1080" width="1920" codec="h264" bitrate="2500" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+    <Media container="mp4" height="720" width="1280" audioCodec="aac" duration="193000" videoCodec="h264" bitrate="1500">
+      <Part duration="193000" key="/services/iva/assets/342982/video.mp4?bitrate=1500" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="720" width="1280" codec="h264" bitrate="1500" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+    <Media container="mp4" height="480" width="640" audioCodec="aac" duration="193000" videoCodec="h264" bitrate="450">
+      <Part duration="193000" key="/services/iva/assets/342982/video.mp4?bitrate=450" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="480" width="640" codec="h264" bitrate="450" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+  </Video>
+  <Video url="iva://api.internetvideoarchive.com/2.0/DataService/VideoAssets(555379)?lang=en&amp;bitrates=80,212,450,750,1500,2500,5000,8000&amp;duration=180&amp;adaptive=1&amp;dts=0" key="/system/services/url/lookup?url=iva%3A%2F%2Fapi.internetvideoarchive.com%2F2.0%2FDataService%2FVideoAssets%28555379%29%3Flang%3Den%26bitrates%3D80%2C212%2C450%2C750%2C1500%2C2500%2C5000%2C8000%26duration%3D180%26adaptive%3D1%26dts%3D0" type="clip" relationType="behindTheScenes" year="2013" title="Off the Grid (UK)" originallyAvailableAt="2013-07-02" thumb="https://iva-images.plex.tv/content/hdphotos/8397/008397/008397_1280x720_555379_131.jpg" ratingKey="iva://api.internetvideoarchive.com/2.0/DataService/VideoAssets(555379)?lang=en&amp;bitrates=80,212,450,750,1500,2500,5000,8000&amp;duration=180&amp;adaptive=1&amp;dts=0">
+    <Media container="mp4" height="1080" width="1920" audioCodec="aac" duration="180000" videoCodec="h264" bitrate="2500">
+      <Part duration="180000" key="/services/iva/assets/555379/video.mp4?bitrate=2500" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="1080" width="1920" codec="h264" bitrate="2500" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+    <Media container="mp4" height="720" width="1280" audioCodec="aac" duration="180000" videoCodec="h264" bitrate="1500">
+      <Part duration="180000" key="/services/iva/assets/555379/video.mp4?bitrate=1500" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="720" width="1280" codec="h264" bitrate="1500" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+    <Media container="mp4" height="480" width="640" audioCodec="aac" duration="180000" videoCodec="h264" bitrate="450">
+      <Part duration="180000" key="/services/iva/assets/555379/video.mp4?bitrate=450" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="480" width="640" codec="h264" bitrate="450" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+  </Video>
+  <Video url="iva://api.internetvideoarchive.com/2.0/DataService/VideoAssets(297187)?lang=en&amp;bitrates=80,212,450,750,1500,2500,5000,8000&amp;duration=179&amp;adaptive=1&amp;dts=0" key="/system/services/url/lookup?url=iva%3A%2F%2Fapi.internetvideoarchive.com%2F2.0%2FDataService%2FVideoAssets%28297187%29%3Flang%3Den%26bitrates%3D80%2C212%2C450%2C750%2C1500%2C2500%2C5000%2C8000%26duration%3D179%26adaptive%3D1%26dts%3D0" type="clip" relationType="behindTheScenes" year="2013" title="Story (Featurette)" originallyAvailableAt="2013-05-03" thumb="https://iva-images.plex.tv/content/hdphotos/8325/008325/008325_1280x720_297187_053.jpg" ratingKey="iva://api.internetvideoarchive.com/2.0/DataService/VideoAssets(297187)?lang=en&amp;bitrates=80,212,450,750,1500,2500,5000,8000&amp;duration=179&amp;adaptive=1&amp;dts=0">
+    <Media container="mp4" height="1080" width="1920" audioCodec="aac" duration="179000" videoCodec="h264" bitrate="2500">
+      <Part duration="179000" key="/services/iva/assets/297187/video.mp4?bitrate=2500" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="1080" width="1920" codec="h264" bitrate="2500" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+    <Media container="mp4" height="720" width="1280" audioCodec="aac" duration="179000" videoCodec="h264" bitrate="1500">
+      <Part duration="179000" key="/services/iva/assets/297187/video.mp4?bitrate=1500" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="720" width="1280" codec="h264" bitrate="1500" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+    <Media container="mp4" height="480" width="640" audioCodec="aac" duration="179000" videoCodec="h264" bitrate="450">
+      <Part duration="179000" key="/services/iva/assets/297187/video.mp4?bitrate=450" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="480" width="640" codec="h264" bitrate="450" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+  </Video>
+</MediaContainer>

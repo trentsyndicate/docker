@@ -1,0 +1,433 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Movie>
+  <art>
+    <item external="True" url="http://image.tmdb.org/t/p/original/lmIqH8Qsv3IvDg0PTFUuVr89eBT.jpg" sort_order="1" provider="com.plexapp.agents.imdb" media="com.plexapp.agents.imdb_986b752244d3caee5056e728d55461920dc20fe2"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/jY9ef5nqY4xIIMu3yzW3qamUCoi.jpg" preview="com.plexapp.agents.imdb_cf36c2379599c759bac7e094f5c0b9cd42a4bb83" sort_order="2" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/gH8pdqF9H3xzYjtSrz4xZt1rLpJ.jpg" preview="com.plexapp.agents.imdb_cd3c33db28017b31ee4a88aaca2c382cd70cf1cd" sort_order="3" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/rcN2N8pTGpLDnL65J98ckvi2rTE.jpg" preview="com.plexapp.agents.imdb_9f403b558e613d7f6cf64c8a78c07e76493b8495" sort_order="4" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/whXKb7gQGe0MyOJxzymveK9peTK.jpg" preview="com.plexapp.agents.imdb_2796281aad1bb296dc712ebc2b31346afe4f368e" sort_order="5" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/mPd8pLSCXGuqlZLXQS9QXb6pkXW.jpg" preview="com.plexapp.agents.imdb_6ee618b951196c74a24c61e0e998e2643351f79b" sort_order="6" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/aghYHbG83mwgNfIFiSSmkiX05gh.jpg" preview="com.plexapp.agents.imdb_a44335fcbad3a3015b0e5b9bbce97f953868f46c" sort_order="7" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/vYCBqoL0xWx3G5ElTowzrGf9Oe1.jpg" preview="com.plexapp.agents.imdb_b6b2bc6926dfbf648d3dabb0891a281768063e34" sort_order="8" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/an6pyUEoFP8T25nH9CwQ5iUu3Jr.jpg" preview="com.plexapp.agents.imdb_1e2fa9259ecdb14a909cfbb8dd2e58b325bf69f5" sort_order="9" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/1YWUmuwyOhMDsxtSNK4Kd6hz3DL.jpg" preview="com.plexapp.agents.imdb_f44bb09c1167ef698a8f4f37094f7fc024e4020e" sort_order="10" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/iBAWBV3j6lzUuB1ncKYaVBrJnKt.jpg" preview="com.plexapp.agents.imdb_4d128abfdf12d74a9f2ba0661c0f09e8806d114f" sort_order="11" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/nwLVjjpWoBbpbde7Jd4ljYzD8gn.jpg" preview="com.plexapp.agents.imdb_25e3956f5a5fd917a59cd499224db0759583f528" sort_order="12" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/dUx87YOHJAbWJIpG9O5iSlSu2x.jpg" preview="com.plexapp.agents.imdb_e08887698896ad6d4328717ad70514e6695a4bb8" sort_order="13" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/eRh8pHaklhBahLtfkiVPAMpZbf3.jpg" preview="com.plexapp.agents.imdb_814008ee628e5fdf5f60ccc0dd64652eff3f9da2" sort_order="14" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/pMRsB4yFH38lANm8HgoCzBonYmK.jpg" preview="com.plexapp.agents.imdb_1ce2eacaf3d8a866164877285f6fd845e37226ca" sort_order="15" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/lwD3heykXZ5KCoshV8othLt3q5I.jpg" preview="com.plexapp.agents.imdb_5b9092caad02cf5cbbf499d7564ed2c41af0ccb7" sort_order="16" provider="com.plexapp.agents.imdb"/>
+  </art>
+  <banners/>
+  <chapters>
+    <item index="0">
+      <title>The Hijackers</title>
+      <end_time_offset>176000</end_time_offset>
+      <start_time_offset>0</start_time_offset>
+    </item>
+    <item index="1">
+      <title>Enter the Eclipse</title>
+      <end_time_offset>620000</end_time_offset>
+      <start_time_offset>176000</start_time_offset>
+    </item>
+    <item index="2">
+      <title>The Snowmans's Bet</title>
+      <end_time_offset>907000</end_time_offset>
+      <start_time_offset>620000</start_time_offset>
+    </item>
+    <item index="3">
+      <title>NOS Fest</title>
+      <end_time_offset>1600000</end_time_offset>
+      <start_time_offset>907000</start_time_offset>
+    </item>
+    <item index="4">
+      <title>Big Trouble in Little Saigon</title>
+      <end_time_offset>1799000</end_time_offset>
+      <start_time_offset>1600000</start_time_offset>
+    </item>
+    <item index="5">
+      <title>Right to Party</title>
+      <end_time_offset>2082000</end_time_offset>
+      <start_time_offset>1799000</start_time_offset>
+    </item>
+    <item index="6">
+      <title>A Double Life</title>
+      <end_time_offset>2288000</end_time_offset>
+      <start_time_offset>2082000</start_time_offset>
+    </item>
+    <item index="7">
+      <title>A Ten-Second Car</title>
+      <end_time_offset>2696000</end_time_offset>
+      <start_time_offset>2288000</start_time_offset>
+    </item>
+    <item index="8">
+      <title>Undercover Blues</title>
+      <end_time_offset>3326000</end_time_offset>
+      <start_time_offset>2696000</start_time_offset>
+    </item>
+    <item index="9">
+      <title>A Quarter Mile at a Time</title>
+      <end_time_offset>3520000</end_time_offset>
+      <start_time_offset>3326000</start_time_offset>
+    </item>
+    <item index="10">
+      <title>Undercover Love</title>
+      <end_time_offset>3705000</end_time_offset>
+      <start_time_offset>3520000</start_time_offset>
+    </item>
+    <item index="11">
+      <title>The Takedown of Johnny Tran</title>
+      <end_time_offset>4165000</end_time_offset>
+      <start_time_offset>3705000</start_time_offset>
+    </item>
+    <item index="12">
+      <title>Race Wars</title>
+      <end_time_offset>4322000</end_time_offset>
+      <start_time_offset>4165000</start_time_offset>
+    </item>
+    <item index="13">
+      <title>Jesse Throws Down the Pink</title>
+      <end_time_offset>4523000</end_time_offset>
+      <start_time_offset>4322000</start_time_offset>
+    </item>
+    <item index="14">
+      <title>Mia's Choice</title>
+      <end_time_offset>4844000</end_time_offset>
+      <start_time_offset>4523000</start_time_offset>
+    </item>
+    <item index="15">
+      <title>Hijackers' Hell</title>
+      <end_time_offset>5399000</end_time_offset>
+      <start_time_offset>4844000</start_time_offset>
+    </item>
+    <item index="16">
+      <title>Fury in Echo Park</title>
+      <end_time_offset>5698000</end_time_offset>
+      <start_time_offset>5399000</start_time_offset>
+    </item>
+    <item index="17">
+      <title>Race Against the Train</title>
+      <end_time_offset>5885000</end_time_offset>
+      <start_time_offset>5698000</start_time_offset>
+    </item>
+    <item index="18">
+      <title>Honor</title>
+      <end_time_offset>5997000</end_time_offset>
+      <start_time_offset>5885000</start_time_offset>
+    </item>
+    <item index="19">
+      <title>End Titles</title>
+      <end_time_offset>-1</end_time_offset>
+      <start_time_offset>5997000</start_time_offset>
+    </item>
+  </chapters>
+  <collections/>
+  <content_rating>PG-13</content_rating>
+  <countries>
+    <item index="0">USA</item>
+  </countries>
+  <directors>
+    <item index="0">
+      <photo>http://image.tmdb.org/t/p/original/sTJEVeYeaAnCzQ92AmNvveSWwWL.jpg</photo>
+      <role/>
+      <name>Rob Cohen</name>
+    </item>
+  </directors>
+  <duration>6360000</duration>
+  <genres>
+    <item index="0">Action</item>
+    <item index="1">Crime</item>
+    <item index="2">Thriller</item>
+  </genres>
+  <originally_available_at>2001-06-22</originally_available_at>
+  <posters>
+    <item external="True" url="http://image.tmdb.org/t/p/original/x4So4OkqnjfOSBCCNd5uosMmQiB.jpg" sort_order="1" provider="com.plexapp.agents.imdb" media="com.plexapp.agents.imdb_84f447411987ad59b80aec331b9e64937ef3e0de"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/5En3O5t9LG8PfRaNs3vKfMdjQ1B.jpg" preview="com.plexapp.agents.imdb_deeda48e2cb563b18711e4c87b30e0f178c21764" sort_order="2" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/nN5MFC1CwZ4spMhVOzjrrtPlQYj.jpg" preview="com.plexapp.agents.imdb_62e64d584276c466b1d100baaeb9324a05b82bbf" sort_order="3" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/2Z4qhOMayN5LNhOb5hiW9KuxjfI.jpg" preview="com.plexapp.agents.imdb_235edb4cf6986e968f28bc4b2a3430f690af2485" sort_order="4" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/A0Mw6INAgoJnK9StRC9J37Gy6mS.jpg" preview="com.plexapp.agents.imdb_02f1dac99e457771df6539d49767b367c77b5a4b" sort_order="5" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/j9jeJyXWdx1eGVRRwA1drTEjCyV.jpg" preview="com.plexapp.agents.imdb_61f0b6b0ae008568c6a1337d814bf034b05259b2" sort_order="6" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/bPkPff8myINYvhZwiyI9ASVLQA0.jpg" preview="com.plexapp.agents.imdb_26af0c1bcc5a2e03daaee38bfa2c9b485b6fe7fb" sort_order="7" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/6YI5UtdBTzqHaR6HIFYw8f2iIc0.jpg" preview="com.plexapp.agents.imdb_ef56721e681160cd28b75fd8d04291a007d443c3" sort_order="8" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/8Gf0ilFuXvrmDUGX9ExlVbjIhGv.jpg" preview="com.plexapp.agents.imdb_79a16753222ad33af0fc492504c6d3387dc69104" sort_order="9" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/ugpdZGtQpg4Fzd1ztjXPcOGkbBl.jpg" preview="com.plexapp.agents.imdb_dfb0e1029a8aee34123559cd9b401371fbf8cd9b" sort_order="10" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/mTd4AVSU7BScXdW7Kpft14YNXII.jpg" preview="com.plexapp.agents.imdb_5de654193c1730260209c670fc67ff5706a84619" sort_order="11" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/6Qygaits9Nt6WO2F55jwzqG8EyQ.jpg" preview="com.plexapp.agents.imdb_27dec6a759dcf1f2ddd43834e80f0b96009e8158" sort_order="12" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/3xdMcwj0uinmyt01qXg4DhQAbrY.jpg" preview="com.plexapp.agents.imdb_dabd3335fa113ad912612b43cc21d7a7c028b525" sort_order="13" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/f1uvKpv3joooIMfQ8irOeRfSga0.jpg" preview="com.plexapp.agents.imdb_1fef8064cf46d61dac729ef041da99fe8e4af499" sort_order="14" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/rNjiMJAcqkgHtljJRftfImtj7QZ.jpg" preview="com.plexapp.agents.imdb_0c3e75a526aa48c940a8e1632bcf592c144343e4" sort_order="15" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/d2Bj1fKNUmzJucDYrg6FnjdXh8d.jpg" preview="com.plexapp.agents.imdb_3241136c793e9f1a39f83994f70156c260b15f09" sort_order="16" provider="com.plexapp.agents.imdb"/>
+  </posters>
+  <producers>
+    <item index="0">
+      <photo>http://image.tmdb.org/t/p/original/cNcsEYmoS4niCz3UkVAA09dUIob.jpg</photo>
+      <role/>
+      <name>Neal H. Moritz</name>
+    </item>
+  </producers>
+  <rating>5.3</rating>
+  <rating_image>rottentomatoes://image.rating.rotten</rating_image>
+  <audience_rating>7.4</audience_rating>
+  <audience_rating_image>rottentomatoes://image.rating.upright</audience_rating_image>
+  <reviews>
+    <item index="0">
+      <text>While few of the paper-thin characters register long enough to make much of an impression, Diesel carries the movie with his unsettling mix of Zen-like tranquillity and barely controlled rage.</text>
+      <source>Chicago Reader</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>http://onfilm.chicagoreader.com/movies/capsules/20603_FAST_AND_THE_FURIOUS</link>
+      <author>Reece Pendleton</author>
+    </item>
+    <item index="1">
+      <text>It doesn't matter that we know where it's going, what counts is that Cohen keeps his pedal to the floor and that his actors gun their lines with absolute conviction. Loud cars, fast music: this movie knows exactly what it's about.</text>
+      <source>Time Out</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>http://www.timeout.com/film/reviews/66456/the_fast_and_the_furious.html</link>
+      <author/>
+    </item>
+    <item index="2">
+      <text>Works hard to be exciting, but the movie scarcely lives up to its title.</text>
+      <source>Entertainment Weekly</source>
+      <image>rottentomatoes://image.review.rotten</image>
+      <link>http://www.ew.com/ew/article/0,,131918,00.html</link>
+      <author>Owen Gleiberman</author>
+    </item>
+    <item index="3">
+      <text>Diesel, Brewster and Rodriguez have undeniable charisma, while Walker is serviceable in his role.</text>
+      <source>Washington Post</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>http://www.washingtonpost.com/wp-srv/entertainment/movies/reviews/fastandthefuriousfields.htm</link>
+      <author>Curt Fields</author>
+    </item>
+    <item index="4">
+      <text>The young and the restless with gas fumes.</text>
+      <source>Washington Post</source>
+      <image>rottentomatoes://image.review.rotten</image>
+      <link>http://www.washingtonpost.com/wp-srv/entertainment/movies/reviews/fastandthefuriouskempley.htm</link>
+      <author>Rita Kempley</author>
+    </item>
+    <item index="5">
+      <text>It's a formula movie, to be sure, but it's Formula One.</text>
+      <source>San Francisco Chronicle</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>http://www.sfgate.com/cgi-bin/article.cgi?f=/c/a/2002/01/04/DD129508.DTL</link>
+      <author>Mick LaSalle</author>
+    </item>
+    <item index="6">
+      <text>Guilt-free pleasure, the sort that wears its trashiness on its sleeve and exults in it.</text>
+      <source>Newsday</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>http://www.newsday.com/content/movies/nd3742.htm</link>
+      <author>Jan Stuart</author>
+    </item>
+    <item index="7">
+      <text>An action picture that's surprising in the complexity of its key characters and portents of tragedy.</text>
+      <source>Los Angeles Times</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>http://www.calendarlive.com/movies/reviews/cl-movie010621-3,0,5814118.story</link>
+      <author>Kevin Thomas</author>
+    </item>
+  </reviews>
+  <roles>
+    <item index="0">
+      <photo>http://image.tmdb.org/t/p/original/iqvYezRoEY5k8wnlfHriHQfl5dX.jpg</photo>
+      <role>Brian O'Conner</role>
+      <name>Paul Walker</name>
+    </item>
+    <item index="1">
+      <photo>http://image.tmdb.org/t/p/original/mjRdM6w6Uz1UnrKQ5Kw02qGln2K.jpg</photo>
+      <role>Dominic Toretto</role>
+      <name>Vin Diesel</name>
+    </item>
+    <item index="2">
+      <photo>http://image.tmdb.org/t/p/original/xNQX2itPnMaznG3GhHKdxBhwbum.jpg</photo>
+      <role>Letty Ortiz</role>
+      <name>Michelle Rodriguez</name>
+    </item>
+    <item index="3">
+      <photo>http://image.tmdb.org/t/p/original/dORwXZWWmDgG66I5i2Fnr27g3fO.jpg</photo>
+      <role>Mia Toretto</role>
+      <name>Jordana Brewster</name>
+    </item>
+    <item index="4">
+      <photo>http://image.tmdb.org/t/p/original/9r5aykT0VjYC4pdexmNA0PovmFI.jpg</photo>
+      <role>Johnny Tran</role>
+      <name>Rick Yune</name>
+    </item>
+    <item index="5">
+      <photo>http://image.tmdb.org/t/p/original/ludrPIZeTAXXsnYzQvDzM2JV6eg.jpg</photo>
+      <role>Jesse</role>
+      <name>Chad Lindberg</name>
+    </item>
+    <item index="6">
+      <photo>http://image.tmdb.org/t/p/original/mai8GzxPcvdIo1RzymbwBwayhxe.jpg</photo>
+      <role>Leon</role>
+      <name>Johnny Strong</name>
+    </item>
+    <item index="7">
+      <photo>http://image.tmdb.org/t/p/original/7O3vgqgicfNeGr3leC0qB074fjX.jpg</photo>
+      <role>Sgt. Tanner</role>
+      <name>Ted Levine</name>
+    </item>
+    <item index="8">
+      <photo>http://image.tmdb.org/t/p/original/aVXQNuSE7990114QZisNrkK8mJt.jpg</photo>
+      <role>Vince</role>
+      <name>Matt Schulze</name>
+    </item>
+    <item index="9">
+      <photo>http://image.tmdb.org/t/p/original/AhUa78UoZ5oGk5kWiatnDaPxSnO.jpg</photo>
+      <role>Agent Bilkins</role>
+      <name>Thom Barry</name>
+    </item>
+    <item index="10">
+      <photo>http://image.tmdb.org/t/p/original/rXvVP8d4NWBdHxcTu3GTUrybZlX.jpg</photo>
+      <role>Edwin</role>
+      <name>Ja Rule</name>
+    </item>
+    <item index="11">
+      <photo>http://image.tmdb.org/t/p/original/dDZyaISuF9FVK18nTmsuDgOpyKl.jpg</photo>
+      <role>Harry</role>
+      <name>Vyto Ruginis</name>
+    </item>
+    <item index="12">
+      <photo/>
+      <role>Muse</role>
+      <name>Stanton Rutledge</name>
+    </item>
+    <item index="13">
+      <photo>http://image.tmdb.org/t/p/original/mI5urNyZJAzIGxelTjBkm624DkB.jpg</photo>
+      <role>Hector</role>
+      <name>Noel Gugliemi</name>
+    </item>
+    <item index="14">
+      <photo/>
+      <role>Danny Yamato</role>
+      <name>RJ de Vera</name>
+    </item>
+    <item index="15">
+      <photo>http://image.tmdb.org/t/p/original/23jEbLPudu9dzoxzWkUa1nM8nCS.jpg</photo>
+      <role>Ted Gassner</role>
+      <name>Beau Holden</name>
+    </item>
+    <item index="16">
+      <photo>http://image.tmdb.org/t/p/original/t3kM9otyaduJseoqFgfBXndtKa5.jpg</photo>
+      <role>Lance Nguyen</role>
+      <name>Reggie Lee</name>
+    </item>
+    <item index="17">
+      <photo>http://image.tmdb.org/t/p/original/lDdmA75f7irhs9kq0s3W3WbvL5w.jpg</photo>
+      <role>Rasta Racer</role>
+      <name>David Douglas</name>
+    </item>
+    <item index="18">
+      <photo>http://image.tmdb.org/t/p/original/eHCOYGseOcgwfh4Rov3E9tpVFKJ.jpg</photo>
+      <role>Samoan Guard</role>
+      <name>Peter Navy Tuiasosopo</name>
+    </item>
+    <item index="19">
+      <photo>http://image.tmdb.org/t/p/original/w85eCnNP0VgmfV5NWyq2SvRGi2y.jpg</photo>
+      <role>Dispatcher</role>
+      <name>F. Valentino Morales</name>
+    </item>
+    <item index="20">
+      <photo>http://image.tmdb.org/t/p/original/cNcsEYmoS4niCz3UkVAA09dUIob.jpg</photo>
+      <role>Ferrari Driver</role>
+      <name>Neal H. Moritz</name>
+    </item>
+    <item index="21">
+      <photo>http://image.tmdb.org/t/p/original/sTJEVeYeaAnCzQ92AmNvveSWwWL.jpg</photo>
+      <role>Pizza Hut Delivery Guy</role>
+      <name>Rob Cohen</name>
+    </item>
+    <item index="22">
+      <photo>http://image.tmdb.org/t/p/original/l7KogriQez3orpLpq3mPKUB077.jpg</photo>
+      <role>Big Rig Driver</role>
+      <name>Kevin Smith</name>
+    </item>
+    <item index="23">
+      <photo/>
+      <role>Ferrari Passenger</role>
+      <name>Doria Clare Anselmo</name>
+    </item>
+    <item index="24">
+      <photo/>
+      <role>Johnny's Father</role>
+      <name>Glenn K. Ota</name>
+    </item>
+    <item index="25">
+      <photo/>
+      <role>Night Truck Driver</role>
+      <name>Mike White</name>
+    </item>
+    <item index="26">
+      <photo/>
+      <role>Racer's Edge Clerk</role>
+      <name>Delphine Pacific</name>
+    </item>
+    <item index="27">
+      <photo/>
+      <role>Monica</role>
+      <name>Monica Tamayo</name>
+    </item>
+    <item index="28">
+      <photo/>
+      <role>Gimel</role>
+      <name>Megan Baker</name>
+    </item>
+    <item index="29">
+      <photo/>
+      <role>Edwin's Babe</role>
+      <name>Tammy Monica Gegamian</name>
+    </item>
+  </roles>
+  <similar>
+    <item index="0">Fast &amp; Furious</item>
+    <item index="1">2 Fast 2 Furious</item>
+    <item index="2">The Fast and the Furious: Tokyo Drift</item>
+    <item index="3">Fast Five</item>
+    <item index="4">The Expendables</item>
+    <item index="5">Fast &amp; Furious 6</item>
+    <item index="6">Gone in Sixty Seconds</item>
+    <item index="7">Transformers: Dark of the Moon</item>
+    <item index="8">Transformers: Revenge of the Fallen</item>
+    <item index="9">Transformers</item>
+    <item index="10">X-Men: The Last Stand</item>
+    <item index="11">X-Men</item>
+    <item index="12">The Expendables 2</item>
+    <item index="13">Live Free or Die Hard</item>
+    <item index="14">Bad Boys</item>
+    <item index="15">G.I. Joe: The Rise of Cobra</item>
+    <item index="16">Death Race</item>
+    <item index="17">Bad Boys II</item>
+    <item index="18">X-Men Origins: Wolverine</item>
+    <item index="19">The Chronicles of Riddick</item>
+  </similar>
+  <studio>Universal Pictures</studio>
+  <summary>Domenic Toretto is a Los Angeles street racer suspected of masterminding a series of big-rig hijackings. When undercover cop Brian O'Conner infiltrates Toretto's iconoclastic crew, he falls for Toretto's sister and must choose a side: the gang or the LAPD.</summary>
+  <tagline>Live life 1/4 mile at a time.</tagline>
+  <tags/>
+  <themes/>
+  <title>The Fast and the Furious</title>
+  <writers>
+    <item index="0">
+      <photo/>
+      <role/>
+      <name>Ken Li</name>
+    </item>
+    <item index="1">
+      <photo>http://image.tmdb.org/t/p/original/e2dMfqFvRsOXgWZ1VToYLmos17y.jpg</photo>
+      <role/>
+      <name>Gary Scott Thompson</name>
+    </item>
+    <item index="2">
+      <photo/>
+      <role/>
+      <name>Erik Bergquist</name>
+    </item>
+    <item index="3">
+      <photo>http://image.tmdb.org/t/p/original/2oBT2jQbsV8IWPMr3Cm87YBJxGu.jpg</photo>
+      <role/>
+      <name>David Ayer</name>
+    </item>
+  </writers>
+  <year>2001</year>
+</Movie>

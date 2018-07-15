@@ -1,0 +1,336 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Movie>
+  <art>
+    <item external="True" url="http://image.tmdb.org/t/p/original/fKj7papXZq1dxnvfnxrydlsbbzt.jpg" sort_order="1" provider="com.plexapp.agents.imdb" media="com.plexapp.agents.imdb_a08d022f088da0f5e8c9de87ffae61909d5a0bc5"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/6vyYudiSKpJq2kuRCDAWhZlbOEW.jpg" preview="com.plexapp.agents.imdb_c65fc40d576c2275bdb14dc7b28dbf4281ae178b" sort_order="2" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/q0xt0JsuQ6pOAovYlDhR0HJAFcB.jpg" preview="com.plexapp.agents.imdb_d70c295f88038584d7248528061473db9e3f3500" sort_order="3" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/xjQDkXACVLyIaDlM7y4QBJH8l91.jpg" preview="com.plexapp.agents.imdb_7598aa85216f40e2967f9af954955a14d9522676" sort_order="4" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/r8ybndI2geJPevzXAcIXAgv2pad.jpg" preview="com.plexapp.agents.imdb_2acc5e3942423a330733fb2d4b50dba73fb4eb0d" sort_order="5" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/bT5hGmVkc70QW64yU6mGizZdpyn.jpg" preview="com.plexapp.agents.imdb_1c8762599d8d4bc0576df268d0ebbea7f9289443" sort_order="6" provider="com.plexapp.agents.imdb"/>
+  </art>
+  <banners/>
+  <chapters>
+    <item index="0">
+      <title>Start</title>
+      <end_time_offset>380000</end_time_offset>
+      <start_time_offset>0</start_time_offset>
+    </item>
+    <item index="1">
+      <title>"Inside You"</title>
+      <end_time_offset>452000</end_time_offset>
+      <start_time_offset>380000</start_time_offset>
+    </item>
+    <item index="2">
+      <title>Enter Teh Dragon</title>
+      <end_time_offset>517000</end_time_offset>
+      <start_time_offset>452000</start_time_offset>
+    </item>
+    <item index="3">
+      <title>The Shogun of Harlem</title>
+      <end_time_offset>785000</end_time_offset>
+      <start_time_offset>517000</start_time_offset>
+    </item>
+    <item index="4">
+      <title>Eddie &amp; Associates</title>
+      <end_time_offset>895000</end_time_offset>
+      <start_time_offset>785000</start_time_offset>
+    </item>
+    <item index="5">
+      <title>"Rhythm of the Night"</title>
+      <end_time_offset>1107000</end_time_offset>
+      <start_time_offset>895000</start_time_offset>
+    </item>
+    <item index="6">
+      <title>"7Th Heaven"</title>
+      <end_time_offset>1371000</end_time_offset>
+      <start_time_offset>1107000</start_time_offset>
+    </item>
+    <item index="7">
+      <title>Leroy Rescues Laura</title>
+      <end_time_offset>1769000</end_time_offset>
+      <start_time_offset>1371000</start_time_offset>
+    </item>
+    <item index="8">
+      <title>"Kiss My Converse"</title>
+      <end_time_offset>1973000</end_time_offset>
+      <start_time_offset>1769000</start_time_offset>
+    </item>
+    <item index="9">
+      <title>The Green Family</title>
+      <end_time_offset>2228000</end_time_offset>
+      <start_time_offset>1973000</start_time_offset>
+    </item>
+    <item index="10">
+      <title>"Star"</title>
+      <end_time_offset>2380000</end_time_offset>
+      <start_time_offset>2228000</start_time_offset>
+    </item>
+    <item index="11">
+      <title>"Dirty Books"</title>
+      <end_time_offset>2524000</end_time_offset>
+      <start_time_offset>2380000</start_time_offset>
+    </item>
+    <item index="12">
+      <title>Ninja Rescue</title>
+      <end_time_offset>2644000</end_time_offset>
+      <start_time_offset>2524000</start_time_offset>
+    </item>
+    <item index="13">
+      <title>"Give Me Your Love"</title>
+      <end_time_offset>2795000</end_time_offset>
+      <start_time_offset>2644000</start_time_offset>
+    </item>
+    <item index="14">
+      <title>"Suki Yaki Hot Saki Sue"</title>
+      <end_time_offset>2869000</end_time_offset>
+      <start_time_offset>2795000</start_time_offset>
+    </item>
+    <item index="15">
+      <title>Seeking the Master</title>
+      <end_time_offset>2935000</end_time_offset>
+      <start_time_offset>2869000</start_time_offset>
+    </item>
+    <item index="16">
+      <title>A Message for Junior</title>
+      <end_time_offset>3255000</end_time_offset>
+      <start_time_offset>2935000</start_time_offset>
+    </item>
+    <item index="17">
+      <title>"Guard My Body"</title>
+      <end_time_offset>3492000</end_time_offset>
+      <start_time_offset>3255000</start_time_offset>
+    </item>
+    <item index="18">
+      <title>All for Angela?</title>
+      <end_time_offset>3971000</end_time_offset>
+      <start_time_offset>3492000</start_time_offset>
+    </item>
+    <item index="19">
+      <title>"the Glow"</title>
+      <end_time_offset>4321000</end_time_offset>
+      <start_time_offset>3971000</start_time_offset>
+    </item>
+    <item index="20">
+      <title>Pizza for the Master</title>
+      <end_time_offset>4554000</end_time_offset>
+      <start_time_offset>4321000</start_time_offset>
+    </item>
+    <item index="21">
+      <title>"Fire"</title>
+      <end_time_offset>4627000</end_time_offset>
+      <start_time_offset>4554000</start_time_offset>
+    </item>
+    <item index="22">
+      <title>Leroy Craps Out</title>
+      <end_time_offset>4763000</end_time_offset>
+      <start_time_offset>4627000</start_time_offset>
+    </item>
+    <item index="23">
+      <title>Everything He Needs</title>
+      <end_time_offset>5005000</end_time_offset>
+      <start_time_offset>4763000</start_time_offset>
+    </item>
+    <item index="24">
+      <title>"Let the Games Begin"</title>
+      <end_time_offset>5521000</end_time_offset>
+      <start_time_offset>5005000</start_time_offset>
+    </item>
+    <item index="25">
+      <title>Winner By a Knockout?</title>
+      <end_time_offset>5697000</end_time_offset>
+      <start_time_offset>5521000</start_time_offset>
+    </item>
+    <item index="26">
+      <title>The Final Test</title>
+      <end_time_offset>5958000</end_time_offset>
+      <start_time_offset>5697000</start_time_offset>
+    </item>
+    <item index="27">
+      <title>A Great Finish</title>
+      <end_time_offset>-1</end_time_offset>
+      <start_time_offset>5958000</start_time_offset>
+    </item>
+  </chapters>
+  <collections/>
+  <content_rating>PG-13</content_rating>
+  <countries>
+    <item index="0">USA</item>
+  </countries>
+  <directors>
+    <item index="0">
+      <photo>http://image.tmdb.org/t/p/original/vOeqakUoDdAKECGmiSwx8yq2AV0.jpg</photo>
+      <role/>
+      <name>Michael Schultz</name>
+    </item>
+  </directors>
+  <duration>6540000</duration>
+  <genres>
+    <item index="0">Action</item>
+    <item index="1">Comedy</item>
+    <item index="2">Drama</item>
+    <item index="3">Music</item>
+  </genres>
+  <originally_available_at>1985-03-22</originally_available_at>
+  <posters>
+    <item external="True" url="http://image.tmdb.org/t/p/original/h1xF0KgvYHPLAnmVA3h2spQAQ6n.jpg" sort_order="1" provider="com.plexapp.agents.imdb" media="com.plexapp.agents.imdb_b4de710dbb6f759d5d4edf88b985426c7e0e0fcc"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/5V4McLL1slBocLYXcobByL2t0MD.jpg" preview="com.plexapp.agents.imdb_01755d1f7236d84f111ec94bb9350646d679ab26" sort_order="2" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/r5QnLY30gXlZ8luiJE3quDs1WNF.jpg" preview="com.plexapp.agents.imdb_3245203a53a1369ee8835ff8abcfd66178085be1" sort_order="3" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/9QGQRbvnOCyImxs6JjAmSTZFBHz.jpg" preview="com.plexapp.agents.imdb_ab5abb18c0e4f52bc2b69b7a233b88d20769ee6c" sort_order="4" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/zc7BWeHLz3GtFNr71lZriF0t80U.jpg" preview="com.plexapp.agents.imdb_282c62e2a3580ba235b560390eba301182501ef3" sort_order="5" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/h7PNWGY0IMTvNjcB1ids7M4BV2B.jpg" preview="com.plexapp.agents.imdb_ea72e309cc8b918018cdb938812c6fe7b8543240" sort_order="6" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/cvge80slE4m0QMZUkEEqMTRK21X.jpg" preview="com.plexapp.agents.imdb_c9f6b603434aa5d0b406cf4c4ce6c8bc71dabea3" sort_order="7" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/tapEf5lDcRA76aFjabUhRZZAvcp.jpg" preview="com.plexapp.agents.imdb_8a30bb45fb469f986a50e776dd08a0f142c9eedc" sort_order="8" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/eAAOjv6pz6qZgRrwRQAdA7xHLsS.jpg" preview="com.plexapp.agents.imdb_510a8554d3885a016e5d3ebb00ae4a7505502690" sort_order="9" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/9FheFcIAT4BNCnDtA7QcGsBARiT.jpg" preview="com.plexapp.agents.imdb_6a297b7610e4b843478b0f4e3c7e9b117cb86bb0" sort_order="10" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/pezryirCj1JnKPy8UnBOqZcOFM4.jpg" preview="com.plexapp.agents.imdb_c31154bdec87cbccea98725c0a298520074b8413" sort_order="11" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/RZQF0DGwlC0XTYNKjNSjpkSlQn.jpg" preview="com.plexapp.agents.imdb_af4d6d79708beca42d8ca0e4565a292cd327422c" sort_order="12" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/rI9y75ScXqYlMNyGVMNakzMA5wT.jpg" preview="com.plexapp.agents.imdb_96e391f11cd4b17f88ac98d2db66514acee8a625" sort_order="13" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/65azP1lJC84bXUsqzpxz54YsrKl.jpg" preview="com.plexapp.agents.imdb_e616da3e29247cc75f5fff88f728c046513f1745" sort_order="14" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/eS7p31TY3zbO8SLmrwlMZKHd0Ad.jpg" preview="com.plexapp.agents.imdb_03f77d305729541c08974f23a43ff5998ac4f0a4" sort_order="15" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/mtvLmR86KaoECZuvI6g17on0pAF.jpg" preview="com.plexapp.agents.imdb_0aa31c9ec901e0f8bc70a2e213f89d2b46df81e3" sort_order="16" provider="com.plexapp.agents.imdb"/>
+  </posters>
+  <producers>
+    <item index="0">
+      <photo/>
+      <role/>
+      <name>Rupert Hitzig</name>
+    </item>
+  </producers>
+  <rating>5.6</rating>
+  <rating_image>rottentomatoes://image.rating.rotten</rating_image>
+  <audience_rating>8.5</audience_rating>
+  <audience_rating_image>rottentomatoes://image.rating.upright</audience_rating_image>
+  <reviews>
+    <item index="0">
+      <text>It's slick Motown stuff, shrewdly kept on a brightly colored comic strip level, so that its silly plot and wild swings between dancing feet and flying fists don't seem to matter as much as the attractiveness of the two leads.</text>
+      <source>Boston Globe</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>http://pqasb.pqarchiver.com/boston-sub/doc/294240110.html?FMT=FT&amp;FMTS=ABS:FT&amp;type=current&amp;date=Mar+22%2C+1985&amp;author=Carr%2C+Jay&amp;pub=Boston+Globe+%28pre-1997+Fulltext%29&amp;edition=&amp;startpage=60&amp;desc=%27DRAGON%27+COMES+BREATHING+FIRE</link>
+      <author>Jay Carr</author>
+    </item>
+    <item index="1">
+      <text>An intoxicating blend of comedy, kung fu, corny romance, special effects and rock videos, it's as electrically sleepless as the New York it's set against.</text>
+      <source>Washington Post</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>https://www.washingtonpost.com/archive/lifestyle/1985/03/25/rooting-for-the-dragon/84a16294-82a9-41e8-bb56-0db4b3f79601/?utm_term=.eaff5d59eaba</link>
+      <author>Paul Attanasio</author>
+    </item>
+    <item index="2">
+      <text>Though the humor in Dragon often falls flat (a Chinese fortune cookie factor is named "Sum Dum Goy," for instance) and the music is hardly memorable, the movie is a real charmer, full of heart and a lot of soul.</text>
+      <source>Hollywood Reporter</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>https://www.hollywoodreporter.com/review/last-dragon-review-1985-movie-1096636</link>
+      <author>Jeffrey Ressner</author>
+    </item>
+    <item index="3">
+      <text>It's so entertaining that I could almost recommend it -- if it weren't for an idiotic subplot about a gangster and his girlfriend, a diversion that brings the movie to a dead halt every eight or nine minutes.</text>
+      <source>Chicago Sun-Times</source>
+      <image>rottentomatoes://image.review.rotten</image>
+      <link>http://www.rogerebert.com/reviews/the-last-dragon-1985</link>
+      <author>Roger Ebert</author>
+    </item>
+  </reviews>
+  <roles>
+    <item index="0">
+      <photo>http://image.tmdb.org/t/p/original/AbgPHWQoDP5RRuUndmK1EwYi4Fg.jpg</photo>
+      <role>Leroy Green</role>
+      <name>Taimak</name>
+    </item>
+    <item index="1">
+      <photo>http://image.tmdb.org/t/p/original/xTBV7d8pWhYdlqBHb1LooFbxIPY.jpg</photo>
+      <role>Sho'nuff (Shogun of Harlem)</role>
+      <name>Julius Carry</name>
+    </item>
+    <item index="2">
+      <photo>http://image.tmdb.org/t/p/original/lcJDogvClSrcGND6ATsVR39ZQlt.jpg</photo>
+      <role>Laura Charles</role>
+      <name>Vanity</name>
+    </item>
+    <item index="3">
+      <photo>http://image.tmdb.org/t/p/original/vY73eTjQcvArvLzsxousmIgk1CP.jpg</photo>
+      <role>Eddie Arkadian</role>
+      <name>Christopher Murney</name>
+    </item>
+    <item index="4">
+      <photo>http://image.tmdb.org/t/p/original/enbAeWt0MhjGOEcNpksS6aCRTWv.jpg</photo>
+      <role>Angela Viracco</role>
+      <name>Faith Prince</name>
+    </item>
+    <item index="5">
+      <photo>http://image.tmdb.org/t/p/original/2vSNzHsy5vDPR0nBlKK3CGARbFj.jpg</photo>
+      <role>Richie Green</role>
+      <name>Leo O'Brien</name>
+    </item>
+    <item index="6">
+      <photo>http://image.tmdb.org/t/p/original/9JrAo8iPqaLk4SrxMNq1sKHeKaK.jpg</photo>
+      <role>Rock</role>
+      <name>Mike Starr</name>
+    </item>
+    <item index="7">
+      <photo>http://image.tmdb.org/t/p/original/nUAqpyn1ikEbLrTz4R1ZVlqy7sK.jpg</photo>
+      <role>Daddy Green</role>
+      <name>Jim Moody</name>
+    </item>
+    <item index="8">
+      <photo>http://image.tmdb.org/t/p/original/qllanCicIIUPP98WchydsEOHp4K.jpg</photo>
+      <role>Johnny Yu</role>
+      <name>Glen Eaton</name>
+    </item>
+    <item index="9">
+      <photo>http://image.tmdb.org/t/p/original/vtsmZGZ1ifJikn888NSVMWSvKZp.jpg</photo>
+      <role>Tai</role>
+      <name>Ernie Reyes, Jr.</name>
+    </item>
+    <item index="10">
+      <photo>http://image.tmdb.org/t/p/original/8TXy2oH8AaeMY8sQCZK5O5TgY1e.jpg</photo>
+      <role>J.J,</role>
+      <name>William H. Macy</name>
+    </item>
+    <item index="11">
+      <photo>http://image.tmdb.org/t/p/original/bgJuVZ8ie5m1MYMGxTXL6cUBZhU.jpg</photo>
+      <role>Sophia Green</role>
+      <name>Keshia Knight Pulliam</name>
+    </item>
+    <item index="12">
+      <photo>http://image.tmdb.org/t/p/original/d9VkmkEO50zP0kww6aLLFpu5Ovh.jpg</photo>
+      <role>Hood #2</role>
+      <name>Chazz Palminteri</name>
+    </item>
+  </roles>
+  <similar>
+    <item index="0">Breakin'</item>
+    <item index="1">Walk Like a Man</item>
+    <item index="2">Fraternity Vacation</item>
+    <item index="3">Collision Course</item>
+    <item index="4">Vice Versa</item>
+    <item index="5">The Experts</item>
+    <item index="6">Keys to Tulsa</item>
+    <item index="7">Hospital Massacre</item>
+    <item index="8">Nate and Hayes</item>
+    <item index="9">The Beast of Bray Road</item>
+    <item index="10">Revenge of the Red Baron</item>
+    <item index="11">The King's Whore</item>
+    <item index="12">A Smile Like Yours</item>
+    <item index="13">Netherworld</item>
+    <item index="14">The Competition</item>
+    <item index="15">Moon Over Parador</item>
+    <item index="16">The Cars That Ate Paris</item>
+    <item index="17">Silent Rage</item>
+    <item index="18">Under Pressure</item>
+    <item index="19">Angel</item>
+  </similar>
+  <studio>TriStar Pictures</studio>
+  <summary>A young man searches for the "master" to obtain the final level of martial arts mastery known as the glow. Along the way he must fight an evil martial arts expert and rescue a beautiful singer from an obsessed music promoter.</summary>
+  <tagline>His family thinks he's crazy. His enemies think he's no challenge. But she knows he's THE LAST DRAGON.</tagline>
+  <tags/>
+  <themes/>
+  <title>The Last Dragon</title>
+  <writers>
+    <item index="0">
+      <photo/>
+      <role/>
+      <name>Louis Venosta</name>
+    </item>
+  </writers>
+  <year>1985</year>
+</Movie>

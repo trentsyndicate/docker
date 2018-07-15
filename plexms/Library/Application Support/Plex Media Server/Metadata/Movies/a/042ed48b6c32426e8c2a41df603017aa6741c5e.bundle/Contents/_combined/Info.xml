@@ -1,0 +1,684 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Movie>
+  <art>
+    <item external="True" url="http://image.tmdb.org/t/p/original/fdDTA06o5e7MRXnTGAf4EygL2MJ.jpg" sort_order="1" provider="com.plexapp.agents.imdb" media="com.plexapp.agents.imdb_c33c16d26b473ecccbd91563d979002a529b2597"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/iDeX1YPGxJYjmyiFNK7fgTqTRJA.jpg" preview="com.plexapp.agents.imdb_f6a8d6d70cf8eb662285c705c9a2d690a8c3b669" sort_order="2" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/fUy1J4Wlx1rSscejCnjqfvsOz0Z.jpg" preview="com.plexapp.agents.imdb_4c89a19156050b2674d3191c9c8532c73d3b70f8" sort_order="3" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/70gvgbkOQCbgpcpaM6tGRaYOUp0.jpg" preview="com.plexapp.agents.imdb_2f94c96d2ea683b99b4c5970988eafd5f86cc52c" sort_order="4" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/t6MHjT8Gzvy5kQpCxxyBOdDopiD.jpg" preview="com.plexapp.agents.imdb_54a7fa9eac64a7ea8fe66dd2f41b0682a2ee9200" sort_order="5" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/4w5MwSGrNvbS8h1GiOEg2XVB3EZ.jpg" preview="com.plexapp.agents.imdb_60f7204cc95765e71f7a579e2a84354b31804c77" sort_order="6" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/9P7vjMEkKLWrXH8vFDfvB06x1uD.jpg" preview="com.plexapp.agents.imdb_4adf2b2a86699b385fced3290aed73776afb2bbc" sort_order="7" provider="com.plexapp.agents.imdb"/>
+  </art>
+  <banners/>
+  <chapters>
+    <item index="0">
+      <title>Chapter 1</title>
+      <end_time_offset>307000</end_time_offset>
+      <start_time_offset>0</start_time_offset>
+    </item>
+    <item index="1">
+      <title>Chapter 2</title>
+      <end_time_offset>545000</end_time_offset>
+      <start_time_offset>307000</start_time_offset>
+    </item>
+    <item index="2">
+      <title>Chapter 3</title>
+      <end_time_offset>987000</end_time_offset>
+      <start_time_offset>545000</start_time_offset>
+    </item>
+    <item index="3">
+      <title>Chapter 4</title>
+      <end_time_offset>1498000</end_time_offset>
+      <start_time_offset>987000</start_time_offset>
+    </item>
+    <item index="4">
+      <title>Chapter 5</title>
+      <end_time_offset>2005000</end_time_offset>
+      <start_time_offset>1498000</start_time_offset>
+    </item>
+    <item index="5">
+      <title>Chapter 6</title>
+      <end_time_offset>2606000</end_time_offset>
+      <start_time_offset>2005000</start_time_offset>
+    </item>
+    <item index="6">
+      <title>Chapter 7</title>
+      <end_time_offset>3084000</end_time_offset>
+      <start_time_offset>2606000</start_time_offset>
+    </item>
+    <item index="7">
+      <title>Chapter 8</title>
+      <end_time_offset>3488000</end_time_offset>
+      <start_time_offset>3084000</start_time_offset>
+    </item>
+    <item index="8">
+      <title>Chapter 9</title>
+      <end_time_offset>3830000</end_time_offset>
+      <start_time_offset>3488000</start_time_offset>
+    </item>
+    <item index="9">
+      <title>Chapter 10</title>
+      <end_time_offset>4284000</end_time_offset>
+      <start_time_offset>3830000</start_time_offset>
+    </item>
+    <item index="10">
+      <title>Chapter 11</title>
+      <end_time_offset>4656000</end_time_offset>
+      <start_time_offset>4284000</start_time_offset>
+    </item>
+    <item index="11">
+      <title>Chapter 12</title>
+      <end_time_offset>5042000</end_time_offset>
+      <start_time_offset>4656000</start_time_offset>
+    </item>
+    <item index="12">
+      <title>Chapter 13</title>
+      <end_time_offset>5633000</end_time_offset>
+      <start_time_offset>5042000</start_time_offset>
+    </item>
+    <item index="13">
+      <title>Chapter 14</title>
+      <end_time_offset>6025000</end_time_offset>
+      <start_time_offset>5633000</start_time_offset>
+    </item>
+    <item index="14">
+      <title>Chapter 15</title>
+      <end_time_offset>6445000</end_time_offset>
+      <start_time_offset>6025000</start_time_offset>
+    </item>
+    <item index="15">
+      <title>Chapter 16</title>
+      <end_time_offset>7073000</end_time_offset>
+      <start_time_offset>6445000</start_time_offset>
+    </item>
+    <item index="16">
+      <title>Chapter 17</title>
+      <end_time_offset>7677000</end_time_offset>
+      <start_time_offset>7073000</start_time_offset>
+    </item>
+    <item index="17">
+      <title>Chapter 18</title>
+      <end_time_offset>8019000</end_time_offset>
+      <start_time_offset>7677000</start_time_offset>
+    </item>
+    <item index="18">
+      <title>Chapter 19</title>
+      <end_time_offset>8353000</end_time_offset>
+      <start_time_offset>8019000</start_time_offset>
+    </item>
+    <item index="19">
+      <title>Chapter 20</title>
+      <end_time_offset>-1</end_time_offset>
+      <start_time_offset>8353000</start_time_offset>
+    </item>
+  </chapters>
+  <collections/>
+  <content_rating>R</content_rating>
+  <countries>
+    <item index="0">USA</item>
+  </countries>
+  <directors>
+    <item index="0">
+      <photo>http://image.tmdb.org/t/p/original/hjMfkAyz5ECn0svAzrkG3YsEaEW.jpg</photo>
+      <role/>
+      <name>F. Gary Gray</name>
+    </item>
+  </directors>
+  <duration>8820000</duration>
+  <genres>
+    <item index="0">Biography</item>
+    <item index="1">Drama</item>
+    <item index="2">History</item>
+    <item index="3">Music</item>
+  </genres>
+  <originally_available_at>2015-08-13</originally_available_at>
+  <posters>
+    <item external="True" url="http://image.tmdb.org/t/p/original/X7S1RtotXOZNV7OlgCfh5VKZSB.jpg" sort_order="1" provider="com.plexapp.agents.imdb" media="com.plexapp.agents.imdb_1d11cbea2c516476914c774993409582f034e9de"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/4UAtsqYCAlXdkFnUCLbHRLKlwhl.jpg" preview="com.plexapp.agents.imdb_ba2286d4b5bb1016cbf041d9203692580efc025e" sort_order="2" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/naAhh7dNoqXLgouKgm1SlEAuWDv.jpg" preview="com.plexapp.agents.imdb_4dc69b52de7b48132d2f378aa301f5b5f238fe5e" sort_order="3" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/uruqUGZLUlqyAdczH1vqr1fPGlb.jpg" preview="com.plexapp.agents.imdb_1472fc23481edc5de796b42fb5c8ce164692c4b2" sort_order="4" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/wuH2vWjnAybxwN5Pw6mxrtKtIoL.jpg" preview="com.plexapp.agents.imdb_14ceb34ec145be988484606928637e9b525cd7fd" sort_order="5" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/vokAA5Sxqc5zqK612kbuUKCTDPH.jpg" preview="com.plexapp.agents.imdb_0253dd1531f712101555c95dca42f21a6fc672eb" sort_order="6" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/cNLf9DRbFXjLh2e0HQzJUCU3POQ.jpg" preview="com.plexapp.agents.imdb_5eaacb57cc3da8f46d357af689b09be2f9f062dc" sort_order="7" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/aEnXS5Qn3z2XVLc7SLVO7tsX7O0.jpg" preview="com.plexapp.agents.imdb_0b9ba2d04535fe5a4440ecac4aaaf653a7962b41" sort_order="8" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/9nmMQVnkNtkIPz2B44uNljnIzzd.jpg" preview="com.plexapp.agents.imdb_3257a2a41145be684bea3ff1c8cdf9ccb467816f" sort_order="9" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/ix0X9KfOrCXJNg9A9NPGgrLHoRM.jpg" preview="com.plexapp.agents.imdb_aeeb26a0da451b655342788fae20e07c79cce860" sort_order="10" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/1r19ZEKNiQGrQuvGVyKvm74CNPE.jpg" preview="com.plexapp.agents.imdb_5f71a85f11e072f72991cb345ab67c38d521d598" sort_order="11" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/fWpTTY0C5s0LZKCsgmoAthWgiR4.jpg" preview="com.plexapp.agents.imdb_9efb288b7daed366dcf817c7e4f876ec45f90e8c" sort_order="12" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/zx23qtKxBKSqC3kxuGJYzTA1q59.jpg" preview="com.plexapp.agents.imdb_be046c9b1792e8e362b164adfefe8740a945b28d" sort_order="13" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/2QcYwyPIW01LjL9tljKjeILDPHp.jpg" preview="com.plexapp.agents.imdb_c1763c49d4048817dcf2c2f7ac87c4f5a81bffb4" sort_order="14" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/wp7K7OL656rNzQJe6Jevu6VVu2N.jpg" preview="com.plexapp.agents.imdb_ab1881b09331df22ff5176314c61c168f80ae756" sort_order="15" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/5LmdnQJHU5EPmbNqNaULbhIIz7X.jpg" preview="com.plexapp.agents.imdb_639d462e4cd23e0ed0ccd4239a48e9ed8640ba9c" sort_order="16" provider="com.plexapp.agents.imdb"/>
+  </posters>
+  <producers>
+    <item index="0">
+      <photo/>
+      <role/>
+      <name>David Engel</name>
+    </item>
+    <item index="1">
+      <photo/>
+      <role/>
+      <name>Bill Straus</name>
+    </item>
+    <item index="2">
+      <photo>http://image.tmdb.org/t/p/original/hjMfkAyz5ECn0svAzrkG3YsEaEW.jpg</photo>
+      <role/>
+      <name>F. Gary Gray</name>
+    </item>
+    <item index="3">
+      <photo>http://image.tmdb.org/t/p/original/dzdn1tyWkC4EjlBVKvpAhg5osYA.jpg</photo>
+      <role/>
+      <name>Ice Cube</name>
+    </item>
+    <item index="4">
+      <photo>http://image.tmdb.org/t/p/original/lPcS1QAULXTZP53ogsYSW4bZAOe.jpg</photo>
+      <role/>
+      <name>Dr. Dre</name>
+    </item>
+    <item index="5">
+      <photo/>
+      <role/>
+      <name>Matt Alvarez</name>
+    </item>
+    <item index="6">
+      <photo/>
+      <role/>
+      <name>Scott Bernstein</name>
+    </item>
+    <item index="7">
+      <photo/>
+      <role/>
+      <name>Tomica Woods-Wright</name>
+    </item>
+  </producers>
+  <rating>8.7</rating>
+  <rating_image>rottentomatoes://image.rating.ripe</rating_image>
+  <audience_rating>9.1</audience_rating>
+  <audience_rating_image>rottentomatoes://image.rating.upright</audience_rating_image>
+  <reviews>
+    <item index="0">
+      <text>The core of the story is business, the object is power, and the quirks of desire and twists of the unconscious are given no place in the struggle-which the movie sharply carries ahead to the present day.</text>
+      <source>New Yorker</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>http://www.newyorker.com/goings-on-about-town/movies/straight-outta-compton</link>
+      <author>Richard Brody</author>
+    </item>
+    <item index="1">
+      <text>It's very easy to imagine sing-along showings cropping up for years to come.</text>
+      <source>ChristyLemire.com</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>http://christylemire.com/straight-outta-compton/</link>
+      <author>Christy Lemire</author>
+    </item>
+    <item index="2">
+      <text>This movie about a group of risk-takers should have taken more risks itself.</text>
+      <source>Chicago Reader</source>
+      <image>rottentomatoes://image.review.rotten</image>
+      <link>http://chicagoreader.com/chicago/straight-outta-compton-review-nwa-ice-cube-dre/Content?oid=18699402</link>
+      <author>Tyler Daswick</author>
+    </item>
+    <item index="3">
+      <text>Straight Outta Compton aims to cross cultures and sanctify the wisdom of the street-to make a universal underdog story. It succeeds on a visceral level.</text>
+      <source>New York Magazine/Vulture</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>http://www.vulture.com/2015/08/film-review-straight-outta-compton.html</link>
+      <author>David Edelstein</author>
+    </item>
+    <item index="4">
+      <text>Straight Outta Compton is so beholden to the appeasement of so many artists and legacies and estates that none of it coheres as a movie.</text>
+      <source>Grantland</source>
+      <image>rottentomatoes://image.review.rotten</image>
+      <link>http://grantland.com/hollywood-prospectus/straight-outta-compton-review-ice-cube-dr-dre/</link>
+      <author>Wesley Morris</author>
+    </item>
+    <item index="5">
+      <text>While no one will mistake this for a protest film-there are too many pool parties-the movie's portrait of a militarized police force all too eager to assault young black men can't help but resonate in our own moment.</text>
+      <source>Slate</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>http://www.slate.com/articles/arts/movies/2015/08/straight_outta_compton_reviewed_like_nwa_the_biopic_is_exhilarating_abrasive.html</link>
+      <author>John Swansburg</author>
+    </item>
+    <item index="6">
+      <text>A riveting film about the birth of not just one rap group but an entire genre.</text>
+      <source>Newsday</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>http://www.newsday.com/entertainment/movies/straight-outta-compton-review-riveting-story-follows-rise-of-nwa-gangsta-rap-1.10732176</link>
+      <author>Rafer Guzman</author>
+    </item>
+    <item index="7">
+      <text>Straight Outta Compton functions as both a compelling, damnably topical political statement and a slickly produced piece of commercial art.</text>
+      <source>Globe and Mail</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>http://www.theglobeandmail.com/arts/film/film-reviews/straight-outta-compton-reinventing-the-legacy-of-nwa-and-rap-music/article25958992/</link>
+      <author>John Semley</author>
+    </item>
+    <item index="8">
+      <text>A sprawling, overstuffed, formulaic but highly entertaining story of pop stardom and its discontents in which the pioneers of gangsta rap are burnished to a high mythological gloss.</text>
+      <source>Salon.com</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>http://www.salon.com/2015/08/12/straight_outta_compton_and_the_prehistory_of_blacklivesmatter_how_gangsta_rap_shaped_our_culture/</link>
+      <author>Andrew O'Hehir</author>
+    </item>
+    <item index="9">
+      <text>Director F. Gary Gray has too big a story to tell, enough for a TV miniseries (or a season's worth of Behind the Music episodes), and you can see him straining to cram everything in even as the film stretches to the two-and-a-half hour mark.</text>
+      <source>Detroit News</source>
+      <image>rottentomatoes://image.review.rotten</image>
+      <link>http://www.detroitnews.com/story/entertainment/movies/2015/08/13/movie-review-straight-outta-compton-plays-straight/31667495/</link>
+      <author>Adam Graham</author>
+    </item>
+    <item index="10">
+      <text>Brashly winning and unapologetically self-serving.</text>
+      <source>Associated Press</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>http://www.heraldextra.com/entertainment/movies/review-straight-outta-compton-a-biopic-to-its-own-beat/article_7d283588-fcd4-5c9d-aa98-27b5a5b59d82.html</link>
+      <author>Jake Coyle</author>
+    </item>
+    <item index="11">
+      <text>There's some grit at the get-go, and some thrill at witnessing the development of a musical form. But the drama slows down once the money starts rolling in and the rappers' chief antagonists become each other, and maybe their manager.</text>
+      <source>San Diego Reader</source>
+      <image>rottentomatoes://image.review.rotten</image>
+      <link>http://www.sandiegoreader.com/movies/straight-outta-compton/</link>
+      <author>Matthew Lickona</author>
+    </item>
+    <item index="12">
+      <text>"Straight Outta Compton" ends up juggling more story lines and moods than it can handle.</text>
+      <source>Los Angeles Times</source>
+      <image>rottentomatoes://image.review.rotten</image>
+      <link>http://www.latimes.com/entertainment/movies/la-et-mn-straight-outta-compton-review-20150814-column.html</link>
+      <author>Kenneth Turan</author>
+    </item>
+    <item index="13">
+      <text>Like its subjects, the iconic late rap conglomerate N.W.A., F. Gary Gray's "Straight Outta Compton" starts out strong, peaks quickly, and then gets tangled in complications and compromise and falls apart.</text>
+      <source>Boston Globe</source>
+      <image>rottentomatoes://image.review.rotten</image>
+      <link>http://www.bostonglobe.com/arts/movies/2015/08/13/compton/55CdJdk6Q0b2yTjOaJlwyM/story.html</link>
+      <author>Peter Keough</author>
+    </item>
+    <item index="14">
+      <text>If any film should be forgiven its excesses, it's Straight Outta Compton, which is about the clashes and camaraderie among men whose unruliness sparked a cultural moment that was beyond their ability-and their willingness-to contain.</text>
+      <source>NPR</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>http://www.npr.org/2015/08/13/431920458/in-straight-outta-compton-hip-hop-legends-get-the-biopic-treatment?utm_medium=RSS&amp;utm_campaign=movies</link>
+      <author>Scott Tobias</author>
+    </item>
+    <item index="15">
+      <text>An explosively entertaining biopic about the hip-hop group that brought gangsta rap into the mainstream of popular culture in the 1980s.</text>
+      <source>Wall Street Journal</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>http://www.wsj.com/articles/straight-outta-compton-review-hip-hop-history-with-attitude-1439496800</link>
+      <author>Joe Morgenstern</author>
+    </item>
+    <item index="16">
+      <text>Straight Outta Compton makes that same thudding power echo in the thrill of a fresh track and the first rhymes from five young men who changed the music landscape nearly 30 years ago.</text>
+      <source>Toronto Star</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>http://www.thestar.com/entertainment/movies/2015/08/13/straight-outta-compton-chronicles-the-dawn-of-gangster-rap-review.html</link>
+      <author>Linda Barnard</author>
+    </item>
+    <item index="17">
+      <text>F. Gary Gray's excellent film is as sympathetic as it is bombastic, even when it depicts some of the rough stuff, a lot of the stupid excesses that come with fame, and even some quasi-criminal activities.</text>
+      <source>Toronto Sun</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>http://www.torontosun.com/2015/08/13/straight-outta-compton-review-biopic-on-rap-pioneers-nwa-riveting</link>
+      <author>Bruce Kirkland</author>
+    </item>
+    <item index="18">
+      <text>There's way too much inside-baseball money talk here, when a simpler plot -- one about a band whose apocalyptic vision comes to pass -- would have been plenty.</text>
+      <source>Time Out</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>http://www.timeout.com/us/film/straight-outta-compton</link>
+      <author>Joshua Rothkopf</author>
+    </item>
+    <item index="19">
+      <text>Straight Outta Compton manages to keep its sharp teeth despite its adherence to form. The movie doesn't neuter N.W.A.'s story so much as mold it to a familiar model.</text>
+      <source>Dallas Morning News</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>http://www.guidelive.com/movie-reviews/2015/08/13/straight-outta-compton-miss-beat</link>
+      <author>Chris Vognar</author>
+    </item>
+  </reviews>
+  <roles>
+    <item index="0">
+      <photo>http://image.tmdb.org/t/p/original/zov23iUpL3QFHqzjdtzrBGOQYaF.jpg</photo>
+      <role>Ice Cube</role>
+      <name>O'Shea Jackson Jr.</name>
+    </item>
+    <item index="1">
+      <photo>http://image.tmdb.org/t/p/original/wo6wWlI5Iuhfne0PDoBqUxgnBjR.jpg</photo>
+      <role>Dr. Dre</role>
+      <name>Corey Hawkins</name>
+    </item>
+    <item index="2">
+      <photo>http://image.tmdb.org/t/p/original/eZBAmGqwG2q2bFWD3xLTLt69QAb.jpg</photo>
+      <role>Eazy-E</role>
+      <name>Jason Mitchell</name>
+    </item>
+    <item index="3">
+      <photo>http://image.tmdb.org/t/p/original/mv2DgT9RABBYCxOY4ZHYalYBiUt.jpg</photo>
+      <role>Dj Yella</role>
+      <name>Neil Brown Jr.</name>
+    </item>
+    <item index="4">
+      <photo>http://image.tmdb.org/t/p/original/bwnP5uuAsJgceLF2kJbeMJN0ONP.jpg</photo>
+      <role>MC Ren</role>
+      <name>Aldis Hodge</name>
+    </item>
+    <item index="5">
+      <photo>http://image.tmdb.org/t/p/original/uDi6zBmNUQv2lPqCiDHlPcZMySb.jpg</photo>
+      <role>The D.O.C</role>
+      <name>Marlon Yates Jr.</name>
+    </item>
+    <item index="6">
+      <photo>http://image.tmdb.org/t/p/original/4wZu4sBgV1NT9Z2ygj1qFnkJLAd.jpg</photo>
+      <role>Suge Knight</role>
+      <name>R. Marcos Taylor</name>
+    </item>
+    <item index="7">
+      <photo>http://image.tmdb.org/t/p/original/nM7bRjCgWKq1nYCWYyoksSZtgGE.jpg</photo>
+      <role>Tomica</role>
+      <name>Carra Patterson</name>
+    </item>
+    <item index="8">
+      <photo>http://image.tmdb.org/t/p/original/cWA3gBE6ihwONJzoy4ROYX584UW.jpg</photo>
+      <role>Kim</role>
+      <name>Alexandra Shipp</name>
+    </item>
+    <item index="9">
+      <photo>http://image.tmdb.org/t/p/original/rX4LRmkYshMRfQ6lVbeZVAfqVKI.jpg</photo>
+      <role>Jerry Heller</role>
+      <name>Paul Giamatti</name>
+    </item>
+    <item index="10">
+      <photo>http://image.tmdb.org/t/p/original/k0XcYzPVRUu9BLe2yOp1iSwyJ1b.jpg</photo>
+      <role>Nicole</role>
+      <name>Elena Goode</name>
+    </item>
+    <item index="11">
+      <photo>http://image.tmdb.org/t/p/original/weKSlGfDRU3RR883Tv6L22Gg4SE.jpg</photo>
+      <role>Tyree</role>
+      <name>Keith Powers</name>
+    </item>
+    <item index="12">
+      <photo>http://image.tmdb.org/t/p/original/yx87z1Zfmrs4T08K3fE6RLp1iCM.jpg</photo>
+      <role>Young Warren G.</role>
+      <name>Joshua Brockington</name>
+    </item>
+    <item index="13">
+      <photo>http://image.tmdb.org/t/p/original/fQkZ78vlvjcuHNG3qqsVVCQEQw2.jpg</photo>
+      <role>Warren G.</role>
+      <name>Sheldon A. Smith</name>
+    </item>
+    <item index="14">
+      <photo>http://image.tmdb.org/t/p/original/5AykKpsH8DMxIm144ET7fVVTQfw.jpg</photo>
+      <role>Snoop Dogg</role>
+      <name>LaKeith Stanfield</name>
+    </item>
+    <item index="15">
+      <photo>http://image.tmdb.org/t/p/original/s3N3PkaDcpIHjdI5gG7idCnWajH.jpg</photo>
+      <role>Jinx</role>
+      <name>Cleavon McClendon</name>
+    </item>
+    <item index="16">
+      <photo>http://image.tmdb.org/t/p/original/pQcXS4xi9OXaz69bBICyGLvlQik.jpg</photo>
+      <role>Lavetta</role>
+      <name>Aeriél Miranda</name>
+    </item>
+    <item index="17">
+      <photo>http://image.tmdb.org/t/p/original/kphV4cfKjkEcrCAlPY3dZuDHqcG.jpg</photo>
+      <role>Verna Griffin</role>
+      <name>Lisa Renee Pitts</name>
+    </item>
+    <item index="18">
+      <photo>http://image.tmdb.org/t/p/original/jUSFkErCPkCqxxEUd4yU8ywoQ5M.jpg</photo>
+      <role>Doris Jackson</role>
+      <name>Angela Elayne Gibbs</name>
+    </item>
+    <item index="19">
+      <photo>http://image.tmdb.org/t/p/original/6lWPrqtnagVMhDOo6VARMjVko8V.jpg</photo>
+      <role>Hosea Jackson</role>
+      <name>Bruce Beatty</name>
+    </item>
+    <item index="20">
+      <photo>http://image.tmdb.org/t/p/original/6iWAS8xqeK99D39qMFSMhxee9ho.jpg</photo>
+      <role>Lonzo Williams</role>
+      <name>Corey Reynolds</name>
+    </item>
+    <item index="21">
+      <photo>http://image.tmdb.org/t/p/original/oEVLDskW1iyC06VAdnNdqKpHosy.jpg</photo>
+      <role>Bryan Turner</role>
+      <name>Tate Ellington</name>
+    </item>
+    <item index="22">
+      <photo>http://image.tmdb.org/t/p/original/j7NJ52wEo58siDpkzIWIKyC7DD5.jpg</photo>
+      <role>Chuck D</role>
+      <name>Rogelio Douglas Jr.</name>
+    </item>
+    <item index="23">
+      <photo>http://image.tmdb.org/t/p/original/knHlGxYCOO3tqFTiSoYWusjzdm1.jpg</photo>
+      <role>Journalist #1</role>
+      <name>Andrew Borba</name>
+    </item>
+    <item index="24">
+      <photo>http://image.tmdb.org/t/p/original/cOrGWvESrNU2AWt6nBcGjE3stY.jpg</photo>
+      <role>Journalist #2</role>
+      <name>Matt Corboy</name>
+    </item>
+    <item index="25">
+      <photo>http://image.tmdb.org/t/p/original/9OMEE8PBsMsxJ9KM2oosZ7mejCl.jpg</photo>
+      <role>Journalist #3</role>
+      <name>Larry Sullivan</name>
+    </item>
+    <item index="26">
+      <photo>http://image.tmdb.org/t/p/original/aFGweXqfdnHAFT0BD2DsmINltId.jpg</photo>
+      <role>Journalist #4</role>
+      <name>Deborah Lacey</name>
+    </item>
+    <item index="27">
+      <photo>http://image.tmdb.org/t/p/original/hjMfkAyz5ECn0svAzrkG3YsEaEW.jpg</photo>
+      <role>Greg Mack</role>
+      <name>F. Gary Gray</name>
+    </item>
+    <item index="28">
+      <photo>http://image.tmdb.org/t/p/original/f2So7S5UBlzGVDwjjbkd6gQTYgP.jpg</photo>
+      <role>Al</role>
+      <name>Allen Maldonado</name>
+    </item>
+    <item index="29">
+      <photo>http://image.tmdb.org/t/p/original/1mykiPXnsHhR3z8DHVw6L931a6T.jpg</photo>
+      <role>Rock</role>
+      <name>Demetrius Grosse</name>
+    </item>
+    <item index="30">
+      <photo/>
+      <role>Michael 'Compton Menace' Taylor</role>
+      <name>Og Blood</name>
+    </item>
+    <item index="31">
+      <photo>http://image.tmdb.org/t/p/original/eONLhaBvc3IyhWsfwdIdbRnbK9M.jpg</photo>
+      <role>Kid #1</role>
+      <name>Ashton Sanders</name>
+    </item>
+    <item index="32">
+      <photo/>
+      <role>Kid #2</role>
+      <name>Joshua Geter</name>
+    </item>
+    <item index="33">
+      <photo>http://image.tmdb.org/t/p/original/4qxcHkPIMUMZCW7UNH9kIfRndgS.jpg</photo>
+      <role>Block Dude #1</role>
+      <name>Kofi Siriboe</name>
+    </item>
+    <item index="34">
+      <photo>http://image.tmdb.org/t/p/original/bedZmTFMkTLmXwbSn2z0IQqQE02.jpg</photo>
+      <role>Block Dude #2</role>
+      <name>Orlando Brown</name>
+    </item>
+    <item index="35">
+      <photo>http://image.tmdb.org/t/p/original/5tgOQxFjf4bLVwhyIuZslXbORB1.jpg</photo>
+      <role>LAPD Crash Cop #1</role>
+      <name>Matthew Boylan</name>
+    </item>
+    <item index="36">
+      <photo>http://image.tmdb.org/t/p/original/i8kXvMUhvQxJZTatSTo1SPSPSgq.jpg</photo>
+      <role>LAPD Crash Cop #2</role>
+      <name>Chic Daniel</name>
+    </item>
+    <item index="37">
+      <photo/>
+      <role>LAPD Cop</role>
+      <name>Tim Connolly</name>
+    </item>
+    <item index="38">
+      <photo>http://image.tmdb.org/t/p/original/rj26vCO2dxuCzVkkHMaa3Xv8OIl.jpg</photo>
+      <role>Uniform Cop #1</role>
+      <name>Cris D'Annunzio</name>
+    </item>
+    <item index="39">
+      <photo/>
+      <role>Uniform Cop #2</role>
+      <name>Dan Wells</name>
+    </item>
+    <item index="40">
+      <photo/>
+      <role>Doo To's Security Guard</role>
+      <name>Justin Goslee</name>
+    </item>
+    <item index="41">
+      <photo>http://image.tmdb.org/t/p/original/fWz4uUpEObDdambt0QMRfU7H1dZ.jpg</photo>
+      <role>Officer</role>
+      <name>Alex Wexo</name>
+    </item>
+    <item index="42">
+      <photo>http://image.tmdb.org/t/p/original/mHI9I34Cj7xnWHPQrwWN7pIFCbK.jpg</photo>
+      <role>HBO Rapper #1</role>
+      <name>Marcus Callender</name>
+    </item>
+    <item index="43">
+      <photo/>
+      <role>HBO Rapper #2</role>
+      <name>Vaughn Wilkinson</name>
+    </item>
+    <item index="44">
+      <photo>http://image.tmdb.org/t/p/original/hrATK7lU4dO6MQy2jkVFXlrnlrj.jpg</photo>
+      <role>Capitol Records Executive</role>
+      <name>Dean Cameron</name>
+    </item>
+    <item index="45">
+      <photo/>
+      <role>Torrance Cop #1</role>
+      <name>Mark Thomas Holguin</name>
+    </item>
+    <item index="46">
+      <photo>http://image.tmdb.org/t/p/original/7J7ke4Mp09l8dLTmvWTuSq2CJ7r.jpg</photo>
+      <role>Torrance Cop #2</role>
+      <name>Sky Soleil</name>
+    </item>
+    <item index="47">
+      <photo/>
+      <role>Officer Rauch</role>
+      <name>Inny Clemons</name>
+    </item>
+    <item index="48">
+      <photo/>
+      <role>Big Dude</role>
+      <name>Jody Burke</name>
+    </item>
+    <item index="49">
+      <photo/>
+      <role>Felicia</role>
+      <name>Asia'h Epperson</name>
+    </item>
+    <item index="50">
+      <photo/>
+      <role>Tour Bus Driver</role>
+      <name>Scott Endicott</name>
+    </item>
+    <item index="51">
+      <photo>http://image.tmdb.org/t/p/original/cktymLohUtHbTZh4WlS81WAOh1p.jpg</photo>
+      <role>Joe Louis Police</role>
+      <name>Greg Collins</name>
+    </item>
+    <item index="52">
+      <photo>http://image.tmdb.org/t/p/original/yTE1sHZ0ckMyoLM39bg3G3Sul5Z.jpg</photo>
+      <role>Jimmy Iovine</role>
+      <name>Mark Sherman</name>
+    </item>
+    <item index="53">
+      <photo>http://image.tmdb.org/t/p/original/a50wlUl3tBUKeSQwKDagwCFCzs1.jpg</photo>
+      <role>CNN Journalist</role>
+      <name>Rob Brownstein</name>
+    </item>
+    <item index="54">
+      <photo>http://image.tmdb.org/t/p/original/cGAeAYDk14y1l8AOV7op2kP3MoC.jpg</photo>
+      <role>Tupac</role>
+      <name>Marcc Rose</name>
+    </item>
+    <item index="55">
+      <photo/>
+      <role>Chillin' Cop</role>
+      <name>Nigel Lawes</name>
+    </item>
+    <item index="56">
+      <photo>http://image.tmdb.org/t/p/original/urxTGUxT8LWjVR5SnebEir7sGIj.jpg</photo>
+      <role>Pool Party Girl</role>
+      <name>Lauren Pacheco</name>
+    </item>
+    <item index="57">
+      <photo>http://image.tmdb.org/t/p/original/hosRC2Hm9Fhh6ROnteyh6Er1iQW.jpg</photo>
+      <role>Hostess</role>
+      <name>Caileigh Scott</name>
+    </item>
+    <item index="58">
+      <photo>http://image.tmdb.org/t/p/original/t78R2krL2pfV0un2j2DafjcXa7x.jpg</photo>
+      <role>Pastor</role>
+      <name>A. Russell Andrews</name>
+    </item>
+    <item index="59">
+      <photo>http://image.tmdb.org/t/p/original/3zGmNZyfcQBBuxaHEFySo2wH7Ov.jpg</photo>
+      <role>Club Goer (uncredited)</role>
+      <name>Philicia Saunders</name>
+    </item>
+  </roles>
+  <similar>
+    <item index="0">Dope</item>
+    <item index="1">Black Mass</item>
+    <item index="2">Creed</item>
+    <item index="3">Boyz n the Hood</item>
+    <item index="4">Sicario</item>
+    <item index="5">Steve Jobs</item>
+    <item index="6">Entourage</item>
+    <item index="7">Legend</item>
+    <item index="8">Southpaw</item>
+    <item index="9">Fruitvale Station</item>
+    <item index="10">The Big Short</item>
+    <item index="11">Get Hard</item>
+    <item index="12">Foxcatcher</item>
+    <item index="13">Beasts of No Nation</item>
+    <item index="14">Friday</item>
+    <item index="15">Trainwreck</item>
+    <item index="16">End of Watch</item>
+    <item index="17">Warrior</item>
+    <item index="18">Green Room</item>
+    <item index="19">Notorious</item>
+  </similar>
+  <studio>New Line Cinema</studio>
+  <summary>In 1987, five young men, using brutally honest rhymes and hardcore beats, put their frustration and anger about life in the most dangerous place in America into the most powerful weapon they had: their music.  Taking us back to where it all began, Straight Outta Compton tells the true story of how these cultural rebels—armed only with their lyrics, swagger, bravado and raw talent—stood up to the authorities that meant to keep them down and formed the world’s most dangerous group, N.W.A.  And as they spoke the truth that no one had before and exposed life in the hood, their voice ignited a social revolution that is still reverberating today.</summary>
+  <tagline>The Story of N.W.A.</tagline>
+  <tags/>
+  <themes/>
+  <title>Straight Outta Compton</title>
+  <writers>
+    <item index="0">
+      <photo>http://image.tmdb.org/t/p/original/dWVd6RosbkkoI6WdeeaMMKeoGW7.jpg</photo>
+      <role/>
+      <name>Andrea Berloff</name>
+    </item>
+    <item index="1">
+      <photo/>
+      <role/>
+      <name>Jonathan Herman</name>
+    </item>
+  </writers>
+  <year>2015</year>
+</Movie>

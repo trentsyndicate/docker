@@ -1,0 +1,784 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Movie>
+  <art>
+    <item external="True" url="http://image.tmdb.org/t/p/original/dG4BmM32XJmKiwopLDQmvXEhuHB.jpg" sort_order="1" provider="com.plexapp.agents.imdb" media="com.plexapp.agents.imdb_e5acb632684339183fd2bc544230fe12ec7b497e"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/ilzhFDjHn837nNCFqpzSxvHS49W.jpg" preview="com.plexapp.agents.imdb_ad7546416dcc0050072d0dbe9ed964948cab8387" sort_order="2" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/76MwHeg6QekaeG1kOEQBqV66ndQ.jpg" preview="com.plexapp.agents.imdb_7eaec83cdbcc8ddb4bdbe096a1f9714cd403a505" sort_order="3" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/9BUvLUz1GhbNpcyQRyZm1HNqMq4.jpg" preview="com.plexapp.agents.imdb_2aaf90c4ef2a8c36be87ddad4848e3d9444099ef" sort_order="4" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/7ABgKch4hBX4qwCujRKM58fKsoG.jpg" preview="com.plexapp.agents.imdb_e6506b3a498b378658e060680442a406a6069e41" sort_order="5" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/wix9AtxE4jRJuW2i0LdrFcPjtVo.jpg" preview="com.plexapp.agents.imdb_091fd3ca3e2d27ee1711eff7dfd40664e7db88dc" sort_order="6" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/vLmZjIrqWOJ0J6HvUyREHqjAbzS.jpg" preview="com.plexapp.agents.imdb_b2eca2241b58ace8afeca30cec1493d47a8bcadd" sort_order="7" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/aDP4EBYlzBTP9QNenHgRSDjgUQ7.jpg" preview="com.plexapp.agents.imdb_a087f217114c4ab930ff9a241094b32ca1e9ad08" sort_order="8" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/2fJu4SCCU1RUrEJw9BKus2Wt0OC.jpg" preview="com.plexapp.agents.imdb_82e4e0a921b4d85a4949adedcffb653edc6793b0" sort_order="9" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/g39AUI6GFygJGYfcCM9tBomnSUL.jpg" preview="com.plexapp.agents.imdb_def98f0db384d5d5d9b90bfd4931831292c9f40e" sort_order="10" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/f2k1EYWoFh1MFiZ83oWwrtsZR3F.jpg" preview="com.plexapp.agents.imdb_7332515fdf6cf1b9dae215eba5b068cae43a6594" sort_order="11" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/yYdkEQyI8HAB69ESOqv5bg3VVIh.jpg" preview="com.plexapp.agents.imdb_507acb920a503d6719b2520a84d9cb377ec2387f" sort_order="12" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/aTMhwQupmTed84cB4RebGVMano6.jpg" preview="com.plexapp.agents.imdb_218230bb3bea290b418df792c059f536287a1904" sort_order="13" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/mnCQ1BhwEs6YfRt361udvAxByZJ.jpg" preview="com.plexapp.agents.imdb_c606ed7b6ee9912abbc1f10e2fa2ebe43f187128" sort_order="14" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/3wWhdg4DP6emDJC3XZyr8M1wKm4.jpg" preview="com.plexapp.agents.imdb_0d21dfd1e7a96ff91fcd0c9a9fc0247e3073a9f3" sort_order="15" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/euqFtvY2KkZgnX4Jgxa2nOXQBbt.jpg" preview="com.plexapp.agents.imdb_c9ac7da8231b352226abbd96c1c26c5a525cdfb3" sort_order="16" provider="com.plexapp.agents.imdb"/>
+  </art>
+  <banners/>
+  <chapters>
+    <item index="0">
+      <title>Dwarf Women</title>
+      <end_time_offset>248000</end_time_offset>
+      <start_time_offset>0</start_time_offset>
+    </item>
+    <item index="1">
+      <title>One of the Dunedain</title>
+      <end_time_offset>370000</end_time_offset>
+      <start_time_offset>248000</start_time_offset>
+    </item>
+    <item index="2">
+      <title>The Evenstar</title>
+      <end_time_offset>884000</end_time_offset>
+      <start_time_offset>370000</start_time_offset>
+    </item>
+    <item index="3">
+      <title>The Wolves of Isengard</title>
+      <end_time_offset>1026000</end_time_offset>
+      <start_time_offset>884000</start_time_offset>
+    </item>
+    <item index="4">
+      <title>Helm's Deep</title>
+      <end_time_offset>1157000</end_time_offset>
+      <start_time_offset>1026000</start_time_offset>
+    </item>
+    <item index="5">
+      <title>Isengard Unleashed</title>
+      <end_time_offset>1387000</end_time_offset>
+      <start_time_offset>1157000</start_time_offset>
+    </item>
+    <item index="6">
+      <title>The Grace of the Valar</title>
+      <end_time_offset>1438000</end_time_offset>
+      <start_time_offset>1387000</start_time_offset>
+    </item>
+    <item index="7">
+      <title>Arwen's Fate</title>
+      <end_time_offset>1629000</end_time_offset>
+      <start_time_offset>1438000</start_time_offset>
+    </item>
+    <item index="8">
+      <title>The Story Foreseen From Lorien</title>
+      <end_time_offset>1683000</end_time_offset>
+      <start_time_offset>1629000</start_time_offset>
+    </item>
+    <item index="9">
+      <title>The Window on the West</title>
+      <end_time_offset>1898000</end_time_offset>
+      <start_time_offset>1683000</start_time_offset>
+    </item>
+    <item index="10">
+      <title>Sons of the Steward</title>
+      <end_time_offset>2145000</end_time_offset>
+      <start_time_offset>1898000</start_time_offset>
+    </item>
+    <item index="11">
+      <title>The Forbidden Pool</title>
+      <end_time_offset>2297000</end_time_offset>
+      <start_time_offset>2145000</start_time_offset>
+    </item>
+    <item index="12">
+      <title>Aragon's Return</title>
+      <end_time_offset>2507000</end_time_offset>
+      <start_time_offset>2297000</start_time_offset>
+    </item>
+    <item index="13">
+      <title>Entmoot</title>
+      <end_time_offset>3049000</end_time_offset>
+      <start_time_offset>2507000</start_time_offset>
+    </item>
+    <item index="14">
+      <title>The Glittering Caves</title>
+      <end_time_offset>3499000</end_time_offset>
+      <start_time_offset>3049000</start_time_offset>
+    </item>
+    <item index="15">
+      <title>"Where Is the Horse and the Rider?"</title>
+      <end_time_offset>3640000</end_time_offset>
+      <start_time_offset>3499000</start_time_offset>
+    </item>
+    <item index="16">
+      <title>"Don't Be Hasty, Master Meriadoc!"</title>
+      <end_time_offset>3768000</end_time_offset>
+      <start_time_offset>3640000</start_time_offset>
+    </item>
+    <item index="17">
+      <title>The Host of the Eldar</title>
+      <end_time_offset>4085000</end_time_offset>
+      <start_time_offset>3768000</start_time_offset>
+    </item>
+    <item index="18">
+      <title>The Batter of the Hornburg</title>
+      <end_time_offset>4361000</end_time_offset>
+      <start_time_offset>4085000</start_time_offset>
+    </item>
+    <item index="19">
+      <title>Old Entish</title>
+      <end_time_offset>5057000</end_time_offset>
+      <start_time_offset>4361000</start_time_offset>
+    </item>
+    <item index="20">
+      <title>The Breach of the Deeping Wall</title>
+      <end_time_offset>5141000</end_time_offset>
+      <start_time_offset>5057000</start_time_offset>
+    </item>
+    <item index="21">
+      <title>The Entmoot Decides</title>
+      <end_time_offset>5254000</end_time_offset>
+      <start_time_offset>5141000</start_time_offset>
+    </item>
+    <item index="22">
+      <title>The Retreat to the Hornburg</title>
+      <end_time_offset>5445000</end_time_offset>
+      <start_time_offset>5254000</start_time_offset>
+    </item>
+    <item index="23">
+      <title>Master Peregrin's Plan</title>
+      <end_time_offset>5550000</end_time_offset>
+      <start_time_offset>5445000</start_time_offset>
+    </item>
+    <item index="24">
+      <title>Osgiliath</title>
+      <end_time_offset>5671000</end_time_offset>
+      <start_time_offset>5550000</start_time_offset>
+    </item>
+    <item index="25">
+      <title>The Last March of the Ents</title>
+      <end_time_offset>5757000</end_time_offset>
+      <start_time_offset>5671000</start_time_offset>
+    </item>
+    <item index="26">
+      <title>The Nazgul Attack</title>
+      <end_time_offset>5822000</end_time_offset>
+      <start_time_offset>5757000</start_time_offset>
+    </item>
+    <item index="27">
+      <title>Forth Eorlingas</title>
+      <end_time_offset>5923000</end_time_offset>
+      <start_time_offset>5822000</start_time_offset>
+    </item>
+    <item index="28">
+      <title>The Flooding of Isengard</title>
+      <end_time_offset>6074000</end_time_offset>
+      <start_time_offset>5923000</start_time_offset>
+    </item>
+    <item index="29">
+      <title>The Tales That Really Mattered...</title>
+      <end_time_offset>-1</end_time_offset>
+      <start_time_offset>6074000</start_time_offset>
+    </item>
+  </chapters>
+  <collections/>
+  <content_rating>PG-13</content_rating>
+  <countries>
+    <item index="0">USA</item>
+  </countries>
+  <directors>
+    <item index="0">
+      <photo>http://image.tmdb.org/t/p/original/kSrfI3TbMdIMmPVOflLQ56OfscB.jpg</photo>
+      <role/>
+      <name>Peter Jackson</name>
+    </item>
+  </directors>
+  <duration>10740000</duration>
+  <genres>
+    <item index="0">Adventure</item>
+    <item index="1">Drama</item>
+    <item index="2">Fantasy</item>
+  </genres>
+  <originally_available_at>2002-12-18</originally_available_at>
+  <posters>
+    <item external="True" url="http://image.tmdb.org/t/p/original/9mBjBuUmBBgnGjV1JZ2uCIYbaph.jpg" sort_order="1" provider="com.plexapp.agents.imdb" media="com.plexapp.agents.imdb_acc7abfd3c11caa0ece09ba1b9fef4b1ab75deaf"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/wf3v0Pn09jnT5HSaYal7Ami3bdA.jpg" preview="com.plexapp.agents.imdb_f911d6af76ac3047f67ba3d2ac9a3b03b7d58541" sort_order="2" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/5VTN0pR8gcqV3EPUHHfMGnJYN9L.jpg" preview="com.plexapp.agents.imdb_d5654916a93bd4620a23575467421d3876f1c249" sort_order="3" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/q7e2ecmTpB1TCYBgVnod3ec279V.jpg" preview="com.plexapp.agents.imdb_8162fe469012881e46ba937a1c9c7b757441ff5a" sort_order="4" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/5o5fv1dHG7vWoH2hmqwihVPBoBm.jpg" preview="com.plexapp.agents.imdb_0c18858d9b6d882383747d64faa1d3537f7472d3" sort_order="5" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/wwh7g5zDMPijT2cpn0ZSFHrJ4hn.jpg" preview="com.plexapp.agents.imdb_648bc70108f9b9e1feff645451cbf85d91c5cb9e" sort_order="6" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/5shpYN3ilq03MrYCjWMffOhEbPX.jpg" preview="com.plexapp.agents.imdb_085702ac994034a4640928495e762b7eda6f2e7b" sort_order="7" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/vfbdJTaCC2wuXh3QvWTCbW5TzoG.jpg" preview="com.plexapp.agents.imdb_20b4ca90486c8e85805f6c84d8b4858ff057d274" sort_order="8" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/h7iqNCQ8GKw8vbGUAy4rR9GzU18.jpg" preview="com.plexapp.agents.imdb_e355be7f8d6929f64bf32f22ec5d8ee36936eb39" sort_order="9" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/XFbeAhJk0NTbkELnJRmMtYj4Hf.jpg" preview="com.plexapp.agents.imdb_f789efb2d0bdded47925110d8a8e57559fc0598c" sort_order="10" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/t99trDgTBb85AAUEyDGXj2fCu6U.jpg" preview="com.plexapp.agents.imdb_5f2dafc307961601c392af17fca65dd90c51d89b" sort_order="11" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/arrWLKUCwS3uMZdRsKJOiai6VmR.jpg" preview="com.plexapp.agents.imdb_3e11e9762e6efe6370c459441acebc518cdda092" sort_order="12" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/8A4VB4Q97Z85nMigzcVfyun1A2j.jpg" preview="com.plexapp.agents.imdb_05603c4c30e138e6d1a52669425442ee53071cdf" sort_order="13" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/1Tm0qbJzvs6a6AEoesGeo6qsBrz.jpg" preview="com.plexapp.agents.imdb_8d44d376b1264f034a6460823523f7df7eaa6144" sort_order="14" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/8wpyhtEpNLpgniTbsBrcqHNcuMQ.jpg" preview="com.plexapp.agents.imdb_b2adc64ac8428223802c8a8327e00dc1c023a116" sort_order="15" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/gMBBFlsljEMlw5ynotQzAb5sXPH.jpg" preview="com.plexapp.agents.imdb_fa9f3d8763c8be0ef138c8091c4011d01b663f79" sort_order="16" provider="com.plexapp.agents.imdb"/>
+  </posters>
+  <producers>
+    <item index="0">
+      <photo>http://image.tmdb.org/t/p/original/kSrfI3TbMdIMmPVOflLQ56OfscB.jpg</photo>
+      <role/>
+      <name>Peter Jackson</name>
+    </item>
+    <item index="1">
+      <photo>http://image.tmdb.org/t/p/original/xWtXYk6M5NFroddcQDviLlxOnkU.jpg</photo>
+      <role/>
+      <name>Barrie M. Osborne</name>
+    </item>
+  </producers>
+  <rating>9.5</rating>
+  <rating_image>rottentomatoes://image.rating.ripe</rating_image>
+  <audience_rating>9.5</audience_rating>
+  <audience_rating_image>rottentomatoes://image.rating.upright</audience_rating_image>
+  <reviews>
+    <item index="0">
+      <text>It's a thrilling three-hour epic that flies at a gallop, boasts the most impressive computer graphics yet created, and succeeds smashingly as grownup drama and kid-captivating fantasy.</text>
+      <source>Minneapolis Star Tribune</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>http://www.startribune.com/lifestyle/11469906.html</link>
+      <author>Colin Covert</author>
+    </item>
+    <item index="1">
+      <text>When Gandalf arrives with reinforcements, descending a near-vertical slope using horses where you or I would use snowboards, the spirit of triumphant rampage is something rarely glimpsed since the days of Olivier and Henry V.</text>
+      <source>New Yorker</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>http://www.newyorker.com/archive/2003/01/06/030106crci_cinema</link>
+      <author>Anthony Lane</author>
+    </item>
+    <item index="2">
+      <text>To live up to expectations, The Two Towers only had to be as good as its predecessor -- and, astoundingly, it's better.</text>
+      <source>AV Club</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>http://www.avclub.com/review/the-lord-of-the-rings-the-two-towers-5815</link>
+      <author>Keith Phipps</author>
+    </item>
+    <item index="3">
+      <text>The battle for Gollum's mind also provides a fitting teaser conclusion to the second act of a story I'm beginning to wish would never end.</text>
+      <source>New York Daily News</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>http://www.nydailynews.com/archives/nydn-features/tolkien-ii-thrillogy-goodness-gollum-spectacle-human-touch-article-1.503279</link>
+      <author>Jack Mathews</author>
+    </item>
+    <item index="4">
+      <text>Part two is more a straight-ahead action flick, substituting brawn and brawling for the pastoral radiance of the first film.</text>
+      <source>Associated Press</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>http://www.semissourian.com/story/96479.html</link>
+      <author>David Germain</author>
+    </item>
+    <item index="5">
+      <text>More graphic in its violence and more fantastic in its imaginings than the first film.</text>
+      <source>Chicago Reader</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>http://onfilm.chicagoreader.com/movies/capsules/22971_LORD_OF_THE_RINGS_THE_TWO_TOWERS</link>
+      <author>J. R. Jones</author>
+    </item>
+    <item index="6">
+      <text>In size and scale, Jackson has redefined the word 'epic' -- but his attention to the small things really gives this series its awesome stature.</text>
+      <source>Time Out</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>http://www.timeout.com/film/reviews/80705/the_lord_of_the_rings-the_two_towers.html</link>
+      <author>Tom Charity</author>
+    </item>
+    <item index="7">
+      <text>What's remarkable is how immediately, after a full year, The Two Towers seizes your attention, and how urgently it holds you through three seamless, action-packed hours.</text>
+      <source>Newsweek</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>http://www.newsweek.com/and-just-time-christmas-141101</link>
+      <author>David Ansen</author>
+    </item>
+    <item index="8">
+      <text>A thrilling work of film craft.</text>
+      <source>TIME Magazine</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>http://www.time.com/time/magazine/article/0,9171,1101021223-400004-5,00.html</link>
+      <author>Richard Corliss</author>
+    </item>
+    <item index="9">
+      <text>Spectacular in every sense of the word, even if you don' t know an Orc from a Uruk-Hai.</text>
+      <source>Rolling Stone</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>http://www.rollingstone.com/movies/reviews/the-lord-of-the-rings-the-two-towers-20021218</link>
+      <author>Peter Travers</author>
+    </item>
+    <item index="10">
+      <text>The movie is a monument to a talented fan-boy's passion: You emerge into the light with your heart pounding, ears ringing, head swimming, and gasp, 'That's entertainment!'</text>
+      <source>Slate</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>http://www.slate.com/articles/arts/movies/2002/12/force_of_hobbit.html</link>
+      <author>David Edelstein</author>
+    </item>
+    <item index="11">
+      <text>One fabulous Middle-earth show.</text>
+      <source>Washington Post</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>http://www.washingtonpost.com/wp-dyn/content/article/2002/12/20/AR2005033116388.html</link>
+      <author>Desson Thomson</author>
+    </item>
+    <item index="12">
+      <text>Convincing, gripping, whole and nourishing.</text>
+      <source>Washington Post</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>http://www.washingtonpost.com/wp-dyn/content/article/2002/12/17/AR2005033117245.html</link>
+      <author>Stephen Hunter</author>
+    </item>
+    <item index="13">
+      <text>George Lucas should watch this and hang his head in shame.</text>
+      <source>Boston Globe</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>http://www.boston.com/movies/display?display=movie&amp;id=1854</link>
+      <author>Ty Burr</author>
+    </item>
+    <item index="14">
+      <text>This is what the fans were really waiting for when they envisioned Tolkien's world on film.</text>
+      <source>Toronto Star</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>http://WWW.TheStar.COM/NASApp/cs/ContentServer?&amp;pagename=thestar/Layout/Article_Type1&amp;c=Article&amp;cid=1040209367208&amp;call_pageid=1022183557980&amp;col=1022183560753</link>
+      <author>Peter Howell</author>
+    </item>
+    <item index="15">
+      <text>A few sloggy spots aside, The Two Towers is an outstanding effort that maintains the integrity and purpose that distinguished The Fellowship of the Ring.</text>
+      <source>San Francisco Chronicle</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>http://www.sfgate.com/cgi-bin/article.cgi?f=/c/a/2002/12/18/DD122878.DTL</link>
+      <author>Mick LaSalle</author>
+    </item>
+  </reviews>
+  <roles>
+    <item index="0">
+      <photo>http://image.tmdb.org/t/p/original/hHzLAVspGGuPg1KW5JAEsyRvnUT.jpg</photo>
+      <role>Frodo Baggins</role>
+      <name>Elijah Wood</name>
+    </item>
+    <item index="1">
+      <photo>http://image.tmdb.org/t/p/original/coWjgMEYJjk2OrNddlXCBm8EIr3.jpg</photo>
+      <role>Gandalf the White</role>
+      <name>Ian McKellen</name>
+    </item>
+    <item index="2">
+      <photo>http://image.tmdb.org/t/p/original/hKMk7FsqzBDkQt72fOAOLePZEko.jpg</photo>
+      <role>Aragorn</role>
+      <name>Viggo Mortensen</name>
+    </item>
+    <item index="3">
+      <photo>http://image.tmdb.org/t/p/original/m40tSOPKJScFY7acY0hEWtE1ncR.jpg</photo>
+      <role>Samwise "Sam" Gamgee</role>
+      <name>Sean Astin</name>
+    </item>
+    <item index="4">
+      <photo>http://image.tmdb.org/t/p/original/q8ftpMgHVbjv3tnu7JtqFOvRjEf.jpg</photo>
+      <role>Arwen Evenstar</role>
+      <name>Liv Tyler</name>
+    </item>
+    <item index="5">
+      <photo>http://image.tmdb.org/t/p/original/vq90ECKinICxJYYZpbga4pMwch.jpg</photo>
+      <role>Legolas</role>
+      <name>Orlando Bloom</name>
+    </item>
+    <item index="6">
+      <photo>http://image.tmdb.org/t/p/original/dvT1NPY8CXIVQh0O1h6rpfYOgKz.jpg</photo>
+      <role>Gimli / Treebeard (voice)</role>
+      <name>John Rhys-Davies</name>
+    </item>
+    <item index="7">
+      <photo>http://image.tmdb.org/t/p/original/sXkqoK3v1nfCudXIcxKVwDc0imw.jpg</photo>
+      <role>Meriadoc "Merry" Brandybuck</role>
+      <name>Dominic Monaghan</name>
+    </item>
+    <item index="8">
+      <photo>http://image.tmdb.org/t/p/original/nwNHDM67VYAb87sjSqYQVWaZKyK.jpg</photo>
+      <role>Peregrin "Pippin" Took</role>
+      <name>Billy Boyd</name>
+    </item>
+    <item index="9">
+      <photo>http://image.tmdb.org/t/p/original/eNGqhebQ4cDssjVeNFrKtUvweV5.jpg</photo>
+      <role>Gollum / Snaga (voice) / Mauhúr (voice)</role>
+      <name>Andy Serkis</name>
+    </item>
+    <item index="10">
+      <photo>http://image.tmdb.org/t/p/original/eE98pTm0Q2xIn0710VBC603IE5Q.jpg</photo>
+      <role>Galadriel</role>
+      <name>Cate Blanchett</name>
+    </item>
+    <item index="11">
+      <photo>http://image.tmdb.org/t/p/original/aVzp6zflzedmdKPLxaPqcZ05PDK.jpg</photo>
+      <role>Saruman</role>
+      <name>Christopher Lee</name>
+    </item>
+    <item index="12">
+      <photo>http://image.tmdb.org/t/p/original/ysED1kp94bpnweNVaDoVQQ6iy8X.jpg</photo>
+      <role>Elrond</role>
+      <name>Hugo Weaving</name>
+    </item>
+    <item index="13">
+      <photo>http://image.tmdb.org/t/p/original/fX9ggRFAZM7J8vPBdTWQphUNiRt.jpg</photo>
+      <role>Théoden</role>
+      <name>Bernard Hill</name>
+    </item>
+    <item index="14">
+      <photo>http://image.tmdb.org/t/p/original/tHYOUO33K7iaDw8nXyqRvDIkVuM.jpg</photo>
+      <role>Éomer</role>
+      <name>Karl Urban</name>
+    </item>
+    <item index="15">
+      <photo>http://image.tmdb.org/t/p/original/pp6WCSXw3EHOSNSG5jUDspuiFgf.jpg</photo>
+      <role>Éowyn</role>
+      <name>Miranda Otto</name>
+    </item>
+    <item index="16">
+      <photo>http://image.tmdb.org/t/p/original/xDUXLTF5i2fYx7eSEAR3IdaUb9y.jpg</photo>
+      <role>Faramir</role>
+      <name>David Wenham</name>
+    </item>
+    <item index="17">
+      <photo>http://image.tmdb.org/t/p/original/6pqeGxtWEdDjYsnQfUkmzXLlDvs.jpg</photo>
+      <role>Gríma Wormtongue</role>
+      <name>Brad Dourif</name>
+    </item>
+    <item index="18">
+      <photo>http://image.tmdb.org/t/p/original/amJPcZnpWIABjbaN5FzW5vvTIEk.jpg</photo>
+      <role>Haldir</role>
+      <name>Craig Parker</name>
+    </item>
+    <item index="19">
+      <photo>http://image.tmdb.org/t/p/original/hv8zCPSiju8YpVXXjv17osV2pV7.jpg</photo>
+      <role>Freda</role>
+      <name>Olivia Tennet</name>
+    </item>
+    <item index="20">
+      <photo>http://image.tmdb.org/t/p/original/fwW8QetiTgvGH9Dxj8sDtQUr2hB.jpg</photo>
+      <role>Sharku / Snaga</role>
+      <name>Jed Brophy</name>
+    </item>
+    <item index="21">
+      <photo>http://image.tmdb.org/t/p/original/1UX1WZ9NkjNDHdKCRRY5xEV8KM1.jpg</photo>
+      <role>Haleth</role>
+      <name>Calum Gittins</name>
+    </item>
+    <item index="22">
+      <photo>http://image.tmdb.org/t/p/original/i2x70Kj5Qi38PHB80LJSMjgRr6n.jpg</photo>
+      <role>Madril</role>
+      <name>John Bach</name>
+    </item>
+    <item index="23">
+      <photo>http://image.tmdb.org/t/p/original/bLgZDGGgDKK3NQz1Cpvc0toWFNf.jpg</photo>
+      <role>Mauhúr</role>
+      <name>Robbie Magasiva</name>
+    </item>
+    <item index="24">
+      <photo>http://image.tmdb.org/t/p/original/2uA4eYHrV1zwlbJBz0KCEaRDOTk.jpg</photo>
+      <role>Morwen</role>
+      <name>Robyn Malcolm</name>
+    </item>
+    <item index="25">
+      <photo>http://image.tmdb.org/t/p/original/a7rhiHmmQwcTSsgxuYfXrT0sPmN.jpg</photo>
+      <role>Bereg</role>
+      <name>Raymond Trickitt</name>
+    </item>
+    <item index="26">
+      <photo>http://image.tmdb.org/t/p/original/g5sLvAz07eZgJ5A6vg5d4totVXz.jpg</photo>
+      <role>Grishnakh</role>
+      <name>Stephen Ure</name>
+    </item>
+    <item index="27">
+      <photo>http://image.tmdb.org/t/p/original/j1w45OYSdNpA9LVd8kDbWRhwXSM.jpg</photo>
+      <role>Ugluk</role>
+      <name>Nathaniel Lees</name>
+    </item>
+    <item index="28">
+      <photo>http://image.tmdb.org/t/p/original/rWwVJhL9IWqB4vs7zbxq6yvDGlx.jpg</photo>
+      <role>Eothain</role>
+      <name>Sam Comery</name>
+    </item>
+    <item index="29">
+      <photo>http://image.tmdb.org/t/p/original/955WH5iVgNtsJBfqC5kjgvJhgaS.jpg</photo>
+      <role>Gamling</role>
+      <name>Bruce Hopkins</name>
+    </item>
+    <item index="30">
+      <photo>http://image.tmdb.org/t/p/original/f5VOhMkD91kjxJ7DsGlDjev3ayC.jpg</photo>
+      <role>Háma</role>
+      <name>John Leigh</name>
+    </item>
+    <item index="31">
+      <photo>http://image.tmdb.org/t/p/original/cO6LUWV5gdDnnhFnHTK5d8WOOj6.jpg</photo>
+      <role>Sauron / Lugdush</role>
+      <name>Sala Baker</name>
+    </item>
+    <item index="32">
+      <photo>http://image.tmdb.org/t/p/original/v4mSTKKk5imJI7H2nzWh5vJdDDZ.jpg</photo>
+      <role>Aldor</role>
+      <name>Bruce Allpress</name>
+    </item>
+    <item index="33">
+      <photo/>
+      <role>Théodred</role>
+      <name>Paris Howe Strewe</name>
+    </item>
+    <item index="34">
+      <photo>http://image.tmdb.org/t/p/original/j1sSic5sR5gYu92PuIt8fbBE3Dc.jpg</photo>
+      <role>Rohan Soldier</role>
+      <name>Bruce Phillips</name>
+    </item>
+    <item index="35">
+      <photo/>
+      <role>Mordor Orc</role>
+      <name>Robert Pollock</name>
+    </item>
+    <item index="36">
+      <photo/>
+      <role>Hero Orc</role>
+      <name>Victoria Beynon-Cole</name>
+    </item>
+    <item index="37">
+      <photo/>
+      <role>Hero Orc</role>
+      <name>Lee Hartley</name>
+    </item>
+    <item index="38">
+      <photo>http://image.tmdb.org/t/p/original/1UnR97h6azWmNHhnLXXv9zZtGjI.jpg</photo>
+      <role>Hero Orc</role>
+      <name>Phil Grieve</name>
+    </item>
+    <item index="39">
+      <photo/>
+      <role>Rohan Refugee Child</role>
+      <name>Billy Jackson</name>
+    </item>
+    <item index="40">
+      <photo/>
+      <role>Rohan Refugee Child</role>
+      <name>Katie Jackson</name>
+    </item>
+    <item index="41">
+      <photo>http://image.tmdb.org/t/p/original/iIxP2IzvcLgr5WaTBD4UfSqaV3q.jpg</photo>
+      <role>Boromir (extended edition)</role>
+      <name>Sean Bean</name>
+    </item>
+    <item index="42">
+      <photo>http://image.tmdb.org/t/p/original/4A2mSS9Bea5I2bNur8ZlQZXu0H9.jpg</photo>
+      <role>Denethor (extended edition)</role>
+      <name>John Noble</name>
+    </item>
+    <item index="43">
+      <photo/>
+      <role>Freca (extended edition)</role>
+      <name>Timothy Lee</name>
+    </item>
+    <item index="44">
+      <photo>http://image.tmdb.org/t/p/original/2UBT4DHTDWPs4ALpRsue67i3aF0.jpg</photo>
+      <role>Damrod (uncredited)</role>
+      <name>Alistair Browning</name>
+    </item>
+    <item index="45">
+      <photo/>
+      <role>Witch-king of Angmar (uncredited)</role>
+      <name>Brent McIntyre</name>
+    </item>
+    <item index="46">
+      <photo>http://image.tmdb.org/t/p/original/egw67SWhtelrUQkNKVEFNujjQDZ.jpg</photo>
+      <role>Anendel / Thandronen (uncredited)</role>
+      <name>Ben Fransham</name>
+    </item>
+    <item index="47">
+      <photo/>
+      <role>Anglor (uncredited)</role>
+      <name>Kester Fordham</name>
+    </item>
+    <item index="48">
+      <photo/>
+      <role>Erethón (uncredited)</role>
+      <name>Alexander Lindsay</name>
+    </item>
+    <item index="49">
+      <photo/>
+      <role>Lhunurion (uncredited)</role>
+      <name>Gareth Jensen</name>
+    </item>
+    <item index="50">
+      <photo/>
+      <role>Thingalad (uncredited)</role>
+      <name>Jason Secto</name>
+    </item>
+    <item index="51">
+      <photo/>
+      <role>Orolonn (uncredited)</role>
+      <name>Jørn Benzon</name>
+    </item>
+    <item index="52">
+      <photo/>
+      <role>Balglin (uncredited)</role>
+      <name>Andy Gunn</name>
+    </item>
+    <item index="53">
+      <photo/>
+      <role>Fereveldir (uncredited)</role>
+      <name>Ben Britton</name>
+    </item>
+    <item index="54">
+      <photo>http://image.tmdb.org/t/p/original/ojzCZyCln9P6U4Gn1GIaIgWF5fh.jpg</photo>
+      <role>Rohan Recruit (uncredited)</role>
+      <name>Dan Hennah</name>
+    </item>
+    <item index="55">
+      <photo>http://image.tmdb.org/t/p/original/jwIR5GIRLCIZLTNqLofMYPimXeO.jpg</photo>
+      <role>Rohan Recruit Child (uncredited)</role>
+      <name>Alan Lee</name>
+    </item>
+    <item index="56">
+      <photo/>
+      <role>Rohan Recruit (uncredited)</role>
+      <name>Henry Mortensen</name>
+    </item>
+    <item index="57">
+      <photo/>
+      <role>Rohan Refugee (uncredited)</role>
+      <name>Alix Bushnell</name>
+    </item>
+    <item index="58">
+      <photo/>
+      <role>Rohan Refugee (uncredited)</role>
+      <name>Kelley Kerr Young</name>
+    </item>
+    <item index="59">
+      <photo/>
+      <role>Rohan Refugee (uncredited)</role>
+      <name>Frank Goldingham</name>
+    </item>
+    <item index="60">
+      <photo/>
+      <role>Rohan Refugee (uncredited)</role>
+      <name>Cameron Lemon</name>
+    </item>
+    <item index="61">
+      <photo/>
+      <role>Rohan Refugee Elf (uncredited)</role>
+      <name>Samuel E. Shore</name>
+    </item>
+    <item index="62">
+      <photo/>
+      <role>Rohan Refugee Child (uncredited)</role>
+      <name>Riley Brophy</name>
+    </item>
+    <item index="63">
+      <photo>http://image.tmdb.org/t/p/original/kSrfI3TbMdIMmPVOflLQ56OfscB.jpg</photo>
+      <role>Rohan Soldier (uncredited)</role>
+      <name>Peter Jackson</name>
+    </item>
+    <item index="64">
+      <photo>http://image.tmdb.org/t/p/original/xWtXYk6M5NFroddcQDviLlxOnkU.jpg</photo>
+      <role>Rohan Soldier (uncredited)</role>
+      <name>Barrie M. Osborne</name>
+    </item>
+    <item index="65">
+      <photo/>
+      <role>Rohan Soldier (uncredited)</role>
+      <name>Greg Tozer</name>
+    </item>
+    <item index="66">
+      <photo/>
+      <role>Rohan Woman (uncredited)</role>
+      <name>Dorothy Anne Bonner</name>
+    </item>
+    <item index="67">
+      <photo/>
+      <role>Rohan Woman (uncredited)</role>
+      <name>Hannah Wood</name>
+    </item>
+    <item index="68">
+      <photo/>
+      <role>Rohan Woman (uncredited)</role>
+      <name>Dianne Smith</name>
+    </item>
+    <item index="69">
+      <photo>http://image.tmdb.org/t/p/original/qXSDkIsO8K4mTxhXbRtLbZvvZom.jpg</photo>
+      <role>Uruk-hai / Gondorian Soldier (uncredited)</role>
+      <name>Joseph Mika-Hunt</name>
+    </item>
+    <item index="70">
+      <photo/>
+      <role>Uruk-hai (uncredited)</role>
+      <name>Piripi Waretini</name>
+    </item>
+    <item index="71">
+      <photo/>
+      <role>Elf Warrior / Uruk-hai (uncredited)</role>
+      <name>Sam Kelly</name>
+    </item>
+    <item index="72">
+      <photo/>
+      <role>Elf Warrior / Rohan Stable Boy (uncredited)</role>
+      <name>Jarl Benzon</name>
+    </item>
+    <item index="73">
+      <photo/>
+      <role>Elf Warrior / Rivendell Elf (uncredited)</role>
+      <name>Daniel Falconer</name>
+    </item>
+    <item index="74">
+      <photo/>
+      <role>Elf Warrior (uncredited)</role>
+      <name>Sandro Kopp</name>
+    </item>
+    <item index="75">
+      <photo/>
+      <role>Elf Warrior (uncredited)</role>
+      <name>Alexia Fairbrother</name>
+    </item>
+    <item index="76">
+      <photo>http://image.tmdb.org/t/p/original/jz4lXANo1Sql2Hbkcxqn4WU93rb.jpg</photo>
+      <role>Dead Marshes Elf (uncredited)</role>
+      <name>Allan Smith</name>
+    </item>
+    <item index="77">
+      <photo>http://image.tmdb.org/t/p/original/jz7ikzOk2nFm2mLsdYcybXfg3JH.jpg</photo>
+      <role>Easterling Warrior (uncredited)</role>
+      <name>Karlos Drinkwater</name>
+    </item>
+    <item index="78">
+      <photo/>
+      <role>Easterling (uncredited)</role>
+      <name>Paul Norell</name>
+    </item>
+  </roles>
+  <similar>
+    <item index="0">The Lord of the Rings: The Return of the King</item>
+    <item index="1">The Lord of the Rings: The Fellowship of the Ring</item>
+    <item index="2">The Empire Strikes Back</item>
+    <item index="3">Star Wars</item>
+    <item index="4">The Hobbit: The Desolation of Smaug</item>
+    <item index="5">The Hobbit: An Unexpected Journey</item>
+    <item index="6">Return of the Jedi</item>
+    <item index="7">Pirates of the Caribbean: The Curse of the Black Pearl</item>
+    <item index="8">Gladiator</item>
+    <item index="9">Pirates of the Caribbean: Dead Man's Chest</item>
+    <item index="10">The Matrix Reloaded</item>
+    <item index="11">Raiders of the Lost Ark</item>
+    <item index="12">Batman Begins</item>
+    <item index="13">X-Men</item>
+    <item index="14">Pirates of the Caribbean: At World's End</item>
+    <item index="15">Star Wars: Episode III - Revenge of the Sith</item>
+    <item index="16">Terminator 2: Judgment Day</item>
+    <item index="17">Star Wars: Episode II - Attack of the Clones</item>
+    <item index="18">Indiana Jones and the Last Crusade</item>
+    <item index="19">Die Hard</item>
+  </similar>
+  <studio>WingNut Films</studio>
+  <summary>Frodo and Sam are trekking to Mordor to destroy the One Ring of Power while Gimli, Legolas and Aragorn search for the orc-captured Merry and Pippin. All along, nefarious wizard Saruman awaits the Fellowship members at the Orthanc Tower in Isengard.</summary>
+  <tagline>A New Power Is Rising.</tagline>
+  <tags/>
+  <themes/>
+  <title>The Lord of the Rings: The Two Towers</title>
+  <writers>
+    <item index="0">
+      <photo>http://image.tmdb.org/t/p/original/kSrfI3TbMdIMmPVOflLQ56OfscB.jpg</photo>
+      <role/>
+      <name>Peter Jackson</name>
+    </item>
+    <item index="1">
+      <photo>http://image.tmdb.org/t/p/original/roXPta5fAmGzqdOIvUQbDavZy8Y.jpg</photo>
+      <role/>
+      <name>Fran Walsh</name>
+    </item>
+    <item index="2">
+      <photo>http://image.tmdb.org/t/p/original/keVPZy02zLh2BEUPkZivJrh6o6U.jpg</photo>
+      <role/>
+      <name>Philippa Boyens</name>
+    </item>
+  </writers>
+  <year>2002</year>
+</Movie>

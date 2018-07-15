@@ -1,0 +1,930 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Movie>
+  <art>
+    <item external="True" url="http://image.tmdb.org/t/p/original/hbn46fQaRmlpBuUrEiFqv0GDL6Y.jpg" sort_order="1" provider="com.plexapp.agents.imdb" media="com.plexapp.agents.imdb_f763683595e7cad241d3a31954f14db5fb054536"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/cpsh9KJPk1r9k9twwcARu4mnTKR.jpg" preview="com.plexapp.agents.imdb_52a914011e37e44cc8ffc3febb082706710f890c" sort_order="2" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/eYam9rPitRc4nuA66cV3NnzdJZ6.jpg" preview="com.plexapp.agents.imdb_47101ae8ade7271263232146c2d5ce9041bb8251" sort_order="3" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/wrIaKoy8aadVv0Y0oLnO7I0cqVL.jpg" preview="com.plexapp.agents.imdb_7f2dfa6665833f55393a97e95f40b9ff2c8d58c1" sort_order="4" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/l8XO9d6PHHQVBQsUUhxw6Qvu0Hd.jpg" preview="com.plexapp.agents.imdb_ea83a7b0e4c34c194303166a5fb173d32ef2000f" sort_order="5" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/ffhu8W5DEfxYu2z7ZfIn36L6C4x.jpg" preview="com.plexapp.agents.imdb_2b2414e5e8e7bc8971725ac4bf1bcf6450a5af16" sort_order="6" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/rFu09xntHwBI3M1qRii5roYPFSj.jpg" preview="com.plexapp.agents.imdb_9c91cc81e93e9b93f7478e318e7a91a4a21a721c" sort_order="7" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/sESRB3O94GHSrin7lOCD8Asc4bN.jpg" preview="com.plexapp.agents.imdb_7ccb5bab0b44cdc919ced22ad66176858ba12451" sort_order="8" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/b6zYV69JleLL19gl2U49FmvD5eb.jpg" preview="com.plexapp.agents.imdb_48fdb711e45935aa0c1db656f3079e0b2437d23b" sort_order="9" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/qOzdBkf3UkHttlcCmy69ZKQKHmQ.jpg" preview="com.plexapp.agents.imdb_7662b72a07a8b5433643fd0678c8769e9f7a0e07" sort_order="10" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/n2uACiqtc39hD5Nc7kzcQ371PwA.jpg" preview="com.plexapp.agents.imdb_6c5ca76b1696a444927182dd9929f8dd799236a2" sort_order="11" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/n3w3rL2QKOiAmXxBfylniguoXrO.jpg" preview="com.plexapp.agents.imdb_2226f47e4c06babaf937e200e56a60b80a715d72" sort_order="12" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/ktCmXrccBdB49ukGY2EqmPu8TdS.jpg" preview="com.plexapp.agents.imdb_f74855e89f3c2a7c6766db3665492cf94e99e26c" sort_order="13" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/qpi0lC5kHUPDZyoUXYbLKqGdhne.jpg" preview="com.plexapp.agents.imdb_d3a450e9d15ed23669c957fe7c14f0617ec6d578" sort_order="14" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/1qX6CciZWsVR5L7ftQc0RBKqvZl.jpg" preview="com.plexapp.agents.imdb_cbc8c32c31cb46f117e44ee38f9251231daa2f1a" sort_order="15" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/33LCMqMl4ebNn7dRFuhzgER7uIp.jpg" preview="com.plexapp.agents.imdb_a0def12b9b9d4c37021590061b5e03fbfb1d53e0" sort_order="16" provider="com.plexapp.agents.imdb"/>
+  </art>
+  <banners/>
+  <chapters>
+    <item index="0">
+      <title>Loki's Arrival</title>
+      <end_time_offset>0</end_time_offset>
+      <start_time_offset>0</start_time_offset>
+    </item>
+    <item index="1">
+      <title>Tesseract Lost</title>
+      <end_time_offset>1000</end_time_offset>
+      <start_time_offset>0</start_time_offset>
+    </item>
+    <item index="2">
+      <title>Natasha's Interrogation</title>
+      <end_time_offset>2000</end_time_offset>
+      <start_time_offset>1000</start_time_offset>
+    </item>
+    <item index="3">
+      <title>The Big Guy</title>
+      <end_time_offset>3000</end_time_offset>
+      <start_time_offset>2000</start_time_offset>
+    </item>
+    <item index="4">
+      <title>Man Out of Time</title>
+      <end_time_offset>4000</end_time_offset>
+      <start_time_offset>3000</start_time_offset>
+    </item>
+    <item index="5">
+      <title>Tony &amp; Pepper</title>
+      <end_time_offset>4000</end_time_offset>
+      <start_time_offset>4000</start_time_offset>
+    </item>
+    <item index="6">
+      <title>Loki's Bargain</title>
+      <end_time_offset>5000</end_time_offset>
+      <start_time_offset>4000</start_time_offset>
+    </item>
+    <item index="7">
+      <title>Stuttgart Confrontation</title>
+      <end_time_offset>6000</end_time_offset>
+      <start_time_offset>5000</start_time_offset>
+    </item>
+    <item index="8">
+      <title>Mountaintop Battle</title>
+      <end_time_offset>7000</end_time_offset>
+      <start_time_offset>6000</start_time_offset>
+    </item>
+    <item index="9">
+      <title>What's His Play?</title>
+      <end_time_offset>8000</end_time_offset>
+      <start_time_offset>7000</start_time_offset>
+    </item>
+    <item index="10">
+      <title>Tension Rise</title>
+      <end_time_offset>9000</end_time_offset>
+      <start_time_offset>8000</start_time_offset>
+    </item>
+    <item index="11">
+      <title>Carrier Battle</title>
+      <end_time_offset>11000</end_time_offset>
+      <start_time_offset>9000</start_time_offset>
+    </item>
+    <item index="12">
+      <title>Man Down</title>
+      <end_time_offset>12000</end_time_offset>
+      <start_time_offset>11000</start_time_offset>
+    </item>
+    <item index="13">
+      <title>The Invasion Begins</title>
+      <end_time_offset>13000</end_time_offset>
+      <start_time_offset>12000</start_time_offset>
+    </item>
+    <item index="14">
+      <title>The War</title>
+      <end_time_offset>14000</end_time_offset>
+      <start_time_offset>13000</start_time_offset>
+    </item>
+    <item index="15">
+      <title>Avengers Assembled</title>
+      <end_time_offset>14000</end_time_offset>
+      <start_time_offset>14000</start_time_offset>
+    </item>
+    <item index="16">
+      <title>Hope is Lost</title>
+      <end_time_offset>15000</end_time_offset>
+      <start_time_offset>14000</start_time_offset>
+    </item>
+    <item index="17">
+      <title>The Sacrifice Play</title>
+      <end_time_offset>16000</end_time_offset>
+      <start_time_offset>15000</start_time_offset>
+    </item>
+    <item index="18">
+      <title>A Promise</title>
+      <end_time_offset>16000</end_time_offset>
+      <start_time_offset>16000</start_time_offset>
+    </item>
+    <item index="19">
+      <title>End Credits</title>
+      <end_time_offset>18000</end_time_offset>
+      <start_time_offset>16000</start_time_offset>
+    </item>
+    <item index="20">
+      <title>Chapter 21</title>
+      <end_time_offset>-1</end_time_offset>
+      <start_time_offset>18000</start_time_offset>
+    </item>
+  </chapters>
+  <collections/>
+  <content_rating>PG-13</content_rating>
+  <countries>
+    <item index="0">USA</item>
+  </countries>
+  <directors>
+    <item index="0">
+      <photo>http://image.tmdb.org/t/p/original/dTiVsuaTVTeGmvkhcyJvKp2A5kr.jpg</photo>
+      <role/>
+      <name>Joss Whedon</name>
+    </item>
+  </directors>
+  <duration>8580000</duration>
+  <genres>
+    <item index="0">Action</item>
+    <item index="1">Adventure</item>
+    <item index="2">Sci-Fi</item>
+  </genres>
+  <originally_available_at>2012-04-25</originally_available_at>
+  <posters>
+    <item external="True" url="http://image.tmdb.org/t/p/original/cezWGskPY5x7GaglTTRN4Fugfb8.jpg" sort_order="1" provider="com.plexapp.agents.imdb" media="com.plexapp.agents.imdb_faf9db70572b5cab1a6b3fb7108c1944f4296ef2"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/mhc5CvIZBN08cytjaZMbncw4v5u.jpg" preview="com.plexapp.agents.imdb_2abcbb6ccb7b1f21479880154d82f640cc033770" sort_order="2" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/n3G6dLQPDDdKvUKWMlCI7LRH9TQ.jpg" preview="com.plexapp.agents.imdb_b4117be8a560aa0adb7090d405aafa36ce876b64" sort_order="3" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/qyNX4w5T5HpMHvYPRih7jTnD5Fj.jpg" preview="com.plexapp.agents.imdb_53a0b7c224054bbf928372e765d5a859eb8938d1" sort_order="4" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/xChzh3LcyhI5mpmy7LPTTP4Bzzh.jpg" preview="com.plexapp.agents.imdb_52984000e7d0e42cccd0ac73ac9491cd74a16041" sort_order="5" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/iOx8VkykmmYdmBuYZvcBJ9s1ycY.jpg" preview="com.plexapp.agents.imdb_73a8582ce6194b38bde7bc1feae3720e9ea9b6e5" sort_order="6" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/iM9MfpQAUnYMAt1h0YAwteym4O7.jpg" preview="com.plexapp.agents.imdb_dd40a97a82b5cf2c7cf251a8ddf935e87592b183" sort_order="7" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/4jMXrB7WlRnUBzTyAlB4X8k7By2.jpg" preview="com.plexapp.agents.imdb_973630cc598ff89b86a5c830b58a4e73b0713dd9" sort_order="8" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/l45ip0DTkOKMA2BhcX6IhGF4a6Y.jpg" preview="com.plexapp.agents.imdb_62d32e1fb3c1a453da9713bc847c24a72727545c" sort_order="9" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/qlZmnsaVd6CydZYbuvIxWlkd0HF.jpg" preview="com.plexapp.agents.imdb_c33dee2dcf6328e3fd71206e193f47e3b21aab3f" sort_order="10" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/beLlGqd9mU1kj99QpMUbuGQNLa1.jpg" preview="com.plexapp.agents.imdb_ea1b4456c33eb20c35ee226a6d6030addc763965" sort_order="11" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/946BJhaLCO2CGpoakFvfsQXX2KO.jpg" preview="com.plexapp.agents.imdb_2de8e4b9a02d08da1665fd60fe0fefad9f1a6af9" sort_order="12" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/cnfndQJkDZhyGJbnODVTzKXmKeR.jpg" preview="com.plexapp.agents.imdb_f795e677ee20e3c1f8b41c536687f308c47fd988" sort_order="13" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/kK3gaPfROmTLAfrjmYzfqpifEbI.jpg" preview="com.plexapp.agents.imdb_12b4b0a67749367dc39a6ca858edb84d1679e5f2" sort_order="14" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/5DAKPA0Dx5hTjPX9lYK0wyyQPum.jpg" preview="com.plexapp.agents.imdb_0c83f18f42381268afee548caa7550c32ff1d8e0" sort_order="15" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/yeJPIhPfva7EdNTzbGmpRYdfVhh.jpg" preview="com.plexapp.agents.imdb_33b4ba6e920d79728a769ea9488def9100e1231e" sort_order="16" provider="com.plexapp.agents.imdb"/>
+  </posters>
+  <producers>
+    <item index="0">
+      <photo>http://image.tmdb.org/t/p/original/AewbqQQT0FbcE358rcbopZ3zgDV.jpg</photo>
+      <role/>
+      <name>Kevin Feige</name>
+    </item>
+  </producers>
+  <rating>9.2</rating>
+  <rating_image>rottentomatoes://image.rating.ripe</rating_image>
+  <audience_rating>9.1</audience_rating>
+  <audience_rating_image>rottentomatoes://image.rating.upright</audience_rating_image>
+  <reviews>
+    <item index="0">
+      <text>Never underestimate the entertainment value of the Hulk Smash.</text>
+      <source>CNN.com</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>http://www.cnn.com/2012/05/03/showbiz/movies/avengers-review-charity/index.html</link>
+      <author>Tom Charity</author>
+    </item>
+    <item index="1">
+      <text>If you are a Marvel fan, then The Avengers will feel like Christmas. Thanks to the merry doings of the director, Joss Whedon, all your favorite characters are here, as shiny and as tempting as presents under the tree.</text>
+      <source>New Yorker</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>http://www.newyorker.com/arts/critics/cinema/2012/05/14/120514crci_cinema_lane</link>
+      <author>Anthony Lane</author>
+    </item>
+    <item index="2">
+      <text>A movie that yells at you and geeks out in equal measures.</text>
+      <source>indieWire</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>http://www.indiewire.com/article/critics-notebook-does-the-avengers-belong-at-the-tribeca-film-festival</link>
+      <author>Eric Kohn</author>
+    </item>
+    <item index="3">
+      <text>Ultimately, it all comes back to Whedon: His clear vision for each character and how they might be profitably intermingled; his unexpected knack for action choreography; his funny, tender, immaculately constructed script.</text>
+      <source>The Atlantic</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>http://www.theatlantic.com/entertainment/archive/2012/05/the-astonishing-avengers/256719/</link>
+      <author>Christopher Orr</author>
+    </item>
+    <item index="4">
+      <text>A spectacle in the grandest sense of the word ...</text>
+      <source>Film.com</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>http://www.film.com/movies/review-the-avengers-smashes-everything-in-sight</link>
+      <author>Laremy Legel</author>
+    </item>
+    <item index="5">
+      <text>Whedon, a pop-genre magician best known for Buffy the Vampire Slayer, is a master of viewer manipulation - because he never gives up his own seat in the crowd.</text>
+      <source>San Francisco Chronicle</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>http://www.sfgate.com/cgi-bin/article.cgi?f=/c/a/2012/05/03/DD931OCCAG.DTL</link>
+      <author>Amy Biancolli</author>
+    </item>
+    <item index="6">
+      <text>The performances are so well-pitched in The Avengers, meshing with such vividness and ease, that it's tempting to overpraise the good but not great movie that surrounds them.</text>
+      <source>Washington Post</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>http://www.washingtonpost.com/gog/movies/marvels-the-avengers,1059548/critic-review.html#reviewNum1</link>
+      <author>Ann Hornaday</author>
+    </item>
+    <item index="7">
+      <text>The film is good enough to keep all the Marvel Comics crazed audiences out there deliriously happy while keeping the rest of us earthbound types in moderate thralldom.</text>
+      <source>Christian Science Monitor</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>http://www.csmonitor.com/The-Culture/Movies/2012/0503/The-Avengers-movie-review</link>
+      <author>Peter Rainer</author>
+    </item>
+    <item index="8">
+      <text>Its primary purpose is not to explore or subvert the superhero movie, but to lay the groundwork for more of them.</text>
+      <source>Slate</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>http://www.slate.com/articles/arts/movies/2012/05/the_avengers_directed_by_joss_whedon_reviewed_.html</link>
+      <author>Dana Stevens</author>
+    </item>
+    <item index="9">
+      <text>A slow start, a single star performance surrounded by indifferent acting and an onslaught of computer effects that range from seen-it-all-in-"Transformers" to a whole sky full of spectacular stuff in the midtown Manhattan climax.</text>
+      <source>Wall Street Journal</source>
+      <image>rottentomatoes://image.review.rotten</image>
+      <link>http://online.wsj.com/article/SB10001424052702303916904577378881752158826.html?mod=WSJ_hp_mostpop_read</link>
+      <author>Joe Morgenstern</author>
+    </item>
+    <item index="10">
+      <text>The banter has zip, the effects are fun, the climactic battle is decently spectacular, and if the 3-D is mostly expendable, there are a few scenes where it adds a nice kick.</text>
+      <source>NPR</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>http://www.npr.org/2012/05/03/151937768/the-avengers-superheroic-popcorn-fun-at-its-best?ft=1&amp;f=1045</link>
+      <author>Bob Mondello</author>
+    </item>
+    <item index="11">
+      <text>Whedon knows how to be self-aware without getting overly cute about it. He has fun highlighting each character's neurosis and knows which personalities clash to greatest effect.</text>
+      <source>Dallas Morning News</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>http://www.dallasnews.com/entertainment/movies/reviews/20120502-the-avengers-assembles-an-expensive-but-ultimately-quite-charming-marvel-mash-up-b.ece</link>
+      <author>Chris Vognar</author>
+    </item>
+    <item index="12">
+      <text>Every now and then, director Joss Whedon executes a quirky camera set-up to assert that the film was created by him and not a team of marketing executives.</text>
+      <source>Chicago Reader</source>
+      <image>rottentomatoes://image.review.rotten</image>
+      <link>http://www.chicagoreader.com/chicago/the-avengers/Film?oid=5817188</link>
+      <author>Ben Sachs</author>
+    </item>
+    <item index="13">
+      <text>This film is stylish, intelligent and, one hopes, influential on the next generation of superhero movies; it should leave a lasting legacy.</text>
+      <source>Minneapolis Star Tribune</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>http://www.startribune.com/entertainment/movies/149911855.html</link>
+      <author>Colin Covert</author>
+    </item>
+    <item index="14">
+      <text>Biff! Bam! Boring!</text>
+      <source>St. Louis Post-Dispatch</source>
+      <image>rottentomatoes://image.review.rotten</image>
+      <link>http://www.stltoday.com/entertainment/movies/reviews/superhero-roundup-the-avengers-is-too-familiar/article_81601df2-2ac3-5fc0-beb8-52337e4cf203.html</link>
+      <author>Joe Williams</author>
+    </item>
+    <item index="15">
+      <text>Audiences have been eagerly anticipating this first all-hero extravaganza for years. The wait was worth it.</text>
+      <source>USA Today</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>http://www.usatoday.com/life/movies/reviews/story/2012-05-03/marvel-the-avengers/54705328/1?csp=34life&amp;utm_source=feedburner&amp;utm_medium=feed&amp;utm_campaign=Feed%3A+UsatodaycomMovies-TopStories+%28Life+-+Movies+-+Top+Stories%29&amp;utm_content=Google+Reader</link>
+      <author>Claudia Puig</author>
+    </item>
+    <item index="16">
+      <text>The light, amusing bits cannot overcome the grinding, hectic emptiness, the bloated cynicism that is less a shortcoming of this particular film than a feature of the genre.</text>
+      <source>New York Times</source>
+      <image>rottentomatoes://image.review.rotten</image>
+      <link>http://www.nytimes.com/2012/05/04/movies/robert-downey-jr-in-the-avengers-directed-by-joss-whedon.html?_r=1&amp;smid=tw-nytimesmovies&amp;seid=auto</link>
+      <author>A.O. Scott</author>
+    </item>
+    <item index="17">
+      <text>A slickly packaged, effects-driven smashup.</text>
+      <source>Philadelphia Inquirer</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>http://www.philly.com/philly/entertainment/movies/20120503__ldquo_The_Avengers_rdquo__gang_opens_summer_movie_season.html</link>
+      <author>Steven Rea</author>
+    </item>
+    <item index="18">
+      <text>There's great entertainment in "The Avengers" - big bold, action-filled silliness with just enough human spirit to sell itself. This is a comic book movie done right.</text>
+      <source>Detroit News</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>http://www.detroitnews.com/article/20120503/ENT02/205030403/1034</link>
+      <author>Tom Long</author>
+    </item>
+  </reviews>
+  <roles>
+    <item index="0">
+      <photo>http://image.tmdb.org/t/p/original/1YjdSym1jTG7xjHSI0yGGWEsw5i.jpg</photo>
+      <role>Tony Stark / Iron Man</role>
+      <name>Robert Downey Jr.</name>
+    </item>
+    <item index="1">
+      <photo>http://image.tmdb.org/t/p/original/kRlx7PxXkom7Daj8Z2HmcbPQB1o.jpg</photo>
+      <role>Steve Rogers / Captain America</role>
+      <name>Chris Evans</name>
+    </item>
+    <item index="2">
+      <photo>http://image.tmdb.org/t/p/original/isQ747u0MU8U9gdsNlPngjABclH.jpg</photo>
+      <role>Bruce Banner / The Hulk</role>
+      <name>Mark Ruffalo</name>
+    </item>
+    <item index="3">
+      <photo>http://image.tmdb.org/t/p/original/lrhth7yK9p3vy6p7AabDUM1THKl.jpg</photo>
+      <role>Thor Odinson</role>
+      <name>Chris Hemsworth</name>
+    </item>
+    <item index="4">
+      <photo>http://image.tmdb.org/t/p/original/oqvusJfmH4zN2LgdCjmB2TxetOd.jpg</photo>
+      <role>Natasha Romanoff / Black Widow</role>
+      <name>Scarlett Johansson</name>
+    </item>
+    <item index="5">
+      <photo>http://image.tmdb.org/t/p/original/l6CxIOFCjF65298teEJd5mCnPDO.jpg</photo>
+      <role>Clint Barton / Hawkeye</role>
+      <name>Jeremy Renner</name>
+    </item>
+    <item index="6">
+      <photo>http://image.tmdb.org/t/p/original/qB1lHPFBPIzw6I7EvsciZ5wyUNS.jpg</photo>
+      <role>Loki</role>
+      <name>Tom Hiddleston</name>
+    </item>
+    <item index="7">
+      <photo>http://image.tmdb.org/t/p/original/AvCReLikjzYEf9XjTQxbv3JWgKT.jpg</photo>
+      <role>Nick Fury</role>
+      <name>Samuel L. Jackson</name>
+    </item>
+    <item index="8">
+      <photo>http://image.tmdb.org/t/p/original/t8CLS2Zcy7IjcZkE1vtxl40h9rh.jpg</photo>
+      <role>Agent Phil Coulson</role>
+      <name>Clark Gregg</name>
+    </item>
+    <item index="9">
+      <photo>http://image.tmdb.org/t/p/original/7TIENKNwDdKSuYqyTENKtCznkCG.jpg</photo>
+      <role>Agent Maria Hill</role>
+      <name>Cobie Smulders</name>
+    </item>
+    <item index="10">
+      <photo>http://image.tmdb.org/t/p/original/zSCU2agleLtJEvzj98jEesVhBxa.jpg</photo>
+      <role>Erik Selvig</role>
+      <name>Stellan Skarsgård</name>
+    </item>
+    <item index="11">
+      <photo>http://image.tmdb.org/t/p/original/8x3jpWD7DEvyMXO1FOjwNdd1UZT.jpg</photo>
+      <role>Virginia "Pepper" Potts</role>
+      <name>Gwyneth Paltrow</name>
+    </item>
+    <item index="12">
+      <photo>http://image.tmdb.org/t/p/original/4oakQGpzryNgjA2gGnAgxGzbH9m.jpg</photo>
+      <role>Agent Jasper Sitwell</role>
+      <name>Maximiliano Hernández</name>
+    </item>
+    <item index="13">
+      <photo>http://image.tmdb.org/t/p/original/1zmr8C7TCqsoCjDVKJycVp2wWyf.jpg</photo>
+      <role>J.A.R.V.I.S. (voice)</role>
+      <name>Paul Bettany</name>
+    </item>
+    <item index="14">
+      <photo>http://image.tmdb.org/t/p/original/hAcTJxSbSPHLfa59D8mnJOzxpmE.jpg</photo>
+      <role>The Other</role>
+      <name>Alexis Denisof</name>
+    </item>
+    <item index="15">
+      <photo>http://image.tmdb.org/t/p/original/3nNL6AvMAYq0BmHKM79RnRZVq3i.jpg</photo>
+      <role>World Security Council</role>
+      <name>Powers Boothe</name>
+    </item>
+    <item index="16">
+      <photo>http://image.tmdb.org/t/p/original/2AwYEHV0cXXo3vtjiuwHMEkqh6R.jpg</photo>
+      <role>World Security Council</role>
+      <name>Jenny Agutter</name>
+    </item>
+    <item index="17">
+      <photo>http://image.tmdb.org/t/p/original/efj5VJqc2tlZ15aesmMXit3oner.jpg</photo>
+      <role>World Security Council</role>
+      <name>Arthur Darbinyan</name>
+    </item>
+    <item index="18">
+      <photo>http://image.tmdb.org/t/p/original/7TeLJzqIoSUMAZJRkSLMp53wujn.jpg</photo>
+      <role>World Security Council</role>
+      <name>Donald Li</name>
+    </item>
+    <item index="19">
+      <photo>http://image.tmdb.org/t/p/original/nDSav6v9Z8dSJSXoooT2g0LjbCd.jpg</photo>
+      <role>Security Guard</role>
+      <name>Harry Dean Stanton</name>
+    </item>
+    <item index="20">
+      <photo>http://image.tmdb.org/t/p/original/sBzhVnGFIjpA9gL4okmLhafS4CJ.jpg</photo>
+      <role>Georgi Luchkov</role>
+      <name>Jerzy Skolimowski</name>
+    </item>
+    <item index="21">
+      <photo>http://image.tmdb.org/t/p/original/xatmqOREk6e051ZgaO4VSv4HCnr.jpg</photo>
+      <role>Police Officer</role>
+      <name>Enver Gjokaj</name>
+    </item>
+    <item index="22">
+      <photo>http://image.tmdb.org/t/p/original/9huEhMUi4x5I2RSaIjvoP5mbP67.jpg</photo>
+      <role>Shield Pilot</role>
+      <name>Walter Perez</name>
+    </item>
+    <item index="23">
+      <photo>http://image.tmdb.org/t/p/original/2zIDMXy9680S7ioPo9jpZUq5qG1.jpg</photo>
+      <role>Waitress</role>
+      <name>Ashley Johnson</name>
+    </item>
+    <item index="24">
+      <photo>http://image.tmdb.org/t/p/original/dTr2gJPL7jELKVkcjtoNx80uVKR.jpg</photo>
+      <role>Old Man in TV Report</role>
+      <name>Stan Lee</name>
+    </item>
+    <item index="25">
+      <photo>http://image.tmdb.org/t/p/original/vDBZd0xCIl8l1tDLDxPqAHSViFS.jpg</photo>
+      <role>Hulk (voice)</role>
+      <name>Lou Ferrigno</name>
+    </item>
+    <item index="26">
+      <photo>http://image.tmdb.org/t/p/original/zBoq4SAauhVmbHSyWZXYXvA36Ky.jpg</photo>
+      <role>Thanos</role>
+      <name>Damion Poitier</name>
+    </item>
+    <item index="27">
+      <photo>http://image.tmdb.org/t/p/original/d26uuvEXN4xIrGaLNOwbwNrX6Z8.jpg</photo>
+      <role>Carrier Bridge Techs</role>
+      <name>Alicia Sixtos</name>
+    </item>
+    <item index="28">
+      <photo>http://image.tmdb.org/t/p/original/yN8sg3spmSs651w0HZVdCdA9HSh.jpg</photo>
+      <role>Gala Scientist</role>
+      <name>Dieter Riesle</name>
+    </item>
+    <item index="29">
+      <photo>http://image.tmdb.org/t/p/original/clBmHn1I4WzawHYm5jGPfX44ysp.jpg</photo>
+      <role>Celebration Montage Interviewee</role>
+      <name>Jamie McShane</name>
+    </item>
+    <item index="30">
+      <photo>http://image.tmdb.org/t/p/original/iUALrUyPe6uq9kZQNHNf8cW5yKA.jpg</photo>
+      <role>Tall Thug</role>
+      <name>Jeff Wolfe</name>
+    </item>
+    <item index="31">
+      <photo>http://image.tmdb.org/t/p/original/4CUK6M7fGVK5Z1Qg65rMLDI6BdO.jpg</photo>
+      <role>Senator Boynton</role>
+      <name>James Eckhouse</name>
+    </item>
+    <item index="32">
+      <photo>http://image.tmdb.org/t/p/original/oG8RmZ2vzuIgl6t5lHEa1CW7DKf.jpg</photo>
+      <role>NASA Scientist</role>
+      <name>Tina Benko</name>
+    </item>
+    <item index="33">
+      <photo>http://image.tmdb.org/t/p/original/kdIxrna0QFYq3uuAKc1wxyE54A1.jpg</photo>
+      <role>Weaselly Thug</role>
+      <name>Kirill Nikiforov</name>
+    </item>
+    <item index="34">
+      <photo>http://image.tmdb.org/t/p/original/7CitC5nS31K7VBfN14iLO9KelNr.jpg</photo>
+      <role>Young Girl</role>
+      <name>M'laah Kaur Singh</name>
+    </item>
+    <item index="35">
+      <photo>http://image.tmdb.org/t/p/original/r5eG6WOSD8XklBjvB3fEg1kAdUI.jpg</photo>
+      <role>Calcutta Woman</role>
+      <name>Rashmi Rustagi</name>
+    </item>
+    <item index="36">
+      <photo>http://image.tmdb.org/t/p/original/eRtZcPd1zA6jHEBEUWgP4LpekVQ.jpg</photo>
+      <role>Carrier BridgeTechs</role>
+      <name>Warren Kole</name>
+    </item>
+    <item index="37">
+      <photo>http://image.tmdb.org/t/p/original/jsEZz7z1wI95277m7S9YM1dbVYb.jpg</photo>
+      <role>Carrier BridgeTechs</role>
+      <name>Jesse Garcia</name>
+    </item>
+    <item index="38">
+      <photo>http://image.tmdb.org/t/p/original/sSdACkgPQYBJVQnd8B6uWpQPjMY.jpg</photo>
+      <role>German Old Man</role>
+      <name>Kenneth Tigar</name>
+    </item>
+    <item index="39">
+      <photo>http://image.tmdb.org/t/p/original/mV5d7ZshhMMhiFcq5i02quGNxA4.jpg</photo>
+      <role>Maintenance Guy</role>
+      <name>Josh Cowdery</name>
+    </item>
+    <item index="40">
+      <photo>http://image.tmdb.org/t/p/original/vG6lpBiWONtCKVTNIurorXZB5CS.jpg</photo>
+      <role>Japanese Family</role>
+      <name>Katsumi Komatsu</name>
+    </item>
+    <item index="41">
+      <photo/>
+      <role>Japanese Family</role>
+      <name>Yumiko Komatsu</name>
+    </item>
+    <item index="42">
+      <photo/>
+      <role>Japanese Family</role>
+      <name>Momoko Komatsu</name>
+    </item>
+    <item index="43">
+      <photo>http://image.tmdb.org/t/p/original/mtXOGkDYBZhcbKaNbcSYfZJsUY7.jpg</photo>
+      <role>Police Sergeant</role>
+      <name>Robert Clohessy</name>
+    </item>
+    <item index="44">
+      <photo/>
+      <role>Office Woman</role>
+      <name>Fernanda Toker</name>
+    </item>
+    <item index="45">
+      <photo>http://image.tmdb.org/t/p/original/6V6AdojcJetB5K6lqLxshVmaXr0.jpg</photo>
+      <role>News Reporter</role>
+      <name>Andrea Vecchio</name>
+    </item>
+    <item index="46">
+      <photo>http://image.tmdb.org/t/p/original/3dhqgeTLsBMMlZRgdOd4PMGoKdF.jpg</photo>
+      <role>News Reporter</role>
+      <name>Robin Swoboda</name>
+    </item>
+    <item index="47">
+      <photo>http://image.tmdb.org/t/p/original/jwObq47Z45cr3cMTlZLD1DRM8Bj.jpg</photo>
+      <role>Faceless Pilot</role>
+      <name>Brent McGee</name>
+    </item>
+    <item index="48">
+      <photo>http://image.tmdb.org/t/p/original/tEk1mW7V4weBnXWwkpSTy3RR5MM.jpg</photo>
+      <role>Celebration Montage Interviewee</role>
+      <name>Michael Zhang</name>
+    </item>
+    <item index="49">
+      <photo>http://image.tmdb.org/t/p/original/wNFPBwd9pL7y8x0hcOIhoWQ0Ax2.jpg</photo>
+      <role>Celebration Montage Interviewee</role>
+      <name>William-Christopher Stephens</name>
+    </item>
+    <item index="50">
+      <photo>http://image.tmdb.org/t/p/original/mnQcQXy2I8cstEPu1fXl7eycC7n.jpg</photo>
+      <role>Celebration Montage Interviewee</role>
+      <name>Kelley Robins</name>
+    </item>
+    <item index="51">
+      <photo>http://image.tmdb.org/t/p/original/dzhrqpUa7W6lVjuigj0G28WrHQz.jpg</photo>
+      <role>Shawna Lynde</role>
+      <name>Romy Rosemont</name>
+    </item>
+    <item index="52">
+      <photo>http://image.tmdb.org/t/p/original/vgUYqODOvMlsM7lgyeNDCGboH4v.jpg</photo>
+      <role>Himself</role>
+      <name>Pat Kiernan</name>
+    </item>
+    <item index="53">
+      <photo>http://image.tmdb.org/t/p/original/7QgyGz2YHPVtR6zIyJB52KieZ4C.jpg</photo>
+      <role>Himself</role>
+      <name>Thomas Roberts</name>
+    </item>
+    <item index="54">
+      <photo>http://image.tmdb.org/t/p/original/lxnn0PCMaDhBABueZYoV0JBlzMg.jpg</photo>
+      <role>Woman in Restaurant (uncredited)</role>
+      <name>Jillian Morgese</name>
+    </item>
+    <item index="55">
+      <photo>http://image.tmdb.org/t/p/original/5T3Kiad1dRPr8lhaZia7oZuFOff.jpg</photo>
+      <role>German Pedestrian (uncredited)</role>
+      <name>Catherine Anderson</name>
+    </item>
+    <item index="56">
+      <photo>http://image.tmdb.org/t/p/original/v1pAvp8kLNImLKrDCOORo0WQ8Qu.jpg</photo>
+      <role>Lentil Merchant (uncredited)</role>
+      <name>Ricardo Andres</name>
+    </item>
+    <item index="57">
+      <photo>http://image.tmdb.org/t/p/original/dxSYLhA3ftWk4TDxkocdol4k5iY.jpg</photo>
+      <role>S.H.I.E.L.D. Agent (uncredited)</role>
+      <name>Logan Bennett</name>
+    </item>
+    <item index="58">
+      <photo>http://image.tmdb.org/t/p/original/caE4ZU2W5eKlitJv5EvnxhGhpE6.jpg</photo>
+      <role>Celebration Montage Man Shaving Beard (uncredited)</role>
+      <name>Mayank Bhatter</name>
+    </item>
+    <item index="59">
+      <photo>http://image.tmdb.org/t/p/original/2hBhG9hKH9ERYfZtjGE2mPoqR7K.jpg</photo>
+      <role>Gala Guest (uncredited)</role>
+      <name>Sharita Bone</name>
+    </item>
+    <item index="60">
+      <photo>http://image.tmdb.org/t/p/original/jHs3kU44uPcqVEQz7ely2jsKf0X.jpg</photo>
+      <role>Museum Gala Patron (uncredited)</role>
+      <name>Jason Botsford</name>
+    </item>
+    <item index="61">
+      <photo/>
+      <role>Stuttgart Biergarten patron (uncredited)</role>
+      <name>Mary Kate Campbell</name>
+    </item>
+    <item index="62">
+      <photo>http://image.tmdb.org/t/p/original/7GAGzDZGnf1PPJCLfeISI0y1jx3.jpg</photo>
+      <role>S.H.I.E.L.D. Guard (uncredited)</role>
+      <name>Gene N. Chavez</name>
+    </item>
+    <item index="63">
+      <photo>http://image.tmdb.org/t/p/original/2IsPTL5RPkWNWaRIk1i4so1QdWH.jpg</photo>
+      <role>Gala Guest (uncredited)</role>
+      <name>Layla Cushman</name>
+    </item>
+    <item index="64">
+      <photo>http://image.tmdb.org/t/p/original/ssjFH4Zv1PlcNegdKi5FqdJRLFx.jpg</photo>
+      <role>Soldier (uncredited)</role>
+      <name>Robert Dean</name>
+    </item>
+    <item index="65">
+      <photo/>
+      <role>Museum Gala Guest (uncredited)</role>
+      <name>Rick Dremann</name>
+    </item>
+    <item index="66">
+      <photo>http://image.tmdb.org/t/p/original/wmB9ACcKoL0pZd2usmphYeB4PUL.jpg</photo>
+      <role>Captain Putz (uncredited)</role>
+      <name>Jeffrey Feingold</name>
+    </item>
+    <item index="67">
+      <photo>http://image.tmdb.org/t/p/original/mZkudGiL7abjSosmJnPTEvWmOZw.jpg</photo>
+      <role>Pedestrian (uncredited)</role>
+      <name>Rod Fielder</name>
+    </item>
+    <item index="68">
+      <photo/>
+      <role>Stuttgart Citizen (uncredited)</role>
+      <name>Eric Frank</name>
+    </item>
+    <item index="69">
+      <photo>http://image.tmdb.org/t/p/original/uVEsA9tjCeJ8uC4QdfXiwJpG7Y9.jpg</photo>
+      <role>S.H.I.E.L.D. Agent (uncredited)</role>
+      <name>Israel Hall</name>
+    </item>
+    <item index="70">
+      <photo/>
+      <role>Museum Gala Patron (uncredited)</role>
+      <name>Carmen Dee Harris</name>
+    </item>
+    <item index="71">
+      <photo>http://image.tmdb.org/t/p/original/vEMQgLVlWqehkLvHdR0iVtJDvTD.jpg</photo>
+      <role>Mercenary (uncredited)</role>
+      <name>Alexander Christopher Jones</name>
+    </item>
+    <item index="72">
+      <photo>http://image.tmdb.org/t/p/original/3uIuKvTqJ98qjTILMNCsGihHC3G.jpg</photo>
+      <role>Pedestrian (uncredited)</role>
+      <name>Mike Karban</name>
+    </item>
+    <item index="73">
+      <photo>http://image.tmdb.org/t/p/original/jkSyyUqqC7nGJiNsMJTTmDlhlci.jpg</photo>
+      <role>S.H.I.E.L.D. Agent (uncredited)</role>
+      <name>Demoine Kinney</name>
+    </item>
+    <item index="74">
+      <photo>http://image.tmdb.org/t/p/original/wdgA9J6iVIbfWx7MKqyOyGwmQKV.jpg</photo>
+      <role>Stuttgart Citizen (uncredited)</role>
+      <name>Andrew Knode</name>
+    </item>
+    <item index="75">
+      <photo>http://image.tmdb.org/t/p/original/ihT349vQl4DcibfCgnSdLQIsY7A.jpg</photo>
+      <role>Hostage (uncredited)</role>
+      <name>Annette Lawless</name>
+    </item>
+    <item index="76">
+      <photo>http://image.tmdb.org/t/p/original/3w46G0ICDdU2UKQbohO9MbJhHpi.jpg</photo>
+      <role>Limo Driver (uncredited)</role>
+      <name>Kimberly J. Mahoney</name>
+    </item>
+    <item index="77">
+      <photo>http://image.tmdb.org/t/p/original/jvZhB6HSFLxNTpskEVvqzTxYf9P.jpg</photo>
+      <role>Helicarrier Medical Team Leader (uncredited)</role>
+      <name>Todd Manes</name>
+    </item>
+    <item index="78">
+      <photo>http://image.tmdb.org/t/p/original/kYh48kZ4wGGysoexHTMXPhaZv1N.jpg</photo>
+      <role>Stuttgart Driver (uncredited)</role>
+      <name>Jorge Mardel</name>
+    </item>
+    <item index="79">
+      <photo>http://image.tmdb.org/t/p/original/2Gvt77UAINub19VwqF1dxpCEqaR.jpg</photo>
+      <role>Civilian (uncredited)</role>
+      <name>Tiffany Sander McKenzie</name>
+    </item>
+    <item index="80">
+      <photo>http://image.tmdb.org/t/p/original/l2N2j9MZztSdEUN4MiEADCELArB.jpg</photo>
+      <role>Cafe Patron (uncredited)</role>
+      <name>Michael McMillan</name>
+    </item>
+    <item index="81">
+      <photo>http://image.tmdb.org/t/p/original/lHtDjo9qxqbYJJkqw691yNUCzSV.jpg</photo>
+      <role>Guard (uncredited)</role>
+      <name>Sean Meehan</name>
+    </item>
+    <item index="82">
+      <photo>http://image.tmdb.org/t/p/original/rAuG4k7HXzDyQx4g0XoOlEMHZC9.jpg</photo>
+      <role>Waitress (uncredited)</role>
+      <name>Joti Nagra</name>
+    </item>
+    <item index="83">
+      <photo>http://image.tmdb.org/t/p/original/7FBv7asTCZ2fCKL33KPfZxHSj9B.jpg</photo>
+      <role>Gala Museum Patron (uncredited)</role>
+      <name>Holly Neelie</name>
+    </item>
+    <item index="84">
+      <photo>http://image.tmdb.org/t/p/original/q3sirYG0Zbfp9JuRVGfrCv19gtW.jpg</photo>
+      <role>Extra (uncredited)</role>
+      <name>Caleb Daniel Noal</name>
+    </item>
+    <item index="85">
+      <photo/>
+      <role>New York City Pedestrian (uncredited)</role>
+      <name>Joseph O'Brien</name>
+    </item>
+    <item index="86">
+      <photo>http://image.tmdb.org/t/p/original/4fwIUcP1lkC2CSewdefglieIDPL.jpg</photo>
+      <role>S.H.I.E.L.D. Agent (uncredited)</role>
+      <name>Jeremy Orr</name>
+    </item>
+    <item index="87">
+      <photo/>
+      <role>New York Pedestrian (uncredited)</role>
+      <name>Nate Paige</name>
+    </item>
+    <item index="88">
+      <photo>http://image.tmdb.org/t/p/original/nHNZ9uJ02o1ID1Yr5IyRwwcVD73.jpg</photo>
+      <role>Shiel Employee (uncredited)</role>
+      <name>Martin Palmer</name>
+    </item>
+    <item index="89">
+      <photo>http://image.tmdb.org/t/p/original/gf4Hl7iCPEPsfNL7CATKIaLBiOL.jpg</photo>
+      <role>Museum Gala Guest (uncredited)</role>
+      <name>Maria Perossa</name>
+    </item>
+    <item index="90">
+      <photo>http://image.tmdb.org/t/p/original/4IOic0eRnIZZFBu5LNui9LFsFub.jpg</photo>
+      <role>Extra (uncredited)</role>
+      <name>Caleb Pieplow</name>
+    </item>
+    <item index="91">
+      <photo>http://image.tmdb.org/t/p/original/61mmYDFXhzoLGWp51dKdzMlahhR.jpg</photo>
+      <role>Helicarrier Shield Agent (uncredited)</role>
+      <name>Alexander Daniel Pimentel</name>
+    </item>
+    <item index="92">
+      <photo>http://image.tmdb.org/t/p/original/gisDi6upDyITIEFAenbncAVV912.jpg</photo>
+      <role>S.H.I.EL.D Agent - Loki Escort (uncredited)</role>
+      <name>Frank Powers</name>
+    </item>
+    <item index="93">
+      <photo>http://image.tmdb.org/t/p/original/tFvFpbi1EnBZWLf1MWPuUVmUlFk.jpg</photo>
+      <role>S.H.I.E.L.D. Agent (uncredited)</role>
+      <name>Jaime Powers</name>
+    </item>
+    <item index="94">
+      <photo>http://image.tmdb.org/t/p/original/ltoJixbHwY7OXuRkv8iintyVNCL.jpg</photo>
+      <role>Stuttgart Gala Patron (uncredited)</role>
+      <name>Brent Reichert</name>
+    </item>
+    <item index="95">
+      <photo>http://image.tmdb.org/t/p/original/1lATMNLTQKCUTrNNrMWwISe0ahb.jpg</photo>
+      <role>S.H.E.I.L.D. Agent (uncredited)</role>
+      <name>Kelly Ruble</name>
+    </item>
+    <item index="96">
+      <photo>http://image.tmdb.org/t/p/original/r0dXsObuAds3UainknypJcJj5Ds.jpg</photo>
+      <role>Restaurant Patron (uncredited)</role>
+      <name>Gina Sarno</name>
+    </item>
+    <item index="97">
+      <photo>http://image.tmdb.org/t/p/original/iRAYJfnTJ4ba3KRCdKELbbtucNa.jpg</photo>
+      <role>New York City Police Officer (uncredited)</role>
+      <name>Robert B. Schneider IV</name>
+    </item>
+    <item index="98">
+      <photo>http://image.tmdb.org/t/p/original/vtlhRg7O2shyaOofOY07GP8kqan.jpg</photo>
+      <role>New York Police Officer in Firefight (uncredited)</role>
+      <name>Jeff Seich</name>
+    </item>
+    <item index="99">
+      <photo/>
+      <role>Stuttgart Beer Garden Patron (uncredited)</role>
+      <name>Christina Shaffer</name>
+    </item>
+    <item index="100">
+      <photo>http://image.tmdb.org/t/p/original/gA6Dqc7q0v78vRwNIIxPvo15Uff.jpg</photo>
+      <role>Lab Tech (uncredited)</role>
+      <name>Alonda Shevette</name>
+    </item>
+    <item index="101">
+      <photo>http://image.tmdb.org/t/p/original/q1JdKgf1tYBbwIrkVDFchBdruCy.jpg</photo>
+      <role>Museum Gala Patron (uncredited)</role>
+      <name>Douglas Slygh</name>
+    </item>
+    <item index="102">
+      <photo>http://image.tmdb.org/t/p/original/r5JVeKjHtc394izdBJs9T0hCH7L.jpg</photo>
+      <role>S.H.I.E.L.D. Agent #4 (uncredited)</role>
+      <name>Colin Strause</name>
+    </item>
+    <item index="103">
+      <photo>http://image.tmdb.org/t/p/original/9Tsny7MEaquHUbZ6URBqllFYVDr.jpg</photo>
+      <role>Gala Patron (uncredited)</role>
+      <name>Robert P. Thitoff</name>
+    </item>
+    <item index="104">
+      <photo/>
+      <role>S.H.I.E.L.D. Agent (uncredited)</role>
+      <name>George Thomas</name>
+    </item>
+    <item index="105">
+      <photo>http://image.tmdb.org/t/p/original/tqD5Ez4LgFQOV3SxUnOrlibGQe0.jpg</photo>
+      <role>Pedestrian (uncredited)</role>
+      <name>Shane Thompson</name>
+    </item>
+    <item index="106">
+      <photo>http://image.tmdb.org/t/p/original/tiRv43n0hIwtUVqDORT4c4qxouM.jpg</photo>
+      <role>Mercenary (uncredited)</role>
+      <name>Jerry Lee Tucker</name>
+    </item>
+    <item index="107">
+      <photo>http://image.tmdb.org/t/p/original/9JEPaQ4xJQ4x4srkAmHiVHTZ966.jpg</photo>
+      <role>Child on News #1 (uncredited)</role>
+      <name>Tai Urban</name>
+    </item>
+    <item index="108">
+      <photo>http://image.tmdb.org/t/p/original/r1uVfT7Lee9dCwJznVkLB85RfN5.jpg</photo>
+      <role>Running Pedestrian (uncredited)</role>
+      <name>Chris Vaina</name>
+    </item>
+    <item index="109">
+      <photo>http://image.tmdb.org/t/p/original/fzsPJto04VSMgD05RJ5tGo3qGol.jpg</photo>
+      <role>Sweeper (uncredited)</role>
+      <name>Sandra Weston</name>
+    </item>
+    <item index="110">
+      <photo>http://image.tmdb.org/t/p/original/8Rf4aa0xLxJaiCF7mcxxehxODxi.jpg</photo>
+      <role>Barbershop (uncredited)</role>
+      <name>Seth Zielicke</name>
+    </item>
+    <item index="111">
+      <photo>http://image.tmdb.org/t/p/original/76lK48skKPLE0uvPQ4wqa2OtQ8F.jpg</photo>
+      <role>Tourist (uncredited)</role>
+      <name>Alex DeCourville</name>
+    </item>
+    <item index="112">
+      <photo>http://image.tmdb.org/t/p/original/tQKHaaZLK9z6wJ3L8eEEF3dnuGs.jpg</photo>
+      <role>Gala Guest (uncredited)</role>
+      <name>Debbie Scaletta</name>
+    </item>
+    <item index="113">
+      <photo>http://image.tmdb.org/t/p/original/agjZ63qFde1CdNd6vcGKabZIf7p.jpg</photo>
+      <role>S.H.I.E.L.D agent (uncredited)</role>
+      <name>Andrea-Nichole Olivas</name>
+    </item>
+    <item index="114">
+      <photo>http://image.tmdb.org/t/p/original/gVLoE5WlDTgqjneoEN9Ueum0QQM.jpg</photo>
+      <role>NYC Pedestrian (uncredited)</role>
+      <name>Tina Grimm</name>
+    </item>
+    <item index="115">
+      <photo>http://image.tmdb.org/t/p/original/rMnLtyrejtHVn0k6ezdv3Bg2ILN.jpg</photo>
+      <role>Principal (uncredited)</role>
+      <name>Evan Kole</name>
+    </item>
+  </roles>
+  <similar>
+    <item index="0">Iron Man 3</item>
+    <item index="1">Iron Man 2</item>
+    <item index="2">Captain America: The First Avenger</item>
+    <item index="3">Iron Man</item>
+    <item index="4">Thor</item>
+    <item index="5">The Amazing Spider-Man</item>
+    <item index="6">The Dark Knight Rises</item>
+    <item index="7">X-Men: First Class</item>
+    <item index="8">Thor: The Dark World</item>
+    <item index="9">Avengers: Age of Ultron</item>
+    <item index="10">Captain America: The Winter Soldier</item>
+    <item index="11">Man of Steel</item>
+    <item index="12">The Incredible Hulk</item>
+    <item index="13">X-Men: The Last Stand</item>
+    <item index="14">X-Men</item>
+    <item index="15">X-Men Origins: Wolverine</item>
+    <item index="16">Batman Begins</item>
+    <item index="17">The Hunger Games</item>
+    <item index="18">The Hobbit: An Unexpected Journey</item>
+    <item index="19">Skyfall</item>
+  </similar>
+  <studio>Marvel Studios</studio>
+  <summary>When an unexpected enemy emerges and threatens global safety and security, Nick Fury, director of the international peacekeeping agency known as S.H.I.E.L.D., finds himself in need of a team to pull the world back from the brink of disaster. Spanning the globe, a daring recruitment effort begins!</summary>
+  <tagline>Some assembly required.</tagline>
+  <tags/>
+  <themes/>
+  <title>The Avengers</title>
+  <writers>
+    <item index="0">
+      <photo>http://image.tmdb.org/t/p/original/dTiVsuaTVTeGmvkhcyJvKp2A5kr.jpg</photo>
+      <role/>
+      <name>Joss Whedon</name>
+    </item>
+  </writers>
+  <year>2012</year>
+</Movie>

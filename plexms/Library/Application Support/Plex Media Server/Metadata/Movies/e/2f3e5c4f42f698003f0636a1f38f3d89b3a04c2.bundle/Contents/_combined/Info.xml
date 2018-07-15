@@ -1,0 +1,257 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Movie>
+  <art>
+    <item external="True" url="http://image.tmdb.org/t/p/original/gu81IQeBK2t6VO4WD1dXjpC3YgF.jpg" sort_order="1" provider="com.plexapp.agents.imdb" media="com.plexapp.agents.imdb_cb008f227603ac11722462669745698ce1fced10"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/5ziNcy1jb2eLLgl56SOz3K2FbX9.jpg" preview="com.plexapp.agents.imdb_1e80d1f6bb4d71fbe4e962c3080a8e27b8fc23b6" sort_order="2" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/6wmMsuQdlajCn1b3lQdB1oudFcQ.jpg" preview="com.plexapp.agents.imdb_096d0cc37514e7ea999885349cc854c6af55b31f" sort_order="3" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/rwW8XYeANv7ZrSb2Trm3MF0ugKX.jpg" preview="com.plexapp.agents.imdb_6cda254bc7334cda8acc8bc4456be27c89cc9936" sort_order="4" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/dKgZlnK9XlEaOs6HMKYS5Gmo8Sy.jpg" preview="com.plexapp.agents.imdb_a539d8dd00a36b519cc75ec932f69b15e7ea4114" sort_order="5" provider="com.plexapp.agents.imdb"/>
+  </art>
+  <banners/>
+  <chapters>
+    <item index="0">
+      <title>Program Start</title>
+      <end_time_offset>369000</end_time_offset>
+      <start_time_offset>0</start_time_offset>
+    </item>
+    <item index="1">
+      <title>Musketeers Disbanded</title>
+      <end_time_offset>740000</end_time_offset>
+      <start_time_offset>369000</start_time_offset>
+    </item>
+    <item index="2">
+      <title>D'artagnan Meets Constance</title>
+      <end_time_offset>1051000</end_time_offset>
+      <start_time_offset>740000</start_time_offset>
+    </item>
+    <item index="3">
+      <title>Porthos Brings Down the House</title>
+      <end_time_offset>1432000</end_time_offset>
+      <start_time_offset>1051000</start_time_offset>
+    </item>
+    <item index="4">
+      <title>The Heart of a Musketeer</title>
+      <end_time_offset>1888000</end_time_offset>
+      <start_time_offset>1432000</start_time_offset>
+    </item>
+    <item index="5">
+      <title>Milady De Winter &amp; Richelieu</title>
+      <end_time_offset>2156000</end_time_offset>
+      <start_time_offset>1888000</start_time_offset>
+    </item>
+    <item index="6">
+      <title>In the Nick of Time</title>
+      <end_time_offset>2551000</end_time_offset>
+      <start_time_offset>2156000</start_time_offset>
+    </item>
+    <item index="7">
+      <title>The Manly Art of Wenching</title>
+      <end_time_offset>2824000</end_time_offset>
+      <start_time_offset>2551000</start_time_offset>
+    </item>
+    <item index="8">
+      <title>In Queen Anne's Chambers</title>
+      <end_time_offset>3197000</end_time_offset>
+      <start_time_offset>2824000</start_time_offset>
+    </item>
+    <item index="9">
+      <title>Troubling Rumors</title>
+      <end_time_offset>3554000</end_time_offset>
+      <start_time_offset>3197000</start_time_offset>
+    </item>
+    <item index="10">
+      <title>Seduction</title>
+      <end_time_offset>3880000</end_time_offset>
+      <start_time_offset>3554000</start_time_offset>
+    </item>
+    <item index="11">
+      <title>Sabine and Athos</title>
+      <end_time_offset>4113000</end_time_offset>
+      <start_time_offset>3880000</start_time_offset>
+    </item>
+    <item index="12">
+      <title>Forgiveness</title>
+      <end_time_offset>4464000</end_time_offset>
+      <start_time_offset>4113000</start_time_offset>
+    </item>
+    <item index="13">
+      <title>Assassin's Attempt</title>
+      <end_time_offset>4864000</end_time_offset>
+      <start_time_offset>4464000</start_time_offset>
+    </item>
+    <item index="14">
+      <title>Save the King</title>
+      <end_time_offset>5256000</end_time_offset>
+      <start_time_offset>4864000</start_time_offset>
+    </item>
+    <item index="15">
+      <title>Avenging His Father's Death</title>
+      <end_time_offset>5769000</end_time_offset>
+      <start_time_offset>5256000</start_time_offset>
+    </item>
+    <item index="16">
+      <title>A Surprise for Richelieu</title>
+      <end_time_offset>6147000</end_time_offset>
+      <start_time_offset>5769000</start_time_offset>
+    </item>
+    <item index="17">
+      <title>The Fourth Musketeer!</title>
+      <end_time_offset>6631000</end_time_offset>
+      <start_time_offset>6147000</start_time_offset>
+    </item>
+    <item index="18">
+      <title>End Credits</title>
+      <end_time_offset>-1</end_time_offset>
+      <start_time_offset>6631000</start_time_offset>
+    </item>
+  </chapters>
+  <collections/>
+  <content_rating>PG</content_rating>
+  <countries>
+    <item index="0">Austria</item>
+  </countries>
+  <directors>
+    <item index="0">
+      <photo>http://image.tmdb.org/t/p/original/wFMntUA59jIeLITlk5pYp2boZzB.jpg</photo>
+      <role/>
+      <name>Stephen Herek</name>
+    </item>
+  </directors>
+  <duration>6300000</duration>
+  <genres>
+    <item index="0">Action</item>
+    <item index="1">Adventure</item>
+    <item index="2">Comedy</item>
+    <item index="3">Family</item>
+    <item index="4">Romance</item>
+  </genres>
+  <originally_available_at>1993-11-11</originally_available_at>
+  <posters>
+    <item external="True" url="http://image.tmdb.org/t/p/original/cQsjMRId7r61Nh0bwEtGzCvp9gS.jpg" sort_order="1" provider="com.plexapp.agents.imdb" media="com.plexapp.agents.imdb_3af102593c39d8833d553ed14ed6613312eb2a1d"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/6bPUpY3mO8OFBPdYoCqFs2FMK4g.jpg" preview="com.plexapp.agents.imdb_ac9d8f9b5743a05ebaf1a98a116c86701141f42f" sort_order="2" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/mLw7gT2LYqbcSRrmMRrMIAta3bE.jpg" preview="com.plexapp.agents.imdb_dd2352a9a51141fd8f674194c254bda7de1906f5" sort_order="3" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/mk8UH7JRmK8adcqJJpB1ygP7B1C.jpg" preview="com.plexapp.agents.imdb_32e08f3b30c514a7b39af84ca236d26ba544f849" sort_order="4" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/3eJKPl6xHbIprDq8nQ2ehLYW01s.jpg" preview="com.plexapp.agents.imdb_09384271ce764ad1d547c6984126c0cad964198f" sort_order="5" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/bN2B7enbN07NnafszP8804WsLbG.jpg" preview="com.plexapp.agents.imdb_84ee96c40c72f76f5efa59894d1a163f7ba84346" sort_order="6" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/fx6MKeBIToLP5A0o4Uxa7yiOCnN.jpg" preview="com.plexapp.agents.imdb_ae5e6bc27e357c81a083bf982e5fda84fb53c7cd" sort_order="7" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/wOgB9pXiaInaErWkc8hwXD7uCCG.jpg" preview="com.plexapp.agents.imdb_ba3ab67b61356697c70c917e67b4a9806691a6cf" sort_order="8" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/acGow3tSajdFpYN27xfwSedVUGx.jpg" preview="com.plexapp.agents.imdb_0c7d7ba5464fc2c3ebcdb476b35abe603e7a8588" sort_order="9" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/5TBukbxmsUVMIdCzMX7isbpoPMW.jpg" preview="com.plexapp.agents.imdb_06dc11207bdcfe19b888955c830813ff78c85df6" sort_order="10" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/vfmNUc8O8T8TDs0MNNXO6UnR3ch.jpg" preview="com.plexapp.agents.imdb_e8105b2bb9639f5bc94ec064f5a96101a5e17e8f" sort_order="11" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/2ZSPBb5ajERMajiZYEcFzJIPHpr.jpg" preview="com.plexapp.agents.imdb_1804967f9bee48c5a49c6ee106bf858261c98f5b" sort_order="12" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/uA2Byy8YJnT1CxI2Lanpzit4pCj.jpg" preview="com.plexapp.agents.imdb_eb47388aee8be216714ec1031f744916b7d684a9" sort_order="13" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/xVL4Zg16z3f5YGS8Cuqk32WwpQL.jpg" preview="com.plexapp.agents.imdb_c2b47e36f5bdafbb08f9cc4386e32affc64c9b78" sort_order="14" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/Z5u6OwasotdisMECO85OHkC0I8.jpg" preview="com.plexapp.agents.imdb_45500b336369c4f676a880af496189c81e78e5ef" sort_order="15" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/yxeIA3x9Ibrvo5xLjKyz1nVkPtS.jpg" preview="com.plexapp.agents.imdb_f17400a93b813d149169dac0ea0647c6a421d5b0" sort_order="16" provider="com.plexapp.agents.imdb"/>
+  </posters>
+  <producers>
+    <item index="0">
+      <photo/>
+      <role/>
+      <name>Roger Birnbaum</name>
+    </item>
+    <item index="1">
+      <photo>http://image.tmdb.org/t/p/original/lUtmB3mtMPrA5hhoEwZBeX1U5uL.jpg</photo>
+      <role/>
+      <name>Joe Roth</name>
+    </item>
+  </producers>
+  <rating>3.1</rating>
+  <rating_image>rottentomatoes://image.rating.rotten</rating_image>
+  <audience_rating>6.2</audience_rating>
+  <audience_rating_image>rottentomatoes://image.rating.spilled</audience_rating_image>
+  <reviews/>
+  <roles>
+    <item index="0">
+      <photo>http://image.tmdb.org/t/p/original/g4e1QpcNTpmq2uPr5GDNuMvjRuU.jpg</photo>
+      <role>Aramis</role>
+      <name>Charlie Sheen</name>
+    </item>
+    <item index="1">
+      <photo>http://image.tmdb.org/t/p/original/4YvDfOfD4TgyzDkLGoq76g5BZNe.jpg</photo>
+      <role>Athos</role>
+      <name>Kiefer Sutherland</name>
+    </item>
+    <item index="2">
+      <photo>http://image.tmdb.org/t/p/original/pjIwKa4AkgTzDO2Onz9dPn5KZTr.jpg</photo>
+      <role>D'Artagnan</role>
+      <name>Chris O'Donnell</name>
+    </item>
+    <item index="3">
+      <photo>http://image.tmdb.org/t/p/original/an9n3aUKFAN50GDsbqwIkvWlcus.jpg</photo>
+      <role>Porthos</role>
+      <name>Oliver Platt</name>
+    </item>
+    <item index="4">
+      <photo>http://image.tmdb.org/t/p/original/hPyCIUATIvrzPx8ZbsIJ15l5u8u.jpg</photo>
+      <role>Cardinal Richelieu</role>
+      <name>Tim Curry</name>
+    </item>
+    <item index="5">
+      <photo>http://image.tmdb.org/t/p/original/riQQkeijtaPIAVhPdCcJFPB4FOA.jpg</photo>
+      <role>Countess D'Winter</role>
+      <name>Rebecca De Mornay</name>
+    </item>
+    <item index="6">
+      <photo>http://image.tmdb.org/t/p/original/khnEDczzSy6UcbnqZ6Sb4lWxnkE.jpg</photo>
+      <role>Queen Anne</role>
+      <name>Gabrielle Anwar</name>
+    </item>
+    <item index="7">
+      <photo>http://image.tmdb.org/t/p/original/pvKUzexxZT4sRTT1BczzrwX8ghz.jpg</photo>
+      <role>Rochefort</role>
+      <name>Michael Wincott</name>
+    </item>
+    <item index="8">
+      <photo>http://image.tmdb.org/t/p/original/vtp1wTbuxO9JfKP52xo0pjCOkh9.jpg</photo>
+      <role>Girard</role>
+      <name>Paul McGann</name>
+    </item>
+    <item index="9">
+      <photo>http://image.tmdb.org/t/p/original/rd40f4QpAUUne3hMaUhHrZtcK2c.jpg</photo>
+      <role>Constance</role>
+      <name>Julie Delpy</name>
+    </item>
+    <item index="10">
+      <photo>http://image.tmdb.org/t/p/original/i4NB3THRBWyYGpQbQPu6RshQf6j.jpg</photo>
+      <role>King Louis XIII</role>
+      <name>Hugh O'Conor</name>
+    </item>
+  </roles>
+  <similar>
+    <item index="0">The Chase</item>
+    <item index="1">Terminal Velocity</item>
+    <item index="2">Stakeout</item>
+    <item index="3">Young Guns</item>
+    <item index="4">Crocodile Dundee II</item>
+    <item index="5">Three Men and a Little Lady</item>
+    <item index="6">Get Shorty</item>
+    <item index="7">The Saint</item>
+    <item index="8">City Slickers</item>
+    <item index="9">National Lampoon's Loaded Weapon 1</item>
+    <item index="10">Cutthroat Island</item>
+    <item index="11">Roxanne</item>
+    <item index="12">Three Men and a Baby</item>
+    <item index="13">Dave</item>
+    <item index="14">The Mighty Ducks</item>
+    <item index="15">Money Train</item>
+    <item index="16">First Knight</item>
+    <item index="17">Another Stakeout</item>
+    <item index="18">Spy Hard</item>
+    <item index="19">Edtv</item>
+  </similar>
+  <studio>Walt Disney Pictures</studio>
+  <summary>D'Artagnan travels to Paris hoping to become a musketeer, one of the French king's elite bodyguards, only to discover that the corps has been disbanded by conniving Cardinal Richelieu, who secretly hopes to usurp the throne. Fortunately, Athos, Porthos and Aramis have refused to lay down their weapons and continue to protect their king. D'Artagnan joins with the rogues to expose Richelieu's plot against the crown.</summary>
+  <tagline>All for one and one for all!</tagline>
+  <tags/>
+  <themes/>
+  <title>The Three Musketeers</title>
+  <writers>
+    <item index="0">
+      <photo/>
+      <role/>
+      <name>David Loughery</name>
+    </item>
+  </writers>
+  <year>1993</year>
+</Movie>

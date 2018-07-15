@@ -1,0 +1,80 @@
+Jul 15, 2018 03:34:05.160 [0x7ff405fff700] INFO - Plex Media Scanner v1.13.2.5154-fd05be322 - ubuntu docker x86_64 - build: linux-ubuntu-x86_64 - GMT -04:00
+Jul 15, 2018 03:34:05.161 [0x7ff405fff700] INFO - Linux version: 4.15.0-24-generic (#26-Ubuntu SMP Wed Jun 13 08:44:47 UTC 2018), language: C
+Jul 15, 2018 03:34:05.161 [0x7ff405fff700] INFO - Processor Intel(R) Core(TM) i7-4770R CPU @ 3.20GHz
+Jul 15, 2018 03:34:05.161 [0x7ff405fff700] INFO - /usr/lib/plexmediaserver/Plex Media Scanner --analyze-deeply --item 4947 --log-file-suffix  Deep Analysis
+Jul 15, 2018 03:34:05.164 [0x7ff411635800] DEBUG - Opening 20 database sessions to library (com.plexapp.plugins.library), SQLite 3.13.0, threadsafe=1
+Jul 15, 2018 03:34:05.252 [0x7ff411635800] DEBUG - [MI] Opening input file: "/movies/Warcraft.2016.720p.BluRay.x264-SPARKS-Obfuscated/XRfHmm15PCpDQkAp1dpEJlVGu.mkv"
+Jul 15, 2018 03:34:05.253 [0x7ff411635800] DEBUG - [FFMPEG] - Opening '/movies/Warcraft.2016.720p.BluRay.x264-SPARKS-Obfuscated/XRfHmm15PCpDQkAp1dpEJlVGu.mkv' for reading
+Jul 15, 2018 03:34:05.253 [0x7ff411635800] DEBUG - [FFMPEG] - Setting default whitelist 'file,crypto'
+Jul 15, 2018 03:34:05.330 [0x7ff411635800] DEBUG - [FFMPEG] - Format matroska,webm probed with size=2048 and score=100
+Jul 15, 2018 03:34:05.332 [0x7ff411635800] DEBUG - [FFMPEG] - st:0 removing common factor 1000000 from timebase
+Jul 15, 2018 03:34:05.332 [0x7ff411635800] DEBUG - [FFMPEG] - st:1 removing common factor 1000000 from timebase
+Jul 15, 2018 03:34:05.333 [0x7ff411635800] DEBUG - [FFMPEG] - Before avformat_find_stream_info() pos: 6686 bytes read:33603 seeks:2 nb_streams:2
+Jul 15, 2018 03:34:05.334 [0x7ff411635800] DEBUG - [FFMPEG] - nal_unit_type: 7, nal_ref_idc: 3
+Jul 15, 2018 03:34:05.334 [0x7ff411635800] DEBUG - [FFMPEG] - nal_unit_type: 8, nal_ref_idc: 3
+Jul 15, 2018 03:34:05.336 [0x7ff411635800] DEBUG - [FFMPEG] - nal_unit_type: 7, nal_ref_idc: 3
+Jul 15, 2018 03:34:05.336 [0x7ff411635800] DEBUG - [FFMPEG] - nal_unit_type: 8, nal_ref_idc: 3
+Jul 15, 2018 03:34:05.337 [0x7ff411635800] DEBUG - [FFMPEG] - nal_unit_type: 6, nal_ref_idc: 0
+Jul 15, 2018 03:34:05.337 [0x7ff411635800] DEBUG - [FFMPEG] - nal_unit_type: 5, nal_ref_idc: 3
+Jul 15, 2018 03:34:05.337 [0x7ff411635800] DEBUG - [FFMPEG] - Format yuv420p chosen by get_format().
+Jul 15, 2018 03:34:05.340 [0x7ff411635800] DEBUG - [FFMPEG] - no picture 
+Jul 15, 2018 03:34:05.345 [0x7ff411635800] DEBUG - [FFMPEG] - nal_unit_type: 1, nal_ref_idc: 2
+Jul 15, 2018 03:34:05.346 [0x7ff411635800] DEBUG - [FFMPEG] - no picture 
+Jul 15, 2018 03:34:05.350 [0x7ff411635800] DEBUG - [FFMPEG] - nal_unit_type: 1, nal_ref_idc: 2
+Jul 15, 2018 03:34:05.354 [0x7ff411635800] DEBUG - [FFMPEG] - nal_unit_type: 1, nal_ref_idc: 0
+Jul 15, 2018 03:34:05.358 [0x7ff411635800] DEBUG - [FFMPEG] - nal_unit_type: 1, nal_ref_idc: 0
+Jul 15, 2018 03:34:05.360 [0x7ff411635800] DEBUG - [FFMPEG] - nal_unit_type: 1, nal_ref_idc: 2
+Jul 15, 2018 03:34:05.362 [0x7ff411635800] DEBUG - [FFMPEG] - nal_unit_type: 1, nal_ref_idc: 2
+Jul 15, 2018 03:34:05.363 [0x7ff411635800] DEBUG - [FFMPEG] - nal_unit_type: 1, nal_ref_idc: 0
+Jul 15, 2018 03:34:05.364 [0x7ff411635800] DEBUG - [FFMPEG] - nal_unit_type: 1, nal_ref_idc: 0
+Jul 15, 2018 03:34:05.366 [0x7ff411635800] DEBUG - [FFMPEG] - All info found
+Jul 15, 2018 03:34:05.366 [0x7ff411635800] DEBUG - [FFMPEG] - After avformat_find_stream_info() pos: 75313 bytes read:131907 seeks:2 frames:26
+Jul 15, 2018 03:34:06.243 [0x7ff411635800] DEBUG - Deep Analysis: Read 10000 packets at 180.889000
+Jul 15, 2018 03:34:07.452 [0x7ff411635800] DEBUG - Deep Analysis: Read 20000 packets at 362.144000
+Jul 15, 2018 03:34:08.738 [0x7ff411635800] DEBUG - Deep Analysis: Read 30000 packets at 543.043000
+Jul 15, 2018 03:34:09.523 [0x7ff411635800] DEBUG - Deep Analysis: Read 40000 packets at 724.320000
+Jul 15, 2018 03:34:10.210 [0x7ff411635800] DEBUG - Deep Analysis: Read 50000 packets at 905.156000
+Jul 15, 2018 03:34:11.176 [0x7ff411635800] DEBUG - Deep Analysis: Read 60000 packets at 1086.464000
+Jul 15, 2018 03:34:12.012 [0x7ff411635800] DEBUG - Deep Analysis: Read 70000 packets at 1267.393000
+Jul 15, 2018 03:34:13.069 [0x7ff411635800] DEBUG - Deep Analysis: Read 80000 packets at 1448.408000
+Jul 15, 2018 03:34:14.829 [0x7ff411635800] DEBUG - Deep Analysis: Read 90000 packets at 1629.464000
+Jul 15, 2018 03:34:16.197 [0x7ff411635800] DEBUG - Deep Analysis: Read 100000 packets at 1810.603000
+Jul 15, 2018 03:34:16.843 [0x7ff411635800] DEBUG - Deep Analysis: Read 110000 packets at 1991.701000
+Jul 15, 2018 03:34:17.607 [0x7ff411635800] DEBUG - Deep Analysis: Read 120000 packets at 2172.928000
+Jul 15, 2018 03:34:18.245 [0x7ff411635800] DEBUG - Deep Analysis: Read 130000 packets at 2353.984000
+Jul 15, 2018 03:34:19.260 [0x7ff411635800] DEBUG - Deep Analysis: Read 140000 packets at 2535.072000
+Jul 15, 2018 03:34:20.041 [0x7ff411635800] DEBUG - Deep Analysis: Read 150000 packets at 2716.224000
+Jul 15, 2018 03:34:21.058 [0x7ff411635800] DEBUG - Deep Analysis: Read 160000 packets at 2896.982000
+Jul 15, 2018 03:34:21.787 [0x7ff411635800] DEBUG - Deep Analysis: Read 170000 packets at 3078.272000
+Jul 15, 2018 03:34:22.828 [0x7ff411635800] DEBUG - Deep Analysis: Read 180000 packets at 3259.094000
+Jul 15, 2018 03:34:23.909 [0x7ff411635800] DEBUG - Deep Analysis: Read 190000 packets at 3440.480000
+Jul 15, 2018 03:34:25.379 [0x7ff411635800] DEBUG - Deep Analysis: Read 200000 packets at 3621.248000
+Jul 15, 2018 03:34:27.167 [0x7ff411635800] DEBUG - Deep Analysis: Read 210000 packets at 3802.430000
+Jul 15, 2018 03:34:27.812 [0x7ff411635800] DEBUG - Deep Analysis: Read 220000 packets at 3983.744000
+Jul 15, 2018 03:34:28.643 [0x7ff411635800] DEBUG - Deep Analysis: Read 230000 packets at 4164.832000
+Jul 15, 2018 03:34:29.482 [0x7ff411635800] DEBUG - Deep Analysis: Read 240000 packets at 4345.598000
+Jul 15, 2018 03:34:30.106 [0x7ff411635800] DEBUG - Deep Analysis: Read 250000 packets at 4526.696000
+Jul 15, 2018 03:34:31.033 [0x7ff411635800] DEBUG - Deep Analysis: Read 260000 packets at 4707.904000
+Jul 15, 2018 03:34:31.727 [0x7ff411635800] DEBUG - Deep Analysis: Read 270000 packets at 4889.056000
+Jul 15, 2018 03:34:32.716 [0x7ff411635800] DEBUG - Deep Analysis: Read 280000 packets at 5070.112000
+Jul 15, 2018 03:34:34.104 [0x7ff411635800] DEBUG - Deep Analysis: Read 290000 packets at 5251.168000
+Jul 15, 2018 03:34:35.504 [0x7ff411635800] DEBUG - Deep Analysis: Read 300000 packets at 5431.977000
+Jul 15, 2018 03:34:36.887 [0x7ff411635800] DEBUG - Deep Analysis: Read 310000 packets at 5613.280000
+Jul 15, 2018 03:34:38.152 [0x7ff411635800] DEBUG - Deep Analysis: Read 320000 packets at 5794.432000
+Jul 15, 2018 03:34:39.329 [0x7ff411635800] DEBUG - Deep Analysis: Read 330000 packets at 5975.271000
+Jul 15, 2018 03:34:40.759 [0x7ff411635800] DEBUG - Deep Analysis: Read 340000 packets at 6156.544000
+Jul 15, 2018 03:34:41.994 [0x7ff411635800] DEBUG - Deep Analysis: Read 350000 packets at 6337.425000
+Jul 15, 2018 03:34:43.386 [0x7ff411635800] DEBUG - Deep Analysis: Read 360000 packets at 6518.481000
+Jul 15, 2018 03:34:44.593 [0x7ff411635800] DEBUG - Deep Analysis: Read 370000 packets at 6699.620000
+Jul 15, 2018 03:34:46.040 [0x7ff411635800] DEBUG - Deep Analysis: Read 380000 packets at 6880.832000
+Jul 15, 2018 03:34:46.745 [0x7ff411635800] DEBUG - Deep Analysis: Read 390000 packets at 7061.649000
+Jul 15, 2018 03:34:47.196 [0x7ff411635800] DEBUG - Deep Analysis: Read 400000 packets at 7242.747000
+Jul 15, 2018 03:34:47.703 [0x7ff411635800] DEBUG - Deep Analysis: Sorting packets
+Jul 15, 2018 03:34:47.740 [0x7ff411635800] DEBUG - Deep Analysis: Performing file bitrate analysis
+Jul 15, 2018 03:34:47.809 [0x7ff411635800] DEBUG - Deep Analysis: Performing stream bitrate analysis on stream 0
+Jul 15, 2018 03:34:47.842 [0x7ff411635800] DEBUG - Deep Analysis: Performing stream bitrate analysis on stream 1
+Jul 15, 2018 03:34:47.858 [0x7ff411635800] DEBUG - Deep Analysis: Saving GoP analysis for stream 0
+Jul 15, 2018 03:34:47.861 [0x7ff411635800] DEBUG - Deep Analysis: Saving bitrate analysis
+Jul 15, 2018 03:34:47.899 [0x7ff411635800] DEBUG - Updating part with ID=9299 [/movies/Warcraft.2016.720p.BluRay.x264-SPARKS-Obfuscated/XRfHmm15PCpDQkAp1dpEJlVGu.mkv]
+Jul 15, 2018 03:34:47.905 [0x7ff411635800] DEBUG - [MI] Closing input file: /movies/Warcraft.2016.720p.BluRay.x264-SPARKS-Obfuscated/XRfHmm15PCpDQkAp1dpEJlVGu.mkv
+Jul 15, 2018 03:34:47.906 [0x7ff411635800] DEBUG - [FFMPEG] - Statistics: 5867011396 bytes read, 3 seeks

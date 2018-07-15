@@ -1,0 +1,73 @@
+Jul 14, 2018 03:12:29.784 [0x7f9e02bff700] INFO - Plex Media Scanner v1.13.2.5154-fd05be322 - ubuntu docker x86_64 - build: linux-ubuntu-x86_64 - GMT -04:00
+Jul 14, 2018 03:12:29.785 [0x7f9e02bff700] INFO - Linux version: 4.15.0-24-generic (#26-Ubuntu SMP Wed Jun 13 08:44:47 UTC 2018), language: C
+Jul 14, 2018 03:12:29.785 [0x7f9e02bff700] INFO - Processor Intel(R) Core(TM) i7-4770R CPU @ 3.20GHz
+Jul 14, 2018 03:12:29.785 [0x7f9e02bff700] INFO - /usr/lib/plexmediaserver/Plex Media Scanner --analyze --item 5133 --log-file-suffix  Analysis
+Jul 14, 2018 03:12:29.788 [0x7f9e0e33d800] DEBUG - Opening 20 database sessions to library (com.plexapp.plugins.library), SQLite 3.13.0, threadsafe=1
+Jul 14, 2018 03:12:29.879 [0x7f9e0e33d800] DEBUG - Analyzing media parts for item 5133 (Solace): 9587
+Jul 14, 2018 03:12:29.879 [0x7f9e0e33d800] DEBUG - [ID 9603] Media part analysis: /movies/Solace.2015.1080p.BluRay.x264.DTS-JYK-Obfuscated/cyLtQRkq0aBkHV0ug3moLS1aKB1pRKY.mkv
+Jul 14, 2018 03:12:29.879 [0x7f9e0e33d800] DEBUG - [MI] Opening input file: "/movies/Solace.2015.1080p.BluRay.x264.DTS-JYK-Obfuscated/cyLtQRkq0aBkHV0ug3moLS1aKB1pRKY.mkv"
+Jul 14, 2018 03:12:29.880 [0x7f9e0e33d800] DEBUG - [FFMPEG] - Opening '/movies/Solace.2015.1080p.BluRay.x264.DTS-JYK-Obfuscated/cyLtQRkq0aBkHV0ug3moLS1aKB1pRKY.mkv' for reading
+Jul 14, 2018 03:12:29.880 [0x7f9e0e33d800] DEBUG - [FFMPEG] - Setting default whitelist 'file,crypto'
+Jul 14, 2018 03:12:29.929 [0x7f9e0e33d800] DEBUG - [FFMPEG] - Format matroska,webm probed with size=2048 and score=100
+Jul 14, 2018 03:12:29.930 [0x7f9e0e33d800] DEBUG - [FFMPEG] - st:0 removing common factor 1000000 from timebase
+Jul 14, 2018 03:12:29.930 [0x7f9e0e33d800] DEBUG - [FFMPEG] - st:1 removing common factor 1000000 from timebase
+Jul 14, 2018 03:12:29.930 [0x7f9e0e33d800] DEBUG - [FFMPEG] - Before avformat_find_stream_info() pos: 6380 bytes read:33585 seeks:2 nb_streams:2
+Jul 14, 2018 03:12:29.930 [0x7f9e0e33d800] DEBUG - [FFMPEG] - nal_unit_type: 7, nal_ref_idc: 3
+Jul 14, 2018 03:12:29.930 [0x7f9e0e33d800] DEBUG - [FFMPEG] - nal_unit_type: 8, nal_ref_idc: 3
+Jul 14, 2018 03:12:29.931 [0x7f9e0e33d800] DEBUG - [FFMPEG] - nal_unit_type: 7, nal_ref_idc: 3
+Jul 14, 2018 03:12:29.931 [0x7f9e0e33d800] DEBUG - [FFMPEG] - nal_unit_type: 8, nal_ref_idc: 3
+Jul 14, 2018 03:12:29.931 [0x7f9e0e33d800] DEBUG - [FFMPEG] - nal_unit_type: 6, nal_ref_idc: 0
+Jul 14, 2018 03:12:29.931 [0x7f9e0e33d800] DEBUG - [FFMPEG] - nal_unit_type: 5, nal_ref_idc: 3
+Jul 14, 2018 03:12:29.931 [0x7f9e0e33d800] DEBUG - [FFMPEG] - nal_unit_type: 5, nal_ref_idc: 3
+Jul 14, 2018 03:12:29.931 [0x7f9e0e33d800] DEBUG - [FFMPEG] - nal_unit_type: 5, nal_ref_idc: 3
+Jul 14, 2018 03:12:29.931 [0x7f9e0e33d800] DEBUG - [FFMPEG] - nal_unit_type: 5, nal_ref_idc: 3
+Jul 14, 2018 03:12:29.931 [0x7f9e0e33d800] DEBUG - [FFMPEG] - Format yuv420p chosen by get_format().
+Jul 14, 2018 03:12:29.934 [0x7f9e0e33d800] DEBUG - [FFMPEG] - no picture 
+Jul 14, 2018 03:12:29.935 [0x7f9e0e33d800] DEBUG - [FFMPEG] - nal_unit_type: 1, nal_ref_idc: 2
+Jul 14, 2018 03:12:29.935 [0x7f9e0e33d800] DEBUG - [FFMPEG] - nal_unit_type: 1, nal_ref_idc: 2
+Jul 14, 2018 03:12:29.935 [0x7f9e0e33d800] DEBUG - [FFMPEG] - nal_unit_type: 1, nal_ref_idc: 2
+Jul 14, 2018 03:12:29.935 [0x7f9e0e33d800] DEBUG - [FFMPEG] - nal_unit_type: 1, nal_ref_idc: 2
+Jul 14, 2018 03:12:29.936 [0x7f9e0e33d800] DEBUG - [FFMPEG] - no picture 
+Jul 14, 2018 03:12:29.937 [0x7f9e0e33d800] DEBUG - [FFMPEG] - nal_unit_type: 1, nal_ref_idc: 2
+Jul 14, 2018 03:12:29.937 [0x7f9e0e33d800] DEBUG - [FFMPEG] - nal_unit_type: 1, nal_ref_idc: 2
+Jul 14, 2018 03:12:29.937 [0x7f9e0e33d800] DEBUG - [FFMPEG] - nal_unit_type: 1, nal_ref_idc: 2
+Jul 14, 2018 03:12:29.937 [0x7f9e0e33d800] DEBUG - [FFMPEG] - nal_unit_type: 1, nal_ref_idc: 2
+Jul 14, 2018 03:12:29.940 [0x7f9e0e33d800] DEBUG - [FFMPEG] - nal_unit_type: 1, nal_ref_idc: 0
+Jul 14, 2018 03:12:29.940 [0x7f9e0e33d800] DEBUG - [FFMPEG] - nal_unit_type: 1, nal_ref_idc: 0
+Jul 14, 2018 03:12:29.940 [0x7f9e0e33d800] DEBUG - [FFMPEG] - nal_unit_type: 1, nal_ref_idc: 0
+Jul 14, 2018 03:12:29.940 [0x7f9e0e33d800] DEBUG - [FFMPEG] - nal_unit_type: 1, nal_ref_idc: 0
+Jul 14, 2018 03:12:29.942 [0x7f9e0e33d800] DEBUG - [FFMPEG] - nal_unit_type: 1, nal_ref_idc: 0
+Jul 14, 2018 03:12:29.943 [0x7f9e0e33d800] DEBUG - [FFMPEG] - nal_unit_type: 1, nal_ref_idc: 0
+Jul 14, 2018 03:12:29.943 [0x7f9e0e33d800] DEBUG - [FFMPEG] - nal_unit_type: 1, nal_ref_idc: 0
+Jul 14, 2018 03:12:29.943 [0x7f9e0e33d800] DEBUG - [FFMPEG] - nal_unit_type: 1, nal_ref_idc: 0
+Jul 14, 2018 03:12:29.945 [0x7f9e0e33d800] DEBUG - [FFMPEG] - nal_unit_type: 1, nal_ref_idc: 0
+Jul 14, 2018 03:12:29.945 [0x7f9e0e33d800] DEBUG - [FFMPEG] - nal_unit_type: 1, nal_ref_idc: 0
+Jul 14, 2018 03:12:29.945 [0x7f9e0e33d800] DEBUG - [FFMPEG] - nal_unit_type: 1, nal_ref_idc: 0
+Jul 14, 2018 03:12:29.945 [0x7f9e0e33d800] DEBUG - [FFMPEG] - nal_unit_type: 1, nal_ref_idc: 0
+Jul 14, 2018 03:12:29.948 [0x7f9e0e33d800] DEBUG - [FFMPEG] - nal_unit_type: 1, nal_ref_idc: 0
+Jul 14, 2018 03:12:29.948 [0x7f9e0e33d800] DEBUG - [FFMPEG] - nal_unit_type: 1, nal_ref_idc: 0
+Jul 14, 2018 03:12:29.948 [0x7f9e0e33d800] DEBUG - [FFMPEG] - nal_unit_type: 1, nal_ref_idc: 0
+Jul 14, 2018 03:12:29.948 [0x7f9e0e33d800] DEBUG - [FFMPEG] - nal_unit_type: 1, nal_ref_idc: 0
+Jul 14, 2018 03:12:29.950 [0x7f9e0e33d800] DEBUG - [FFMPEG] - nal_unit_type: 1, nal_ref_idc: 2
+Jul 14, 2018 03:12:29.950 [0x7f9e0e33d800] DEBUG - [FFMPEG] - nal_unit_type: 1, nal_ref_idc: 2
+Jul 14, 2018 03:12:29.950 [0x7f9e0e33d800] DEBUG - [FFMPEG] - nal_unit_type: 1, nal_ref_idc: 2
+Jul 14, 2018 03:12:29.950 [0x7f9e0e33d800] DEBUG - [FFMPEG] - nal_unit_type: 1, nal_ref_idc: 2
+Jul 14, 2018 03:12:29.951 [0x7f9e0e33d800] DEBUG - [FFMPEG] - nal_unit_type: 1, nal_ref_idc: 2
+Jul 14, 2018 03:12:29.951 [0x7f9e0e33d800] DEBUG - [FFMPEG] - nal_unit_type: 1, nal_ref_idc: 2
+Jul 14, 2018 03:12:29.951 [0x7f9e0e33d800] DEBUG - [FFMPEG] - nal_unit_type: 1, nal_ref_idc: 2
+Jul 14, 2018 03:12:29.951 [0x7f9e0e33d800] DEBUG - [FFMPEG] - nal_unit_type: 1, nal_ref_idc: 2
+Jul 14, 2018 03:12:29.953 [0x7f9e0e33d800] DEBUG - [FFMPEG] - All info found
+Jul 14, 2018 03:12:29.953 [0x7f9e0e33d800] DEBUG - [FFMPEG] - After avformat_find_stream_info() pos: 57016 bytes read:99121 seeks:2 frames:58
+Jul 14, 2018 03:12:29.953 [0x7f9e0e33d800] DEBUG - [MI]  * 273797095062063ec38c114c345c503d0e9f8fb9 [mkv h264/dca] Duration: 6071774ms, 1920x800 (2.400000) 23.976fps, bitrate=3606kbps, audio channels=6, optimizedForStreaming=0 (/movies/Solace.2015.1080p.BluRay.x264.DTS-JYK-Obfuscated/cyLtQRkq0aBkHV0ug3moLS1aKB1pRKY.mkv)
+Jul 14, 2018 03:12:29.954 [0x7f9e0e33d800] DEBUG - [MI] Importing 12 media chapters.
+Jul 14, 2018 03:12:29.954 [0x7f9e0e33d800] DEBUG - [MI] Chapters had generic titles, clearing.
+Jul 14, 2018 03:12:29.955 [0x7f9e0e33d800] DEBUG - [MI] Closing input file: /movies/Solace.2015.1080p.BluRay.x264.DTS-JYK-Obfuscated/cyLtQRkq0aBkHV0ug3moLS1aKB1pRKY.mkv
+Jul 14, 2018 03:12:29.956 [0x7f9e0e33d800] DEBUG - [FFMPEG] - Statistics: 99121 bytes read, 2 seeks
+Jul 14, 2018 03:12:29.958 [0x7f9e0e33d800] DEBUG - Updating media item 9587, size=2737496192, metadata_item_id=5133
+Jul 14, 2018 03:12:29.958 [0x7f9e0e33d800] DEBUG - Updating part with ID=9603 [/movies/Solace.2015.1080p.BluRay.x264.DTS-JYK-Obfuscated/cyLtQRkq0aBkHV0ug3moLS1aKB1pRKY.mkv]
+Jul 14, 2018 03:12:29.968 [0x7f9dff3ff700] DEBUG - HTTP requesting GET http://127.0.0.1:32400/:/metadata/notify/changeItemState?librarySectionID=1&metadataItemID=5133&metadataType=1&state=-1&mediaState=analyzing
+Jul 14, 2018 03:12:29.970 [0x7f9dff3ff700] DEBUG - HTTP 200 response from GET http://127.0.0.1:32400/:/metadata/notify/changeItemState?librarySectionID=1&metadataItemID=5133&metadataType=1&state=-1&mediaState=analyzing
+Jul 14, 2018 03:12:29.970 [0x7f9dff3ff700] DEBUG - HTTP requesting GET http://127.0.0.1:32400/:/metadata/notify/changeItemState?librarySectionID=1&metadataItemID=5133&metadataType=1&state=-1&mediaState=thumbnailing
+Jul 14, 2018 03:12:29.971 [0x7f9dff3ff700] DEBUG - HTTP 200 response from GET http://127.0.0.1:32400/:/metadata/notify/changeItemState?librarySectionID=1&metadataItemID=5133&metadataType=1&state=-1&mediaState=thumbnailing
+Jul 14, 2018 03:12:29.971 [0x7f9dff3ff700] DEBUG - HTTP requesting GET http://127.0.0.1:32400/:/metadata/notify/changeItemState?librarySectionID=1&metadataItemID=5133&metadataType=1&state=-1&mediaState=idle
+Jul 14, 2018 03:12:29.973 [0x7f9dff3ff700] DEBUG - HTTP 200 response from GET http://127.0.0.1:32400/:/metadata/notify/changeItemState?librarySectionID=1&metadataItemID=5133&metadataType=1&state=-1&mediaState=idle

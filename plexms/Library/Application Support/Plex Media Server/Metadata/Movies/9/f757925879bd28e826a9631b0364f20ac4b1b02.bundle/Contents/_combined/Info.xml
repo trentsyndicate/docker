@@ -1,0 +1,451 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Movie>
+  <art>
+    <item external="True" url="http://image.tmdb.org/t/p/original/fVEuMOlwoevXuPOXODgl6MR5HZl.jpg" sort_order="1" provider="com.plexapp.agents.imdb" media="com.plexapp.agents.imdb_94652ca90ba7f32ad912ebc3bbc5ba2aa89bc533"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/oAdMYqMLrHpb0ceGz3jrYWm1VUN.jpg" preview="com.plexapp.agents.imdb_01166265f2b2155ade0d71197d5d8e3f87af1150" sort_order="2" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/7S9Y0txZ1SHyfS608xaXs4J5Ajx.jpg" preview="com.plexapp.agents.imdb_c221ccd04e56e31c8afc2cc468af7a041b5eb833" sort_order="3" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/ZpVK4T1Ooxk2f4x1enJAMZ6b5M.jpg" preview="com.plexapp.agents.imdb_2806cdaf1c69feb44e9742ba0d6aa32c5b5b5cf8" sort_order="4" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/xCnxYy1WyPBp6ImcjEe8KezPryq.jpg" preview="com.plexapp.agents.imdb_4854c7a6608ca4fc2a687b815a0dd06aad70d0e5" sort_order="5" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/qWDJbtzPsaKHzMp2u4w5GjbcDen.jpg" preview="com.plexapp.agents.imdb_7df929eee7f7ff5674b7f9f0e827b33e88fa32e0" sort_order="6" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/rT7ig7komPTVi2YIPByNN2kU33Q.jpg" preview="com.plexapp.agents.imdb_89b84edf0f78890bd476b100bab344504526950e" sort_order="7" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/11bfSY9sF1DODfaaNaTJvWOjBF7.jpg" preview="com.plexapp.agents.imdb_a55ba7ea8e48a094d74ac10394816e2fd1a2a295" sort_order="8" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/6jY8q1S0KVlW8eINwxBIkZvCOfh.jpg" preview="com.plexapp.agents.imdb_0529b77f1864c12a508b4fd870b6b937bb04c0f5" sort_order="9" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/oJG4m76WrduFwKtojx7s15ySHlY.jpg" preview="com.plexapp.agents.imdb_d218e0e75969bbb2074b88922882bedc3ac25f6c" sort_order="10" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/bnayvyxslbSILWDx2n3Y1GDbpAF.jpg" preview="com.plexapp.agents.imdb_8e948d034a63f27883ce40b311a3a778a2578d76" sort_order="11" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/8Ut9d6c6W34a13Cr3gCKNKYkGS.jpg" preview="com.plexapp.agents.imdb_e23c1daacd28cc2b49e415a8d30b2bcfda8bf175" sort_order="12" provider="com.plexapp.agents.imdb"/>
+  </art>
+  <banners/>
+  <chapters>
+    <item index="0">
+      <title>Chapter 1</title>
+      <end_time_offset>494000</end_time_offset>
+      <start_time_offset>0</start_time_offset>
+    </item>
+    <item index="1">
+      <title>Chapter 2</title>
+      <end_time_offset>788000</end_time_offset>
+      <start_time_offset>494000</start_time_offset>
+    </item>
+    <item index="2">
+      <title>Chapter 3</title>
+      <end_time_offset>1176000</end_time_offset>
+      <start_time_offset>788000</start_time_offset>
+    </item>
+    <item index="3">
+      <title>Chapter 4</title>
+      <end_time_offset>1397000</end_time_offset>
+      <start_time_offset>1176000</start_time_offset>
+    </item>
+    <item index="4">
+      <title>Chapter 5</title>
+      <end_time_offset>1642000</end_time_offset>
+      <start_time_offset>1397000</start_time_offset>
+    </item>
+    <item index="5">
+      <title>Chapter 6</title>
+      <end_time_offset>2002000</end_time_offset>
+      <start_time_offset>1642000</start_time_offset>
+    </item>
+    <item index="6">
+      <title>Chapter 7</title>
+      <end_time_offset>2442000</end_time_offset>
+      <start_time_offset>2002000</start_time_offset>
+    </item>
+    <item index="7">
+      <title>Chapter 8</title>
+      <end_time_offset>2869000</end_time_offset>
+      <start_time_offset>2442000</start_time_offset>
+    </item>
+    <item index="8">
+      <title>Chapter 9</title>
+      <end_time_offset>3227000</end_time_offset>
+      <start_time_offset>2869000</start_time_offset>
+    </item>
+    <item index="9">
+      <title>Chapter 10</title>
+      <end_time_offset>3700000</end_time_offset>
+      <start_time_offset>3227000</start_time_offset>
+    </item>
+    <item index="10">
+      <title>Chapter 11</title>
+      <end_time_offset>4038000</end_time_offset>
+      <start_time_offset>3700000</start_time_offset>
+    </item>
+    <item index="11">
+      <title>Chapter 12</title>
+      <end_time_offset>4355000</end_time_offset>
+      <start_time_offset>4038000</start_time_offset>
+    </item>
+    <item index="12">
+      <title>Chapter 13</title>
+      <end_time_offset>4787000</end_time_offset>
+      <start_time_offset>4355000</start_time_offset>
+    </item>
+    <item index="13">
+      <title>Chapter 14</title>
+      <end_time_offset>5232000</end_time_offset>
+      <start_time_offset>4787000</start_time_offset>
+    </item>
+    <item index="14">
+      <title>Chapter 15</title>
+      <end_time_offset>5708000</end_time_offset>
+      <start_time_offset>5232000</start_time_offset>
+    </item>
+    <item index="15">
+      <title>Chapter 16</title>
+      <end_time_offset>-1</end_time_offset>
+      <start_time_offset>5708000</start_time_offset>
+    </item>
+  </chapters>
+  <collections/>
+  <content_rating>R</content_rating>
+  <countries>
+    <item index="0">USA</item>
+  </countries>
+  <directors>
+    <item index="0">
+      <photo/>
+      <role/>
+      <name>Jeremy Garelick</name>
+    </item>
+  </directors>
+  <duration>6060000</duration>
+  <genres>
+    <item index="0">Comedy</item>
+  </genres>
+  <originally_available_at>2015-01-16</originally_available_at>
+  <posters>
+    <item external="True" url="http://image.tmdb.org/t/p/original/u3gLkiOpkNb01r7yvrbbOfBJv3R.jpg" sort_order="1" provider="com.plexapp.agents.imdb" media="com.plexapp.agents.imdb_b3df083d6af80a2be6030ecfe5cf5d221c1bad9a"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/36oXdfinQFkfKc73dbagQhKmWcC.jpg" preview="com.plexapp.agents.imdb_80e71d45ec780399c016112243f59317070ff62c" sort_order="2" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/6IiGHtmqKIHe8rc0J8Urns4BUm6.jpg" preview="com.plexapp.agents.imdb_d2f862dd8d4364c742715cb23b0d748501a5ed1c" sort_order="3" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/s7LTrF76MZ1MUFB2vOE3pQHXmDk.jpg" preview="com.plexapp.agents.imdb_e7f2a81576357a66b7156958bb4ed4a522edd094" sort_order="4" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/ebbPRRKSrql7Uar1gtwBa6pOs0H.jpg" preview="com.plexapp.agents.imdb_39c02383dbdc1540ec3ff163193e6f80d73918ab" sort_order="5" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/ysyysuzH82c5oGjuJlvzICHdKxp.jpg" preview="com.plexapp.agents.imdb_4f1622862dc978df3ee540645f12abe2fcbf1b3c" sort_order="6" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/lAe13OiS5E4nXddmbA8d9SSZSzv.jpg" preview="com.plexapp.agents.imdb_3ae4f71497806f00ed263d28eb3ace2c0733a71b" sort_order="7" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/vlB1J8u0WCu2FirYqPf0ziVyDMK.jpg" preview="com.plexapp.agents.imdb_38a8b814a1bc544faf70810053700290a8fbeb54" sort_order="8" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/vgrDW6RwNlmPTEEqltVQ7DPN2Hs.jpg" preview="com.plexapp.agents.imdb_343fc2e249d70e83e74c5d2582c96ae42c43f967" sort_order="9" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/aTQLB5dmCNyR8Pf735G2JjFO9Y.jpg" preview="com.plexapp.agents.imdb_8ebe3ee8874cbc444b1aa9d0da1cdc89656270d7" sort_order="10" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/3K4tysTcGKPx8hoBwVZF55HQYmD.jpg" preview="com.plexapp.agents.imdb_19d708f506f14fccc83421b27731a1b4e4c0b4d3" sort_order="11" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/7seLl8IoDI4erWzo8OeZbVLW6l1.jpg" preview="com.plexapp.agents.imdb_e339b5c70688da43de67b1be2f1251f528ca5b06" sort_order="12" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/ilKzvVJhghzfiK4qiTwc5qjtKhm.jpg" preview="com.plexapp.agents.imdb_97bdee9aab192c1d2bee26c17eec97f8b06ed0cc" sort_order="13" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/tRBLAGWp0xcTBDt719VTiKRGT9L.jpg" preview="com.plexapp.agents.imdb_fb0c0503a1dca983fe47c4207a5d765fe0743aec" sort_order="14" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/2hi1LlzI7IhuU0WUs6hNumlux75.jpg" preview="com.plexapp.agents.imdb_f636c03b6d609a2b93832987b346ed9ade43402f" sort_order="15" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/muQhIQ0hFFYVzxKSTVdFkoie664.jpg" preview="com.plexapp.agents.imdb_629fc4eb7a22d6cce7e0415ab955b1c650bed20b" sort_order="16" provider="com.plexapp.agents.imdb"/>
+  </posters>
+  <producers>
+    <item index="0">
+      <photo/>
+      <role/>
+      <name>Valerie Bleth Sharp</name>
+    </item>
+  </producers>
+  <rating>2.8</rating>
+  <rating_image>rottentomatoes://image.rating.rotten</rating_image>
+  <audience_rating>6.3</audience_rating>
+  <audience_rating_image>rottentomatoes://image.rating.spilled</audience_rating_image>
+  <reviews>
+    <item index="0">
+      <text>The plot's old, the title's borrowed and the jokes are blue - but there's nothing remotely new in this wearying bromantic comedy.</text>
+      <source>Time Out</source>
+      <image>rottentomatoes://image.review.rotten</image>
+      <link>http://www.timeout.com/london/film/the-wedding-ringer</link>
+      <author>Tom Huddleston</author>
+    </item>
+    <item index="1">
+      <text>Screenwriters Jeremy Garelick and Jay Lavender don't even try to make the premise seem plausible; rather, they use it as a springboard for screwball complications and verbal humor.</text>
+      <source>Chicago Reader</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>http://www.chicagoreader.com/chicago/the-wedding-ringer/MovieTimes?oid=16054130</link>
+      <author>Ben Sachs</author>
+    </item>
+    <item index="2">
+      <text>What saves the film are its two leads, who aren't afraid to show their sensitive sides -- along with other parts of themselves.</text>
+      <source>Newsday</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>http://www.newsday.com/entertainment/movies/the-wedding-ringer-review-kevin-hart-josh-gad-s-chemistry-saves-the-day-1.9809494</link>
+      <author>Rafer Guzman</author>
+    </item>
+    <item index="3">
+      <text>The Wedding Ringer feels spat out for people who love Katherine Heigl movies but wish that Eddie Murphy were in her role instead.</text>
+      <source>Grantland</source>
+      <image>rottentomatoes://image.review.rotten</image>
+      <link>http://grantland.com/hollywood-prospectus/blackhat-taken-3-the-wedding-ringer-review/</link>
+      <author>Wesley Morris</author>
+    </item>
+    <item index="4">
+      <text>A mostly disposable, occasionally quite funny bromance distinguished at times by its earnestness.</text>
+      <source>New York Magazine/Vulture</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>http://www.vulture.com/2015/01/movie-review-the-wedding-ringer.html</link>
+      <author>Bilge Ebiri</author>
+    </item>
+    <item index="5">
+      <text>Hart rants, Gad fidgets, and together this pair barrels through the plot, shaping between them a surprisingly potent friendship.</text>
+      <source>Village Voice</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>http://www.villagevoice.com/2015-01-14/film/the-wedding-ringer-s-crass-and-dumb-but-kevin-hart-proves-why-he-s-hollywood-s-comedy-king/</link>
+      <author>Alan Scherstuhl</author>
+    </item>
+    <item index="6">
+      <text>If you're at the multiplex in the middle of the afternoon, and "The Wedding Ringer" is the only movie playing at a time that's convenient, you won't be completely miserable. This is not exactly a ringing endorsement, I realize.</text>
+      <source>RogerEbert.com</source>
+      <image>rottentomatoes://image.review.rotten</image>
+      <link>http://www.rogerebert.com/reviews/the-wedding-ringer-2015</link>
+      <author>Christy Lemire</author>
+    </item>
+    <item index="7">
+      <text>This isn't something anyone really needs to buy. It's OK, it'll do but - like Hart's character - it's strictly a rental.</text>
+      <source>Newark Star-Ledger</source>
+      <image>rottentomatoes://image.review.rotten</image>
+      <link>http://www.nj.com/entertainment/index.ssf/2015/01/the_wedding_ringer_review_something_borrowed_somet.html</link>
+      <author>Stephen Whitty</author>
+    </item>
+    <item index="8">
+      <text>Love hurts, but Jeremy Garelick's The Wedding Ringer is truly painful.</text>
+      <source>Globe and Mail</source>
+      <image>rottentomatoes://image.review.rotten</image>
+      <link>http://www.theglobeandmail.com/arts/film/film-reviews/the-wedding-ringer-skip-this-so-called-comedy/article22467021/</link>
+      <author>Kiva Reardon</author>
+    </item>
+    <item index="9">
+      <text>Hart is laser-focused and in-the-moment, and is consistently better than everything around him. He and Gad have the makings of a Will Smith and Kevin James in "Hitch" thing going on, but the script doesn't allow them to explore that dynamic.</text>
+      <source>Detroit News</source>
+      <image>rottentomatoes://image.review.rotten</image>
+      <link>http://www.detroitnews.com/story/entertainment/movies/2015/01/16/wedding-ringer-waste-kevin-hart/21822569/</link>
+      <author>Adam Graham</author>
+    </item>
+    <item index="10">
+      <text>By the time Jeremy Garelick's movie gets to the altar, it does hit a groove. But by then, the humor feels like stale champagne.</text>
+      <source>New York Daily News</source>
+      <image>rottentomatoes://image.review.rotten</image>
+      <link>http://www.nydailynews.com/entertainment/kevin-hart-save-unfunny-wedding-ringer-article-1.2079600</link>
+      <author>Joe Neumaier</author>
+    </item>
+    <item index="11">
+      <text>I almost passed out, hyperventilating after uncontrollable bursts of hyena laughs. It took a full evening's rest for the ache to dissipate from the belly.</text>
+      <source>Philadelphia Inquirer</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>http://www.philly.com/philly/entertainment/movies/20150116_Riotous__potty-mouthed__touching_bromance_tale.html</link>
+      <author>Tirdad Derakhshani</author>
+    </item>
+    <item index="12">
+      <text>Unless your idea of the ultimate screen comedy is to witness how many different ways a fat guy can fall down in one film, you're probably better off breaking off this engagement.</text>
+      <source>Entertainment Weekly</source>
+      <image>rottentomatoes://image.review.rotten</image>
+      <link>http://www.ew.com/ew/article/0,,20892796,00.html</link>
+      <author>Jason Clark</author>
+    </item>
+    <item index="13">
+      <text>The Wedding Ringer is a soft-hearted bromance, albeit one dotted with moments of surprisingly out-there bad taste.</text>
+      <source>Toronto Sun</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>http://www.torontosun.com/2015/01/15/the-wedding-ringer-review-kevin-hart-comedy-serves-up-plenty-of-laughs</link>
+      <author>Jim Slotek</author>
+    </item>
+    <item index="14">
+      <text>The Wedding Ringer is imperfect but its imperfections are tolerable because they're accompanied by a dollop of drama, a measure of laughter, and an oversized helping of Kevin Hart.</text>
+      <source>ReelViews</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>http://www.reelviews.net/php_review_template.php?identifier=2853</link>
+      <author>James Berardinelli</author>
+    </item>
+    <item index="15">
+      <text>The director Jeremy Garelick, who wrote the script with Jay Lavender, takes the shortest route whenever possible, which usually means a gratuitous insult.</text>
+      <source>New York Times</source>
+      <image>rottentomatoes://image.review.rotten</image>
+      <link>http://www.nytimes.com/2015/01/16/movies/kevin-hart-in-the-wedding-ringer.html?partner=rss&amp;emc=rss</link>
+      <author>Nicolas Rapold</author>
+    </item>
+    <item index="16">
+      <text>Not since Wild Hogs, perhaps, has a comedy so repeatedly insisted that there's nothing funnier than the thought of two men touching each other.</text>
+      <source>AV Club</source>
+      <image>rottentomatoes://image.review.rotten</image>
+      <link>http://www.avclub.com/review/wedding-ringer-100-minute-gay-joke-masquerading-bu-213905</link>
+      <author>A.A. Dowd</author>
+    </item>
+    <item index="17">
+      <text>Too often the filmmakers go for cheap shots.</text>
+      <source>Los Angeles Times</source>
+      <image>rottentomatoes://image.review.rotten</image>
+      <link>http://www.latimes.com/entertainment/movies/la-et-mn-wedding-ringer-20150116-column.html#navtype=outfit</link>
+      <author>Betsy Sharkey</author>
+    </item>
+    <item index="18">
+      <text>Squeezes out some weak laughs amid alternating scenes of gross behaviour and sickly sweet male bonding confessionals.</text>
+      <source>Toronto Star</source>
+      <image>rottentomatoes://image.review.rotten</image>
+      <link>http://www.thestar.com/entertainment/movies/2015/01/15/the-wedding-ringer-bromance-deserves-no-love-review.html</link>
+      <author>Linda Barnard</author>
+    </item>
+    <item index="19">
+      <text>Hart is such a skilled comic - his lightning-fast riffs are almost always funny, even when they're in the midst of hateful dreck like this - that I can't believe he can't talk his way into better material.</text>
+      <source>New York Post</source>
+      <image>rottentomatoes://image.review.rotten</image>
+      <link>http://nypost.com/2015/01/15/kevin-harts-wedding-ringer-will-make-you-say-i-dont/</link>
+      <author>Sara Stewart</author>
+    </item>
+  </reviews>
+  <roles>
+    <item index="0">
+      <photo>http://image.tmdb.org/t/p/original/9zxRAhWMxhVrgDnUysvTGLW7fcW.jpg</photo>
+      <role>Jimmy Callahan / Bic</role>
+      <name>Kevin Hart</name>
+    </item>
+    <item index="1">
+      <photo>http://image.tmdb.org/t/p/original/6ctni3kK4lPteBAInd7kKZyCdZD.jpg</photo>
+      <role>Doug Harris</role>
+      <name>Josh Gad</name>
+    </item>
+    <item index="2">
+      <photo>http://image.tmdb.org/t/p/original/dL5h5YNBaGNLnwW5UWr42JMeO1k.jpg</photo>
+      <role>Gretchen Palmer</role>
+      <name>Kaley Cuoco</name>
+    </item>
+    <item index="3">
+      <photo>http://image.tmdb.org/t/p/original/n5yizWKYmVVmq3J1jSSCbrzLOYI.jpg</photo>
+      <role>Reggie / DrysDale</role>
+      <name>Affion Crockett</name>
+    </item>
+    <item index="4">
+      <photo>http://image.tmdb.org/t/p/original/sPvMz5gWUbYc1vw0waieVIhkyb0.jpg</photo>
+      <role>Lurch / Garvey</role>
+      <name>Jorge Garcia</name>
+    </item>
+    <item index="5">
+      <photo>http://image.tmdb.org/t/p/original/jbJOr0gOb7jcWs5bSGgCgrdfehh.jpg</photo>
+      <role>Otis / Alzado</role>
+      <name>Corey Holcomb</name>
+    </item>
+    <item index="6">
+      <photo>http://image.tmdb.org/t/p/original/uS0ad3oElzhCBBseeY7i6lR0K1q.jpg</photo>
+      <role>Ed Palmer</role>
+      <name>Ken Howard</name>
+    </item>
+    <item index="7">
+      <photo>http://image.tmdb.org/t/p/original/iuDGY5PP1lZzbzbQgq4O08Q69gA.jpg</photo>
+      <role>Grandma Palmer</role>
+      <name>Cloris Leachman</name>
+    </item>
+    <item index="8">
+      <photo>http://image.tmdb.org/t/p/original/yMClokTiKKwa3KWSfxT1wsy9YZ.jpg</photo>
+      <role>Doris Jenkins</role>
+      <name>Jenifer Lewis</name>
+    </item>
+    <item index="9">
+      <photo>http://image.tmdb.org/t/p/original/cTXSghmtclAmeTSg4lBBjeOwpoQ.jpg</photo>
+      <role>Lois Palmer</role>
+      <name>Mimi Rogers</name>
+    </item>
+    <item index="10">
+      <photo>http://image.tmdb.org/t/p/original/qhvi1JlCwgYOdnprP7MT9f2XZpS.jpg</photo>
+      <role>Endo</role>
+      <name>Aaron Takahashi</name>
+    </item>
+    <item index="11">
+      <photo>http://image.tmdb.org/t/p/original/kDzFwMc2WZZQD3No2ULn3G8Sj42.jpg</photo>
+      <role>Alison Palmer</role>
+      <name>Olivia Thirlby</name>
+    </item>
+    <item index="12">
+      <photo>http://image.tmdb.org/t/p/original/5jx02LRC88mmIroF4Hz0yI9GTNS.jpg</photo>
+      <role>Nadia</role>
+      <name>Nicky Whelan</name>
+    </item>
+    <item index="13">
+      <photo>http://image.tmdb.org/t/p/original/aCyp11i8yTFqa8vOAksarDkRfR7.jpg</photo>
+      <role>Kip / Carew</role>
+      <name>Alan Ritchson</name>
+    </item>
+    <item index="14">
+      <photo>http://image.tmdb.org/t/p/original/A9yzvTdccESsDUvxFvM6BDvaE9J.jpg</photo>
+      <role>Mimi</role>
+      <name>Mimi Gianopulos</name>
+    </item>
+    <item index="15">
+      <photo>http://image.tmdb.org/t/p/original/kU86VuJdiEfpfE6hfckEzCCHRJn.jpg</photo>
+      <role>15 Year Old Girl</role>
+      <name>Nikki Leigh</name>
+    </item>
+    <item index="16">
+      <photo>http://image.tmdb.org/t/p/original/szOFUzwnXbZKVMXsUhGPUfJc4sn.jpg</photo>
+      <role>Marci</role>
+      <name>Amy Okuda</name>
+    </item>
+    <item index="17">
+      <photo/>
+      <role>Hot Model</role>
+      <name>Catherine Chen</name>
+    </item>
+    <item index="18">
+      <photo>http://image.tmdb.org/t/p/original/afPrf6T4ZCHlayvpaIgGU2FRNSm.jpg</photo>
+      <role>Bronstein / Dickerson</role>
+      <name>Dan Gill</name>
+    </item>
+    <item index="19">
+      <photo>http://image.tmdb.org/t/p/original/cOvrfnFpNln0VP2P0CChXjPWVTf.jpg</photo>
+      <role>Fitzgibbons / Plunkett</role>
+      <name>Colin Kane</name>
+    </item>
+    <item index="20">
+      <photo>http://image.tmdb.org/t/p/original/pXWWjNHwP0t8DQS70FGzyqz4N5P.jpg</photo>
+      <role>Holly Munk</role>
+      <name>Whitney Cummings</name>
+    </item>
+    <item index="21">
+      <photo>http://image.tmdb.org/t/p/original/g8zL6qlTiM941DGDDMhoC9Bq2fu.jpg</photo>
+      <role>Edmundo / Dirty Eddie Sanchez</role>
+      <name>Ignacio Serricchio</name>
+    </item>
+    <item index="22">
+      <photo>http://image.tmdb.org/t/p/original/2YQfQ1Yby5haOqkYTtpWZkflWA3.jpg</photo>
+      <role>Andrew</role>
+      <name>Patrick Carlyle</name>
+    </item>
+    <item index="23">
+      <photo/>
+      <role>Vicky / Garvey</role>
+      <name>Vicky Kadian</name>
+    </item>
+  </roles>
+  <similar>
+    <item index="0">Get Hard</item>
+    <item index="1">Unfinished Business</item>
+    <item index="2">Let's Be Cops</item>
+    <item index="3">Ride Along</item>
+    <item index="4">Hot Tub Time Machine 2</item>
+    <item index="5">The Cobbler</item>
+    <item index="6">Think Like a Man Too</item>
+    <item index="7">Ride Along 2</item>
+    <item index="8">Paul Blart: Mall Cop 2</item>
+    <item index="9">About Last Night</item>
+    <item index="10">Horrible Bosses 2</item>
+    <item index="11">Top Five</item>
+    <item index="12">Blended</item>
+    <item index="13">Think Like a Man</item>
+    <item index="14">Hot Pursuit</item>
+    <item index="15">This Is Where I Leave You</item>
+    <item index="16">Delivery Man</item>
+    <item index="17">Alexander and the Terrible, Horrible, No Good, Very Bad Day</item>
+    <item index="18">Daddy's Home</item>
+    <item index="19">Walk of Shame</item>
+  </similar>
+  <studio>Miramax</studio>
+  <summary>Doug Harris is a loveable but socially awkward groom-to-be with a problem: he has no best man.  With less than two weeks to go until he marries the girl of his dreams, Doug is referred to Jimmy Callahan, owner and CEO of Best Man, Inc., a company that provides flattering best men for socially challenged guys in need.  What ensues is a hilarious wedding charade as they try to pull off the big con, and an unexpected budding bromance between Doug and his fake&#13; best man Jimmy.</summary>
+  <tagline>He's the best man... money can buy.</tagline>
+  <tags/>
+  <themes/>
+  <title>The Wedding Ringer</title>
+  <writers>
+    <item index="0">
+      <photo/>
+      <role/>
+      <name>Jeremy Garelick</name>
+    </item>
+    <item index="1">
+      <photo/>
+      <role/>
+      <name>Jay Lavender</name>
+    </item>
+  </writers>
+  <year>2015</year>
+</Movie>

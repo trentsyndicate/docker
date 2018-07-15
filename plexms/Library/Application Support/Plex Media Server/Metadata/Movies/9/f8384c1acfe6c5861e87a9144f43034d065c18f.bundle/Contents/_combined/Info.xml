@@ -1,0 +1,529 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Movie>
+  <art>
+    <item external="True" url="http://image.tmdb.org/t/p/original/wu0Hb0k6mgAY9q4CI214bELrika.jpg" sort_order="1" provider="com.plexapp.agents.imdb" media="com.plexapp.agents.imdb_ee86a7b4c2804982a6f9819c9f99ee0ff86aa3f9"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/hY8myWhjSOUeeiPskhOfwwgaCwc.jpg" preview="com.plexapp.agents.imdb_ac988b1a314edaf32bca3c007988870d445946cf" sort_order="2" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/cVIb8GGPzASoN9j9z1jIJD942oJ.jpg" preview="com.plexapp.agents.imdb_772fa175b92c4a0362229468d322f1a618cbe5b1" sort_order="3" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/onwL980bZNjgacpcenUIVB8DJG2.jpg" preview="com.plexapp.agents.imdb_ca5f9b75061ff8dd0661a67951e126bb7b329e4f" sort_order="4" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/8msKmZRcieFoSSnLZIsJNBbeuXG.jpg" preview="com.plexapp.agents.imdb_b867b883fd80f0573f148ec16200df5b3170595f" sort_order="5" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/enFR2T1KLnzPV9ZWVeH8nPvyUEL.jpg" preview="com.plexapp.agents.imdb_90a18a5795265a821814a15ce0ff1097fee02661" sort_order="6" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/dBR2ihdhZBLNNczpxJMuxRPoGk0.jpg" preview="com.plexapp.agents.imdb_8b018e9dacc2700cd69888f4fad12612bf171589" sort_order="7" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/vSd2YQugYo54Wh6SOyF29qlkT2u.jpg" preview="com.plexapp.agents.imdb_3e53a49cc36fac39cfd90cff0171127ba256c113" sort_order="8" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/1PBkAWyShubdjIcrnhwBsAeBCyt.jpg" preview="com.plexapp.agents.imdb_cc3b423ec151d8706892a2c95872ac177233b209" sort_order="9" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/j7pW3PVc87W4c43rd1hA9H5jrdv.jpg" preview="com.plexapp.agents.imdb_ba77f54abfdaab5e90b2940cdd610f59ef26c608" sort_order="10" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/r9LLBXojjsQVMXOSfHYTl3rQH1a.jpg" preview="com.plexapp.agents.imdb_6ae11b37bb631fd24b4d38efad8befb4c819adb1" sort_order="11" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/1Z9lYUQERZhtXpJJsnadVBl6oFJ.jpg" preview="com.plexapp.agents.imdb_0be3f3594f52f093e0f05d898d7260c90a9d47bb" sort_order="12" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/doXZn77TXXNzmJehVyP8wz3sKe.jpg" preview="com.plexapp.agents.imdb_640abaf1525184a6bb86462308a4af6809713fec" sort_order="13" provider="com.plexapp.agents.imdb"/>
+  </art>
+  <banners/>
+  <chapters>
+    <item index="0">
+      <title>Chapter 1</title>
+      <end_time_offset>286000</end_time_offset>
+      <start_time_offset>0</start_time_offset>
+    </item>
+    <item index="1">
+      <title>Chapter 2</title>
+      <end_time_offset>540000</end_time_offset>
+      <start_time_offset>286000</start_time_offset>
+    </item>
+    <item index="2">
+      <title>Chapter 3</title>
+      <end_time_offset>929000</end_time_offset>
+      <start_time_offset>540000</start_time_offset>
+    </item>
+    <item index="3">
+      <title>Chapter 4</title>
+      <end_time_offset>1270000</end_time_offset>
+      <start_time_offset>929000</start_time_offset>
+    </item>
+    <item index="4">
+      <title>Chapter 5</title>
+      <end_time_offset>1606000</end_time_offset>
+      <start_time_offset>1270000</start_time_offset>
+    </item>
+    <item index="5">
+      <title>Chapter 6</title>
+      <end_time_offset>1880000</end_time_offset>
+      <start_time_offset>1606000</start_time_offset>
+    </item>
+    <item index="6">
+      <title>Chapter 7</title>
+      <end_time_offset>2057000</end_time_offset>
+      <start_time_offset>1880000</start_time_offset>
+    </item>
+    <item index="7">
+      <title>Chapter 8</title>
+      <end_time_offset>2373000</end_time_offset>
+      <start_time_offset>2057000</start_time_offset>
+    </item>
+    <item index="8">
+      <title>Chapter 9</title>
+      <end_time_offset>2829000</end_time_offset>
+      <start_time_offset>2373000</start_time_offset>
+    </item>
+    <item index="9">
+      <title>Chapter 10</title>
+      <end_time_offset>3235000</end_time_offset>
+      <start_time_offset>2829000</start_time_offset>
+    </item>
+    <item index="10">
+      <title>Chapter 11</title>
+      <end_time_offset>3743000</end_time_offset>
+      <start_time_offset>3235000</start_time_offset>
+    </item>
+    <item index="11">
+      <title>Chapter 12</title>
+      <end_time_offset>4198000</end_time_offset>
+      <start_time_offset>3743000</start_time_offset>
+    </item>
+    <item index="12">
+      <title>Chapter 13</title>
+      <end_time_offset>4976000</end_time_offset>
+      <start_time_offset>4198000</start_time_offset>
+    </item>
+    <item index="13">
+      <title>Chapter 14</title>
+      <end_time_offset>5225000</end_time_offset>
+      <start_time_offset>4976000</start_time_offset>
+    </item>
+    <item index="14">
+      <title>Chapter 15</title>
+      <end_time_offset>5684000</end_time_offset>
+      <start_time_offset>5225000</start_time_offset>
+    </item>
+    <item index="15">
+      <title>Chapter 16</title>
+      <end_time_offset>6149000</end_time_offset>
+      <start_time_offset>5684000</start_time_offset>
+    </item>
+    <item index="16">
+      <title>Chapter 17</title>
+      <end_time_offset>6480000</end_time_offset>
+      <start_time_offset>6149000</start_time_offset>
+    </item>
+    <item index="17">
+      <title>Chapter 18</title>
+      <end_time_offset>6819000</end_time_offset>
+      <start_time_offset>6480000</start_time_offset>
+    </item>
+    <item index="18">
+      <title>Chapter 19</title>
+      <end_time_offset>7214000</end_time_offset>
+      <start_time_offset>6819000</start_time_offset>
+    </item>
+    <item index="19">
+      <title>Chapter 20</title>
+      <end_time_offset>7631000</end_time_offset>
+      <start_time_offset>7214000</start_time_offset>
+    </item>
+    <item index="20">
+      <title>Chapter 21</title>
+      <end_time_offset>8294000</end_time_offset>
+      <start_time_offset>7631000</start_time_offset>
+    </item>
+    <item index="21">
+      <title>Chapter 22</title>
+      <end_time_offset>8659000</end_time_offset>
+      <start_time_offset>8294000</start_time_offset>
+    </item>
+    <item index="22">
+      <title>Chapter 23</title>
+      <end_time_offset>-1</end_time_offset>
+      <start_time_offset>8659000</start_time_offset>
+    </item>
+  </chapters>
+  <collections/>
+  <content_rating>R</content_rating>
+  <countries>
+    <item index="0">Malta</item>
+  </countries>
+  <directors>
+    <item index="0">
+      <photo>http://image.tmdb.org/t/p/original/cBJX9TOcJk1RQDaKrgYJRvYNUq1.jpg</photo>
+      <role/>
+      <name>Michael Bay</name>
+    </item>
+  </directors>
+  <duration>8640000</duration>
+  <genres>
+    <item index="0">Action</item>
+    <item index="1">Drama</item>
+    <item index="2">History</item>
+    <item index="3">Thriller</item>
+    <item index="4">War</item>
+  </genres>
+  <originally_available_at>2016-01-13</originally_available_at>
+  <posters>
+    <item external="True" url="http://image.tmdb.org/t/p/original/3Pq1SIxKgJ2kxOuhwxyf5uv7Tx9.jpg" sort_order="1" provider="com.plexapp.agents.imdb" media="com.plexapp.agents.imdb_8052ff0d2387cca965d84db056f950d84a5764a1"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/4gpW4MkRI0BB17GHOJzXq0WamDP.jpg" preview="com.plexapp.agents.imdb_f75c428c374e81e8430e061fea2100dbe4f9ec31" sort_order="2" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/yH26AEd2JY5PtbL95nwrh0t3sWi.jpg" preview="com.plexapp.agents.imdb_76c80b8fda4b5c675e4a06175e3714951f6f18f2" sort_order="3" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/m4ZfuML89Rq8gbRGdm9ncSibjlx.jpg" preview="com.plexapp.agents.imdb_59cc55f20ee67679c3c228053be932119cd57287" sort_order="4" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/4qnEeVPM8Yn5dIVC4k4yyjrUXeR.jpg" preview="com.plexapp.agents.imdb_095e361533a53d0f6b85a323edd209bd788df546" sort_order="5" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/lcciq8biCXP2TKdi62AjOYbnjOO.jpg" preview="com.plexapp.agents.imdb_54ade34d2f97a48cf7684d43a5e3d9c98ca64543" sort_order="6" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/bVEgd32x6gv1tK9fWWVfFejv5fM.jpg" preview="com.plexapp.agents.imdb_d40338a24bd01b8b2dfde23211ff51bc0f3bed43" sort_order="7" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/j5Ed2MVkYhHjwXWnAjy5gqpILcu.jpg" preview="com.plexapp.agents.imdb_f050c63702b47060d122389da8d5d3844dc4d3d4" sort_order="8" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/pHCuduwVbw7siOcRPXzwyM6pwxN.jpg" preview="com.plexapp.agents.imdb_a7ea8d3b6bd0a89aaab2d4bdc0272028edf21cfd" sort_order="9" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/vWPX2gAoDhlSoPIFQwUs5jpeKPs.jpg" preview="com.plexapp.agents.imdb_5a9c1d86d53132b98619f3cd04e50c409d5e73a3" sort_order="10" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/AbSAu50L5stkgrDdLTyXq0MVTOd.jpg" preview="com.plexapp.agents.imdb_ad3b1b7a1e038597131ced0bb6c8c8224e88bdb7" sort_order="11" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/ajWD1iMHY6diRLvIcYOAvG6jHUG.jpg" preview="com.plexapp.agents.imdb_dca07d0b3938da476df2c8e31e4da5427dc098c1" sort_order="12" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/ejpYrQKIPGKlqWnsD82FbRB9ihM.jpg" preview="com.plexapp.agents.imdb_5a695c1a05141a97dbe81fb8f0fcca4b6c105e51" sort_order="13" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/h8yzip0h5PPzZEO5rIa3FgiYAsc.jpg" preview="com.plexapp.agents.imdb_d3b0f2bec2a641d1ee5cb90163664c65d9a8c00f" sort_order="14" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/5KIinP9nJXvkwU6Y5TWsZM9ijko.jpg" preview="com.plexapp.agents.imdb_30a1608d4e843ad632e21d0a25686a922b02ccd7" sort_order="15" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/ba3mGzpULGWxTRBl7AvKh7ccUBS.jpg" preview="com.plexapp.agents.imdb_d3744f628c8444d62ee1eda99fcd12f4c816520b" sort_order="16" provider="com.plexapp.agents.imdb"/>
+  </posters>
+  <producers>
+    <item index="0">
+      <photo>http://image.tmdb.org/t/p/original/cBJX9TOcJk1RQDaKrgYJRvYNUq1.jpg</photo>
+      <role/>
+      <name>Michael Bay</name>
+    </item>
+    <item index="1">
+      <photo/>
+      <role/>
+      <name>Erwin Stoff</name>
+    </item>
+  </producers>
+  <rating>5.0</rating>
+  <rating_image>rottentomatoes://image.rating.rotten</rating_image>
+  <audience_rating>8.2</audience_rating>
+  <audience_rating_image>rottentomatoes://image.rating.upright</audience_rating_image>
+  <reviews>
+    <item index="0">
+      <text>The final word on this incident will require a more thoughtful filmmaker. But hopefully, that artist will possess at least half of Bay's punishing, peerless craft.</text>
+      <source>Time Out</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>http://www.timeout.com/us/film/13-hours-the-secret-soldiers-of-benghazi</link>
+      <author>Joshua Rothkopf</author>
+    </item>
+    <item index="1">
+      <text>The movie is imperfect and overlong but it's never boring. And, although aspects of its factual accuracy can be called into question, it does a decent job of chronicling what happened that night.</text>
+      <source>ReelViews</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>http://www.reelviews.net/reelviews/13-hours-the-secret-soldiers-of-benghazi</link>
+      <author>James Berardinelli</author>
+    </item>
+    <item index="2">
+      <text>Several critics have given 13 Hours a pass, citing Bay's skill at action engineering. It's his failure at everything else that makes this movie as hard to endure as it is impossible to believe. #helpme</text>
+      <source>Rolling Stone</source>
+      <image>rottentomatoes://image.review.rotten</image>
+      <link>http://www.rollingstone.com/movies/reviews/13-hours-the-secret-soldiers-of-benghazi-20160115</link>
+      <author>Peter Travers</author>
+    </item>
+    <item index="3">
+      <text>[Bay] does well here what he always does well: He keeps the action at full throttle. This is also what he does so annoyingly: He always keeps things at full throttle.</text>
+      <source>Christian Science Monitor</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>http://www.csmonitor.com/The-Culture/Movies/2016/0115/13-Hours-keeps-the-action-at-full-throttle-for-better-or-worse</link>
+      <author>Peter Rainer</author>
+    </item>
+    <item index="4">
+      <text>[Bay] is hell on manly banter amid the explosions ("Just another Tuesday night in Benghazi"), and also moments carefully calculated to make you feel the horrors - and the heroics - of war. Emphasis on "calculated."</text>
+      <source>San Diego Reader</source>
+      <image>rottentomatoes://image.review.rotten</image>
+      <link>http://www.sandiegoreader.com/movies/13-hours-the-secret-soldiers-of-benghazi/</link>
+      <author>Matthew Lickona</author>
+    </item>
+    <item index="5">
+      <text>Bay's action sequences are as riveting and technically beautiful as ever, but his reductive worldview is also on display. "13 Hours" doesn't just lionize its American soldiers, it oozes disdain for everyone else.</text>
+      <source>Newsday</source>
+      <image>rottentomatoes://image.review.rotten</image>
+      <link>http://www.newsday.com/entertainment/movies/13-hours-the-secret-soldiers-of-benghazi-review-dramatized-look-at-the-deadly-2012-benghazi-attack-1.11328669</link>
+      <author>Rafer Guzman</author>
+    </item>
+    <item index="6">
+      <text>13 Hours presents itself as a straightforward war film, but that's the last thing a subject this complex needed.</text>
+      <source>The Atlantic</source>
+      <image>rottentomatoes://image.review.rotten</image>
+      <link>http://www.theatlantic.com/entertainment/archive/2016/01/13-hours-michael-bay-benghazi-review/424299/</link>
+      <author>David Sims</author>
+    </item>
+    <item index="7">
+      <text>If they are suffering the fog of war, you are suffering the fog-of-action movie, a phenomenon that Bay is all too well equipped to create, having previously worked on the Transformers franchise.</text>
+      <source>Globe and Mail</source>
+      <image>rottentomatoes://image.review.rotten</image>
+      <link>http://www.theglobeandmail.com/arts/film/film-reviews/13-hours-michael-bays-take-on-benghazi-has-pain-but-little-gain/article28192593/</link>
+      <author>Kate Taylor</author>
+    </item>
+    <item index="8">
+      <text>"13 Hours" is so macho it practically has a Born to Lose tattoo on its arm. It's a military grade war machine, and it comes in the same way it goes out: with guns blazing.</text>
+      <source>Detroit News</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>http://www.detroitnews.com/story/entertainment/movies/2016/01/14/movie-review-bays-hours-favors-action-politics/78827932/</link>
+      <author>Adam Graham</author>
+    </item>
+    <item index="9">
+      <text>In 13 Hours, Bay is striving for something more realistic, and less Hollywood, than his World War II extravaganza. To some extent, he pulls it off.</text>
+      <source>Philadelphia Inquirer</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>http://www.philly.com/philly/entertainment/movies/20160115__quot_13_Hours__Secret_Soldiers_of_Benghazi_quot___Michael_Bay_action_pic_can_t_help_but_mix_politics__patriotism.html</link>
+      <author>Steven Rea</author>
+    </item>
+    <item index="10">
+      <text>A wholly fictitious bus blast had my audience applauding with glee. "That was for us!" a character grins. Yes, literally - it was invented for a crowd that prefers fist-pumping to facts.</text>
+      <source>L.A. Weekly</source>
+      <image>rottentomatoes://image.review.rotten</image>
+      <link>http://www.laweekly.com/film/13-hours-trades-truth-for-explosions-but-its-not-truly-political-6485050</link>
+      <author>Amy Nicholson</author>
+    </item>
+    <item index="11">
+      <text>The film wants us to feel, as one of the men they protect says, "I'm proud to know Americans like you," but we're never really given the opportunity.</text>
+      <source>Los Angeles Times</source>
+      <image>rottentomatoes://image.review.rotten</image>
+      <link>http://www.latimes.com/entertainment/movies/la-et-mn-13-hours-review-20160115-column.html</link>
+      <author>Kenneth Turan</author>
+    </item>
+    <item index="12">
+      <text>Bay's goal is to put you right in these men's boots, to feel the heat, the fear, the fatigue, the weight of the weapons and the web of camaraderie.</text>
+      <source>New York Post</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>http://nypost.com/2016/01/14/13-hours-is-a-salute-to-american-heroes-in-benghazi/</link>
+      <author>Kyle Smith</author>
+    </item>
+    <item index="13">
+      <text>The most surprising thing is how Michael Bay makes 144 minutes pass so quickly.</text>
+      <source>Associated Press</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>http://www.nwherald.com/2016/01/14/review-13-hours-is-thrilling-but-too-video-game-like/ahig9px/</link>
+      <author>Lindsey Bahr</author>
+    </item>
+    <item index="14">
+      <text>For Bay, the murky context of history isn't worth thinking about-yesterday's tragedies are today's passable action fodder.</text>
+      <source>NPR</source>
+      <image>rottentomatoes://image.review.rotten</image>
+      <link>http://www.npr.org/2016/01/14/462417204/13-hours-finds-fodder-for-action-but-not-thought-in-recent-history?utm_medium=RSS&amp;utm_campaign=movies</link>
+      <author>Scott Tobias</author>
+    </item>
+    <item index="15">
+      <text>The movie is a pummeling slog - 45 minutes of setup and an eternity of relentless combat.</text>
+      <source>New York Times</source>
+      <image>rottentomatoes://image.review.rotten</image>
+      <link>http://www.nytimes.com/2016/01/15/movies/review-in-michael-bays-13-hours-the-secret-soldiers-of-benghazi-clarity-isnt-the-objective.html?partner=rss&amp;emc=rss</link>
+      <author>Manohla Dargis</author>
+    </item>
+    <item index="16">
+      <text>All the performances are solid and the facts as Zuckoff's evenhanded book lays them out are adhered to. It's the writing that clanks and, worse, Bay's continuing inability to stage action sequences so that a viewer has any idea who's doing what to whom.</text>
+      <source>Boston Globe</source>
+      <image>rottentomatoes://image.review.rotten</image>
+      <link>http://www.bostonglobe.com/arts/movies/2016/01/14/hours-straight-combat-film/H9wGQD9BEWHsL8vHmCvDsJ/story.html</link>
+      <author>Ty Burr</author>
+    </item>
+    <item index="17">
+      <text>A relentlessly intense, grotesquely overblown and numbingly long account of extraordinary heroism on the part of six American security operators in the midst of horrific chaos.</text>
+      <source>Wall Street Journal</source>
+      <image>rottentomatoes://image.review.rotten</image>
+      <link>http://www.wsj.com/articles/13-hours-review-action-adventure-as-historical-text-1452801309</link>
+      <author>Joe Morgenstern</author>
+    </item>
+    <item index="18">
+      <text>13 Hours is a movie where the questions are asked first and the shooting happens later, the opposite of Bay's usual modus operandi. Bully for him and bravo for journalism, but it doesn't make for satisfying cinema.</text>
+      <source>Toronto Star</source>
+      <image>rottentomatoes://image.review.rotten</image>
+      <link>http://www.thestar.com/entertainment/movies/2016/01/14/13-hours-film-proves-director-michael-bay-should-stick-to-fiction-review.html</link>
+      <author>Peter Howell</author>
+    </item>
+  </reviews>
+  <roles>
+    <item index="0">
+      <photo>http://image.tmdb.org/t/p/original/9btguMswdiBg6PDAQeS4RBgU0w6.jpg</photo>
+      <role>Tyrone 'Rone' Woods</role>
+      <name>James Badge Dale</name>
+    </item>
+    <item index="1">
+      <photo>http://image.tmdb.org/t/p/original/nOWwdZURikW22qo6OUSGFCTukgc.jpg</photo>
+      <role>Jack Silva</role>
+      <name>John Krasinski</name>
+    </item>
+    <item index="2">
+      <photo>http://image.tmdb.org/t/p/original/fUGKNDsQnKCLzNrWyyBkx7O26XC.jpg</photo>
+      <role>Mark 'Oz' Geist</role>
+      <name>Max Martini</name>
+    </item>
+    <item index="3">
+      <photo>http://image.tmdb.org/t/p/original/uo8YljeePz3pbj7gvWXdB4gOOW4.jpg</photo>
+      <role>Kris 'Tanto' Paronto</role>
+      <name>Pablo Schreiber</name>
+    </item>
+    <item index="4">
+      <photo>http://image.tmdb.org/t/p/original/zZAbK5QVmZSqZzAe16mXWzgjrSs.jpg</photo>
+      <role>Glen 'Bub' Doherty</role>
+      <name>Toby Stephens</name>
+    </item>
+    <item index="5">
+      <photo>http://image.tmdb.org/t/p/original/79mhkiUnN4CbRun195Qm5oJZIDw.jpg</photo>
+      <role>John 'Tig' Tiegen</role>
+      <name>Dominic Fumusa</name>
+    </item>
+    <item index="6">
+      <photo>http://image.tmdb.org/t/p/original/4VwdiM9PUBxswxy7g7nGGeIC4o8.jpg</photo>
+      <role>Chris Stevens</role>
+      <name>Matt Letscher</name>
+    </item>
+    <item index="7">
+      <photo>http://image.tmdb.org/t/p/original/rT1dvSLZjlfiZm7VvD1qEbvZ34O.jpg</photo>
+      <role>Dave 'Boon' Benton</role>
+      <name>David Denman</name>
+    </item>
+    <item index="8">
+      <photo>http://image.tmdb.org/t/p/original/2osfqBBEX5nN2WcRPPwu8XUggUc.jpg</photo>
+      <role>Sona Jillani</role>
+      <name>Alexia Barlier</name>
+    </item>
+    <item index="9">
+      <photo>http://image.tmdb.org/t/p/original/w27DmU5PKwLNsr8fu85u2IRd9bp.jpg</photo>
+      <role>Brit Vayner</role>
+      <name>Freddie Stroma</name>
+    </item>
+    <item index="10">
+      <photo>http://image.tmdb.org/t/p/original/j0WailErU7LN1X82zrHgFsp5yOX.jpg</photo>
+      <role>Bob</role>
+      <name>David Costabile</name>
+    </item>
+    <item index="11">
+      <photo>http://image.tmdb.org/t/p/original/eLD0NU2F0rkbjcPWPtrOHvgmLv1.jpg</photo>
+      <role>Amahl</role>
+      <name>Payman Maadi</name>
+    </item>
+    <item index="12">
+      <photo>http://image.tmdb.org/t/p/original/xxtB8TfKLMw9Utx5v2b3Z0nu5VL.jpg</photo>
+      <role>DS Scott Wickland</role>
+      <name>David Giuntoli</name>
+    </item>
+    <item index="13">
+      <photo>http://image.tmdb.org/t/p/original/1mykiPXnsHhR3z8DHVw6L931a6T.jpg</photo>
+      <role>DS Agent Dave Ubben</role>
+      <name>Demetrius Grosse</name>
+    </item>
+    <item index="14">
+      <photo>http://image.tmdb.org/t/p/original/nBcSKrNKiBm22ATOi76eErDODef.jpg</photo>
+      <role>Sean Smith</role>
+      <name>Christopher Dingli</name>
+    </item>
+    <item index="15">
+      <photo>http://image.tmdb.org/t/p/original/dGhBf0LFuuYkDxF1Xt3j1nle3k7.jpg</photo>
+      <role>DS Alec</role>
+      <name>David Furr</name>
+    </item>
+    <item index="16">
+      <photo>http://image.tmdb.org/t/p/original/grh85ECqFz8h2Rbx7W0GSMrhLLV.jpg</photo>
+      <role>Becky Silva</role>
+      <name>Wrenn Schmidt</name>
+    </item>
+    <item index="17">
+      <photo>http://image.tmdb.org/t/p/original/y9OTxLNhvEpMtHnGTyX0XYaufdq.jpg</photo>
+      <role>Emily Silva</role>
+      <name>Ivy George</name>
+    </item>
+    <item index="18">
+      <photo>http://image.tmdb.org/t/p/original/fmOAQsjKmlbuw4cj5NPoXCyJQSE.jpg</photo>
+      <role>Beverly Silva</role>
+      <name>Julia Butters</name>
+    </item>
+    <item index="19">
+      <photo>http://image.tmdb.org/t/p/original/gfdGOFeuHMlszS0WTd3ugB1jcqz.jpg</photo>
+      <role>Azaan</role>
+      <name>Ben Youcef</name>
+    </item>
+    <item index="20">
+      <photo>http://image.tmdb.org/t/p/original/HFsMrviCGGtzucJ3iSLrnDKtsS.jpg</photo>
+      <role>CIA Agent</role>
+      <name>Elektra Anastasi</name>
+    </item>
+    <item index="21">
+      <photo>http://image.tmdb.org/t/p/original/id4PYjHRTlMkDXU0ZoC0vftNIIv.jpg</photo>
+      <role>Actress</role>
+      <name>Liisa Evastina</name>
+    </item>
+    <item index="22">
+      <photo>http://image.tmdb.org/t/p/original/9eZRWUIE055U0EafhmhOEtwLnTE.jpg</photo>
+      <role>Chief's Assistant</role>
+      <name>Steffi Thake</name>
+    </item>
+    <item index="23">
+      <photo>http://image.tmdb.org/t/p/original/Ae4ujU5P9eqUpHFejhA85kG5Lj6.jpg</photo>
+      <role>Viper</role>
+      <name>Kerim Troeller</name>
+    </item>
+    <item index="24">
+      <photo>http://image.tmdb.org/t/p/original/nZJyQ3oYZOVsCs6wN9RbVObUCix.jpg</photo>
+      <role>Delta 1</role>
+      <name>Kenny Sheard</name>
+    </item>
+    <item index="25">
+      <photo>http://image.tmdb.org/t/p/original/8j6A1n7RlSKesgvfyT9kbfQOlaw.jpg</photo>
+      <role>Delta Operator</role>
+      <name>Andrew Arrabito</name>
+    </item>
+    <item index="26">
+      <photo>http://image.tmdb.org/t/p/original/sr3M8suVcRlPyIPIeYywgR6lVRg.jpg</photo>
+      <role>Defence Attaché</role>
+      <name>Davide Tucci</name>
+    </item>
+    <item index="27">
+      <photo/>
+      <role>CIA Annex Cook</role>
+      <name>Shane Rowe</name>
+    </item>
+    <item index="28">
+      <photo/>
+      <role>CIA Agent</role>
+      <name>Gábor Bodis</name>
+    </item>
+    <item index="29">
+      <photo>http://image.tmdb.org/t/p/original/kmK20UNBpcZCBjUHsA88YVcW34O.jpg</photo>
+      <role>DS Vincent</role>
+      <name>Kevin Kent</name>
+    </item>
+    <item index="30">
+      <photo/>
+      <role>DS Wesley</role>
+      <name>Mike Moriarty</name>
+    </item>
+    <item index="31">
+      <photo/>
+      <role>Fahreed</role>
+      <name>Manuel Cauchi</name>
+    </item>
+    <item index="32">
+      <photo/>
+      <role>Hesham</role>
+      <name>Mohamed Naimane</name>
+    </item>
+  </roles>
+  <similar>
+    <item index="0">London Has Fallen</item>
+    <item index="1">Eye in the Sky</item>
+    <item index="2">The Finest Hours</item>
+    <item index="3">Deepwater Horizon</item>
+    <item index="4">Triple 9</item>
+    <item index="5">Lone Survivor</item>
+    <item index="6">Patriots Day</item>
+    <item index="7">Sicario</item>
+    <item index="8">Blood Father</item>
+    <item index="9">The Accountant</item>
+    <item index="10">Criminal</item>
+    <item index="11">Point Break</item>
+    <item index="12">The Gunman</item>
+    <item index="13">Run All Night</item>
+    <item index="14">Free State of Jones</item>
+    <item index="15">Money Monster</item>
+    <item index="16">Concussion</item>
+    <item index="17">Jack Reacher: Never Go Back</item>
+    <item index="18">War Dogs</item>
+    <item index="19">Jason Bourne</item>
+  </similar>
+  <studio>Paramount</studio>
+  <summary>An American Ambassador is killed during an attack at a U.S. compound in Libya as a security team struggles to make sense out of the chaos.</summary>
+  <tagline>When everything went wrong, six men had the courage to do what was right.</tagline>
+  <tags/>
+  <themes/>
+  <title>13 Hours: The Secret Soldiers of Benghazi</title>
+  <writers>
+    <item index="0">
+      <photo/>
+      <role/>
+      <name>Chuck Hogan</name>
+    </item>
+  </writers>
+  <year>2016</year>
+</Movie>

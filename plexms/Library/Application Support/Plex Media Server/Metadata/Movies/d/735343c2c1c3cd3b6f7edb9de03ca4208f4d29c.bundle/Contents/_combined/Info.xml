@@ -1,0 +1,519 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Movie>
+  <art>
+    <item external="True" url="http://image.tmdb.org/t/p/original/yKVjia9pJYKpsKfJ4heQgkwAyq8.jpg" sort_order="1" provider="com.plexapp.agents.imdb" media="com.plexapp.agents.imdb_a3d35cc752b9fc7b885f48729b9c730758527269"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/9EyaSNQXVzZ4eb9WVAH5TYTbYdU.jpg" preview="com.plexapp.agents.imdb_918468d31273df75241b26952844386423e71d00" sort_order="2" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/mxtI8MzEb88zMZbJeFgActTG3Dz.jpg" preview="com.plexapp.agents.imdb_a4f3fac6f751f00c830025eaf23472bb9d49d551" sort_order="3" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/3OrUrWE6XMxlonjNy8qe4LL6q4q.jpg" preview="com.plexapp.agents.imdb_a2d4d103bc8642f1b8483263ff07350e5abc90df" sort_order="4" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/A8gjKv34eExWeP791vDQ8K6e1tM.jpg" preview="com.plexapp.agents.imdb_12b29bac90a4c4158ffd8100ea8f6bcb6687c1c4" sort_order="5" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/85L3HZ1PVifexH2MU2CpUbcrOwh.jpg" preview="com.plexapp.agents.imdb_a76b75319769539118e97b6fe3eed72a79c9e78d" sort_order="6" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/3LDLJkKF6nkpR25DaIrEDCnFjpR.jpg" preview="com.plexapp.agents.imdb_b0ba894546db4622262dfe7946fe4645a89982d1" sort_order="7" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/vxsmU9IgSSd59C3ARg0KIhJzYwy.jpg" preview="com.plexapp.agents.imdb_4bb4b1b716336ba1edd1d083b4d062f4a40fdc9c" sort_order="8" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/leYFQt6pxzR4FXB1i9WfA6zdpZQ.jpg" preview="com.plexapp.agents.imdb_5675478bb2d42b14709bde41d0f5387eb33865de" sort_order="9" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/ndtTFhwqCwhsTU6HjONR9bpwmED.jpg" preview="com.plexapp.agents.imdb_a719896997462b43d213777b33c341e361549544" sort_order="10" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/ulvzXOOPjX5qzL3SKEwNZYt0whG.jpg" preview="com.plexapp.agents.imdb_a2a4b7684a641c9338ade0f3172e04322140dcdb" sort_order="11" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/hn4yG2vjMPTL3QokbPY4gj29H4p.jpg" preview="com.plexapp.agents.imdb_b3e629d1668616f325e4a13a9fdcf0afab994f55" sort_order="12" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/9IN6M6qkwZGqvay6IwpekvnONrK.jpg" preview="com.plexapp.agents.imdb_4616d09d0d69338e9281cd41da197e04250c538b" sort_order="13" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/4tL1g7vdMpXR6yK6wwOgodOtKQn.jpg" preview="com.plexapp.agents.imdb_aff13f5430d41b10cf23715c93f3edb370c61231" sort_order="14" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/qPkZA82DRrLPLDgdKkaos6udq6R.jpg" preview="com.plexapp.agents.imdb_f9c9f74f112cc105d32e8b4e1eaf80f142f9c759" sort_order="15" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/hNskao5Ll6o6W5Ud7eKeFzosrKY.jpg" preview="com.plexapp.agents.imdb_ccb7574572aee3206bb4a8a24e687e69e0ec1738" sort_order="16" provider="com.plexapp.agents.imdb"/>
+  </art>
+  <banners/>
+  <chapters>
+    <item index="0">
+      <title>Chapter 1</title>
+      <end_time_offset>593000</end_time_offset>
+      <start_time_offset>0</start_time_offset>
+    </item>
+    <item index="1">
+      <title>Chapter 2</title>
+      <end_time_offset>1251000</end_time_offset>
+      <start_time_offset>593000</start_time_offset>
+    </item>
+    <item index="2">
+      <title>Chapter 3</title>
+      <end_time_offset>1716000</end_time_offset>
+      <start_time_offset>1251000</start_time_offset>
+    </item>
+    <item index="3">
+      <title>Chapter 4</title>
+      <end_time_offset>2362000</end_time_offset>
+      <start_time_offset>1716000</start_time_offset>
+    </item>
+    <item index="4">
+      <title>Chapter 5</title>
+      <end_time_offset>2965000</end_time_offset>
+      <start_time_offset>2362000</start_time_offset>
+    </item>
+    <item index="5">
+      <title>Chapter 6</title>
+      <end_time_offset>3599000</end_time_offset>
+      <start_time_offset>2965000</start_time_offset>
+    </item>
+    <item index="6">
+      <title>Chapter 7</title>
+      <end_time_offset>4163000</end_time_offset>
+      <start_time_offset>3599000</start_time_offset>
+    </item>
+    <item index="7">
+      <title>Chapter 8</title>
+      <end_time_offset>4805000</end_time_offset>
+      <start_time_offset>4163000</start_time_offset>
+    </item>
+    <item index="8">
+      <title>Chapter 9</title>
+      <end_time_offset>5461000</end_time_offset>
+      <start_time_offset>4805000</start_time_offset>
+    </item>
+    <item index="9">
+      <title>Chapter 10</title>
+      <end_time_offset>5930000</end_time_offset>
+      <start_time_offset>5461000</start_time_offset>
+    </item>
+    <item index="10">
+      <title>Chapter 11</title>
+      <end_time_offset>6251000</end_time_offset>
+      <start_time_offset>5930000</start_time_offset>
+    </item>
+    <item index="11">
+      <title>Chapter 12</title>
+      <end_time_offset>-1</end_time_offset>
+      <start_time_offset>6251000</start_time_offset>
+    </item>
+  </chapters>
+  <collections/>
+  <content_rating>R</content_rating>
+  <countries>
+    <item index="0">USA</item>
+  </countries>
+  <directors>
+    <item index="0">
+      <photo>http://image.tmdb.org/t/p/original/5BrXeKb0XxT0g20F35ndC05ztbZ.jpg</photo>
+      <role/>
+      <name>Ruben Fleischer</name>
+    </item>
+  </directors>
+  <duration>6780000</duration>
+  <genres>
+    <item index="0">Action</item>
+    <item index="1">Crime</item>
+    <item index="2">Drama</item>
+    <item index="3">Thriller</item>
+  </genres>
+  <originally_available_at>2013-01-10</originally_available_at>
+  <posters>
+    <item external="True" url="http://image.tmdb.org/t/p/original/10yNEXaVBXp0mlnMrwwJ7Vvj6g5.jpg" sort_order="1" provider="com.plexapp.agents.imdb" media="com.plexapp.agents.imdb_be5c2a48b364216b73f9b118a1e64507b6813ec8"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/qutxlK5ggpFZ2Cq0a4sOUsUNvKB.jpg" preview="com.plexapp.agents.imdb_cbb201c0248d69a9a9a187fbb7484484d2461b30" sort_order="2" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/3xRduVQqXbwbEQdfUl49mw4P7Xi.jpg" preview="com.plexapp.agents.imdb_504422971daf3fe07a5c49035a4fd709e2ec1cc1" sort_order="3" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/zclRJfSAzgjTEv3JwGwFDQdEkhO.jpg" preview="com.plexapp.agents.imdb_a69b983b8a53c070b7ef40745a71d45cba771324" sort_order="4" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/6KczsVnj1ELrNThdGYaxO1tYmXY.jpg" preview="com.plexapp.agents.imdb_7e57086023d744178e0a415b2139e881d3e9c781" sort_order="5" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/syXKiJZLAqcUGFGbWndQqTxzW5a.jpg" preview="com.plexapp.agents.imdb_b3cc31a297ad6e6c09241158f7d3cd55aa1b580e" sort_order="6" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/c930rBiZuRFwRO4RK4PfGhEOd0s.jpg" preview="com.plexapp.agents.imdb_ea88434639cac74ec28d02aa3bca9ae6a31c7446" sort_order="7" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/aPNFOWUosOe4gHasrY32S2AAcCm.jpg" preview="com.plexapp.agents.imdb_52f6de9601691bc1032748f2cf13a2465ada0752" sort_order="8" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/8keIzofLkbcOsyP4OEPftkyzJIM.jpg" preview="com.plexapp.agents.imdb_91f7dc02adaa5bd2a7d40b359aadab4f48817767" sort_order="9" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/7LHKsTKHu3smC3A1CuJ4KJkMlHB.jpg" preview="com.plexapp.agents.imdb_a846b627aff029cc0719548338d2fb4a9bab7d4f" sort_order="10" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/fyUSmDxrMwRNclo1McXIcZzJUz6.jpg" preview="com.plexapp.agents.imdb_a358203b8aadbdd855a94add4914313f508e7258" sort_order="11" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/1Dyko0CeKnNF4KH4W0M3ox1FUJG.jpg" preview="com.plexapp.agents.imdb_2d81cb55087b900ea68c4e06364a2d23fb22d5cf" sort_order="12" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/62IXPAD8D5l4kN2GkccRAIOkRt4.jpg" preview="com.plexapp.agents.imdb_eb0f410289d2d7d5030a9a19066cc856bd264283" sort_order="13" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/jwvF9XlseUPuGLiduQj5HGwj8ON.jpg" preview="com.plexapp.agents.imdb_e64840909e81e5027f74dd8595cc7d708e40d106" sort_order="14" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/y7rwAGMjqRtiHh9KXroiBbuQrWX.jpg" preview="com.plexapp.agents.imdb_f10589cb22529dc75792db80acc1322faf64e761" sort_order="15" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/cT9daZtCraygOTnz9ueT7lqfuSq.jpg" preview="com.plexapp.agents.imdb_098beedc13eecef1f86de9e9647c61b8b0c61031" sort_order="16" provider="com.plexapp.agents.imdb"/>
+  </posters>
+  <producers>
+    <item index="0">
+      <photo>http://image.tmdb.org/t/p/original/qrQNLd6nHOWCIfDyybbSQZF7bze.jpg</photo>
+      <role/>
+      <name>Dan Lin</name>
+    </item>
+    <item index="1">
+      <photo/>
+      <role/>
+      <name>Kevin McCormick</name>
+    </item>
+    <item index="2">
+      <photo/>
+      <role/>
+      <name>Michael Tadross</name>
+    </item>
+    <item index="3">
+      <photo/>
+      <role/>
+      <name>Jon Silk</name>
+    </item>
+  </producers>
+  <rating>3.2</rating>
+  <rating_image>rottentomatoes://image.rating.rotten</rating_image>
+  <audience_rating>5.7</audience_rating>
+  <audience_rating_image>rottentomatoes://image.rating.spilled</audience_rating_image>
+  <reviews>
+    <item index="0">
+      <text>Gangster Squad looks the part, but it's so superficial it practically evaporates before our eyes.</text>
+      <source>CNN.com</source>
+      <image>rottentomatoes://image.review.rotten</image>
+      <link>http://www.cnn.com/2013/01/11/showbiz/movies/gangster-squad-review-charity/index.html?iref=allsearch</link>
+      <author>Tom Charity</author>
+    </item>
+    <item index="1">
+      <text>Some of the clothes and makeup feel as glossy as paint, but, those aside, we seem to browsing through a display of secondhand goods.</text>
+      <source>New Yorker</source>
+      <image>rottentomatoes://image.review.rotten</image>
+      <link>http://www.newyorker.com/arts/reviews/film/gangster_squad_fleischer</link>
+      <author>Anthony Lane</author>
+    </item>
+    <item index="2">
+      <text>It might sound like a stretch, imagining Penn playing that intense, indiosyncratic a villain. But the lauded, veteran actor pulls a left hook, then a right, and after a wild bodyshot at the tail end of the film, you see the true mania behind his eyes.</text>
+      <source>Denver Post</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>http://www.denverpost.com/movies/ci_22341778/movie-review-sean-penn-steals-this-shoot-em</link>
+      <author>Ricardo Baca</author>
+    </item>
+    <item index="3">
+      <text>Director Ruben Fleischer and screenwriter Will Beall can't decide whether to make a spoof or a serious drama, so they wrongheadedly attempt both.</text>
+      <source>Christian Science Monitor</source>
+      <image>rottentomatoes://image.review.rotten</image>
+      <link>http://www.csmonitor.com/The-Culture/Movies/2013/0111/Sean-Penn-plays-a-mobster-with-twisted-relish-in-Gangster-Squad?nav=397-csm_subcategory-leadStory</link>
+      <author>Peter Rainer</author>
+    </item>
+    <item index="4">
+      <text>Gangster Squad" is a highly stylized, pulp-fiction period piece based on true events.</text>
+      <source>Richard Roeper.com</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>http://www.richardroeper.com/reviews/gangstersquad.aspx</link>
+      <author>Richard Roeper</author>
+    </item>
+    <item index="5">
+      <text>Despite a cast of gifted actors, lush 1940s production design and suave costumes, it's bereft of inspiration, plowing familiar terrain past the point of tedium to impatience.</text>
+      <source>Minneapolis Star Tribune</source>
+      <image>rottentomatoes://image.review.rotten</image>
+      <link>http://www.startribune.com/entertainment/movies/186350422.html?refer=y</link>
+      <author>Colin Covert</author>
+    </item>
+    <item index="6">
+      <text>Gangster Squad is to the great tradition of the Scarface genre what plastic is to cutlery - tiny, imitative, disposable.</text>
+      <source>Globe and Mail</source>
+      <image>rottentomatoes://image.review.rotten</image>
+      <link>http://www.theglobeandmail.com/arts/film/film-reviews/gangster-squad-just-guys-and-dolls-playing-dress-up/article7178203/</link>
+      <author>Rick Groen</author>
+    </item>
+    <item index="7">
+      <text>"Gangster Squad" talks tough and hits hard, but it is a victim of its own brute force.</text>
+      <source>Detroit News</source>
+      <image>rottentomatoes://image.review.rotten</image>
+      <link>http://www.detroitnews.com/article/20130111/ENT02/301110315/1034/ent02/Review-Gangster-Squad-s-all-star-cast-doesn-t-enough-character-get-job-done</link>
+      <author>Adam Graham</author>
+    </item>
+    <item index="8">
+      <text>A cartoonish 1940s shoot-'em-up that's impossible to take seriously.</text>
+      <source>New York Post</source>
+      <image>rottentomatoes://image.review.rotten</image>
+      <link>http://www.nypost.com/p/entertainment/movies/flaw_order_kBXWJ6a984iskWCNSAUu4H</link>
+      <author>Lou Lumenick</author>
+    </item>
+    <item index="9">
+      <text>Director Ruben Fleischer leans hard on the violence card, but with little return in the way of excitement, and at the expense of character and story.</text>
+      <source>San Francisco Chronicle</source>
+      <image>rottentomatoes://image.review.rotten</image>
+      <link>http://www.sfgate.com/movies/article/Gangster-Squad-review-Violent-action-4183661.php</link>
+      <author>Mick LaSalle</author>
+    </item>
+    <item index="10">
+      <text>Slick, sick, self-consciously stylish and defiantly shallow, Gangster Squad is one of those movies you can't talk about without invoking other (often better) movies.</text>
+      <source>Washington Post</source>
+      <image>rottentomatoes://image.review.rotten</image>
+      <link>http://www.washingtonpost.com/gog/movies/gangster-squad,1215810/critic-review.html</link>
+      <author>Ann Hornaday</author>
+    </item>
+    <item index="11">
+      <text>Gangster Squad is The Untouchables moved west and cheesed up.</text>
+      <source>Miami Herald</source>
+      <image>rottentomatoes://image.review.rotten</image>
+      <link>http://www.miami.com/039gangster-squad039-r-article</link>
+      <author>Connie Ogle</author>
+    </item>
+    <item index="12">
+      <text>A triumph of production design but a pretty dull kill-'em-up otherwise.</text>
+      <source>Chicago Tribune</source>
+      <image>rottentomatoes://image.review.rotten</image>
+      <link>http://www.chicagotribune.com/entertainment/movies/sc-mov-0108-gangster-squad-20130110,0,2803019.column</link>
+      <author>Michael Phillips</author>
+    </item>
+    <item index="13">
+      <text>Apart from the gore -- and there's plenty -- this is basically L.A. Confidential without the script.</text>
+      <source>Chicago Reader</source>
+      <image>rottentomatoes://image.review.rotten</image>
+      <link>http://www.chicagoreader.com/chicago/gangster-squad/Film?oid=8221164</link>
+      <author>J. R. Jones</author>
+    </item>
+    <item index="14">
+      <text>A bullet-riddled bloodbath with an all-star cast, Gangster Squad is a lurid and ludicrous Mob thriller that glorifies a gangland lifestyle.</text>
+      <source>USA Today</source>
+      <image>rottentomatoes://image.review.rotten</image>
+      <link>http://rssfeeds.usatoday.com/~r/UsatodaycomMovies-TopStories/~3/-qqFsaAmRnM/</link>
+      <author>Claudia Puig</author>
+    </item>
+    <item index="15">
+      <text>There's only so much style can do to spiff up shriveled substance.</text>
+      <source>Wall Street Journal</source>
+      <image>rottentomatoes://image.review.rotten</image>
+      <link>http://online.wsj.com/article/SB10001424127887323442804578233570938790846.html</link>
+      <author>Joe Morgenstern</author>
+    </item>
+    <item index="16">
+      <text>When the gun smoke clears, the body count is finished and the blood is mopped up, "Gangster Squad" is little more than another Hollywood wannabe overshadowed by the legacy of "L.A. Confidential"...</text>
+      <source>Los Angeles Times</source>
+      <image>rottentomatoes://image.review.rotten</image>
+      <link>http://www.latimes.com/entertainment/movies/moviesnow/la-et-mn-gangster-squad-review-20130111,0,3182280.story</link>
+      <author>Betsy Sharkey</author>
+    </item>
+    <item index="17">
+      <text>A complete whitewashing of one of the most vicious and racist paramilitary organizations in American history: the Los Angeles Police Department.</text>
+      <source>Salon.com</source>
+      <image>rottentomatoes://image.review.rotten</image>
+      <link>http://www.salon.com/2013/01/10/gangster_squad_whitewashes_the_lapds_criminal_past/</link>
+      <author>Andrew O'Hehir</author>
+    </item>
+  </reviews>
+  <roles>
+    <item index="0">
+      <photo>http://image.tmdb.org/t/p/original/x8KKnvHyPvH16M6waAnY1OeCtA8.jpg</photo>
+      <role>John O'Mara</role>
+      <name>Josh Brolin</name>
+    </item>
+    <item index="1">
+      <photo>http://image.tmdb.org/t/p/original/5rOcicCrTCWye0O2S3dnbnWaCr1.jpg</photo>
+      <role>Sgt. Jerry Wooters</role>
+      <name>Ryan Gosling</name>
+    </item>
+    <item index="2">
+      <photo>http://image.tmdb.org/t/p/original/o6O7WP3vokKstxJFMiiyRMNyPsH.jpg</photo>
+      <role>Bill Parker</role>
+      <name>Nick Nolte</name>
+    </item>
+    <item index="3">
+      <photo>http://image.tmdb.org/t/p/original/bQHnqMjc0dKOu9zpm54KvP6ffyB.jpg</photo>
+      <role>Grace Faraday</role>
+      <name>Emma Stone</name>
+    </item>
+    <item index="4">
+      <photo>http://image.tmdb.org/t/p/original/f2uy1zq0qmtLBpsr6N9uQ8FktOr.jpg</photo>
+      <role>Mickey Cohen</role>
+      <name>Sean Penn</name>
+    </item>
+    <item index="5">
+      <photo>http://image.tmdb.org/t/p/original/jvq2pimmpNdQj8o75Au9RKC7E1z.jpg</photo>
+      <role>Conway Keeler</role>
+      <name>Giovanni Ribisi</name>
+    </item>
+    <item index="6">
+      <photo>http://image.tmdb.org/t/p/original/nNMhtY1gBYwnjZZpeGGW16fVXC5.jpg</photo>
+      <role>Darryl Gates</role>
+      <name>Josh Pence</name>
+    </item>
+    <item index="7">
+      <photo>http://image.tmdb.org/t/p/original/7JNCBT6A7zEN3ZqRjFNiTXGISo6.jpg</photo>
+      <role>Jimmy reagan</role>
+      <name>Frank Grillo</name>
+    </item>
+    <item index="8">
+      <photo>http://image.tmdb.org/t/p/original/5VGGJ0Co8SC94iiedWb2o3C36T.jpg</photo>
+      <role>Coleman Harris</role>
+      <name>Anthony Mackie</name>
+    </item>
+    <item index="9">
+      <photo>http://image.tmdb.org/t/p/original/dpUIbzLpExv69faSRyww8A4ydxf.jpg</photo>
+      <role>Max Kennard</role>
+      <name>Robert Patrick</name>
+    </item>
+    <item index="10">
+      <photo>http://image.tmdb.org/t/p/original/oqlIKSglghuX7kSTalODn71nlOd.jpg</photo>
+      <role>Navidad Ramirez</role>
+      <name>Michael Peña</name>
+    </item>
+    <item index="11">
+      <photo>http://image.tmdb.org/t/p/original/iTj8HzuKXh8G1lwNSdFgT5gsLA5.jpg</photo>
+      <role>Connie O'Mara</role>
+      <name>Mireille Enos</name>
+    </item>
+    <item index="12">
+      <photo>http://image.tmdb.org/t/p/original/ifwlRvTccL5MuNq5MhKFk1BSPJd.jpg</photo>
+      <role/>
+      <name>Sullivan Stapleton</name>
+    </item>
+    <item index="13">
+      <photo>http://image.tmdb.org/t/p/original/5Mw4StSwWwTLyBapXz9nOg7iUl5.jpg</photo>
+      <role>Karl Lockwood</role>
+      <name>Holt McCallany</name>
+    </item>
+    <item index="14">
+      <photo>http://image.tmdb.org/t/p/original/vKv1f23vrRrD3UlDQDfIdECJfnu.jpg</photo>
+      <role>Rourke</role>
+      <name>Wade Williams</name>
+    </item>
+    <item index="15">
+      <photo>http://image.tmdb.org/t/p/original/iFFAjpK2cvBTDpWXzyi7zaLSVUo.jpg</photo>
+      <role>Mitch Racine</role>
+      <name>James Landry Hébert</name>
+    </item>
+    <item index="16">
+      <photo>http://image.tmdb.org/t/p/original/boFipGlGLBVQ9xTW69wXzWW6OAD.jpg</photo>
+      <role>Milk Skinned Blonde</role>
+      <name>Ambyr Childers</name>
+    </item>
+    <item index="17">
+      <photo>http://image.tmdb.org/t/p/original/tBUe2hWFQvIiAmcRPhlS36j03WV.jpg</photo>
+      <role>Detective Sgt. Will Hendricks</role>
+      <name>Mick Betancourt</name>
+    </item>
+    <item index="18">
+      <photo>http://image.tmdb.org/t/p/original/sx2FIzVxGdBogpkrcrlAZmSVB1v.jpg</photo>
+      <role>Bruiser</role>
+      <name>Mac Brandt</name>
+    </item>
+    <item index="19">
+      <photo>http://image.tmdb.org/t/p/original/iOQFhKoCY6czA8OIudsHbOtJsC6.jpg</photo>
+      <role>Jimmy 'Bockscar' Knox</role>
+      <name>Brandon Molale</name>
+    </item>
+    <item index="20">
+      <photo>http://image.tmdb.org/t/p/original/9nVHCoYxCpGh9pO00xp7SybWd7b.jpg</photo>
+      <role>Mike 'The Flea'</role>
+      <name>Michael Papajohn</name>
+    </item>
+    <item index="21">
+      <photo>http://image.tmdb.org/t/p/original/iUALrUyPe6uq9kZQNHNf8cW5yKA.jpg</photo>
+      <role>Giovanni Vacarezza</role>
+      <name>Jeff Wolfe</name>
+    </item>
+    <item index="22">
+      <photo>http://image.tmdb.org/t/p/original/3m3gjjfEQXvroS08SD3dAESgfkb.jpg</photo>
+      <role>Lorenzo Molinari</role>
+      <name>Anthony Molinari</name>
+    </item>
+    <item index="23">
+      <photo>http://image.tmdb.org/t/p/original/nN84TihBQBwrchOfuptiQPxJDhS.jpg</photo>
+      <role>Patty</role>
+      <name>Austin Highsmith</name>
+    </item>
+    <item index="24">
+      <photo/>
+      <role>Max Solomon</role>
+      <name>Neil Koppel</name>
+    </item>
+    <item index="25">
+      <photo>http://image.tmdb.org/t/p/original/jSl2RKRaJvtRoS3T5HSw4xeNdwy.jpg</photo>
+      <role>Lt. Quincannon</role>
+      <name>Jack McGee</name>
+    </item>
+    <item index="26">
+      <photo>http://image.tmdb.org/t/p/original/l3HyrWJQZtb6GMmljTfbDR0Ve65.jpg</photo>
+      <role>Neddy Herbert</role>
+      <name>Evan Jones</name>
+    </item>
+    <item index="27">
+      <photo>http://image.tmdb.org/t/p/original/jspjByBzFmhWJU15UW9Zj2iSBNa.jpg</photo>
+      <role>Johnny Stomp</role>
+      <name>James Carpinello</name>
+    </item>
+    <item index="28">
+      <photo>http://image.tmdb.org/t/p/original/r5SNJzEedtdPH2gJKpDosKJ6ZgM.jpg</photo>
+      <role>Wrevock</role>
+      <name>Troy Garity</name>
+    </item>
+    <item index="29">
+      <photo>http://image.tmdb.org/t/p/original/ge7orRcJKPdHSxPIPrl3xa62reu.jpg</photo>
+      <role>Pete</role>
+      <name>Austin Abrams</name>
+    </item>
+    <item index="30">
+      <photo>http://image.tmdb.org/t/p/original/jdU2dcdjBM3IbsQv6pEdZT64ajb.jpg</photo>
+      <role>Judge Carter</role>
+      <name>John Aylward</name>
+    </item>
+    <item index="31">
+      <photo>http://image.tmdb.org/t/p/original/3RGfs2kJ71XCho8VsDxpYlzlFur.jpg</photo>
+      <role>Elmer Jackson</role>
+      <name>Dennis Cockrum</name>
+    </item>
+    <item index="32">
+      <photo>http://image.tmdb.org/t/p/original/u58ICPTEy2y1R6p4XM5c9tdTXQr.jpg</photo>
+      <role>Sheriff Biscailuz</role>
+      <name>Jack Conley</name>
+    </item>
+    <item index="33">
+      <photo>http://image.tmdb.org/t/p/original/cnwsbku2fqVDNdxwWuqqfXZf1SB.jpg</photo>
+      <role>Carmen Miranda</role>
+      <name>Yvette Tucker</name>
+    </item>
+    <item index="34">
+      <photo>http://image.tmdb.org/t/p/original/hYg3QP4EzDSIUN1eQfRtadLnQnD.jpg</photo>
+      <role>Bridge Goon</role>
+      <name>Derek Mears</name>
+    </item>
+    <item index="35">
+      <photo>http://image.tmdb.org/t/p/original/ahErjJI8W9RGBCky2rB3W2vFbIm.jpg</photo>
+      <role>Grimes</role>
+      <name>Jonny Coyne</name>
+    </item>
+    <item index="36">
+      <photo>http://image.tmdb.org/t/p/original/jllT2rMbeLinJMaIprTiQ6XoRop.jpg</photo>
+      <role>Dancer</role>
+      <name>Eva La Dare</name>
+    </item>
+    <item index="37">
+      <photo/>
+      <role>City Hall Reporter</role>
+      <name>Riel Paley</name>
+    </item>
+    <item index="38">
+      <photo>http://image.tmdb.org/t/p/original/acIcTtPUjIn3LwTMfDsRYU8RDE.jpg</photo>
+      <role>Dragna</role>
+      <name>Jon Polito</name>
+    </item>
+    <item index="39">
+      <photo>http://image.tmdb.org/t/p/original/8Im0vN3mF2aQJHROJBZpKX6RPps.jpg</photo>
+      <role>Edgar Beaumont</role>
+      <name>Christopher Doyle</name>
+    </item>
+    <item index="40">
+      <photo>http://image.tmdb.org/t/p/original/wtQt1ek4AgtOIHnmRr42X1zzAQ2.jpg</photo>
+      <role>Keeler's Son</role>
+      <name>Maxwell Perry Cotton</name>
+    </item>
+  </roles>
+  <similar>
+    <item index="0">Lawless</item>
+    <item index="1">Broken City</item>
+    <item index="2">Killing Them Softly</item>
+    <item index="3">Safe House</item>
+    <item index="4">The Last Stand</item>
+    <item index="5">The Place Beyond the Pines</item>
+    <item index="6">The Bourne Legacy</item>
+    <item index="7">Public Enemies</item>
+    <item index="8">The Ides of March</item>
+    <item index="9">Contraband</item>
+    <item index="10">Savages</item>
+    <item index="11">Parker</item>
+    <item index="12">Killer Elite</item>
+    <item index="13">End of Watch</item>
+    <item index="14">Zero Dark Thirty</item>
+    <item index="15">The Town</item>
+    <item index="16">Taken 2</item>
+    <item index="17">Dead Man Down</item>
+    <item index="18">Flight</item>
+    <item index="19">Total Recall</item>
+  </similar>
+  <studio>Village Roadshow Pictures</studio>
+  <summary>Los Angeles, 1949. Ruthless, Brooklyn-born mob king Mickey Cohen runs the show in this town, reaping the ill-gotten gains from the drugs, the guns, the prostitutes and — if he has his way — every wire bet placed west of Chicago. And he does it all with the protection of not only his own paid goons, but also the police and the politicians who are under his control. It’s enough to intimidate even the bravest, street-hardened cop… except, perhaps, for the small, secret crew of LAPD outsiders led by Sgt. John O’Mara and Jerry Wooters who come together to try to tear Cohen’s world apart.</summary>
+  <tagline>No Names. No Badges. No Mercy.</tagline>
+  <tags/>
+  <themes/>
+  <title>Gangster Squad</title>
+  <writers>
+    <item index="0">
+      <photo>http://image.tmdb.org/t/p/original/lbQsI4yYBWgvRQFJS2J6gQzgiZU.jpg</photo>
+      <role/>
+      <name>Will Beall</name>
+    </item>
+  </writers>
+  <year>2013</year>
+</Movie>

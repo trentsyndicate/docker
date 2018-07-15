@@ -1,0 +1,455 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Movie>
+  <art>
+    <item external="True" url="http://image.tmdb.org/t/p/original/70mOdqQJOOBw5r9Cf1kI79MMSY1.jpg" sort_order="1" provider="com.plexapp.agents.imdb" media="com.plexapp.agents.imdb_c8b0dfb23839a2d1534bd1089e6875c76fba40c9"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/zmJcAt7rm1Fm9fDMXjziBb1JJEh.jpg" preview="com.plexapp.agents.imdb_6bef967e769a468375d3507382649b75a6590839" sort_order="2" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/un7cdRemXAXkoDXYrGfYjKPoUd5.jpg" preview="com.plexapp.agents.imdb_69b8ca402ae80a69fb1e8972f059cbccaa83ed2f" sort_order="3" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/o6saqjLAgKpczr0yhJkEI9fNwN7.jpg" preview="com.plexapp.agents.imdb_2f95afdc7c05950ab3891fcfe55557be708cbbfe" sort_order="4" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/v6gmjzI0dws82QaCloHLPqcUM9I.jpg" preview="com.plexapp.agents.imdb_a1799af4fa71b18cba731ce50bb3836e8b47c361" sort_order="5" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/oKvrMeY4pzfDvVv0Tje1xQ92zLV.jpg" preview="com.plexapp.agents.imdb_8c2bbdfe82a01564181197a9b88bb4a7b3b2c24b" sort_order="6" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/o3NXOryUbc0eEFsJGkvmoUvsM7H.jpg" preview="com.plexapp.agents.imdb_c265c0ff47fc768b48a81b955682125b6e38b36c" sort_order="7" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/xKsSbUvwyyZPNpSpHJuabDJYmVj.jpg" preview="com.plexapp.agents.imdb_f925afe53216fbc032f4ef69e248a43d129527a5" sort_order="8" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/eVRjARHXG5pggQmpe7bipxDAYIJ.jpg" preview="com.plexapp.agents.imdb_5d62522a73b5e7fb18d4c464d02bba52d3bc6b7c" sort_order="9" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/wnhpHKKDMmjDnWrvGLRilFVLBHN.jpg" preview="com.plexapp.agents.imdb_41b2bb4e1ad2608c8f09a3f5ee88f3bea89ed39d" sort_order="10" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/5YF0HDyscldw1pxvVUsbcmCRmPb.jpg" preview="com.plexapp.agents.imdb_6e85d97969fb5c8a97566215015ee60df966035c" sort_order="11" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/zVchbw4tCrJcerOSK6d9dhbQYrG.jpg" preview="com.plexapp.agents.imdb_439dd2468dc781ed6fbacbfc7f2ef2d8e03a8e8d" sort_order="12" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/lfxrsak89icvgiblR0G4oqEtPgC.jpg" preview="com.plexapp.agents.imdb_274887331839d102c643844af7172607937dbbe5" sort_order="13" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/oGC4EnTLcjNX0Dnywq9SSmKlH6L.jpg" preview="com.plexapp.agents.imdb_87e66e2a0fb72783532e73165de8d1d820f865b6" sort_order="14" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/WIYPdUnWC8OAUE7xLIYCbbCF8D.jpg" preview="com.plexapp.agents.imdb_896ff6a622213adc9503a14fb0d2c99e1a83fe1b" sort_order="15" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/uR4e3mkAt42td5B00FV0Y2Wgjf8.jpg" preview="com.plexapp.agents.imdb_7b7a2ad8b01630076997d3d24dc926d27a60040f" sort_order="16" provider="com.plexapp.agents.imdb"/>
+  </art>
+  <banners/>
+  <chapters>
+    <item index="0">
+      <title>Chapter 1</title>
+      <end_time_offset>481000</end_time_offset>
+      <start_time_offset>0</start_time_offset>
+    </item>
+    <item index="1">
+      <title>Chapter 2</title>
+      <end_time_offset>986000</end_time_offset>
+      <start_time_offset>481000</start_time_offset>
+    </item>
+    <item index="2">
+      <title>Chapter 3</title>
+      <end_time_offset>1518000</end_time_offset>
+      <start_time_offset>986000</start_time_offset>
+    </item>
+    <item index="3">
+      <title>Chapter 4</title>
+      <end_time_offset>1861000</end_time_offset>
+      <start_time_offset>1518000</start_time_offset>
+    </item>
+    <item index="4">
+      <title>Chapter 5</title>
+      <end_time_offset>2208000</end_time_offset>
+      <start_time_offset>1861000</start_time_offset>
+    </item>
+    <item index="5">
+      <title>Chapter 6</title>
+      <end_time_offset>2588000</end_time_offset>
+      <start_time_offset>2208000</start_time_offset>
+    </item>
+    <item index="6">
+      <title>Chapter 7</title>
+      <end_time_offset>2829000</end_time_offset>
+      <start_time_offset>2588000</start_time_offset>
+    </item>
+    <item index="7">
+      <title>Chapter 8</title>
+      <end_time_offset>3249000</end_time_offset>
+      <start_time_offset>2829000</start_time_offset>
+    </item>
+    <item index="8">
+      <title>Chapter 9</title>
+      <end_time_offset>3632000</end_time_offset>
+      <start_time_offset>3249000</start_time_offset>
+    </item>
+    <item index="9">
+      <title>Chapter 10</title>
+      <end_time_offset>4082000</end_time_offset>
+      <start_time_offset>3632000</start_time_offset>
+    </item>
+    <item index="10">
+      <title>Chapter 11</title>
+      <end_time_offset>4484000</end_time_offset>
+      <start_time_offset>4082000</start_time_offset>
+    </item>
+    <item index="11">
+      <title>Chapter 12</title>
+      <end_time_offset>4864000</end_time_offset>
+      <start_time_offset>4484000</start_time_offset>
+    </item>
+    <item index="12">
+      <title>Chapter 13</title>
+      <end_time_offset>5354000</end_time_offset>
+      <start_time_offset>4864000</start_time_offset>
+    </item>
+    <item index="13">
+      <title>Chapter 14</title>
+      <end_time_offset>5577000</end_time_offset>
+      <start_time_offset>5354000</start_time_offset>
+    </item>
+    <item index="14">
+      <title>Chapter 15</title>
+      <end_time_offset>5848000</end_time_offset>
+      <start_time_offset>5577000</start_time_offset>
+    </item>
+    <item index="15">
+      <title>Chapter 16</title>
+      <end_time_offset>6394000</end_time_offset>
+      <start_time_offset>5848000</start_time_offset>
+    </item>
+    <item index="16">
+      <title>Chapter 17</title>
+      <end_time_offset>-1</end_time_offset>
+      <start_time_offset>6394000</start_time_offset>
+    </item>
+  </chapters>
+  <collections/>
+  <content_rating>PG-13</content_rating>
+  <countries>
+    <item index="0">USA</item>
+  </countries>
+  <directors>
+    <item index="0">
+      <photo>http://image.tmdb.org/t/p/original/axuZves3hOQYb5R8OnmIcrO6IOH.jpg</photo>
+      <role/>
+      <name>Breck Eisner</name>
+    </item>
+  </directors>
+  <duration>6360000</duration>
+  <genres>
+    <item index="0">Action</item>
+    <item index="1">Adventure</item>
+    <item index="2">Fantasy</item>
+  </genres>
+  <originally_available_at>2015-10-21</originally_available_at>
+  <posters>
+    <item external="True" url="http://image.tmdb.org/t/p/original/xw1GFKzxjgfm3dQoK1swFcHmfaC.jpg" sort_order="1" provider="com.plexapp.agents.imdb" media="com.plexapp.agents.imdb_5e9e3ef97364118f85ee8f63e81c902d1c21031e"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/zzc7e0Z0hLdzcVifkwI0UlD1k6Q.jpg" preview="com.plexapp.agents.imdb_0432ca8f382f65c7e0baf8acc8a3ca0ce362a7ef" sort_order="2" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/ke0ktdLpTyDKsMuJTyMXFVK4xej.jpg" preview="com.plexapp.agents.imdb_8142f1d8fea9d87afb2ce056af80337009974a1d" sort_order="3" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/Asy0cLbxQTBf1KbiEOa61g4jmPI.jpg" preview="com.plexapp.agents.imdb_48b8263e7b2518b368b5ae5fe6dfcb711a1f6863" sort_order="4" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/x4JuRYqQYmT9p2qpvXkXMgcaR5E.jpg" preview="com.plexapp.agents.imdb_2b093d72bf8928d8d88c3acf52ecf85900a42fcc" sort_order="5" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/xSUXoEFEDNZjJn2DbhWLI0h37lM.jpg" preview="com.plexapp.agents.imdb_a61e9eb49678282cd97361c77e58691bd5ea2a0c" sort_order="6" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/nDzvt4Ib7yMeh9e6BA0QtSoPP25.jpg" preview="com.plexapp.agents.imdb_2d1596a130201ff1f599b4a494fdeb29405389ba" sort_order="7" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/qE5voHsA9jphphRC4Sl0NpH8Lts.jpg" preview="com.plexapp.agents.imdb_ce063d6faec44d66893800f470d2665b5dd90f7c" sort_order="8" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/pSOiOcIhk9oixq6h7souKBREkqP.jpg" preview="com.plexapp.agents.imdb_1f03d06d5c04ed460303128a9bea33d6cc5cc194" sort_order="9" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/cQUG29ASUYoiDQnO8NtYDKZdidf.jpg" preview="com.plexapp.agents.imdb_302609c5e1f96794123dea1477e685673efdc6fe" sort_order="10" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/kwyAnnDfpY4u1abKPzwMN6tN7QR.jpg" preview="com.plexapp.agents.imdb_a79d58f7f8886f9197991597b43c8dc36a3b267f" sort_order="11" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/19KL4oIJfHuRpOUHXMJx7hiVUdF.jpg" preview="com.plexapp.agents.imdb_402927e4dbfa648a628ea925d7e3093a40988c1a" sort_order="12" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/89pyx5W2jlF0SF0eNvtd5do1VPT.jpg" preview="com.plexapp.agents.imdb_bbbc6bc85bc885e185e624422e4a54a8142665f7" sort_order="13" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/ficiz1PO4iFfA6I5zMRTUt83Ihe.jpg" preview="com.plexapp.agents.imdb_6e14d7f7e3bc6d0807b97cc89ad47169ad3ea378" sort_order="14" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/taHYfHBjtAKXe5RdNcqXT8wbtiE.jpg" preview="com.plexapp.agents.imdb_364729c6c97c3d4f0deb618338da949d684f1727" sort_order="15" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/kAEx7P1VXiJ3Be4C1HnwQu57IfE.jpg" preview="com.plexapp.agents.imdb_e31bdc2f7bf0e1fd95bc10d7da21fb82b6294eaf" sort_order="16" provider="com.plexapp.agents.imdb"/>
+  </posters>
+  <producers>
+    <item index="0">
+      <photo/>
+      <role/>
+      <name>Bernie Goldmann</name>
+    </item>
+    <item index="1">
+      <photo/>
+      <role/>
+      <name>Mark Canton</name>
+    </item>
+    <item index="2">
+      <photo>http://image.tmdb.org/t/p/original/mjRdM6w6Uz1UnrKQ5Kw02qGln2K.jpg</photo>
+      <role/>
+      <name>Vin Diesel</name>
+    </item>
+  </producers>
+  <rating>1.7</rating>
+  <rating_image>rottentomatoes://image.rating.rotten</rating_image>
+  <audience_rating>4.3</audience_rating>
+  <audience_rating_image>rottentomatoes://image.rating.spilled</audience_rating_image>
+  <reviews>
+    <item index="0">
+      <text>It is terrible. It is fabulously entertaining.</text>
+      <source>BuzzFeed News</source>
+      <image>rottentomatoes://image.review.rotten</image>
+      <link>http://www.buzzfeed.com/alisonwillmore/so-vin-diesel-right-now</link>
+      <author>Alison Willmore</author>
+    </item>
+    <item index="1">
+      <text>Like that other witch hunter movie, "Hansel and Gretel: Witch Hunters," this is a film that is completely looney tunes, and it only half knows it.</text>
+      <source>Tribune News Service</source>
+      <image>rottentomatoes://image.review.rotten</image>
+      <link>http://www.chicagotribune.com/entertainment/movies/sc-last-witch-hunter-mov-rev-1021-20151021-story.html</link>
+      <author>Katie Walsh</author>
+    </item>
+    <item index="2">
+      <text>Unfortunately, a film needs more than Diesel's Stallone-ish appeal to succeed and that's where The Last Witch Hunter is found lacking.</text>
+      <source>ReelViews</source>
+      <image>rottentomatoes://image.review.rotten</image>
+      <link>http://www.reelviews.net/reelviews/last-witch-hunter-the</link>
+      <author>James Berardinelli</author>
+    </item>
+    <item index="3">
+      <text>The Last Witch Hunter is so drenched in CGI effects, it looks as if it's been dunked in a vat of lacquer.</text>
+      <source>Toronto Star</source>
+      <image>rottentomatoes://image.review.rotten</image>
+      <link>http://www.thestar.com/entertainment/movies/2015/10/23/the-last-witch-hunter-plagued-by-bad-script-worse-cgi-review.html</link>
+      <author>Peter Howell</author>
+    </item>
+    <item index="4">
+      <text>A feature film that feels like a longish TV pilot.</text>
+      <source>Grantland</source>
+      <image>rottentomatoes://image.review.rotten</image>
+      <link>http://grantland.com/hollywood-prospectus/witch-please-vin-diesels-the-last-witch-hunter-is-both-supremely-nerdy-and-not-nerdy-enough/</link>
+      <author>Alex Pappademas</author>
+    </item>
+    <item index="5">
+      <text>Watching The Last Witch Hunter is like sitting by while someone else plays a game whose coolness eludes us.</text>
+      <source>New York Magazine/Vulture</source>
+      <image>rottentomatoes://image.review.rotten</image>
+      <link>http://www.vulture.com/2015/10/last-witch-hunter-review-a-fun-world-wasted.html</link>
+      <author>Bilge Ebiri</author>
+    </item>
+    <item index="6">
+      <text>Seemingly at every juncture, the finality so necessary to up the stakes of this story is quickly snatched away in order to tease a sequel or two, leaving you wondering what the point of this supernatural exercise was in the first place.</text>
+      <source>Globe and Mail</source>
+      <image>rottentomatoes://image.review.rotten</image>
+      <link>http://www.theglobeandmail.com/arts/film/film-reviews/the-last-witch-hunter-visual-effects-vin-diesel-elevate-a-supernatural-ride/article26935396/</link>
+      <author>Manori Ravindran</author>
+    </item>
+    <item index="7">
+      <text>One of those artlessly restless, exposition-dialogue fantasy-action slogs ...</text>
+      <source>Los Angeles Times</source>
+      <image>rottentomatoes://image.review.rotten</image>
+      <link>http://www.latimes.com/entertainment/movies/la-et-mn-last-witch-hunter-20151023-story.html</link>
+      <author>Robert Abele</author>
+    </item>
+    <item index="8">
+      <text>Surprising Vin Diesel vehicle: first, for the initial switcheroo from supernatural action-adventure to supernatural whodunit; second, for a sturdily built storyline; third, for a somewhat lively and lighthearted turn from its often somnolent star.</text>
+      <source>San Diego Reader</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>http://www.sandiegoreader.com/movies/the-last-witch-hunter/</link>
+      <author>Matthew Lickona</author>
+    </item>
+    <item index="9">
+      <text>A smorgasbord of empty calories, the Vin Diesel vehicle "The Last Witch Hunter," for all its overstuffed visuals, leaves you hungry. But not for more.</text>
+      <source>New York Times</source>
+      <image>rottentomatoes://image.review.rotten</image>
+      <link>http://www.nytimes.com/2015/10/23/movies/review-the-last-witch-hunter-holding-a-grudge-for-800-years.html?partner=rss&amp;emc=rss</link>
+      <author>Andy Webster</author>
+    </item>
+    <item index="10">
+      <text>The dependable Diesel and a fine cast keep this hokey action flick mostly entertaining.</text>
+      <source>Newsday</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>http://www.newsday.com/entertainment/movies/the-last-witch-hunter-review-vin-diesel-powered-fantasy-1.10992741</link>
+      <author>Rafer Guzman</author>
+    </item>
+    <item index="11">
+      <text>Some action heroes take themselves too seriously, or think they're making popcorn fun when they're really filleting us with endless rounds of ammunition. Not Diesel ...</text>
+      <source>NPR</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>http://www.npr.org/2015/10/22/450603524/theres-goofy-fun-to-be-had-in-the-last-witch-hunter?utm_medium=RSS&amp;utm_campaign=movies</link>
+      <author>Andrew Lapin</author>
+    </item>
+    <item index="12">
+      <text>Even with Diesel's oblivious self-miscasting - he's a producer on the film - "Witch Hunter" feels like genre material that might have found a way to work.</text>
+      <source>Boston Globe</source>
+      <image>rottentomatoes://image.review.rotten</image>
+      <link>http://www.bostonglobe.com/arts/movies/2015/10/22/let-this-last-witch-hunter/na0YuWuLlNDION2YjT409L/story.html</link>
+      <author>Tom Russo</author>
+    </item>
+    <item index="13">
+      <text>It is not even bad enough to be good camp comedy.</text>
+      <source>Toronto Sun</source>
+      <image>rottentomatoes://image.review.rotten</image>
+      <link>http://www.torontosun.com/2015/10/22/the-last-witch-hunter-review-vin-diesels-dreadful-fantasy-proves-he-should-stick-with-cars</link>
+      <author>Bruce Kirkland</author>
+    </item>
+    <item index="14">
+      <text>The special effects are pretty neat, and the filmmakers utilize them smartly, delivering imaginative set pieces that are more visually compelling than the usual series of digital explosions.</text>
+      <source>Chicago Reader</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>http://www.chicagoreader.com/chicago/the-last-witch-hunter/MovieTimes?oid=19409661</link>
+      <author>Ben Sachs</author>
+    </item>
+    <item index="15">
+      <text>Vin Diesel may not run smoothly, but he runs with purpose and conviction, and any line of dialogue processed through him comes out sounding like he believes it, even the sentimental ones.</text>
+      <source>Village Voice</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>http://www.villagevoice.com/film/give-vin-diesel-a-dungeons-and-dragons-movie-already-the-last-witch-hunter-reviewed-somewhat-warmly-7815025</link>
+      <author>Alan Scherstuhl</author>
+    </item>
+    <item index="16">
+      <text>The only thing The Last Witch Hunter will successfully eradicate is insomnia.</text>
+      <source>Entertainment Weekly</source>
+      <image>rottentomatoes://image.review.rotten</image>
+      <link>http://www.ew.com/article/2015/10/22/the-last-witch-hunter-ew-review</link>
+      <author>Kyle Anderson</author>
+    </item>
+    <item index="17">
+      <text>The movie left me amazed - amazed that Nicolas Cage wasn't in it.</text>
+      <source>New York Post</source>
+      <image>rottentomatoes://image.review.rotten</image>
+      <link>http://nypost.com/2015/10/22/terrible-last-witch-hunter-makes-no-sense/</link>
+      <author>Kyle Smith</author>
+    </item>
+    <item index="18">
+      <text>The special-effects-laden fight scenes are ho-hum, incoherent and badly lit. It's often hard to tell what some warlock or scorpion-like beast is doing and to whom.</text>
+      <source>Washington Post</source>
+      <image>rottentomatoes://image.review.rotten</image>
+      <link>http://www.washingtonpost.com/goingoutguide/movies/movie-review-vin-diesel-plays-an-occult-cop-in-the-last-witch-hunter/2015/10/21/5f34a6e8-7814-11e5-a958-d889faf561dc_story.html</link>
+      <author>Michael O'Sullivan</author>
+    </item>
+  </reviews>
+  <roles>
+    <item index="0">
+      <photo>http://image.tmdb.org/t/p/original/mjRdM6w6Uz1UnrKQ5Kw02qGln2K.jpg</photo>
+      <role>Kaulder</role>
+      <name>Vin Diesel</name>
+    </item>
+    <item index="1">
+      <photo>http://image.tmdb.org/t/p/original/yWFmxrAfLtXePzVRatiAMv1KDQS.jpg</photo>
+      <role>Chloe</role>
+      <name>Rose Leslie</name>
+    </item>
+    <item index="2">
+      <photo>http://image.tmdb.org/t/p/original/hHzLAVspGGuPg1KW5JAEsyRvnUT.jpg</photo>
+      <role>Dolan 37th</role>
+      <name>Elijah Wood</name>
+    </item>
+    <item index="3">
+      <photo>http://image.tmdb.org/t/p/original/fDUMXqM9UALD86fiC076XVgitDO.jpg</photo>
+      <role>Belial</role>
+      <name>Ólafur Darri Ólafsson</name>
+    </item>
+    <item index="4">
+      <photo>http://image.tmdb.org/t/p/original/gH41kolbpQswwqYomRiicZMOOXj.jpg</photo>
+      <role>Glaeser</role>
+      <name>Rena Owen</name>
+    </item>
+    <item index="5">
+      <photo>http://image.tmdb.org/t/p/original/6DKJYisd8T9Frfa4G8V8kclXnH9.jpg</photo>
+      <role>Witch Queen</role>
+      <name>Julie Engelbrecht</name>
+    </item>
+    <item index="6">
+      <photo>http://image.tmdb.org/t/p/original/vvj0JMSFpOajXCE46Hy4dyqSP2U.jpg</photo>
+      <role>Dolan 36th</role>
+      <name>Michael Caine</name>
+    </item>
+    <item index="7">
+      <photo>http://image.tmdb.org/t/p/original/zTOh3XhMSQ0g7hSDPdPF2Vd5tdv.jpg</photo>
+      <role>Ellic</role>
+      <name>Joseph Gilgun</name>
+    </item>
+    <item index="8">
+      <photo>http://image.tmdb.org/t/p/original/pr2AoaFlgQfdbIIv88UhCyp8wuF.jpg</photo>
+      <role>Max Schlesinger</role>
+      <name>Isaach De Bankolé</name>
+    </item>
+    <item index="9">
+      <photo>http://image.tmdb.org/t/p/original/mSrcmwSuG0qMmEBkAmCgeO2Mi6X.jpg</photo>
+      <role>Elizabeth</role>
+      <name>Sloane Coombs</name>
+    </item>
+    <item index="10">
+      <photo>http://image.tmdb.org/t/p/original/ezcRQlpLaIE3jklAc7P3xdr3qjt.jpg</photo>
+      <role>Danique</role>
+      <name>Dawn Olivieri</name>
+    </item>
+    <item index="11">
+      <photo>http://image.tmdb.org/t/p/original/mymW9BD3nTj2sHQkK9IBo3nLHmo.jpg</photo>
+      <role>Sonia</role>
+      <name>Inbar Lavi</name>
+    </item>
+    <item index="12">
+      <photo>http://image.tmdb.org/t/p/original/yMbHsA77JAQHxtWKYDoSW2vFnLu.jpg</photo>
+      <role>Bronwyn</role>
+      <name>Bex Taylor-Klaus</name>
+    </item>
+    <item index="13">
+      <photo>http://image.tmdb.org/t/p/original/xB8yTJVu2ISh0bc0dOCFdyT2R2q.jpg</photo>
+      <role>Miranda</role>
+      <name>Aimee Carrero</name>
+    </item>
+    <item index="14">
+      <photo>http://image.tmdb.org/t/p/original/3I2hGHIKS8AL8iZwKBfvrsUpZuF.jpg</photo>
+      <role>Armani</role>
+      <name>Armani Jackson</name>
+    </item>
+    <item index="15">
+      <photo>http://image.tmdb.org/t/p/original/67l7wx45zOiMTGs0YQwliWNi5nY.jpg</photo>
+      <role>Little Girl</role>
+      <name>Samara Lee</name>
+    </item>
+    <item index="16">
+      <photo>http://image.tmdb.org/t/p/original/p3epAYgkSphwevAC5Lu667d0wCU.jpg</photo>
+      <role>Bodyguard #4</role>
+      <name>Kurt Angle</name>
+    </item>
+    <item index="17">
+      <photo>http://image.tmdb.org/t/p/original/gtJNHMohbiHEYNIdVNd4I3aoUCx.jpg</photo>
+      <role>Council Member #1</role>
+      <name>David Whalen</name>
+    </item>
+    <item index="18">
+      <photo>http://image.tmdb.org/t/p/original/sFFUnfeU1bwdEc4XggtrfmKbi0r.jpg</photo>
+      <role>Council Member #2</role>
+      <name>Jack Erdie</name>
+    </item>
+    <item index="19">
+      <photo>http://image.tmdb.org/t/p/original/yQc3CV6rUMUzHxtLQQBO2Yc9DFC.jpg</photo>
+      <role>Council Member #3</role>
+      <name>Toussaint Raphael Abessolo</name>
+    </item>
+    <item index="20">
+      <photo>http://image.tmdb.org/t/p/original/c9CaHEoj3C4sRqQugOcygtVVSTy.jpg</photo>
+      <role>Fatima</role>
+      <name>Allegra Carpenter</name>
+    </item>
+  </roles>
+  <similar>
+    <item index="0">Seventh Son</item>
+    <item index="1">Hitman: Agent 47</item>
+    <item index="2">Gods of Egypt</item>
+    <item index="3">Victor Frankenstein</item>
+    <item index="4">Warcraft</item>
+    <item index="5">Self/less</item>
+    <item index="6">Dracula Untold</item>
+    <item index="7">Hercules</item>
+    <item index="8">I, Frankenstein</item>
+    <item index="9">The Transporter Refueled</item>
+    <item index="10">Goosebumps</item>
+    <item index="11">Teenage Mutant Ninja Turtles: Out of the Shadows</item>
+    <item index="12">Riddick</item>
+    <item index="13">Pan</item>
+    <item index="14">Priest</item>
+    <item index="15">Run All Night</item>
+    <item index="16">Fantastic Four</item>
+    <item index="17">Wild Card</item>
+    <item index="18">In the Heart of the Sea</item>
+    <item index="19">R.I.P.D.</item>
+  </similar>
+  <studio>Summit Entertainment</studio>
+  <summary>The modern world holds many secrets, but by far the most astounding is that witches still live among us; vicious supernatural creatures intent on unleashing the Black Death upon the world and putting an end to the human race once and for all. Armies of witch hunters have battled this unnatural enemy for centuries, including Kaulder, a valiant warrior who many years ago slayed the all-powerful Witch Queen, decimating her followers in the process. In the moments right before her death, the Queen cursed Kaulder with immortality, forever separating him from his beloved wife and daughter. Today, Kaulder is the last living hunter who has spent his immortal life tracking down rogue witches, all the while yearning for his long-lost family.</summary>
+  <tagline>Hunt forever.</tagline>
+  <tags/>
+  <themes/>
+  <title>The Last Witch Hunter</title>
+  <writers>
+    <item index="0">
+      <photo/>
+      <role/>
+      <name>Cory Goodman</name>
+    </item>
+    <item index="1">
+      <photo>http://image.tmdb.org/t/p/original/vfYuk0NTHNQT6KHzdupi6sqS9mi.jpg</photo>
+      <role/>
+      <name>Matt Sazama</name>
+    </item>
+    <item index="2">
+      <photo>http://image.tmdb.org/t/p/original/ciQUbLMC6Jdpk9ArWpcpA5Nwl6n.jpg</photo>
+      <role/>
+      <name>Burk Sharpless</name>
+    </item>
+  </writers>
+  <year>2015</year>
+</Movie>

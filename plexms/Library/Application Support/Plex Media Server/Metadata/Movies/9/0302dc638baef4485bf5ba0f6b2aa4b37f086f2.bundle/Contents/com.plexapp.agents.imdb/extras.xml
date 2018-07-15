@@ -1,0 +1,423 @@
+<?xml version='1.0' encoding='utf-8'?>
+<MediaContainer size="21" identifier="com.plexapp.agents.imdb" mediaTagPrefix="/system/bundle/media/flags/" prefsKey="/:/plugins/com.plexapp.agents.imdb/prefs">
+  <Video url="iva://api.internetvideoarchive.com/2.0/DataService/VideoAssets(314814)?lang=en&amp;bitrates=80,212,450,750,1500,2500,5000,8000&amp;duration=137&amp;adaptive=1&amp;dts=0" key="/system/services/url/lookup?url=iva%3A%2F%2Fapi.internetvideoarchive.com%2F2.0%2FDataService%2FVideoAssets%28314814%29%3Flang%3Den%26bitrates%3D80%2C212%2C450%2C750%2C1500%2C2500%2C5000%2C8000%26duration%3D137%26adaptive%3D1%26dts%3D0" type="clip" relationType="trailer" year="2016" title="Demolition (International HE Trailer 1)" originallyAvailableAt="2016-10-28" thumb="https://iva-images.plex.tv/content/hdphotos/10723/010723/010723_1280x720_314814_067.jpg" ratingKey="iva://api.internetvideoarchive.com/2.0/DataService/VideoAssets(314814)?lang=en&amp;bitrates=80,212,450,750,1500,2500,5000,8000&amp;duration=137&amp;adaptive=1&amp;dts=0">
+    <Media container="mp4" height="1080" width="1920" audioCodec="aac" duration="137000" videoCodec="h264" bitrate="2500">
+      <Part duration="137000" key="/services/iva/assets/314814/video.mp4?bitrate=2500" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="1080" width="1920" codec="h264" bitrate="2500" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+    <Media container="mp4" height="720" width="1280" audioCodec="aac" duration="137000" videoCodec="h264" bitrate="1500">
+      <Part duration="137000" key="/services/iva/assets/314814/video.mp4?bitrate=1500" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="720" width="1280" codec="h264" bitrate="1500" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+    <Media container="mp4" height="480" width="640" audioCodec="aac" duration="137000" videoCodec="h264" bitrate="450">
+      <Part duration="137000" key="/services/iva/assets/314814/video.mp4?bitrate=450" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="480" width="640" codec="h264" bitrate="450" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+  </Video>
+  <Video url="iva://api.internetvideoarchive.com/2.0/DataService/VideoAssets(872640)?lang=en&amp;bitrates=80,212,450,750,1500,2500,5000,8000&amp;duration=137&amp;adaptive=1&amp;dts=0" key="/system/services/url/lookup?url=iva%3A%2F%2Fapi.internetvideoarchive.com%2F2.0%2FDataService%2FVideoAssets%28872640%29%3Flang%3Den%26bitrates%3D80%2C212%2C450%2C750%2C1500%2C2500%2C5000%2C8000%26duration%3D137%26adaptive%3D1%26dts%3D0" type="clip" relationType="behindTheScenes" year="2016" title="Demolition: Cast Featurette (UK)" originallyAvailableAt="2016-04-29" thumb="https://iva-images.plex.tv/content/hdphotos/10276/010276/010276_1280x720_872640_069.jpg" ratingKey="iva://api.internetvideoarchive.com/2.0/DataService/VideoAssets(872640)?lang=en&amp;bitrates=80,212,450,750,1500,2500,5000,8000&amp;duration=137&amp;adaptive=1&amp;dts=0">
+    <Media container="mp4" height="1080" width="1920" audioCodec="aac" duration="137000" videoCodec="h264" bitrate="2500">
+      <Part duration="137000" key="/services/iva/assets/872640/video.mp4?bitrate=2500" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="1080" width="1920" codec="h264" bitrate="2500" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+    <Media container="mp4" height="720" width="1280" audioCodec="aac" duration="137000" videoCodec="h264" bitrate="1500">
+      <Part duration="137000" key="/services/iva/assets/872640/video.mp4?bitrate=1500" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="720" width="1280" codec="h264" bitrate="1500" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+    <Media container="mp4" height="480" width="640" audioCodec="aac" duration="137000" videoCodec="h264" bitrate="450">
+      <Part duration="137000" key="/services/iva/assets/872640/video.mp4?bitrate=450" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="480" width="640" codec="h264" bitrate="450" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+  </Video>
+  <Video url="iva://api.internetvideoarchive.com/2.0/DataService/VideoAssets(932657)?lang=en&amp;bitrates=80,212,450,750,1500,2500,5000,8000&amp;duration=137&amp;adaptive=1&amp;dts=0" key="/system/services/url/lookup?url=iva%3A%2F%2Fapi.internetvideoarchive.com%2F2.0%2FDataService%2FVideoAssets%28932657%29%3Flang%3Den%26bitrates%3D80%2C212%2C450%2C750%2C1500%2C2500%2C5000%2C8000%26duration%3D137%26adaptive%3D1%26dts%3D0" type="clip" relationType="behindTheScenes" year="2016" title="Demolition: A Conversation with Jake and Jean-Marc Featurette (UK)" originallyAvailableAt="2016-04-29" thumb="https://iva-images.plex.tv/content/hdphotos/10276/010276/010276_1280x720_932657_091.jpg" ratingKey="iva://api.internetvideoarchive.com/2.0/DataService/VideoAssets(932657)?lang=en&amp;bitrates=80,212,450,750,1500,2500,5000,8000&amp;duration=137&amp;adaptive=1&amp;dts=0">
+    <Media container="mp4" height="1080" width="1920" audioCodec="aac" duration="137000" videoCodec="h264" bitrate="2500">
+      <Part duration="137000" key="/services/iva/assets/932657/video.mp4?bitrate=2500" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="1080" width="1920" codec="h264" bitrate="2500" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+    <Media container="mp4" height="720" width="1280" audioCodec="aac" duration="137000" videoCodec="h264" bitrate="1500">
+      <Part duration="137000" key="/services/iva/assets/932657/video.mp4?bitrate=1500" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="720" width="1280" codec="h264" bitrate="1500" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+    <Media container="mp4" height="480" width="640" audioCodec="aac" duration="137000" videoCodec="h264" bitrate="450">
+      <Part duration="137000" key="/services/iva/assets/932657/video.mp4?bitrate=450" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="480" width="640" codec="h264" bitrate="450" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+  </Video>
+  <Video url="iva://api.internetvideoarchive.com/2.0/DataService/VideoAssets(74412)?lang=en&amp;bitrates=80,212,450,750,1500,2500,5000,8000&amp;duration=114&amp;adaptive=1&amp;dts=0" key="/system/services/url/lookup?url=iva%3A%2F%2Fapi.internetvideoarchive.com%2F2.0%2FDataService%2FVideoAssets%2874412%29%3Flang%3Den%26bitrates%3D80%2C212%2C450%2C750%2C1500%2C2500%2C5000%2C8000%26duration%3D114%26adaptive%3D1%26dts%3D0" type="clip" relationType="behindTheScenes" year="2016" title="Demolition: Letters from Davis Featurette (UK)" originallyAvailableAt="2016-04-22" thumb="https://iva-images.plex.tv/content/hdphotos/10252/010252/010252_1280x720_74412_173.jpg" ratingKey="iva://api.internetvideoarchive.com/2.0/DataService/VideoAssets(74412)?lang=en&amp;bitrates=80,212,450,750,1500,2500,5000,8000&amp;duration=114&amp;adaptive=1&amp;dts=0">
+    <Media container="mp4" height="1080" width="1920" audioCodec="aac" duration="114000" videoCodec="h264" bitrate="2500">
+      <Part duration="114000" key="/services/iva/assets/74412/video.mp4?bitrate=2500" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="1080" width="1920" codec="h264" bitrate="2500" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+    <Media container="mp4" height="720" width="1280" audioCodec="aac" duration="114000" videoCodec="h264" bitrate="1500">
+      <Part duration="114000" key="/services/iva/assets/74412/video.mp4?bitrate=1500" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="720" width="1280" codec="h264" bitrate="1500" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+    <Media container="mp4" height="480" width="640" audioCodec="aac" duration="114000" videoCodec="h264" bitrate="450">
+      <Part duration="114000" key="/services/iva/assets/74412/video.mp4?bitrate=450" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="480" width="640" codec="h264" bitrate="450" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+  </Video>
+  <Video url="iva://api.internetvideoarchive.com/2.0/DataService/VideoAssets(345725)?lang=en&amp;bitrates=80,212,450,750,1500,2500,5000,8000&amp;duration=137&amp;adaptive=1&amp;dts=0" key="/system/services/url/lookup?url=iva%3A%2F%2Fapi.internetvideoarchive.com%2F2.0%2FDataService%2FVideoAssets%28345725%29%3Flang%3Den%26bitrates%3D80%2C212%2C450%2C750%2C1500%2C2500%2C5000%2C8000%26duration%3D137%26adaptive%3D1%26dts%3D0" type="clip" relationType="behindTheScenes" year="2016" title="Demolition: Cast (Featurette)" originallyAvailableAt="2016-04-18" thumb="https://iva-images.plex.tv/content/hdphotos/10236/010236/010236_788x443_345725_092.jpg" ratingKey="iva://api.internetvideoarchive.com/2.0/DataService/VideoAssets(345725)?lang=en&amp;bitrates=80,212,450,750,1500,2500,5000,8000&amp;duration=137&amp;adaptive=1&amp;dts=0">
+    <Media container="mp4" height="1080" width="1920" audioCodec="aac" duration="137000" videoCodec="h264" bitrate="2500">
+      <Part duration="137000" key="/services/iva/assets/345725/video.mp4?bitrate=2500" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="1080" width="1920" codec="h264" bitrate="2500" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+    <Media container="mp4" height="720" width="1280" audioCodec="aac" duration="137000" videoCodec="h264" bitrate="1500">
+      <Part duration="137000" key="/services/iva/assets/345725/video.mp4?bitrate=1500" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="720" width="1280" codec="h264" bitrate="1500" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+    <Media container="mp4" height="480" width="640" audioCodec="aac" duration="137000" videoCodec="h264" bitrate="450">
+      <Part duration="137000" key="/services/iva/assets/345725/video.mp4?bitrate=450" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="480" width="640" codec="h264" bitrate="450" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+  </Video>
+  <Video url="iva://api.internetvideoarchive.com/2.0/DataService/VideoAssets(127133)?lang=en&amp;bitrates=80,212,450,750,1500,2500,5000,8000&amp;duration=105&amp;adaptive=1&amp;dts=0" key="/system/services/url/lookup?url=iva%3A%2F%2Fapi.internetvideoarchive.com%2F2.0%2FDataService%2FVideoAssets%28127133%29%3Flang%3Den%26bitrates%3D80%2C212%2C450%2C750%2C1500%2C2500%2C5000%2C8000%26duration%3D105%26adaptive%3D1%26dts%3D0" type="clip" relationType="behindTheScenes" year="2016" title="Demolition: Defining The Character Featurette (UK)" originallyAvailableAt="2016-04-14" thumb="https://iva-images.plex.tv/content/hdphotos/10228/010228/010228_1280x720_127133_074.jpg" ratingKey="iva://api.internetvideoarchive.com/2.0/DataService/VideoAssets(127133)?lang=en&amp;bitrates=80,212,450,750,1500,2500,5000,8000&amp;duration=105&amp;adaptive=1&amp;dts=0">
+    <Media container="mp4" height="1080" width="1920" audioCodec="aac" duration="105000" videoCodec="h264" bitrate="2500">
+      <Part duration="105000" key="/services/iva/assets/127133/video.mp4?bitrate=2500" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="1080" width="1920" codec="h264" bitrate="2500" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+    <Media container="mp4" height="720" width="1280" audioCodec="aac" duration="105000" videoCodec="h264" bitrate="1500">
+      <Part duration="105000" key="/services/iva/assets/127133/video.mp4?bitrate=1500" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="720" width="1280" codec="h264" bitrate="1500" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+    <Media container="mp4" height="480" width="640" audioCodec="aac" duration="105000" videoCodec="h264" bitrate="450">
+      <Part duration="105000" key="/services/iva/assets/127133/video.mp4?bitrate=450" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="480" width="640" codec="h264" bitrate="450" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+  </Video>
+  <Video url="iva://api.internetvideoarchive.com/2.0/DataService/VideoAssets(509379)?lang=en&amp;bitrates=80,212,450,750,1500,2500,5000,8000&amp;duration=104&amp;adaptive=1&amp;dts=0" key="/system/services/url/lookup?url=iva%3A%2F%2Fapi.internetvideoarchive.com%2F2.0%2FDataService%2FVideoAssets%28509379%29%3Flang%3Den%26bitrates%3D80%2C212%2C450%2C750%2C1500%2C2500%2C5000%2C8000%26duration%3D104%26adaptive%3D1%26dts%3D0" type="clip" relationType="behindTheScenes" year="2016" title="Demolition: Defining The Character (Featurette)" originallyAvailableAt="2016-04-12" thumb="https://iva-images.plex.tv/content/hdphotos/10220/010220/010220_944x531_509379_130.jpg" ratingKey="iva://api.internetvideoarchive.com/2.0/DataService/VideoAssets(509379)?lang=en&amp;bitrates=80,212,450,750,1500,2500,5000,8000&amp;duration=104&amp;adaptive=1&amp;dts=0">
+    <Media container="mp4" height="1080" width="1920" audioCodec="aac" duration="104000" videoCodec="h264" bitrate="2500">
+      <Part duration="104000" key="/services/iva/assets/509379/video.mp4?bitrate=2500" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="1080" width="1920" codec="h264" bitrate="2500" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+    <Media container="mp4" height="720" width="1280" audioCodec="aac" duration="104000" videoCodec="h264" bitrate="1500">
+      <Part duration="104000" key="/services/iva/assets/509379/video.mp4?bitrate=1500" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="720" width="1280" codec="h264" bitrate="1500" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+    <Media container="mp4" height="480" width="640" audioCodec="aac" duration="104000" videoCodec="h264" bitrate="450">
+      <Part duration="104000" key="/services/iva/assets/509379/video.mp4?bitrate=450" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="480" width="640" codec="h264" bitrate="450" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+  </Video>
+  <Video url="iva://api.internetvideoarchive.com/2.0/DataService/VideoAssets(471675)?lang=en&amp;bitrates=80,212,450,750,1500,2500,5000,8000&amp;duration=135&amp;adaptive=1&amp;dts=0" key="/system/services/url/lookup?url=iva%3A%2F%2Fapi.internetvideoarchive.com%2F2.0%2FDataService%2FVideoAssets%28471675%29%3Flang%3Den%26bitrates%3D80%2C212%2C450%2C750%2C1500%2C2500%2C5000%2C8000%26duration%3D135%26adaptive%3D1%26dts%3D0" type="clip" relationType="behindTheScenes" year="2016" title="Demolition: Jake And Jean-Marc Conversation (Featurette)" originallyAvailableAt="2016-04-08" thumb="https://iva-images.plex.tv/content/hdphotos/10203/010203/010203_1280x720_471675_106.jpg" ratingKey="iva://api.internetvideoarchive.com/2.0/DataService/VideoAssets(471675)?lang=en&amp;bitrates=80,212,450,750,1500,2500,5000,8000&amp;duration=135&amp;adaptive=1&amp;dts=0">
+    <Media container="mp4" height="1080" width="1920" audioCodec="aac" duration="135000" videoCodec="h264" bitrate="2500">
+      <Part duration="135000" key="/services/iva/assets/471675/video.mp4?bitrate=2500" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="1080" width="1920" codec="h264" bitrate="2500" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+    <Media container="mp4" height="720" width="1280" audioCodec="aac" duration="135000" videoCodec="h264" bitrate="1500">
+      <Part duration="135000" key="/services/iva/assets/471675/video.mp4?bitrate=1500" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="720" width="1280" codec="h264" bitrate="1500" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+    <Media container="mp4" height="480" width="640" audioCodec="aac" duration="135000" videoCodec="h264" bitrate="450">
+      <Part duration="135000" key="/services/iva/assets/471675/video.mp4?bitrate=450" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="480" width="640" codec="h264" bitrate="450" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+  </Video>
+  <Video url="iva://api.internetvideoarchive.com/2.0/DataService/VideoAssets(519044)?lang=en&amp;bitrates=80,212,450,750,1500,2500,5000,8000&amp;duration=114&amp;adaptive=1&amp;dts=0" key="/system/services/url/lookup?url=iva%3A%2F%2Fapi.internetvideoarchive.com%2F2.0%2FDataService%2FVideoAssets%28519044%29%3Flang%3Den%26bitrates%3D80%2C212%2C450%2C750%2C1500%2C2500%2C5000%2C8000%26duration%3D114%26adaptive%3D1%26dts%3D0" type="clip" relationType="behindTheScenes" year="2016" title="Demolition: Letters From Davis (Featurette)" originallyAvailableAt="2016-04-07" thumb="https://iva-images.plex.tv/content/hdphotos/10198/010198/010198_1031x580_519044_062.jpg" ratingKey="iva://api.internetvideoarchive.com/2.0/DataService/VideoAssets(519044)?lang=en&amp;bitrates=80,212,450,750,1500,2500,5000,8000&amp;duration=114&amp;adaptive=1&amp;dts=0">
+    <Media container="mp4" height="1080" width="1920" audioCodec="aac" duration="114000" videoCodec="h264" bitrate="2500">
+      <Part duration="114000" key="/services/iva/assets/519044/video.mp4?bitrate=2500" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="1080" width="1920" codec="h264" bitrate="2500" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+    <Media container="mp4" height="720" width="1280" audioCodec="aac" duration="114000" videoCodec="h264" bitrate="1500">
+      <Part duration="114000" key="/services/iva/assets/519044/video.mp4?bitrate=1500" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="720" width="1280" codec="h264" bitrate="1500" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+    <Media container="mp4" height="480" width="640" audioCodec="aac" duration="114000" videoCodec="h264" bitrate="450">
+      <Part duration="114000" key="/services/iva/assets/519044/video.mp4?bitrate=450" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="480" width="640" codec="h264" bitrate="450" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+  </Video>
+  <Video url="iva://api.internetvideoarchive.com/2.0/DataService/VideoAssets(154425)?lang=en&amp;bitrates=80,212,450,750,1500,2500,5000,8000&amp;duration=86&amp;adaptive=1&amp;dts=0" key="/system/services/url/lookup?url=iva%3A%2F%2Fapi.internetvideoarchive.com%2F2.0%2FDataService%2FVideoAssets%28154425%29%3Flang%3Den%26bitrates%3D80%2C212%2C450%2C750%2C1500%2C2500%2C5000%2C8000%26duration%3D86%26adaptive%3D1%26dts%3D0" type="clip" relationType="behindTheScenes" year="2016" title="Demolition: Jake Gyllenhaal On The Title V2" originallyAvailableAt="2016-03-17" thumb="https://iva-images.plex.tv/content/hdphotos/10120/010120/010120_1280x720_154425_002.jpg" ratingKey="iva://api.internetvideoarchive.com/2.0/DataService/VideoAssets(154425)?lang=en&amp;bitrates=80,212,450,750,1500,2500,5000,8000&amp;duration=86&amp;adaptive=1&amp;dts=0">
+    <Media container="mp4" height="1080" width="1920" audioCodec="aac" duration="86000" videoCodec="h264" bitrate="2500">
+      <Part duration="86000" key="/services/iva/assets/154425/video.mp4?bitrate=2500" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="1080" width="1920" codec="h264" bitrate="2500" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+    <Media container="mp4" height="720" width="1280" audioCodec="aac" duration="86000" videoCodec="h264" bitrate="1500">
+      <Part duration="86000" key="/services/iva/assets/154425/video.mp4?bitrate=1500" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="720" width="1280" codec="h264" bitrate="1500" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+    <Media container="mp4" height="480" width="640" audioCodec="aac" duration="86000" videoCodec="h264" bitrate="450">
+      <Part duration="86000" key="/services/iva/assets/154425/video.mp4?bitrate=450" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="480" width="640" codec="h264" bitrate="450" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+  </Video>
+  <Video url="iva://api.internetvideoarchive.com/2.0/DataService/VideoAssets(882682)?lang=en&amp;bitrates=80,212,450,750,1500,2500,5000,8000&amp;duration=76&amp;adaptive=1&amp;dts=0" key="/system/services/url/lookup?url=iva%3A%2F%2Fapi.internetvideoarchive.com%2F2.0%2FDataService%2FVideoAssets%28882682%29%3Flang%3Den%26bitrates%3D80%2C212%2C450%2C750%2C1500%2C2500%2C5000%2C8000%26duration%3D76%26adaptive%3D1%26dts%3D0" type="clip" relationType="behindTheScenes" year="2016" title="Demolition: Jake Gyllenhaal On The Film" originallyAvailableAt="2016-03-17" thumb="https://iva-images.plex.tv/content/hdphotos/10120/010120/010120_1280x720_882682_038.jpg" ratingKey="iva://api.internetvideoarchive.com/2.0/DataService/VideoAssets(882682)?lang=en&amp;bitrates=80,212,450,750,1500,2500,5000,8000&amp;duration=76&amp;adaptive=1&amp;dts=0">
+    <Media container="mp4" height="1080" width="1920" audioCodec="aac" duration="76000" videoCodec="h264" bitrate="2500">
+      <Part duration="76000" key="/services/iva/assets/882682/video.mp4?bitrate=2500" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="1080" width="1920" codec="h264" bitrate="2500" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+    <Media container="mp4" height="720" width="1280" audioCodec="aac" duration="76000" videoCodec="h264" bitrate="1500">
+      <Part duration="76000" key="/services/iva/assets/882682/video.mp4?bitrate=1500" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="720" width="1280" codec="h264" bitrate="1500" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+    <Media container="mp4" height="480" width="640" audioCodec="aac" duration="76000" videoCodec="h264" bitrate="450">
+      <Part duration="76000" key="/services/iva/assets/882682/video.mp4?bitrate=450" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="480" width="640" codec="h264" bitrate="450" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+  </Video>
+  <Video url="iva://api.internetvideoarchive.com/2.0/DataService/VideoAssets(169348)?lang=en&amp;bitrates=80,212,450,750,1500,2500,5000,8000&amp;duration=41&amp;adaptive=1&amp;dts=0" key="/system/services/url/lookup?url=iva%3A%2F%2Fapi.internetvideoarchive.com%2F2.0%2FDataService%2FVideoAssets%28169348%29%3Flang%3Den%26bitrates%3D80%2C212%2C450%2C750%2C1500%2C2500%2C5000%2C8000%26duration%3D41%26adaptive%3D1%26dts%3D0" type="clip" relationType="behindTheScenes" year="2016" title="Demolition: Jake Gyllenhaal On Demolishing Davis's Life" originallyAvailableAt="2016-03-17" thumb="https://iva-images.plex.tv/content/hdphotos/10120/010120/010120_1280x720_169348_004.jpg" ratingKey="iva://api.internetvideoarchive.com/2.0/DataService/VideoAssets(169348)?lang=en&amp;bitrates=80,212,450,750,1500,2500,5000,8000&amp;duration=41&amp;adaptive=1&amp;dts=0">
+    <Media container="mp4" height="1080" width="1920" audioCodec="aac" duration="41000" videoCodec="h264" bitrate="2500">
+      <Part duration="41000" key="/services/iva/assets/169348/video.mp4?bitrate=2500" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="1080" width="1920" codec="h264" bitrate="2500" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+    <Media container="mp4" height="720" width="1280" audioCodec="aac" duration="41000" videoCodec="h264" bitrate="1500">
+      <Part duration="41000" key="/services/iva/assets/169348/video.mp4?bitrate=1500" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="720" width="1280" codec="h264" bitrate="1500" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+    <Media container="mp4" height="480" width="640" audioCodec="aac" duration="41000" videoCodec="h264" bitrate="450">
+      <Part duration="41000" key="/services/iva/assets/169348/video.mp4?bitrate=450" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="480" width="640" codec="h264" bitrate="450" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+  </Video>
+  <Video url="iva://api.internetvideoarchive.com/2.0/DataService/VideoAssets(800823)?lang=en&amp;bitrates=80,212,450,750,1500,2500,5000,8000&amp;duration=43&amp;adaptive=1&amp;dts=0" key="/system/services/url/lookup?url=iva%3A%2F%2Fapi.internetvideoarchive.com%2F2.0%2FDataService%2FVideoAssets%28800823%29%3Flang%3Den%26bitrates%3D80%2C212%2C450%2C750%2C1500%2C2500%2C5000%2C8000%26duration%3D43%26adaptive%3D1%26dts%3D0" type="clip" relationType="behindTheScenes" year="2016" title="Demolition: Jake Gyllenhaal On The Title V1" originallyAvailableAt="2016-03-17" thumb="https://iva-images.plex.tv/content/hdphotos/10120/010120/010120_1280x720_800823_023.jpg" ratingKey="iva://api.internetvideoarchive.com/2.0/DataService/VideoAssets(800823)?lang=en&amp;bitrates=80,212,450,750,1500,2500,5000,8000&amp;duration=43&amp;adaptive=1&amp;dts=0">
+    <Media container="mp4" height="1080" width="1920" audioCodec="aac" duration="43000" videoCodec="h264" bitrate="2500">
+      <Part duration="43000" key="/services/iva/assets/800823/video.mp4?bitrate=2500" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="1080" width="1920" codec="h264" bitrate="2500" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+    <Media container="mp4" height="720" width="1280" audioCodec="aac" duration="43000" videoCodec="h264" bitrate="1500">
+      <Part duration="43000" key="/services/iva/assets/800823/video.mp4?bitrate=1500" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="720" width="1280" codec="h264" bitrate="1500" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+    <Media container="mp4" height="480" width="640" audioCodec="aac" duration="43000" videoCodec="h264" bitrate="450">
+      <Part duration="43000" key="/services/iva/assets/800823/video.mp4?bitrate=450" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="480" width="640" codec="h264" bitrate="450" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+  </Video>
+  <Video url="iva://api.internetvideoarchive.com/2.0/DataService/VideoAssets(661988)?lang=en&amp;bitrates=80,212,450,750,1500,2500,5000,8000&amp;duration=32&amp;adaptive=1&amp;dts=0" key="/system/services/url/lookup?url=iva%3A%2F%2Fapi.internetvideoarchive.com%2F2.0%2FDataService%2FVideoAssets%28661988%29%3Flang%3Den%26bitrates%3D80%2C212%2C450%2C750%2C1500%2C2500%2C5000%2C8000%26duration%3D32%26adaptive%3D1%26dts%3D0" type="clip" relationType="behindTheScenes" year="2016" title="Demolition: Jake Gyllenhaal On Getting Involved" originallyAvailableAt="2016-03-17" thumb="https://iva-images.plex.tv/content/hdphotos/10120/010120/010120_1280x720_661988_008.jpg" ratingKey="iva://api.internetvideoarchive.com/2.0/DataService/VideoAssets(661988)?lang=en&amp;bitrates=80,212,450,750,1500,2500,5000,8000&amp;duration=32&amp;adaptive=1&amp;dts=0">
+    <Media container="mp4" height="1080" width="1920" audioCodec="aac" duration="32000" videoCodec="h264" bitrate="2500">
+      <Part duration="32000" key="/services/iva/assets/661988/video.mp4?bitrate=2500" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="1080" width="1920" codec="h264" bitrate="2500" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+    <Media container="mp4" height="720" width="1280" audioCodec="aac" duration="32000" videoCodec="h264" bitrate="1500">
+      <Part duration="32000" key="/services/iva/assets/661988/video.mp4?bitrate=1500" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="720" width="1280" codec="h264" bitrate="1500" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+    <Media container="mp4" height="480" width="640" audioCodec="aac" duration="32000" videoCodec="h264" bitrate="450">
+      <Part duration="32000" key="/services/iva/assets/661988/video.mp4?bitrate=450" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="480" width="640" codec="h264" bitrate="450" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+  </Video>
+  <Video url="iva://api.internetvideoarchive.com/2.0/DataService/VideoAssets(613568)?lang=en&amp;bitrates=80,212,450,750,1500,2500,5000,8000&amp;duration=39&amp;adaptive=1&amp;dts=0" key="/system/services/url/lookup?url=iva%3A%2F%2Fapi.internetvideoarchive.com%2F2.0%2FDataService%2FVideoAssets%28613568%29%3Flang%3Den%26bitrates%3D80%2C212%2C450%2C750%2C1500%2C2500%2C5000%2C8000%26duration%3D39%26adaptive%3D1%26dts%3D0" type="clip" relationType="behindTheScenes" year="2016" title="Demolition: Jake Gyllenhaal On How Davis Grieves" originallyAvailableAt="2016-03-17" thumb="https://iva-images.plex.tv/content/hdphotos/10120/010120/010120_1280x720_613568_001.jpg" ratingKey="iva://api.internetvideoarchive.com/2.0/DataService/VideoAssets(613568)?lang=en&amp;bitrates=80,212,450,750,1500,2500,5000,8000&amp;duration=39&amp;adaptive=1&amp;dts=0">
+    <Media container="mp4" height="1080" width="1920" audioCodec="aac" duration="39000" videoCodec="h264" bitrate="2500">
+      <Part duration="39000" key="/services/iva/assets/613568/video.mp4?bitrate=2500" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="1080" width="1920" codec="h264" bitrate="2500" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+    <Media container="mp4" height="720" width="1280" audioCodec="aac" duration="39000" videoCodec="h264" bitrate="1500">
+      <Part duration="39000" key="/services/iva/assets/613568/video.mp4?bitrate=1500" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="720" width="1280" codec="h264" bitrate="1500" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+    <Media container="mp4" height="480" width="640" audioCodec="aac" duration="39000" videoCodec="h264" bitrate="450">
+      <Part duration="39000" key="/services/iva/assets/613568/video.mp4?bitrate=450" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="480" width="640" codec="h264" bitrate="450" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+  </Video>
+  <Video url="iva://api.internetvideoarchive.com/2.0/DataService/VideoAssets(844682)?lang=en&amp;bitrates=80,212,450,750,1500,2500,5000,8000&amp;duration=36&amp;adaptive=1&amp;dts=0" key="/system/services/url/lookup?url=iva%3A%2F%2Fapi.internetvideoarchive.com%2F2.0%2FDataService%2FVideoAssets%28844682%29%3Flang%3Den%26bitrates%3D80%2C212%2C450%2C750%2C1500%2C2500%2C5000%2C8000%26duration%3D36%26adaptive%3D1%26dts%3D0" type="clip" relationType="behindTheScenes" year="2016" title="Demolition: Judah Lewis On Working On The Film" originallyAvailableAt="2016-03-17" thumb="https://iva-images.plex.tv/content/hdphotos/10120/010120/010120_1280x720_844682_001.jpg" ratingKey="iva://api.internetvideoarchive.com/2.0/DataService/VideoAssets(844682)?lang=en&amp;bitrates=80,212,450,750,1500,2500,5000,8000&amp;duration=36&amp;adaptive=1&amp;dts=0">
+    <Media container="mp4" height="1080" width="1920" audioCodec="aac" duration="36000" videoCodec="h264" bitrate="2500">
+      <Part duration="36000" key="/services/iva/assets/844682/video.mp4?bitrate=2500" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="1080" width="1920" codec="h264" bitrate="2500" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+    <Media container="mp4" height="720" width="1280" audioCodec="aac" duration="36000" videoCodec="h264" bitrate="1500">
+      <Part duration="36000" key="/services/iva/assets/844682/video.mp4?bitrate=1500" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="720" width="1280" codec="h264" bitrate="1500" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+    <Media container="mp4" height="480" width="640" audioCodec="aac" duration="36000" videoCodec="h264" bitrate="450">
+      <Part duration="36000" key="/services/iva/assets/844682/video.mp4?bitrate=450" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="480" width="640" codec="h264" bitrate="450" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+  </Video>
+  <Video url="iva://api.internetvideoarchive.com/2.0/DataService/VideoAssets(880719)?lang=en&amp;bitrates=80,212,450,750,1500,2500,5000,8000&amp;duration=34&amp;adaptive=1&amp;dts=0" key="/system/services/url/lookup?url=iva%3A%2F%2Fapi.internetvideoarchive.com%2F2.0%2FDataService%2FVideoAssets%28880719%29%3Flang%3Den%26bitrates%3D80%2C212%2C450%2C750%2C1500%2C2500%2C5000%2C8000%26duration%3D34%26adaptive%3D1%26dts%3D0" type="clip" relationType="behindTheScenes" year="2016" title="Demolition: Naomi Watts On Working With Jake" originallyAvailableAt="2016-03-17" thumb="https://iva-images.plex.tv/content/hdphotos/10120/010120/010120_1280x720_880719_026.jpg" ratingKey="iva://api.internetvideoarchive.com/2.0/DataService/VideoAssets(880719)?lang=en&amp;bitrates=80,212,450,750,1500,2500,5000,8000&amp;duration=34&amp;adaptive=1&amp;dts=0">
+    <Media container="mp4" height="1080" width="1920" audioCodec="aac" duration="34000" videoCodec="h264" bitrate="2500">
+      <Part duration="34000" key="/services/iva/assets/880719/video.mp4?bitrate=2500" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="1080" width="1920" codec="h264" bitrate="2500" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+    <Media container="mp4" height="720" width="1280" audioCodec="aac" duration="34000" videoCodec="h264" bitrate="1500">
+      <Part duration="34000" key="/services/iva/assets/880719/video.mp4?bitrate=1500" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="720" width="1280" codec="h264" bitrate="1500" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+    <Media container="mp4" height="480" width="640" audioCodec="aac" duration="34000" videoCodec="h264" bitrate="450">
+      <Part duration="34000" key="/services/iva/assets/880719/video.mp4?bitrate=450" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="480" width="640" codec="h264" bitrate="450" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+  </Video>
+  <Video url="iva://api.internetvideoarchive.com/2.0/DataService/VideoAssets(946345)?lang=en&amp;bitrates=80,212,450,750,1500,2500,5000,8000&amp;duration=23&amp;adaptive=1&amp;dts=0" key="/system/services/url/lookup?url=iva%3A%2F%2Fapi.internetvideoarchive.com%2F2.0%2FDataService%2FVideoAssets%28946345%29%3Flang%3Den%26bitrates%3D80%2C212%2C450%2C750%2C1500%2C2500%2C5000%2C8000%26duration%3D23%26adaptive%3D1%26dts%3D0" type="clip" relationType="behindTheScenes" year="2016" title="Demolition: Judah Lewis On Bringing The Script To Life" originallyAvailableAt="2016-03-17" thumb="https://iva-images.plex.tv/content/hdphotos/10120/010120/010120_1280x720_946345_004.jpg" ratingKey="iva://api.internetvideoarchive.com/2.0/DataService/VideoAssets(946345)?lang=en&amp;bitrates=80,212,450,750,1500,2500,5000,8000&amp;duration=23&amp;adaptive=1&amp;dts=0">
+    <Media container="mp4" height="1080" width="1920" audioCodec="aac" duration="23000" videoCodec="h264" bitrate="2500">
+      <Part duration="23000" key="/services/iva/assets/946345/video.mp4?bitrate=2500" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="1080" width="1920" codec="h264" bitrate="2500" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+    <Media container="mp4" height="720" width="1280" audioCodec="aac" duration="23000" videoCodec="h264" bitrate="1500">
+      <Part duration="23000" key="/services/iva/assets/946345/video.mp4?bitrate=1500" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="720" width="1280" codec="h264" bitrate="1500" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+    <Media container="mp4" height="480" width="640" audioCodec="aac" duration="23000" videoCodec="h264" bitrate="450">
+      <Part duration="23000" key="/services/iva/assets/946345/video.mp4?bitrate=450" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="480" width="640" codec="h264" bitrate="450" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+  </Video>
+  <Video url="iva://api.internetvideoarchive.com/2.0/DataService/VideoAssets(777754)?lang=en&amp;bitrates=80,212,450,750,1500,2500,5000,8000&amp;duration=43&amp;adaptive=1&amp;dts=0" key="/system/services/url/lookup?url=iva%3A%2F%2Fapi.internetvideoarchive.com%2F2.0%2FDataService%2FVideoAssets%28777754%29%3Flang%3Den%26bitrates%3D80%2C212%2C450%2C750%2C1500%2C2500%2C5000%2C8000%26duration%3D43%26adaptive%3D1%26dts%3D0" type="clip" relationType="behindTheScenes" year="2016" title="Demolition: Naomi Watts On Davis And Karen" originallyAvailableAt="2016-03-17" thumb="https://iva-images.plex.tv/content/hdphotos/10120/010120/010120_1280x720_777754_009.jpg" ratingKey="iva://api.internetvideoarchive.com/2.0/DataService/VideoAssets(777754)?lang=en&amp;bitrates=80,212,450,750,1500,2500,5000,8000&amp;duration=43&amp;adaptive=1&amp;dts=0">
+    <Media container="mp4" height="1080" width="1920" audioCodec="aac" duration="43000" videoCodec="h264" bitrate="2500">
+      <Part duration="43000" key="/services/iva/assets/777754/video.mp4?bitrate=2500" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="1080" width="1920" codec="h264" bitrate="2500" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+    <Media container="mp4" height="720" width="1280" audioCodec="aac" duration="43000" videoCodec="h264" bitrate="1500">
+      <Part duration="43000" key="/services/iva/assets/777754/video.mp4?bitrate=1500" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="720" width="1280" codec="h264" bitrate="1500" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+    <Media container="mp4" height="480" width="640" audioCodec="aac" duration="43000" videoCodec="h264" bitrate="450">
+      <Part duration="43000" key="/services/iva/assets/777754/video.mp4?bitrate=450" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="480" width="640" codec="h264" bitrate="450" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+  </Video>
+  <Video url="iva://api.internetvideoarchive.com/2.0/DataService/VideoAssets(76336)?lang=en&amp;bitrates=80,212,450,750,1500,2500,5000,8000&amp;duration=51&amp;adaptive=1&amp;dts=0" key="/system/services/url/lookup?url=iva%3A%2F%2Fapi.internetvideoarchive.com%2F2.0%2FDataService%2FVideoAssets%2876336%29%3Flang%3Den%26bitrates%3D80%2C212%2C450%2C750%2C1500%2C2500%2C5000%2C8000%26duration%3D51%26adaptive%3D1%26dts%3D0" type="clip" relationType="behindTheScenes" year="2016" title="Demolition: Naomi Watts On Her Character" originallyAvailableAt="2016-03-17" thumb="https://iva-images.plex.tv/content/hdphotos/10120/010120/010120_1280x720_76336_036.jpg" ratingKey="iva://api.internetvideoarchive.com/2.0/DataService/VideoAssets(76336)?lang=en&amp;bitrates=80,212,450,750,1500,2500,5000,8000&amp;duration=51&amp;adaptive=1&amp;dts=0">
+    <Media container="mp4" height="1080" width="1920" audioCodec="aac" duration="51000" videoCodec="h264" bitrate="2500">
+      <Part duration="51000" key="/services/iva/assets/76336/video.mp4?bitrate=2500" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="1080" width="1920" codec="h264" bitrate="2500" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+    <Media container="mp4" height="720" width="1280" audioCodec="aac" duration="51000" videoCodec="h264" bitrate="1500">
+      <Part duration="51000" key="/services/iva/assets/76336/video.mp4?bitrate=1500" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="720" width="1280" codec="h264" bitrate="1500" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+    <Media container="mp4" height="480" width="640" audioCodec="aac" duration="51000" videoCodec="h264" bitrate="450">
+      <Part duration="51000" key="/services/iva/assets/76336/video.mp4?bitrate=450" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="480" width="640" codec="h264" bitrate="450" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+  </Video>
+  <Video url="iva://api.internetvideoarchive.com/2.0/DataService/VideoAssets(505271)?lang=en&amp;bitrates=80,212,450,750,1500,2500,5000,8000&amp;duration=28&amp;adaptive=1&amp;dts=0" key="/system/services/url/lookup?url=iva%3A%2F%2Fapi.internetvideoarchive.com%2F2.0%2FDataService%2FVideoAssets%28505271%29%3Flang%3Den%26bitrates%3D80%2C212%2C450%2C750%2C1500%2C2500%2C5000%2C8000%26duration%3D28%26adaptive%3D1%26dts%3D0" type="clip" relationType="behindTheScenes" year="2016" title="Demolition: Naomi Watts On The Script" originallyAvailableAt="2016-03-17" thumb="https://iva-images.plex.tv/content/hdphotos/10120/010120/010120_1280x720_505271_001.jpg" ratingKey="iva://api.internetvideoarchive.com/2.0/DataService/VideoAssets(505271)?lang=en&amp;bitrates=80,212,450,750,1500,2500,5000,8000&amp;duration=28&amp;adaptive=1&amp;dts=0">
+    <Media container="mp4" height="1080" width="1920" audioCodec="aac" duration="28000" videoCodec="h264" bitrate="2500">
+      <Part duration="28000" key="/services/iva/assets/505271/video.mp4?bitrate=2500" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="1080" width="1920" codec="h264" bitrate="2500" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+    <Media container="mp4" height="720" width="1280" audioCodec="aac" duration="28000" videoCodec="h264" bitrate="1500">
+      <Part duration="28000" key="/services/iva/assets/505271/video.mp4?bitrate=1500" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="720" width="1280" codec="h264" bitrate="1500" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+    <Media container="mp4" height="480" width="640" audioCodec="aac" duration="28000" videoCodec="h264" bitrate="450">
+      <Part duration="28000" key="/services/iva/assets/505271/video.mp4?bitrate=450" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="480" width="640" codec="h264" bitrate="450" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+  </Video>
+</MediaContainer>

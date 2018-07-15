@@ -1,0 +1,619 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Movie>
+  <art>
+    <item external="True" url="http://image.tmdb.org/t/p/original/r9DmhMfsndC8QtrXKyad3KCRdcC.jpg" sort_order="1" provider="com.plexapp.agents.imdb" media="com.plexapp.agents.imdb_7b1d68830cf2428ab966e4bbd8440ed6c05c0d8f"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/9GjSPZbJIwV47TfDfNF8IaPC07V.jpg" preview="com.plexapp.agents.imdb_4e9fe7f7d2fc35cd07be2d2f9713429cd17a76d3" sort_order="2" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/xfH3mYQ9x3pQmExyTfokxVUbfVr.jpg" preview="com.plexapp.agents.imdb_fc171bd42703ed8add2d2e97c0dd7cc830fb0c0d" sort_order="3" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/rGy955dh0H01Bhm9D8c9a6o72O3.jpg" preview="com.plexapp.agents.imdb_75522318dae289fb473f4f1d54ca4fa214187637" sort_order="4" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/5wNUJs23rT5rTBacNyf5h83AynM.jpg" preview="com.plexapp.agents.imdb_ac75866069521bdd82fb4ef23167e20e0030a878" sort_order="5" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/kaIfm5ryEOwYg8mLbq8HkPuM1Fo.jpg" preview="com.plexapp.agents.imdb_3aedb6080ffe513c12bc3630c3f9d90019bd434d" sort_order="6" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/6YozDnrA2fXdIbB5nWDFHtB5ZY6.jpg" preview="com.plexapp.agents.imdb_a1183722db58efb95103be69c7af139afce70cfd" sort_order="7" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/ymvIwPty3aKuKoMqyA9zKdRuaJf.jpg" preview="com.plexapp.agents.imdb_864760beab07521cbaae8d231cfc839bea4a8fc4" sort_order="8" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/6G2fLCVm9fiLyHvBrccq6GSe2ih.jpg" preview="com.plexapp.agents.imdb_75c161e4ca59069c86bcfd3a2927caf220879a19" sort_order="9" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/mC5h2mJp7yGXziwSlzk5MjY1SAa.jpg" preview="com.plexapp.agents.imdb_94d79164ce849b54a6d08111068ffc16dbaa0304" sort_order="10" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/2VVEyCmxaLXRHIpokaL2mloKix8.jpg" preview="com.plexapp.agents.imdb_2ef2d10ee7dd9484ccf988debc1a6bb4f682ac04" sort_order="11" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/epmd8SOuCMNLYC61TQYZ3u10XRg.jpg" preview="com.plexapp.agents.imdb_27e1b83bdf206670b77ade20f24891825c743a42" sort_order="12" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/AeH2ez3nOX2YEwkYJ79QbCXZsI7.jpg" preview="com.plexapp.agents.imdb_07d788098523e845c9d8b7c40e86aeabb268f3dc" sort_order="13" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/vG7sapjTtal1X6fWlD2l3bcvYOU.jpg" preview="com.plexapp.agents.imdb_f4063c1e4c6c9c9fbac74bd16975a4f299e797c4" sort_order="14" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/vLmHH8jAy8Jq8uBsLucd3592WGh.jpg" preview="com.plexapp.agents.imdb_dc543307f8bc605efc3392ac99174dfc4fbadf10" sort_order="15" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/wBzMnQ01R9w58W6ucltdYfOyP4j.jpg" preview="com.plexapp.agents.imdb_178ab957d37878fe6a3c99a5e817f458d5590fcd" sort_order="16" provider="com.plexapp.agents.imdb"/>
+  </art>
+  <banners/>
+  <chapters>
+    <item index="0">
+      <title>The Great Prophecy</title>
+      <end_time_offset>380000</end_time_offset>
+      <start_time_offset>0</start_time_offset>
+    </item>
+    <item index="1">
+      <title>The Tragedy Of Loki Of Asgard</title>
+      <end_time_offset>851000</end_time_offset>
+      <start_time_offset>380000</start_time_offset>
+    </item>
+    <item index="2">
+      <title>A Worthy Inclusion</title>
+      <end_time_offset>1332000</end_time_offset>
+      <start_time_offset>851000</start_time_offset>
+    </item>
+    <item index="3">
+      <title>The Goddess Of Death</title>
+      <end_time_offset>1603000</end_time_offset>
+      <start_time_offset>1332000</start_time_offset>
+    </item>
+    <item index="4">
+      <title>"Are You A Fighter, Or Are You Food?"</title>
+      <end_time_offset>1889000</end_time_offset>
+      <start_time_offset>1603000</start_time_offset>
+    </item>
+    <item index="5">
+      <title>Heiress Apparent</title>
+      <end_time_offset>2103000</end_time_offset>
+      <start_time_offset>1889000</start_time_offset>
+    </item>
+    <item index="6">
+      <title>The Grandmaster</title>
+      <end_time_offset>2569000</end_time_offset>
+      <start_time_offset>2103000</start_time_offset>
+    </item>
+    <item index="7">
+      <title>The Eternal Flame</title>
+      <end_time_offset>2911000</end_time_offset>
+      <start_time_offset>2569000</start_time_offset>
+    </item>
+    <item index="8">
+      <title>The Contest Of Champions</title>
+      <end_time_offset>3578000</end_time_offset>
+      <start_time_offset>2911000</start_time_offset>
+    </item>
+    <item index="9">
+      <title>The Resistance</title>
+      <end_time_offset>4077000</end_time_offset>
+      <start_time_offset>3578000</start_time_offset>
+    </item>
+    <item index="10">
+      <title>Hotheaded Fools</title>
+      <end_time_offset>4650000</end_time_offset>
+      <start_time_offset>4077000</start_time_offset>
+    </item>
+    <item index="11">
+      <title>The Revengers</title>
+      <end_time_offset>5245000</end_time_offset>
+      <start_time_offset>4650000</start_time_offset>
+    </item>
+    <item index="12">
+      <title>"The Revolution Has Begun"</title>
+      <end_time_offset>5768000</end_time_offset>
+      <start_time_offset>5245000</start_time_offset>
+    </item>
+    <item index="13">
+      <title>Ready For War</title>
+      <end_time_offset>6155000</end_time_offset>
+      <start_time_offset>5768000</start_time_offset>
+    </item>
+    <item index="14">
+      <title>"Asgard Is Not A Place"</title>
+      <end_time_offset>6559000</end_time_offset>
+      <start_time_offset>6155000</start_time_offset>
+    </item>
+    <item index="15">
+      <title>"What Were You The God Of Again?"</title>
+      <end_time_offset>6897000</end_time_offset>
+      <start_time_offset>6559000</start_time_offset>
+    </item>
+    <item index="16">
+      <title>Ragnarok</title>
+      <end_time_offset>7237000</end_time_offset>
+      <start_time_offset>6897000</start_time_offset>
+    </item>
+    <item index="17">
+      <title>End Credits</title>
+      <end_time_offset>-1</end_time_offset>
+      <start_time_offset>7237000</start_time_offset>
+    </item>
+  </chapters>
+  <collections/>
+  <content_rating>PG-13</content_rating>
+  <countries>
+    <item index="0">USA</item>
+  </countries>
+  <directors>
+    <item index="0">
+      <photo>http://image.tmdb.org/t/p/original/8JBRfEb6mz7GdLwpoKDUOG6B5gy.jpg</photo>
+      <role/>
+      <name>Taika Waititi</name>
+    </item>
+  </directors>
+  <duration>7800000</duration>
+  <genres>
+    <item index="0">Action</item>
+    <item index="1">Adventure</item>
+    <item index="2">Comedy</item>
+    <item index="3">Fantasy</item>
+    <item index="4">Sci-Fi</item>
+  </genres>
+  <originally_available_at>2017-10-25</originally_available_at>
+  <posters>
+    <item external="True" url="http://image.tmdb.org/t/p/original/avy7IR8UMlIIyE2BPCI4plW4Csc.jpg" sort_order="1" provider="com.plexapp.agents.imdb" media="com.plexapp.agents.imdb_bebed8d1c0e2cc2578ac6eed4474efbe7a66c6fc"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/8hnNdUFlUkjPWxKDyiE4Kn8h7Q5.jpg" preview="com.plexapp.agents.imdb_3fc86c85d0d4425418ca902fb9c6671db5220150" sort_order="2" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/oSLd5GYGsiGgzDPKTwQh7wamO8t.jpg" preview="com.plexapp.agents.imdb_b6fa6bad60b928d851c536625bfc0747ab99ffab" sort_order="3" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/y2Op781G0CKOANbfZZ71ylOt373.jpg" preview="com.plexapp.agents.imdb_2e252180e537f0138107979885a9c0eeaf717fba" sort_order="4" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/rzRwTcFvttcN1ZpX2xv4j3tSdJu.jpg" preview="com.plexapp.agents.imdb_4229c47db1a2474271c41dfb5509ffdaf1539507" sort_order="5" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/rtDV1KMHlKXf9K5zcIuthL0UGXv.jpg" preview="com.plexapp.agents.imdb_157f9da06eef190e309e54ddb923ad5c2478b70e" sort_order="6" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/4q9nb8gXWMJ2Tkgz5oVn0lSJQqo.jpg" preview="com.plexapp.agents.imdb_9a522538333c3d4170057d65248e879959684c74" sort_order="7" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/ib1kNgHaOEAPCfoBAEp2cAMHCH4.jpg" preview="com.plexapp.agents.imdb_78386a700fff684077558f90bbf7135d2798b2e5" sort_order="8" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/iEmk7hwwILngzefCPXbnf0Z8xKE.jpg" preview="com.plexapp.agents.imdb_d4e3da667abc3f5587e0ff7c54e5e4edbd420e7c" sort_order="9" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/spZVGXPkmoEqx2RHjOetNr6XfB5.jpg" preview="com.plexapp.agents.imdb_dab9c2ed61c4df5169124e0f337781a5296459b1" sort_order="10" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/jfAFkGetZEBNIwPubR0JG3k7Zkt.jpg" preview="com.plexapp.agents.imdb_948456302f97a9c8e0c564d2f9cd8f356c1c311d" sort_order="11" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/zG7U91psOeLB12qxaYERRR2I4Hu.jpg" preview="com.plexapp.agents.imdb_8c5ba2cd8e3dac59fb820daea9515199aff942ef" sort_order="12" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/lJSu88sQ5N4BEgsj4pcCdzDVsU6.jpg" preview="com.plexapp.agents.imdb_1190af7a7aa5b5dfd931472bb043398761c6dd9e" sort_order="13" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/lJDcDz8BvQeWirGc4LB7QJ4MWaW.jpg" preview="com.plexapp.agents.imdb_35155ee9005609e5e2df3d8840ce23b8a1df09ce" sort_order="14" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/iMq6AU3x0C4C7tlXoQa7a06dzSQ.jpg" preview="com.plexapp.agents.imdb_b48f11f59602b15776a6603bf99b8cac71e169ae" sort_order="15" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/Akpj9MNaoAePC89eK9HQ2LodAId.jpg" preview="com.plexapp.agents.imdb_e2d71473f55677c71234f6c58456b36622059bb1" sort_order="16" provider="com.plexapp.agents.imdb"/>
+  </posters>
+  <producers>
+    <item index="0">
+      <photo>http://image.tmdb.org/t/p/original/AewbqQQT0FbcE358rcbopZ3zgDV.jpg</photo>
+      <role/>
+      <name>Kevin Feige</name>
+    </item>
+  </producers>
+  <rating>9.2</rating>
+  <rating_image>rottentomatoes://image.rating.ripe</rating_image>
+  <audience_rating>8.7</audience_rating>
+  <audience_rating_image>rottentomatoes://image.rating.upright</audience_rating_image>
+  <reviews>
+    <item index="0">
+      <text>Tessa's got the comedic timing to match Taika Waititi's Thor humor, and the physicality to lead the movie's pack of superheroes. She's not trying to outdo the boys; she's just trying to sip her drink and mind her own business.</text>
+      <source>New York Magazine/Vulture</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>http://www.vulture.com/2017/11/in-praise-of-tessa-thompson-in-thor-ragnarok.html</link>
+      <author>Hunter Harris</author>
+    </item>
+    <item index="1">
+      <text>Audiences seem to be smart enough these days to know a good movie when they see it, and to avoid a bad flick despite Hollywood's best efforts to pull a fast one on them.</text>
+      <source>Salon.com</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>https://www.salon.com/2017/11/08/the-success-of-thor-ragnarok-means-there-is-hope-for-humanity-seriously/</link>
+      <author>Matthew Rozsa</author>
+    </item>
+    <item index="2">
+      <text>Perfectly acceptable as an action movie but inspired as a comedy--which is probably where the Thor franchise should have been aiming from the start.</text>
+      <source>The Atlantic</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>https://www.theatlantic.com/entertainment/archive/2017/11/thor-ragnarok-review/544871/</link>
+      <author>Christopher Orr</author>
+    </item>
+    <item index="3">
+      <text>This viewer ... was wowed in fits and starts, but mostly filled with a new, ungrudging respect for Hemsworth.</text>
+      <source>Los Angeles Times</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>http://beta.latimes.com/entertainment/movies/la-et-mn-thor-ragnarok-review-20171103-story.html</link>
+      <author>Justin Chang</author>
+    </item>
+    <item index="4">
+      <text>Cate Blanchett's Hela is hella mean, hella snarky and hella striking with her hair slicked back into antlers.</text>
+      <source>NPR</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>http://www.npr.org/2017/11/02/561671266/thor-ragnarok-pokes-fun-at-itself-while-being-the-best-thor-film-yet</link>
+      <author>Bob Mondello</author>
+    </item>
+    <item index="5">
+      <text>The idea of pairing the oft-dull Thor with a series of oddball companions is an inspired, if necessary, move - so much so that it's baffling it has taken Marvel this long to smarten up.</text>
+      <source>Globe and Mail</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>https://beta.theglobeandmail.com/arts/film/film-reviews/review-thor-ragnarok-injects-some-levity-into-a-bloated-franchise/article36806941/</link>
+      <author>Barry Hertz</author>
+    </item>
+    <item index="6">
+      <text>"Ragnarok" is supposed to play for laughs, but it feels like the joke is on the audience.</text>
+      <source>Detroit News</source>
+      <image>rottentomatoes://image.review.rotten</image>
+      <link>http://www.detroitnews.com/story/entertainment/movies/2017/11/02/movie-review-thor-ragnarok-makes-jokes-everything/107274570/</link>
+      <author>Adam Graham</author>
+    </item>
+    <item index="7">
+      <text>It's witty, it's weird and it goes against decades of bloated, overserious comics fare.</text>
+      <source>New York Post</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>http://nypost.com/2017/11/02/thor-is-the-rare-superhero-film-with-a-sense-of-humor/</link>
+      <author>Sara Stewart</author>
+    </item>
+    <item index="8">
+      <text>What it lacks in urgency - which is a lot, given that the story involves an extinction-level threat to Asgard and All Who Therein Dwell - it makes up for in alacrity.</text>
+      <source>NPR</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>http://www.npr.org/2017/11/02/560371973/thor-ragnarok-is-hela-good</link>
+      <author>Chris Klimek</author>
+    </item>
+    <item index="9">
+      <text>The only thing I enjoyed more than the comedy in Thor: Ragnarok was a climactic battle sequence synced perfectly to Led Zeppelin's "Immigrant Song."</text>
+      <source>Chicago Sun-Times</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>https://chicago.suntimes.com/entertainment/in-fun-thor-ragnarok-action-unfolds-with-a-goofy-guardians-vibe/</link>
+      <author>Richard Roeper</author>
+    </item>
+    <item index="10">
+      <text>Director Taika Waititi's take on the God of Thunder plays a bit like the rock mockumentary This is Spinal Tap: it's front-loaded with jokes, built around a severe humbling, and full of silly bombast.</text>
+      <source>San Diego Reader</source>
+      <image>rottentomatoes://image.review.rotten</image>
+      <link>https://www.sandiegoreader.com/movies/thor-ragnarok/</link>
+      <author>Matthew Lickona</author>
+    </item>
+    <item index="11">
+      <text>Would that every superhero film had so light a touch. Not every job needs a hammer.</text>
+      <source>Slate</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>https://slate.com/arts/2017/11/thor-ragnarok-the-latest-marvel-movie-reviewed.html</link>
+      <author>Jonathan L. Fischer</author>
+    </item>
+    <item index="12">
+      <text>Thor: Ragnarok is more fun than a barrel of winged monkeys, but man, do we have questions.</text>
+      <source>Toronto Star</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>https://www.thestar.com/entertainment/movies/2017/11/02/thor-ragnarok-is-fun-thats-dumb-as-a-bag-of-hammers-review.html</link>
+      <author>Peter Howell</author>
+    </item>
+    <item index="13">
+      <text>This is a colorful mashup of Scandinavian myth, interplanetary sci-fi, Old Testament references, and crossover comic book characters.</text>
+      <source>Chicago Reader</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>https://www.chicagoreader.com/chicago/thor-ragnarok/MovieTimes?oid=30123517</link>
+      <author>Andrea Gronvall</author>
+    </item>
+    <item index="14">
+      <text>At a fundamental level, Marvel jams enough high-spirited entertainment into the movie to ensure that it's worthy of the price of admission.</text>
+      <source>CNN.com</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>http://www.cnn.com/2017/10/30/entertainment/thor-ragnarok-review/index.html</link>
+      <author>Brian Lowry</author>
+    </item>
+    <item index="15">
+      <text>The Marvel Fatigue factor continues, to be sure. But hiring Waititi, and letting the right actors lean into the comedy, constitutes not a marvel, but a qualified victory.</text>
+      <source>Chicago Tribune</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>http://www.chicagotribune.com/entertainment/movies/sc-mov-thor-ragnarok-review-1102-story.html#nt=oft03a-1la1</link>
+      <author>Michael Phillips</author>
+    </item>
+    <item index="16">
+      <text>"Thor: Ragnarok" gives the long-running franchise a fresh bloom of health, fertilizing the comic book roots of the Marvel film universe like a dose of satirical Miracle-Gro.</text>
+      <source>Minneapolis Star Tribune</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>http://www.startribune.com/thor-ragnarok-is-a-fast-paced-satiric-delight-from-start-to-finish/454712823/</link>
+      <author>Colin Covert</author>
+    </item>
+    <item index="17">
+      <text>If your goal is to spend a few hours escaping from reality, "Thor: Ragnarok" is definitely for you.</text>
+      <source>St. Louis Post-Dispatch</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>http://www.stltoday.com/entertainment/movies/reviews/thor-ragnarok-lacks-substance-even-by-comic-book-movie-standards/article_e2d28f99-2df1-5811-8486-18f7bb422a5c.html</link>
+      <author>Calvin Wilson</author>
+    </item>
+    <item index="18">
+      <text>Thor has always been the most laughable of the Avengers, and Waititi's approach means we don't have to pretend to take seriously the insane mythology about outer-space Vikings ruling over nine galactic realms.</text>
+      <source>Philadelphia Inquirer</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>http://www.philly.com/philly/entertainment/thor-ragnarok-chris-hemsworth-cate-blanchett-review-20171102.html</link>
+      <author>Gary Thompson</author>
+    </item>
+    <item index="19">
+      <text>The third film about Marvel's superhero based on the Norse god of thunder shakes things up drastically, taking the series in a more colorful, more fantastic and more comedic direction.</text>
+      <source>Dallas Morning News</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>https://www.guidelive.com/movie-reviews/2017/11/01/thor-ragnarok-chris-hemsworth-tom-hiddleston</link>
+      <author>Britton Peele</author>
+    </item>
+  </reviews>
+  <roles>
+    <item index="0">
+      <photo>http://image.tmdb.org/t/p/original/lrhth7yK9p3vy6p7AabDUM1THKl.jpg</photo>
+      <role>Thor Odinson</role>
+      <name>Chris Hemsworth</name>
+    </item>
+    <item index="1">
+      <photo>http://image.tmdb.org/t/p/original/qB1lHPFBPIzw6I7EvsciZ5wyUNS.jpg</photo>
+      <role>Loki</role>
+      <name>Tom Hiddleston</name>
+    </item>
+    <item index="2">
+      <photo>http://image.tmdb.org/t/p/original/isQ747u0MU8U9gdsNlPngjABclH.jpg</photo>
+      <role>Bruce Banner / The Hulk</role>
+      <name>Mark Ruffalo</name>
+    </item>
+    <item index="3">
+      <photo>http://image.tmdb.org/t/p/original/eE98pTm0Q2xIn0710VBC603IE5Q.jpg</photo>
+      <role>Hela</role>
+      <name>Cate Blanchett</name>
+    </item>
+    <item index="4">
+      <photo>http://image.tmdb.org/t/p/original/fycqdiiM6dsNSbnONBVVQ57ILV1.jpg</photo>
+      <role>Brunnhilde / Valkyrie</role>
+      <name>Tessa Thompson</name>
+    </item>
+    <item index="5">
+      <photo>http://image.tmdb.org/t/p/original/fBNfIzrfOqh1KFvQkSxrJoMNYXL.jpg</photo>
+      <role>Heimdall</role>
+      <name>Idris Elba</name>
+    </item>
+    <item index="6">
+      <photo>http://image.tmdb.org/t/p/original/ceSmXnD0FUSTaq2WIrnZu9caL0t.jpg</photo>
+      <role>Grandmaster</role>
+      <name>Jeff Goldblum</name>
+    </item>
+    <item index="7">
+      <photo>http://image.tmdb.org/t/p/original/tHYOUO33K7iaDw8nXyqRvDIkVuM.jpg</photo>
+      <role>Skurge</role>
+      <name>Karl Urban</name>
+    </item>
+    <item index="8">
+      <photo>http://image.tmdb.org/t/p/original/9ukJS2QWTJ22HcwR1ktMmoJ6RSL.jpg</photo>
+      <role>Odin</role>
+      <name>Anthony Hopkins</name>
+    </item>
+    <item index="9">
+      <photo>http://image.tmdb.org/t/p/original/8JBRfEb6mz7GdLwpoKDUOG6B5gy.jpg</photo>
+      <role>Korg / Surtur (mo-cap)</role>
+      <name>Taika Waititi</name>
+    </item>
+    <item index="10">
+      <photo>http://image.tmdb.org/t/p/original/wz3MRiMmoz6b5X3oSzMRC9nLxY1.jpg</photo>
+      <role>Stephen Strange / Doctor Strange</role>
+      <name>Benedict Cumberbatch</name>
+    </item>
+    <item index="11">
+      <photo>http://image.tmdb.org/t/p/original/8UGo2lHG5wtnH55lKPDm8oJ0IOk.jpg</photo>
+      <role>Topaz</role>
+      <name>Rachel House</name>
+    </item>
+    <item index="12">
+      <photo>http://image.tmdb.org/t/p/original/pwiG1ljLoqfcmFH2zFp5NP2ML4B.jpg</photo>
+      <role>Surtur (voice)</role>
+      <name>Clancy Brown</name>
+    </item>
+    <item index="13">
+      <photo>http://image.tmdb.org/t/p/original/zlZsST8s1Apm6D6bCyYeWrCKZCy.jpg</photo>
+      <role>Hogun</role>
+      <name>Tadanobu Asano</name>
+    </item>
+    <item index="14">
+      <photo>http://image.tmdb.org/t/p/original/bcd9uqwfCVYsu7rduZnPVYUkyfU.jpg</photo>
+      <role>Volstagg</role>
+      <name>Ray Stevenson</name>
+    </item>
+    <item index="15">
+      <photo>http://image.tmdb.org/t/p/original/gAXGlrS9RlNA1sxJqi9C8gVsnUB.jpg</photo>
+      <role>Fandral</role>
+      <name>Zachary Levi</name>
+    </item>
+    <item index="16">
+      <photo>http://image.tmdb.org/t/p/original/elSlNgV8xVifsbHpFsqrPGxJToZ.jpg</photo>
+      <role>Actor Loki</role>
+      <name>Matt Damon</name>
+    </item>
+    <item index="17">
+      <photo>http://image.tmdb.org/t/p/original/524YwxvMCtwVzpxW1DkAgmE3j5d.jpg</photo>
+      <role>Actor Thor</role>
+      <name>Luke Hemsworth</name>
+    </item>
+    <item index="18">
+      <photo>http://image.tmdb.org/t/p/original/9uvfpHrMIl8CiztkNb3hJPYbYao.jpg</photo>
+      <role>Actor Odin</role>
+      <name>Sam Neill</name>
+    </item>
+    <item index="19">
+      <photo>http://image.tmdb.org/t/p/original/oxjxXsxjRyYL17JW6ieq510JX7L.jpg</photo>
+      <role>Actor Sif</role>
+      <name>Charlotte Nicdao</name>
+    </item>
+    <item index="20">
+      <photo>http://image.tmdb.org/t/p/original/dTr2gJPL7jELKVkcjtoNx80uVKR.jpg</photo>
+      <role>Barber</role>
+      <name>Stan Lee</name>
+    </item>
+    <item index="21">
+      <photo>http://image.tmdb.org/t/p/original/uEfBOQdEHjUCzpAlIAjMdjvnfxM.jpg</photo>
+      <role>Asgardian Date #1</role>
+      <name>Georgia Blizzard</name>
+    </item>
+    <item index="22">
+      <photo>http://image.tmdb.org/t/p/original/vNklN2rj7BecTG6UJu6flpjMEJD.jpg</photo>
+      <role>Asgardian Date #2</role>
+      <name>Amali Golden</name>
+    </item>
+    <item index="23">
+      <photo>http://image.tmdb.org/t/p/original/8fQtPROhSKOa0iNGfPxE6aaI88O.jpg</photo>
+      <role>Odin's Assistant</role>
+      <name>Ashley Ricardo</name>
+    </item>
+    <item index="24">
+      <photo>http://image.tmdb.org/t/p/original/z7MhEtDrHJsLIaJiE6wTs5L6SsO.jpg</photo>
+      <role>College Girl #1</role>
+      <name>Shalom Brune-Franklin</name>
+    </item>
+    <item index="25">
+      <photo>http://image.tmdb.org/t/p/original/42GSbXwBwsPAYBtJVKaYf4Ojc71.jpg</photo>
+      <role>College Girl #2</role>
+      <name>Taylor Hemsworth</name>
+    </item>
+    <item index="26">
+      <photo>http://image.tmdb.org/t/p/original/7g9JZKwKxFPYVLWkTkrhAnlWRrr.jpg</photo>
+      <role>Lead Scrapper</role>
+      <name>Cohen Holloway</name>
+    </item>
+    <item index="27">
+      <photo>http://image.tmdb.org/t/p/original/yTCWy64wzfu8hDPoc2ryDIjM0DE.jpg</photo>
+      <role>Golden Lady #1</role>
+      <name>Alia Seror-O'Neill</name>
+    </item>
+    <item index="28">
+      <photo>http://image.tmdb.org/t/p/original/mu3xju5vkC6Y4PuuRVjH1A6i1i9.jpg</photo>
+      <role>Golden Lady #2</role>
+      <name>Sophia Laryea</name>
+    </item>
+    <item index="29">
+      <photo/>
+      <role>Cousin Carlo</role>
+      <name>Stephen Oliver</name>
+    </item>
+    <item index="30">
+      <photo>http://image.tmdb.org/t/p/original/2nBXQDn5nFkrLHS4hwtH2WLUGkc.jpg</photo>
+      <role>Beerbot 5000</role>
+      <name>Hamish Parkinson</name>
+    </item>
+    <item index="31">
+      <photo>http://image.tmdb.org/t/p/original/6Z0mpyBSX3JjfobOqeRI18wuLp.jpg</photo>
+      <role>Warden</role>
+      <name>Jasper Bagg</name>
+    </item>
+    <item index="32">
+      <photo/>
+      <role>Asgardian Daughter</role>
+      <name>Sky Castanho</name>
+    </item>
+    <item index="33">
+      <photo>http://image.tmdb.org/t/p/original/ptXEjpYvIRJTurnTfYvyYgNdmaZ.jpg</photo>
+      <role>Asgardian Mother</role>
+      <name>Shari Sebbens</name>
+    </item>
+    <item index="34">
+      <photo/>
+      <role>Asgardian Uncle</role>
+      <name>Richard Green</name>
+    </item>
+    <item index="35">
+      <photo/>
+      <role>Asgardian Son</role>
+      <name>Sol Castanho</name>
+    </item>
+    <item index="36">
+      <photo>http://image.tmdb.org/t/p/original/137Ze7d18pUrNiDY5g3kzMpCauM.jpg</photo>
+      <role>Valkyrie Sister #1</role>
+      <name>Jet Tranter</name>
+    </item>
+    <item index="37">
+      <photo/>
+      <role>Valkyrie Sister #2</role>
+      <name>Samantha Hopper</name>
+    </item>
+    <item index="38">
+      <photo/>
+      <role>Asgardian Woman</role>
+      <name>Eloise Winestock</name>
+    </item>
+    <item index="39">
+      <photo>http://image.tmdb.org/t/p/original/AmuOGIDRUcfOoOQf9Vw4ikqWG53.jpg</photo>
+      <role>Asgardian Man</role>
+      <name>Rob Mayes</name>
+    </item>
+    <item index="40">
+      <photo>http://image.tmdb.org/t/p/original/xhifAb1hwqREG8EKBqLi1ZJeeWg.jpg</photo>
+      <role>Asgardian</role>
+      <name>Tahlia Jade</name>
+    </item>
+    <item index="41">
+      <photo>http://image.tmdb.org/t/p/original/lUTozzeBvTZZkpUQLE5V5baS12X.jpg</photo>
+      <role>Asgardian</role>
+      <name>Winnie Mzembe</name>
+    </item>
+    <item index="42">
+      <photo/>
+      <role>Asgardian</role>
+      <name>Sean Edward Frazer</name>
+    </item>
+    <item index="43">
+      <photo/>
+      <role>Asgardian</role>
+      <name>Connor Zegenhagen</name>
+    </item>
+    <item index="44">
+      <photo>http://image.tmdb.org/t/p/original/82s9hKwTXNhPVPFeEiPw8Xw9RTr.jpg</photo>
+      <role>Asgardian</role>
+      <name>Tracie Filmer</name>
+    </item>
+    <item index="45">
+      <photo>http://image.tmdb.org/t/p/original/8xE98laTRaVqu02K8Q8Npm8DjEc.jpg</photo>
+      <role>Asgardian Servant</role>
+      <name>Tracey Lee Maxwell</name>
+    </item>
+    <item index="46">
+      <photo/>
+      <role>Asgardian Citizen (uncredited)</role>
+      <name>Beatrice Ward</name>
+    </item>
+    <item index="47">
+      <photo>http://image.tmdb.org/t/p/original/dm2cSQwySnOj9sWqca9nBspS8sL.jpg</photo>
+      <role>GM Pilot</role>
+      <name>Donnie Baxter</name>
+    </item>
+    <item index="48">
+      <photo>http://image.tmdb.org/t/p/original/dmxwEAlTSqNlmBvTesZkhc1P7Dm.jpg</photo>
+      <role>Grandmaster VIP</role>
+      <name>Greta Carew-Johns</name>
+    </item>
+    <item index="49">
+      <photo>http://image.tmdb.org/t/p/original/dVTHjh33pASH2nnNL00N4WXfjdR.jpg</photo>
+      <role>New York businessman</role>
+      <name>Adam Green</name>
+    </item>
+    <item index="50">
+      <photo>http://image.tmdb.org/t/p/original/q4XZ9rV1TbrsqvK91a9FAMudL6C.jpg</photo>
+      <role>Twin Sakaaran citizen</role>
+      <name>Mollie McGregor</name>
+    </item>
+    <item index="51">
+      <photo>http://image.tmdb.org/t/p/original/egbKVmd3f1xgAq90vDiRLLZIFXx.jpg</photo>
+      <role>Twin Sakaaran citizen</role>
+      <name>Sophia McGregor</name>
+    </item>
+    <item index="52">
+      <photo>http://image.tmdb.org/t/p/original/oqvusJfmH4zN2LgdCjmB2TxetOd.jpg</photo>
+      <role>Natasha Romanoff / Black Widow (archive)</role>
+      <name>Scarlett Johansson</name>
+    </item>
+  </roles>
+  <similar>
+    <item index="0">Justice League</item>
+    <item index="1">Spider-Man: Homecoming</item>
+    <item index="2">Guardians of the Galaxy Vol. 2</item>
+    <item index="3">Star Wars: The Last Jedi</item>
+    <item index="4">Black Panther</item>
+    <item index="5">Avengers: Infinity War</item>
+    <item index="6">Wonder Woman</item>
+    <item index="7">Doctor Strange</item>
+    <item index="8">Kingsman: The Golden Circle</item>
+    <item index="9">Thor: The Dark World</item>
+    <item index="10">Captain America: Civil War</item>
+    <item index="11">Logan</item>
+    <item index="12">Avengers: Age of Ultron</item>
+    <item index="13">Blade Runner 2049</item>
+    <item index="14">Ant-Man</item>
+    <item index="15">Baby Driver</item>
+    <item index="16">Pirates of the Caribbean: Dead Men Tell No Tales</item>
+    <item index="17">Captain America: The Winter Soldier</item>
+    <item index="18">Valerian and the City of a Thousand Planets</item>
+    <item index="19">X-Men: Apocalypse</item>
+  </similar>
+  <studio>Walt Disney Pictures</studio>
+  <summary>Thor is on the other side of the universe and finds himself in a race against time to get back to Asgard to stop Ragnarok, the prophecy of destruction to his homeworld and the end of Asgardian civilization, at the hands of an all-powerful new threat, the ruthless Hela.</summary>
+  <tagline>No Hammer. No Problem.</tagline>
+  <tags/>
+  <themes/>
+  <title>Thor: Ragnarok</title>
+  <writers>
+    <item index="0">
+      <photo/>
+      <role/>
+      <name>Craig Kyle</name>
+    </item>
+    <item index="1">
+      <photo>http://image.tmdb.org/t/p/original/6v1wkHdEAuwD8M8i0yWa3LYvoxS.jpg</photo>
+      <role/>
+      <name>Christopher Yost</name>
+    </item>
+    <item index="2">
+      <photo>http://image.tmdb.org/t/p/original/zcDkJjHu28TcrgBi1X4VClUk8Hx.jpg</photo>
+      <role/>
+      <name>Eric Pearson</name>
+    </item>
+  </writers>
+  <year>2017</year>
+</Movie>

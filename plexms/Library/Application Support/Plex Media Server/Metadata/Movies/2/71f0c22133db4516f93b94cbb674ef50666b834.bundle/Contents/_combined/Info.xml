@@ -1,0 +1,222 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Movie>
+  <art>
+    <item external="True" url="http://image.tmdb.org/t/p/original/keknLfQ8UXjpambwn4rutfH1HkR.jpg" sort_order="1" provider="com.plexapp.agents.imdb" media="com.plexapp.agents.imdb_8b0f4002490c72cece0c01b607cb79bd165c2120"/>
+  </art>
+  <banners/>
+  <chapters>
+    <item index="0">
+      <title>Chapter 1</title>
+      <end_time_offset>359000</end_time_offset>
+      <start_time_offset>0</start_time_offset>
+    </item>
+    <item index="1">
+      <title>Chapter 2</title>
+      <end_time_offset>719000</end_time_offset>
+      <start_time_offset>359000</start_time_offset>
+    </item>
+    <item index="2">
+      <title>Chapter 3</title>
+      <end_time_offset>1079000</end_time_offset>
+      <start_time_offset>719000</start_time_offset>
+    </item>
+    <item index="3">
+      <title>Chapter 4</title>
+      <end_time_offset>1439000</end_time_offset>
+      <start_time_offset>1079000</start_time_offset>
+    </item>
+    <item index="4">
+      <title>Chapter 5</title>
+      <end_time_offset>1799000</end_time_offset>
+      <start_time_offset>1439000</start_time_offset>
+    </item>
+    <item index="5">
+      <title>Chapter 6</title>
+      <end_time_offset>2159000</end_time_offset>
+      <start_time_offset>1799000</start_time_offset>
+    </item>
+    <item index="6">
+      <title>Chapter 7</title>
+      <end_time_offset>2519000</end_time_offset>
+      <start_time_offset>2159000</start_time_offset>
+    </item>
+    <item index="7">
+      <title>Chapter 8</title>
+      <end_time_offset>2879000</end_time_offset>
+      <start_time_offset>2519000</start_time_offset>
+    </item>
+    <item index="8">
+      <title>Chapter 9</title>
+      <end_time_offset>3239000</end_time_offset>
+      <start_time_offset>2879000</start_time_offset>
+    </item>
+    <item index="9">
+      <title>Chapter 10</title>
+      <end_time_offset>3599000</end_time_offset>
+      <start_time_offset>3239000</start_time_offset>
+    </item>
+    <item index="10">
+      <title>Chapter 11</title>
+      <end_time_offset>4079000</end_time_offset>
+      <start_time_offset>3599000</start_time_offset>
+    </item>
+    <item index="11">
+      <title>Chapter 12</title>
+      <end_time_offset>-1</end_time_offset>
+      <start_time_offset>4079000</start_time_offset>
+    </item>
+  </chapters>
+  <collections/>
+  <countries>
+    <item index="0">USA</item>
+  </countries>
+  <directors>
+    <item index="0">
+      <photo/>
+      <role/>
+      <name>Henry Saine</name>
+    </item>
+  </directors>
+  <duration>4680000</duration>
+  <genres>
+    <item index="0">Adventure</item>
+    <item index="1">Comedy</item>
+    <item index="2">Horror</item>
+  </genres>
+  <originally_available_at>2009-10-03</originally_available_at>
+  <posters>
+    <item external="True" url="http://image.tmdb.org/t/p/original/i1iR0DSqfC5rMxWkzUWphY13AC8.jpg" sort_order="1" provider="com.plexapp.agents.imdb" media="com.plexapp.agents.imdb_d0e47a0b1779a2bdc4e7b6d7750aeeed36208542"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/xbXB5746I7tjHtmjHErrpDmRXdv.jpg" preview="com.plexapp.agents.imdb_61fc01e373bacc8258005b0075ec8a069a38cb04" sort_order="2" provider="com.plexapp.agents.imdb"/>
+  </posters>
+  <producers/>
+  <rating>5.5</rating>
+  <rating_image>imdb://image.rating</rating_image>
+  <audience_rating>0.0</audience_rating>
+  <audience_rating_image/>
+  <reviews/>
+  <roles>
+    <item index="0">
+      <photo>http://image.tmdb.org/t/p/original/yQaKWfWQJUSKPv4tCsgvkrtBS2U.jpg</photo>
+      <role>Jeff</role>
+      <name>Kyle Davis</name>
+    </item>
+    <item index="1">
+      <photo/>
+      <role>Charlie</role>
+      <name>Devin McGinn</name>
+    </item>
+    <item index="2">
+      <photo/>
+      <role>Captain Olaf</role>
+      <name>Gregg Lawrence</name>
+    </item>
+    <item index="3">
+      <photo>http://image.tmdb.org/t/p/original/i2mFU91UFJEGkL7Q1NA3G9rZmi8.jpg</photo>
+      <role>Professor Lake</role>
+      <name>Edmund Lupinski</name>
+    </item>
+    <item index="4">
+      <photo>http://image.tmdb.org/t/p/original/ntqF3fri1Nti0vQla4K0VI0qItP.jpg</photo>
+      <role>Chelsea</role>
+      <name>Leah McKendrick</name>
+    </item>
+    <item index="5">
+      <photo>http://image.tmdb.org/t/p/original/fFFjfOX7BUsfBQQP54K8QEkkEC2.jpg</photo>
+      <role>Mr. Snodgrass</role>
+      <name>Richard Riehle</name>
+    </item>
+    <item index="6">
+      <photo>http://image.tmdb.org/t/p/original/gFvRaTHPxqSLsdL8USk51JfOjMv.jpg</photo>
+      <role>Henry</role>
+      <name>Oren Skoog</name>
+    </item>
+    <item index="7">
+      <photo>http://image.tmdb.org/t/p/original/sYKZBDsmDIhVY0juiwSDfv2RnPR.jpg</photo>
+      <role>Clarence</role>
+      <name>Martin Starr</name>
+    </item>
+    <item index="8">
+      <photo>http://image.tmdb.org/t/p/original/Es2h2N8lKaQCNcdp8S1TjIIn2K.jpg</photo>
+      <role>Nicole</role>
+      <name>Alexi Wasser</name>
+    </item>
+    <item index="9">
+      <photo/>
+      <role>Starspawn</role>
+      <name>Ethan Wilde</name>
+    </item>
+    <item index="10">
+      <photo/>
+      <role>Susie</role>
+      <name>Jessica Kinney</name>
+    </item>
+    <item index="11">
+      <photo/>
+      <role>Jimbo</role>
+      <name>Harry Karp</name>
+    </item>
+    <item index="12">
+      <photo/>
+      <role>Cult Leader</role>
+      <name>Douglas Jantzen Jr.</name>
+    </item>
+    <item index="13">
+      <photo>http://image.tmdb.org/t/p/original/aoinc7IiA6323wYI7p45xTN5MvD.jpg</photo>
+      <role>Paul</role>
+      <name>Barak Hardley</name>
+    </item>
+    <item index="14">
+      <photo>http://image.tmdb.org/t/p/original/5h5YFOnTybanZuRVl4oBtexImwk.jpg</photo>
+      <role>Cult member #1</role>
+      <name>Todd Duffey</name>
+    </item>
+    <item index="15">
+      <photo>http://image.tmdb.org/t/p/original/fKdrLvYoNJf91yTDyKnZvEJWUVf.jpg</photo>
+      <role>Stacy Rahman</role>
+      <name>Sujata Day</name>
+    </item>
+    <item index="16">
+      <photo>http://image.tmdb.org/t/p/original/w9gPpGqTxaAMUIm2O30A7YEPuAf.jpg</photo>
+      <role>Comedic Cult Member #1</role>
+      <name>Justin Giddings</name>
+    </item>
+    <item index="17">
+      <photo>http://image.tmdb.org/t/p/original/ztoMSCafTth3E5vO62nmsayB6rW.jpg</photo>
+      <role>Comic book kid</role>
+      <name>Bryce Hurless</name>
+    </item>
+    <item index="18">
+      <photo/>
+      <role>Bum</role>
+      <name>Max Huber</name>
+    </item>
+  </roles>
+  <similar>
+    <item index="0">Death Valley: The Revenge of Bloody Bill</item>
+    <item index="1">Hide and Creep</item>
+    <item index="2">The Chilling</item>
+    <item index="3">They Feed</item>
+    <item index="4">Captive Wild Woman</item>
+    <item index="5">Zombie Apocalypse: Redemption</item>
+    <item index="6">The Off Season</item>
+    <item index="7">The Competition</item>
+    <item index="8">Altered Species</item>
+    <item index="9">Dead Moon Rising</item>
+    <item index="10">Killjoy 2: Deliverance from Evil</item>
+    <item index="11">Alien Abduction</item>
+    <item index="12">Terror Inside</item>
+    <item index="13">Carnivore</item>
+    <item index="14">Awaken the Dead</item>
+    <item index="15">Chillers</item>
+    <item index="16">Exit to Hell</item>
+    <item index="17">The Laughing Dead</item>
+    <item index="18">Killing Ariel</item>
+    <item index="19">Dark House</item>
+  </similar>
+  <summary>Jeff, a down on his luck office worker finds out he is the last living relative of horror novelist H.P. Lovecraft. What he doesn't know is that Lovecraft's monsters are real and will soon threaten the very existence of mankind. Jeff and his best friend Charlie are forced to embark on a perilous adventure and they enlist the help of high school acquaintance, Paul, a self proclaimed Lovecraft specialist. Together the three unlikely heroes must protect an alien relic and prevent the release of an acient evil, known as Cthulhu.</summary>
+  <tags/>
+  <themes/>
+  <title>The.Last.Lovecraft.Relic.Of.Cthulhu.2009.1080p.BluRay.H264.AAC-RARBG</title>
+  <writers/>
+  <year>2009</year>
+</Movie>

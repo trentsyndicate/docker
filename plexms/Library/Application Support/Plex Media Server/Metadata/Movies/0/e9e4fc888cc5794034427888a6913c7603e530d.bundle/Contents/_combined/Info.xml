@@ -1,0 +1,460 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Movie>
+  <art>
+    <item external="True" url="http://image.tmdb.org/t/p/original/akjoaY4CfWpjHywrnXFLLCtzFVu.jpg" sort_order="1" provider="com.plexapp.agents.imdb" media="com.plexapp.agents.imdb_691d28b8df166d71729562c422a9aa45805ee942"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/4xtYVHEQwyMZOk6Db92ngXr0mj1.jpg" preview="com.plexapp.agents.imdb_95f2755b344fcdf0eced5ed42733b117a880e651" sort_order="2" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/1NxsXTUvX2cF9x99lSVYNy7XguJ.jpg" preview="com.plexapp.agents.imdb_ae63666c4c4e361ef0c49c4a0054f92554d356c2" sort_order="3" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/xvxWaxUCLSiZpBM5i29O1UCnJkb.jpg" preview="com.plexapp.agents.imdb_f86dd26b8fb2ca228345a21fca84007c7a6e1698" sort_order="4" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/13DIK3beAoroeJSdrcYm66s6hal.jpg" preview="com.plexapp.agents.imdb_7192fe6ebcb248cac88529626459bbad2deb7a83" sort_order="5" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/j7ilifczPh95JuJOceHIesRhsVu.jpg" preview="com.plexapp.agents.imdb_22f00441a48873f7fed6a5094b9c334639c4ee04" sort_order="6" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/5NcCClWaXRRnNm0OWibX9J9j9JS.jpg" preview="com.plexapp.agents.imdb_b87d8a86f7c02d99cb50002f544dcc682a94b7e9" sort_order="7" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/km8MAmdyrSDp8cTR2UsW4dLw3tQ.jpg" preview="com.plexapp.agents.imdb_b97c403dc087d7e179a07b87ba1dfede48e25ccb" sort_order="8" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/xCG28518h4A50V4vtpKkilRR4jv.jpg" preview="com.plexapp.agents.imdb_a0507928fa98f2cf95f379a3fbc5cf1f3660519b" sort_order="9" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/jY13eUih4zKofYXrkOY0fA6wZ7Z.jpg" preview="com.plexapp.agents.imdb_d64be5f942e1653ef36c71d122ef850b59226040" sort_order="10" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/kQeyXef6ixT4Q5E6GYpaWQJTi8z.jpg" preview="com.plexapp.agents.imdb_1d7baa1d8eb4d3d5d54147e656021410b365567c" sort_order="11" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/tk4f8iwZD0s6Q0ecEoDQLfrLpay.jpg" preview="com.plexapp.agents.imdb_d6e303f6cf4054de72a08ad4e76952dd8951eb3a" sort_order="12" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/bgZ09RSIWUTP4QHT6sdbPDZfoYc.jpg" preview="com.plexapp.agents.imdb_c6a32487e14a6e3c7fa507bd64288c0098e7526d" sort_order="13" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/zQuIgL2rc8vxWASGdCibDFwa22A.jpg" preview="com.plexapp.agents.imdb_202e748478915d204a5c9dcec72424c6e92ade83" sort_order="14" provider="com.plexapp.agents.imdb"/>
+  </art>
+  <banners/>
+  <chapters>
+    <item index="0">
+      <title>Start</title>
+      <end_time_offset>402000</end_time_offset>
+      <start_time_offset>0</start_time_offset>
+    </item>
+    <item index="1">
+      <title>Closing the Portal</title>
+      <end_time_offset>607000</end_time_offset>
+      <start_time_offset>402000</start_time_offset>
+    </item>
+    <item index="2">
+      <title>Hellboy</title>
+      <end_time_offset>877000</end_time_offset>
+      <start_time_offset>607000</start_time_offset>
+    </item>
+    <item index="3">
+      <title>Ressurection</title>
+      <end_time_offset>1012000</end_time_offset>
+      <start_time_offset>877000</start_time_offset>
+    </item>
+    <item index="4">
+      <title>Bump Back</title>
+      <end_time_offset>1368000</end_time_offset>
+      <start_time_offset>1012000</start_time_offset>
+    </item>
+    <item index="5">
+      <title>The Rest of the Family</title>
+      <end_time_offset>1516000</end_time_offset>
+      <start_time_offset>1368000</start_time_offset>
+    </item>
+    <item index="6">
+      <title>First Sammael</title>
+      <end_time_offset>1865000</end_time_offset>
+      <start_time_offset>1516000</start_time_offset>
+    </item>
+    <item index="7">
+      <title>Westside Highway</title>
+      <end_time_offset>2083000</end_time_offset>
+      <start_time_offset>1865000</start_time_offset>
+    </item>
+    <item index="8">
+      <title>Fireproof</title>
+      <end_time_offset>2250000</end_time_offset>
+      <start_time_offset>2083000</start_time_offset>
+    </item>
+    <item index="9">
+      <title>Liz</title>
+      <end_time_offset>2406000</end_time_offset>
+      <start_time_offset>2250000</start_time_offset>
+    </item>
+    <item index="10">
+      <title>The Seed of Destruction</title>
+      <end_time_offset>2640000</end_time_offset>
+      <start_time_offset>2406000</start_time_offset>
+    </item>
+    <item index="11">
+      <title>"I'm Learning to Control It"</title>
+      <end_time_offset>2859000</end_time_offset>
+      <start_time_offset>2640000</start_time_offset>
+    </item>
+    <item index="12">
+      <title>Inferno</title>
+      <end_time_offset>3209000</end_time_offset>
+      <start_time_offset>2859000</start_time_offset>
+    </item>
+    <item index="13">
+      <title>Underwater Chamber</title>
+      <end_time_offset>3517000</end_time_offset>
+      <start_time_offset>3209000</start_time_offset>
+    </item>
+    <item index="14">
+      <title>Doing His Job</title>
+      <end_time_offset>3833000</end_time_offset>
+      <start_time_offset>3517000</start_time_offset>
+    </item>
+    <item index="15">
+      <title>Man Down</title>
+      <end_time_offset>4042000</end_time_offset>
+      <start_time_offset>3833000</start_time_offset>
+    </item>
+    <item index="16">
+      <title>Home, Sweet Home</title>
+      <end_time_offset>4253000</end_time_offset>
+      <start_time_offset>4042000</start_time_offset>
+    </item>
+    <item index="17">
+      <title>On a Mission</title>
+      <end_time_offset>4550000</end_time_offset>
+      <start_time_offset>4253000</start_time_offset>
+    </item>
+    <item index="18">
+      <title>His Destiny</title>
+      <end_time_offset>4715000</end_time_offset>
+      <start_time_offset>4550000</start_time_offset>
+    </item>
+    <item index="19">
+      <title>"Something's Wrong"</title>
+      <end_time_offset>4957000</end_time_offset>
+      <start_time_offset>4715000</start_time_offset>
+    </item>
+    <item index="20">
+      <title>Moscow</title>
+      <end_time_offset>5292000</end_time_offset>
+      <start_time_offset>4957000</start_time_offset>
+    </item>
+    <item index="21">
+      <title>"Somthing Big"</title>
+      <end_time_offset>5491000</end_time_offset>
+      <start_time_offset>5292000</start_time_offset>
+    </item>
+    <item index="22">
+      <title>"That's It for You, Pinhead"</title>
+      <end_time_offset>5684000</end_time_offset>
+      <start_time_offset>5491000</start_time_offset>
+    </item>
+    <item index="23">
+      <title>Egg Chamber</title>
+      <end_time_offset>5978000</end_time_offset>
+      <start_time_offset>5684000</start_time_offset>
+    </item>
+    <item index="24">
+      <title>The Right Hand of Doom</title>
+      <end_time_offset>6187000</end_time_offset>
+      <start_time_offset>5978000</start_time_offset>
+    </item>
+    <item index="25">
+      <title>Apocalypse</title>
+      <end_time_offset>6483000</end_time_offset>
+      <start_time_offset>6187000</start_time_offset>
+    </item>
+    <item index="26">
+      <title>"How Big Could It Be?"</title>
+      <end_time_offset>6655000</end_time_offset>
+      <start_time_offset>6483000</start_time_offset>
+    </item>
+    <item index="27">
+      <title>The Kiss</title>
+      <end_time_offset>-1</end_time_offset>
+      <start_time_offset>6655000</start_time_offset>
+    </item>
+  </chapters>
+  <collections/>
+  <content_rating>PG-13</content_rating>
+  <countries>
+    <item index="0">USA</item>
+  </countries>
+  <directors>
+    <item index="0">
+      <photo>http://image.tmdb.org/t/p/original/aBPPwt3jcFw2ridEkKTgchfPaic.jpg</photo>
+      <role/>
+      <name>Guillermo del Toro</name>
+    </item>
+  </directors>
+  <duration>7320000</duration>
+  <genres>
+    <item index="0">Action</item>
+    <item index="1">Fantasy</item>
+    <item index="2">Horror</item>
+    <item index="3">Sci-Fi</item>
+  </genres>
+  <originally_available_at>2004-04-02</originally_available_at>
+  <posters>
+    <item external="True" url="http://image.tmdb.org/t/p/original/3fAWzI9MUosggdGMu7EaDhn44m6.jpg" sort_order="1" provider="com.plexapp.agents.imdb" media="com.plexapp.agents.imdb_0287b88c1825d3c5dae4dcbfce716d2b622d7047"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/d9rO2EnMiY0fLnn0SiQeUSQ6bLS.jpg" preview="com.plexapp.agents.imdb_7845d5adae2ecd0aefd60f12acbd1e7c810d2246" sort_order="2" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/wKzTGlhUzgWIPQzK6behfUx8zUU.jpg" preview="com.plexapp.agents.imdb_8bccbd6c3947c34ee1ab73ad15bd1ca51c2a3587" sort_order="3" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/xohSnVY9gub1Z30CdrikW9yygTW.jpg" preview="com.plexapp.agents.imdb_7fec7d01a78618d1d36a43300f8a9571b65ca8d2" sort_order="4" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/buAYSdNVKMgNhdcuKHIwelSQxPe.jpg" preview="com.plexapp.agents.imdb_78b64b9abaac975260a88665ac1e8a4cc9df2c32" sort_order="5" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/pEX1x9eC8lsD6ZV5bgKOpnwRrxc.jpg" preview="com.plexapp.agents.imdb_5fb64f96283c8b16e51a57471b01c0875639bf68" sort_order="6" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/xpP3OHpnZPo5OygpRLIFBtDkJax.jpg" preview="com.plexapp.agents.imdb_df59beb159120b9cda12c7eaec376eaadb24b2f4" sort_order="7" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/4srC2YaCn3o4k6vFjdc44l0V2Lo.jpg" preview="com.plexapp.agents.imdb_a75d949be2211039e23b21ab0c426719feed7a58" sort_order="8" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/SYO5JIltGeMe23yjDQwdEUFKzq.jpg" preview="com.plexapp.agents.imdb_9755497812dd1519213be64293631ea1d6dfece9" sort_order="9" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/f4g4bd20ZQoPPlTZF8WBYy3vUSs.jpg" preview="com.plexapp.agents.imdb_1dd2b97e3cf4e5e8ea43f7b8232dfaf0d230d6b1" sort_order="10" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/j6QF14FjtLKaBQq6mXBz7OrVdPD.jpg" preview="com.plexapp.agents.imdb_c65b3eddf2f2c4cb2b7d1372bcb6fa8e0cc0024f" sort_order="11" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/dWZcwV2dpwKDIkIPNmZWBRCju4f.jpg" preview="com.plexapp.agents.imdb_2f59dd965b65a06c78040cfbe58c3539369eb37f" sort_order="12" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/9BsOXDTPvdPfbBDDP86CZmOZFf.jpg" preview="com.plexapp.agents.imdb_4ca8e39bb13806e83e506a542cf536ff3177b07c" sort_order="13" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/dSvldh6JvIJFVUxBWdbEoQTmhyk.jpg" preview="com.plexapp.agents.imdb_a8b43be92c3f8a6ce00ab09e7ca90bfc923cd2ba" sort_order="14" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/gImGFiuzeYXmG6rbm2l1Vn9i4ZC.jpg" preview="com.plexapp.agents.imdb_337574d46aaf6e1fbc41246735dbc8df8d06ec26" sort_order="15" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/kHxzJAQRp3QU8nvFEkTmvchC3xl.jpg" preview="com.plexapp.agents.imdb_bf7965699d8a10c0f6cd868768d77e46c15a924d" sort_order="16" provider="com.plexapp.agents.imdb"/>
+  </posters>
+  <producers>
+    <item index="0">
+      <photo/>
+      <role/>
+      <name>Mike Richardson</name>
+    </item>
+    <item index="1">
+      <photo>http://image.tmdb.org/t/p/original/hcjzZT71C7bKzhkgL6TAcEjsmkS.jpg</photo>
+      <role/>
+      <name>Lawrence Gordon</name>
+    </item>
+    <item index="2">
+      <photo/>
+      <role/>
+      <name>Lloyd Levin</name>
+    </item>
+  </producers>
+  <rating>8.1</rating>
+  <rating_image>rottentomatoes://image.rating.ripe</rating_image>
+  <audience_rating>6.5</audience_rating>
+  <audience_rating_image>rottentomatoes://image.rating.spilled</audience_rating_image>
+  <reviews>
+    <item index="0">
+      <text>When the movie's story line concentrates on the character of Hellboy and his relationships with those important to him, the film becomes a unique romp, with an exciting yet vulnerable superhero at the center who just happens to be the spawn of Satan.</text>
+      <source>New Yorker</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>http://www.newyorker.com/arts/reviews/film/hellboy_toro</link>
+      <author>Bruce Diones</author>
+    </item>
+    <item index="1">
+      <text>Played by Ron Perlman, he's the most magnetic action hero I've come across in a long while, though I couldn't make heads or tails of this story.</text>
+      <source>Chicago Reader</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>http://onfilm.chicagoreader.com/movies/capsules/25697_HELLBOY</link>
+      <author>J. R. Jones</author>
+    </item>
+    <item index="2">
+      <text>Unfortunately, after setting up this fresh blue-collar scenario in the movie's first hour, Del Toro wallows in pyrotechnics.</text>
+      <source>Associated Press</source>
+      <image>rottentomatoes://image.review.rotten</image>
+      <link>http://www.sunjournal.com/node/190996</link>
+      <author>David Germain</author>
+    </item>
+    <item index="3">
+      <text>Del Toro, in love with his source but never overawed by it, keeps things moving; Perlman ties it together with some of the driest witticisms this side of Indiana Jones. Like we said: fun.</text>
+      <source>Time Out</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>http://www.timeout.com/film/81269.html</link>
+      <author/>
+    </item>
+    <item index="4">
+      <text>Easily the most adept comic book adaptation since Ghost World.</text>
+      <source>Toronto Star</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>http://WWW.TheStar.COM/NASApp/cs/ContentServer?pagename=thestar/Layout/Article_Type1&amp;c=Article&amp;cid=1080904567603&amp;call_pageid=1022183557980&amp;col=1022183560753</link>
+      <author>Geoff Pevere</author>
+    </item>
+    <item index="5">
+      <text>[del Toro] doesn't quite knock it out of the park like X2 or Spider-Man, but that's not because of a weak swing.</text>
+      <source>Seattle Times</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>http://seattletimes.nwsource.com/html/movies/2001893299_hellboy02.html</link>
+      <author>Mark Rahner</author>
+    </item>
+    <item index="6">
+      <text>If you don't normally go to films where the lead characters look like giant Pez dispensers, the slogging fights of Hellboy may seem like purgatory. But there's enough going on in between the big action sequences to save the movie from mediocrity.</text>
+      <source>San Francisco Chronicle</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>http://www.sfgate.com/cgi-bin/article.cgi?f=/c/a/2004/04/02/DDGHJ5UGFG1.DTL&amp;type=movies</link>
+      <author>Peter Hartlaub</author>
+    </item>
+    <item index="7">
+      <text>While the character of Hellboy is entertaining, the film in which he appears is largely an exploitative jumble.</text>
+      <source>Orlando Sentinel</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>http://articles.orlandosentinel.com/2004-04-02/entertainment/0404010451_1_hellboy-abe-sapien-jeffrey-tambor</link>
+      <author>Jay Boyar</author>
+    </item>
+    <item index="8">
+      <text>I don't know if Hellboy has had a Beauty and the Beast relationship in his comic-book life, but if he did, the filmmakers did right by him in casting Ron Perlman.</text>
+      <source>New York Daily News</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>http://www.nydailynews.com/archives/nydn-features/damned-entertaining-article-1.614292</link>
+      <author>Jack Mathews</author>
+    </item>
+    <item index="9">
+      <text>Guillermo del Toro's above-average if not-quite-spectacular adaptation of Hellboy sticks to this expectation-flipping recipe and retains the comic's cheeky, po-mo spirit.</text>
+      <source>Atlanta Journal-Constitution</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>http://www.accessatlanta.com/movies/content/shared/movies/reviews/H/hellboy.html</link>
+      <author>Chris Garcia</author>
+    </item>
+    <item index="10">
+      <text>Surprisingly enjoyable.</text>
+      <source>New York Post</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>http://nypost.com/2004/04/02/just-for-the-hell-of-it-love-and-laughs-redeem-predictable-comic-book-flick/</link>
+      <author>Jonathan Foreman</author>
+    </item>
+    <item index="11">
+      <text>Far be it from me to endorse yet another franchise, but thanks to del Toro and a smart script, Hellboy is so entertaining that you long to see what further heck this gang can raise.</text>
+      <source>Detroit Free Press</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>http://ae.freep.com/entertainment/ui/michigan/movie.html?id=132982&amp;reviewId=14721</link>
+      <author>Terry Lawson</author>
+    </item>
+  </reviews>
+  <roles>
+    <item index="0">
+      <photo>http://image.tmdb.org/t/p/original/xZyrXT2iEmSOokQRc1hedmxrbTi.jpg</photo>
+      <role>Hellboy</role>
+      <name>Ron Perlman</name>
+    </item>
+    <item index="1">
+      <photo>http://image.tmdb.org/t/p/original/rpuH2YRLpxJjMxHq4T1QdOSVtlN.jpg</photo>
+      <role>Prof. Bruttenholm</role>
+      <name>John Hurt</name>
+    </item>
+    <item index="2">
+      <photo>http://image.tmdb.org/t/p/original/AiEPNtaXBLrefsEAIOewxNjfjeb.jpg</photo>
+      <role>Liz Sherman</role>
+      <name>Selma Blair</name>
+    </item>
+    <item index="3">
+      <photo>http://image.tmdb.org/t/p/original/i8qAUz1LI1x5PMgOKyxm6iTQafh.jpg</photo>
+      <role>John Myers</role>
+      <name>Rupert Evans</name>
+    </item>
+    <item index="4">
+      <photo>http://image.tmdb.org/t/p/original/csB350am07xyRL5Ik1BWuSY12tH.jpg</photo>
+      <role>Tom Manning</role>
+      <name>Jeffrey Tambor</name>
+    </item>
+    <item index="5">
+      <photo>http://image.tmdb.org/t/p/original/fD8B0QSQReOiJ6nojiulNUZXKCT.jpg</photo>
+      <role>Grigori Rasputin</role>
+      <name>Karel Roden</name>
+    </item>
+    <item index="6">
+      <photo>http://image.tmdb.org/t/p/original/5p0maJb0kpafXPRTvQaNnox3kK5.jpg</photo>
+      <role>Sammael</role>
+      <name>Brian Steele</name>
+    </item>
+    <item index="7">
+      <photo>http://image.tmdb.org/t/p/original/5IqSuHbk33Q009wpb4kfX1aKOBj.jpg</photo>
+      <role>Karl Ruprecht Kroenen</role>
+      <name>Ladislav Beran</name>
+    </item>
+    <item index="8">
+      <photo/>
+      <role>Ilsa Haupstein</role>
+      <name>Biddy Hodson</name>
+    </item>
+    <item index="9">
+      <photo>http://image.tmdb.org/t/p/original/8jS7kzs01qMOHIltiDI2TQckmgs.jpg</photo>
+      <role>Agent Clay</role>
+      <name>Corey Johnson</name>
+    </item>
+    <item index="10">
+      <photo>http://image.tmdb.org/t/p/original/1fDVsCwZOwp97Pdl7q743seHCMP.jpg</photo>
+      <role>Agent Lime</role>
+      <name>Brian Caspe</name>
+    </item>
+    <item index="11">
+      <photo>http://image.tmdb.org/t/p/original/PsYYzL0CcFhCGyq2rpQq8uHF8n.jpg</photo>
+      <role>Agent Moss</role>
+      <name>James Babson</name>
+    </item>
+    <item index="12">
+      <photo>http://image.tmdb.org/t/p/original/rpvvWATYWHGjedJea0G97XufOwU.jpg</photo>
+      <role>Abe Sapien</role>
+      <name>Doug Jones</name>
+    </item>
+    <item index="13">
+      <photo>http://image.tmdb.org/t/p/original/aj38ZHm9nkzSt6qMwNtuykxTYmp.jpg</photo>
+      <role>Blonde Television Reporter</role>
+      <name>Ellen Savaria</name>
+    </item>
+    <item index="14">
+      <photo/>
+      <role>Young "Broom"</role>
+      <name>Kevin Trainor</name>
+    </item>
+    <item index="15">
+      <photo>http://image.tmdb.org/t/p/original/qMFix2fd2NH2wvbBv1HOpWrOKIE.jpg</photo>
+      <role>Agent Quarry</role>
+      <name>Stephen Fisher</name>
+    </item>
+    <item index="16">
+      <photo/>
+      <role>Agent Stone</role>
+      <name>Garth Cooper</name>
+    </item>
+    <item index="17">
+      <photo>http://image.tmdb.org/t/p/original/qftkol8hj7yBBP3KCxRWYkhRyLC.jpg</photo>
+      <role>Sgt. Whitman</role>
+      <name>Angus MacInnes</name>
+    </item>
+    <item index="18">
+      <photo>http://image.tmdb.org/t/p/original/wyY2MEZm7NxoDQHFrvEk6ysBW6v.jpg</photo>
+      <role>Cpl. Matlin</role>
+      <name>Jim Howick</name>
+    </item>
+    <item index="19">
+      <photo/>
+      <role>Kid on Rooftop</role>
+      <name>Rory Copus</name>
+    </item>
+    <item index="20">
+      <photo>http://image.tmdb.org/t/p/original/lNWgadL9NksUCdSaiJRDBRsT8oB.jpg</photo>
+      <role>Train Driver</role>
+      <name>Santiago Segura</name>
+    </item>
+    <item index="21">
+      <photo/>
+      <role>Truck Driver</role>
+      <name>Mark Taylor</name>
+    </item>
+  </roles>
+  <similar>
+    <item index="0">Hellboy II: The Golden Army</item>
+    <item index="1">Blade II</item>
+    <item index="2">Blade</item>
+    <item index="3">Blade: Trinity</item>
+    <item index="4">Starship Troopers</item>
+    <item index="5">Van Helsing</item>
+    <item index="6">Daredevil</item>
+    <item index="7">The League of Extraordinary Gentlemen</item>
+    <item index="8">Hulk</item>
+    <item index="9">Ghost Rider</item>
+    <item index="10">Men in Black II</item>
+    <item index="11">The Mummy Returns</item>
+    <item index="12">Terminator 3: Rise of the Machines</item>
+    <item index="13">Superman Returns</item>
+    <item index="14">xXx</item>
+    <item index="15">Resident Evil</item>
+    <item index="16">Wanted</item>
+    <item index="17">Lara Croft: Tomb Raider</item>
+    <item index="18">RoboCop</item>
+    <item index="19">Underworld</item>
+  </similar>
+  <studio>Columbia Pictures</studio>
+  <summary>In the final days of World War II, the Nazis attempt to use black magic to aid their dying cause. The Allies raid the camp where the ceremony is taking place, but not before a demon - Hellboy - has already been conjured. Joining the Allied forces, Hellboy eventually grows to adulthood, serving the cause of good rather than evil.</summary>
+  <tagline>From the Dark Side to Our Side.</tagline>
+  <tags/>
+  <themes/>
+  <title>Hellboy</title>
+  <writers>
+    <item index="0">
+      <photo>http://image.tmdb.org/t/p/original/aBPPwt3jcFw2ridEkKTgchfPaic.jpg</photo>
+      <role/>
+      <name>Guillermo del Toro</name>
+    </item>
+    <item index="1">
+      <photo>http://image.tmdb.org/t/p/original/bOnbjvf6AA3TuQBwVxztYUNBYEP.jpg</photo>
+      <role/>
+      <name>Mike Mignola</name>
+    </item>
+  </writers>
+  <year>2004</year>
+</Movie>

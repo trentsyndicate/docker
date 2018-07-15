@@ -1,0 +1,223 @@
+<?xml version='1.0' encoding='utf-8'?>
+<MediaContainer size="11" identifier="com.plexapp.agents.imdb" mediaTagPrefix="/system/bundle/media/flags/" prefsKey="/:/plugins/com.plexapp.agents.imdb/prefs">
+  <Video url="iva://api.internetvideoarchive.com/2.0/DataService/VideoAssets(754155)?lang=en&amp;bitrates=80,212,450,750,1500,2500,5000,8000&amp;duration=90&amp;adaptive=1&amp;dts=0" key="/system/services/url/lookup?url=iva%3A%2F%2Fapi.internetvideoarchive.com%2F2.0%2FDataService%2FVideoAssets%28754155%29%3Flang%3Den%26bitrates%3D80%2C212%2C450%2C750%2C1500%2C2500%2C5000%2C8000%26duration%3D90%26adaptive%3D1%26dts%3D0" type="clip" relationType="trailer" year="2017" title="The Hunger Games (Clean Trailer)" originallyAvailableAt="2017-12-08" thumb="https://iva-images.plex.tv/content/hdphotos/11585/011585/011585_1280x720_754155_050.jpg" ratingKey="iva://api.internetvideoarchive.com/2.0/DataService/VideoAssets(754155)?lang=en&amp;bitrates=80,212,450,750,1500,2500,5000,8000&amp;duration=90&amp;adaptive=1&amp;dts=0">
+    <Media container="mp4" height="1080" width="1920" audioCodec="aac" duration="90000" videoCodec="h264" bitrate="2500">
+      <Part duration="90000" key="/services/iva/assets/754155/video.mp4?bitrate=2500" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="1080" width="1920" codec="h264" bitrate="2500" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+    <Media container="mp4" height="720" width="1280" audioCodec="aac" duration="90000" videoCodec="h264" bitrate="1500">
+      <Part duration="90000" key="/services/iva/assets/754155/video.mp4?bitrate=1500" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="720" width="1280" codec="h264" bitrate="1500" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+    <Media container="mp4" height="480" width="640" audioCodec="aac" duration="90000" videoCodec="h264" bitrate="450">
+      <Part duration="90000" key="/services/iva/assets/754155/video.mp4?bitrate=450" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="480" width="640" codec="h264" bitrate="450" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+  </Video>
+  <Video url="iva://api.internetvideoarchive.com/2.0/DataService/VideoAssets(435252)?lang=en&amp;bitrates=80,212,450,750,1500,2500,5000,8000&amp;duration=33&amp;adaptive=1&amp;dts=0" key="/system/services/url/lookup?url=iva%3A%2F%2Fapi.internetvideoarchive.com%2F2.0%2FDataService%2FVideoAssets%28435252%29%3Flang%3Den%26bitrates%3D80%2C212%2C450%2C750%2C1500%2C2500%2C5000%2C8000%26duration%3D33%26adaptive%3D1%26dts%3D0" type="clip" relationType="behindTheScenes" year="2012" title="The Hunger Games: Jennifer Lawrence On Big Budget Vs. Indie Films (Bonus Clip)" originallyAvailableAt="2012-08-06" thumb="https://iva-images.plex.tv/content/hdphotos/7980/007980/007980_1280x720_435252_007.jpg" ratingKey="iva://api.internetvideoarchive.com/2.0/DataService/VideoAssets(435252)?lang=en&amp;bitrates=80,212,450,750,1500,2500,5000,8000&amp;duration=33&amp;adaptive=1&amp;dts=0">
+    <Media container="mp4" height="1080" width="1920" audioCodec="aac" duration="33000" videoCodec="h264" bitrate="2500">
+      <Part duration="33000" key="/services/iva/assets/435252/video.mp4?bitrate=2500" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="1080" width="1920" codec="h264" bitrate="2500" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+    <Media container="mp4" height="720" width="1280" audioCodec="aac" duration="33000" videoCodec="h264" bitrate="1500">
+      <Part duration="33000" key="/services/iva/assets/435252/video.mp4?bitrate=1500" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="720" width="1280" codec="h264" bitrate="1500" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+    <Media container="mp4" height="480" width="640" audioCodec="aac" duration="33000" videoCodec="h264" bitrate="450">
+      <Part duration="33000" key="/services/iva/assets/435252/video.mp4?bitrate=450" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="480" width="640" codec="h264" bitrate="450" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+  </Video>
+  <Video url="iva://api.internetvideoarchive.com/2.0/DataService/VideoAssets(830204)?lang=en&amp;bitrates=80,212,450,750,1500,8000&amp;duration=221&amp;adaptive=1&amp;dts=0" key="/system/services/url/lookup?url=iva%3A%2F%2Fapi.internetvideoarchive.com%2F2.0%2FDataService%2FVideoAssets%28830204%29%3Flang%3Den%26bitrates%3D80%2C212%2C450%2C750%2C1500%2C8000%26duration%3D221%26adaptive%3D1%26dts%3D0" type="clip" relationType="behindTheScenes" year="2012" title="The Hunger Games: Special Features" originallyAvailableAt="2012-07-16" thumb="https://iva-images.plex.tv/content/hdphotos/7925/007925/007925_796x448_830204_084.jpg" ratingKey="iva://api.internetvideoarchive.com/2.0/DataService/VideoAssets(830204)?lang=en&amp;bitrates=80,212,450,750,1500,8000&amp;duration=221&amp;adaptive=1&amp;dts=0">
+    <Media container="mp4" height="720" width="1280" audioCodec="aac" duration="221000" videoCodec="h264" bitrate="1500">
+      <Part duration="221000" key="/services/iva/assets/830204/video.mp4?bitrate=1500" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="720" width="1280" codec="h264" bitrate="1500" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+    <Media container="mp4" height="480" width="640" audioCodec="aac" duration="221000" videoCodec="h264" bitrate="750">
+      <Part duration="221000" key="/services/iva/assets/830204/video.mp4?bitrate=750" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="480" width="640" codec="h264" bitrate="750" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+    <Media container="mp4" height="480" width="640" audioCodec="aac" duration="221000" videoCodec="h264" bitrate="450">
+      <Part duration="221000" key="/services/iva/assets/830204/video.mp4?bitrate=450" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="480" width="640" codec="h264" bitrate="450" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+  </Video>
+  <Video url="iva://api.internetvideoarchive.com/2.0/DataService/VideoAssets(522096)?lang=en&amp;bitrates=80,212,450,750,1500,2500,5000,8000&amp;duration=53&amp;adaptive=1&amp;dts=0" key="/system/services/url/lookup?url=iva%3A%2F%2Fapi.internetvideoarchive.com%2F2.0%2FDataService%2FVideoAssets%28522096%29%3Flang%3Den%26bitrates%3D80%2C212%2C450%2C750%2C1500%2C2500%2C5000%2C8000%26duration%3D53%26adaptive%3D1%26dts%3D0" type="clip" relationType="behindTheScenes" year="2012" title="The Hunger Games: Gary Ross On Why He Wanted To Make The Movie" originallyAvailableAt="2012-03-14" thumb="https://iva-images.plex.tv/content/hdphotos/7640/007640/007640_1252x704_522096_005.jpg" ratingKey="iva://api.internetvideoarchive.com/2.0/DataService/VideoAssets(522096)?lang=en&amp;bitrates=80,212,450,750,1500,2500,5000,8000&amp;duration=53&amp;adaptive=1&amp;dts=0">
+    <Media container="mp4" height="1080" width="1920" audioCodec="aac" duration="53000" videoCodec="h264" bitrate="2500">
+      <Part duration="53000" key="/services/iva/assets/522096/video.mp4?bitrate=2500" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="1080" width="1920" codec="h264" bitrate="2500" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+    <Media container="mp4" height="720" width="1280" audioCodec="aac" duration="53000" videoCodec="h264" bitrate="1500">
+      <Part duration="53000" key="/services/iva/assets/522096/video.mp4?bitrate=1500" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="720" width="1280" codec="h264" bitrate="1500" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+    <Media container="mp4" height="480" width="640" audioCodec="aac" duration="53000" videoCodec="h264" bitrate="450">
+      <Part duration="53000" key="/services/iva/assets/522096/video.mp4?bitrate=450" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="480" width="640" codec="h264" bitrate="450" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+  </Video>
+  <Video url="iva://api.internetvideoarchive.com/2.0/DataService/VideoAssets(464884)?lang=en&amp;bitrates=80,212,450,750,1500,2500,5000,8000&amp;duration=27&amp;adaptive=1&amp;dts=0" key="/system/services/url/lookup?url=iva%3A%2F%2Fapi.internetvideoarchive.com%2F2.0%2FDataService%2FVideoAssets%28464884%29%3Flang%3Den%26bitrates%3D80%2C212%2C450%2C750%2C1500%2C2500%2C5000%2C8000%26duration%3D27%26adaptive%3D1%26dts%3D0" type="clip" relationType="behindTheScenes" year="2012" title="The Hunger Games: Jennifer Lawrence On The Books" originallyAvailableAt="2012-03-14" thumb="https://iva-images.plex.tv/content/hdphotos/7640/007640/007640_1024x576_464884_015.jpg" ratingKey="iva://api.internetvideoarchive.com/2.0/DataService/VideoAssets(464884)?lang=en&amp;bitrates=80,212,450,750,1500,2500,5000,8000&amp;duration=27&amp;adaptive=1&amp;dts=0">
+    <Media container="mp4" height="1080" width="1920" audioCodec="aac" duration="27000" videoCodec="h264" bitrate="2500">
+      <Part duration="27000" key="/services/iva/assets/464884/video.mp4?bitrate=2500" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="1080" width="1920" codec="h264" bitrate="2500" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+    <Media container="mp4" height="720" width="1280" audioCodec="aac" duration="27000" videoCodec="h264" bitrate="1500">
+      <Part duration="27000" key="/services/iva/assets/464884/video.mp4?bitrate=1500" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="720" width="1280" codec="h264" bitrate="1500" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+    <Media container="mp4" height="480" width="640" audioCodec="aac" duration="27000" videoCodec="h264" bitrate="450">
+      <Part duration="27000" key="/services/iva/assets/464884/video.mp4?bitrate=450" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="480" width="640" codec="h264" bitrate="450" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+  </Video>
+  <Video url="iva://api.internetvideoarchive.com/2.0/DataService/VideoAssets(12506)?lang=en&amp;bitrates=80,212,450,750,1500,2500,5000,8000&amp;duration=32&amp;adaptive=1&amp;dts=0" key="/system/services/url/lookup?url=iva%3A%2F%2Fapi.internetvideoarchive.com%2F2.0%2FDataService%2FVideoAssets%2812506%29%3Flang%3Den%26bitrates%3D80%2C212%2C450%2C750%2C1500%2C2500%2C5000%2C8000%26duration%3D32%26adaptive%3D1%26dts%3D0" type="clip" relationType="behindTheScenes" year="2012" title="The Hunger Games: Woody Harrelson On Why He Wanted To Be Part Of The Film" originallyAvailableAt="2012-03-14" thumb="https://iva-images.plex.tv/content/hdphotos/7640/007640/007640_942x530_12506_008.jpg" ratingKey="iva://api.internetvideoarchive.com/2.0/DataService/VideoAssets(12506)?lang=en&amp;bitrates=80,212,450,750,1500,2500,5000,8000&amp;duration=32&amp;adaptive=1&amp;dts=0">
+    <Media container="mp4" height="1080" width="1920" audioCodec="aac" duration="32000" videoCodec="h264" bitrate="2500">
+      <Part duration="32000" key="/services/iva/assets/12506/video.mp4?bitrate=2500" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="1080" width="1920" codec="h264" bitrate="2500" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+    <Media container="mp4" height="720" width="1280" audioCodec="aac" duration="32000" videoCodec="h264" bitrate="1500">
+      <Part duration="32000" key="/services/iva/assets/12506/video.mp4?bitrate=1500" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="720" width="1280" codec="h264" bitrate="1500" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+    <Media container="mp4" height="480" width="640" audioCodec="aac" duration="32000" videoCodec="h264" bitrate="450">
+      <Part duration="32000" key="/services/iva/assets/12506/video.mp4?bitrate=450" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="480" width="640" codec="h264" bitrate="450" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+  </Video>
+  <Video url="iva://api.internetvideoarchive.com/2.0/DataService/VideoAssets(356421)?lang=en&amp;bitrates=80,212,450,750,1500,2500,5000,8000&amp;duration=31&amp;adaptive=1&amp;dts=0" key="/system/services/url/lookup?url=iva%3A%2F%2Fapi.internetvideoarchive.com%2F2.0%2FDataService%2FVideoAssets%28356421%29%3Flang%3Den%26bitrates%3D80%2C212%2C450%2C750%2C1500%2C2500%2C5000%2C8000%26duration%3D31%26adaptive%3D1%26dts%3D0" type="clip" relationType="behindTheScenes" year="2012" title="The Hunger Games: Liam Hemsworth On His Character" originallyAvailableAt="2012-03-13" thumb="https://iva-images.plex.tv/content/hdphotos/7640/007640/007640_1252x704_356421_006.jpg" ratingKey="iva://api.internetvideoarchive.com/2.0/DataService/VideoAssets(356421)?lang=en&amp;bitrates=80,212,450,750,1500,2500,5000,8000&amp;duration=31&amp;adaptive=1&amp;dts=0">
+    <Media container="mp4" height="1080" width="1920" audioCodec="aac" duration="31000" videoCodec="h264" bitrate="2500">
+      <Part duration="31000" key="/services/iva/assets/356421/video.mp4?bitrate=2500" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="1080" width="1920" codec="h264" bitrate="2500" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+    <Media container="mp4" height="720" width="1280" audioCodec="aac" duration="31000" videoCodec="h264" bitrate="1500">
+      <Part duration="31000" key="/services/iva/assets/356421/video.mp4?bitrate=1500" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="720" width="1280" codec="h264" bitrate="1500" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+    <Media container="mp4" height="480" width="640" audioCodec="aac" duration="31000" videoCodec="h264" bitrate="450">
+      <Part duration="31000" key="/services/iva/assets/356421/video.mp4?bitrate=450" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="480" width="640" codec="h264" bitrate="450" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+  </Video>
+  <Video url="iva://api.internetvideoarchive.com/2.0/DataService/VideoAssets(71749)?lang=en&amp;bitrates=80,212,450,750,1500,2500,5000,8000&amp;duration=43&amp;adaptive=1&amp;dts=0" key="/system/services/url/lookup?url=iva%3A%2F%2Fapi.internetvideoarchive.com%2F2.0%2FDataService%2FVideoAssets%2871749%29%3Flang%3Den%26bitrates%3D80%2C212%2C450%2C750%2C1500%2C2500%2C5000%2C8000%26duration%3D43%26adaptive%3D1%26dts%3D0" type="clip" relationType="behindTheScenes" year="2012" title="The Hunger Games: Lenny Kravitz On H0w He Got Involved With The Project" originallyAvailableAt="2012-03-13" thumb="https://iva-images.plex.tv/content/hdphotos/7640/007640/007640_878x494_71749_005.jpg" ratingKey="iva://api.internetvideoarchive.com/2.0/DataService/VideoAssets(71749)?lang=en&amp;bitrates=80,212,450,750,1500,2500,5000,8000&amp;duration=43&amp;adaptive=1&amp;dts=0">
+    <Media container="mp4" height="1080" width="1920" audioCodec="aac" duration="43000" videoCodec="h264" bitrate="2500">
+      <Part duration="43000" key="/services/iva/assets/71749/video.mp4?bitrate=2500" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="1080" width="1920" codec="h264" bitrate="2500" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+    <Media container="mp4" height="720" width="1280" audioCodec="aac" duration="43000" videoCodec="h264" bitrate="1500">
+      <Part duration="43000" key="/services/iva/assets/71749/video.mp4?bitrate=1500" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="720" width="1280" codec="h264" bitrate="1500" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+    <Media container="mp4" height="480" width="640" audioCodec="aac" duration="43000" videoCodec="h264" bitrate="450">
+      <Part duration="43000" key="/services/iva/assets/71749/video.mp4?bitrate=450" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="480" width="640" codec="h264" bitrate="450" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+  </Video>
+  <Video url="iva://api.internetvideoarchive.com/2.0/DataService/VideoAssets(5279)?lang=en&amp;bitrates=80,212,450,750,1500,2500,5000,8000&amp;duration=39&amp;adaptive=1&amp;dts=0" key="/system/services/url/lookup?url=iva%3A%2F%2Fapi.internetvideoarchive.com%2F2.0%2FDataService%2FVideoAssets%285279%29%3Flang%3Den%26bitrates%3D80%2C212%2C450%2C750%2C1500%2C2500%2C5000%2C8000%26duration%3D39%26adaptive%3D1%26dts%3D0" type="clip" relationType="behindTheScenes" year="2012" title="The Hunger Games: Josh Hutcherson On Why He Wanted To Be Part Of The Film" originallyAvailableAt="2012-03-13" thumb="https://iva-images.plex.tv/content/hdphotos/7640/007640/007640_997x561_5279_008_1.jpg" ratingKey="iva://api.internetvideoarchive.com/2.0/DataService/VideoAssets(5279)?lang=en&amp;bitrates=80,212,450,750,1500,2500,5000,8000&amp;duration=39&amp;adaptive=1&amp;dts=0">
+    <Media container="mp4" height="1080" width="1920" audioCodec="aac" duration="39000" videoCodec="h264" bitrate="2500">
+      <Part duration="39000" key="/services/iva/assets/5279/video.mp4?bitrate=2500" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="1080" width="1920" codec="h264" bitrate="2500" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+    <Media container="mp4" height="720" width="1280" audioCodec="aac" duration="39000" videoCodec="h264" bitrate="1500">
+      <Part duration="39000" key="/services/iva/assets/5279/video.mp4?bitrate=1500" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="720" width="1280" codec="h264" bitrate="1500" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+    <Media container="mp4" height="480" width="640" audioCodec="aac" duration="39000" videoCodec="h264" bitrate="450">
+      <Part duration="39000" key="/services/iva/assets/5279/video.mp4?bitrate=450" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="480" width="640" codec="h264" bitrate="450" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+  </Video>
+  <Video url="iva://api.internetvideoarchive.com/2.0/DataService/VideoAssets(296090)?lang=en&amp;bitrates=80,212,450,750,1500,2500,5000,8000&amp;duration=48&amp;adaptive=1&amp;dts=0" key="/system/services/url/lookup?url=iva%3A%2F%2Fapi.internetvideoarchive.com%2F2.0%2FDataService%2FVideoAssets%28296090%29%3Flang%3Den%26bitrates%3D80%2C212%2C450%2C750%2C1500%2C2500%2C5000%2C8000%26duration%3D48%26adaptive%3D1%26dts%3D0" type="clip" relationType="behindTheScenes" year="2012" title="The Hunger Games: Elizabeth Banks On How She Got The Part" originallyAvailableAt="2012-03-13" thumb="https://iva-images.plex.tv/content/hdphotos/7640/007640/007640_1200x675_296090_012.jpg" ratingKey="iva://api.internetvideoarchive.com/2.0/DataService/VideoAssets(296090)?lang=en&amp;bitrates=80,212,450,750,1500,2500,5000,8000&amp;duration=48&amp;adaptive=1&amp;dts=0">
+    <Media container="mp4" height="1080" width="1920" audioCodec="aac" duration="48000" videoCodec="h264" bitrate="2500">
+      <Part duration="48000" key="/services/iva/assets/296090/video.mp4?bitrate=2500" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="1080" width="1920" codec="h264" bitrate="2500" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+    <Media container="mp4" height="720" width="1280" audioCodec="aac" duration="48000" videoCodec="h264" bitrate="1500">
+      <Part duration="48000" key="/services/iva/assets/296090/video.mp4?bitrate=1500" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="720" width="1280" codec="h264" bitrate="1500" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+    <Media container="mp4" height="480" width="640" audioCodec="aac" duration="48000" videoCodec="h264" bitrate="450">
+      <Part duration="48000" key="/services/iva/assets/296090/video.mp4?bitrate=450" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="480" width="640" codec="h264" bitrate="450" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+  </Video>
+  <Video url="iva://api.internetvideoarchive.com/2.0/DataService/VideoAssets(251869)?lang=en&amp;bitrates=80,212,450,750,1500,2500,5000,8000&amp;duration=49&amp;adaptive=1&amp;dts=0" key="/system/services/url/lookup?url=iva%3A%2F%2Fapi.internetvideoarchive.com%2F2.0%2FDataService%2FVideoAssets%28251869%29%3Flang%3Den%26bitrates%3D80%2C212%2C450%2C750%2C1500%2C2500%2C5000%2C8000%26duration%3D49%26adaptive%3D1%26dts%3D0" type="clip" relationType="behindTheScenes" year="2012" title="The Hunger Games: Alexander Ludwig On His Character" originallyAvailableAt="2012-03-13" thumb="https://iva-images.plex.tv/content/hdphotos/7640/007640/007640_1252x704_251869_015.jpg" ratingKey="iva://api.internetvideoarchive.com/2.0/DataService/VideoAssets(251869)?lang=en&amp;bitrates=80,212,450,750,1500,2500,5000,8000&amp;duration=49&amp;adaptive=1&amp;dts=0">
+    <Media container="mp4" height="1080" width="1920" audioCodec="aac" duration="49000" videoCodec="h264" bitrate="2500">
+      <Part duration="49000" key="/services/iva/assets/251869/video.mp4?bitrate=2500" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="1080" width="1920" codec="h264" bitrate="2500" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+    <Media container="mp4" height="720" width="1280" audioCodec="aac" duration="49000" videoCodec="h264" bitrate="1500">
+      <Part duration="49000" key="/services/iva/assets/251869/video.mp4?bitrate=1500" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="720" width="1280" codec="h264" bitrate="1500" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+    <Media container="mp4" height="480" width="640" audioCodec="aac" duration="49000" videoCodec="h264" bitrate="450">
+      <Part duration="49000" key="/services/iva/assets/251869/video.mp4?bitrate=450" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="480" width="640" codec="h264" bitrate="450" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+  </Video>
+</MediaContainer>

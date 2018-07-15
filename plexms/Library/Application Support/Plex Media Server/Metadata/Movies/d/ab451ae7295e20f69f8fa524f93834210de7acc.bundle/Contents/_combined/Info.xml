@@ -1,0 +1,494 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Movie>
+  <art>
+    <item external="True" url="http://image.tmdb.org/t/p/original/1tMoIurIMSURDslx0UG2ZxYR7RD.jpg" sort_order="1" provider="com.plexapp.agents.imdb" media="com.plexapp.agents.imdb_cdbe117a66603b3a990de7c7366304cb17631107"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/rqMvkc7P5yYfomhYXDmteWQoUeK.jpg" preview="com.plexapp.agents.imdb_4546d8d0c17839a67c933efe2c5924a8476f51d3" sort_order="2" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/s48CvFbWoWHhSPgz2wW9Rffw04q.jpg" preview="com.plexapp.agents.imdb_7df21f56e4a6739fc373194c48bcb8310336d463" sort_order="3" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/2JmiFFiOxdTMOYgUbZThC3QsAsE.jpg" preview="com.plexapp.agents.imdb_dbfad0ee2a6f84e9df931c5d53b62218aba850c7" sort_order="4" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/9XEgGDfMqgtCns1M0OHHQRmcvqu.jpg" preview="com.plexapp.agents.imdb_99fe77a2ebf66cc3c81c2df108215188f93c77bc" sort_order="5" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/88XeScxRrtuzKaOHSC2PC2zL55N.jpg" preview="com.plexapp.agents.imdb_63193d853be89c890089e3bc0a740345cef4d322" sort_order="6" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/ajGwauiDNIlCIxBrOpib8IPA3Cl.jpg" preview="com.plexapp.agents.imdb_045c8097da8d2ca83e604ac6cc8f9235e955cff9" sort_order="7" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/u1mQ1vqc1uJHuW8Yt7Y5uPaXAgO.jpg" preview="com.plexapp.agents.imdb_4202975092745b3859c8c63e64729536673318d4" sort_order="8" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/f8BT3z6aoAdiXa1d3Ksfl2oL9cs.jpg" preview="com.plexapp.agents.imdb_a0c687f536fd718c06c233c00e60827245214c11" sort_order="9" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/Am2OWeuIRuAXPmvODA5ZXVwUbM5.jpg" preview="com.plexapp.agents.imdb_4591beb33ca74d62beb85b19224067a94db71baa" sort_order="10" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/744uCsFeZlr5E1XFUNJXz439Ci.jpg" preview="com.plexapp.agents.imdb_1286b4a9322d251cc4c24eef33d1be51bb86a196" sort_order="11" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/9WSMvUBd18mK5yuOy3y06RpXu60.jpg" preview="com.plexapp.agents.imdb_99a44c5735b762808f1a05a7d091f32130e3ac17" sort_order="12" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/7ZNpC4KHrR6T1Ejy2uM69clz2uK.jpg" preview="com.plexapp.agents.imdb_786adae0e2fc60828ac27cf675215e8a9cd7f8fd" sort_order="13" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/7KBufhNhLaSBmEg2s4GcmKhJkIa.jpg" preview="com.plexapp.agents.imdb_e1cff0efc90f5b5e7f24d498f28eaded2a8de80c" sort_order="14" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/oLIdWgOuuB5HtpTcC9ywZrXPhVR.jpg" preview="com.plexapp.agents.imdb_5f9c5731f1b5bd93b882a64e38adb854c2e10d69" sort_order="15" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/lyRwGflXyvGLIOc6U08CRGs9J5l.jpg" preview="com.plexapp.agents.imdb_f3c4c16cbf9c56011b476b1c588aab506ac6417d" sort_order="16" provider="com.plexapp.agents.imdb"/>
+  </art>
+  <banners/>
+  <chapters>
+    <item index="0">
+      <title>Chapter 1</title>
+      <end_time_offset>940000</end_time_offset>
+      <start_time_offset>0</start_time_offset>
+    </item>
+    <item index="1">
+      <title>Chapter 2</title>
+      <end_time_offset>1757000</end_time_offset>
+      <start_time_offset>940000</start_time_offset>
+    </item>
+    <item index="2">
+      <title>Chapter 3</title>
+      <end_time_offset>2614000</end_time_offset>
+      <start_time_offset>1757000</start_time_offset>
+    </item>
+    <item index="3">
+      <title>Chapter 4</title>
+      <end_time_offset>3942000</end_time_offset>
+      <start_time_offset>2614000</start_time_offset>
+    </item>
+    <item index="4">
+      <title>Chapter 5</title>
+      <end_time_offset>4514000</end_time_offset>
+      <start_time_offset>3942000</start_time_offset>
+    </item>
+    <item index="5">
+      <title>Chapter 6</title>
+      <end_time_offset>5470000</end_time_offset>
+      <start_time_offset>4514000</start_time_offset>
+    </item>
+    <item index="6">
+      <title>Chapter 7</title>
+      <end_time_offset>6174000</end_time_offset>
+      <start_time_offset>5470000</start_time_offset>
+    </item>
+    <item index="7">
+      <title>Chapter 8</title>
+      <end_time_offset>-1</end_time_offset>
+      <start_time_offset>6174000</start_time_offset>
+    </item>
+  </chapters>
+  <collections/>
+  <content_rating>R</content_rating>
+  <countries>
+    <item index="0">Ireland</item>
+  </countries>
+  <directors>
+    <item index="0">
+      <photo>http://image.tmdb.org/t/p/original/qUjyfVUwX8XFXlhSSJtFXMeXi2X.jpg</photo>
+      <role/>
+      <name>Yorgos Lanthimos</name>
+    </item>
+  </directors>
+  <duration>7080000</duration>
+  <genres>
+    <item index="0">Comedy</item>
+    <item index="1">Drama</item>
+    <item index="2">Romance</item>
+    <item index="3">Sci-Fi</item>
+    <item index="4">Thriller</item>
+  </genres>
+  <originally_available_at>2015-10-08</originally_available_at>
+  <posters>
+    <item external="True" url="http://image.tmdb.org/t/p/original/yR60EqMGS9hHq9I5Pkq2hG984TP.jpg" sort_order="1" provider="com.plexapp.agents.imdb" media="com.plexapp.agents.imdb_e53496d69565f630f8ec628ea021b80b74470bec"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/5CqVzNF4zEaxHJGptcdHkvSITjQ.jpg" preview="com.plexapp.agents.imdb_dcfe373a7a0785fc00de4e403deb0d4ba4ddc4b6" sort_order="2" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/vQ6NifiuDJ1HuFH04stzVojo3T.jpg" preview="com.plexapp.agents.imdb_44e222a323ea428855316f12e1d63d61bf838a0b" sort_order="3" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/dmcHJF7NtP7R1CSC9OaSXTh2PvM.jpg" preview="com.plexapp.agents.imdb_d89ab604656576696f4d4e9a1492649f5f73a3e7" sort_order="4" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/t7T1dGLseFkLqyMxjZ3y4TYjDNH.jpg" preview="com.plexapp.agents.imdb_ce00661d9b94f08d6ef614c37180d19f7db68d06" sort_order="5" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/8jgNjMVgQl6w50p6NRqxMjBxb5y.jpg" preview="com.plexapp.agents.imdb_ba49028a9cb9669023497448e0aabd7670b7a3dd" sort_order="6" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/8Txhho08EjXcPYkTXbBD8jR4Dg7.jpg" preview="com.plexapp.agents.imdb_dfbeace8418b510bc10a8217eec1b094d4ae6bf8" sort_order="7" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/4P3nogyrsjeUr7XGjDbAamNWGXR.jpg" preview="com.plexapp.agents.imdb_ef00d7b373a6aaa925ecac4206a18fc26fa0d38a" sort_order="8" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/d0P2Jm2lC7lSyKARODqcmdAlQXE.jpg" preview="com.plexapp.agents.imdb_fa68993530a1ad31972c3490beb9bca145f54125" sort_order="9" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/xpuL0QwRGXvcTbI16tq9Jhz1IU6.jpg" preview="com.plexapp.agents.imdb_14a765cd7250259c154f3744b40b9f4a30d2ffa8" sort_order="10" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/oe3XoAL0he16IWLHFzdg32q5ty6.jpg" preview="com.plexapp.agents.imdb_1e8674ecd5959f0bb8b07459b6b56aeab321b1dd" sort_order="11" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/nx3gldcChCfw7QwPdssSG9CPaok.jpg" preview="com.plexapp.agents.imdb_f3d48a00e0eface779132afa3a70b8e679ba653d" sort_order="12" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/7ZyUap2XnDUeuv6X2tSVaD1seQh.jpg" preview="com.plexapp.agents.imdb_133ed7a6a2be9f991674f831bd6f12e2c983f438" sort_order="13" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/7CN5KMawh9yqtHxjdgI2CA1qfaV.jpg" preview="com.plexapp.agents.imdb_f87bd1b3e5a678b9623069188c3fa401e3322b6e" sort_order="14" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/nhB0rR230WNYZl7rmBGtsuuL6Gk.jpg" preview="com.plexapp.agents.imdb_ce5401e01b4dd5486e6f59865da10929b314a630" sort_order="15" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/q9T3w8Y6TBbiutoJ4ahlid0YNd8.jpg" preview="com.plexapp.agents.imdb_8af0926c68124651c8c026cadacd1af6e1f6aadf" sort_order="16" provider="com.plexapp.agents.imdb"/>
+  </posters>
+  <producers>
+    <item index="0">
+      <photo/>
+      <role/>
+      <name>Ceci Dempsey</name>
+    </item>
+    <item index="1">
+      <photo/>
+      <role/>
+      <name>Lee Magiday</name>
+    </item>
+    <item index="2">
+      <photo>http://image.tmdb.org/t/p/original/qUjyfVUwX8XFXlhSSJtFXMeXi2X.jpg</photo>
+      <role/>
+      <name>Yorgos Lanthimos</name>
+    </item>
+    <item index="3">
+      <photo/>
+      <role/>
+      <name>Ed Guiney</name>
+    </item>
+  </producers>
+  <rating>8.8</rating>
+  <rating_image>rottentomatoes://image.rating.ripe</rating_image>
+  <audience_rating>6.4</audience_rating>
+  <audience_rating_image>rottentomatoes://image.rating.spilled</audience_rating_image>
+  <reviews>
+    <item index="0">
+      <text>The Lobster argues that the kind of pressure society places on us to find a soulmate can lead to reckless choices. But the movie gives the alternative - people who are happy being single - the same radical treatment.</text>
+      <source>Miami Herald</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>http://www.miamiherald.com/entertainment/article81086637.html</link>
+      <author>Rene Rodriguez</author>
+    </item>
+    <item index="1">
+      <text>Lanthimos doesn't deliver all the way, but he sticks his landing mightily and whets appetites for whatever he decides to do next.</text>
+      <source>Detroit News</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>http://www.detroitnews.com/story/entertainment/movies/2016/05/26/movie-review-odd-lobster-observes-human-coupling-afar/85015868/</link>
+      <author>Adam Graham</author>
+    </item>
+    <item index="2">
+      <text>If you're open to embracing a film that declines to pander to expectations, you should definitely make a date with "The Lobster."</text>
+      <source>St. Louis Post-Dispatch</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>http://www.stltoday.com/entertainment/movies/reviews/offbeat-dramedy-the-lobster-is-a-provocative-dish/article_4717cbd3-fae1-5e59-a1c0-a9d5f8cc828c.html</link>
+      <author>Calvin Wilson</author>
+    </item>
+    <item index="3">
+      <text>Lanthimos forgoes easy sentiments about the transformative power of love; this may turn off some viewers, but there's a certain liberation and even some relief in knowing that societal pressure to settle down can be just as cruel as loneliness.</text>
+      <source>Chicago Reader</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>http://www.chicagoreader.com/chicago/lobster-review-yorgos-lanthimos-dogtooth-colin-farrell/Content?oid=22154007</link>
+      <author>Leah Pickett</author>
+    </item>
+    <item index="4">
+      <text>Highly original and mordantly funny. Perfect for fans of Franz Kafka, Charlie Kaufman and other bleak surrealists.</text>
+      <source>Newsday</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>http://www.newsday.com/entertainment/movies/the-lobster-review-colin-farrell-comedy-brims-with-originality-wickedly-weird-details-1.11840550</link>
+      <author>Rafer Guzman</author>
+    </item>
+    <item index="5">
+      <text>Lanthimos's unsettling tour de force reminds us of how chained to coupledom dignity remains at both the private and public level.</text>
+      <source>Salon.com</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>http://www.salon.com/2016/05/20/your_wedding_season_anxiety_antidote_the_weird_wild_unlikely_romance_of_the_lobster/</link>
+      <author>Eileen G'Sell</author>
+    </item>
+    <item index="6">
+      <text>The Lobster is what would happen if Wes Anderson set about doing Franz Kafka, with a hefty dash of George Orwell thrown into the mix: surreal, comic, sad, strange, beautiful, sublime.</text>
+      <source>Philadelphia Inquirer</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>http://www.philly.com/philly/entertainment/movies/20160527__The_Lobster___Sad__strange__funny__brilliant__and_Colin_Farrell_is__too.html</link>
+      <author>Steven Rea</author>
+    </item>
+    <item index="7">
+      <text>Farrell absolutely kills it as David. Weisz gives one of her best performances since her Oscar-winning turn in The Constant Gardener.</text>
+      <source>Chicago Sun-Times</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>http://chicago.suntimes.com/entertainment/the-lobster-a-bizarre-social-satire-with-big-wild-ideas/</link>
+      <author>Richard Roeper</author>
+    </item>
+    <item index="8">
+      <text>[Lanthimos'] commitment to his high-concept tragicomedies is extraordinary.</text>
+      <source>Associated Press</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>http://bigstory.ap.org/article/3686f7d5fe1f4018bd88dcc3dc42d6c7/review-deadpan-satire-lobster-skewers-marriage</link>
+      <author>Jake Coyle</author>
+    </item>
+    <item index="9">
+      <text>Lanthimos works the premise assiduously, especially after the Farrell character escapes and joins a band of rebel singles in the woods, and though the story slows to a crawl near the end, the poker-faced dramatization of a warped world is compelling.</text>
+      <source>Chicago Reader</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>http://www.chicagoreader.com/chicago/the-lobster/MovieTimes?oid=21369442</link>
+      <author>J. R. Jones</author>
+    </item>
+    <item index="10">
+      <text>It takes a touch of audacity and madness to make a film like this, a screwball, absurdist tragedy that might be a little too long and contrived for some viewers' taste.</text>
+      <source>Boston Globe</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>http://www.bostonglobe.com/arts/movies/2016/05/18/becoming-your-spirit-animal-filmmaker-yorgos-lanthimos-the-lobster/t84GMjJlVWRET0ASBdf1ZP/story.html</link>
+      <author>Peter Keough</author>
+    </item>
+    <item index="11">
+      <text>The movie is worthwhile, thanks to a marriage of peculiar humor and thought-provoking content.</text>
+      <source>Washington Post</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>https://www.washingtonpost.com/goingoutguide/movies/the-world-in-the-lobster-is-dark-and-twisted-yet-not-so-different-from-our-own/2016/05/19/abbc38e8-17b8-11e6-9e16-2e5a123aac62_story.html</link>
+      <author>Stephanie Merry</author>
+    </item>
+    <item index="12">
+      <text>This kind of art is not on many people's wavelength, but those who connect to it will remember it 20, 30, 40 years later.</text>
+      <source>Minneapolis Star Tribune</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>http://www.startribune.com/review-an-acquired-taste-the-lobster-is-a-divine-cinematic-dish/380128141/</link>
+      <author>Colin Covert</author>
+    </item>
+    <item index="13">
+      <text>Everyone's excellent in "The Lobster," and the suffocatingly bland settings brake just short of monumental claustrophobia.</text>
+      <source>Chicago Tribune</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>http://www.chicagotribune.com/entertainment/movies/sc-lobster-movie-review-20160517-column.html#nt=barker&amp;bn=Barker%2006%20-%20In%20Case%20You%20Missed%20It</link>
+      <author>Michael Phillips</author>
+    </item>
+    <item index="14">
+      <text>People say this kind of thing all the time - I'm pretty sure I have a time or two - but "The Lobster" is unlike any movie you've ever seen.</text>
+      <source>Arizona Republic</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>http://www.azcentral.com/story/entertainment/movies/billgoodykoontz/2016/05/19/the-lobster-movie-review-colin-farrell/84515148/</link>
+      <author>Bill Goodykoontz</author>
+    </item>
+    <item index="15">
+      <text>If you can live with its blemishes, "The Lobster" is a bracing experience.</text>
+      <source>San Francisco Chronicle</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>http://www.sfgate.com/entertainment/article/The-Lobster-Get-married-or-get-out-7661855.php</link>
+      <author>Walter V. Addiego</author>
+    </item>
+    <item index="16">
+      <text>...it plays cleverly with the compatibility assumptions behind, say, singles groups and online dating sites.</text>
+      <source>NPR</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>http://www.npr.org/2016/05/13/477853519/the-lobster-is-more-than-just-metaphor-in-this-romantic-comedy</link>
+      <author>Bob Mondello</author>
+    </item>
+    <item index="17">
+      <text>Its tone of deadpan absurdism never really develops into anything truly subversive or visionary. It's a weirdo, sub-J.G. Ballard conceit: J.G. Ballard for Dummies.</text>
+      <source>Christian Science Monitor</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>http://www.csmonitor.com/The-Culture/Movies/2016/0513/The-Lobster-asks-too-much-of-viewers</link>
+      <author>Peter Rainer</author>
+    </item>
+    <item index="18">
+      <text>A wild, sad, mordantly funny dystopia that gives sexual desperation the bad name it deserves.</text>
+      <source>TheWrap</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>http://www.thewrap.com/the-lobster-review/</link>
+      <author>Dave White</author>
+    </item>
+    <item index="19">
+      <text>While extremely funny, it is a bitter and ruthless film. Lanthimos plays target practice and his aim is deadly.</text>
+      <source>RogerEbert.com</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>http://www.rogerebert.com/reviews/the-lobster-2016</link>
+      <author>Sheila O'Malley</author>
+    </item>
+  </reviews>
+  <roles>
+    <item index="0">
+      <photo>http://image.tmdb.org/t/p/original/pgMM9r5ll99RXSmz1J4sj8zaddW.jpg</photo>
+      <role>David</role>
+      <name>Colin Farrell</name>
+    </item>
+    <item index="1">
+      <photo>http://image.tmdb.org/t/p/original/msTqKPA33ryVtcVNgOdeaJGYq16.jpg</photo>
+      <role>Short Sighted Woman</role>
+      <name>Rachel Weisz</name>
+    </item>
+    <item index="2">
+      <photo>http://image.tmdb.org/t/p/original/xptyFXfBENBMQkgPEYCxlMkSLSs.jpg</photo>
+      <role>Loner Leader</role>
+      <name>Léa Seydoux</name>
+    </item>
+    <item index="3">
+      <photo>http://image.tmdb.org/t/p/original/e74Cz65ifeNb9zHfUTvF5rTix0d.jpg</photo>
+      <role>John</role>
+      <name>Ben Whishaw</name>
+    </item>
+    <item index="4">
+      <photo>http://image.tmdb.org/t/p/original/9LeX4kwfctwfWWEuaaOXwTqiDcU.jpg</photo>
+      <role>The Maid</role>
+      <name>Ariane Labed</name>
+    </item>
+    <item index="5">
+      <photo>http://image.tmdb.org/t/p/original/kUo2TPQp4kOWWvijvkjLl0v9PQB.jpg</photo>
+      <role>Robert</role>
+      <name>John C. Reilly</name>
+    </item>
+    <item index="6">
+      <photo>http://image.tmdb.org/t/p/original/A4WddlGjgLxcQfrILXmfHeaBD9p.jpg</photo>
+      <role>Nosebleed Woman</role>
+      <name>Jessica Barden</name>
+    </item>
+    <item index="7">
+      <photo>http://image.tmdb.org/t/p/original/3lcPisWEYVcDq09mFrqni3Nao0C.jpg</photo>
+      <role>Hotel Manager</role>
+      <name>Olivia Colman</name>
+    </item>
+    <item index="8">
+      <photo>http://image.tmdb.org/t/p/original/ocQOgCeR7rviHAfeAymDT1AnhQg.jpg</photo>
+      <role>Biscuit Woman</role>
+      <name>Ashley Jensen</name>
+    </item>
+    <item index="9">
+      <photo>http://image.tmdb.org/t/p/original/syzlL5KWDhF89NFF0m7OC0lvIeY.jpg</photo>
+      <role>Heartless Woman</role>
+      <name>Angeliki Papoulia</name>
+    </item>
+    <item index="10">
+      <photo>http://image.tmdb.org/t/p/original/muzJQpsKJ4srfVpyRa7qkrRYWSq.jpg</photo>
+      <role>Loner Swimmer</role>
+      <name>Michael Smiley</name>
+    </item>
+    <item index="11">
+      <photo/>
+      <role>Donkey Shooter</role>
+      <name>Jacqueline Abrahams</name>
+    </item>
+    <item index="12">
+      <photo>http://image.tmdb.org/t/p/original/3lvWs4Kz0aATpcSY7PyPhkKgH6W.jpg</photo>
+      <role>Doctor</role>
+      <name>Roger Ashton-Griffiths</name>
+    </item>
+    <item index="13">
+      <photo/>
+      <role>70 Year Old Waiter</role>
+      <name>Anthony Dougall</name>
+    </item>
+    <item index="14">
+      <photo>http://image.tmdb.org/t/p/original/p0StMgwXD2FQX1rel5zaYLBTzFK.jpg</photo>
+      <role>Guard Waiter</role>
+      <name>Sean Duggan</name>
+    </item>
+    <item index="15">
+      <photo/>
+      <role>Loner Leader's Father</role>
+      <name>Roland Ferrandi</name>
+    </item>
+    <item index="16">
+      <photo/>
+      <role>Bald Man</role>
+      <name>James Finnegan</name>
+    </item>
+    <item index="17">
+      <photo/>
+      <role>Restaurant Waiter</role>
+      <name>Robert Heaney</name>
+    </item>
+    <item index="18">
+      <photo>http://image.tmdb.org/t/p/original/wGHOm6dcvSz3E4w51X99gXc0ebD.jpg</photo>
+      <role>David's Wife</role>
+      <name>Rosanna Hoult</name>
+    </item>
+    <item index="19">
+      <photo/>
+      <role>Bob the Dog</role>
+      <name>Jaro</name>
+    </item>
+    <item index="20">
+      <photo/>
+      <role>Bob the Dog</role>
+      <name>Ryac</name>
+    </item>
+    <item index="21">
+      <photo/>
+      <role>Police Officer 1</role>
+      <name>Kathy Kelly</name>
+    </item>
+    <item index="22">
+      <photo>http://image.tmdb.org/t/p/original/yQlzzi8EJo8mLNM1i2w7dsdgdhW.jpg</photo>
+      <role>Trainer Waiter (Shooting Range)</role>
+      <name>Ewen MacIntosh</name>
+    </item>
+    <item index="23">
+      <photo/>
+      <role>Campari Man</role>
+      <name>Patrick Malone</name>
+    </item>
+    <item index="24">
+      <photo/>
+      <role>Arrested Town Woman</role>
+      <name>Sandra Hayden Mason</name>
+    </item>
+    <item index="25">
+      <photo/>
+      <role>Police Officer 2</role>
+      <name>Kevin McCormack</name>
+    </item>
+    <item index="26">
+      <photo/>
+      <role>Bandaged Loner</role>
+      <name>Ishmael Moalosi</name>
+    </item>
+    <item index="27">
+      <photo/>
+      <role>30 Year Old Waiter</role>
+      <name>Anthony Moriarty</name>
+    </item>
+    <item index="28">
+      <photo/>
+      <role>Hotel Manager's Partner</role>
+      <name>Garry Mountaine</name>
+    </item>
+    <item index="29">
+      <photo/>
+      <role>Guest Room 104</role>
+      <name>Judi King Murphy</name>
+    </item>
+    <item index="30">
+      <photo/>
+      <role>New Daughter</role>
+      <name>Laoise Murphy</name>
+    </item>
+    <item index="31">
+      <photo/>
+      <role>Loner Leader's Mother</role>
+      <name>Imelda Nagle Ryan</name>
+    </item>
+    <item index="32">
+      <photo/>
+      <role>Hotel Receptionist</role>
+      <name>Nancy Onu</name>
+    </item>
+    <item index="33">
+      <photo/>
+      <role>Trapped Loner</role>
+      <name>Matthew O'Brien</name>
+    </item>
+    <item index="34">
+      <photo/>
+      <role>Nosebleed Woman's Best Friend</role>
+      <name>Emma O'Shea</name>
+    </item>
+    <item index="35">
+      <photo/>
+      <role>Coach Driver Waiter</role>
+      <name>Chris Threader</name>
+    </item>
+  </roles>
+  <similar>
+    <item index="0">Anomalisa</item>
+    <item index="1">The Master</item>
+    <item index="2">Dogtooth</item>
+    <item index="3">Inside Llewyn Davis</item>
+    <item index="4">Inherent Vice</item>
+    <item index="5">Hail, Caesar!</item>
+    <item index="6">Melancholia</item>
+    <item index="7">A Serious Man</item>
+    <item index="8">Moonrise Kingdom</item>
+    <item index="9">Green Room</item>
+    <item index="10">Enemy</item>
+    <item index="11">Under the Skin</item>
+    <item index="12">Midnight Special</item>
+    <item index="13">Frank</item>
+    <item index="14">Spotlight</item>
+    <item index="15">Being John Malkovich</item>
+    <item index="16">Synecdoche, New York</item>
+    <item index="17">Blue Jasmine</item>
+    <item index="18">Shame</item>
+    <item index="19">Adaptation.</item>
+  </similar>
+  <studio>Canal+</studio>
+  <summary>In a dystopian near future, single people, according to the laws of The City, are taken to The Hotel, where they are obliged to find a romantic partner in forty-five days or are transformed into beasts and sent off into The Woods.</summary>
+  <tagline>An unconventional love story...</tagline>
+  <tags/>
+  <themes/>
+  <title>The Lobster</title>
+  <writers>
+    <item index="0">
+      <photo>http://image.tmdb.org/t/p/original/qUjyfVUwX8XFXlhSSJtFXMeXi2X.jpg</photo>
+      <role/>
+      <name>Yorgos Lanthimos</name>
+    </item>
+    <item index="1">
+      <photo/>
+      <role/>
+      <name>Efthymis Filippou</name>
+    </item>
+  </writers>
+  <year>2015</year>
+</Movie>

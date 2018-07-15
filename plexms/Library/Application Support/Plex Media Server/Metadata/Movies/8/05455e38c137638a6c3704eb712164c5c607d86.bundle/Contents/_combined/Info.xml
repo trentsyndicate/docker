@@ -1,0 +1,426 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Movie>
+  <art>
+    <item external="True" url="http://image.tmdb.org/t/p/original/9NU92ynHqZfnA57F535mM1rhMH6.jpg" sort_order="1" provider="com.plexapp.agents.imdb" media="com.plexapp.agents.imdb_b663f951b842521edba74a2c991e3ad502591aa6"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/1no7W6dOZpFI8d8EX3WdCU52sSh.jpg" preview="com.plexapp.agents.imdb_74319a85f82968425a9f579193fe39a3fd86fed5" sort_order="2" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/4pfAib88XV6VGj4Pqw0J1vdfuQ3.jpg" preview="com.plexapp.agents.imdb_b803cbbdfeb1315d9a66c753f59ea27d9c45b4a6" sort_order="3" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/syxHt6UoTjmg5sWmD1mciqTdJOE.jpg" preview="com.plexapp.agents.imdb_146e4671808c693272a4d772a185815e2a73201c" sort_order="4" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/iQzclt6cMoIMxpOamrcz88bovoy.jpg" preview="com.plexapp.agents.imdb_856a849f1c5734bf36d0eccefbeff1df2dd01ebf" sort_order="5" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/qln8sbyEdE3By5D1Rbeh53BArEV.jpg" preview="com.plexapp.agents.imdb_dc232a713c60e4bd6549bbdc99848530cadb8ee2" sort_order="6" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/2VoJTlWWBI0oJuWYC6dxaJWG9NY.jpg" preview="com.plexapp.agents.imdb_4408d3b7120976482ec81f18676cf6b45b788608" sort_order="7" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/9XO8FJ4Jr16tsljodZGVA7VLUYR.jpg" preview="com.plexapp.agents.imdb_1a3a174571657a8e6031c6caea42c76d56ea0883" sort_order="8" provider="com.plexapp.agents.imdb"/>
+  </art>
+  <banners/>
+  <chapters>
+    <item index="0">
+      <title>Chapter 1</title>
+      <end_time_offset>393000</end_time_offset>
+      <start_time_offset>0</start_time_offset>
+    </item>
+    <item index="1">
+      <title>Chapter 2</title>
+      <end_time_offset>626000</end_time_offset>
+      <start_time_offset>393000</start_time_offset>
+    </item>
+    <item index="2">
+      <title>Chapter 3</title>
+      <end_time_offset>897000</end_time_offset>
+      <start_time_offset>626000</start_time_offset>
+    </item>
+    <item index="3">
+      <title>Chapter 4</title>
+      <end_time_offset>1214000</end_time_offset>
+      <start_time_offset>897000</start_time_offset>
+    </item>
+    <item index="4">
+      <title>Chapter 5</title>
+      <end_time_offset>1556000</end_time_offset>
+      <start_time_offset>1214000</start_time_offset>
+    </item>
+    <item index="5">
+      <title>Chapter 6</title>
+      <end_time_offset>1726000</end_time_offset>
+      <start_time_offset>1556000</start_time_offset>
+    </item>
+    <item index="6">
+      <title>Chapter 7</title>
+      <end_time_offset>1991000</end_time_offset>
+      <start_time_offset>1726000</start_time_offset>
+    </item>
+    <item index="7">
+      <title>Chapter 8</title>
+      <end_time_offset>2295000</end_time_offset>
+      <start_time_offset>1991000</start_time_offset>
+    </item>
+    <item index="8">
+      <title>Chapter 9</title>
+      <end_time_offset>2624000</end_time_offset>
+      <start_time_offset>2295000</start_time_offset>
+    </item>
+    <item index="9">
+      <title>Chapter 10</title>
+      <end_time_offset>2976000</end_time_offset>
+      <start_time_offset>2624000</start_time_offset>
+    </item>
+    <item index="10">
+      <title>Chapter 11</title>
+      <end_time_offset>3289000</end_time_offset>
+      <start_time_offset>2976000</start_time_offset>
+    </item>
+    <item index="11">
+      <title>Chapter 12</title>
+      <end_time_offset>3458000</end_time_offset>
+      <start_time_offset>3289000</start_time_offset>
+    </item>
+    <item index="12">
+      <title>Chapter 13</title>
+      <end_time_offset>3764000</end_time_offset>
+      <start_time_offset>3458000</start_time_offset>
+    </item>
+    <item index="13">
+      <title>Chapter 14</title>
+      <end_time_offset>4118000</end_time_offset>
+      <start_time_offset>3764000</start_time_offset>
+    </item>
+    <item index="14">
+      <title>Chapter 15</title>
+      <end_time_offset>4462000</end_time_offset>
+      <start_time_offset>4118000</start_time_offset>
+    </item>
+    <item index="15">
+      <title>Chapter 16</title>
+      <end_time_offset>4819000</end_time_offset>
+      <start_time_offset>4462000</start_time_offset>
+    </item>
+    <item index="16">
+      <title>Chapter 17</title>
+      <end_time_offset>5252000</end_time_offset>
+      <start_time_offset>4819000</start_time_offset>
+    </item>
+    <item index="17">
+      <title>Chapter 18</title>
+      <end_time_offset>5588000</end_time_offset>
+      <start_time_offset>5252000</start_time_offset>
+    </item>
+    <item index="18">
+      <title>Chapter 19</title>
+      <end_time_offset>5899000</end_time_offset>
+      <start_time_offset>5588000</start_time_offset>
+    </item>
+    <item index="19">
+      <title>Chapter 20</title>
+      <end_time_offset>6083000</end_time_offset>
+      <start_time_offset>5899000</start_time_offset>
+    </item>
+    <item index="20">
+      <title>Chapter 21</title>
+      <end_time_offset>-1</end_time_offset>
+      <start_time_offset>6083000</start_time_offset>
+    </item>
+  </chapters>
+  <collections/>
+  <content_rating>PG-13</content_rating>
+  <countries>
+    <item index="0">United Kingdom</item>
+  </countries>
+  <directors>
+    <item index="0">
+      <photo>http://image.tmdb.org/t/p/original/tJzwAft3zkDSRqpBsNg6ScpawQG.jpg</photo>
+      <role/>
+      <name>Asif Kapadia</name>
+    </item>
+  </directors>
+  <duration>6360000</duration>
+  <genres>
+    <item index="0">Documentary</item>
+    <item index="1">Biography</item>
+    <item index="2">Sport</item>
+  </genres>
+  <originally_available_at>2010-10-07</originally_available_at>
+  <posters>
+    <item external="True" url="http://image.tmdb.org/t/p/original/vglg05ioBqt9J6RtolLKjxvRmtJ.jpg" sort_order="1" provider="com.plexapp.agents.imdb" media="com.plexapp.agents.imdb_437d47246e0670929313bbf2c867fb967da0b9d5"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/1gnwldNCZaqfZDi1f2JpxlrH0Po.jpg" preview="com.plexapp.agents.imdb_45d7b4449fe548f36e2c134728724acde32f2ab8" sort_order="2" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/7ZK9x1W5mQCDbWERAnHoPxgoh7p.jpg" preview="com.plexapp.agents.imdb_28e15dfc7bd7804c68f5333a7f95a9bff6330b9e" sort_order="3" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/A5TwZAAs6BbuGb4JGMGSa1Oxkvk.jpg" preview="com.plexapp.agents.imdb_9f417b0a16b1e2ebf1dd0ad63d64d9d0af8e1b52" sort_order="4" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/t48l42PGoGgKthUkIJx506hepUK.jpg" preview="com.plexapp.agents.imdb_8cd2fdab0e80410770626e3bb58d8d7ad169c875" sort_order="5" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/nTOkKPm0UziRt9nNJ2JU70U7OMq.jpg" preview="com.plexapp.agents.imdb_bc22af0610c497ea1d8514d563df92befa664718" sort_order="6" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/h4Lq7dM7CZXYHQ01jwQhHXCzg0F.jpg" preview="com.plexapp.agents.imdb_70391c4b209ca1d829f69df940bef73d6bda477a" sort_order="7" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/wnC4TllSy7SY16wzPH42mczz97w.jpg" preview="com.plexapp.agents.imdb_b08296eeb15db83dc5e3f7196a1757a76a50e0ae" sort_order="8" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/wRGEDUELr6D5KiblinZf2QN2g9o.jpg" preview="com.plexapp.agents.imdb_03cab18340c948b71aa6515c42602c6ded456eeb" sort_order="9" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/5X6NKLXqiVEBpyIJdotVtvqsZi4.jpg" preview="com.plexapp.agents.imdb_e13108ced241e712738e1d0c6f51d24087aae146" sort_order="10" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/lC4XifO4290zByBKRSL4aJerRUr.jpg" preview="com.plexapp.agents.imdb_59a036b5579f12ef3945318713467dc2efefe7ad" sort_order="11" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/dU3t2lUaCfhYCZ42sK7PfvEnRON.jpg" preview="com.plexapp.agents.imdb_6269bd6a3df2b19643ed3cbdca0a6f151085ebc0" sort_order="12" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/vfiaf7rBWNfxp5erFq9IeGMYbS4.jpg" preview="com.plexapp.agents.imdb_50070ff548fa86d6840f96d65ba0acc8f5a25872" sort_order="13" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/iw0ypBWPfqYYxh5zzpjgz5T39dh.jpg" preview="com.plexapp.agents.imdb_dbcfa1130efe4069018f204652364b3577f986c3" sort_order="14" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/l7MKs6NFyBdco0hwU9XnPjMaDaM.jpg" preview="com.plexapp.agents.imdb_9f4b0b5beca3c6d8b48f565bc1f5810ffada5fc2" sort_order="15" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/kaJoulf2wI0xTX4smmIGq5C9X1Q.jpg" preview="com.plexapp.agents.imdb_2a27c1268925307783ddba2b4f4fb76e0358329b" sort_order="16" provider="com.plexapp.agents.imdb"/>
+  </posters>
+  <producers>
+    <item index="0">
+      <photo>http://image.tmdb.org/t/p/original/kZaLsSzpZVwDn5DBu4BjqE8uvTg.jpg</photo>
+      <role/>
+      <name>James Gay-Rees</name>
+    </item>
+    <item index="1">
+      <photo>http://image.tmdb.org/t/p/original/f7o93O1KocuLwIrSa7KqyL1sWaT.jpg</photo>
+      <role/>
+      <name>Tim Bevan</name>
+    </item>
+    <item index="2">
+      <photo>http://image.tmdb.org/t/p/original/DiDxNhIfVPn9bRdOumhK0LgCYT.jpg</photo>
+      <role/>
+      <name>Eric Fellner</name>
+    </item>
+  </producers>
+  <rating>9.2</rating>
+  <rating_image>rottentomatoes://image.rating.ripe</rating_image>
+  <audience_rating>9.5</audience_rating>
+  <audience_rating_image>rottentomatoes://image.rating.upright</audience_rating_image>
+  <reviews>
+    <item index="0">
+      <text>Captivating, chilling, and surprisingly sublime.</text>
+      <source>Film.com</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>http://www.film.com/movies/review-senna-fate-finishes-first</link>
+      <author>Christine Champ</author>
+    </item>
+    <item index="1">
+      <text>"Senna" is simply the greatest sports film I have ever seen.</text>
+      <source>St. Louis Post-Dispatch</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>http://www.stltoday.com/entertainment/movies/reviews/article_b1e7b459-9eea-5d95-944c-6969c73ae2d4.html</link>
+      <author>Joe Williams</author>
+    </item>
+    <item index="2">
+      <text>There's not an ounce of fat or a wasted shot throughout.</text>
+      <source>Minneapolis Star Tribune</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>http://www.startribune.com/entertainment/movies/128351223.html</link>
+      <author>Colin Covert</author>
+    </item>
+    <item index="3">
+      <text>You don't have to know anything about car racing at all. Instead, you simply have to like a great story, one that has all the elements: drama, inspiration, competition, victory, defeat, betrayal and, looming above it all, tragedy.</text>
+      <source>Arizona Republic</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>http://www.azcentral.com/thingstodo/movies/articles/2011/08/25/20110825senna-movie-review-goodykoontz.html</link>
+      <author>Bill Goodykoontz</author>
+    </item>
+    <item index="4">
+      <text>It's stripped of narration, talking heads, and anything else that might threaten to slow it down.</text>
+      <source>New Yorker</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>http://www.newyorker.com/arts/reviews/film/senna_kapadia</link>
+      <author>Anthony Lane</author>
+    </item>
+    <item index="5">
+      <text>Even if you can't tell Formula One from Grecian Formula, Senna is pretty exciting stuff.</text>
+      <source>Detroit News</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>http://detroitnews.com/article/20110819/ENT02/108190318/1034/ent02/Review--%E2%80%98Senna%E2%80%99-thrills-but-races-by-man-at-wheel</link>
+      <author>Tom Long</author>
+    </item>
+    <item index="6">
+      <text>Most interesting for the way its construction builds on the inherent austerity of auto racing.</text>
+      <source>Chicago Reader</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>http://www.chicagoreader.com/chicago/MovieTimes?oid=4417707</link>
+      <author>Ben Sachs</author>
+    </item>
+    <item index="7">
+      <text>Real life eclipses fiction in delivering a tale that combines heroism, villainy, suspense and a surprising amount of emotional resonance.</text>
+      <source>Toronto Star</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>http://www.toronto.com/article/695526--senna-life-and-death-in-the-fast-lane</link>
+      <author>Bruce Demara</author>
+    </item>
+    <item index="8">
+      <text>What makes "Senna" essential viewing is the propulsive education it provides in one of the world's most popular sports, and the introduction it provides to an extraordinary athlete and human being.</text>
+      <source>Washington Post</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>http://www.washingtonpost.com/gog/movies/senna,1211739/critic-review.html</link>
+      <author>Ann Hornaday</author>
+    </item>
+    <item index="9">
+      <text>Kapadia is working with an embarrassment of riches, but to his credit he selects wisely, and has the good sense to keep the talking heads off the screen.</text>
+      <source>Globe and Mail</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>http://www.theglobeandmail.com/news/arts/movies/senna-finding-god-at-300-kmh/article2134196/</link>
+      <author>Rick Groen</author>
+    </item>
+    <item index="10">
+      <text>Senna feels a touch too short to be fully realized -- but then again, so was Ayrton Senna's life.</text>
+      <source>Slate</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>http://www.slate.com/id/2301929/</link>
+      <author>Dana Stevens</author>
+    </item>
+    <item index="11">
+      <text>Senna is earnest, eloquent, and impossibly charismatic, and his rocketing ascension through the ranks of professional drivers - gunning his car at more than 200 m.p.h. down the straightaways - is something to behold.</text>
+      <source>Philadelphia Inquirer</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>http://www.philly.com/philly/entertainment/movies/20110819_Thrilling__tragic_life_of_a_race-car_phenom.html</link>
+      <author>Steven Rea</author>
+    </item>
+    <item index="12">
+      <text>Plays like a narrative feature, juicy and alive, with enough kinetic excitement to hook the Formula One-ignorant (me, I knew next to nothing about the subject), let alone racing fans worldwide.</text>
+      <source>Chicago Tribune</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>http://www.chicagotribune.com/entertainment/movies/sc-mov-0816-senna-20110819,0,980695.column</link>
+      <author>Michael Phillips</author>
+    </item>
+    <item index="13">
+      <text>"Senna" is a documentary that does the job it sets out to do. I wish it had tried for more.</text>
+      <source>Chicago Sun-Times</source>
+      <image>rottentomatoes://image.review.rotten</image>
+      <link>http://www.rogerebert.com/apps/pbcs.dll/article?AID=/20110817/REVIEWS/110819982/-1/RSS</link>
+      <author>Roger Ebert</author>
+    </item>
+    <item index="14">
+      <text>There are some thrilling you-are-there sequences shot inside the racing car from his POV as he zooms around the tracks. It's like watching a video game made real.</text>
+      <source>Christian Science Monitor</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>http://www.csmonitor.com/The-Culture/Movies/2011/0812/Senna-movie-review</link>
+      <author>Peter Rainer</author>
+    </item>
+    <item index="15">
+      <text>My interest in watching men drive machines in ovals is limited, and in this documentary the title character mostly comes across as an uninteresting dope.</text>
+      <source>New York Post</source>
+      <image>rottentomatoes://image.review.rotten</image>
+      <link>http://www.nypost.com/p/entertainment/movies/thrilling_and_deadly_racer_23aOjsg9wPGVDc5VqJexnJ?CMP=OTC-rss&amp;FEEDNAME=</link>
+      <author>Kyle Smith</author>
+    </item>
+  </reviews>
+  <roles>
+    <item index="0">
+      <photo>http://image.tmdb.org/t/p/original/qnQoejAqWO6ECCZAZNGJmXwURWs.jpg</photo>
+      <role>Himself (archive footage)</role>
+      <name>Ayrton Senna</name>
+    </item>
+    <item index="1">
+      <photo>http://image.tmdb.org/t/p/original/cV7P1fG1Bhb1Jr8IcqHNkCIVEY8.jpg</photo>
+      <role>Himself</role>
+      <name>Alain Prost</name>
+    </item>
+    <item index="2">
+      <photo>http://image.tmdb.org/t/p/original/5ItpGxj3EgFC1kcluipklVQ3eYK.jpg</photo>
+      <role>Himself</role>
+      <name>Frank Williams</name>
+    </item>
+    <item index="3">
+      <photo>http://image.tmdb.org/t/p/original/hJH7exSnvFvZLrspoV9Cbw8oZht.jpg</photo>
+      <role>Himself</role>
+      <name>Ron Dennis</name>
+    </item>
+    <item index="4">
+      <photo>http://image.tmdb.org/t/p/original/nNYVnA44Khn3wtSUz5blBUfY0au.jpg</photo>
+      <role>herself</role>
+      <name>Viviane Senna</name>
+    </item>
+    <item index="5">
+      <photo>http://image.tmdb.org/t/p/original/ypDnFzsK8anbLUrE160SIlcRa6s.jpg</photo>
+      <role>Himself</role>
+      <name>Milton da Silva</name>
+    </item>
+    <item index="6">
+      <photo>http://image.tmdb.org/t/p/original/fBhjQ62wcOfrdlTkWI7q5jd0xHr.jpg</photo>
+      <role>Herself</role>
+      <name>Neide Senna</name>
+    </item>
+    <item index="7">
+      <photo>http://image.tmdb.org/t/p/original/iXUBzWuoGm3UjxCZaYscFQDbCzW.jpg</photo>
+      <role>Himself</role>
+      <name>Jackie Stewart</name>
+    </item>
+    <item index="8">
+      <photo>http://image.tmdb.org/t/p/original/pS31ujor1Rrgowk5xCjAAETnPK2.jpg</photo>
+      <role>himself</role>
+      <name>Sid Watkins</name>
+    </item>
+    <item index="9">
+      <photo>http://image.tmdb.org/t/p/original/2Hx7F6XWR8Vvu8kYbi2o6vdAXn8.jpg</photo>
+      <role>Himself</role>
+      <name>Galvão Bueno</name>
+    </item>
+    <item index="10">
+      <photo>http://image.tmdb.org/t/p/original/bvkqvYJPmLgx17KKpOiDcCzlhmC.jpg</photo>
+      <role>himself</role>
+      <name>Reginaldo Leme</name>
+    </item>
+    <item index="11">
+      <photo>http://image.tmdb.org/t/p/original/fSWQ76hIORC7K9FKJBC5JoBQ4U6.jpg</photo>
+      <role>Himself</role>
+      <name>Gerhard Berger</name>
+    </item>
+    <item index="12">
+      <photo>http://image.tmdb.org/t/p/original/mYz1UJw2O94cRoVxNIiXjAmbPM8.jpg</photo>
+      <role>Himself</role>
+      <name>Nelson Piquet</name>
+    </item>
+    <item index="13">
+      <photo>http://image.tmdb.org/t/p/original/z3HsC8YH0BtMJ1pVeeNh7blQU6O.jpg</photo>
+      <role>Himself</role>
+      <name>Nigel Mansell</name>
+    </item>
+    <item index="14">
+      <photo>http://image.tmdb.org/t/p/original/nhndPxyVn62sOucOutVn8dSMWCH.jpg</photo>
+      <role>Himself</role>
+      <name>Jean-Marie Balestre</name>
+    </item>
+    <item index="15">
+      <photo>http://image.tmdb.org/t/p/original/wy0Bjz3UyW7vLRUakvdI7PBm5xa.jpg</photo>
+      <role>Himself</role>
+      <name>Bernie Ecclestone</name>
+    </item>
+    <item index="16">
+      <photo>http://image.tmdb.org/t/p/original/aOVfJTBq75jcHgWQdA1kcFcetnS.jpg</photo>
+      <role>himself</role>
+      <name>John Bisignano</name>
+    </item>
+    <item index="17">
+      <photo/>
+      <role>himself</role>
+      <name>Pierre Van Vliet</name>
+    </item>
+  </roles>
+  <similar>
+    <item index="0">Inside Job</item>
+    <item index="1">Searching for Sugar Man</item>
+    <item index="2">Man on Wire</item>
+    <item index="3">Exit Through the Gift Shop</item>
+    <item index="4">Salvador</item>
+    <item index="5">The Fog of War</item>
+    <item index="6">Fahrenheit 9/11</item>
+    <item index="7">The Cove</item>
+    <item index="8">Encounters at the End of the World</item>
+    <item index="9">Triumph of the Will</item>
+    <item index="10">When We Were Kings</item>
+    <item index="11">Cave of Forgotten Dreams</item>
+    <item index="12">The Italian Job</item>
+    <item index="13">Touching the Void</item>
+    <item index="14">Frost/Nixon</item>
+    <item index="15">Bowling for Columbine</item>
+    <item index="16">The King of Kong: A Fistful of Quarters</item>
+    <item index="17">Blackfish</item>
+    <item index="18">Enron: The Smartest Guys in the Room</item>
+    <item index="19">The Battle of Algiers</item>
+  </similar>
+  <studio>Universal Pictures</studio>
+  <summary>Senna's remarkable story, charting his physical and spiritual achievments on the track and off, his quest for perfection, and the mythical status he has since attained, is the subject of Senna, a documentary feature that spans the racing legend's years as an F1 driver, from his opening season in 1984 to his untimely death a decade later.</summary>
+  <tagline>The legend of the greatest driver who ever lived.</tagline>
+  <tags/>
+  <themes/>
+  <title>Senna</title>
+  <writers>
+    <item index="0">
+      <photo/>
+      <role/>
+      <name>Manish Pandey</name>
+    </item>
+    <item index="1">
+      <photo/>
+      <role/>
+      <name>Manish Pandey</name>
+    </item>
+  </writers>
+  <year>2010</year>
+</Movie>

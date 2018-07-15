@@ -1,0 +1,463 @@
+<?xml version='1.0' encoding='utf-8'?>
+<MediaContainer size="23" identifier="com.plexapp.agents.imdb" mediaTagPrefix="/system/bundle/media/flags/" prefsKey="/:/plugins/com.plexapp.agents.imdb/prefs">
+  <Video url="iva://api.internetvideoarchive.com/2.0/DataService/VideoAssets(139747)?lang=en&amp;bitrates=80,212,450,750,1500,2500,5000,8000&amp;duration=146&amp;adaptive=1&amp;dts=0" key="/system/services/url/lookup?url=iva%3A%2F%2Fapi.internetvideoarchive.com%2F2.0%2FDataService%2FVideoAssets%28139747%29%3Flang%3Den%26bitrates%3D80%2C212%2C450%2C750%2C1500%2C2500%2C5000%2C8000%26duration%3D146%26adaptive%3D1%26dts%3D0" type="clip" relationType="trailer" year="2017" title="Captain America: The First Avenger (Clean Trailer)" originallyAvailableAt="2017-12-08" thumb="https://iva-images.plex.tv/content/hdphotos/11584/011584/011584_1280x720_139747_174.jpg" ratingKey="iva://api.internetvideoarchive.com/2.0/DataService/VideoAssets(139747)?lang=en&amp;bitrates=80,212,450,750,1500,2500,5000,8000&amp;duration=146&amp;adaptive=1&amp;dts=0">
+    <Media container="mp4" height="1080" width="1920" audioCodec="aac" duration="146000" videoCodec="h264" bitrate="2500">
+      <Part duration="146000" key="/services/iva/assets/139747/video.mp4?bitrate=2500" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="1080" width="1920" codec="h264" bitrate="2500" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+    <Media container="mp4" height="720" width="1280" audioCodec="aac" duration="146000" videoCodec="h264" bitrate="1500">
+      <Part duration="146000" key="/services/iva/assets/139747/video.mp4?bitrate=1500" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="720" width="1280" codec="h264" bitrate="1500" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+    <Media container="mp4" height="480" width="640" audioCodec="aac" duration="146000" videoCodec="h264" bitrate="450">
+      <Part duration="146000" key="/services/iva/assets/139747/video.mp4?bitrate=450" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="480" width="640" codec="h264" bitrate="450" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+  </Video>
+  <Video url="iva://api.internetvideoarchive.com/2.0/DataService/VideoAssets(357708)?lang=en&amp;bitrates=80,212,450,750,1500,8000&amp;duration=44&amp;adaptive=1&amp;dts=0" key="/system/services/url/lookup?url=iva%3A%2F%2Fapi.internetvideoarchive.com%2F2.0%2FDataService%2FVideoAssets%28357708%29%3Flang%3Den%26bitrates%3D80%2C212%2C450%2C750%2C1500%2C8000%26duration%3D44%26adaptive%3D1%26dts%3D0" type="clip" relationType="behindTheScenes" year="2010" title="Captain America: The First Avenger (Comic Con Footage)" originallyAvailableAt="2010-07-28" thumb="https://iva-images.plex.tv/content/photos/6901/28985232_.jpg" ratingKey="iva://api.internetvideoarchive.com/2.0/DataService/VideoAssets(357708)?lang=en&amp;bitrates=80,212,450,750,1500,8000&amp;duration=44&amp;adaptive=1&amp;dts=0">
+    <Media container="mp4" height="720" width="1280" audioCodec="aac" duration="44000" videoCodec="h264" bitrate="1500">
+      <Part duration="44000" key="/services/iva/assets/357708/video.mp4?bitrate=1500" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="720" width="1280" codec="h264" bitrate="1500" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+    <Media container="mp4" height="480" width="640" audioCodec="aac" duration="44000" videoCodec="h264" bitrate="750">
+      <Part duration="44000" key="/services/iva/assets/357708/video.mp4?bitrate=750" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="480" width="640" codec="h264" bitrate="750" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+    <Media container="mp4" height="480" width="640" audioCodec="aac" duration="44000" videoCodec="h264" bitrate="450">
+      <Part duration="44000" key="/services/iva/assets/357708/video.mp4?bitrate=450" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="480" width="640" codec="h264" bitrate="450" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+  </Video>
+  <Video url="iva://api.internetvideoarchive.com/2.0/DataService/VideoAssets(35055)?lang=en&amp;bitrates=80,212,450,750,1500,2500,5000,8000&amp;duration=60&amp;adaptive=1&amp;dts=0" key="/system/services/url/lookup?url=iva%3A%2F%2Fapi.internetvideoarchive.com%2F2.0%2FDataService%2FVideoAssets%2835055%29%3Flang%3Den%26bitrates%3D80%2C212%2C450%2C750%2C1500%2C2500%2C5000%2C8000%26duration%3D60%26adaptive%3D1%26dts%3D0" type="clip" relationType="interview" year="2011" title="Captain America: The First Avenger (Joe Johnston On The Most Rewarding Part Of The Project)" originallyAvailableAt="2011-08-02" thumb="https://iva-images.plex.tv/content/hdphotos/7407/007407/007407_1264x532_3505516.jpg" ratingKey="iva://api.internetvideoarchive.com/2.0/DataService/VideoAssets(35055)?lang=en&amp;bitrates=80,212,450,750,1500,2500,5000,8000&amp;duration=60&amp;adaptive=1&amp;dts=0">
+    <Media container="mp4" height="1080" width="1920" audioCodec="aac" duration="60000" videoCodec="h264" bitrate="2500">
+      <Part duration="60000" key="/services/iva/assets/35055/video.mp4?bitrate=2500" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="1080" width="1920" codec="h264" bitrate="2500" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+    <Media container="mp4" height="720" width="1280" audioCodec="aac" duration="60000" videoCodec="h264" bitrate="1500">
+      <Part duration="60000" key="/services/iva/assets/35055/video.mp4?bitrate=1500" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="720" width="1280" codec="h264" bitrate="1500" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+    <Media container="mp4" height="480" width="640" audioCodec="aac" duration="60000" videoCodec="h264" bitrate="450">
+      <Part duration="60000" key="/services/iva/assets/35055/video.mp4?bitrate=450" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="480" width="640" codec="h264" bitrate="450" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+  </Video>
+  <Video url="iva://api.internetvideoarchive.com/2.0/DataService/VideoAssets(40076)?lang=en&amp;bitrates=80,212,450,750,1500,2500,5000,8000&amp;duration=21&amp;adaptive=1&amp;dts=0" key="/system/services/url/lookup?url=iva%3A%2F%2Fapi.internetvideoarchive.com%2F2.0%2FDataService%2FVideoAssets%2840076%29%3Flang%3Den%26bitrates%3D80%2C212%2C450%2C750%2C1500%2C2500%2C5000%2C8000%26duration%3D21%26adaptive%3D1%26dts%3D0" type="clip" relationType="interview" year="2011" title="Captain America: The First Avenger (Joe Johnston On Hayley Atwell)" originallyAvailableAt="2011-08-02" thumb="https://iva-images.plex.tv/content/hdphotos/7407/007407/007407_1264x532_4007613.jpg" ratingKey="iva://api.internetvideoarchive.com/2.0/DataService/VideoAssets(40076)?lang=en&amp;bitrates=80,212,450,750,1500,2500,5000,8000&amp;duration=21&amp;adaptive=1&amp;dts=0">
+    <Media container="mp4" height="1080" width="1920" audioCodec="aac" duration="21000" videoCodec="h264" bitrate="2500">
+      <Part duration="21000" key="/services/iva/assets/40076/video.mp4?bitrate=2500" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="1080" width="1920" codec="h264" bitrate="2500" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+    <Media container="mp4" height="720" width="1280" audioCodec="aac" duration="21000" videoCodec="h264" bitrate="1500">
+      <Part duration="21000" key="/services/iva/assets/40076/video.mp4?bitrate=1500" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="720" width="1280" codec="h264" bitrate="1500" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+    <Media container="mp4" height="480" width="640" audioCodec="aac" duration="21000" videoCodec="h264" bitrate="450">
+      <Part duration="21000" key="/services/iva/assets/40076/video.mp4?bitrate=450" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="480" width="640" codec="h264" bitrate="450" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+  </Video>
+  <Video url="iva://api.internetvideoarchive.com/2.0/DataService/VideoAssets(592633)?lang=en&amp;bitrates=80,212,450,750,1500,2500,5000,8000&amp;duration=26&amp;adaptive=1&amp;dts=0" key="/system/services/url/lookup?url=iva%3A%2F%2Fapi.internetvideoarchive.com%2F2.0%2FDataService%2FVideoAssets%28592633%29%3Flang%3Den%26bitrates%3D80%2C212%2C450%2C750%2C1500%2C2500%2C5000%2C8000%26duration%3D26%26adaptive%3D1%26dts%3D0" type="clip" relationType="interview" year="2011" title="Captain America: The First Avenger (Joe Johnston On Shooting In The UK)" originallyAvailableAt="2011-08-02" thumb="https://iva-images.plex.tv/content/hdphotos/7407/007407/007407_1264x532_59263327.jpg" ratingKey="iva://api.internetvideoarchive.com/2.0/DataService/VideoAssets(592633)?lang=en&amp;bitrates=80,212,450,750,1500,2500,5000,8000&amp;duration=26&amp;adaptive=1&amp;dts=0">
+    <Media container="mp4" height="1080" width="1920" audioCodec="aac" duration="26000" videoCodec="h264" bitrate="2500">
+      <Part duration="26000" key="/services/iva/assets/592633/video.mp4?bitrate=2500" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="1080" width="1920" codec="h264" bitrate="2500" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+    <Media container="mp4" height="720" width="1280" audioCodec="aac" duration="26000" videoCodec="h264" bitrate="1500">
+      <Part duration="26000" key="/services/iva/assets/592633/video.mp4?bitrate=1500" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="720" width="1280" codec="h264" bitrate="1500" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+    <Media container="mp4" height="480" width="640" audioCodec="aac" duration="26000" videoCodec="h264" bitrate="450">
+      <Part duration="26000" key="/services/iva/assets/592633/video.mp4?bitrate=450" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="480" width="640" codec="h264" bitrate="450" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+  </Video>
+  <Video url="iva://api.internetvideoarchive.com/2.0/DataService/VideoAssets(477987)?lang=en&amp;bitrates=80,212,450,750,1500,2500,5000,8000&amp;duration=77&amp;adaptive=1&amp;dts=0" key="/system/services/url/lookup?url=iva%3A%2F%2Fapi.internetvideoarchive.com%2F2.0%2FDataService%2FVideoAssets%28477987%29%3Flang%3Den%26bitrates%3D80%2C212%2C450%2C750%2C1500%2C2500%2C5000%2C8000%26duration%3D77%26adaptive%3D1%26dts%3D0" type="clip" relationType="interview" year="2011" title="Captain America: The First Avenger (Joe Johnston On What Attracted Him To The Project)" originallyAvailableAt="2011-08-02" thumb="https://iva-images.plex.tv/content/hdphotos/7407/007407/007407_1264x532_47798713.jpg" ratingKey="iva://api.internetvideoarchive.com/2.0/DataService/VideoAssets(477987)?lang=en&amp;bitrates=80,212,450,750,1500,2500,5000,8000&amp;duration=77&amp;adaptive=1&amp;dts=0">
+    <Media container="mp4" height="1080" width="1920" audioCodec="aac" duration="77000" videoCodec="h264" bitrate="2500">
+      <Part duration="77000" key="/services/iva/assets/477987/video.mp4?bitrate=2500" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="1080" width="1920" codec="h264" bitrate="2500" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+    <Media container="mp4" height="720" width="1280" audioCodec="aac" duration="77000" videoCodec="h264" bitrate="1500">
+      <Part duration="77000" key="/services/iva/assets/477987/video.mp4?bitrate=1500" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="720" width="1280" codec="h264" bitrate="1500" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+    <Media container="mp4" height="480" width="640" audioCodec="aac" duration="77000" videoCodec="h264" bitrate="450">
+      <Part duration="77000" key="/services/iva/assets/477987/video.mp4?bitrate=450" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="480" width="640" codec="h264" bitrate="450" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+  </Video>
+  <Video url="iva://api.internetvideoarchive.com/2.0/DataService/VideoAssets(156625)?lang=en&amp;bitrates=80,212,450,750,1500,2500,5000,8000&amp;duration=53&amp;adaptive=1&amp;dts=0" key="/system/services/url/lookup?url=iva%3A%2F%2Fapi.internetvideoarchive.com%2F2.0%2FDataService%2FVideoAssets%28156625%29%3Flang%3Den%26bitrates%3D80%2C212%2C450%2C750%2C1500%2C2500%2C5000%2C8000%26duration%3D53%26adaptive%3D1%26dts%3D0" type="clip" relationType="interview" year="2011" title="Captain America: The First Avenger (Kenneth Choi On Hugo Weaving As Red Skull)" originallyAvailableAt="2011-08-02" thumb="https://iva-images.plex.tv/content/hdphotos/7407/007407/007407_1264x532_15662512.jpg" ratingKey="iva://api.internetvideoarchive.com/2.0/DataService/VideoAssets(156625)?lang=en&amp;bitrates=80,212,450,750,1500,2500,5000,8000&amp;duration=53&amp;adaptive=1&amp;dts=0">
+    <Media container="mp4" height="1080" width="1920" audioCodec="aac" duration="53000" videoCodec="h264" bitrate="2500">
+      <Part duration="53000" key="/services/iva/assets/156625/video.mp4?bitrate=2500" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="1080" width="1920" codec="h264" bitrate="2500" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+    <Media container="mp4" height="720" width="1280" audioCodec="aac" duration="53000" videoCodec="h264" bitrate="1500">
+      <Part duration="53000" key="/services/iva/assets/156625/video.mp4?bitrate=1500" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="720" width="1280" codec="h264" bitrate="1500" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+    <Media container="mp4" height="480" width="640" audioCodec="aac" duration="53000" videoCodec="h264" bitrate="450">
+      <Part duration="53000" key="/services/iva/assets/156625/video.mp4?bitrate=450" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="480" width="640" codec="h264" bitrate="450" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+  </Video>
+  <Video url="iva://api.internetvideoarchive.com/2.0/DataService/VideoAssets(593227)?lang=en&amp;bitrates=80,212,450,750,1500,2500,5000,8000&amp;duration=32&amp;adaptive=1&amp;dts=0" key="/system/services/url/lookup?url=iva%3A%2F%2Fapi.internetvideoarchive.com%2F2.0%2FDataService%2FVideoAssets%28593227%29%3Flang%3Den%26bitrates%3D80%2C212%2C450%2C750%2C1500%2C2500%2C5000%2C8000%26duration%3D32%26adaptive%3D1%26dts%3D0" type="clip" relationType="interview" year="2011" title="Captain America: The First Avenger (Kenneth Choi On What Makes Captain America An Appealing Hero)" originallyAvailableAt="2011-08-02" thumb="https://iva-images.plex.tv/content/hdphotos/7407/007407/007407_1264x532_59322713.jpg" ratingKey="iva://api.internetvideoarchive.com/2.0/DataService/VideoAssets(593227)?lang=en&amp;bitrates=80,212,450,750,1500,2500,5000,8000&amp;duration=32&amp;adaptive=1&amp;dts=0">
+    <Media container="mp4" height="1080" width="1920" audioCodec="aac" duration="32000" videoCodec="h264" bitrate="2500">
+      <Part duration="32000" key="/services/iva/assets/593227/video.mp4?bitrate=2500" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="1080" width="1920" codec="h264" bitrate="2500" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+    <Media container="mp4" height="720" width="1280" audioCodec="aac" duration="32000" videoCodec="h264" bitrate="1500">
+      <Part duration="32000" key="/services/iva/assets/593227/video.mp4?bitrate=1500" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="720" width="1280" codec="h264" bitrate="1500" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+    <Media container="mp4" height="480" width="640" audioCodec="aac" duration="32000" videoCodec="h264" bitrate="450">
+      <Part duration="32000" key="/services/iva/assets/593227/video.mp4?bitrate=450" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="480" width="640" codec="h264" bitrate="450" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+  </Video>
+  <Video url="iva://api.internetvideoarchive.com/2.0/DataService/VideoAssets(26278)?lang=en&amp;bitrates=80,212,450,750,1500,2500,5000,8000&amp;duration=40&amp;adaptive=1&amp;dts=0" key="/system/services/url/lookup?url=iva%3A%2F%2Fapi.internetvideoarchive.com%2F2.0%2FDataService%2FVideoAssets%2826278%29%3Flang%3Den%26bitrates%3D80%2C212%2C450%2C750%2C1500%2C2500%2C5000%2C8000%26duration%3D40%26adaptive%3D1%26dts%3D0" type="clip" relationType="interview" year="2011" title="Captain America: The First Avenger (Jj Feild On This Being A Period Piece)" originallyAvailableAt="2011-08-02" thumb="https://iva-images.plex.tv/content/hdphotos/7407/007407/007407_983x553_26278_006.jpg" ratingKey="iva://api.internetvideoarchive.com/2.0/DataService/VideoAssets(26278)?lang=en&amp;bitrates=80,212,450,750,1500,2500,5000,8000&amp;duration=40&amp;adaptive=1&amp;dts=0">
+    <Media container="mp4" height="1080" width="1920" audioCodec="aac" duration="40000" videoCodec="h264" bitrate="2500">
+      <Part duration="40000" key="/services/iva/assets/26278/video.mp4?bitrate=2500" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="1080" width="1920" codec="h264" bitrate="2500" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+    <Media container="mp4" height="720" width="1280" audioCodec="aac" duration="40000" videoCodec="h264" bitrate="1500">
+      <Part duration="40000" key="/services/iva/assets/26278/video.mp4?bitrate=1500" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="720" width="1280" codec="h264" bitrate="1500" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+    <Media container="mp4" height="480" width="640" audioCodec="aac" duration="40000" videoCodec="h264" bitrate="450">
+      <Part duration="40000" key="/services/iva/assets/26278/video.mp4?bitrate=450" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="480" width="640" codec="h264" bitrate="450" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+  </Video>
+  <Video url="iva://api.internetvideoarchive.com/2.0/DataService/VideoAssets(658684)?lang=en&amp;bitrates=80,212,450,750,1500,2500,5000,8000&amp;duration=31&amp;adaptive=1&amp;dts=0" key="/system/services/url/lookup?url=iva%3A%2F%2Fapi.internetvideoarchive.com%2F2.0%2FDataService%2FVideoAssets%28658684%29%3Flang%3Den%26bitrates%3D80%2C212%2C450%2C750%2C1500%2C2500%2C5000%2C8000%26duration%3D31%26adaptive%3D1%26dts%3D0" type="clip" relationType="interview" year="2011" title="Captain America: The First Avenger (Jj Feild On Chris Evans As Captain America)" originallyAvailableAt="2011-08-02" thumb="https://iva-images.plex.tv/content/hdphotos/7407/007407/007407_1264x532_65868424.jpg" ratingKey="iva://api.internetvideoarchive.com/2.0/DataService/VideoAssets(658684)?lang=en&amp;bitrates=80,212,450,750,1500,2500,5000,8000&amp;duration=31&amp;adaptive=1&amp;dts=0">
+    <Media container="mp4" height="1080" width="1920" audioCodec="aac" duration="31000" videoCodec="h264" bitrate="2500">
+      <Part duration="31000" key="/services/iva/assets/658684/video.mp4?bitrate=2500" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="1080" width="1920" codec="h264" bitrate="2500" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+    <Media container="mp4" height="720" width="1280" audioCodec="aac" duration="31000" videoCodec="h264" bitrate="1500">
+      <Part duration="31000" key="/services/iva/assets/658684/video.mp4?bitrate=1500" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="720" width="1280" codec="h264" bitrate="1500" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+    <Media container="mp4" height="480" width="640" audioCodec="aac" duration="31000" videoCodec="h264" bitrate="450">
+      <Part duration="31000" key="/services/iva/assets/658684/video.mp4?bitrate=450" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="480" width="640" codec="h264" bitrate="450" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+  </Video>
+  <Video url="iva://api.internetvideoarchive.com/2.0/DataService/VideoAssets(680192)?lang=en&amp;bitrates=80,212,450,750,1500,2500,5000,8000&amp;duration=28&amp;adaptive=1&amp;dts=0" key="/system/services/url/lookup?url=iva%3A%2F%2Fapi.internetvideoarchive.com%2F2.0%2FDataService%2FVideoAssets%28680192%29%3Flang%3Den%26bitrates%3D80%2C212%2C450%2C750%2C1500%2C2500%2C5000%2C8000%26duration%3D28%26adaptive%3D1%26dts%3D0" type="clip" relationType="interview" year="2011" title="Captain America: The First Avenger (Hugo Weaving On The Film's Message)" originallyAvailableAt="2011-08-02" thumb="https://iva-images.plex.tv/content/hdphotos/7407/007407/007407_1264x532_68019216.jpg" ratingKey="iva://api.internetvideoarchive.com/2.0/DataService/VideoAssets(680192)?lang=en&amp;bitrates=80,212,450,750,1500,2500,5000,8000&amp;duration=28&amp;adaptive=1&amp;dts=0">
+    <Media container="mp4" height="1080" width="1920" audioCodec="aac" duration="28000" videoCodec="h264" bitrate="2500">
+      <Part duration="28000" key="/services/iva/assets/680192/video.mp4?bitrate=2500" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="1080" width="1920" codec="h264" bitrate="2500" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+    <Media container="mp4" height="720" width="1280" audioCodec="aac" duration="28000" videoCodec="h264" bitrate="1500">
+      <Part duration="28000" key="/services/iva/assets/680192/video.mp4?bitrate=1500" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="720" width="1280" codec="h264" bitrate="1500" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+    <Media container="mp4" height="480" width="640" audioCodec="aac" duration="28000" videoCodec="h264" bitrate="450">
+      <Part duration="28000" key="/services/iva/assets/680192/video.mp4?bitrate=450" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="480" width="640" codec="h264" bitrate="450" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+  </Video>
+  <Video url="iva://api.internetvideoarchive.com/2.0/DataService/VideoAssets(345071)?lang=en&amp;bitrates=80,212,450,750,1500,2500,5000,8000&amp;duration=69&amp;adaptive=1&amp;dts=0" key="/system/services/url/lookup?url=iva%3A%2F%2Fapi.internetvideoarchive.com%2F2.0%2FDataService%2FVideoAssets%28345071%29%3Flang%3Den%26bitrates%3D80%2C212%2C450%2C750%2C1500%2C2500%2C5000%2C8000%26duration%3D69%26adaptive%3D1%26dts%3D0" type="clip" relationType="interview" year="2011" title="Captain America: The First Avenger (Hugo Weaving On His Character Red Skull)" originallyAvailableAt="2011-08-02" thumb="https://iva-images.plex.tv/content/hdphotos/7407/007407/007407_1264x532_34507113.jpg" ratingKey="iva://api.internetvideoarchive.com/2.0/DataService/VideoAssets(345071)?lang=en&amp;bitrates=80,212,450,750,1500,2500,5000,8000&amp;duration=69&amp;adaptive=1&amp;dts=0">
+    <Media container="mp4" height="1080" width="1920" audioCodec="aac" duration="69000" videoCodec="h264" bitrate="2500">
+      <Part duration="69000" key="/services/iva/assets/345071/video.mp4?bitrate=2500" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="1080" width="1920" codec="h264" bitrate="2500" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+    <Media container="mp4" height="720" width="1280" audioCodec="aac" duration="69000" videoCodec="h264" bitrate="1500">
+      <Part duration="69000" key="/services/iva/assets/345071/video.mp4?bitrate=1500" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="720" width="1280" codec="h264" bitrate="1500" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+    <Media container="mp4" height="480" width="640" audioCodec="aac" duration="69000" videoCodec="h264" bitrate="450">
+      <Part duration="69000" key="/services/iva/assets/345071/video.mp4?bitrate=450" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="480" width="640" codec="h264" bitrate="450" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+  </Video>
+  <Video url="iva://api.internetvideoarchive.com/2.0/DataService/VideoAssets(515794)?lang=en&amp;bitrates=80,212,450,750,1500,8000&amp;duration=49&amp;adaptive=1&amp;dts=0" key="/system/services/url/lookup?url=iva%3A%2F%2Fapi.internetvideoarchive.com%2F2.0%2FDataService%2FVideoAssets%28515794%29%3Flang%3Den%26bitrates%3D80%2C212%2C450%2C750%2C1500%2C8000%26duration%3D49%26adaptive%3D1%26dts%3D0" type="clip" relationType="interview" year="2011" title="Captain America: The First Avenger (Hayley Atwell On Her Character Peggy)" originallyAvailableAt="2011-08-02" thumb="https://iva-images.plex.tv/content/hdphotos/7407/007407/007407_928x532_51579412.jpg" ratingKey="iva://api.internetvideoarchive.com/2.0/DataService/VideoAssets(515794)?lang=en&amp;bitrates=80,212,450,750,1500,8000&amp;duration=49&amp;adaptive=1&amp;dts=0">
+    <Media container="mp4" height="720" width="1280" audioCodec="aac" duration="49000" videoCodec="h264" bitrate="1500">
+      <Part duration="49000" key="/services/iva/assets/515794/video.mp4?bitrate=1500" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="720" width="1280" codec="h264" bitrate="1500" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+    <Media container="mp4" height="480" width="640" audioCodec="aac" duration="49000" videoCodec="h264" bitrate="750">
+      <Part duration="49000" key="/services/iva/assets/515794/video.mp4?bitrate=750" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="480" width="640" codec="h264" bitrate="750" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+    <Media container="mp4" height="480" width="640" audioCodec="aac" duration="49000" videoCodec="h264" bitrate="450">
+      <Part duration="49000" key="/services/iva/assets/515794/video.mp4?bitrate=450" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="480" width="640" codec="h264" bitrate="450" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+  </Video>
+  <Video url="iva://api.internetvideoarchive.com/2.0/DataService/VideoAssets(709486)?lang=en&amp;bitrates=80,212,450,750,1500,8000&amp;duration=50&amp;adaptive=1&amp;dts=0" key="/system/services/url/lookup?url=iva%3A%2F%2Fapi.internetvideoarchive.com%2F2.0%2FDataService%2FVideoAssets%28709486%29%3Flang%3Den%26bitrates%3D80%2C212%2C450%2C750%2C1500%2C8000%26duration%3D50%26adaptive%3D1%26dts%3D0" type="clip" relationType="interview" year="2011" title="Captain America: The First Avenger (Hayley Atwell On What Drew Her To The Character Peggy)" originallyAvailableAt="2011-08-02" thumb="https://iva-images.plex.tv/content/hdphotos/7407/007407/007407_880x532_70948629.jpg" ratingKey="iva://api.internetvideoarchive.com/2.0/DataService/VideoAssets(709486)?lang=en&amp;bitrates=80,212,450,750,1500,8000&amp;duration=50&amp;adaptive=1&amp;dts=0">
+    <Media container="mp4" height="720" width="1280" audioCodec="aac" duration="50000" videoCodec="h264" bitrate="1500">
+      <Part duration="50000" key="/services/iva/assets/709486/video.mp4?bitrate=1500" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="720" width="1280" codec="h264" bitrate="1500" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+    <Media container="mp4" height="480" width="640" audioCodec="aac" duration="50000" videoCodec="h264" bitrate="750">
+      <Part duration="50000" key="/services/iva/assets/709486/video.mp4?bitrate=750" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="480" width="640" codec="h264" bitrate="750" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+    <Media container="mp4" height="480" width="640" audioCodec="aac" duration="50000" videoCodec="h264" bitrate="450">
+      <Part duration="50000" key="/services/iva/assets/709486/video.mp4?bitrate=450" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="480" width="640" codec="h264" bitrate="450" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+  </Video>
+  <Video url="iva://api.internetvideoarchive.com/2.0/DataService/VideoAssets(357370)?lang=en&amp;bitrates=80,212,450,750,1500,2500,5000,8000&amp;duration=55&amp;adaptive=1&amp;dts=0" key="/system/services/url/lookup?url=iva%3A%2F%2Fapi.internetvideoarchive.com%2F2.0%2FDataService%2FVideoAssets%28357370%29%3Flang%3Den%26bitrates%3D80%2C212%2C450%2C750%2C1500%2C2500%2C5000%2C8000%26duration%3D55%26adaptive%3D1%26dts%3D0" type="clip" relationType="interview" year="2011" title="Captain America: The First Avenger (Dominic Cooper On Chris Evans As Captain America)" originallyAvailableAt="2011-08-02" thumb="https://iva-images.plex.tv/content/hdphotos/7407/007407/007407_1280x666_35737019.jpg" ratingKey="iva://api.internetvideoarchive.com/2.0/DataService/VideoAssets(357370)?lang=en&amp;bitrates=80,212,450,750,1500,2500,5000,8000&amp;duration=55&amp;adaptive=1&amp;dts=0">
+    <Media container="mp4" height="1080" width="1920" audioCodec="aac" duration="55000" videoCodec="h264" bitrate="2500">
+      <Part duration="55000" key="/services/iva/assets/357370/video.mp4?bitrate=2500" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="1080" width="1920" codec="h264" bitrate="2500" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+    <Media container="mp4" height="720" width="1280" audioCodec="aac" duration="55000" videoCodec="h264" bitrate="1500">
+      <Part duration="55000" key="/services/iva/assets/357370/video.mp4?bitrate=1500" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="720" width="1280" codec="h264" bitrate="1500" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+    <Media container="mp4" height="480" width="640" audioCodec="aac" duration="55000" videoCodec="h264" bitrate="450">
+      <Part duration="55000" key="/services/iva/assets/357370/video.mp4?bitrate=450" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="480" width="640" codec="h264" bitrate="450" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+  </Video>
+  <Video url="iva://api.internetvideoarchive.com/2.0/DataService/VideoAssets(801942)?lang=en&amp;bitrates=80,212,450,750,1500,2500,5000,8000&amp;duration=61&amp;adaptive=1&amp;dts=0" key="/system/services/url/lookup?url=iva%3A%2F%2Fapi.internetvideoarchive.com%2F2.0%2FDataService%2FVideoAssets%28801942%29%3Flang%3Den%26bitrates%3D80%2C212%2C450%2C750%2C1500%2C2500%2C5000%2C8000%26duration%3D61%26adaptive%3D1%26dts%3D0" type="clip" relationType="interview" year="2011" title="Captain America: The First Avenger (Dominic Cooper On Fleshing Out The Character)" originallyAvailableAt="2011-08-02" thumb="https://iva-images.plex.tv/content/hdphotos/7407/007407/007407_1264x532_80194216.jpg" ratingKey="iva://api.internetvideoarchive.com/2.0/DataService/VideoAssets(801942)?lang=en&amp;bitrates=80,212,450,750,1500,2500,5000,8000&amp;duration=61&amp;adaptive=1&amp;dts=0">
+    <Media container="mp4" height="1080" width="1920" audioCodec="aac" duration="61000" videoCodec="h264" bitrate="2500">
+      <Part duration="61000" key="/services/iva/assets/801942/video.mp4?bitrate=2500" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="1080" width="1920" codec="h264" bitrate="2500" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+    <Media container="mp4" height="720" width="1280" audioCodec="aac" duration="61000" videoCodec="h264" bitrate="1500">
+      <Part duration="61000" key="/services/iva/assets/801942/video.mp4?bitrate=1500" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="720" width="1280" codec="h264" bitrate="1500" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+    <Media container="mp4" height="480" width="640" audioCodec="aac" duration="61000" videoCodec="h264" bitrate="450">
+      <Part duration="61000" key="/services/iva/assets/801942/video.mp4?bitrate=450" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="480" width="640" codec="h264" bitrate="450" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+  </Video>
+  <Video url="iva://api.internetvideoarchive.com/2.0/DataService/VideoAssets(26554)?lang=en&amp;bitrates=80,212,450,750,1500,2500,5000,8000&amp;duration=25&amp;adaptive=1&amp;dts=0" key="/system/services/url/lookup?url=iva%3A%2F%2Fapi.internetvideoarchive.com%2F2.0%2FDataService%2FVideoAssets%2826554%29%3Flang%3Den%26bitrates%3D80%2C212%2C450%2C750%2C1500%2C2500%2C5000%2C8000%26duration%3D25%26adaptive%3D1%26dts%3D0" type="clip" relationType="interview" year="2011" title="Captain America: The First Avenger (Derek Luke On The Rabid Fan Base)" originallyAvailableAt="2011-08-02" thumb="https://iva-images.plex.tv/content/hdphotos/7407/007407/007407_978x550_26554_007.jpg" ratingKey="iva://api.internetvideoarchive.com/2.0/DataService/VideoAssets(26554)?lang=en&amp;bitrates=80,212,450,750,1500,2500,5000,8000&amp;duration=25&amp;adaptive=1&amp;dts=0">
+    <Media container="mp4" height="1080" width="1920" audioCodec="aac" duration="25000" videoCodec="h264" bitrate="2500">
+      <Part duration="25000" key="/services/iva/assets/26554/video.mp4?bitrate=2500" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="1080" width="1920" codec="h264" bitrate="2500" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+    <Media container="mp4" height="720" width="1280" audioCodec="aac" duration="25000" videoCodec="h264" bitrate="1500">
+      <Part duration="25000" key="/services/iva/assets/26554/video.mp4?bitrate=1500" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="720" width="1280" codec="h264" bitrate="1500" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+    <Media container="mp4" height="480" width="640" audioCodec="aac" duration="25000" videoCodec="h264" bitrate="450">
+      <Part duration="25000" key="/services/iva/assets/26554/video.mp4?bitrate=450" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="480" width="640" codec="h264" bitrate="450" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+  </Video>
+  <Video url="iva://api.internetvideoarchive.com/2.0/DataService/VideoAssets(396475)?lang=en&amp;bitrates=80,212,450,750,1500,2500,5000,8000&amp;duration=36&amp;adaptive=1&amp;dts=0" key="/system/services/url/lookup?url=iva%3A%2F%2Fapi.internetvideoarchive.com%2F2.0%2FDataService%2FVideoAssets%28396475%29%3Flang%3Den%26bitrates%3D80%2C212%2C450%2C750%2C1500%2C2500%2C5000%2C8000%26duration%3D36%26adaptive%3D1%26dts%3D0" type="clip" relationType="interview" year="2011" title="Captain America: The First Avenger (Derek Luke On The Howling Commandos)" originallyAvailableAt="2011-08-02" thumb="https://iva-images.plex.tv/content/hdphotos/7407/007407/007407_1264x532_39647513.jpg" ratingKey="iva://api.internetvideoarchive.com/2.0/DataService/VideoAssets(396475)?lang=en&amp;bitrates=80,212,450,750,1500,2500,5000,8000&amp;duration=36&amp;adaptive=1&amp;dts=0">
+    <Media container="mp4" height="1080" width="1920" audioCodec="aac" duration="36000" videoCodec="h264" bitrate="2500">
+      <Part duration="36000" key="/services/iva/assets/396475/video.mp4?bitrate=2500" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="1080" width="1920" codec="h264" bitrate="2500" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+    <Media container="mp4" height="720" width="1280" audioCodec="aac" duration="36000" videoCodec="h264" bitrate="1500">
+      <Part duration="36000" key="/services/iva/assets/396475/video.mp4?bitrate=1500" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="720" width="1280" codec="h264" bitrate="1500" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+    <Media container="mp4" height="480" width="640" audioCodec="aac" duration="36000" videoCodec="h264" bitrate="450">
+      <Part duration="36000" key="/services/iva/assets/396475/video.mp4?bitrate=450" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="480" width="640" codec="h264" bitrate="450" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+  </Video>
+  <Video url="iva://api.internetvideoarchive.com/2.0/DataService/VideoAssets(272686)?lang=en&amp;bitrates=80,212,450,750,1500,2500,5000,8000&amp;duration=26&amp;adaptive=1&amp;dts=0" key="/system/services/url/lookup?url=iva%3A%2F%2Fapi.internetvideoarchive.com%2F2.0%2FDataService%2FVideoAssets%28272686%29%3Flang%3Den%26bitrates%3D80%2C212%2C450%2C750%2C1500%2C2500%2C5000%2C8000%26duration%3D26%26adaptive%3D1%26dts%3D0" type="clip" relationType="interview" year="2011" title="Captain America: The First Avenger (Chris Evans-On Director Joe Johnston)" originallyAvailableAt="2011-08-02" thumb="https://iva-images.plex.tv/content/hdphotos/7407/007407/007407_1264x532_27268626.jpg" ratingKey="iva://api.internetvideoarchive.com/2.0/DataService/VideoAssets(272686)?lang=en&amp;bitrates=80,212,450,750,1500,2500,5000,8000&amp;duration=26&amp;adaptive=1&amp;dts=0">
+    <Media container="mp4" height="1080" width="1920" audioCodec="aac" duration="26000" videoCodec="h264" bitrate="2500">
+      <Part duration="26000" key="/services/iva/assets/272686/video.mp4?bitrate=2500" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="1080" width="1920" codec="h264" bitrate="2500" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+    <Media container="mp4" height="720" width="1280" audioCodec="aac" duration="26000" videoCodec="h264" bitrate="1500">
+      <Part duration="26000" key="/services/iva/assets/272686/video.mp4?bitrate=1500" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="720" width="1280" codec="h264" bitrate="1500" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+    <Media container="mp4" height="480" width="640" audioCodec="aac" duration="26000" videoCodec="h264" bitrate="450">
+      <Part duration="26000" key="/services/iva/assets/272686/video.mp4?bitrate=450" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="480" width="640" codec="h264" bitrate="450" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+  </Video>
+  <Video url="iva://api.internetvideoarchive.com/2.0/DataService/VideoAssets(221701)?lang=en&amp;bitrates=80,212,450,750,1500,2500,5000,8000&amp;duration=25&amp;adaptive=1&amp;dts=0" key="/system/services/url/lookup?url=iva%3A%2F%2Fapi.internetvideoarchive.com%2F2.0%2FDataService%2FVideoAssets%28221701%29%3Flang%3Den%26bitrates%3D80%2C212%2C450%2C750%2C1500%2C2500%2C5000%2C8000%26duration%3D25%26adaptive%3D1%26dts%3D0" type="clip" relationType="interview" year="2011" title="Captain America: The First Avenger (Chris Evans-On The Rabid Fan Base)" originallyAvailableAt="2011-08-02" thumb="https://iva-images.plex.tv/content/hdphotos/7407/007407/007407_1264x532_22170114.jpg" ratingKey="iva://api.internetvideoarchive.com/2.0/DataService/VideoAssets(221701)?lang=en&amp;bitrates=80,212,450,750,1500,2500,5000,8000&amp;duration=25&amp;adaptive=1&amp;dts=0">
+    <Media container="mp4" height="1080" width="1920" audioCodec="aac" duration="25000" videoCodec="h264" bitrate="2500">
+      <Part duration="25000" key="/services/iva/assets/221701/video.mp4?bitrate=2500" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="1080" width="1920" codec="h264" bitrate="2500" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+    <Media container="mp4" height="720" width="1280" audioCodec="aac" duration="25000" videoCodec="h264" bitrate="1500">
+      <Part duration="25000" key="/services/iva/assets/221701/video.mp4?bitrate=1500" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="720" width="1280" codec="h264" bitrate="1500" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+    <Media container="mp4" height="480" width="640" audioCodec="aac" duration="25000" videoCodec="h264" bitrate="450">
+      <Part duration="25000" key="/services/iva/assets/221701/video.mp4?bitrate=450" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="480" width="640" codec="h264" bitrate="450" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+  </Video>
+  <Video url="iva://api.internetvideoarchive.com/2.0/DataService/VideoAssets(613258)?lang=en&amp;bitrates=80,212,450,750,1500,2500,5000,8000&amp;duration=47&amp;adaptive=1&amp;dts=0" key="/system/services/url/lookup?url=iva%3A%2F%2Fapi.internetvideoarchive.com%2F2.0%2FDataService%2FVideoAssets%28613258%29%3Flang%3Den%26bitrates%3D80%2C212%2C450%2C750%2C1500%2C2500%2C5000%2C8000%26duration%3D47%26adaptive%3D1%26dts%3D0" type="clip" relationType="interview" year="2011" title="Captain America: The First Avenger (Chris Evans-On What Makes Captain America An Appealing Hero)" originallyAvailableAt="2011-08-02" thumb="https://iva-images.plex.tv/content/hdphotos/7407/007407/007407_1264x532_61325821.jpg" ratingKey="iva://api.internetvideoarchive.com/2.0/DataService/VideoAssets(613258)?lang=en&amp;bitrates=80,212,450,750,1500,2500,5000,8000&amp;duration=47&amp;adaptive=1&amp;dts=0">
+    <Media container="mp4" height="1080" width="1920" audioCodec="aac" duration="47000" videoCodec="h264" bitrate="2500">
+      <Part duration="47000" key="/services/iva/assets/613258/video.mp4?bitrate=2500" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="1080" width="1920" codec="h264" bitrate="2500" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+    <Media container="mp4" height="720" width="1280" audioCodec="aac" duration="47000" videoCodec="h264" bitrate="1500">
+      <Part duration="47000" key="/services/iva/assets/613258/video.mp4?bitrate=1500" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="720" width="1280" codec="h264" bitrate="1500" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+    <Media container="mp4" height="480" width="640" audioCodec="aac" duration="47000" videoCodec="h264" bitrate="450">
+      <Part duration="47000" key="/services/iva/assets/613258/video.mp4?bitrate=450" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="480" width="640" codec="h264" bitrate="450" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+  </Video>
+  <Video url="iva://api.internetvideoarchive.com/2.0/DataService/VideoAssets(794469)?lang=en&amp;bitrates=80,212,450,750,1500,2500,5000,8000&amp;duration=31&amp;adaptive=1&amp;dts=0" key="/system/services/url/lookup?url=iva%3A%2F%2Fapi.internetvideoarchive.com%2F2.0%2FDataService%2FVideoAssets%28794469%29%3Flang%3Den%26bitrates%3D80%2C212%2C450%2C750%2C1500%2C2500%2C5000%2C8000%26duration%3D31%26adaptive%3D1%26dts%3D0" type="clip" relationType="interview" year="2011" title="Captain America: The First Avenger (Chris Evans-On How He Prepared For The Role)" originallyAvailableAt="2011-08-02" thumb="https://iva-images.plex.tv/content/hdphotos/7407/007407/007407_1264x532_79446917.jpg" ratingKey="iva://api.internetvideoarchive.com/2.0/DataService/VideoAssets(794469)?lang=en&amp;bitrates=80,212,450,750,1500,2500,5000,8000&amp;duration=31&amp;adaptive=1&amp;dts=0">
+    <Media container="mp4" height="1080" width="1920" audioCodec="aac" duration="31000" videoCodec="h264" bitrate="2500">
+      <Part duration="31000" key="/services/iva/assets/794469/video.mp4?bitrate=2500" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="1080" width="1920" codec="h264" bitrate="2500" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+    <Media container="mp4" height="720" width="1280" audioCodec="aac" duration="31000" videoCodec="h264" bitrate="1500">
+      <Part duration="31000" key="/services/iva/assets/794469/video.mp4?bitrate=1500" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="720" width="1280" codec="h264" bitrate="1500" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+    <Media container="mp4" height="480" width="640" audioCodec="aac" duration="31000" videoCodec="h264" bitrate="450">
+      <Part duration="31000" key="/services/iva/assets/794469/video.mp4?bitrate=450" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="480" width="640" codec="h264" bitrate="450" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+  </Video>
+  <Video url="iva://api.internetvideoarchive.com/2.0/DataService/VideoAssets(944435)?lang=en&amp;bitrates=80,212,450,750,1500,2500,5000,8000&amp;duration=26&amp;adaptive=1&amp;dts=0" key="/system/services/url/lookup?url=iva%3A%2F%2Fapi.internetvideoarchive.com%2F2.0%2FDataService%2FVideoAssets%28944435%29%3Flang%3Den%26bitrates%3D80%2C212%2C450%2C750%2C1500%2C2500%2C5000%2C8000%26duration%3D26%26adaptive%3D1%26dts%3D0" type="clip" relationType="interview" year="2011" title="Captain America: The First Avenger (Chris Evans-On The Storyline)" originallyAvailableAt="2011-08-02" thumb="https://iva-images.plex.tv/content/hdphotos/7407/007407/007407_1264x532_94443527.jpg" ratingKey="iva://api.internetvideoarchive.com/2.0/DataService/VideoAssets(944435)?lang=en&amp;bitrates=80,212,450,750,1500,2500,5000,8000&amp;duration=26&amp;adaptive=1&amp;dts=0">
+    <Media container="mp4" height="1080" width="1920" audioCodec="aac" duration="26000" videoCodec="h264" bitrate="2500">
+      <Part duration="26000" key="/services/iva/assets/944435/video.mp4?bitrate=2500" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="1080" width="1920" codec="h264" bitrate="2500" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+    <Media container="mp4" height="720" width="1280" audioCodec="aac" duration="26000" videoCodec="h264" bitrate="1500">
+      <Part duration="26000" key="/services/iva/assets/944435/video.mp4?bitrate=1500" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="720" width="1280" codec="h264" bitrate="1500" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+    <Media container="mp4" height="480" width="640" audioCodec="aac" duration="26000" videoCodec="h264" bitrate="450">
+      <Part duration="26000" key="/services/iva/assets/944435/video.mp4?bitrate=450" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="480" width="640" codec="h264" bitrate="450" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+  </Video>
+</MediaContainer>

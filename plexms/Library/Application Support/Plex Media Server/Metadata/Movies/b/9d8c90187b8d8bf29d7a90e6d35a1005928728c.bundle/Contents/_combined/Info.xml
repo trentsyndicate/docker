@@ -1,0 +1,491 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Movie>
+  <art>
+    <item external="True" url="http://image.tmdb.org/t/p/original/8aoNKa1zDnx1jrsBCJbQ2fc4hVo.jpg" sort_order="1" provider="com.plexapp.agents.imdb" media="com.plexapp.agents.imdb_03f02304fe86110f91950df8946ac3b1d70afe1d"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/q7fXcrDPJcf6t3rzutaNwTzuKP1.jpg" preview="com.plexapp.agents.imdb_73a84b90e1f654b2d420c86fb1155009e9a9396e" sort_order="2" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/5a7lMDn3nAj2ByO0X1fg6BhUphR.jpg" preview="com.plexapp.agents.imdb_3a86098efcb4a74cc9695bf3fab828958be455a9" sort_order="3" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/28bh4gGe5UF1gsGjaDRQ6Wxh8cK.jpg" preview="com.plexapp.agents.imdb_fb46c4cf530ca9088811aa69bbee551e80483135" sort_order="4" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/4ji7jWNdGrdAqXTX3ZdhaxKTCBJ.jpg" preview="com.plexapp.agents.imdb_02bc0b7f6666a7ec802fe49f2039f5a61f22894d" sort_order="5" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/r8Bu8001L0GlOBNsA3Gz7mly510.jpg" preview="com.plexapp.agents.imdb_529adaa93e53099c65f133d170201972e31b84db" sort_order="6" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/gKGEFGChS5dbbLsxmgPm3S5b67r.jpg" preview="com.plexapp.agents.imdb_fdb8ad35d0851af4fb9f9cdd48bb63dd463fb4f8" sort_order="7" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/4f9HoWfuSsQKpKDnbMcDEVAs1Rh.jpg" preview="com.plexapp.agents.imdb_66a68e7bb765bffcaa19eaea0dd7af49f2025c33" sort_order="8" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/mi46w8NespbJ2426Gu7QNrtzdVN.jpg" preview="com.plexapp.agents.imdb_ccc5aadcbd10b277ff2b7d3b8b7b6c8c1cc04f4b" sort_order="9" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/1fZ7dWmgOMeBhTY4bXogbv3AMxw.jpg" preview="com.plexapp.agents.imdb_f3efce8eef44f7ad3046149351b8e76ac92dc8bc" sort_order="10" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/xkNhv52U8LSFQe5fUCAiou1JT2J.jpg" preview="com.plexapp.agents.imdb_36aeafb9083ca5b7c5b28f2706a6d870865f4d31" sort_order="11" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/pMpc6zRMV7CZ0HmkzLsv58HRWB9.jpg" preview="com.plexapp.agents.imdb_4d2e11c1c65e0b46ec1c71ffec618f8d8a0fa6ba" sort_order="12" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/oDhO55PzofdAumMsVDi2rxOVABD.jpg" preview="com.plexapp.agents.imdb_49558f19d0208693ef817668750d56244928208e" sort_order="13" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/hsgNTMRn3xGRHx3MYfeRYZgiau7.jpg" preview="com.plexapp.agents.imdb_5c4a053f494e669cb4364b96b492f08d042fceea" sort_order="14" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/9GPRlf1tMiKKRr9P4tqDCyHExOh.jpg" preview="com.plexapp.agents.imdb_d54206e9c5760726988707e9b6c23a13c753ba2d" sort_order="15" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/N4JAWA8rwd9tAyWt7m5pV3H6Mi.jpg" preview="com.plexapp.agents.imdb_07a6ff1fdacd85698391f56a01b6707ceb58d87c" sort_order="16" provider="com.plexapp.agents.imdb"/>
+  </art>
+  <banners/>
+  <chapters/>
+  <collections/>
+  <content_rating>PG-13</content_rating>
+  <countries>
+    <item index="0">USA</item>
+  </countries>
+  <directors>
+    <item index="0">
+      <photo>http://image.tmdb.org/t/p/original/pOK15UNaw75Bzj7BQO1ulehbPPm.jpg</photo>
+      <role/>
+      <name>Steven Spielberg</name>
+    </item>
+  </directors>
+  <duration>8400000</duration>
+  <genres>
+    <item index="0">Action</item>
+    <item index="1">Adventure</item>
+    <item index="2">Sci-Fi</item>
+  </genres>
+  <originally_available_at>2018-03-28</originally_available_at>
+  <posters>
+    <item external="True" url="http://image.tmdb.org/t/p/original/pU1ULUq8D3iRxl1fdX2lZIzdHuI.jpg" sort_order="1" provider="com.plexapp.agents.imdb" media="com.plexapp.agents.imdb_abac9a37949f6e572d6031cd7c9b645f3b8f08b1"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/je8f7Frg1uNWOzDnKMmj7maRnWF.jpg" preview="com.plexapp.agents.imdb_a2cb46f85292224cd710a6a1ca0f9b2729bafe96" sort_order="2" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/8zGvbF133DuRcj8dA4IYIkouy5Y.jpg" preview="com.plexapp.agents.imdb_fe70945510d36b7db4c25cea20cd3a399a4900b2" sort_order="3" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/cLLbC9i9E8HqeRbJUXzQxPscvd5.jpg" preview="com.plexapp.agents.imdb_99e490d92b7ac05a549273b699082f4e495e49d6" sort_order="4" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/lDSNU5v9FjWAHAVpK6a4Bgl6J0C.jpg" preview="com.plexapp.agents.imdb_0cc33d59f4f43420a7b5cd940db07dbfe372c5a0" sort_order="5" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/eVVjEvhYZltgmp9wK3C6ZXSd6FY.jpg" preview="com.plexapp.agents.imdb_7477addc5df0195977ad8c6fe1086d876fe2819f" sort_order="6" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/kSFRo0IACORQp7zZhl5NNDN6VNm.jpg" preview="com.plexapp.agents.imdb_95fca5c6b4e196e5fe25b73211e6eb8dde473ead" sort_order="7" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/zn7mPb9F3a8oYGLBLIWOa0Zmixf.jpg" preview="com.plexapp.agents.imdb_dabbda1e5a9ae345459bf9fecbd3203519b5342f" sort_order="8" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/FGlyrofLi6NYqGZ4lRrJNGZf73.jpg" preview="com.plexapp.agents.imdb_9192c68842c1cff672d0b3df294489de5731d8c1" sort_order="9" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/lB5dq2jhHxpk9W3m938q9fHz7Jh.jpg" preview="com.plexapp.agents.imdb_b275b8b6c55c5d8f858802371ee4077e44441b52" sort_order="10" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/n99BOeaRjwU9rvnwQfzfwBIvx48.jpg" preview="com.plexapp.agents.imdb_8f08dd517f68b702e85ae32cc11796f3ef70f26b" sort_order="11" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/yRAOea9uRypMIFJHymR1PAZrGbD.jpg" preview="com.plexapp.agents.imdb_6cb472024371ed4fbe97dc7e9c668cd80e37d85c" sort_order="12" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/xXKByLAlt0UaPzThqOZmcoNwoKr.jpg" preview="com.plexapp.agents.imdb_48fc1b10616e204539eef1a077890ee659cd3e23" sort_order="13" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/ufWBPVAlDo0ZZiOf45nSNqoqrX8.jpg" preview="com.plexapp.agents.imdb_089821790c48f1d10d1a74fccb08dc7d7cde5e5a" sort_order="14" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/5NnAePbFGk0NlvsPdRBdlhYZzrC.jpg" preview="com.plexapp.agents.imdb_746d613e8461b4bb0961e5636bad43f484b124f7" sort_order="15" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/nzinnrSEnXIVw9ib6BCmUV6dvt3.jpg" preview="com.plexapp.agents.imdb_6173452580d218ccbb6cc18924d1c3509662a083" sort_order="16" provider="com.plexapp.agents.imdb"/>
+  </posters>
+  <producers>
+    <item index="0">
+      <photo/>
+      <role/>
+      <name>Donald De Line</name>
+    </item>
+    <item index="1">
+      <photo/>
+      <role/>
+      <name>Dan Farah</name>
+    </item>
+    <item index="2">
+      <photo/>
+      <role/>
+      <name>Kristie Macosko Krieger</name>
+    </item>
+    <item index="3">
+      <photo>http://image.tmdb.org/t/p/original/pOK15UNaw75Bzj7BQO1ulehbPPm.jpg</photo>
+      <role/>
+      <name>Steven Spielberg</name>
+    </item>
+  </producers>
+  <rating>7.3</rating>
+  <rating_image>rottentomatoes://image.rating.ripe</rating_image>
+  <audience_rating>7.9</audience_rating>
+  <audience_rating_image>rottentomatoes://image.rating.upright</audience_rating_image>
+  <reviews>
+    <item index="0">
+      <text>It is, despite Spielberg's claims, neither a purehearted popcorn flick nor a Paul Verhoevenesque subversion, but something uneasily in between, cowed by the idea of the fanboy demographic.</text>
+      <source>BuzzFeed News</source>
+      <image>rottentomatoes://image.review.rotten</image>
+      <link>https://www.buzzfeed.com/alisonwillmore/ready-player-one-steven-spielberg-fandom?utm_term=.rlNPeeq00o#.fljYEEP66M</link>
+      <author>Alison Willmore</author>
+    </item>
+    <item index="1">
+      <text>I saw the film in IMAX, and a week later I'm still waiting for the safe return of my optic nerves, but it was the meagre emotional charge that shocked me most.</text>
+      <source>New Yorker</source>
+      <image>rottentomatoes://image.review.rotten</image>
+      <link>https://www.newyorker.com/magazine/2018/04/09/ready-player-one-and-lean-on-pete</link>
+      <author>Anthony Lane</author>
+    </item>
+    <item index="2">
+      <text>Spielberg wants us to drop the techno-gadgets and join hands, but it's the VR world that really juices him. He's the ultimate fanboy making a movie about the need to move beyond being a fan.</text>
+      <source>Christian Science Monitor</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>https://www.csmonitor.com/The-Culture/Movies/2018/0329/Ready-Player-One-is-a-movie-at-odds-with-itself</link>
+      <author>Peter Rainer</author>
+    </item>
+    <item index="3">
+      <text>So much of Ready Player One is assembled from the detritus of our past that it is less a film and more an overstuffed cultural recycling bin.</text>
+      <source>Globe and Mail</source>
+      <image>rottentomatoes://image.review.rotten</image>
+      <link>https://www.theglobeandmail.com/arts/film/reviews/article-review-ready-player-one-is-an-expensive-trash-heap-of-cultural/</link>
+      <author>Barry Hertz</author>
+    </item>
+    <item index="4">
+      <text>A blast of pure childlike amusement.</text>
+      <source>Detroit News</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>https://www.detroitnews.com/story/entertainment/movies/2018/03/28/movie-review-spielberg-toasts-greats-ready-player-one/33365031/</link>
+      <author>Adam Graham</author>
+    </item>
+    <item index="5">
+      <text>Life in the OASIS is exciting and wondrous to behold through your avatar's oversized anime eyes, but it doesn't mean much without some real-world stakes, and that's where the film stumbles, badly.</text>
+      <source>San Diego Reader</source>
+      <image>rottentomatoes://image.review.rotten</image>
+      <link>https://www.sandiegoreader.com/movies/ready-player-one/</link>
+      <author>Matthew Lickona</author>
+    </item>
+    <item index="6">
+      <text>Haptics weren't needed to feel the emotional pull of his best films; they aimed for the heart and hit much more often than they missed. "Ready Player One" aims for the adrenal gland.</text>
+      <source>Wall Street Journal</source>
+      <image>rottentomatoes://image.review.rotten</image>
+      <link>https://www.wsj.com/articles/ready-player-one-review-motion-trounces-emotion-1522345679</link>
+      <author>Joe Morgenstern</author>
+    </item>
+    <item index="7">
+      <text>Many of the book's references to Spielberg's cultural artifacts have been stripped away, but he imbibes the movie with flashes of colour and heart that rekindle a sense of wonderment that will transport many viewers back to their childhoods.</text>
+      <source>Toronto Sun</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>http://torontosun.com/entertainment/movies/review-ready-player-one-recaptures-that-old-spielberg-magic</link>
+      <author>Mark Daniell</author>
+    </item>
+    <item index="8">
+      <text>Amid this special-effects maelstrom, Wade Watts never emerges as a character, and the taciturn Sheridan is in constant danger of being out-acted by his own avatar. Who can connect with a hero when he's just watching the story?</text>
+      <source>Chicago Reader</source>
+      <image>rottentomatoes://image.review.rotten</image>
+      <link>https://www.chicagoreader.com/chicago/ready-player-one-steven-spielberg/Content?oid=44260292</link>
+      <author>J. R. Jones</author>
+    </item>
+    <item index="9">
+      <text>Just as Ready Player One moves back and forth between fantasy and reality, it's difficult not to admire the facility with which Spielberg oscillates between this sort of sprawling, popcorn-munching exercise and a character-driven historical drama.</text>
+      <source>CNN.com</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>https://www.cnn.com/2018/03/29/entertainment/ready-player-one-review/index.html</link>
+      <author>Brian Lowry</author>
+    </item>
+    <item index="10">
+      <text>A lively and agreeable work of fanboy art - a first-rate film fashioned from secondhand materials.</text>
+      <source>New York Magazine/Vulture</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>http://www.vulture.com/2018/03/ready-player-one-review.html</link>
+      <author>David Edelstein</author>
+    </item>
+    <item index="11">
+      <text>For all its faults, the movie has a sense of fun that is hard to ignore, and it's clear that it comes from a place of genuine affection for the referenced material.</text>
+      <source>Dallas Morning News</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>https://www.guidelive.com/movie-reviews/2018/03/28/ready-player-one-spielberg-movie</link>
+      <author>Britton Peele</author>
+    </item>
+    <item index="12">
+      <text>That's what Ready Player One ends up feeling like: a decent meal with tantalizing hints of something more complex, a Big Mac with Roquefort sprinkled on top.</text>
+      <source>The Atlantic</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>https://www.theatlantic.com/entertainment/archive/2018/03/ready-player-one-review/556769/</link>
+      <author>David Sims</author>
+    </item>
+    <item index="13">
+      <text>The plot's not going to tax anyone over the age of 12, but Spielberg crams the screen with visuals eye-popping enough to make viewers not care .</text>
+      <source>NPR</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>https://www.npr.org/2018/03/28/597750665/ready-player-one-is-full-of-80s-nostalgia-and-easter-eggs</link>
+      <author>Bob Mondello</author>
+    </item>
+    <item index="14">
+      <text>For those looking for Ready Player One to condemn the digi-verse as a destructive force against human connection, find another movie. Spielberg's mindbending joyride won't quit even when the head-spinning spectacle hits sensory overload. Game on.</text>
+      <source>Rolling Stone</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>https://www.rollingstone.com/movies/reviews/peter-travers-ready-player-one-movie-review-spielberg-w518195</link>
+      <author>Peter Travers</author>
+    </item>
+    <item index="15">
+      <text>If you are too young to be insatiable for this era-specific nostalgia bait, a lot of the movie is hitting points you won't follow. If you're old enough to catch them, you have more important things to do.</text>
+      <source>Minneapolis Star Tribune</source>
+      <image>rottentomatoes://image.review.rotten</image>
+      <link>http://www.startribune.com/steven-spielberg-s-ready-player-one-is-a-virtual-disappointment/478194183/</link>
+      <author>Colin Covert</author>
+    </item>
+    <item index="16">
+      <text>It overuses '80s nostalgia as shorthand for genuine emotional involvement, and it presents us with a rapturous digital wonderworld only to sternly lecture us that reality is the better value.</text>
+      <source>Boston Globe</source>
+      <image>rottentomatoes://image.review.rotten</image>
+      <link>https://www.bostonglobe.com/arts/movies/2018/03/28/back-future-way-ready-player-one/BDgDfdTafFEWPJEcynLmJM/story.html</link>
+      <author>Ty Burr</author>
+    </item>
+    <item index="17">
+      <text>What the film lacks in substance, it makes up for in style.</text>
+      <source>St. Louis Post-Dispatch</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>http://www.stltoday.com/entertainment/movies/reviews/ready-player-one-has-plenty-of-game/article_9288171d-5ba9-5bd5-b125-bf83dcb79cd9.html</link>
+      <author>Calvin Wilson</author>
+    </item>
+    <item index="18">
+      <text>Ready Player One has no obligation to be a rigorous intellectual exercise, even if it amounts to a wasted opportunity...it doesn't have to be so facile, either. Maybe next time the screenwriters shouldn't set the difficulty mode to easy.</text>
+      <source>Slate</source>
+      <image>rottentomatoes://image.review.rotten</image>
+      <link>https://slate.com/culture/2018/03/ready-player-one-steven-spielbergs-movie-adaptation-reviewed.html</link>
+      <author>Inkoo Kang</author>
+    </item>
+    <item index="19">
+      <text>Its plot is complexity itself, but its "kids save the world" soul is simple and earnest as opposed to earth shattering. With apologies to Bill and Ted, it's an excellent adventure, and let's leave it at that.</text>
+      <source>Los Angeles Times</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>http://www.latimes.com/entertainment/movies/la-et-mn-ready-player-one-review-20180328-story.html</link>
+      <author>Kenneth Turan</author>
+    </item>
+  </reviews>
+  <roles>
+    <item index="0">
+      <photo>http://image.tmdb.org/t/p/original/rN0Mpup6nBTW5AIHl2jvLbsGMF9.jpg</photo>
+      <role>Wade Watts / Parzival</role>
+      <name>Tye Sheridan</name>
+    </item>
+    <item index="1">
+      <photo>http://image.tmdb.org/t/p/original/54b6TbDmTxrYstaLpXTx2dc5iEi.jpg</photo>
+      <role>Samantha Cook / Artemis</role>
+      <name>Olivia Cooke</name>
+    </item>
+    <item index="2">
+      <photo>http://image.tmdb.org/t/p/original/7wuqoqwDOMi6k1Y4zNzGPPsiQKy.jpg</photo>
+      <role>Nolan Sorrento</role>
+      <name>Ben Mendelsohn</name>
+    </item>
+    <item index="3">
+      <photo>http://image.tmdb.org/t/p/original/iPimiB0JNvoBIqSSnxOFymOX4RN.jpg</photo>
+      <role>Helen Harris / Aech</role>
+      <name>Lena Waithe</name>
+    </item>
+    <item index="4">
+      <photo>http://image.tmdb.org/t/p/original/wkm8YvulYwuB4pxEvOAlwv8AWdr.jpg</photo>
+      <role>i-R0k (voice)</role>
+      <name>T.J. Miller</name>
+    </item>
+    <item index="5">
+      <photo>http://image.tmdb.org/t/p/original/23e2uoNlpDvLumNic16fS2YjZjL.jpg</photo>
+      <role>Ogden Morrow</role>
+      <name>Simon Pegg</name>
+    </item>
+    <item index="6">
+      <photo>http://image.tmdb.org/t/p/original/5XrQYvdYqiGUepbgmRQfOltgBRJ.jpg</photo>
+      <role>James Halliday / Anorak</role>
+      <name>Mark Rylance</name>
+    </item>
+    <item index="7">
+      <photo>http://image.tmdb.org/t/p/original/e7ZKuxGfyeKjvFMXXeGBMjUvWkS.jpg</photo>
+      <role>Zhou / Sho</role>
+      <name>Philip Zhao</name>
+    </item>
+    <item index="8">
+      <photo>http://image.tmdb.org/t/p/original/Anaflev0pRISD8WO0axDrfadUKZ.jpg</photo>
+      <role>Toshiro / Daito</role>
+      <name>Win Morisaki</name>
+    </item>
+    <item index="9">
+      <photo>http://image.tmdb.org/t/p/original/2dWMAk6l0KavjxZpR1P4ln7bxYg.jpg</photo>
+      <role>F'Nale Zandor</role>
+      <name>Hannah John-Kamen</name>
+    </item>
+    <item index="10">
+      <photo>http://image.tmdb.org/t/p/original/zqvpAuiocN9hHjg6f9Dqu2S8y9x.jpg</photo>
+      <role>Rick</role>
+      <name>Ralph Ineson</name>
+    </item>
+    <item index="11">
+      <photo>http://image.tmdb.org/t/p/original/bXwZyTYQu4YL7qcQmsw3GHgmOuh.jpg</photo>
+      <role>Alice</role>
+      <name>Susan Lynch</name>
+    </item>
+    <item index="12">
+      <photo>http://image.tmdb.org/t/p/original/p3YIaynhTppxhWAgI5WjOCpzPxs.jpg</photo>
+      <role>Mrs. Gilmore</role>
+      <name>Clare Higgins</name>
+    </item>
+    <item index="13">
+      <photo>http://image.tmdb.org/t/p/original/fm0VLOVkhV6Op9X0DB2NcVOB13x.jpg</photo>
+      <role>Kira</role>
+      <name>Perdita Weeks</name>
+    </item>
+    <item index="14">
+      <photo>http://image.tmdb.org/t/p/original/iWL9HWJ1FhX3F7qRQCCSTIBP8Lt.jpg</photo>
+      <role>Rebel</role>
+      <name>Letitia Wright</name>
+    </item>
+    <item index="15">
+      <photo>http://image.tmdb.org/t/p/original/dX6QFwpAzAcXGgxSINwvDxujEgj.jpg</photo>
+      <role>Elementary Kid</role>
+      <name>Mckenna Grace</name>
+    </item>
+    <item index="16">
+      <photo>http://image.tmdb.org/t/p/original/uAaKqtzE0Cq2LI9o7gJnf9r9PZI.jpg</photo>
+      <role>Elementary Kid</role>
+      <name>Lulu Wilson</name>
+    </item>
+    <item index="17">
+      <photo>http://image.tmdb.org/t/p/original/njwIVTGBrB4ysidmWindn612l4j.jpg</photo>
+      <role>Leslee</role>
+      <name>Cara Pifko</name>
+    </item>
+    <item index="18">
+      <photo>http://image.tmdb.org/t/p/original/WbhItF24BgMG98yqjFgfrWVhQg.jpg</photo>
+      <role>Goro</role>
+      <name>Vic Chao</name>
+    </item>
+    <item index="19">
+      <photo>http://image.tmdb.org/t/p/original/6mcjQu63qvi6u9YA89dtDNwHO4b.jpg</photo>
+      <role>Tracer</role>
+      <name>Cara Theobold</name>
+    </item>
+    <item index="20">
+      <photo>http://image.tmdb.org/t/p/original/5R8RheJGkn7lY6qgiHvQ5YhRLpY.jpg</photo>
+      <role>Young Halliday</role>
+      <name>Isaac Andrews</name>
+    </item>
+    <item index="21">
+      <photo>http://image.tmdb.org/t/p/original/vkxCmcjAVK8RZBhnjtqByecxkgW.jpg</photo>
+      <role>Sixer #6655</role>
+      <name>Joel MacCormack</name>
+    </item>
+    <item index="22">
+      <photo>http://image.tmdb.org/t/p/original/k28TBl4QBX2fqTOOb6MBXpNy5QI.jpg</photo>
+      <role>Reb Kid</role>
+      <name>Kit Connor</name>
+    </item>
+    <item index="23">
+      <photo>http://image.tmdb.org/t/p/original/aY8FGZlafvtIVMFV7Ri4AOA4owk.jpg</photo>
+      <role>Reb Kid</role>
+      <name>Leo Heller</name>
+    </item>
+    <item index="24">
+      <photo>http://image.tmdb.org/t/p/original/h0aFe02IVTHx6MincV1Zgi8XScw.jpg</photo>
+      <role>Reb Kid</role>
+      <name>Antonio Mattera</name>
+    </item>
+    <item index="25">
+      <photo>http://image.tmdb.org/t/p/original/6BdHadavXYHRTYfmdn63Yztauzg.jpg</photo>
+      <role>Pole Dancer</role>
+      <name>Lynne Wilmot</name>
+    </item>
+    <item index="26">
+      <photo>http://image.tmdb.org/t/p/original/71SVrlqJ7ai04T7W06CoyTn7K1Q.jpg</photo>
+      <role>Reb (Safe House)</role>
+      <name>Kae Alexander</name>
+    </item>
+    <item index="27">
+      <photo>http://image.tmdb.org/t/p/original/lMD5D5luP2n70SZJI97FYNxLFdi.jpg</photo>
+      <role>Sixer Drill Instructor</role>
+      <name>Michael Wildman</name>
+    </item>
+    <item index="28">
+      <photo>http://image.tmdb.org/t/p/original/isFNRWg0t7gL7zxUgBP5EiUhGMm.jpg</photo>
+      <role>Elementary Kid</role>
+      <name>Adolfo Álvarez</name>
+    </item>
+    <item index="29">
+      <photo>http://image.tmdb.org/t/p/original/t0fOZTFIxKK58uGXdThmUi4dMot.jpg</photo>
+      <role>Elementary Kid</role>
+      <name>Alonso Alvarez</name>
+    </item>
+    <item index="30">
+      <photo>http://image.tmdb.org/t/p/original/32edKrecLJdugi2GUSMLu515d3H.jpg</photo>
+      <role>Elementary Kid</role>
+      <name>Jadah Marie</name>
+    </item>
+    <item index="31">
+      <photo>http://image.tmdb.org/t/p/original/tDaVbSRr7uNfdpR5KI5UjWYyK1G.jpg</photo>
+      <role>High School Kid</role>
+      <name>Arianna Jaffier</name>
+    </item>
+    <item index="32">
+      <photo>http://image.tmdb.org/t/p/original/3I2hGHIKS8AL8iZwKBfvrsUpZuF.jpg</photo>
+      <role>High School Kid</role>
+      <name>Armani Jackson</name>
+    </item>
+    <item index="33">
+      <photo>http://image.tmdb.org/t/p/original/cALh8UJ8XP11I8wg4FsWqJQ2bXv.jpg</photo>
+      <role>High School Kid</role>
+      <name>Britain Dalton</name>
+    </item>
+    <item index="34">
+      <photo>http://image.tmdb.org/t/p/original/j1V1788QXnzZ2Flp5pllqeodjYT.jpg</photo>
+      <role>High School Kid</role>
+      <name>Jacob Bertrand</name>
+    </item>
+    <item index="35">
+      <photo>http://image.tmdb.org/t/p/original/c90rus1Cb8KtZgT3qN88PmAuZXJ.jpg</photo>
+      <role>Chubby Guy</role>
+      <name>Gareth Mason</name>
+    </item>
+    <item index="36">
+      <photo>http://image.tmdb.org/t/p/original/19quyDxWFDLE33eq0HzO1hsflHi.jpg</photo>
+      <role>Sorrento's Assistant</role>
+      <name>Ronke Adekoluejo</name>
+    </item>
+    <item index="37">
+      <photo>http://image.tmdb.org/t/p/original/1HO5Pzlpba1c9MqU7SJQ9Byg1Ec.jpg</photo>
+      <role>High School Kid</role>
+      <name>Daniel Zolghadri</name>
+    </item>
+    <item index="38">
+      <photo/>
+      <role>Ten-Year Old Kid</role>
+      <name>William Gross</name>
+    </item>
+    <item index="39">
+      <photo/>
+      <role>Lame Tattoo Guy (Reb)</role>
+      <name>Laurence Spellman</name>
+    </item>
+    <item index="40">
+      <photo>http://image.tmdb.org/t/p/original/nTNg1qxJBc2JASmwdOIgVwM0zFB.jpg</photo>
+      <role>Corporate Businessman (uncredited)</role>
+      <name>Daniel Eghan</name>
+    </item>
+    <item index="41">
+      <photo>http://image.tmdb.org/t/p/original/zQzqbbfixENqr2NLp92EOtL7POQ.jpg</photo>
+      <role>JN / Commuter (uncredited)</role>
+      <name>Julia Nickson</name>
+    </item>
+    <item index="42">
+      <photo>http://image.tmdb.org/t/p/original/qdhc56MunR26QWb3fgb7RqxZN6X.jpg</photo>
+      <role>IOI Staff (uncredited)</role>
+      <name>Kiera Bell</name>
+    </item>
+    <item index="43">
+      <photo>http://image.tmdb.org/t/p/original/m3fVEv2gZ5cKkWqjE2uDqYEfruf.jpg</photo>
+      <role>Player (uncredited)</role>
+      <name>Samantha Russell</name>
+    </item>
+  </roles>
+  <similar>
+    <item index="0">Avengers: Infinity War</item>
+    <item index="1">Tomb Raider</item>
+    <item index="2">Deadpool 2</item>
+    <item index="3">Black Panther</item>
+    <item index="4">Pacific Rim: Uprising</item>
+    <item index="5">A Quiet Place</item>
+    <item index="6">Solo: A Star Wars Story</item>
+    <item index="7">Star Wars: The Last Jedi</item>
+    <item index="8">The Shape of Water</item>
+    <item index="9">Annihilation</item>
+    <item index="10">Red Sparrow</item>
+    <item index="11">Game Night</item>
+    <item index="12">Jurassic World: Fallen Kingdom</item>
+    <item index="13">Thor: Ragnarok</item>
+    <item index="14">Blade Runner 2049</item>
+    <item index="15">Justice League</item>
+    <item index="16">Maze Runner: The Death Cure</item>
+    <item index="17">Three Billboards Outside Ebbing, Missouri</item>
+    <item index="18">Jumanji: Welcome to the Jungle</item>
+    <item index="19">Rampage</item>
+  </similar>
+  <studio>DreamWorks</studio>
+  <summary>When the creator of a popular video game system dies, a virtual contest is created to compete for his fortune.</summary>
+  <tagline>A better reality awaits.</tagline>
+  <tags/>
+  <themes/>
+  <title>Ready Player One</title>
+  <writers>
+    <item index="0">
+      <photo/>
+      <role/>
+      <name>Ernest Cline</name>
+    </item>
+    <item index="1">
+      <photo>http://image.tmdb.org/t/p/original/tPwOS2wk8FFoWpXnDYK77bKcuWB.jpg</photo>
+      <role/>
+      <name>Zak Penn</name>
+    </item>
+  </writers>
+  <year>2018</year>
+</Movie>

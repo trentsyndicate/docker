@@ -1,0 +1,544 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Movie>
+  <art>
+    <item external="True" url="http://image.tmdb.org/t/p/original/fD9foXdVMAW8Oku4y6WcBQ3mXeD.jpg" sort_order="1" provider="com.plexapp.agents.imdb" media="com.plexapp.agents.imdb_66f766319d4459354070cebd3df5ab6d1b813559"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/pYts70IKrYMZ1CWehrTfq7lGdvn.jpg" preview="com.plexapp.agents.imdb_9ca4072c50c8b3720a5fe53aa9727c86be34dc2f" sort_order="2" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/xeEWwSwE2P9ZmfTmIrz4r4rIbIw.jpg" preview="com.plexapp.agents.imdb_ae7be2194e3923164aa680650c67105ecdd1b6c9" sort_order="3" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/1TDVJRh8VCJwsCodjdBfJnE1knW.jpg" preview="com.plexapp.agents.imdb_ee5f3d90e074b88b74a91009bda9f0219e1d5a9f" sort_order="4" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/wcjgmnOGqhUtoqonOJZ0MMGzB9G.jpg" preview="com.plexapp.agents.imdb_b11e7939a8d9f8be0cf876ba7d83ab2dbcdf2f8d" sort_order="5" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/3485j5ydZHJNpSnEnHzPAIqDB69.jpg" preview="com.plexapp.agents.imdb_9609043778246af43539710539338812e169f391" sort_order="6" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/jRzrQ7Thcjpetr0n8B6w980eZet.jpg" preview="com.plexapp.agents.imdb_dd6ceb3b16e602decef3d827b936c3b1ad7f6d83" sort_order="7" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/yNr7tuh3Ka3XLaVniaDmt6wXUho.jpg" preview="com.plexapp.agents.imdb_9248eb0ccd3fe5528ef20ac3f5593d0928ff8f14" sort_order="8" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/iPIR4LG5cylMteoPJ1VUpnXDtYP.jpg" preview="com.plexapp.agents.imdb_08c432adc7967a3011c17490b20723c42df2df8d" sort_order="9" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/hdgpU706rP3DHUFo2aVBQZqVnHn.jpg" preview="com.plexapp.agents.imdb_24d8d196b57bacdb9d06709f14169998f63d58b0" sort_order="10" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/jkkKi0VQHsLNqy28x4w54iAUUel.jpg" preview="com.plexapp.agents.imdb_09fc4658ec4281dbc4e7ce1c41e213c5025dc345" sort_order="11" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/ApKwUfgIofqSdnEwFQS93L1hPMZ.jpg" preview="com.plexapp.agents.imdb_717bbf5e5fbae70c94d2ef37540c4626f26bfaed" sort_order="12" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/3WuGNZw46rTIVj527qBmC5DoaSy.jpg" preview="com.plexapp.agents.imdb_653363cb97f5e793c5bc993bf0429d042826561f" sort_order="13" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/eP1qp0Abr5s0DZKg2xyN4rIR8rM.jpg" preview="com.plexapp.agents.imdb_a3e0272dbfbe60475f1b0b8647280df739f59b80" sort_order="14" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/mSV8dyRbimKHh98psT0JgOA9vkb.jpg" preview="com.plexapp.agents.imdb_fbec7cd5c45281222961b4c06c7ce809e7322bf4" sort_order="15" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/ngXYeBWtBLYh59h5NDJZuHNdhAB.jpg" preview="com.plexapp.agents.imdb_94fa524a632b69b1ec5f95130311cafb3d0363e2" sort_order="16" provider="com.plexapp.agents.imdb"/>
+  </art>
+  <banners/>
+  <chapters>
+    <item index="0">
+      <title>About Elves</title>
+      <end_time_offset>225000</end_time_offset>
+      <start_time_offset>0</start_time_offset>
+    </item>
+    <item index="1">
+      <title>Little Buddy</title>
+      <end_time_offset>539000</end_time_offset>
+      <start_time_offset>225000</start_time_offset>
+    </item>
+    <item index="2">
+      <title>A Special Elf</title>
+      <end_time_offset>882000</end_time_offset>
+      <start_time_offset>539000</start_time_offset>
+    </item>
+    <item index="3">
+      <title>Buddy's Journey</title>
+      <end_time_offset>1303000</end_time_offset>
+      <start_time_offset>882000</start_time_offset>
+    </item>
+    <item index="4">
+      <title>Dad</title>
+      <end_time_offset>1520000</end_time_offset>
+      <start_time_offset>1303000</start_time_offset>
+    </item>
+    <item index="5">
+      <title>Gimbels</title>
+      <end_time_offset>2011000</end_time_offset>
+      <start_time_offset>1520000</start_time_offset>
+    </item>
+    <item index="6">
+      <title>Winter Wonderland</title>
+      <end_time_offset>2298000</end_time_offset>
+      <start_time_offset>2011000</start_time_offset>
+    </item>
+    <item index="7">
+      <title>A Visit to the Doctor</title>
+      <end_time_offset>2568000</end_time_offset>
+      <start_time_offset>2298000</start_time_offset>
+    </item>
+    <item index="8">
+      <title>Homecoming</title>
+      <end_time_offset>3081000</end_time_offset>
+      <start_time_offset>2568000</start_time_offset>
+    </item>
+    <item index="9">
+      <title>Brotherly Bonding</title>
+      <end_time_offset>3479000</end_time_offset>
+      <start_time_offset>3081000</start_time_offset>
+    </item>
+    <item index="10">
+      <title>Take Your Elf to Work</title>
+      <end_time_offset>3908000</end_time_offset>
+      <start_time_offset>3479000</start_time_offset>
+    </item>
+    <item index="11">
+      <title>A Night Out</title>
+      <end_time_offset>4035000</end_time_offset>
+      <start_time_offset>3908000</start_time_offset>
+    </item>
+    <item index="12">
+      <title>Miles Finch</title>
+      <end_time_offset>4321000</end_time_offset>
+      <start_time_offset>4035000</start_time_offset>
+    </item>
+    <item index="13">
+      <title>Runaway Elf</title>
+      <end_time_offset>4668000</end_time_offset>
+      <start_time_offset>4321000</start_time_offset>
+    </item>
+    <item index="14">
+      <title>Elf Help</title>
+      <end_time_offset>5132000</end_time_offset>
+      <start_time_offset>4668000</start_time_offset>
+    </item>
+    <item index="15">
+      <title>Saving Santa</title>
+      <end_time_offset>5471000</end_time_offset>
+      <start_time_offset>5132000</start_time_offset>
+    </item>
+    <item index="16">
+      <title>End Credits</title>
+      <end_time_offset>-1</end_time_offset>
+      <start_time_offset>5471000</start_time_offset>
+    </item>
+  </chapters>
+  <collections/>
+  <content_rating>PG</content_rating>
+  <countries>
+    <item index="0">USA</item>
+  </countries>
+  <directors>
+    <item index="0">
+      <photo>http://image.tmdb.org/t/p/original/sJSGJwGa3hjMlJNUCxF7wQwo7fb.jpg</photo>
+      <role/>
+      <name>Jon Favreau</name>
+    </item>
+  </directors>
+  <duration>5820000</duration>
+  <genres>
+    <item index="0">Comedy</item>
+    <item index="1">Family</item>
+    <item index="2">Fantasy</item>
+    <item index="3">Romance</item>
+  </genres>
+  <originally_available_at>2003-10-09</originally_available_at>
+  <posters>
+    <item external="True" url="http://image.tmdb.org/t/p/original/9jChHqqcpe0zHNTqkNqWZkwkgil.jpg" sort_order="1" provider="com.plexapp.agents.imdb" media="com.plexapp.agents.imdb_30b87ee7fbeb25c42edd1f4f3ef2bcd6bf7e9e2d"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/694vHcSLE0kqHFyLNa8Bb7Ro0Ga.jpg" preview="com.plexapp.agents.imdb_f86a99ef5ff77e3cfab5048f9d8c0c9439a32a51" sort_order="2" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/lJqIgDqRr3nw3PiGu7ESCANCs9I.jpg" preview="com.plexapp.agents.imdb_d405747e29f568fc06402916932533656bcae6ea" sort_order="3" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/xZClcTRDyOzAyrtGIp6mzSqVpuM.jpg" preview="com.plexapp.agents.imdb_f5bbb25a394170a29004a86182b25caa7547665b" sort_order="4" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/3SNee52HENW60nbhb7ed400OMj6.jpg" preview="com.plexapp.agents.imdb_c22c063691b6a2b0c287ead55f1a53d02b5b2bc2" sort_order="5" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/a7iuOYsf1G72k9WDotZpeYpVAXq.jpg" preview="com.plexapp.agents.imdb_6615349ffbf51944f1a0cc06ed23ca23c955048b" sort_order="6" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/pDJ9s8Ev8yKARZ9eRNwlCrL5UkC.jpg" preview="com.plexapp.agents.imdb_3af3c4d03f7e0665beaa460f5215879011a03ad6" sort_order="7" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/m442BQeCLoUnjgz0teZCCFkKubi.jpg" preview="com.plexapp.agents.imdb_0df06d49bd553c9df78335af4e1e5880c921c77b" sort_order="8" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/q4lxsN6wACQmfLbF57iBIuIpZD2.jpg" preview="com.plexapp.agents.imdb_7b24a879f10d26ca84c7a608713e868e8390966c" sort_order="9" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/C5Bwy1FwRnyH9liDaM2rAulG7u.jpg" preview="com.plexapp.agents.imdb_6a2fa2ab6af7afc8c6ed9bf4210ec9ef1d28b2c2" sort_order="10" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/vLPcbYn4CEliFXf58y6F9rL15dD.jpg" preview="com.plexapp.agents.imdb_d74696cfe13419b399616427326a19045e9f4e4d" sort_order="11" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/uqhUasP3kKWQxFjgKFDkVeQybRG.jpg" preview="com.plexapp.agents.imdb_04bf4d015a5e01452de0cdf7b3d6a60e8374d00a" sort_order="12" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/13xe656nxTO8P6Vu9Q8NvZr0oLW.jpg" preview="com.plexapp.agents.imdb_29302fa1c4e986b4787f233531027b1d69c58051" sort_order="13" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/1LwartWxGjpNQyP1T4owrDZ0X8S.jpg" preview="com.plexapp.agents.imdb_21fc278f044701aa9a724c4a3d17cc09d50df064" sort_order="14" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/1hrcbdJSTck7wWhhUqEjtYTtKJi.jpg" preview="com.plexapp.agents.imdb_1371f73187cda388500340177c9ca46450d39e40" sort_order="15" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/dw1NWELmfcbchjq6DiZntaEH7L7.jpg" preview="com.plexapp.agents.imdb_22071cb217259af62694908871773a67ca063683" sort_order="16" provider="com.plexapp.agents.imdb"/>
+  </posters>
+  <producers>
+    <item index="0">
+      <photo/>
+      <role/>
+      <name>Todd Komarnicki</name>
+    </item>
+    <item index="1">
+      <photo/>
+      <role/>
+      <name>Shauna Robertson</name>
+    </item>
+    <item index="2">
+      <photo/>
+      <role/>
+      <name>Jon Berg</name>
+    </item>
+  </producers>
+  <rating>8.4</rating>
+  <rating_image>rottentomatoes://image.rating.ripe</rating_image>
+  <audience_rating>7.8</audience_rating>
+  <audience_rating_image>rottentomatoes://image.rating.upright</audience_rating_image>
+  <reviews>
+    <item index="0">
+      <text>Ferrell is a hoot. So is much of this witty holiday family entertainment, which, up until the end, when the "true spirit of Christmas" must be reaffirmed, happily favors slapstick over treacle.</text>
+      <source>Newsweek</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>http://www.newsweek.com/snap-judgement-movies-133357</link>
+      <author>David Ansen</author>
+    </item>
+    <item index="1">
+      <text>Sure, Elf feels a little too feel-good at the end, but what do you expect? It's a Christmas movie! Anything else would be the cinematic equivalent of finding coal in your stocking.</text>
+      <source>Associated Press</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>http://www.boston.com/ae/movies/articles/2003/11/06/review_ferrell_is_joy_to_watch_in_elf/</link>
+      <author>Christy Lemire</author>
+    </item>
+    <item index="2">
+      <text>The cast wrings laughs out of David Berenbaum's script as if it were a damp washcloth, but even they have trouble selling frenetic button-pushing as the Christmas spirit.</text>
+      <source>AV Club</source>
+      <image>rottentomatoes://image.review.rotten</image>
+      <link>http://www.avclub.com/review/elf-5362</link>
+      <author>Scott Tobias</author>
+    </item>
+    <item index="3">
+      <text>A disarmingly funny holiday comedy.</text>
+      <source>Entertainment Weekly</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>http://www.ew.com/ew/article/0,,543107,00.html</link>
+      <author>Owen Gleiberman</author>
+    </item>
+    <item index="4">
+      <text>The film soon bogs down in fake hugs and a fakier climax involving Santa (Ed Asner) and his downed sled.</text>
+      <source>Chicago Reader</source>
+      <image>rottentomatoes://image.review.rotten</image>
+      <link>http://www.chicagoreader.com/chicago/elf/Film?oid=2885138</link>
+      <author>J. R. Jones</author>
+    </item>
+    <item index="5">
+      <text>Some humour might sail over the heads of the very young, but there's a higher chuckle rate for the grown-ups than much dread 'family' fare.</text>
+      <source>Time Out</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>http://www.timeout.com/film/reviews/63803/elf.html</link>
+      <author>Trevor Johnston</author>
+    </item>
+    <item index="6">
+      <text>A movie made by people who really have their thinking caps on.</text>
+      <source>Salon.com</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>http://www.salon.com/2003/11/07/elf_2/</link>
+      <author>Stephanie Zacharek</author>
+    </item>
+    <item index="7">
+      <text>Ferrell's stone-stupid sincerity keeps the action moving and irresistible, despite its familiarity.</text>
+      <source>Toronto Star</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>http://WWW.TheStar.COM/NASApp/cs/ContentServer?&amp;amp;pagename=thestar/Layout/Article_Type1&amp;c=Article&amp;cid=1068203492562&amp;call_pageid=1022183557980&amp;col=1022183560753</link>
+      <author>Peter Howell</author>
+    </item>
+    <item index="8">
+      <text>Funny and intelligently made, a film for kids and adults that's both sweet and sardonic.</text>
+      <source>San Francisco Chronicle</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>http://www.sfgate.com/cgi-bin/article.cgi?f=/c/a/2003/11/07/DD304827.DTL</link>
+      <author>Mick LaSalle</author>
+    </item>
+    <item index="9">
+      <text>A pleasantly old-fashioned, gee-whillikers Yuletide confection rescued from Schmaltz-ville by the subversive comic talents of Will Ferrell.</text>
+      <source>New York Post</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>http://nypost.com/2003/11/07/will-power-nothing-elf-ish-about-ferrells-big-holiday-laugh-fest/</link>
+      <author>Megan Lehmann</author>
+    </item>
+    <item index="10">
+      <text>Say hello, kiddies, to the first big-hearted flick of the season. Time's up, so say goodbye and, be polite now, try to hide your mild disappointment.</text>
+      <source>Globe and Mail</source>
+      <image>rottentomatoes://image.review.rotten</image>
+      <link>http://www.theglobeandmail.com/arts/short-movie-syndrome/article1341329/</link>
+      <author>Rick Groen</author>
+    </item>
+    <item index="11">
+      <text>The movie sets Ferrell's assaultive and juvenile physical comedy in a less-combative playground, and the result might leave the Ferrell-intolerant exiting the theater on a high.</text>
+      <source>Boston Globe</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>http://www.boston.com/movies/display?display=movie&amp;id=2055</link>
+      <author>Wesley Morris</author>
+    </item>
+    <item index="12">
+      <text>It's a clumsy, tedious ride that wears out its welcome as it wears out the seat of your pants and the circulation in your lower limbs.</text>
+      <source>Washington Post</source>
+      <image>rottentomatoes://image.review.rotten</image>
+      <link>http://www.washingtonpost.com/wp-dyn/content/article/2003/11/07/AR2005033115762.html</link>
+      <author>Stephen Hunter</author>
+    </item>
+  </reviews>
+  <roles>
+    <item index="0">
+      <photo>http://image.tmdb.org/t/p/original/dGxt3uGPlUJKIfHYiLasnEgR90e.jpg</photo>
+      <role>Buddy</role>
+      <name>Will Ferrell</name>
+    </item>
+    <item index="1">
+      <photo>http://image.tmdb.org/t/p/original/lDUG4hn0H4vzmSbmLHZcVrAgWF1.jpg</photo>
+      <role>Walter</role>
+      <name>James Caan</name>
+    </item>
+    <item index="2">
+      <photo>http://image.tmdb.org/t/p/original/ktjfylBzoJJik70F5VyGFiRgxUf.jpg</photo>
+      <role>Jovie</role>
+      <name>Zooey Deschanel</name>
+    </item>
+    <item index="3">
+      <photo>http://image.tmdb.org/t/p/original/yJhfuqS3yXW7kLSyvRU6n3b35mq.jpg</photo>
+      <role>Emily</role>
+      <name>Mary Steenburgen</name>
+    </item>
+    <item index="4">
+      <photo>http://image.tmdb.org/t/p/original/dTQ9PaOdN9CxdqntlVgxngyECua.jpg</photo>
+      <role>Michael</role>
+      <name>Daniel Tay</name>
+    </item>
+    <item index="5">
+      <photo>http://image.tmdb.org/t/p/original/nUnDLli9zmGQu6UCEU3G4FUdYqQ.jpg</photo>
+      <role>Santa</role>
+      <name>Ed Asner</name>
+    </item>
+    <item index="6">
+      <photo>http://image.tmdb.org/t/p/original/dPF5ahXhd6x0SfJybEkrjJqNAEH.jpg</photo>
+      <role>Papa Elf</role>
+      <name>Bob Newhart</name>
+    </item>
+    <item index="7">
+      <photo>http://image.tmdb.org/t/p/original/jSo0tKozbudF78NaR6DCNSXKSP9.jpg</photo>
+      <role>Eugene</role>
+      <name>Kyle Gass</name>
+    </item>
+    <item index="8">
+      <photo>http://image.tmdb.org/t/p/original/tKz3IMO2jT8NdoDXOlKmcw4wLXf.jpg</photo>
+      <role>Gimbel's Manager</role>
+      <name>Faizon Love</name>
+    </item>
+    <item index="9">
+      <photo>http://image.tmdb.org/t/p/original/xuB7b4GbARu4HN6gq5zMqjGbkwF.jpg</photo>
+      <role>Miles Finch</role>
+      <name>Peter Dinklage</name>
+    </item>
+    <item index="10">
+      <photo>http://image.tmdb.org/t/p/original/pNbYqv1vdYZCp68bhT6VWXsA8nt.jpg</photo>
+      <role>Deb</role>
+      <name>Amy Sedaris</name>
+    </item>
+    <item index="11">
+      <photo>http://image.tmdb.org/t/p/original/7VlkzO1z5wh96UCXpPZ0rUFx8aN.jpg</photo>
+      <role>Fulton</role>
+      <name>Michael Lerner</name>
+    </item>
+    <item index="12">
+      <photo>http://image.tmdb.org/t/p/original/8K63ilOwTUO1yh32oLl2zfwjbKs.jpg</photo>
+      <role>Morris</role>
+      <name>Andy Richter</name>
+    </item>
+    <item index="13">
+      <photo>http://image.tmdb.org/t/p/original/ifXG3HVuOgYhSTuvugGJCthfcN.jpg</photo>
+      <role>Gimbel's Santa</role>
+      <name>Artie Lange</name>
+    </item>
+    <item index="14">
+      <photo>http://image.tmdb.org/t/p/original/2wlX6TzKnghrZHIdbtA2oKxKHcv.jpg</photo>
+      <role>Maymay</role>
+      <name>Peter Billingsley</name>
+    </item>
+    <item index="15">
+      <photo>http://image.tmdb.org/t/p/original/nxsvHuPnWQBFuGOq6Gs100kh74R.jpg</photo>
+      <role>Polar Bear Cub (voice)</role>
+      <name>Ray Harryhausen</name>
+    </item>
+    <item index="16">
+      <photo>http://image.tmdb.org/t/p/original/sJSGJwGa3hjMlJNUCxF7wQwo7fb.jpg</photo>
+      <role>Dr. Leonardo</role>
+      <name>Jon Favreau</name>
+    </item>
+    <item index="17">
+      <photo>http://image.tmdb.org/t/p/original/8XWp2fiHiyYcgMeEgcttdpiJpRw.jpg</photo>
+      <role>Mailroom worker</role>
+      <name>Mark Acheson</name>
+    </item>
+    <item index="18">
+      <photo/>
+      <role>Leon the Snowman (voice)</role>
+      <name>Leon Redbone</name>
+    </item>
+    <item index="19">
+      <photo>http://image.tmdb.org/t/p/original/fbtfXanp0rgKMrKvMIxP8CanuNP.jpg</photo>
+      <role>NY 1 Reporter</role>
+      <name>Claire Lautier</name>
+    </item>
+    <item index="20">
+      <photo>http://image.tmdb.org/t/p/original/hRHaQdzFPFcu5ShaaNMQFgSyva6.jpg</photo>
+      <role>NY 1 Anchor</role>
+      <name>Ted Friend</name>
+    </item>
+    <item index="21">
+      <photo>http://image.tmdb.org/t/p/original/pHwLExdQGQYg8yNVSaF97TkMsoQ.jpg</photo>
+      <role>Witness</role>
+      <name>Matt Walsh</name>
+    </item>
+    <item index="22">
+      <photo>http://image.tmdb.org/t/p/original/2wlX6TzKnghrZHIdbtA2oKxKHcv.jpg</photo>
+      <role>Ming Ming</role>
+      <name>Peter Billingsley</name>
+    </item>
+    <item index="23">
+      <photo/>
+      <role>Guard</role>
+      <name>Patrick Ferrell</name>
+    </item>
+    <item index="24">
+      <photo>http://image.tmdb.org/t/p/original/dzqut45uTHzmNKFfD0TxQLzGq4c.jpg</photo>
+      <role>Disgruntled Cobbler Elf</role>
+      <name>Michael Roberds</name>
+    </item>
+    <item index="25">
+      <photo/>
+      <role>Carolyn</role>
+      <name>Lydia Lawson-Baird</name>
+    </item>
+    <item index="26">
+      <photo>http://image.tmdb.org/t/p/original/wlRF7hHwPe3RV3TxdeLcDR1t0pS.jpg</photo>
+      <role>Nun (as Brenda MacDonald)</role>
+      <name>Brenda McDonald</name>
+    </item>
+    <item index="27">
+      <photo/>
+      <role>Elf Student</role>
+      <name>Annie Brebner</name>
+    </item>
+    <item index="28">
+      <photo/>
+      <role>Elf</role>
+      <name>Meghan Black</name>
+    </item>
+    <item index="29">
+      <photo/>
+      <role>Elf</role>
+      <name>Patrick Baynham</name>
+    </item>
+    <item index="30">
+      <photo/>
+      <role>Elf Twin (as Peter Hulne)</role>
+      <name>Peter A. Hulne</name>
+    </item>
+    <item index="31">
+      <photo>http://image.tmdb.org/t/p/original/tYohg23yhxxK0XqSZbJlf0rwMhh.jpg</photo>
+      <role>Elf Teacher</role>
+      <name>Richard Side</name>
+    </item>
+    <item index="32">
+      <photo>http://image.tmdb.org/t/p/original/mzDYgsfQ015JsyesVTvR1FNGVaI.jpg</photo>
+      <role>Pom Pom (as David Paul Grove)</role>
+      <name>David Avalon</name>
+    </item>
+    <item index="33">
+      <photo>http://image.tmdb.org/t/p/original/xAgueVKdQxgjxt4kwVtwXQF6nmT.jpg</photo>
+      <role>Foom Foom</role>
+      <name>Kristian Ayre</name>
+    </item>
+    <item index="34">
+      <photo/>
+      <role>Perfume Clerk</role>
+      <name>Lorin Heath</name>
+    </item>
+    <item index="35">
+      <photo/>
+      <role>Printer</role>
+      <name>Dillard Brinson</name>
+    </item>
+    <item index="36">
+      <photo/>
+      <role>Office Co-Worker</role>
+      <name>Brad Turner</name>
+    </item>
+    <item index="37">
+      <photo/>
+      <role>Office Co-Worker</role>
+      <name>David Berenbaum</name>
+    </item>
+    <item index="38">
+      <photo>http://image.tmdb.org/t/p/original/5mV7wnLRhVS4xKla6DHlatDLLrp.jpg</photo>
+      <role>Office Co-Worker</role>
+      <name>Brenda Crichlow</name>
+    </item>
+    <item index="39">
+      <photo/>
+      <role>Francisco</role>
+      <name>Oscar Goncalves</name>
+    </item>
+    <item index="40">
+      <photo>http://image.tmdb.org/t/p/original/q7gftvbA1cgwldgcEabf1wXBAkj.jpg</photo>
+      <role>Nurse</role>
+      <name>Mary Black</name>
+    </item>
+    <item index="41">
+      <photo>http://image.tmdb.org/t/p/original/nKbAkMwF0Dsj8khayq8hgQcYIwA.jpg</photo>
+      <role>Man in Elevator</role>
+      <name>Jack Murray</name>
+    </item>
+    <item index="42">
+      <photo>http://image.tmdb.org/t/p/original/78SoLoiFyxKI98zYHm9xCEaVI83.jpg</photo>
+      <role>Chuck</role>
+      <name>Robin Mossley</name>
+    </item>
+    <item index="43">
+      <photo/>
+      <role>Kid with Santa</role>
+      <name>Paul Schofield</name>
+    </item>
+    <item index="44">
+      <photo>http://image.tmdb.org/t/p/original/6rYTgjY1pD26F8szmlPD2WDQO3e.jpg</photo>
+      <role>Witness</role>
+      <name>Will McCormack</name>
+    </item>
+    <item index="45">
+      <photo/>
+      <role>Child</role>
+      <name>Alexandra Michael</name>
+    </item>
+    <item index="46">
+      <photo/>
+      <role>Biker</role>
+      <name>Jonathan Bruce</name>
+    </item>
+    <item index="47">
+      <photo>http://image.tmdb.org/t/p/original/su1heQFA5KqgFaVlYwhgO8qecnb.jpg</photo>
+      <role>School Kid</role>
+      <name>Akeem Smith</name>
+    </item>
+    <item index="48">
+      <photo>http://image.tmdb.org/t/p/original/v5OHXcKamt0CKKtMxQfxTS5VnnO.jpg</photo>
+      <role>Susan Welles</role>
+      <name>Lane Bradbury</name>
+    </item>
+  </roles>
+  <similar>
+    <item index="0">The Santa Clause</item>
+    <item index="1">Talladega Nights: The Ballad of Ricky Bobby</item>
+    <item index="2">Blades of Glory</item>
+    <item index="3">The Santa Clause 2</item>
+    <item index="4">Step Brothers</item>
+    <item index="5">Happy Gilmore</item>
+    <item index="6">Anchorman: The Legend of Ron Burgundy</item>
+    <item index="7">DodgeBall: A True Underdog Story</item>
+    <item index="8">Old School</item>
+    <item index="9">Napoleon Dynamite</item>
+    <item index="10">A Christmas Story</item>
+    <item index="11">Billy Madison</item>
+    <item index="12">The Waterboy</item>
+    <item index="13">Austin Powers: International Man of Mystery</item>
+    <item index="14">Big Daddy</item>
+    <item index="15">Holes</item>
+    <item index="16">Willy Wonka &amp; the Chocolate Factory</item>
+    <item index="17">Role Models</item>
+    <item index="18">Zoolander</item>
+    <item index="19">Austin Powers: The Spy Who Shagged Me</item>
+  </similar>
+  <studio>New Line Cinema</studio>
+  <summary>When young Buddy falls into Santa's gift sack on Christmas Eve, he's transported back to the North Pole and raised as a toy-making elf by Santa's helpers. But as he grows into adulthood, he can't shake the nagging feeling that he doesn't belong. Buddy vows to visit Manhattan and find his real dad, a workaholic publisher.</summary>
+  <tagline>This holiday, discover your inner elf.</tagline>
+  <tags/>
+  <themes/>
+  <title>Elf</title>
+  <writers>
+    <item index="0">
+      <photo/>
+      <role/>
+      <name>David Berenbaum</name>
+    </item>
+  </writers>
+  <year>2003</year>
+</Movie>

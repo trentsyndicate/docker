@@ -1,0 +1,520 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Movie>
+  <art>
+    <item external="True" url="http://image.tmdb.org/t/p/original/nn5ODHie1LPHJ2uWBodDVqRn2fL.jpg" sort_order="1" provider="com.plexapp.agents.imdb" media="com.plexapp.agents.imdb_4d0ff73457cc5164b215461bbf60b36145547929"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/x2JxMN1baKIhlyNJeuvC8HlnE5t.jpg" preview="com.plexapp.agents.imdb_0aa465424a619f0984651c62dc7bedd0be696e21" sort_order="2" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/pCpSgYq14TMXut68JdUe7iaha3O.jpg" preview="com.plexapp.agents.imdb_7bf00173937a720a3dfad7503c01f15c66bcf001" sort_order="3" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/sitmRxuhWPJuRUpBEpfJZsoGyrg.jpg" preview="com.plexapp.agents.imdb_c3b0b3fbac5099ce00ac42c2058134d23e7c10d8" sort_order="4" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/4sUHxr83qhABCIRWN1g1TxQVTQC.jpg" preview="com.plexapp.agents.imdb_09291b28898afd27dfcfed65d83c26076c04a20c" sort_order="5" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/bKXZ8Oxn6zB3EnieQwKzBMk83NF.jpg" preview="com.plexapp.agents.imdb_1b11f219decd8cc7075360ddb06e72ad30d2a85d" sort_order="6" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/hqyDS2y1BeYkqnsyAawOR7bnzxc.jpg" preview="com.plexapp.agents.imdb_52282b0e88217b8df6c865dd258d6cb124093c2c" sort_order="7" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/qocABcXUcL2EOc2EFqZpxfYr7Ll.jpg" preview="com.plexapp.agents.imdb_9c97623bd00a382a56556aba3c55bf9e14432876" sort_order="8" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/zRvmBZCYR0Lbstofc5AWUqmRrgH.jpg" preview="com.plexapp.agents.imdb_6ea0648e83200a9c44bd2d9745bd34f91cfb9042" sort_order="9" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/ymMA8GyxM6Pg7luf6amHVvJgCzl.jpg" preview="com.plexapp.agents.imdb_930047ea73d4370a33d636920c1f91b272efdef5" sort_order="10" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/yC5n8Wik0GssIPdLkfgfH0oOaYG.jpg" preview="com.plexapp.agents.imdb_756ac4984a41ca6af23a9a7180be7d40ebbfa8ec" sort_order="11" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/4Tb0l6aM6ZeC8ECwKXVd2mNKIcZ.jpg" preview="com.plexapp.agents.imdb_abf08af011d2fc1f5b37ab171ad00c91f8b1ef62" sort_order="12" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/oWenlAbrxeSI27puk4XvsZvV1L4.jpg" preview="com.plexapp.agents.imdb_560c8051e79cba5f7f6c8d7d9120e94d3f4cce13" sort_order="13" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/krc5Di3ML7aPF4k7hoOnJ1xccq.jpg" preview="com.plexapp.agents.imdb_da8baf4b03263a122e6a3672a871ab3ac388523b" sort_order="14" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/yUhK1ALyJBYeDF9jJhsFPAVANOj.jpg" preview="com.plexapp.agents.imdb_4e4e8d1a3d345dd779659f7790de43908a8ba650" sort_order="15" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/aE0S3h9wuM6qtDaUqBR1EmxbmgC.jpg" preview="com.plexapp.agents.imdb_a3b70ac1554e4c86961a0945764009768e993116" sort_order="16" provider="com.plexapp.agents.imdb"/>
+  </art>
+  <banners/>
+  <chapters>
+    <item index="0">
+      <title>Chapter 1</title>
+      <end_time_offset>130000</end_time_offset>
+      <start_time_offset>0</start_time_offset>
+    </item>
+    <item index="1">
+      <title>Chapter 2</title>
+      <end_time_offset>401000</end_time_offset>
+      <start_time_offset>130000</start_time_offset>
+    </item>
+    <item index="2">
+      <title>Chapter 3</title>
+      <end_time_offset>574000</end_time_offset>
+      <start_time_offset>401000</start_time_offset>
+    </item>
+    <item index="3">
+      <title>Chapter 4</title>
+      <end_time_offset>720000</end_time_offset>
+      <start_time_offset>574000</start_time_offset>
+    </item>
+    <item index="4">
+      <title>Chapter 5</title>
+      <end_time_offset>857000</end_time_offset>
+      <start_time_offset>720000</start_time_offset>
+    </item>
+    <item index="5">
+      <title>Chapter 6</title>
+      <end_time_offset>1091000</end_time_offset>
+      <start_time_offset>857000</start_time_offset>
+    </item>
+    <item index="6">
+      <title>Chapter 7</title>
+      <end_time_offset>1321000</end_time_offset>
+      <start_time_offset>1091000</start_time_offset>
+    </item>
+    <item index="7">
+      <title>Chapter 8</title>
+      <end_time_offset>1589000</end_time_offset>
+      <start_time_offset>1321000</start_time_offset>
+    </item>
+    <item index="8">
+      <title>Chapter 9</title>
+      <end_time_offset>1721000</end_time_offset>
+      <start_time_offset>1589000</start_time_offset>
+    </item>
+    <item index="9">
+      <title>Chapter 10</title>
+      <end_time_offset>1874000</end_time_offset>
+      <start_time_offset>1721000</start_time_offset>
+    </item>
+    <item index="10">
+      <title>Chapter 11</title>
+      <end_time_offset>2106000</end_time_offset>
+      <start_time_offset>1874000</start_time_offset>
+    </item>
+    <item index="11">
+      <title>Chapter 12</title>
+      <end_time_offset>2360000</end_time_offset>
+      <start_time_offset>2106000</start_time_offset>
+    </item>
+    <item index="12">
+      <title>Chapter 13</title>
+      <end_time_offset>2740000</end_time_offset>
+      <start_time_offset>2360000</start_time_offset>
+    </item>
+    <item index="13">
+      <title>Chapter 14</title>
+      <end_time_offset>2838000</end_time_offset>
+      <start_time_offset>2740000</start_time_offset>
+    </item>
+    <item index="14">
+      <title>Chapter 15</title>
+      <end_time_offset>3039000</end_time_offset>
+      <start_time_offset>2838000</start_time_offset>
+    </item>
+    <item index="15">
+      <title>Chapter 16</title>
+      <end_time_offset>3156000</end_time_offset>
+      <start_time_offset>3039000</start_time_offset>
+    </item>
+    <item index="16">
+      <title>Chapter 17</title>
+      <end_time_offset>3378000</end_time_offset>
+      <start_time_offset>3156000</start_time_offset>
+    </item>
+    <item index="17">
+      <title>Chapter 18</title>
+      <end_time_offset>3659000</end_time_offset>
+      <start_time_offset>3378000</start_time_offset>
+    </item>
+    <item index="18">
+      <title>Chapter 19</title>
+      <end_time_offset>3950000</end_time_offset>
+      <start_time_offset>3659000</start_time_offset>
+    </item>
+    <item index="19">
+      <title>Chapter 20</title>
+      <end_time_offset>4232000</end_time_offset>
+      <start_time_offset>3950000</start_time_offset>
+    </item>
+    <item index="20">
+      <title>Chapter 21</title>
+      <end_time_offset>4323000</end_time_offset>
+      <start_time_offset>4232000</start_time_offset>
+    </item>
+    <item index="21">
+      <title>Chapter 22</title>
+      <end_time_offset>4480000</end_time_offset>
+      <start_time_offset>4323000</start_time_offset>
+    </item>
+    <item index="22">
+      <title>Chapter 23</title>
+      <end_time_offset>4764000</end_time_offset>
+      <start_time_offset>4480000</start_time_offset>
+    </item>
+    <item index="23">
+      <title>Chapter 24</title>
+      <end_time_offset>4991000</end_time_offset>
+      <start_time_offset>4764000</start_time_offset>
+    </item>
+    <item index="24">
+      <title>Chapter 25</title>
+      <end_time_offset>5222000</end_time_offset>
+      <start_time_offset>4991000</start_time_offset>
+    </item>
+    <item index="25">
+      <title>Chapter 26</title>
+      <end_time_offset>5376000</end_time_offset>
+      <start_time_offset>5222000</start_time_offset>
+    </item>
+    <item index="26">
+      <title>Chapter 27</title>
+      <end_time_offset>5521000</end_time_offset>
+      <start_time_offset>5376000</start_time_offset>
+    </item>
+    <item index="27">
+      <title>Chapter 28</title>
+      <end_time_offset>5703000</end_time_offset>
+      <start_time_offset>5521000</start_time_offset>
+    </item>
+    <item index="28">
+      <title>Chapter 29</title>
+      <end_time_offset>5890000</end_time_offset>
+      <start_time_offset>5703000</start_time_offset>
+    </item>
+    <item index="29">
+      <title>Chapter 30</title>
+      <end_time_offset>6042000</end_time_offset>
+      <start_time_offset>5890000</start_time_offset>
+    </item>
+    <item index="30">
+      <title>Chapter 31</title>
+      <end_time_offset>6194000</end_time_offset>
+      <start_time_offset>6042000</start_time_offset>
+    </item>
+    <item index="31">
+      <title>Chapter 32</title>
+      <end_time_offset>6304000</end_time_offset>
+      <start_time_offset>6194000</start_time_offset>
+    </item>
+    <item index="32">
+      <title>Chapter 33</title>
+      <end_time_offset>6480000</end_time_offset>
+      <start_time_offset>6304000</start_time_offset>
+    </item>
+    <item index="33">
+      <title>Chapter 34</title>
+      <end_time_offset>6599000</end_time_offset>
+      <start_time_offset>6480000</start_time_offset>
+    </item>
+    <item index="34">
+      <title>Chapter 35</title>
+      <end_time_offset>6687000</end_time_offset>
+      <start_time_offset>6599000</start_time_offset>
+    </item>
+    <item index="35">
+      <title>Chapter 36</title>
+      <end_time_offset>-1</end_time_offset>
+      <start_time_offset>6687000</start_time_offset>
+    </item>
+  </chapters>
+  <collections/>
+  <content_rating>PG-13</content_rating>
+  <countries>
+    <item index="0">United Kingdom</item>
+  </countries>
+  <directors>
+    <item index="0">
+      <photo>http://image.tmdb.org/t/p/original/kkDU7v5eDZTWbRIoPsRYT3AdcoG.jpg</photo>
+      <role/>
+      <name>Zal Batmanglij</name>
+    </item>
+  </directors>
+  <duration>6960000</duration>
+  <genres>
+    <item index="0">Adventure</item>
+    <item index="1">Drama</item>
+    <item index="2">Thriller</item>
+  </genres>
+  <originally_available_at>2013-05-31</originally_available_at>
+  <posters>
+    <item external="True" url="http://image.tmdb.org/t/p/original/n6n0rMFsQhdNoMygr2pyL26wUfM.jpg" sort_order="1" provider="com.plexapp.agents.imdb" media="com.plexapp.agents.imdb_476f06d9538a05567060c0416feaf129de5c209f"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/nGoFIX5WmthZZ3eLBd0QwDSkWNy.jpg" preview="com.plexapp.agents.imdb_06d396f66cb96a41de39c1227dee6ce06f4ffa00" sort_order="2" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/J0sXO56oOpvEbLSWwbXwIujlxp.jpg" preview="com.plexapp.agents.imdb_e82fd81572be78e5d6160a67d6e45755abce03e5" sort_order="3" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/zaeROgljq4xSsQXRjdokPsM6QOI.jpg" preview="com.plexapp.agents.imdb_9ebe8ea348ae400bc371bbf56ca0303c4d7590cb" sort_order="4" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/qfgn0GDeD9RHQCyRcHTKW8CgaBJ.jpg" preview="com.plexapp.agents.imdb_daadc3b26f640bb9f9e5a559eb51bd15202e39e4" sort_order="5" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/4BdJyWnDnDOd3bvixHFJh9txIcm.jpg" preview="com.plexapp.agents.imdb_5ce724985386d1c45f2a96c296f18a42a2cc791a" sort_order="6" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/tSxVB64LfzC89to3SfOwcI7wc4a.jpg" preview="com.plexapp.agents.imdb_22e15380fb6b8e01eb72c15178311afe898f184c" sort_order="7" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/gkAu9Bp2ByjTmgJccywpER7Ndxb.jpg" preview="com.plexapp.agents.imdb_ea61bd959c5514125dda05d44a9cb3ae8cfae518" sort_order="8" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/4gke8j4NGEHtp3UxSi7GQpuX9Hd.jpg" preview="com.plexapp.agents.imdb_da9a7e450e09d1f7c29d4442d2790825375383c2" sort_order="9" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/wKupSDlEHrBa5GTDJrI2F6OZNjp.jpg" preview="com.plexapp.agents.imdb_c8bcb427d5e54ac1a6f1e0e9fccc0fed3206ee43" sort_order="10" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/ajJqvPKMa6jbYmMS7vBlqHua5ag.jpg" preview="com.plexapp.agents.imdb_f6e922a45df07e487efa6a721082d10fefb2d364" sort_order="11" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/saK5TN7h01wXhii1Z7SV0TdVy2H.jpg" preview="com.plexapp.agents.imdb_170f971f97eff182eef8605060ad99dd0262753a" sort_order="12" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/3BU7zP87jZkhhvjT8iIBGEz4MNx.jpg" preview="com.plexapp.agents.imdb_a7dcc50b905c6ca6d6ff19123d1d48b09d68397d" sort_order="13" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/9jgFSpxwBZNnN41HaNadGmgYb6V.jpg" preview="com.plexapp.agents.imdb_ea69b1d2b8f3772461d66ddc18387dbb9dc8a905" sort_order="14" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/5TnJhH7su1T16sJR3jsu0fu0VGj.jpg" preview="com.plexapp.agents.imdb_d551413375ebc23e6e780a4121bddb33dd7cbbf2" sort_order="15" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/n96JRqdCD0VUmW5no4F9dgA6iMi.jpg" preview="com.plexapp.agents.imdb_ec9123e3ad33ffee971a4141f5f1a2c659953a25" sort_order="16" provider="com.plexapp.agents.imdb"/>
+  </posters>
+  <producers>
+    <item index="0">
+      <photo>http://image.tmdb.org/t/p/original/fptct66kwqniDkRwYCGmU2Bv2gT.jpg</photo>
+      <role/>
+      <name>Michael Costigan</name>
+    </item>
+    <item index="1">
+      <photo/>
+      <role/>
+      <name>Jocelyn Hayes</name>
+    </item>
+    <item index="2">
+      <photo>http://image.tmdb.org/t/p/original/5dTB4aazUJUgCywI51ZlN3djP8I.jpg</photo>
+      <role/>
+      <name>Brit Marling</name>
+    </item>
+    <item index="3">
+      <photo>http://image.tmdb.org/t/p/original/fB1ypzkwJKXEOVVAd4ymYRpBkdC.jpg</photo>
+      <role/>
+      <name>Ridley Scott</name>
+    </item>
+  </producers>
+  <rating>7.4</rating>
+  <rating_image>rottentomatoes://image.rating.ripe</rating_image>
+  <audience_rating>6.4</audience_rating>
+  <audience_rating_image>rottentomatoes://image.rating.spilled</audience_rating_image>
+  <reviews>
+    <item index="0">
+      <text>Marling and Batmanglij don't fear or resent entertainment: They make effective thrillers... If they reach a major studio and bigger budget, they could be the right kind of dangerous.</text>
+      <source>Grantland</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>http://www.grantland.com/blog/hollywood-prospectus/post/_/id/79900/smaller-movie-roundup-because-theres-life-after-man-of-steel</link>
+      <author>Wesley Morris</author>
+    </item>
+    <item index="1">
+      <text>Its morally ambiguous investigation of extreme left-wing politics is ... light years away from usual multiplex concerns.</text>
+      <source>Time Out</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>http://www.timeout.com/london/film/the-east</link>
+      <author>Guy Lodge</author>
+    </item>
+    <item index="2">
+      <text>"The East" leaves questions unanswered, but at least it asks those questions.</text>
+      <source>Detroit News</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>http://www.detroitnews.com/article/20130614/ENT02/306140019/1034/Review-radical-East-asks-tough-questions</link>
+      <author>Tom Long</author>
+    </item>
+    <item index="3">
+      <text>A fast-rising newcomer to film, the willowy Marling is maturing fast, and encouragingly unwilling to dumb herself down for stock girlfriend roles. This is her strongest work yet and I hope a harbinger of much more to come.</text>
+      <source>Minneapolis Star Tribune</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>http://www.startribune.com/entertainment/movies/211467601.html</link>
+      <author>Colin Covert</author>
+    </item>
+    <item index="4">
+      <text>Marling and Batmanglij bring an evenhanded perspective to their portrayals of the characters and issues involved.</text>
+      <source>Seattle Times</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>http://seattletimes.com/html/entertainment/2021180918_theeastxml.html?syndication=rss&amp;utm_source=feedly</link>
+      <author>Soren Anderson</author>
+    </item>
+    <item index="5">
+      <text>A watchably confused eco-thriller that's never sure who its heroes are.</text>
+      <source>Boston Globe</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>http://www.boston.com/ae/movies/2013/06/13/going-undercover-the-east/fxjMS6VtBfxZHPKSkE9rxK/story.html</link>
+      <author>Ty Burr</author>
+    </item>
+    <item index="6">
+      <text>It is a smart, well-acted drama, and another chance for Marling to exercise her unique talents, creating intriguing characters on the page and the screen.</text>
+      <source>Arizona Republic</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>http://www.azcentral.com/thingstodo/movies/articles/20130611the-east-movie-review-goodykoontz.html</link>
+      <author>Bill Goodykoontz</author>
+    </item>
+    <item index="7">
+      <text>"The East" prizes an initial air of mystery over consistent drama, and as a result ends up squandering its intriguing premise.</text>
+      <source>Chicago Sun-Times</source>
+      <image>rottentomatoes://image.review.rotten</image>
+      <link>http://www.rogerebert.com/reviews/the-east-2013</link>
+      <author>Ignatiy Vishnevetsky</author>
+    </item>
+    <item index="8">
+      <text>As is often the case with people who become major stars, [Marling] seems as if she has always been there. She's new and yet familiar, as if we've known her all along.</text>
+      <source>Hearst Newspapers</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>http://www.sfchronicle.com/movies/article/The-East-review-Marling-s-big-success-4583810.php?t=84cc5707a7</link>
+      <author>Mick LaSalle</author>
+    </item>
+    <item index="9">
+      <text>As a scriptwriter, actress Brit Marling has so far demonstrated an unerring instinct for creating meaty, if somewhat hard-to-swallow, roles for herself.</text>
+      <source>Washington Post</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>http://www.washingtonpost.com/goingoutguide/movies/the-east-movie-review/2013/06/06/92e2ad32-ca1f-11e2-9f1a-1a7cdee20287_story.html</link>
+      <author>Michael O'Sullivan</author>
+    </item>
+    <item index="10">
+      <text>Another project that proves this actress and filmmaker has the chops that will guarantee her longevity in the movie industry.</text>
+      <source>Chicago Sun-Times</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>http://www.suntimes.com/entertainment/movies/20460264-421/the-east-a-tale-of-corporate-espionage-takes-its-direction-from-brit-marling.html</link>
+      <author>Bill Zwecker</author>
+    </item>
+    <item index="11">
+      <text>The East is not a very good movie, hobbled by an excess of plot, a lack of believability and big gaps of logic.</text>
+      <source>Globe and Mail</source>
+      <image>rottentomatoes://image.review.rotten</image>
+      <link>http://www.theglobeandmail.com/arts/summer-entertainment/the-east-is-a-timely-thriller-that-doesnt-always-thrill/article12359111/</link>
+      <author>James Adams</author>
+    </item>
+    <item index="12">
+      <text>When the filmmakers try to flesh out the terrorists, they fall back on the conservative cliche that they're spoiled rich kids, mad at their parents.</text>
+      <source>Chicago Reader</source>
+      <image>rottentomatoes://image.review.rotten</image>
+      <link>http://www.chicagoreader.com/chicago/the-east/Film?oid=9667706</link>
+      <author>Ben Sachs</author>
+    </item>
+    <item index="13">
+      <text>A taut espionage drama that pits global corporations against a radical band of ecoterrorists.</text>
+      <source>Philadelphia Inquirer</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>http://www.philly.com/philly/entertainment/movies/20130607_A_taut__eerie_espionage_drama.html</link>
+      <author>Steven Rea</author>
+    </item>
+    <item index="14">
+      <text>Marling has a focus and poise that keeps us invested in her character's journey - even when the film begins to falter, as The East eventually does through inconsistency and expedience.</text>
+      <source>Toronto Star</source>
+      <image>rottentomatoes://image.review.rotten</image>
+      <link>http://www.thestar.com/entertainment/movies/2013/06/06/the_east_loses_sense_of_direction_review.html</link>
+      <author>Peter Howell</author>
+    </item>
+    <item index="15">
+      <text>It's irritatingly smug.</text>
+      <source>Newsday</source>
+      <image>rottentomatoes://image.review.rotten</image>
+      <link>http://www.newsday.com/entertainment/movies/the-east-review-real-issues-dramatic-shortcuts-1.5414586</link>
+      <author>John Anderson</author>
+    </item>
+    <item index="16">
+      <text>The reason the movie works, despite some "movie-stupid" developments in the second half, has everything to do with the low-key and unaffected quality Marling brings to the screen.</text>
+      <source>Chicago Tribune</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>http://www.chicagotribune.com/entertainment/movies/sc-mov-0604-east-20130606,0,3350315.column</link>
+      <author>Michael Phillips</author>
+    </item>
+    <item index="17">
+      <text>Marling and Batmangli are smart enough to know that character and ideas matter, and how the presence of those things can improve action and suspense.</text>
+      <source>MSN Movies</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>http://movies.msn.com/movies/movie-critic-reviews/the-east/</link>
+      <author>James Rocchi</author>
+    </item>
+    <item index="18">
+      <text>Fast-paced and energetic.</text>
+      <source>indieWire</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>http://www.indiewire.com/article/sundance-review-why-zal-batmanglijs-the-east-is-fascinating-and-illogical-at-the-same-time#</link>
+      <author>Eric Kohn</author>
+    </item>
+  </reviews>
+  <roles>
+    <item index="0">
+      <photo>http://image.tmdb.org/t/p/original/5dTB4aazUJUgCywI51ZlN3djP8I.jpg</photo>
+      <role>Sarah</role>
+      <name>Brit Marling</name>
+    </item>
+    <item index="1">
+      <photo>http://image.tmdb.org/t/p/original/aVAPqwoElxk9O8QID96l6qG4x2E.jpg</photo>
+      <role>Benji</role>
+      <name>Alexander Skarsgård</name>
+    </item>
+    <item index="2">
+      <photo>http://image.tmdb.org/t/p/original/xYMqDWthY4mnbVptrnvOZms9FYt.jpg</photo>
+      <role>Izzy</role>
+      <name>Ellen Page</name>
+    </item>
+    <item index="3">
+      <photo>http://image.tmdb.org/t/p/original/wQU3uFk2TWjT2qfs2Z6rkdbWbjx.jpg</photo>
+      <role>Doc</role>
+      <name>Toby Kebbell</name>
+    </item>
+    <item index="4">
+      <photo>http://image.tmdb.org/t/p/original/fIgfnIVyJYmBMG9RjsK50TyUNcO.jpg</photo>
+      <role>Luca</role>
+      <name>Shiloh Fernandez</name>
+    </item>
+    <item index="5">
+      <photo>http://image.tmdb.org/t/p/original/bwnP5uuAsJgceLF2kJbeMJN0ONP.jpg</photo>
+      <role>Thumbs</role>
+      <name>Aldis Hodge</name>
+    </item>
+    <item index="6">
+      <photo>http://image.tmdb.org/t/p/original/pPaypOzZ4oldd7KJHvDEfPSynSi.jpg</photo>
+      <role>Tess</role>
+      <name>Danielle Macdonald</name>
+    </item>
+    <item index="7">
+      <photo/>
+      <role>Eve</role>
+      <name>Hillary Baack</name>
+    </item>
+    <item index="8">
+      <photo>http://image.tmdb.org/t/p/original/10ZSyaUqzUlKTd60HmeiGhlytZG.jpg</photo>
+      <role>Sharon</role>
+      <name>Patricia Clarkson</name>
+    </item>
+    <item index="9">
+      <photo>http://image.tmdb.org/t/p/original/ysWVNRFfk7oGngurF7VWkWhvyQS.jpg</photo>
+      <role>Tim</role>
+      <name>Jason Ritter</name>
+    </item>
+    <item index="10">
+      <photo>http://image.tmdb.org/t/p/original/GYnXYOvBhzPfNmTpeIiO0XRTUu.jpg</photo>
+      <role>Paige</role>
+      <name>Julia Ormond</name>
+    </item>
+    <item index="11">
+      <photo>http://image.tmdb.org/t/p/original/beXgMEBhkWS8BUsc69ojIOGiakV.jpg</photo>
+      <role>Porty McCabe</role>
+      <name>Billy Magnussen</name>
+    </item>
+    <item index="12">
+      <photo>http://image.tmdb.org/t/p/original/zkt1tKQpdmDcFtmoRSuZHIXQtDm.jpg</photo>
+      <role>Robert McCabe</role>
+      <name>Wilbur Fitzgerald</name>
+    </item>
+    <item index="13">
+      <photo>http://image.tmdb.org/t/p/original/yfqtwgV4ettobFyPn6x7LW6u5AI.jpg</photo>
+      <role>Rory Huston</role>
+      <name>John Neisler</name>
+    </item>
+    <item index="14">
+      <photo>http://image.tmdb.org/t/p/original/xOhl3hP49XKTZuj8hzs2CdtMliT.jpg</photo>
+      <role>Richard Cannon</role>
+      <name>Jamey Sheridan</name>
+    </item>
+  </roles>
+  <similar>
+    <item index="0">Sound of My Voice</item>
+    <item index="1">Martha Marcy May Marlene</item>
+    <item index="2">Byzantium</item>
+    <item index="3">The Whistleblower</item>
+    <item index="4">Peacock</item>
+    <item index="5">Another Earth</item>
+    <item index="6">Transsiberian</item>
+    <item index="7">The Debt</item>
+    <item index="8">Disconnect</item>
+    <item index="9">Traitor</item>
+    <item index="10">Killer Joe</item>
+    <item index="11">Closed Circuit</item>
+    <item index="12">The United States of Leland</item>
+    <item index="13">Bellflower</item>
+    <item index="14">The International</item>
+    <item index="15">Nothing But the Truth</item>
+    <item index="16">In a World...</item>
+    <item index="17">Sunshine Cleaning</item>
+    <item index="18">Touchy Feely</item>
+    <item index="19">Wild Target</item>
+  </similar>
+  <studio>Scott Free Productions</studio>
+  <summary>An operative for an elite private intelligence firm finds her priorities irrevocably changed after she is tasked with infiltrating an anarchist group known for executing covert attacks upon major corporations.</summary>
+  <tagline>Spy on us, we'll spy on you.</tagline>
+  <tags/>
+  <themes/>
+  <title>The East</title>
+  <writers>
+    <item index="0">
+      <photo>http://image.tmdb.org/t/p/original/kkDU7v5eDZTWbRIoPsRYT3AdcoG.jpg</photo>
+      <role/>
+      <name>Zal Batmanglij</name>
+    </item>
+    <item index="1">
+      <photo>http://image.tmdb.org/t/p/original/5dTB4aazUJUgCywI51ZlN3djP8I.jpg</photo>
+      <role/>
+      <name>Brit Marling</name>
+    </item>
+  </writers>
+  <year>2013</year>
+</Movie>

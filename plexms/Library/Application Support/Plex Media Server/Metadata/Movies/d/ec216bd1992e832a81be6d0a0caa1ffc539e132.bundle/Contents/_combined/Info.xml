@@ -1,0 +1,410 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Movie>
+  <art>
+    <item external="True" url="http://image.tmdb.org/t/p/original/9SOFEFwTQLCtPhyre9216tg45IH.jpg" sort_order="1" provider="com.plexapp.agents.imdb" media="com.plexapp.agents.imdb_80865bbc4b26da3810d54f2d14d709ac1855a8ed"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/4a3oqhYZA9MIAoY427Veb0I4aTN.jpg" preview="com.plexapp.agents.imdb_38fc1fda7acf91242cc44857a9eac93c04c48736" sort_order="2" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/7r1lRcxUTTVSza2omA9tkOZgpo2.jpg" preview="com.plexapp.agents.imdb_b6ebce88e3199ca3baae1a7f6dc1143ee0602444" sort_order="3" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/9H0LKt9dmKY8p0hBGFJAHAnHzTj.jpg" preview="com.plexapp.agents.imdb_2b74eeca4ab4c1243ca23a1199ff162c73e6177e" sort_order="4" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/tSlqQAYkrKXnXLwbSeNZva3PsDS.jpg" preview="com.plexapp.agents.imdb_285c71ccc5a128c7963b42e1cd47154cb902e389" sort_order="5" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/qnteZhiYEI3dKUKpecwk9dZY8Ub.jpg" preview="com.plexapp.agents.imdb_db33ad72c4106ef683b5af134d480d3c7e25a94e" sort_order="6" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/481ovXKn196pUNhz9FV83xQmLyu.jpg" preview="com.plexapp.agents.imdb_64f52abfe281092c703e3d91f6ca99cd1eb131c7" sort_order="7" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/gSuTachGuhFVD13EwhJbN3sulRR.jpg" preview="com.plexapp.agents.imdb_5cdba1b9d6670f2720138fc291bf4188a3fe9c11" sort_order="8" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/pM5SsePOhkfuodX8iusOpsTBa4U.jpg" preview="com.plexapp.agents.imdb_9315499dde9413080816b027a964a6d1162c5a91" sort_order="9" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/kobkt8yR26GdQ8vndCpwJQeEyaf.jpg" preview="com.plexapp.agents.imdb_1f5d50a1dc405dfa2395dff90b6f80e05adb52c0" sort_order="10" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/eNzm0tJ7ShrvpqUte4tZAHITq1y.jpg" preview="com.plexapp.agents.imdb_74ff701dc088604e1464fb83ae2576c2969282b1" sort_order="11" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/l4jV0qZt87zudSs5xzpKgJN9CgI.jpg" preview="com.plexapp.agents.imdb_7e3f2e3ee3747a78cfda969e72bfd5a7de6728bc" sort_order="12" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/dAmQZFEq8NmU3Yc2eX2NurCe3fS.jpg" preview="com.plexapp.agents.imdb_2e79694871022a06017955e193b9721e00c44e3f" sort_order="13" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/jMlXoWZ2eTy7Ve690FeK7NefGPI.jpg" preview="com.plexapp.agents.imdb_baae0da956b1fabe054f7e02d9570bc4cf443350" sort_order="14" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/l0GhQUGBjNxCA1kdDWaTPgsgNxF.jpg" preview="com.plexapp.agents.imdb_8c5a80cf7dde4ab1f9f7f64ad43b8814a41091fe" sort_order="15" provider="com.plexapp.agents.imdb"/>
+  </art>
+  <banners/>
+  <chapters>
+    <item index="0">
+      <title>Once Upon a Time</title>
+      <end_time_offset>255000</end_time_offset>
+      <start_time_offset>0</start_time_offset>
+    </item>
+    <item index="1">
+      <title>The Sense of Hospitality</title>
+      <end_time_offset>523000</end_time_offset>
+      <start_time_offset>255000</start_time_offset>
+    </item>
+    <item index="2">
+      <title>The Mystery of the Beast</title>
+      <end_time_offset>891000</end_time_offset>
+      <start_time_offset>523000</start_time_offset>
+    </item>
+    <item index="3">
+      <title>Aristocrats &amp; Carnivores</title>
+      <end_time_offset>1426000</end_time_offset>
+      <start_time_offset>891000</start_time_offset>
+    </item>
+    <item index="4">
+      <title>Battle in the Ring</title>
+      <end_time_offset>1971000</end_time_offset>
+      <start_time_offset>1426000</start_time_offset>
+    </item>
+    <item index="5">
+      <title>You Don't Like Hunting?</title>
+      <end_time_offset>2410000</end_time_offset>
+      <start_time_offset>1971000</start_time_offset>
+    </item>
+    <item index="6">
+      <title>The House of Madame Tessier</title>
+      <end_time_offset>2723000</end_time_offset>
+      <start_time_offset>2410000</start_time_offset>
+    </item>
+    <item index="7">
+      <title>Disappearance at Mount Mouchet</title>
+      <end_time_offset>3306000</end_time_offset>
+      <start_time_offset>2723000</start_time_offset>
+    </item>
+    <item index="8">
+      <title>The Nightmare</title>
+      <end_time_offset>3854000</end_time_offset>
+      <start_time_offset>3306000</start_time_offset>
+    </item>
+    <item index="9">
+      <title>The Beast Is Dead</title>
+      <end_time_offset>4263000</end_time_offset>
+      <start_time_offset>3854000</start_time_offset>
+    </item>
+    <item index="10">
+      <title>The Best, the Shepherdess &amp; the Puppy</title>
+      <end_time_offset>4478000</end_time_offset>
+      <start_time_offset>4263000</start_time_offset>
+    </item>
+    <item index="11">
+      <title>Return to GéVaudan</title>
+      <end_time_offset>4789000</end_time_offset>
+      <start_time_offset>4478000</start_time_offset>
+    </item>
+    <item index="12">
+      <title>The Last Hunt</title>
+      <end_time_offset>5404000</end_time_offset>
+      <start_time_offset>4789000</start_time_offset>
+    </item>
+    <item index="13">
+      <title>A Trail of Blood</title>
+      <end_time_offset>5772000</end_time_offset>
+      <start_time_offset>5404000</start_time_offset>
+    </item>
+    <item index="14">
+      <title>The Butcher</title>
+      <end_time_offset>6164000</end_time_offset>
+      <start_time_offset>5772000</start_time_offset>
+    </item>
+    <item index="15">
+      <title>Vengance</title>
+      <end_time_offset>6662000</end_time_offset>
+      <start_time_offset>6164000</start_time_offset>
+    </item>
+    <item index="16">
+      <title>The Girl Who Knew Too Much</title>
+      <end_time_offset>7008000</end_time_offset>
+      <start_time_offset>6662000</start_time_offset>
+    </item>
+    <item index="17">
+      <title>The Wolves of God</title>
+      <end_time_offset>7493000</end_time_offset>
+      <start_time_offset>7008000</start_time_offset>
+    </item>
+    <item index="18">
+      <title>The Justice of the Wolves</title>
+      <end_time_offset>7780000</end_time_offset>
+      <start_time_offset>7493000</start_time_offset>
+    </item>
+    <item index="19">
+      <title>Epilogue</title>
+      <end_time_offset>8580000</end_time_offset>
+      <start_time_offset>7780000</start_time_offset>
+    </item>
+    <item index="20">
+      <title>Chapter 21</title>
+      <end_time_offset>-1</end_time_offset>
+      <start_time_offset>8580000</start_time_offset>
+    </item>
+  </chapters>
+  <collections/>
+  <content_rating>R</content_rating>
+  <countries>
+    <item index="0">France</item>
+  </countries>
+  <directors>
+    <item index="0">
+      <photo>http://image.tmdb.org/t/p/original/8tFxHa7RT3MOBTs72j9pSwkG6MJ.jpg</photo>
+      <role/>
+      <name>Christophe Gans</name>
+    </item>
+  </directors>
+  <duration>8220000</duration>
+  <genres>
+    <item index="0">Action</item>
+    <item index="1">Adventure</item>
+    <item index="2">Drama</item>
+    <item index="3">Horror</item>
+    <item index="4">Thriller</item>
+  </genres>
+  <original_title>Le Pacte des loups</original_title>
+  <originally_available_at>2001-01-31</originally_available_at>
+  <posters>
+    <item external="True" url="http://image.tmdb.org/t/p/original/1OyUsDSFayOH9LACASkuXOZqkPy.jpg" sort_order="1" provider="com.plexapp.agents.imdb" media="com.plexapp.agents.imdb_d3ab04e2921a801b392026b11a24d2b89664ea55"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/xmcysdKsfTkr4QBmA2X28D7vS3F.jpg" preview="com.plexapp.agents.imdb_a653e1db23356a66bb08dc8a9db3720a89fa82bc" sort_order="2" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/x0bsgEeWqpvH8Lgwgmzi2tujlrV.jpg" preview="com.plexapp.agents.imdb_5c7f54f221a631cb44cbc11d8da32f3b5c1d8875" sort_order="3" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/foovENIFjisKxJzFVIQbkXDCsK3.jpg" preview="com.plexapp.agents.imdb_710dad0c34354d5d6c7f916e73330e86019400d5" sort_order="4" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/8zr4GHBGXq5MttrIO6PBENpix1o.jpg" preview="com.plexapp.agents.imdb_2e4febc89b366604620b1215e3903c85c1b43584" sort_order="5" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/4jDtKADOlvE2HyqKAFvzvYFwKdy.jpg" preview="com.plexapp.agents.imdb_ea8f68d9afb67ab57abe7879897b30cf04a3084f" sort_order="6" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/acSbTz7iTkB0cmnzeHc0NGDDDQr.jpg" preview="com.plexapp.agents.imdb_44f7a56c972ac6570d464cf80893e300f271a15d" sort_order="7" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/mQeW7ahPaFnLme5SdNHURxrMh41.jpg" preview="com.plexapp.agents.imdb_1e85bcb897d9c8340169ecae93b1c11fb916476b" sort_order="8" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/cLFbMN94Z4CpNmq7ZVsgQ5BlsyF.jpg" preview="com.plexapp.agents.imdb_7546ba745daf6929e5b44324cb7cd950c427d8c2" sort_order="9" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/cUrpPvUTovc34x3RTINaaF7hIYm.jpg" preview="com.plexapp.agents.imdb_50ace7f46d412520b4437582a634f50d7aac7966" sort_order="10" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/blGZ0AjLIdpDhpMSUQC8is9mRaF.jpg" preview="com.plexapp.agents.imdb_382a8976c796a0b9e29b15fdcdc31ff5120a0a14" sort_order="11" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/pohLakVpSUTAdz7IIhgtauvZsgh.jpg" preview="com.plexapp.agents.imdb_83f4af0c5253fb551e3eb6eddb61401b2f33373d" sort_order="12" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/5lgy9gUew1bP5L5KkCTmW1eNGLx.jpg" preview="com.plexapp.agents.imdb_6d26fac1e1b4510e2b1e77d35d6e6b81393ead40" sort_order="13" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/jBXJrzD3akjCIdtOXBoeQzqRW6F.jpg" preview="com.plexapp.agents.imdb_e6ea758b932e30a0704335433a27648284072f18" sort_order="14" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/2L1ESiQPqkMqfxzeqxWyg1yPHsg.jpg" preview="com.plexapp.agents.imdb_9fec702199dea84b3c74b492a1946113db9ea788" sort_order="15" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/keYIhufywFgDZaymc3I6O3ZgsvO.jpg" preview="com.plexapp.agents.imdb_77c6231585f5c25ad9d6c3f904c613254e49e046" sort_order="16" provider="com.plexapp.agents.imdb"/>
+  </posters>
+  <producers>
+    <item index="0">
+      <photo/>
+      <role/>
+      <name>Richard Grandpierre</name>
+    </item>
+    <item index="1">
+      <photo>http://image.tmdb.org/t/p/original/kUmEKIsY5xeyxApLmHozX6rVNUC.jpg</photo>
+      <role/>
+      <name>Samuel Hadida</name>
+    </item>
+  </producers>
+  <rating>7.3</rating>
+  <rating_image>rottentomatoes://image.rating.ripe</rating_image>
+  <audience_rating>7.8</audience_rating>
+  <audience_rating_image>rottentomatoes://image.rating.upright</audience_rating_image>
+  <reviews>
+    <item index="0">
+      <text>A wonder of magpie postmodernism, a samurai adventure with Hong Kong action and a wry touch of American Western, all sewn into a free interpretation of Gallic history that also has its finger on the pulse of current social trends.</text>
+      <source>L.A. Weekly</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>http://www.laweekly.com/ink/02/08/film-taylor.php</link>
+      <author>Ella Taylor</author>
+    </item>
+    <item index="1">
+      <text>Instead of fluid acrobatics, we get hyperbolic montages of kicking feet, somersaulting torsos, and fists connecting with faces.</text>
+      <source>Slate</source>
+      <image>rottentomatoes://image.review.rotten</image>
+      <link>http://www.slate.com/id/2060871</link>
+      <author>David Edelstein</author>
+    </item>
+    <item index="2">
+      <text>Fun movie, animatronic beast and all.</text>
+      <source>New York Observer</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>http://www.nyobserver.com/pages/story.asp?ID=5390</link>
+      <author>Andrew Sarris</author>
+    </item>
+    <item index="3">
+      <text>Exhilirating viewing, at least while the feet are flying and the fangs are baring.</text>
+      <source>Toronto Star</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>http://www.thestar.com/NASApp/cs/ContentServer?pagename=thestar/Layout/Article_Type1&amp;c=Article&amp;cid=1013122885799&amp;call_page=TS_News_Columnists&amp;call_pageid=970599109774&amp;call_pagepath=Columnists</link>
+      <author>Peter Howell</author>
+    </item>
+    <item index="4">
+      <text>Ridiculously entertaining, like a 2-hour visit to some weird foreign county fair where you visit an educational exhibit, knock down some stuffed targets, catch the freak show, visit the house of horrors and then get lucky on the Ferris wheel.</text>
+      <source>Detroit Free Press</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>http://ae.freep.com/entertainment/ui/michigan/movie.html?id=56541&amp;reviewId=7338</link>
+      <author>Terry Lawson</author>
+    </item>
+    <item index="5">
+      <text>This is one of those follies that go beyond pesky, bourgeois notions of 'good' and 'bad.'</text>
+      <source>Entertainment Weekly</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>http://www.ew.com/ew/article/review/movie/0,6115,194345~1~0~brotherhoodofwolf,00.html</link>
+      <author>Ty Burr</author>
+    </item>
+    <item index="6">
+      <text>Daring in its approach and successful in its result -- assuming the result is to provide pure entertainment to the viewer.</text>
+      <source>ReelViews</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>http://www.reelviews.net/php_review_template.php?identifier=1517</link>
+      <author>James Berardinelli</author>
+    </item>
+    <item index="7">
+      <text>A mad agglomeration of styles and traditions that ultimately results in nothing so much as a mad agglomeration of styles and traditions.</text>
+      <source>Washington Post</source>
+      <image>rottentomatoes://image.review.rotten</image>
+      <link>http://www.washingtonpost.com/wp-dyn/content/article/2002/01/11/AR2005040200632.html</link>
+      <author>Stephen Hunter</author>
+    </item>
+    <item index="8">
+      <text>Gans appears to have no threshold of pain when it comes to his eardrums.</text>
+      <source>Washington Post</source>
+      <image>rottentomatoes://image.review.rotten</image>
+      <link>http://www.washingtonpost.com/wp-dyn/content/article/2002/01/11/AR2005033115759.html</link>
+      <author>Desson Thomson</author>
+    </item>
+    <item index="9">
+      <text>With this grisly popcorn movie, we're reminded of the heavy-handed contributions that some U.S. blockbusters are making to global culture.</text>
+      <source>USA Today</source>
+      <image>rottentomatoes://image.review.rotten</image>
+      <link>http://www.usatoday.com/life/enter/movies/2002/2002-01-11-brotherhood-of-the-wolf-review.htm</link>
+      <author>Claudia Puig</author>
+    </item>
+    <item index="10">
+      <text>A tremendously fun, epic, kitchen-sink of genres that just avoids getting too silly or predictable.</text>
+      <source>Seattle Times</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>http://seattletimes.nwsource.com/html/artsentertainment/134389480_wolf11.html</link>
+      <author>Mark Rahner</author>
+    </item>
+  </reviews>
+  <roles>
+    <item index="0">
+      <photo>http://image.tmdb.org/t/p/original/24P2Ice4XQxb7Z0yd6yqoDUwgyb.jpg</photo>
+      <role>Grégoire de Fronsac</role>
+      <name>Samuel Le Bihan</name>
+    </item>
+    <item index="1">
+      <photo>http://image.tmdb.org/t/p/original/yTTyX7xziiMibm0nzcH5z6xxLLv.jpg</photo>
+      <role>Jean-François de Morangias</role>
+      <name>Vincent Cassel</name>
+    </item>
+    <item index="2">
+      <photo>http://image.tmdb.org/t/p/original/dsOHqgq8NkCi36hpgx0jwsKeKYg.jpg</photo>
+      <role>Marianne de Morangias</role>
+      <name>Émilie Dequenne</name>
+    </item>
+    <item index="3">
+      <photo>http://image.tmdb.org/t/p/original/nkrIGojQy6FNn9s5cfpiUAmLeNz.jpg</photo>
+      <role>Sylvia</role>
+      <name>Monica Bellucci</name>
+    </item>
+    <item index="4">
+      <photo>http://image.tmdb.org/t/p/original/l939A74W04uQ7CAqN7WLgLq19RV.jpg</photo>
+      <role>Thomas d'Apcher</role>
+      <name>Jérémie Renier</name>
+    </item>
+    <item index="5">
+      <photo>http://image.tmdb.org/t/p/original/3wf7YSgHSEGzEJ3z7q0tL4Q4LZv.jpg</photo>
+      <role>Mani</role>
+      <name>Mark Dacascos</name>
+    </item>
+    <item index="6">
+      <photo>http://image.tmdb.org/t/p/original/79Z1qcDpbyRp5HPSBQvm15xwqOI.jpg</photo>
+      <role>Le Comte de Morangias</role>
+      <name>Jean Yanne</name>
+    </item>
+    <item index="7">
+      <photo>http://image.tmdb.org/t/p/original/82NUI5wvm0viU6U9PzGyRNLlnk5.jpg</photo>
+      <role>Sardis</role>
+      <name>Jean-François Stévenin</name>
+    </item>
+    <item index="8">
+      <photo>http://image.tmdb.org/t/p/original/cjLEEzFfEGoEEpHnNxjfso04Dd0.jpg</photo>
+      <role>Beauterne</role>
+      <name>Johan Leysen</name>
+    </item>
+    <item index="9">
+      <photo>http://image.tmdb.org/t/p/original/6qegj3UL0YKMARVakEDSFTXbMRk.jpg</photo>
+      <role>Thomas Agé</role>
+      <name>Jacques Perrin</name>
+    </item>
+    <item index="10">
+      <photo>http://image.tmdb.org/t/p/original/OHzFbqBQDwAGYofJNFFH2Z8mPp.jpg</photo>
+      <role>Laffont</role>
+      <name>Bernard Farcy</name>
+    </item>
+    <item index="11">
+      <photo>http://image.tmdb.org/t/p/original/DbTl7eoRq2rFmRbXuIi9i2lJjz.jpg</photo>
+      <role>Mme de Morangias</role>
+      <name>Edith Scob</name>
+    </item>
+    <item index="12">
+      <photo>http://image.tmdb.org/t/p/original/gk0VN84CbpRwdh9mO7d2EcoQyEJ.jpg</photo>
+      <role>Marquis d'Apcher</role>
+      <name>Hans Meyer</name>
+    </item>
+    <item index="13">
+      <photo/>
+      <role>La Bavarde</role>
+      <name>Virginie Darmon</name>
+    </item>
+    <item index="14">
+      <photo>http://image.tmdb.org/t/p/original/1ZrnApxh9qZz1EdEB1vKWwoFd5B.jpg</photo>
+      <role>Jean Chastel</role>
+      <name>Philippe Nahon</name>
+    </item>
+    <item index="15">
+      <photo>http://image.tmdb.org/t/p/original/7o0JhUIHRd7R0A5yY6g0blNNQNf.jpg</photo>
+      <role>La Fêlure</role>
+      <name>Nicky Naudé</name>
+    </item>
+    <item index="16">
+      <photo>http://image.tmdb.org/t/p/original/4cZJreyjEceeISLTxX0eZuW656h.jpg</photo>
+      <role>La Loutre</role>
+      <name>Gaëlle Cohen</name>
+    </item>
+    <item index="17">
+      <photo>http://image.tmdb.org/t/p/original/eHOiahagStCC3TssKOEpvulstY9.jpg</photo>
+      <role>Valet Maison Teissier</role>
+      <name>Charles Maquignon</name>
+    </item>
+    <item index="18">
+      <photo>http://image.tmdb.org/t/p/original/fuZEtNbCzzQr2v4DhhCKo7YAsb0.jpg</photo>
+      <role>Louis</role>
+      <name>Gaspard Ulliel</name>
+    </item>
+    <item index="19">
+      <photo>http://image.tmdb.org/t/p/original/jfRV2BRpKfHo0ff9nxrhIT03iUv.jpg</photo>
+      <role>Assistant de Machemort</role>
+      <name>Pascal Laugier</name>
+    </item>
+    <item index="20">
+      <photo>http://image.tmdb.org/t/p/original/f0u6YOKJ6nGVqdWCINAYSBQ0AHk.jpg</photo>
+      <role>Officier Bucher</role>
+      <name>Emanuel Booz</name>
+    </item>
+  </roles>
+  <similar>
+    <item index="0">The 13th Warrior</item>
+    <item index="1">Vidocq</item>
+    <item index="2">The Crimson Rivers</item>
+    <item index="3">The Messenger: The Story of Joan of Arc</item>
+    <item index="4">Ronin</item>
+    <item index="5">Red Heat</item>
+    <item index="6">Reign of Fire</item>
+    <item index="7">Ransom</item>
+    <item index="8">Dog Soldiers</item>
+    <item index="9">Highlander</item>
+    <item index="10">Kiss of the Dragon</item>
+    <item index="11">Cop Land</item>
+    <item index="12">The Jackal</item>
+    <item index="13">Striking Distance</item>
+    <item index="14">Shaft</item>
+    <item index="15">Vampires</item>
+    <item index="16">The Long Kiss Goodnight</item>
+    <item index="17">End of Days</item>
+    <item index="18">Last Man Standing</item>
+    <item index="19">Waterworld</item>
+  </similar>
+  <studio>Canal+</studio>
+  <summary>In 18th century France, the Chevalier de Fronsac and his Native American friend Mani are sent by the King to the Gevaudan province to investigate the killings of hundreds by a mysterious beast.</summary>
+  <tags/>
+  <themes/>
+  <title>Brotherhood of the Wolf</title>
+  <writers>
+    <item index="0">
+      <photo/>
+      <role/>
+      <name>Stéphane Cabel</name>
+    </item>
+    <item index="1">
+      <photo>http://image.tmdb.org/t/p/original/8tFxHa7RT3MOBTs72j9pSwkG6MJ.jpg</photo>
+      <role/>
+      <name>Christophe Gans</name>
+    </item>
+  </writers>
+  <year>2001</year>
+</Movie>

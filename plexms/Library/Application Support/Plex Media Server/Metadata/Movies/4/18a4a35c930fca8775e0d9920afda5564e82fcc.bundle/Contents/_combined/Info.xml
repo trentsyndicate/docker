@@ -1,0 +1,279 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Movie>
+  <art>
+    <item external="True" url="http://image.tmdb.org/t/p/original/wIJnxhFv7YfKFDzQ63gxy5uE3Px.jpg" sort_order="1" provider="com.plexapp.agents.imdb" media="com.plexapp.agents.imdb_fa1d6c7f30e0c3960f92d152851797f701224ad7"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/ouurCv7Py7sKJmXbbvpHDOLWaHl.jpg" preview="com.plexapp.agents.imdb_478a9e457f4c1aa3e8465b3ec0ca487ff827173e" sort_order="2" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/5yo7gzdfQpPiTcF22j37dUHmWOh.jpg" preview="com.plexapp.agents.imdb_f98305cce168a6fec7abee433182ca15b059eaba" sort_order="3" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/eFkloBGJFSHIILWh40ItXtqhUFi.jpg" preview="com.plexapp.agents.imdb_aa7ecb1e1663cfffb91fc2471dc7beb00d3d3523" sort_order="4" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/kBrWWQnIv0T4veqkneFTmJFo2LL.jpg" preview="com.plexapp.agents.imdb_cdff113493e6b77d6aaa45e1c22d7ac85c373f3f" sort_order="5" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/cab46LA4lt84O0Db3p0G8U9Icxm.jpg" preview="com.plexapp.agents.imdb_a57275fd217657ba113f215515190a50d02bddb4" sort_order="6" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/lma3IefTDxqZ3iPifAnJEPeKa2y.jpg" preview="com.plexapp.agents.imdb_c4f2aac526de2005e4c5b838434c440e761488e2" sort_order="7" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/xx9DyVNmehDJPrYGsy9AJgYzAtd.jpg" preview="com.plexapp.agents.imdb_97f162318b18dc07b9f1e087a6600098c77f0f9f" sort_order="8" provider="com.plexapp.agents.imdb"/>
+  </art>
+  <banners/>
+  <chapters>
+    <item index="0">
+      <title>Title / Champion</title>
+      <end_time_offset>470000</end_time_offset>
+      <start_time_offset>0</start_time_offset>
+    </item>
+    <item index="1">
+      <title>Defender</title>
+      <end_time_offset>847000</end_time_offset>
+      <start_time_offset>470000</start_time_offset>
+    </item>
+    <item index="2">
+      <title>Credits / Poor Paulie</title>
+      <end_time_offset>1322000</end_time_offset>
+      <start_time_offset>847000</start_time_offset>
+    </item>
+    <item index="3">
+      <title>Thunder Lips</title>
+      <end_time_offset>1764000</end_time_offset>
+      <start_time_offset>1322000</start_time_offset>
+    </item>
+    <item index="4">
+      <title>One More Fight</title>
+      <end_time_offset>2448000</end_time_offset>
+      <start_time_offset>1764000</start_time_offset>
+    </item>
+    <item index="5">
+      <title>Cross-Training</title>
+      <end_time_offset>2996000</end_time_offset>
+      <start_time_offset>2448000</start_time_offset>
+    </item>
+    <item index="6">
+      <title>Clubber Lang</title>
+      <end_time_offset>3713000</end_time_offset>
+      <start_time_offset>2996000</start_time_offset>
+    </item>
+    <item index="7">
+      <title>Mourning Mickey</title>
+      <end_time_offset>3861000</end_time_offset>
+      <start_time_offset>3713000</start_time_offset>
+    </item>
+    <item index="8">
+      <title>Eye Of The Tiger</title>
+      <end_time_offset>4321000</end_time_offset>
+      <start_time_offset>3861000</start_time_offset>
+    </item>
+    <item index="9">
+      <title>New Beginning</title>
+      <end_time_offset>4620000</end_time_offset>
+      <start_time_offset>4321000</start_time_offset>
+    </item>
+    <item index="10">
+      <title>No Tomorrow</title>
+      <end_time_offset>5187000</end_time_offset>
+      <start_time_offset>4620000</start_time_offset>
+    </item>
+    <item index="11">
+      <title>Pep Talk</title>
+      <end_time_offset>5561000</end_time_offset>
+      <start_time_offset>5187000</start_time_offset>
+    </item>
+    <item index="12">
+      <title>Getting Strong</title>
+      <end_time_offset>6087000</end_time_offset>
+      <start_time_offset>5561000</start_time_offset>
+    </item>
+    <item index="13">
+      <title>"Go For It!"</title>
+      <end_time_offset>6714000</end_time_offset>
+      <start_time_offset>6087000</start_time_offset>
+    </item>
+    <item index="14">
+      <title>Favor</title>
+      <end_time_offset>6881000</end_time_offset>
+      <start_time_offset>6714000</start_time_offset>
+    </item>
+    <item index="15">
+      <title>End Credits</title>
+      <end_time_offset>-1</end_time_offset>
+      <start_time_offset>6881000</start_time_offset>
+    </item>
+  </chapters>
+  <collections/>
+  <content_rating>PG</content_rating>
+  <countries>
+    <item index="0">USA</item>
+  </countries>
+  <directors>
+    <item index="0">
+      <photo>http://image.tmdb.org/t/p/original/gnmwOa46C2TP35N7ARSzboTdx2u.jpg</photo>
+      <role/>
+      <name>Sylvester Stallone</name>
+    </item>
+  </directors>
+  <duration>7140000</duration>
+  <genres>
+    <item index="0">Drama</item>
+    <item index="1">Sport</item>
+  </genres>
+  <originally_available_at>1979-06-15</originally_available_at>
+  <posters>
+    <item external="True" url="http://image.tmdb.org/t/p/original/a9UbfUELZHj96tBVWnKrDrtnQcr.jpg" sort_order="1" provider="com.plexapp.agents.imdb" media="com.plexapp.agents.imdb_bc0a48a52b267b20a28b112760dedab941c93326"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/nFtDSJ2ebN54jdWrrF391mJzMhL.jpg" preview="com.plexapp.agents.imdb_1b0514a8de0c9ee0fd14f998dd3333b57c32c818" sort_order="2" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/NGxIbk3qNtPACVN9Y6c9qDkOir.jpg" preview="com.plexapp.agents.imdb_93bdf88de960c1a49efc970481752a5c269d2a92" sort_order="3" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/3yfSuDxbF6eYuGhpp4eW9SGFrlQ.jpg" preview="com.plexapp.agents.imdb_9674002caf13a5bb6bed2bc2cc4da6c6c8e0bfdc" sort_order="4" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/azMpMNioOmSjufhie8opfVqnRnO.jpg" preview="com.plexapp.agents.imdb_1f029c7ff1cd5f0b440866fc6cc5784d711b57b1" sort_order="5" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/fqJH7mI4dFANRay8qdJoGa7fK1k.jpg" preview="com.plexapp.agents.imdb_8edca738f8e847af77e9969f6671ed8fb7e0cdea" sort_order="6" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/rQ3h5MhALHoVq6HHJI0NzJoo7ls.jpg" preview="com.plexapp.agents.imdb_712a58a7d54a736e002daee6f1c82a9dd3311fb2" sort_order="7" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/zQfIaGE4ckhVsuCAUmxFjHwmIp2.jpg" preview="com.plexapp.agents.imdb_390e9f171532b9a945f49235d02479b75cb281a7" sort_order="8" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/bSuAUuPRfS5TEk8Yicvej9438TP.jpg" preview="com.plexapp.agents.imdb_b0de117f5b7edb7cd17b651668a0dce82950e404" sort_order="9" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/fCs6EBzBMzHlKg6Zaz1vSDKRTK8.jpg" preview="com.plexapp.agents.imdb_07d5f1cf7575a4655432a2b65e959e62a511686d" sort_order="10" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/vTM2UzrtIVAZZX14oO5ul94DqQs.jpg" preview="com.plexapp.agents.imdb_aaad720eee7b41e40f8d477ab0d2867bab1eac86" sort_order="11" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/prBQY0lSUXHCJydOMcZw7dUFrdg.jpg" preview="com.plexapp.agents.imdb_15bdb7ee34bef9850aa09d640c120a35a6d54a14" sort_order="12" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/fRvn3nUpMOSPBzisF23j1wIoq6l.jpg" preview="com.plexapp.agents.imdb_23709a40d4818c88f5cffa1991b1357a518df744" sort_order="13" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/oq7QZvZril1ErEVpYLF7fbZAnqj.jpg" preview="com.plexapp.agents.imdb_c04a15abaf04c1f4067e6d2dc275fba5fd38f70d" sort_order="14" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/r5dMRZMeHkjnVm5TQpHspecpWX0.jpg" preview="com.plexapp.agents.imdb_6fbc1010a618beff3c07c29b299a9d32e4ccc5e9" sort_order="15" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/uYtc9JCg2JFPOSV6Sp3DDN1kKxc.jpg" preview="com.plexapp.agents.imdb_dc16c7e01a8dc8ec7e8e97748ba41faf268101f7" sort_order="16" provider="com.plexapp.agents.imdb"/>
+  </posters>
+  <producers>
+    <item index="0">
+      <photo/>
+      <role/>
+      <name>Robert Chartoff</name>
+    </item>
+    <item index="1">
+      <photo>http://image.tmdb.org/t/p/original/chJjLXD7PlFhuyeverNCgemIAAC.jpg</photo>
+      <role/>
+      <name>Irwin Winkler</name>
+    </item>
+  </producers>
+  <rating>7.4</rating>
+  <rating_image>rottentomatoes://image.rating.ripe</rating_image>
+  <audience_rating>8.2</audience_rating>
+  <audience_rating_image>rottentomatoes://image.rating.upright</audience_rating_image>
+  <reviews>
+    <item index="0">
+      <text>Stallone and producers Irwin Winkler and Robert Chartoff know from experience audiences love to root for the underdog and have concocted an irresistible final 30 minutes.</text>
+      <source>Variety</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>http://www.variety.com/review/VE1117794533.html?categoryid=31&amp;cs=1</link>
+      <author>Variety Staff</author>
+    </item>
+    <item index="1">
+      <text>Sylvester Stallone's follow-up to his runaway success of 1976 is a little more threadbare in spots than the original, but it still has some conviction and spunk.</text>
+      <source>Chicago Reader</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>http://onfilm.chicagoreader.com/movies/capsules/7852_ROCKY_TWO</link>
+      <author>Dave Kehr</author>
+    </item>
+    <item index="2">
+      <text>Stallone's performance as a Philadelphia saint in a B movie physique leaves you undecided whether to gag or sob, but the final fight sequences make up for it; a full-blooded Hollywood finale reaching giddy heights of cathartic glee.</text>
+      <source>Time Out</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>http://www.timeout.com/film/reviews/76874/rocky_ii.html</link>
+      <author>Geoff Andrew</author>
+    </item>
+  </reviews>
+  <roles>
+    <item index="0">
+      <photo>http://image.tmdb.org/t/p/original/gnmwOa46C2TP35N7ARSzboTdx2u.jpg</photo>
+      <role>Rocky Balboa</role>
+      <name>Sylvester Stallone</name>
+    </item>
+    <item index="1">
+      <photo>http://image.tmdb.org/t/p/original/liNfrVB3eZFBOjcUGltISCucews.jpg</photo>
+      <role>Adrian</role>
+      <name>Talia Shire</name>
+    </item>
+    <item index="2">
+      <photo>http://image.tmdb.org/t/p/original/rbSsSkQ72FoGcvwIHUxQWJ92I3W.jpg</photo>
+      <role>Paulie</role>
+      <name>Burt Young</name>
+    </item>
+    <item index="3">
+      <photo>http://image.tmdb.org/t/p/original/xOpDfVa83R1EdiNkWPNITfCH67e.jpg</photo>
+      <role>Apollo Creed</role>
+      <name>Carl Weathers</name>
+    </item>
+    <item index="4">
+      <photo>http://image.tmdb.org/t/p/original/lm98oKloU33Q7QDIIMSyc4Pr2jA.jpg</photo>
+      <role>Mickey Goldmill</role>
+      <name>Burgess Meredith</name>
+    </item>
+    <item index="5">
+      <photo>http://image.tmdb.org/t/p/original/ue54hK217thXeQMzN4qUYXLImLd.jpg</photo>
+      <role>Duke</role>
+      <name>Tony Burton</name>
+    </item>
+    <item index="6">
+      <photo>http://image.tmdb.org/t/p/original/wzZZO8xXn9OgljCmrGGR4L6wBdg.jpg</photo>
+      <role>Tony Gazzo</role>
+      <name>Joe Spinell</name>
+    </item>
+    <item index="7">
+      <photo/>
+      <role>Agent</role>
+      <name>Leonard Gaines</name>
+    </item>
+    <item index="8">
+      <photo/>
+      <role>Mary Anne Creed</role>
+      <name>Sylvia Meals</name>
+    </item>
+    <item index="9">
+      <photo>http://image.tmdb.org/t/p/original/t8EJyrhoe2zSjqzLBK63KsDyQJO.jpg</photo>
+      <role>Meat Foreman</role>
+      <name>Frank McRae</name>
+    </item>
+    <item index="10">
+      <photo>http://image.tmdb.org/t/p/original/4Uf2uc679UjQxU9Q9ThQYtO7ciT.jpg</photo>
+      <role>Director</role>
+      <name>John Pleshette</name>
+    </item>
+    <item index="11">
+      <photo/>
+      <role>Announcer</role>
+      <name>Stu Nahan</name>
+    </item>
+    <item index="12">
+      <photo>http://image.tmdb.org/t/p/original/iO3gWXI34gESKYbdvTxMaTzUbJ9.jpg</photo>
+      <role>Commentator</role>
+      <name>Bill Baldwin</name>
+    </item>
+    <item index="13">
+      <photo>http://image.tmdb.org/t/p/original/TCrODTVTktmyXk4PrD5fWvMJye.jpg</photo>
+      <role>Salesman</role>
+      <name>Jerry Ziesmer</name>
+    </item>
+  </roles>
+  <similar>
+    <item index="0">Rocky III</item>
+    <item index="1">Rocky IV</item>
+    <item index="2">Rocky V</item>
+    <item index="3">Rocky Balboa</item>
+    <item index="4">Rocky</item>
+    <item index="5">Rambo: First Blood Part II</item>
+    <item index="6">Rambo III</item>
+    <item index="7">First Blood</item>
+    <item index="8">Rambo</item>
+    <item index="9">Cliffhanger</item>
+    <item index="10">Cobra</item>
+    <item index="11">Over the Top</item>
+    <item index="12">Tango &amp; Cash</item>
+    <item index="13">Commando</item>
+    <item index="14">True Lies</item>
+    <item index="15">Judge Dredd</item>
+    <item index="16">Lethal Weapon 2</item>
+    <item index="17">Lethal Weapon 3</item>
+    <item index="18">Lethal Weapon 4</item>
+    <item index="19">The Specialist</item>
+  </similar>
+  <studio>United Artists</studio>
+  <summary>After Rocky goes the distance with champ Apollo Creed, both try to put the fight behind them and move on. Rocky settles down with Adrian but can't put his life together outside the ring, while Creed seeks a rematch to restore his reputation. Soon enough, the "Master of Disaster" and the "Italian Stallion" are set on a collision course for a climactic battle that is brutal and unforgettable.</summary>
+  <tagline>Once he fought for a dream. Now he's fighting for love!</tagline>
+  <tags/>
+  <themes/>
+  <title>Rocky II</title>
+  <writers>
+    <item index="0">
+      <photo>http://image.tmdb.org/t/p/original/gnmwOa46C2TP35N7ARSzboTdx2u.jpg</photo>
+      <role/>
+      <name>Sylvester Stallone</name>
+    </item>
+  </writers>
+  <year>1979</year>
+</Movie>

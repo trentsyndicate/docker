@@ -1,0 +1,538 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Movie>
+  <art>
+    <item external="True" url="http://image.tmdb.org/t/p/original/5PutiS1J3JCRNyROPD44Xg7kwcD.jpg" sort_order="1" provider="com.plexapp.agents.imdb" media="com.plexapp.agents.imdb_db18cdc1a1de9ac428587fa91bd1a475c330a10b"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/i5L4oUX9gaKAPHIoAOFGVnY2tkq.jpg" preview="com.plexapp.agents.imdb_af7e964dbc83960b6111660b4ad41b1147027c98" sort_order="2" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/4aWNF3HT0ryJNLWTxtxBuMFrd3O.jpg" preview="com.plexapp.agents.imdb_129644123d0856af816bc025e891e9ac73c89429" sort_order="3" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/oD5CP1OFSzHHuOfxiUSevHCqGLF.jpg" preview="com.plexapp.agents.imdb_015f9602de4dac2f841c94425910ab168d5cac11" sort_order="4" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/czPUsZeeyBXfO2uhAojNCMMcOSp.jpg" preview="com.plexapp.agents.imdb_0e497dc82a13f34d99f7dab690fba4c9770e4746" sort_order="5" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/8AGGU9ZGQiAWgBN1F3TiXWAlGmb.jpg" preview="com.plexapp.agents.imdb_a66e95d2aa1e086946061b298e29cd2d14727c43" sort_order="6" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/fmyHj5NOPWjeWzd4PQf1xTpFIBe.jpg" preview="com.plexapp.agents.imdb_ef86ab4b702859d07b5589623eb23bd26d930db5" sort_order="7" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/nujQTIz5hc1fWnlH23s0sY0NCuq.jpg" preview="com.plexapp.agents.imdb_7179b2ef80817a104e60b1a7781ed805495ded46" sort_order="8" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/eakfeCyYFHBooRWBaNBlMG5NSns.jpg" preview="com.plexapp.agents.imdb_5ea296065e3500b95da8f273dc08c3c0d7e1b06c" sort_order="9" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/4NNdhWvzDkxcHzwn0SrZbvvISGU.jpg" preview="com.plexapp.agents.imdb_e00199dba99c55bb5bff75142755bb2932b61404" sort_order="10" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/cAYOpdXr00UCnZ04XIanozGjsVD.jpg" preview="com.plexapp.agents.imdb_b2390a5386aa69d1378cad1a4b7264394bb2966f" sort_order="11" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/sXNvrQ5rsCL4HIV5zDxyB6bUpsC.jpg" preview="com.plexapp.agents.imdb_e5de6d74d9ef930979b49616aebe28fdf4c53f3c" sort_order="12" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/A9fP5vBXxOB2LU5IAw8t3aNz4OO.jpg" preview="com.plexapp.agents.imdb_a9e4a7c803cb178452f227d8a25f13119e6ca86c" sort_order="13" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/wIWXt9goYKbjL623p83tyZEzyLs.jpg" preview="com.plexapp.agents.imdb_ccd5ec1a7d8c93766af105033a49e8831336cb48" sort_order="14" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/bNNhbTww1tl9uFYQTStAqbxBLRM.jpg" preview="com.plexapp.agents.imdb_52ff02980435970dde94a9ee6093f923dee23da8" sort_order="15" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/vYhUpKFD79frAzKMPaeF7QBbhRF.jpg" preview="com.plexapp.agents.imdb_51903e6314a6776f558fa552f499a345f887e499" sort_order="16" provider="com.plexapp.agents.imdb"/>
+  </art>
+  <banners/>
+  <chapters>
+    <item index="0">
+      <title>Chapter 1</title>
+      <end_time_offset>422000</end_time_offset>
+      <start_time_offset>0</start_time_offset>
+    </item>
+    <item index="1">
+      <title>Chapter 2</title>
+      <end_time_offset>616000</end_time_offset>
+      <start_time_offset>422000</start_time_offset>
+    </item>
+    <item index="2">
+      <title>Chapter 3</title>
+      <end_time_offset>959000</end_time_offset>
+      <start_time_offset>616000</start_time_offset>
+    </item>
+    <item index="3">
+      <title>Chapter 4</title>
+      <end_time_offset>1322000</end_time_offset>
+      <start_time_offset>959000</start_time_offset>
+    </item>
+    <item index="4">
+      <title>Chapter 5</title>
+      <end_time_offset>1738000</end_time_offset>
+      <start_time_offset>1322000</start_time_offset>
+    </item>
+    <item index="5">
+      <title>Chapter 6</title>
+      <end_time_offset>1948000</end_time_offset>
+      <start_time_offset>1738000</start_time_offset>
+    </item>
+    <item index="6">
+      <title>Chapter 7</title>
+      <end_time_offset>2323000</end_time_offset>
+      <start_time_offset>1948000</start_time_offset>
+    </item>
+    <item index="7">
+      <title>Chapter 8</title>
+      <end_time_offset>2711000</end_time_offset>
+      <start_time_offset>2323000</start_time_offset>
+    </item>
+    <item index="8">
+      <title>Chapter 9</title>
+      <end_time_offset>2925000</end_time_offset>
+      <start_time_offset>2711000</start_time_offset>
+    </item>
+    <item index="9">
+      <title>Chapter 10</title>
+      <end_time_offset>3164000</end_time_offset>
+      <start_time_offset>2925000</start_time_offset>
+    </item>
+    <item index="10">
+      <title>Chapter 11</title>
+      <end_time_offset>3456000</end_time_offset>
+      <start_time_offset>3164000</start_time_offset>
+    </item>
+    <item index="11">
+      <title>Chapter 12</title>
+      <end_time_offset>3752000</end_time_offset>
+      <start_time_offset>3456000</start_time_offset>
+    </item>
+    <item index="12">
+      <title>Chapter 13</title>
+      <end_time_offset>4071000</end_time_offset>
+      <start_time_offset>3752000</start_time_offset>
+    </item>
+    <item index="13">
+      <title>Chapter 14</title>
+      <end_time_offset>4361000</end_time_offset>
+      <start_time_offset>4071000</start_time_offset>
+    </item>
+    <item index="14">
+      <title>Chapter 15</title>
+      <end_time_offset>4857000</end_time_offset>
+      <start_time_offset>4361000</start_time_offset>
+    </item>
+    <item index="15">
+      <title>Chapter 16</title>
+      <end_time_offset>5292000</end_time_offset>
+      <start_time_offset>4857000</start_time_offset>
+    </item>
+    <item index="16">
+      <title>Chapter 17</title>
+      <end_time_offset>-1</end_time_offset>
+      <start_time_offset>5292000</start_time_offset>
+    </item>
+  </chapters>
+  <collections/>
+  <content_rating>R</content_rating>
+  <countries>
+    <item index="0">France</item>
+  </countries>
+  <directors>
+    <item index="0">
+      <photo>http://image.tmdb.org/t/p/original/zT9xcPTbmSKvWRn0SvSoEslvM97.jpg</photo>
+      <role/>
+      <name>Jean-François Richet</name>
+    </item>
+  </directors>
+  <duration>5280000</duration>
+  <genres>
+    <item index="0">Action</item>
+    <item index="1">Crime</item>
+    <item index="2">Drama</item>
+    <item index="3">Thriller</item>
+  </genres>
+  <originally_available_at>2016-08-11</originally_available_at>
+  <posters>
+    <item external="True" url="http://image.tmdb.org/t/p/original/rQ3CKv33u2Z4keC2AYZqi3RGIdX.jpg" sort_order="1" provider="com.plexapp.agents.imdb" media="com.plexapp.agents.imdb_4cbc604b9afcde503f23194b429e6c271cdc21c9"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/cKDGrVItQTdDn6LqcICz91AOxs3.jpg" preview="com.plexapp.agents.imdb_b4f6e67eca2338b84de64ebd90f8d0f7b1bc9bfc" sort_order="2" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/4fCqRRXkr1qDM4Td1JEGMXRhuzD.jpg" preview="com.plexapp.agents.imdb_b65f245bb847214f890c096c75d27be44ed931f0" sort_order="3" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/ijZtoYVytmfllYeKcYzq7OD43eX.jpg" preview="com.plexapp.agents.imdb_0209a097077e25db692f877a55e0b97feed7e053" sort_order="4" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/jL2l1sb4NM55WBJaGNPEkGQcu84.jpg" preview="com.plexapp.agents.imdb_ded9da4e948cdb61fc4de5c69cc8fa4f33c6ac9a" sort_order="5" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/3VE5wqhTFOo20a5xcRGHzr6coO5.jpg" preview="com.plexapp.agents.imdb_bb7ba0ba219745b6b5338d4badf68b7cb73d0203" sort_order="6" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/ruzzj8uvM9lZTEyrHEK20fdK2nJ.jpg" preview="com.plexapp.agents.imdb_b7dcbce3d2554b516ed5047232a47db010de9690" sort_order="7" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/yonab1CSOkJLL1NExQhM67zrkx.jpg" preview="com.plexapp.agents.imdb_b13726e8de142fed0c2dbfcf8b499462da7b795c" sort_order="8" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/fFgWCKmoMIfE3Ee8p6iOxl7OvlU.jpg" preview="com.plexapp.agents.imdb_366c92e729c06b71d478dc796feb0a6d98f85237" sort_order="9" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/uqBsHxFFPAyF8RXlENyWcRwkeSf.jpg" preview="com.plexapp.agents.imdb_cecce8e3572a660b9dd8991f4c39ff4c71c36e1e" sort_order="10" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/6UVJTSlKh1j8CK6lV1oSoDeDzzO.jpg" preview="com.plexapp.agents.imdb_13037fad39b3f08601870271e62a591b99974354" sort_order="11" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/hqt5OxARf9KmLxANOAAokwvPm13.jpg" preview="com.plexapp.agents.imdb_1675fc9019750b204948acac4c2176677d27ab60" sort_order="12" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/34eOMVOSXLjzIoB2uh9fZJmFdAg.jpg" preview="com.plexapp.agents.imdb_9cf2ace443a0b9cf866cd96f741b27d66130f5eb" sort_order="13" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/9aOAZCezPcEF3gdGxvgzq0XS2Oz.jpg" preview="com.plexapp.agents.imdb_7e45f2cae582ba411592131e170a8a45b43943e0" sort_order="14" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/d4iSbUmvQi0zwJR2cTpiU8ZbV2w.jpg" preview="com.plexapp.agents.imdb_4dc0e01deee309defe8896607a85784cc89df4fc" sort_order="15" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/7Bjs8n5zV2mTwtNtBHp1T0x7nJw.jpg" preview="com.plexapp.agents.imdb_86a3e36932b41a55ab2743c7dc37ecdbb0a59834" sort_order="16" provider="com.plexapp.agents.imdb"/>
+  </posters>
+  <producers>
+    <item index="0">
+      <photo/>
+      <role/>
+      <name>Chris Briggs</name>
+    </item>
+    <item index="1">
+      <photo/>
+      <role/>
+      <name>Pascal Caucheteux</name>
+    </item>
+    <item index="2">
+      <photo/>
+      <role/>
+      <name>Jennifer Roth</name>
+    </item>
+  </producers>
+  <rating>8.8</rating>
+  <rating_image>rottentomatoes://image.rating.ripe</rating_image>
+  <audience_rating>6.3</audience_rating>
+  <audience_rating_image>rottentomatoes://image.rating.spilled</audience_rating_image>
+  <reviews>
+    <item index="0">
+      <text>A silly but fun addition to the geri-action genre.</text>
+      <source>Time Out</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>http://www.timeout.com/london/film/blood-father</link>
+      <author>Cath Clarke</author>
+    </item>
+    <item index="1">
+      <text>Pretty much gives you all that you could want from a pulp fiction in which Mel Gibson plays a grizzled loner inking skin in a spot called the Missing Link Tattoo.</text>
+      <source>New York Times</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>http://www.nytimes.com/2016/08/26/movies/blood-father-review-mel-gibson.html?rref=collection%2Fcollection%2Fmovie-guide</link>
+      <author>Manohla Dargis</author>
+    </item>
+    <item index="2">
+      <text>The movie is pretty good.</text>
+      <source>New York Daily News</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>http://www.nydailynews.com/entertainment/movies/mel-gibson-returns-leading-man-form-blood-father-review-article-1.2758205</link>
+      <author>Allen Salkin</author>
+    </item>
+    <item index="3">
+      <text>An efficient and pleasurable bad-man-tries-to-go-good exposition that gives Mel Gibson ample opportunity to flex his now-somewhat-grizzled movie-star muscle.</text>
+      <source>RogerEbert.com</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>http://www.rogerebert.com/reviews/blood-father-2016</link>
+      <author>Glenn Kenny</author>
+    </item>
+    <item index="4">
+      <text>The movie's a small gem: a good old-fashioned chase picture, thickened with pulp.</text>
+      <source>Los Angeles Times</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>http://www.latimes.com/entertainment/movies/la-et-mn-mini-blood-father-review-20160808-snap-story.html#nt=oft13a-4gp1</link>
+      <author>Noel Murray</author>
+    </item>
+    <item index="5">
+      <text>A violent, grungy, Peckinpah-lite action thriller that's worth checking out just to be reminded how powerful an actor Mel Gibson continues to be-even if the parts aren't coming like they once were.</text>
+      <source>Entertainment Weekly</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>http://www.ew.com/article/2016/08/11/blood-father-ew-review</link>
+      <author>Chris Nashawaty</author>
+    </item>
+    <item index="6">
+      <text>Gibson is still a terrifically charismatic presence who inhabits damaged, self-destructive rascals, perhaps because that's how he wants to be seen.</text>
+      <source>AV Club</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>http://www.avclub.com/review/mel-gibson-attempts-action-comedy-comeback-blood-f-240937</link>
+      <author>Ignatiy Vishnevetsky</author>
+    </item>
+    <item index="7">
+      <text>Director Jean-François Richet keeps the action set pieces and shootouts coming with bracing regularity, but Blood Father doesn't grind to a halt while it's catching a breath, thanks to the spot-on screenplay.</text>
+      <source>TheWrap</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>http://www.thewrap.com/blood-father-review/</link>
+      <author>Alonso Duralde</author>
+    </item>
+    <item index="8">
+      <text>A serviceable piece of B-movie entertainment without an ounce of originality. But audiences that respond to films like these are unlikely to think that's a dealbreaker.</text>
+      <source>Hollywood Reporter</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>http://www.hollywoodreporter.com/review/blood-father-cannes-review-896269</link>
+      <author>Boyd van Hoeij</author>
+    </item>
+    <item index="9">
+      <text>"Blood Father" is trash, but it does capture what an accomplished and winning actor Mel Gibson can be. Just because he lost his bearings, and his career, doesn't mean that he lost his talent.</text>
+      <source>Variety</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>http://variety.com/2016/film/festivals/cannes-mel-gibson-blood-father-1201780294/</link>
+      <author>Owen Gleiberman</author>
+    </item>
+  </reviews>
+  <roles>
+    <item index="0">
+      <photo>http://image.tmdb.org/t/p/original/6VGgL0bBvPIJ9vDOyyGf5nK2zL4.jpg</photo>
+      <role>John Link</role>
+      <name>Mel Gibson</name>
+    </item>
+    <item index="1">
+      <photo>http://image.tmdb.org/t/p/original/6jzskeTQb9eVYpUJyahQajo9sZA.jpg</photo>
+      <role>Lydia</role>
+      <name>Erin Moriarty</name>
+    </item>
+    <item index="2">
+      <photo>http://image.tmdb.org/t/p/original/8TXy2oH8AaeMY8sQCZK5O5TgY1e.jpg</photo>
+      <role>Kirby Curtis</role>
+      <name>William H. Macy</name>
+    </item>
+    <item index="3">
+      <photo>http://image.tmdb.org/t/p/original/54P22YwbYCwfjJWT1jbiHN77TD.jpg</photo>
+      <role>Preacher</role>
+      <name>Michael Parks</name>
+    </item>
+    <item index="4">
+      <photo>http://image.tmdb.org/t/p/original/9URrxF1AKqL8SxxOeAVHKBAlWEx.jpg</photo>
+      <role>Jason</role>
+      <name>Thomas Mann</name>
+    </item>
+    <item index="5">
+      <photo>http://image.tmdb.org/t/p/original/uH8sMbiMmy9sprKr1vJpoPBB40E.jpg</photo>
+      <role>Jonah</role>
+      <name>Diego Luna</name>
+    </item>
+    <item index="6">
+      <photo>http://image.tmdb.org/t/p/original/g74v4UBE0NIqvZ9XUFYSuLuYN0h.jpg</photo>
+      <role>Cherise</role>
+      <name>Dale Dickey</name>
+    </item>
+    <item index="7">
+      <photo>http://image.tmdb.org/t/p/original/x0mn76606kpJtzzl0B2nfJlZXkE.jpg</photo>
+      <role>Arturo Rios</role>
+      <name>Miguel Sandoval</name>
+    </item>
+    <item index="8">
+      <photo>http://image.tmdb.org/t/p/original/ngra7xP7B0nBdlYZOnaabmZMUK.jpg</photo>
+      <role>Sheila</role>
+      <name>Lori Dillen</name>
+    </item>
+    <item index="9">
+      <photo>http://image.tmdb.org/t/p/original/wKNdJXC66ajHXz8cUQGAaHHlcZr.jpg</photo>
+      <role>Joker</role>
+      <name>Richard Cabral</name>
+    </item>
+    <item index="10">
+      <photo>http://image.tmdb.org/t/p/original/vkrPv04OJRV9G6u6yydjJz2WKE0.jpg</photo>
+      <role>The Cleaner</role>
+      <name>Raoul Max Trujillo</name>
+    </item>
+    <item index="11">
+      <photo>http://image.tmdb.org/t/p/original/b70bowmWAiXqlSCBXy0IFC1Mcw4.jpg</photo>
+      <role>Bartender</role>
+      <name>Tait Fletcher</name>
+    </item>
+    <item index="12">
+      <photo>http://image.tmdb.org/t/p/original/az7wB3HJNQ7T3TmDdZ3rIdZ6bxO.jpg</photo>
+      <role>Dennis Trucker</role>
+      <name>Luce Rains</name>
+    </item>
+    <item index="13">
+      <photo>http://image.tmdb.org/t/p/original/myVljzrvGdDL4djSX97EuWnOZ3J.jpg</photo>
+      <role>Shamrock</role>
+      <name>Ryan Dorsey</name>
+    </item>
+    <item index="14">
+      <photo>http://image.tmdb.org/t/p/original/drmZEd9BjFnsq77I6C3mhfTHIP6.jpg</photo>
+      <role>Link's Client</role>
+      <name>Katalina Parrish</name>
+    </item>
+    <item index="15">
+      <photo>http://image.tmdb.org/t/p/original/iD8k1YnfIDORPXqPGUfynWz1ZHs.jpg</photo>
+      <role>Choop</role>
+      <name>Daniel Moncada</name>
+    </item>
+    <item index="16">
+      <photo>http://image.tmdb.org/t/p/original/hYmvKSOl7upj5Pdw4pIdnvZ5RT8.jpg</photo>
+      <role>Blonde Boy</role>
+      <name>Lucien Dale</name>
+    </item>
+    <item index="17">
+      <photo>http://image.tmdb.org/t/p/original/du3MoIhHkOXnPCqDyw2ubCc5WR5.jpg</photo>
+      <role>Woman Topango</role>
+      <name>Genia Michaela</name>
+    </item>
+    <item index="18">
+      <photo>http://image.tmdb.org/t/p/original/dUBtV3rbY1j8t0lCMSznUYN8Kj0.jpg</photo>
+      <role>Lydia's Mother</role>
+      <name>Brandi Cochran</name>
+    </item>
+    <item index="19">
+      <photo>http://image.tmdb.org/t/p/original/qRaxH9cuzdwDBv0m5OU3ALnbKt8.jpg</photo>
+      <role>Sunburned Boy</role>
+      <name>Christopher W. Garcia</name>
+    </item>
+    <item index="20">
+      <photo>http://image.tmdb.org/t/p/original/n2IDYkprEz9xggMRETGAKNxTH9m.jpg</photo>
+      <role>Walmart Cashier</role>
+      <name>Joanne Camp</name>
+    </item>
+    <item index="21">
+      <photo>http://image.tmdb.org/t/p/original/4BAVxvMuzGtCrsSfRLvj9qvPfO.jpg</photo>
+      <role>Correction Officer</role>
+      <name>Christopher Atwood</name>
+    </item>
+    <item index="22">
+      <photo>http://image.tmdb.org/t/p/original/dnp92wrXceMEmleouTAiHZKp062.jpg</photo>
+      <role>Count</role>
+      <name>Vic Browder</name>
+    </item>
+    <item index="23">
+      <photo>http://image.tmdb.org/t/p/original/vMhyvQ6QiVuH8hMd7Npc39N3cYK.jpg</photo>
+      <role>News Anchor #1</role>
+      <name>Nicole Brady</name>
+    </item>
+    <item index="24">
+      <photo>http://image.tmdb.org/t/p/original/62G1p3vQvucS91GsyDvxFlkmUX0.jpg</photo>
+      <role>News Anchor #2</role>
+      <name>Tom Joles</name>
+    </item>
+    <item index="25">
+      <photo>http://image.tmdb.org/t/p/original/byDMIkxpJleOixEIxWPVdWOcs7n.jpg</photo>
+      <role>Movie Theater Patron (uncredited)</role>
+      <name>Cheo Tapia</name>
+    </item>
+    <item index="26">
+      <photo>http://image.tmdb.org/t/p/original/tHoSJVoZJPsPlc014EPeiKibL7.jpg</photo>
+      <role>Movie Theater Patron (uncredited)</role>
+      <name>Julianne Medina</name>
+    </item>
+    <item index="27">
+      <photo/>
+      <role>Movie Theater Patron (uncredited)</role>
+      <name>McKenna Wagenman</name>
+    </item>
+    <item index="28">
+      <photo/>
+      <role>Movie Theater Patron (uncredited)</role>
+      <name>Shannan Wagenman</name>
+    </item>
+    <item index="29">
+      <photo/>
+      <role>Movie Theater Patron (uncredited)</role>
+      <name>Taylor Wagenman</name>
+    </item>
+    <item index="30">
+      <photo/>
+      <role>Movie Theater Patron (uncredited)</role>
+      <name>Alexander Wagenman</name>
+    </item>
+    <item index="31">
+      <photo>http://image.tmdb.org/t/p/original/dEWFFnxSb45LQNOObrOp3jy4SsZ.jpg</photo>
+      <role>Movie Theater Patron (uncredited)</role>
+      <name>Madison Fogle</name>
+    </item>
+    <item index="32">
+      <photo/>
+      <role>Movie Theater Patron (uncredited)</role>
+      <name>William Fogle</name>
+    </item>
+    <item index="33">
+      <photo/>
+      <role>Movie Patron (uncredited)</role>
+      <name>Gerry Medina</name>
+    </item>
+    <item index="34">
+      <photo>http://image.tmdb.org/t/p/original/iuxnulDr0jXzdOCHZYNEZ7wQNvb.jpg</photo>
+      <role>Movie Goer (uncredited)</role>
+      <name>Alex Gopal</name>
+    </item>
+    <item index="35">
+      <photo>http://image.tmdb.org/t/p/original/vJfOkAUODwOIerFpkJ7xL0i8JrI.jpg</photo>
+      <role>Movie Goer (uncredited)</role>
+      <name>Christina Gopal</name>
+    </item>
+    <item index="36">
+      <photo>http://image.tmdb.org/t/p/original/wrcidv3DyDdhhFqmiJvtB3wVzlB.jpg</photo>
+      <role>Movie Goer (uncredited)</role>
+      <name>Julian Gopal</name>
+    </item>
+    <item index="37">
+      <photo/>
+      <role>Party-Goer (uncredited)</role>
+      <name>Brittney Scavo</name>
+    </item>
+    <item index="38">
+      <photo>http://image.tmdb.org/t/p/original/fNzZ9dXscjUtsPSLTkTlEefB6Mg.jpg</photo>
+      <role>California Girl (uncredited)</role>
+      <name>Tara Elliott</name>
+    </item>
+    <item index="39">
+      <photo>http://image.tmdb.org/t/p/original/lNwU04x7jlpFYIIPtwdFqkdXLOJ.jpg</photo>
+      <role>California Club Girl (uncredited)</role>
+      <name>Melissa-Lou Ellis</name>
+    </item>
+    <item index="40">
+      <photo/>
+      <role>Detective (uncredited)</role>
+      <name>Rick Anglada</name>
+    </item>
+    <item index="41">
+      <photo>http://image.tmdb.org/t/p/original/dtedy3VnD3wWHFJhz32IWb1YCDB.jpg</photo>
+      <role>Male Clubber (uncredited)</role>
+      <name>Chester Gayao</name>
+    </item>
+    <item index="42">
+      <photo/>
+      <role>Dead Boyfriend (uncredited)</role>
+      <name>Damon Somers</name>
+    </item>
+    <item index="43">
+      <photo>http://image.tmdb.org/t/p/original/gm1S2NNJpWeSThQAR1VISJHgL78.jpg</photo>
+      <role>Maximum Security Prisoner (uncredited)</role>
+      <name>Rich Chavez</name>
+    </item>
+    <item index="44">
+      <photo/>
+      <role>Prison Security Officer (uncredited)</role>
+      <name>Jack T. Silliman</name>
+    </item>
+    <item index="45">
+      <photo>http://image.tmdb.org/t/p/original/oGZeXesdoZbQm80x9YRTIabSHMo.jpg</photo>
+      <role>Inmate (uncredited)</role>
+      <name>Fred Padilla</name>
+    </item>
+    <item index="46">
+      <photo/>
+      <role>Driver (uncredited)</role>
+      <name>Billy Fuessel</name>
+    </item>
+    <item index="47">
+      <photo>http://image.tmdb.org/t/p/original/4m6IPEG3plBJDdBeN2PsN0bfkvP.jpg</photo>
+      <role>Biker (uncredited)</role>
+      <name>Robert Louder</name>
+    </item>
+    <item index="48">
+      <photo>http://image.tmdb.org/t/p/original/9u00bfpnnTLUCcw8BdhmwR5l84w.jpg</photo>
+      <role>Biker (uncredited)</role>
+      <name>Lyle DeRose</name>
+    </item>
+    <item index="49">
+      <photo/>
+      <role>Biker (uncredited)</role>
+      <name>Rodger Larence</name>
+    </item>
+    <item index="50">
+      <photo>http://image.tmdb.org/t/p/original/8Tob4vuclRy30dZXqedK0Ib8R92.jpg</photo>
+      <role>Grandpa (uncredited)</role>
+      <name>Art Westgate</name>
+    </item>
+  </roles>
+  <similar>
+    <item index="0">Criminal</item>
+    <item index="1">Marauders</item>
+    <item index="2">The Trust</item>
+    <item index="3">The Infiltrator</item>
+    <item index="4">In a Valley of Violence</item>
+    <item index="5">Free State of Jones</item>
+    <item index="6">Get the Gringo</item>
+    <item index="7">Bastille Day</item>
+    <item index="8">Cop Car</item>
+    <item index="9">Forsaken</item>
+    <item index="10">Run All Night</item>
+    <item index="11">Triple 9</item>
+    <item index="12">Bone Tomahawk</item>
+    <item index="13">Deepwater Horizon</item>
+    <item index="14">The Finest Hours</item>
+    <item index="15">I Am Wrath</item>
+    <item index="16">Eye in the Sky</item>
+    <item index="17">Joe</item>
+    <item index="18">Green Room</item>
+    <item index="19">Running Scared</item>
+  </similar>
+  <studio>Why Not Productions</studio>
+  <summary>An ex-con reunites with his estranged wayward 16-year old daughter to protect her from drug dealers who are trying to kill her.</summary>
+  <tagline>They left him no choice..</tagline>
+  <tags/>
+  <themes/>
+  <title>Blood.Father.2016.1080p.WEB-DL.DD5.1.H264-FGT</title>
+  <writers>
+    <item index="0">
+      <photo>http://image.tmdb.org/t/p/original/yzJp4yfpJnbnXJXkJC8qpfX2s9y.jpg</photo>
+      <role/>
+      <name>Peter Craig</name>
+    </item>
+    <item index="1">
+      <photo>http://image.tmdb.org/t/p/original/dWVd6RosbkkoI6WdeeaMMKeoGW7.jpg</photo>
+      <role/>
+      <name>Andrea Berloff</name>
+    </item>
+  </writers>
+  <year>2016</year>
+</Movie>

@@ -1,0 +1,343 @@
+<?xml version='1.0' encoding='utf-8'?>
+<MediaContainer size="17" identifier="com.plexapp.agents.imdb" mediaTagPrefix="/system/bundle/media/flags/" prefsKey="/:/plugins/com.plexapp.agents.imdb/prefs">
+  <Video url="iva://api.internetvideoarchive.com/2.0/DataService/VideoAssets(382214)?lang=en&amp;bitrates=80,212,450,750,1500,2500,5000,8000&amp;duration=146&amp;adaptive=1&amp;dts=0" key="/system/services/url/lookup?url=iva%3A%2F%2Fapi.internetvideoarchive.com%2F2.0%2FDataService%2FVideoAssets%28382214%29%3Flang%3Den%26bitrates%3D80%2C212%2C450%2C750%2C1500%2C2500%2C5000%2C8000%26duration%3D146%26adaptive%3D1%26dts%3D0" type="clip" relationType="trailer" year="2018" title="The Finest Hours (Clean Trailer)" originallyAvailableAt="2018-01-04" thumb="https://iva-images.plex.tv/content/hdphotos/11629/011629/011629_1280x720_382214_072.jpg" ratingKey="iva://api.internetvideoarchive.com/2.0/DataService/VideoAssets(382214)?lang=en&amp;bitrates=80,212,450,750,1500,2500,5000,8000&amp;duration=146&amp;adaptive=1&amp;dts=0">
+    <Media container="mp4" height="1080" width="1920" audioCodec="aac" duration="146000" videoCodec="h264" bitrate="2500">
+      <Part duration="146000" key="/services/iva/assets/382214/video.mp4?bitrate=2500" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="1080" width="1920" codec="h264" bitrate="2500" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+    <Media container="mp4" height="720" width="1280" audioCodec="aac" duration="146000" videoCodec="h264" bitrate="1500">
+      <Part duration="146000" key="/services/iva/assets/382214/video.mp4?bitrate=1500" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="720" width="1280" codec="h264" bitrate="1500" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+    <Media container="mp4" height="480" width="640" audioCodec="aac" duration="146000" videoCodec="h264" bitrate="450">
+      <Part duration="146000" key="/services/iva/assets/382214/video.mp4?bitrate=450" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="480" width="640" codec="h264" bitrate="450" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+  </Video>
+  <Video url="iva://api.internetvideoarchive.com/2.0/DataService/VideoAssets(148477)?lang=en&amp;bitrates=80,212,450,750,1500,2500,5000,8000&amp;duration=59&amp;adaptive=1&amp;dts=0" key="/system/services/url/lookup?url=iva%3A%2F%2Fapi.internetvideoarchive.com%2F2.0%2FDataService%2FVideoAssets%28148477%29%3Flang%3Den%26bitrates%3D80%2C212%2C450%2C750%2C1500%2C2500%2C5000%2C8000%26duration%3D59%26adaptive%3D1%26dts%3D0" type="clip" relationType="behindTheScenes" year="2016" title="The Finest Hours: Michael Condon On Seeing The Sets" originallyAvailableAt="2016-01-19" thumb="https://iva-images.plex.tv/content/hdphotos/9960/009960/009960_1280x720_148477_001.jpg" ratingKey="iva://api.internetvideoarchive.com/2.0/DataService/VideoAssets(148477)?lang=en&amp;bitrates=80,212,450,750,1500,2500,5000,8000&amp;duration=59&amp;adaptive=1&amp;dts=0">
+    <Media container="mp4" height="1080" width="1920" audioCodec="aac" duration="59000" videoCodec="h264" bitrate="2500">
+      <Part duration="59000" key="/services/iva/assets/148477/video.mp4?bitrate=2500" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="1080" width="1920" codec="h264" bitrate="2500" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+    <Media container="mp4" height="720" width="1280" audioCodec="aac" duration="59000" videoCodec="h264" bitrate="1500">
+      <Part duration="59000" key="/services/iva/assets/148477/video.mp4?bitrate=1500" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="720" width="1280" codec="h264" bitrate="1500" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+    <Media container="mp4" height="480" width="640" audioCodec="aac" duration="59000" videoCodec="h264" bitrate="450">
+      <Part duration="59000" key="/services/iva/assets/148477/video.mp4?bitrate=450" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="480" width="640" codec="h264" bitrate="450" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+  </Video>
+  <Video url="iva://api.internetvideoarchive.com/2.0/DataService/VideoAssets(591173)?lang=en&amp;bitrates=80,212,450,750,1500,2500,5000,8000&amp;duration=37&amp;adaptive=1&amp;dts=0" key="/system/services/url/lookup?url=iva%3A%2F%2Fapi.internetvideoarchive.com%2F2.0%2FDataService%2FVideoAssets%28591173%29%3Flang%3Den%26bitrates%3D80%2C212%2C450%2C750%2C1500%2C2500%2C5000%2C8000%26duration%3D37%26adaptive%3D1%26dts%3D0" type="clip" relationType="behindTheScenes" year="2016" title="The Finest Hours: Mel Gouthro On The Storm" originallyAvailableAt="2016-01-19" thumb="https://iva-images.plex.tv/content/hdphotos/9960/009960/009960_1280x720_591173_005.jpg" ratingKey="iva://api.internetvideoarchive.com/2.0/DataService/VideoAssets(591173)?lang=en&amp;bitrates=80,212,450,750,1500,2500,5000,8000&amp;duration=37&amp;adaptive=1&amp;dts=0">
+    <Media container="mp4" height="1080" width="1920" audioCodec="aac" duration="37000" videoCodec="h264" bitrate="2500">
+      <Part duration="37000" key="/services/iva/assets/591173/video.mp4?bitrate=2500" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="1080" width="1920" codec="h264" bitrate="2500" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+    <Media container="mp4" height="720" width="1280" audioCodec="aac" duration="37000" videoCodec="h264" bitrate="1500">
+      <Part duration="37000" key="/services/iva/assets/591173/video.mp4?bitrate=1500" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="720" width="1280" codec="h264" bitrate="1500" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+    <Media container="mp4" height="480" width="640" audioCodec="aac" duration="37000" videoCodec="h264" bitrate="450">
+      <Part duration="37000" key="/services/iva/assets/591173/video.mp4?bitrate=450" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="480" width="640" codec="h264" bitrate="450" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+  </Video>
+  <Video url="iva://api.internetvideoarchive.com/2.0/DataService/VideoAssets(793040)?lang=en&amp;bitrates=80,212,450,750,1500,2500,5000,8000&amp;duration=31&amp;adaptive=1&amp;dts=0" key="/system/services/url/lookup?url=iva%3A%2F%2Fapi.internetvideoarchive.com%2F2.0%2FDataService%2FVideoAssets%28793040%29%3Flang%3Den%26bitrates%3D80%2C212%2C450%2C750%2C1500%2C2500%2C5000%2C8000%26duration%3D31%26adaptive%3D1%26dts%3D0" type="clip" relationType="behindTheScenes" year="2016" title="The Finest Hours: Jim Whitaker On Hope Being The Main Theme Of The Film" originallyAvailableAt="2016-01-19" thumb="https://iva-images.plex.tv/content/hdphotos/9960/009960/009960_1095x616_793040_001.jpg" ratingKey="iva://api.internetvideoarchive.com/2.0/DataService/VideoAssets(793040)?lang=en&amp;bitrates=80,212,450,750,1500,2500,5000,8000&amp;duration=31&amp;adaptive=1&amp;dts=0">
+    <Media container="mp4" height="1080" width="1920" audioCodec="aac" duration="31000" videoCodec="h264" bitrate="2500">
+      <Part duration="31000" key="/services/iva/assets/793040/video.mp4?bitrate=2500" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="1080" width="1920" codec="h264" bitrate="2500" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+    <Media container="mp4" height="720" width="1280" audioCodec="aac" duration="31000" videoCodec="h264" bitrate="1500">
+      <Part duration="31000" key="/services/iva/assets/793040/video.mp4?bitrate=1500" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="720" width="1280" codec="h264" bitrate="1500" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+    <Media container="mp4" height="480" width="640" audioCodec="aac" duration="31000" videoCodec="h264" bitrate="450">
+      <Part duration="31000" key="/services/iva/assets/793040/video.mp4?bitrate=450" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="480" width="640" codec="h264" bitrate="450" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+  </Video>
+  <Video url="iva://api.internetvideoarchive.com/2.0/DataService/VideoAssets(17143)?lang=en&amp;bitrates=80,212,450,750,1500,2500,5000,8000&amp;duration=30&amp;adaptive=1&amp;dts=0" key="/system/services/url/lookup?url=iva%3A%2F%2Fapi.internetvideoarchive.com%2F2.0%2FDataService%2FVideoAssets%2817143%29%3Flang%3Den%26bitrates%3D80%2C212%2C450%2C750%2C1500%2C2500%2C5000%2C8000%26duration%3D30%26adaptive%3D1%26dts%3D0" type="clip" relationType="behindTheScenes" year="2016" title="The Finest Hours: Cdr John W. Pruitt, III On The Filmmakers Approaching The Coast Guard" originallyAvailableAt="2016-01-19" thumb="https://iva-images.plex.tv/content/hdphotos/9960/009960/009960_1280x720_17143_001.jpg" ratingKey="iva://api.internetvideoarchive.com/2.0/DataService/VideoAssets(17143)?lang=en&amp;bitrates=80,212,450,750,1500,2500,5000,8000&amp;duration=30&amp;adaptive=1&amp;dts=0">
+    <Media container="mp4" height="1080" width="1920" audioCodec="aac" duration="30000" videoCodec="h264" bitrate="2500">
+      <Part duration="30000" key="/services/iva/assets/17143/video.mp4?bitrate=2500" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="1080" width="1920" codec="h264" bitrate="2500" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+    <Media container="mp4" height="720" width="1280" audioCodec="aac" duration="30000" videoCodec="h264" bitrate="1500">
+      <Part duration="30000" key="/services/iva/assets/17143/video.mp4?bitrate=1500" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="720" width="1280" codec="h264" bitrate="1500" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+    <Media container="mp4" height="480" width="640" audioCodec="aac" duration="30000" videoCodec="h264" bitrate="450">
+      <Part duration="30000" key="/services/iva/assets/17143/video.mp4?bitrate=450" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="480" width="640" codec="h264" bitrate="450" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+  </Video>
+  <Video url="iva://api.internetvideoarchive.com/2.0/DataService/VideoAssets(648337)?lang=en&amp;bitrates=80,212,450,750,1500,2500,5000,8000&amp;duration=41&amp;adaptive=1&amp;dts=0" key="/system/services/url/lookup?url=iva%3A%2F%2Fapi.internetvideoarchive.com%2F2.0%2FDataService%2FVideoAssets%28648337%29%3Flang%3Den%26bitrates%3D80%2C212%2C450%2C750%2C1500%2C2500%2C5000%2C8000%26duration%3D41%26adaptive%3D1%26dts%3D0" type="clip" relationType="behindTheScenes" year="2016" title="The Finest Hours: Dorothy Aufiero On What Attracted Her To The Story" originallyAvailableAt="2016-01-19" thumb="https://iva-images.plex.tv/content/hdphotos/9960/009960/009960_1156x650_648337_002.jpg" ratingKey="iva://api.internetvideoarchive.com/2.0/DataService/VideoAssets(648337)?lang=en&amp;bitrates=80,212,450,750,1500,2500,5000,8000&amp;duration=41&amp;adaptive=1&amp;dts=0">
+    <Media container="mp4" height="1080" width="1920" audioCodec="aac" duration="41000" videoCodec="h264" bitrate="2500">
+      <Part duration="41000" key="/services/iva/assets/648337/video.mp4?bitrate=2500" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="1080" width="1920" codec="h264" bitrate="2500" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+    <Media container="mp4" height="720" width="1280" audioCodec="aac" duration="41000" videoCodec="h264" bitrate="1500">
+      <Part duration="41000" key="/services/iva/assets/648337/video.mp4?bitrate=1500" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="720" width="1280" codec="h264" bitrate="1500" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+    <Media container="mp4" height="480" width="640" audioCodec="aac" duration="41000" videoCodec="h264" bitrate="450">
+      <Part duration="41000" key="/services/iva/assets/648337/video.mp4?bitrate=450" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="480" width="640" codec="h264" bitrate="450" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+  </Video>
+  <Video url="iva://api.internetvideoarchive.com/2.0/DataService/VideoAssets(962976)?lang=en&amp;bitrates=80,212,450,750,1500,2500,5000,8000&amp;duration=36&amp;adaptive=1&amp;dts=0" key="/system/services/url/lookup?url=iva%3A%2F%2Fapi.internetvideoarchive.com%2F2.0%2FDataService%2FVideoAssets%28962976%29%3Flang%3Den%26bitrates%3D80%2C212%2C450%2C750%2C1500%2C2500%2C5000%2C8000%26duration%3D36%26adaptive%3D1%26dts%3D0" type="clip" relationType="behindTheScenes" year="2016" title="The Finest Hours: Kyle Gallner On What Excited Him About The Project" originallyAvailableAt="2016-01-18" thumb="https://iva-images.plex.tv/content/hdphotos/9960/009960/009960_1280x720_962976_026.jpg" ratingKey="iva://api.internetvideoarchive.com/2.0/DataService/VideoAssets(962976)?lang=en&amp;bitrates=80,212,450,750,1500,2500,5000,8000&amp;duration=36&amp;adaptive=1&amp;dts=0">
+    <Media container="mp4" height="1080" width="1920" audioCodec="aac" duration="36000" videoCodec="h264" bitrate="2500">
+      <Part duration="36000" key="/services/iva/assets/962976/video.mp4?bitrate=2500" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="1080" width="1920" codec="h264" bitrate="2500" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+    <Media container="mp4" height="720" width="1280" audioCodec="aac" duration="36000" videoCodec="h264" bitrate="1500">
+      <Part duration="36000" key="/services/iva/assets/962976/video.mp4?bitrate=1500" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="720" width="1280" codec="h264" bitrate="1500" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+    <Media container="mp4" height="480" width="640" audioCodec="aac" duration="36000" videoCodec="h264" bitrate="450">
+      <Part duration="36000" key="/services/iva/assets/962976/video.mp4?bitrate=450" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="480" width="640" codec="h264" bitrate="450" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+  </Video>
+  <Video url="iva://api.internetvideoarchive.com/2.0/DataService/VideoAssets(66144)?lang=en&amp;bitrates=80,212,450,750,1500,2500,5000,8000&amp;duration=52&amp;adaptive=1&amp;dts=0" key="/system/services/url/lookup?url=iva%3A%2F%2Fapi.internetvideoarchive.com%2F2.0%2FDataService%2FVideoAssets%2866144%29%3Flang%3Den%26bitrates%3D80%2C212%2C450%2C750%2C1500%2C2500%2C5000%2C8000%26duration%3D52%26adaptive%3D1%26dts%3D0" type="clip" relationType="behindTheScenes" year="2016" title="The Finest Hours: John Magaro On What Excited Him About The Project" originallyAvailableAt="2016-01-18" thumb="https://iva-images.plex.tv/content/hdphotos/9960/009960/009960_1280x720_66144_004.jpg" ratingKey="iva://api.internetvideoarchive.com/2.0/DataService/VideoAssets(66144)?lang=en&amp;bitrates=80,212,450,750,1500,2500,5000,8000&amp;duration=52&amp;adaptive=1&amp;dts=0">
+    <Media container="mp4" height="1080" width="1920" audioCodec="aac" duration="52000" videoCodec="h264" bitrate="2500">
+      <Part duration="52000" key="/services/iva/assets/66144/video.mp4?bitrate=2500" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="1080" width="1920" codec="h264" bitrate="2500" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+    <Media container="mp4" height="720" width="1280" audioCodec="aac" duration="52000" videoCodec="h264" bitrate="1500">
+      <Part duration="52000" key="/services/iva/assets/66144/video.mp4?bitrate=1500" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="720" width="1280" codec="h264" bitrate="1500" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+    <Media container="mp4" height="480" width="640" audioCodec="aac" duration="52000" videoCodec="h264" bitrate="450">
+      <Part duration="52000" key="/services/iva/assets/66144/video.mp4?bitrate=450" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="480" width="640" codec="h264" bitrate="450" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+  </Video>
+  <Video url="iva://api.internetvideoarchive.com/2.0/DataService/VideoAssets(168057)?lang=en&amp;bitrates=80,212,450,750,1500,2500,5000,8000&amp;duration=37&amp;adaptive=1&amp;dts=0" key="/system/services/url/lookup?url=iva%3A%2F%2Fapi.internetvideoarchive.com%2F2.0%2FDataService%2FVideoAssets%28168057%29%3Flang%3Den%26bitrates%3D80%2C212%2C450%2C750%2C1500%2C2500%2C5000%2C8000%26duration%3D37%26adaptive%3D1%26dts%3D0" type="clip" relationType="behindTheScenes" year="2016" title="The Finest Hours: Eric Bana On What Excited Him About The Film" originallyAvailableAt="2016-01-18" thumb="https://iva-images.plex.tv/content/hdphotos/9960/009960/009960_1280x720_168057_024.jpg" ratingKey="iva://api.internetvideoarchive.com/2.0/DataService/VideoAssets(168057)?lang=en&amp;bitrates=80,212,450,750,1500,2500,5000,8000&amp;duration=37&amp;adaptive=1&amp;dts=0">
+    <Media container="mp4" height="1080" width="1920" audioCodec="aac" duration="37000" videoCodec="h264" bitrate="2500">
+      <Part duration="37000" key="/services/iva/assets/168057/video.mp4?bitrate=2500" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="1080" width="1920" codec="h264" bitrate="2500" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+    <Media container="mp4" height="720" width="1280" audioCodec="aac" duration="37000" videoCodec="h264" bitrate="1500">
+      <Part duration="37000" key="/services/iva/assets/168057/video.mp4?bitrate=1500" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="720" width="1280" codec="h264" bitrate="1500" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+    <Media container="mp4" height="480" width="640" audioCodec="aac" duration="37000" videoCodec="h264" bitrate="450">
+      <Part duration="37000" key="/services/iva/assets/168057/video.mp4?bitrate=450" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="480" width="640" codec="h264" bitrate="450" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+  </Video>
+  <Video url="iva://api.internetvideoarchive.com/2.0/DataService/VideoAssets(833464)?lang=en&amp;bitrates=80,212,450,750,1500,2500,5000,8000&amp;duration=32&amp;adaptive=1&amp;dts=0" key="/system/services/url/lookup?url=iva%3A%2F%2Fapi.internetvideoarchive.com%2F2.0%2FDataService%2FVideoAssets%28833464%29%3Flang%3Den%26bitrates%3D80%2C212%2C450%2C750%2C1500%2C2500%2C5000%2C8000%26duration%3D32%26adaptive%3D1%26dts%3D0" type="clip" relationType="behindTheScenes" year="2016" title="The Finest Hours: Holliday Grainger On What Excited Her About The Film" originallyAvailableAt="2016-01-18" thumb="https://iva-images.plex.tv/content/hdphotos/9960/009960/009960_1280x720_833464_002.jpg" ratingKey="iva://api.internetvideoarchive.com/2.0/DataService/VideoAssets(833464)?lang=en&amp;bitrates=80,212,450,750,1500,2500,5000,8000&amp;duration=32&amp;adaptive=1&amp;dts=0">
+    <Media container="mp4" height="1080" width="1920" audioCodec="aac" duration="32000" videoCodec="h264" bitrate="2500">
+      <Part duration="32000" key="/services/iva/assets/833464/video.mp4?bitrate=2500" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="1080" width="1920" codec="h264" bitrate="2500" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+    <Media container="mp4" height="720" width="1280" audioCodec="aac" duration="32000" videoCodec="h264" bitrate="1500">
+      <Part duration="32000" key="/services/iva/assets/833464/video.mp4?bitrate=1500" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="720" width="1280" codec="h264" bitrate="1500" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+    <Media container="mp4" height="480" width="640" audioCodec="aac" duration="32000" videoCodec="h264" bitrate="450">
+      <Part duration="32000" key="/services/iva/assets/833464/video.mp4?bitrate=450" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="480" width="640" codec="h264" bitrate="450" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+  </Video>
+  <Video url="iva://api.internetvideoarchive.com/2.0/DataService/VideoAssets(627396)?lang=en&amp;bitrates=80,212,450,750,1500,2500,5000,8000&amp;duration=83&amp;adaptive=1&amp;dts=0" key="/system/services/url/lookup?url=iva%3A%2F%2Fapi.internetvideoarchive.com%2F2.0%2FDataService%2FVideoAssets%28627396%29%3Flang%3Den%26bitrates%3D80%2C212%2C450%2C750%2C1500%2C2500%2C5000%2C8000%26duration%3D83%26adaptive%3D1%26dts%3D0" type="clip" relationType="behindTheScenes" year="2016" title="The Finest Hours: Craig Gillespie On The Story" originallyAvailableAt="2016-01-18" thumb="https://iva-images.plex.tv/content/hdphotos/9960/009960/009960_1280x720_627396_008.jpg" ratingKey="iva://api.internetvideoarchive.com/2.0/DataService/VideoAssets(627396)?lang=en&amp;bitrates=80,212,450,750,1500,2500,5000,8000&amp;duration=83&amp;adaptive=1&amp;dts=0">
+    <Media container="mp4" height="1080" width="1920" audioCodec="aac" duration="83000" videoCodec="h264" bitrate="2500">
+      <Part duration="83000" key="/services/iva/assets/627396/video.mp4?bitrate=2500" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="1080" width="1920" codec="h264" bitrate="2500" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+    <Media container="mp4" height="720" width="1280" audioCodec="aac" duration="83000" videoCodec="h264" bitrate="1500">
+      <Part duration="83000" key="/services/iva/assets/627396/video.mp4?bitrate=1500" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="720" width="1280" codec="h264" bitrate="1500" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+    <Media container="mp4" height="480" width="640" audioCodec="aac" duration="83000" videoCodec="h264" bitrate="450">
+      <Part duration="83000" key="/services/iva/assets/627396/video.mp4?bitrate=450" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="480" width="640" codec="h264" bitrate="450" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+  </Video>
+  <Video url="iva://api.internetvideoarchive.com/2.0/DataService/VideoAssets(776024)?lang=en&amp;bitrates=80,212,450,750,1500,2500,5000,8000&amp;duration=95&amp;adaptive=1&amp;dts=0" key="/system/services/url/lookup?url=iva%3A%2F%2Fapi.internetvideoarchive.com%2F2.0%2FDataService%2FVideoAssets%28776024%29%3Flang%3Den%26bitrates%3D80%2C212%2C450%2C750%2C1500%2C2500%2C5000%2C8000%26duration%3D95%26adaptive%3D1%26dts%3D0" type="clip" relationType="behindTheScenes" year="2016" title="The Finest Hours: Chris Pine On The Film Being Based On True Events" originallyAvailableAt="2016-01-18" thumb="https://iva-images.plex.tv/content/hdphotos/9960/009960/009960_1280x720_776024_008.jpg" ratingKey="iva://api.internetvideoarchive.com/2.0/DataService/VideoAssets(776024)?lang=en&amp;bitrates=80,212,450,750,1500,2500,5000,8000&amp;duration=95&amp;adaptive=1&amp;dts=0">
+    <Media container="mp4" height="1080" width="1920" audioCodec="aac" duration="95000" videoCodec="h264" bitrate="2500">
+      <Part duration="95000" key="/services/iva/assets/776024/video.mp4?bitrate=2500" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="1080" width="1920" codec="h264" bitrate="2500" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+    <Media container="mp4" height="720" width="1280" audioCodec="aac" duration="95000" videoCodec="h264" bitrate="1500">
+      <Part duration="95000" key="/services/iva/assets/776024/video.mp4?bitrate=1500" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="720" width="1280" codec="h264" bitrate="1500" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+    <Media container="mp4" height="480" width="640" audioCodec="aac" duration="95000" videoCodec="h264" bitrate="450">
+      <Part duration="95000" key="/services/iva/assets/776024/video.mp4?bitrate=450" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="480" width="640" codec="h264" bitrate="450" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+  </Video>
+  <Video url="iva://api.internetvideoarchive.com/2.0/DataService/VideoAssets(701514)?lang=en&amp;bitrates=80,212,450,750,1500,2500,5000,8000&amp;duration=45&amp;adaptive=1&amp;dts=0" key="/system/services/url/lookup?url=iva%3A%2F%2Fapi.internetvideoarchive.com%2F2.0%2FDataService%2FVideoAssets%28701514%29%3Flang%3Den%26bitrates%3D80%2C212%2C450%2C750%2C1500%2C2500%2C5000%2C8000%26duration%3D45%26adaptive%3D1%26dts%3D0" type="clip" relationType="behindTheScenes" year="2016" title="The Finest Hours: Casey Affleck on How He Got Involved In The Film" originallyAvailableAt="2016-01-18" thumb="https://iva-images.plex.tv/content/hdphotos/9960/009960/009960_1280x720_701514_006.jpg" ratingKey="iva://api.internetvideoarchive.com/2.0/DataService/VideoAssets(701514)?lang=en&amp;bitrates=80,212,450,750,1500,2500,5000,8000&amp;duration=45&amp;adaptive=1&amp;dts=0">
+    <Media container="mp4" height="1080" width="1920" audioCodec="aac" duration="45000" videoCodec="h264" bitrate="2500">
+      <Part duration="45000" key="/services/iva/assets/701514/video.mp4?bitrate=2500" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="1080" width="1920" codec="h264" bitrate="2500" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+    <Media container="mp4" height="720" width="1280" audioCodec="aac" duration="45000" videoCodec="h264" bitrate="1500">
+      <Part duration="45000" key="/services/iva/assets/701514/video.mp4?bitrate=1500" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="720" width="1280" codec="h264" bitrate="1500" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+    <Media container="mp4" height="480" width="640" audioCodec="aac" duration="45000" videoCodec="h264" bitrate="450">
+      <Part duration="45000" key="/services/iva/assets/701514/video.mp4?bitrate=450" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="480" width="640" codec="h264" bitrate="450" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+  </Video>
+  <Video url="iva://api.internetvideoarchive.com/2.0/DataService/VideoAssets(481625)?lang=en&amp;bitrates=80,212,450,750,1500,2500,5000,8000&amp;duration=46&amp;adaptive=1&amp;dts=0" key="/system/services/url/lookup?url=iva%3A%2F%2Fapi.internetvideoarchive.com%2F2.0%2FDataService%2FVideoAssets%28481625%29%3Flang%3Den%26bitrates%3D80%2C212%2C450%2C750%2C1500%2C2500%2C5000%2C8000%26duration%3D46%26adaptive%3D1%26dts%3D0" type="clip" relationType="behindTheScenes" year="2016" title="The Finest Hours: Ben Foster On What Attracted Him To The Project" originallyAvailableAt="2016-01-18" thumb="https://iva-images.plex.tv/content/hdphotos/9960/009960/009960_1280x720_481625_001.jpg" ratingKey="iva://api.internetvideoarchive.com/2.0/DataService/VideoAssets(481625)?lang=en&amp;bitrates=80,212,450,750,1500,2500,5000,8000&amp;duration=46&amp;adaptive=1&amp;dts=0">
+    <Media container="mp4" height="1080" width="1920" audioCodec="aac" duration="46000" videoCodec="h264" bitrate="2500">
+      <Part duration="46000" key="/services/iva/assets/481625/video.mp4?bitrate=2500" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="1080" width="1920" codec="h264" bitrate="2500" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+    <Media container="mp4" height="720" width="1280" audioCodec="aac" duration="46000" videoCodec="h264" bitrate="1500">
+      <Part duration="46000" key="/services/iva/assets/481625/video.mp4?bitrate=1500" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="720" width="1280" codec="h264" bitrate="1500" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+    <Media container="mp4" height="480" width="640" audioCodec="aac" duration="46000" videoCodec="h264" bitrate="450">
+      <Part duration="46000" key="/services/iva/assets/481625/video.mp4?bitrate=450" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="480" width="640" codec="h264" bitrate="450" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+  </Video>
+  <Video url="iva://api.internetvideoarchive.com/2.0/DataService/VideoAssets(576611)?lang=en&amp;bitrates=80,212,450,750,1500,2500,5000,8000&amp;duration=30&amp;adaptive=1&amp;dts=0" key="/system/services/url/lookup?url=iva%3A%2F%2Fapi.internetvideoarchive.com%2F2.0%2FDataService%2FVideoAssets%28576611%29%3Flang%3Den%26bitrates%3D80%2C212%2C450%2C750%2C1500%2C2500%2C5000%2C8000%26duration%3D30%26adaptive%3D1%26dts%3D0" type="clip" relationType="behindTheScenes" year="2016" title="The Finest Hours: Beau Knapp On What Interested Him About The Story" originallyAvailableAt="2016-01-18" thumb="https://iva-images.plex.tv/content/hdphotos/9959/009959/009959_1280x720_576611_002.jpg" ratingKey="iva://api.internetvideoarchive.com/2.0/DataService/VideoAssets(576611)?lang=en&amp;bitrates=80,212,450,750,1500,2500,5000,8000&amp;duration=30&amp;adaptive=1&amp;dts=0">
+    <Media container="mp4" height="1080" width="1920" audioCodec="aac" duration="30000" videoCodec="h264" bitrate="2500">
+      <Part duration="30000" key="/services/iva/assets/576611/video.mp4?bitrate=2500" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="1080" width="1920" codec="h264" bitrate="2500" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+    <Media container="mp4" height="720" width="1280" audioCodec="aac" duration="30000" videoCodec="h264" bitrate="1500">
+      <Part duration="30000" key="/services/iva/assets/576611/video.mp4?bitrate=1500" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="720" width="1280" codec="h264" bitrate="1500" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+    <Media container="mp4" height="480" width="640" audioCodec="aac" duration="30000" videoCodec="h264" bitrate="450">
+      <Part duration="30000" key="/services/iva/assets/576611/video.mp4?bitrate=450" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="480" width="640" codec="h264" bitrate="450" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+  </Video>
+  <Video url="iva://api.internetvideoarchive.com/2.0/DataService/VideoAssets(86270)?lang=en&amp;bitrates=80,212,450,750,1500,2500,5000,8000&amp;duration=37&amp;adaptive=1&amp;dts=0" key="/system/services/url/lookup?url=iva%3A%2F%2Fapi.internetvideoarchive.com%2F2.0%2FDataService%2FVideoAssets%2886270%29%3Flang%3Den%26bitrates%3D80%2C212%2C450%2C750%2C1500%2C2500%2C5000%2C8000%26duration%3D37%26adaptive%3D1%26dts%3D0" type="clip" relationType="behindTheScenes" year="2016" title="The Finest Hours: Andy Fitzgerald On Bernie Webber" originallyAvailableAt="2016-01-18" thumb="https://iva-images.plex.tv/content/hdphotos/9959/009959/009959_1280x720_86270_001.jpg" ratingKey="iva://api.internetvideoarchive.com/2.0/DataService/VideoAssets(86270)?lang=en&amp;bitrates=80,212,450,750,1500,2500,5000,8000&amp;duration=37&amp;adaptive=1&amp;dts=0">
+    <Media container="mp4" height="1080" width="1920" audioCodec="aac" duration="37000" videoCodec="h264" bitrate="2500">
+      <Part duration="37000" key="/services/iva/assets/86270/video.mp4?bitrate=2500" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="1080" width="1920" codec="h264" bitrate="2500" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+    <Media container="mp4" height="720" width="1280" audioCodec="aac" duration="37000" videoCodec="h264" bitrate="1500">
+      <Part duration="37000" key="/services/iva/assets/86270/video.mp4?bitrate=1500" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="720" width="1280" codec="h264" bitrate="1500" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+    <Media container="mp4" height="480" width="640" audioCodec="aac" duration="37000" videoCodec="h264" bitrate="450">
+      <Part duration="37000" key="/services/iva/assets/86270/video.mp4?bitrate=450" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="480" width="640" codec="h264" bitrate="450" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+  </Video>
+  <Video url="iva://api.internetvideoarchive.com/2.0/DataService/VideoAssets(976875)?lang=en&amp;bitrates=80,212,450,750,1500,2500,5000,8000&amp;duration=111&amp;adaptive=1&amp;dts=0" key="/system/services/url/lookup?url=iva%3A%2F%2Fapi.internetvideoarchive.com%2F2.0%2FDataService%2FVideoAssets%28976875%29%3Flang%3Den%26bitrates%3D80%2C212%2C450%2C750%2C1500%2C2500%2C5000%2C8000%26duration%3D111%26adaptive%3D1%26dts%3D0" type="clip" relationType="behindTheScenes" year="2016" title="The Finest Hours: Brotherhood (Featurette)" originallyAvailableAt="2016-01-08" thumb="https://iva-images.plex.tv/content/hdphotos/9943/009943/009943_1280x720_976875_006.jpg" ratingKey="iva://api.internetvideoarchive.com/2.0/DataService/VideoAssets(976875)?lang=en&amp;bitrates=80,212,450,750,1500,2500,5000,8000&amp;duration=111&amp;adaptive=1&amp;dts=0">
+    <Media container="mp4" height="1080" width="1920" audioCodec="aac" duration="111000" videoCodec="h264" bitrate="2500">
+      <Part duration="111000" key="/services/iva/assets/976875/video.mp4?bitrate=2500" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="1080" width="1920" codec="h264" bitrate="2500" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+    <Media container="mp4" height="720" width="1280" audioCodec="aac" duration="111000" videoCodec="h264" bitrate="1500">
+      <Part duration="111000" key="/services/iva/assets/976875/video.mp4?bitrate=1500" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="720" width="1280" codec="h264" bitrate="1500" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+    <Media container="mp4" height="480" width="640" audioCodec="aac" duration="111000" videoCodec="h264" bitrate="450">
+      <Part duration="111000" key="/services/iva/assets/976875/video.mp4?bitrate=450" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="480" width="640" codec="h264" bitrate="450" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+  </Video>
+</MediaContainer>

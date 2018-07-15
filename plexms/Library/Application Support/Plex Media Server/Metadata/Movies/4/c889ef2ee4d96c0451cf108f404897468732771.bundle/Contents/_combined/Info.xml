@@ -1,0 +1,534 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Movie>
+  <art>
+    <item external="True" url="http://image.tmdb.org/t/p/original/2voAsVS0KzuYqqI1d01pR7QotI.jpg" sort_order="1" provider="com.plexapp.agents.imdb" media="com.plexapp.agents.imdb_2ad2762f1827e1d5df9742fdd081a9d5245ef873"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/7On0XrMjSNH8e4oeDOMn7icwPIV.jpg" preview="com.plexapp.agents.imdb_4efe95c99dbbccc954eaedae79a8b64068f10e11" sort_order="2" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/g37j2Hls1dXyTGumuGQWvLEMXJr.jpg" preview="com.plexapp.agents.imdb_fe7f9b03eb9ed9d4533421be3df96790861b103a" sort_order="3" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/xUgX2fpP2eUqnJDrtIfngZXUo6d.jpg" preview="com.plexapp.agents.imdb_87cd57d2ef85d3118cd864f2387ca08654f2f8d7" sort_order="4" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/lcqVBBirzzX520AyOK3k7kXBDJ6.jpg" preview="com.plexapp.agents.imdb_6f99a791c21acf70715e21d926eab88c0b203f75" sort_order="5" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/aI8luIcMpYZPixrEc70pARrHBwE.jpg" preview="com.plexapp.agents.imdb_4be96e30b5a348cdbc110d01325b26dc96b2f15e" sort_order="6" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/d5vwBiuJI1a2hBcGjhsWhpmAkL7.jpg" preview="com.plexapp.agents.imdb_c3394fe23b243e4e124bf13f95da8c02b38a97bb" sort_order="7" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/aVXOOdQRD9Inpbk9Yv6QVZ8Ir1t.jpg" preview="com.plexapp.agents.imdb_8c69a7e88ebabd458376d2b14abd1b537d3e2594" sort_order="8" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/aMbYR4epIMImnaJKLnSaZGnfZCM.jpg" preview="com.plexapp.agents.imdb_729720cace3cde414f5361881a78cc166efc4c8d" sort_order="9" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/d0nzBeDNOANwaygmHi8AFO11G2S.jpg" preview="com.plexapp.agents.imdb_687d79454591efcc185b5f8f8a2598e7c0f16ebe" sort_order="10" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/qrb1UPrDY1FNF983P0FN82uIdNR.jpg" preview="com.plexapp.agents.imdb_aa6d3e8cedaff1ac1886c936a50a35fc52c59c2a" sort_order="11" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/tVNbXCFtU1Fz3zlXo5FZFvpMr1T.jpg" preview="com.plexapp.agents.imdb_8aa3e061b269fcd55e17b466234a5833eab85263" sort_order="12" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/fSPNK4y8HYePM6799zwWxcL0sQf.jpg" preview="com.plexapp.agents.imdb_03f9db7b155a47113e7459b086f2b3b9c238dbb0" sort_order="13" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/kKPYFhwKc67I5FYYZGI8snk0EnZ.jpg" preview="com.plexapp.agents.imdb_8d1ee56236780bc76c6be42ee2f66e6cab45024a" sort_order="14" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/hfplpRLkSXCa0kcc90j7evtrQoU.jpg" preview="com.plexapp.agents.imdb_a194b12d2bb1b23b594f7f262db35af8076aef78" sort_order="15" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/dqQMrapcLFtDc8u45a66LhmIqnd.jpg" preview="com.plexapp.agents.imdb_cfce64ccc095688fe8343cea47f482cdca7e21e6" sort_order="16" provider="com.plexapp.agents.imdb"/>
+  </art>
+  <banners/>
+  <chapters>
+    <item index="0">
+      <title>Her Real Father (Main Titles)</title>
+      <end_time_offset>283000</end_time_offset>
+      <start_time_offset>0</start_time_offset>
+    </item>
+    <item index="1">
+      <title>Red Meat, Red Wine</title>
+      <end_time_offset>476000</end_time_offset>
+      <start_time_offset>283000</start_time_offset>
+    </item>
+    <item index="2">
+      <title>The Diva</title>
+      <end_time_offset>772000</end_time_offset>
+      <start_time_offset>476000</start_time_offset>
+    </item>
+    <item index="3">
+      <title>Just Sign The Paper</title>
+      <end_time_offset>1009000</end_time_offset>
+      <start_time_offset>772000</start_time_offset>
+    </item>
+    <item index="4">
+      <title>Rules And Conditions</title>
+      <end_time_offset>1224000</end_time_offset>
+      <start_time_offset>1009000</start_time_offset>
+    </item>
+    <item index="5">
+      <title>Ah, Paris</title>
+      <end_time_offset>1468000</end_time_offset>
+      <start_time_offset>1224000</start_time_offset>
+    </item>
+    <item index="6">
+      <title>Nightmare!</title>
+      <end_time_offset>1751000</end_time_offset>
+      <start_time_offset>1468000</start_time_offset>
+    </item>
+    <item index="7">
+      <title>96-Hour Window</title>
+      <end_time_offset>1946000</end_time_offset>
+      <start_time_offset>1751000</start_time_offset>
+    </item>
+    <item index="8">
+      <title>Searching The Apartment</title>
+      <end_time_offset>2153000</end_time_offset>
+      <start_time_offset>1946000</start_time_offset>
+    </item>
+    <item index="9">
+      <title>Stalking The Stalker</title>
+      <end_time_offset>2335000</end_time_offset>
+      <start_time_offset>2153000</start_time_offset>
+    </item>
+    <item index="10">
+      <title>Try Not To Make A Mess</title>
+      <end_time_offset>2494000</end_time_offset>
+      <start_time_offset>2335000</start_time_offset>
+    </item>
+    <item index="11">
+      <title>Porte De Clichy</title>
+      <end_time_offset>2747000</end_time_offset>
+      <start_time_offset>2494000</start_time_offset>
+    </item>
+    <item index="12">
+      <title>Makeshift Brothel</title>
+      <end_time_offset>3102000</end_time_offset>
+      <start_time_offset>2747000</start_time_offset>
+    </item>
+    <item index="13">
+      <title>Thanks, But No Thanks</title>
+      <end_time_offset>3361000</end_time_offset>
+      <start_time_offset>3102000</start_time_offset>
+    </item>
+    <item index="14">
+      <title>Paradise</title>
+      <end_time_offset>3457000</end_time_offset>
+      <start_time_offset>3361000</start_time_offset>
+    </item>
+    <item index="15">
+      <title>Zeroing In</title>
+      <end_time_offset>3837000</end_time_offset>
+      <start_time_offset>3457000</start_time_offset>
+    </item>
+    <item index="16">
+      <title>Sold</title>
+      <end_time_offset>4016000</end_time_offset>
+      <start_time_offset>3837000</start_time_offset>
+    </item>
+    <item index="17">
+      <title>What A Pleasant Surprise</title>
+      <end_time_offset>4219000</end_time_offset>
+      <start_time_offset>4016000</start_time_offset>
+    </item>
+    <item index="18">
+      <title>Saving The Best For Last</title>
+      <end_time_offset>4508000</end_time_offset>
+      <start_time_offset>4219000</start_time_offset>
+    </item>
+    <item index="19">
+      <title>All Sales Are Final</title>
+      <end_time_offset>4702000</end_time_offset>
+      <start_time_offset>4508000</start_time_offset>
+    </item>
+    <item index="20">
+      <title>Racing The Boat</title>
+      <end_time_offset>4869000</end_time_offset>
+      <start_time_offset>4702000</start_time_offset>
+    </item>
+    <item index="21">
+      <title>Last Man Standing</title>
+      <end_time_offset>5162000</end_time_offset>
+      <start_time_offset>4869000</start_time_offset>
+    </item>
+    <item index="22">
+      <title>Welcome Home</title>
+      <end_time_offset>5284000</end_time_offset>
+      <start_time_offset>5162000</start_time_offset>
+    </item>
+    <item index="23">
+      <title>End Titles</title>
+      <end_time_offset>-1</end_time_offset>
+      <start_time_offset>5284000</start_time_offset>
+    </item>
+  </chapters>
+  <collections/>
+  <content_rating>PG-13</content_rating>
+  <countries>
+    <item index="0">France</item>
+  </countries>
+  <directors>
+    <item index="0">
+      <photo>http://image.tmdb.org/t/p/original/yyhcEUYW4znC6JbNKZv2OJp1Cy0.jpg</photo>
+      <role/>
+      <name>Pierre Morel</name>
+    </item>
+  </directors>
+  <duration>5580000</duration>
+  <genres>
+    <item index="0">Action</item>
+    <item index="1">Crime</item>
+    <item index="2">Thriller</item>
+  </genres>
+  <originally_available_at>2008-02-18</originally_available_at>
+  <posters>
+    <item external="True" url="http://image.tmdb.org/t/p/original/vEFghK5SbW7HIcyGtKFjHs8jKYO.jpg" sort_order="1" provider="com.plexapp.agents.imdb" media="com.plexapp.agents.imdb_030f1d507dcac4546619513bebefb5df0cbf214d"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/q2ufZ5zgbyvwSVR9J5wR6nEAEyy.jpg" preview="com.plexapp.agents.imdb_eea3630b14f09ee8831ec24585ba2c7bfaed9c92" sort_order="2" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/3zlffXmo7QpVBc17QIJWrRfasVr.jpg" preview="com.plexapp.agents.imdb_92ae75f7afc229b3f76d86548e1c4287226a5d07" sort_order="3" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/i2bGxc7G36B2kugOFy6zgkuFElF.jpg" preview="com.plexapp.agents.imdb_bd243ab3e20d58a14a744619b01e65a42a59a580" sort_order="4" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/9nmByrauMyCNlEHrreneo1hJ7Um.jpg" preview="com.plexapp.agents.imdb_04dd1bb22c9942c4609c5ae0a4cf513295f68c57" sort_order="5" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/cC0huTbsQZzxMtU8gsoJUNLHIq2.jpg" preview="com.plexapp.agents.imdb_45428bf893eeff2c0c0b240f3c161f270410feaa" sort_order="6" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/d2Qul2t0GrSLqJZ6vkaED9AhM3.jpg" preview="com.plexapp.agents.imdb_28087dfa04fe597b5e0503d94b357712f06cda9f" sort_order="7" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/ktdsK9W1tVZBEj0A5YZb1c1THmo.jpg" preview="com.plexapp.agents.imdb_f05e6abe832da3e8c3eaaa0168544142b368abda" sort_order="8" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/sIRRQ64v9oeflJmymsAyiGLuKjE.jpg" preview="com.plexapp.agents.imdb_72c6875632476bf0a19794741fc85654171b0248" sort_order="9" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/2N5HeoABBCwMiBjOaYcowaWQlyp.jpg" preview="com.plexapp.agents.imdb_2200edd88640431a85bdcda8386294c48196e409" sort_order="10" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/dJkPwtr3pxIVPmEjw88sF68Cc2Y.jpg" preview="com.plexapp.agents.imdb_96e1bd877b2869fe5fff89d1455c04618ee1e783" sort_order="11" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/c7kMKgtiTpB6YcevsTIKuBJQymE.jpg" preview="com.plexapp.agents.imdb_2c22491651f47cc1d7a600190d2a7e09ed7e6704" sort_order="12" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/kQsCVFwf5EdBDwLNGZKQ26EHPkD.jpg" preview="com.plexapp.agents.imdb_614f93c5a9e1c7ea9bed393c6f186e57c6cf141d" sort_order="13" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/kRiTiOPaRaMs808RGCEKsCOAWR8.jpg" preview="com.plexapp.agents.imdb_a33c7d2828c5d7984251cb3d9c7bea70258c69fb" sort_order="14" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/5EpAKS1EIsB3D1OHVmupcJu6Els.jpg" preview="com.plexapp.agents.imdb_c3cbf1162839c2e963f7a70abe2bb438254d1085" sort_order="15" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/d0cDJzGMxes7iVF9dd2IM2qGPHF.jpg" preview="com.plexapp.agents.imdb_cbf19970f796acf08282a60b10fd22f4c44fafca" sort_order="16" provider="com.plexapp.agents.imdb"/>
+  </posters>
+  <producers>
+    <item index="0">
+      <photo/>
+      <role/>
+      <name>Pierre-Ange Le Pogam</name>
+    </item>
+    <item index="1">
+      <photo>http://image.tmdb.org/t/p/original/2TzRsqSx0xb1DK3HsEQKSXhRGcu.jpg</photo>
+      <role/>
+      <name>Luc Besson</name>
+    </item>
+    <item index="2">
+      <photo/>
+      <role/>
+      <name>India Osborne</name>
+    </item>
+  </producers>
+  <rating>5.8</rating>
+  <rating_image>rottentomatoes://image.rating.rotten</rating_image>
+  <audience_rating>8.5</audience_rating>
+  <audience_rating_image>rottentomatoes://image.rating.upright</audience_rating_image>
+  <reviews>
+    <item index="0">
+      <text>It's fun for about 15 minutes seeing Neeson do James Bond as Daddy Dangerous. But the surprise wears off quickly.</text>
+      <source>Rolling Stone</source>
+      <image>rottentomatoes://image.review.rotten</image>
+      <link>http://www.rollingstone.com/movies/reviews/taken-20090205</link>
+      <author>Peter Travers</author>
+    </item>
+    <item index="1">
+      <text>You've just kidnapped the wrong teenager, Mister Foreign Slave Trader Man.</text>
+      <source>Richard Roeper.com</source>
+      <image>rottentomatoes://image.review.rotten</image>
+      <link>http://www.richardroeper.com/reviews/id/81/</link>
+      <author>Richard Roeper</author>
+    </item>
+    <item index="2">
+      <text>Taken is the kind of exploitative junk everyone expects from no-talent French hack Luc Besson.</text>
+      <source>New York Observer</source>
+      <image>rottentomatoes://image.review.rotten</image>
+      <link>http://www.observer.com/2009/o2/dads-gone-wild</link>
+      <author>Rex Reed</author>
+    </item>
+    <item index="3">
+      <text>[Neeson's] performance is the most perturbing thing in the film, even more so than its electrical-torture sequence or its revelations about sex-trafficking.</text>
+      <source>New Yorker</source>
+      <image>rottentomatoes://image.review.rotten</image>
+      <link>http://www.newyorker.com/arts/critics/cinema/2009/02/02/090202crci_cinema_lane</link>
+      <author>Anthony Lane</author>
+    </item>
+    <item index="4">
+      <text>It's the big, dolorous Neeson who makes the movie a keeper.</text>
+      <source>New York Magazine/Vulture</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>http://nymag.com/listings/movie/taken/</link>
+      <author>David Edelstein</author>
+    </item>
+    <item index="5">
+      <text>Don't be taken in by Taken.</text>
+      <source>Christian Science Monitor</source>
+      <image>rottentomatoes://image.review.rotten</image>
+      <link>http://www.csmonitor.com/2009/0131/p25s01-almo.html</link>
+      <author>Peter Rainer</author>
+    </item>
+    <item index="6">
+      <text>The movie proves two things. (1) Liam Neeson can bring undeserved credibility to most roles just by playing them, and (2) Luc Besson, the co-writer, whose actioner-assembly line produced this film, turns out high-quality trash, and sometimes much better.</text>
+      <source>Chicago Sun-Times</source>
+      <image>rottentomatoes://image.review.rotten</image>
+      <link>http://www.rogerebert.com/reviews/taken-2009</link>
+      <author>Roger Ebert</author>
+    </item>
+    <item index="7">
+      <text>With some suspension of disbelief and a strong stomach, it's possible to get taken in, or at least absorbed, by this adrenaline-pumping action thriller.</text>
+      <source>USA Today</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>http://www.usatoday.com/life/movies/reviews/2009-01-29-taken_N.htm</link>
+      <author>Claudia Puig</author>
+    </item>
+    <item index="8">
+      <text>You'll miss out on a good movie if you consider Taken just another January dumping.</text>
+      <source>Toronto Star</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>http://www.thestar.com/Entertainment/article/579469</link>
+      <author>Peter Howell</author>
+    </item>
+    <item index="9">
+      <text>If a movie's high points are a quick smack of carnage and a steely speech that everyone's already seen in the trailer, you know it must be January.</text>
+      <source>TIME Magazine</source>
+      <image>rottentomatoes://image.review.rotten</image>
+      <link>http://www.time.com/time/arts/article/0,8599,1874803,00.html</link>
+      <author>Richard Corliss</author>
+    </item>
+    <item index="10">
+      <text>I won't tell you Taken is great, but it's great fun.</text>
+      <source>San Francisco Chronicle</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>http://www.sfgate.com/cgi-bin/article.cgi?f=/c/a/2009/01/29/DD3K15ISGS.DTL&amp;type=movies</link>
+      <author>Mick LaSalle</author>
+    </item>
+    <item index="11">
+      <text>A fleet, no-nonsense rescue thriller from the crackerjack French director Pierre Morel, Taken is satisfying (1) for the Gaelic gravitas of its star, (2) its slam-bang chase scenes and bone-snapping martial arts, and (3) the scenic backdrops of Paris.</text>
+      <source>Philadelphia Inquirer</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>http://www.philly.com/r?19=961&amp;43=168076&amp;44=38625112&amp;32=3796&amp;7=195392&amp;40=http%3A%2F%2Fwww.philly.com%2Fphilly%2Fentertainment%2Fmovies%2F20090130_Liam_Neeson__CIA_op_dad_to_the_rescue.html</link>
+      <author>Steven Rea</author>
+    </item>
+    <item index="12">
+      <text>Some movies flirt with absurdity. Taken takes it to bed, and then out for waffles in the morning.</text>
+      <source>Newark Star-Ledger</source>
+      <image>rottentomatoes://image.review.rotten</image>
+      <link>http://www.nj.com/entertainment/tv/index.ssf/2009/01/whos_your_vengeful_daddy.html</link>
+      <author>Stephen Whitty</author>
+    </item>
+    <item index="13">
+      <text>Next out of the January dreg-u-lator: A Liam Neeson thriller so lacking in ambition they should have called it Paycheck.</text>
+      <source>New York Post</source>
+      <image>rottentomatoes://image.review.rotten</image>
+      <link>http://www.nypost.com/seven/01302009/entertainment/movies/not_taken_with_this_152663.htm</link>
+      <author>Kyle Smith</author>
+    </item>
+    <item index="14">
+      <text>Neeson's better than this.</text>
+      <source>New York Daily News</source>
+      <image>rottentomatoes://image.review.rotten</image>
+      <link>http://www.nydailynews.com/entertainment/movies/2009/01/29/2009-01-29_taken_when_daddies_chase_babies.html</link>
+      <author>Joe Neumaier</author>
+    </item>
+    <item index="15">
+      <text>The film flirts with saying something dark and serious about pursuing justice through unjust means, then quickly chickens out.</text>
+      <source>Minneapolis Star Tribune</source>
+      <image>rottentomatoes://image.review.rotten</image>
+      <link>http://www.startribune.com/entertainment/movies/38608132.html?elr=KArksD:aDyaEP:kD:aUnc5PDiUiD3aPc:_Yyc:aUU</link>
+      <author>Colin Covert</author>
+    </item>
+  </reviews>
+  <roles>
+    <item index="0">
+      <photo>http://image.tmdb.org/t/p/original/9mdAohLsDu36WaXV2N3SQ388bvz.jpg</photo>
+      <role>Bryan</role>
+      <name>Liam Neeson</name>
+    </item>
+    <item index="1">
+      <photo>http://image.tmdb.org/t/p/original/9wHWq6Mnfpn8L1diMxjr26ReZWl.jpg</photo>
+      <role>Lenore</role>
+      <name>Famke Janssen</name>
+    </item>
+    <item index="2">
+      <photo>http://image.tmdb.org/t/p/original/jYgBu0uvED7P7ir5FCsFjqAi0hN.jpg</photo>
+      <role>Kim</role>
+      <name>Maggie Grace</name>
+    </item>
+    <item index="3">
+      <photo>http://image.tmdb.org/t/p/original/lRhzzdmt29n8PDi63QX5MLPAUFz.jpg</photo>
+      <role>Amanda</role>
+      <name>Katie Cassidy</name>
+    </item>
+    <item index="4">
+      <photo>http://image.tmdb.org/t/p/original/vxy32d9cFizzYY5Xi6MefOu3P10.jpg</photo>
+      <role>Sheerah</role>
+      <name>Holly Valance</name>
+    </item>
+    <item index="5">
+      <photo>http://image.tmdb.org/t/p/original/vlZ9FDMk2Xd1WHixPKxnheZoXgR.jpg</photo>
+      <role>Stuart</role>
+      <name>Xander Berkeley</name>
+    </item>
+    <item index="6">
+      <photo>http://image.tmdb.org/t/p/original/6txdehoOPpGllEsU31WnBkvgRJa.jpg</photo>
+      <role>Jean-Claude</role>
+      <name>Olivier Rabourdin</name>
+    </item>
+    <item index="7">
+      <photo>http://image.tmdb.org/t/p/original/2XnpH5LOE7Ln0JMhFTT73QscLQh.jpg</photo>
+      <role>Sam</role>
+      <name>Leland Orser</name>
+    </item>
+    <item index="8">
+      <photo>http://image.tmdb.org/t/p/original/yNhP4IZCMN10duIYKdHUFt8mJCU.jpg</photo>
+      <role>Casey</role>
+      <name>Jon Gries</name>
+    </item>
+    <item index="9">
+      <photo>http://image.tmdb.org/t/p/original/xbR1gFPNIAF1Jq0zpYECYxcLYA4.jpg</photo>
+      <role>Isabelle</role>
+      <name>Camille Japy</name>
+    </item>
+    <item index="10">
+      <photo>http://image.tmdb.org/t/p/original/alPG9509uMDaTmzsxzz8Rz1ZMZf.jpg</photo>
+      <role>Bernie</role>
+      <name>David Warshofsky</name>
+    </item>
+    <item index="11">
+      <photo>http://image.tmdb.org/t/p/original/3L0bBollvrXMH7BcuUKpcMue8Lo.jpg</photo>
+      <role>Gregor</role>
+      <name>Goran Kostić</name>
+    </item>
+    <item index="12">
+      <photo>http://image.tmdb.org/t/p/original/aiTCplxQF67wOASBAdHGp7fhZ6U.jpg</photo>
+      <role>Anton</role>
+      <name>Radivoje Bukvić</name>
+    </item>
+    <item index="13">
+      <photo>http://image.tmdb.org/t/p/original/gTiPcKYypU2YWaMxrn2wRi8giCQ.jpg</photo>
+      <role>Peter</role>
+      <name>Nicolas Giraud</name>
+    </item>
+    <item index="14">
+      <photo>http://image.tmdb.org/t/p/original/xlaackO08hHPRq7m3vX5i6f2FxR.jpg</photo>
+      <role>Saint-Clair</role>
+      <name>Gérard Watkins</name>
+    </item>
+    <item index="15">
+      <photo>http://image.tmdb.org/t/p/original/lSBsPu8ZAeuLDrBDntk23NtvlEG.jpg</photo>
+      <role>Marko</role>
+      <name>Arben Bajraktaraj</name>
+    </item>
+    <item index="16">
+      <photo>http://image.tmdb.org/t/p/original/4o1rYCIO9R13B9XbgFDw1Zh1m1P.jpg</photo>
+      <role>Ali</role>
+      <name>Jalil Naciri</name>
+    </item>
+    <item index="17">
+      <photo>http://image.tmdb.org/t/p/original/v8z7LfPBHtRBhclyeKT41s3JTuR.jpg</photo>
+      <role>Pharmacist</role>
+      <name>Marc Amyot</name>
+    </item>
+    <item index="18">
+      <photo>http://image.tmdb.org/t/p/original/ji2ZTxlsnABveqMICajGYYMG61z.jpg</photo>
+      <role>Undercover Agent</role>
+      <name>Mathieu Busson</name>
+    </item>
+    <item index="19">
+      <photo>http://image.tmdb.org/t/p/original/a5cx2W86RXuDq0Pzzaey3qYvAFN.jpg</photo>
+      <role>Gio</role>
+      <name>Michel Flash</name>
+    </item>
+    <item index="20">
+      <photo>http://image.tmdb.org/t/p/original/uHq2CLn3qEbuyMiEwASPnvk31mm.jpg</photo>
+      <role>Vinz</role>
+      <name>Valentin Kalaj</name>
+    </item>
+    <item index="21">
+      <photo>http://image.tmdb.org/t/p/original/yLfr7NP2qVjay6ypjyj2H6GP6jd.jpg</photo>
+      <role>Prostitute</role>
+      <name>Fani Kolarova</name>
+    </item>
+    <item index="22">
+      <photo>http://image.tmdb.org/t/p/original/7rktiDqwoUn76MRPaBDFRa9xOiB.jpg</photo>
+      <role>Gilles</role>
+      <name>Christophe Kourotchkine</name>
+    </item>
+    <item index="23">
+      <photo>http://image.tmdb.org/t/p/original/nBcIXC2WcBSKGtJqXB2m6O72jdg.jpg</photo>
+      <role>Jean-Claude's Assistant</role>
+      <name>Edwin Krüger</name>
+    </item>
+    <item index="24">
+      <photo>http://image.tmdb.org/t/p/original/i2k250DJxBiu3iECDuLLerJDn71.jpg</photo>
+      <role>Ingrid</role>
+      <name>Anca Radici</name>
+    </item>
+    <item index="25">
+      <photo>http://image.tmdb.org/t/p/original/9A2pu5kGFLkqKCGSAONsMcWryjx.jpg</photo>
+      <role>Victor</role>
+      <name>Nathan Rippy</name>
+    </item>
+    <item index="26">
+      <photo>http://image.tmdb.org/t/p/original/kLpZGhyNwXbfX35WJs4EGWrbThi.jpg</photo>
+      <role>Girl with the Jacket</role>
+      <name>Héléna Soubeyrand</name>
+    </item>
+    <item index="27">
+      <photo>http://image.tmdb.org/t/p/original/sPl25rawJwpF4gh6BiWhSSLj3fS.jpg</photo>
+      <role>Nezir</role>
+      <name>Tommy Spahija</name>
+    </item>
+    <item index="28">
+      <photo>http://image.tmdb.org/t/p/original/ykaA067K1LYyERSGTM98qzSw2Rl.jpg</photo>
+      <role>Dardan</role>
+      <name>Anatole Taubman</name>
+    </item>
+    <item index="29">
+      <photo>http://image.tmdb.org/t/p/original/4YZAe8fyYCJMp6b1MTbSX7FMgNN.jpg</photo>
+      <role>Taxi Driver</role>
+      <name>Bertrand Treuil</name>
+    </item>
+    <item index="30">
+      <photo>http://image.tmdb.org/t/p/original/llnngdvbaZM2xhMrbeujCqpNZZL.jpg</photo>
+      <role>Singh</role>
+      <name>Opender Singh</name>
+    </item>
+    <item index="31">
+      <photo>http://image.tmdb.org/t/p/original/brAoQU1SCgHfSxaG7n6bHjp4azq.jpg</photo>
+      <role>Paper Shop Clerk</role>
+      <name>Christy Reese</name>
+    </item>
+    <item index="32">
+      <photo>http://image.tmdb.org/t/p/original/1KNfKq7oqqpOtp7fZk8A5lbemTy.jpg</photo>
+      <role>Security Stuart's Mansion</role>
+      <name>George Hertzberg</name>
+    </item>
+    <item index="33">
+      <photo>http://image.tmdb.org/t/p/original/AmPzc1KxKxFLlxqrNSqLrRc69fb.jpg</photo>
+      <role>Sheik Raman</role>
+      <name>Nabil Massad</name>
+    </item>
+    <item index="34">
+      <photo>http://image.tmdb.org/t/p/original/Aq6Lg32zm6MTCIrzj1T4VzIKLwC.jpg</photo>
+      <role>Maid</role>
+      <name>Ivette González</name>
+    </item>
+  </roles>
+  <similar>
+    <item index="0">Taken 2</item>
+    <item index="1">The Bourne Supremacy</item>
+    <item index="2">The Bourne Identity</item>
+    <item index="3">The Transporter</item>
+    <item index="4">Live Free or Die Hard</item>
+    <item index="5">The Bourne Ultimatum</item>
+    <item index="6">Quantum of Solace</item>
+    <item index="7">Terminator Salvation</item>
+    <item index="8">Unknown</item>
+    <item index="9">Die Hard: With a Vengeance</item>
+    <item index="10">The Expendables</item>
+    <item index="11">Die Hard 2</item>
+    <item index="12">Taken 3</item>
+    <item index="13">Mission: Impossible</item>
+    <item index="14">Casino Royale</item>
+    <item index="15">Mission: Impossible III</item>
+    <item index="16">Terminator 3: Rise of the Machines</item>
+    <item index="17">Man on Fire</item>
+    <item index="18">Wanted</item>
+    <item index="19">Mission: Impossible II</item>
+  </similar>
+  <studio>20th Century Fox</studio>
+  <summary>While vacationing with a friend in Paris, an American girl is kidnapped by a gang of human traffickers intent on selling her into forced prostitution. Working against the clock, her ex-spy father must pull out all the stops to save her. But with his best years possibly behind him, the job may be more than he can handle.</summary>
+  <tagline>They took his daughter.  He'll take their lives.</tagline>
+  <tags/>
+  <themes/>
+  <title>Taken</title>
+  <writers>
+    <item index="0">
+      <photo>http://image.tmdb.org/t/p/original/2TzRsqSx0xb1DK3HsEQKSXhRGcu.jpg</photo>
+      <role/>
+      <name>Luc Besson</name>
+    </item>
+    <item index="1">
+      <photo>http://image.tmdb.org/t/p/original/zwGjOlFGizQxtBBAlgorm1Djw52.jpg</photo>
+      <role/>
+      <name>Robert Mark Kamen</name>
+    </item>
+  </writers>
+  <year>2008</year>
+</Movie>

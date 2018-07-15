@@ -1,0 +1,475 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Movie>
+  <art>
+    <item external="True" url="http://image.tmdb.org/t/p/original/ng15G1WxNWrJoc6eG9LQV3VGSn4.jpg" sort_order="1" provider="com.plexapp.agents.imdb" media="com.plexapp.agents.imdb_faf268b95d8315f4d6dd3e73640f1a473ad07b65"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/9cdINmfQk21ZaCUDfZMmf3D9jiY.jpg" preview="com.plexapp.agents.imdb_868cfee4681af8f03f7b16a1cc50f90e8511a648" sort_order="2" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/v9ny9QJYrM6HOaraQMMOwBudC8q.jpg" preview="com.plexapp.agents.imdb_37856ad89047606005dfe8c4c151dd50a3484748" sort_order="3" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/6b9v4Tr1qV875eryNm7vxs2MwDV.jpg" preview="com.plexapp.agents.imdb_bda52f08451de338544a57b1b101b96ac0679ae6" sort_order="4" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/lDyjQVNL1zn9zIHtyE4pHY10jud.jpg" preview="com.plexapp.agents.imdb_8f88204a9f3907ab8a42d733d1564075beeddbef" sort_order="5" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/szgELqp3WRwbErvDJsuCWmuhiz8.jpg" preview="com.plexapp.agents.imdb_d26684336a26955fa03ef7c30888e8d01f7ad07a" sort_order="6" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/8KbWAz7d4qhKgi94xYowd1cSc41.jpg" preview="com.plexapp.agents.imdb_7f9a0ef67ed102d741c299e418f815b53ea44aeb" sort_order="7" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/n7Bl0LvpttXiScJq2OzcH2kQ9eC.jpg" preview="com.plexapp.agents.imdb_e5a7b28d3aa3f04d131427609eaf2cc69be29569" sort_order="8" provider="com.plexapp.agents.imdb"/>
+  </art>
+  <banners/>
+  <chapters>
+    <item index="0">
+      <title>Chapter 1</title>
+      <end_time_offset>541000</end_time_offset>
+      <start_time_offset>0</start_time_offset>
+    </item>
+    <item index="1">
+      <title>Chapter 2</title>
+      <end_time_offset>1020000</end_time_offset>
+      <start_time_offset>541000</start_time_offset>
+    </item>
+    <item index="2">
+      <title>Chapter 3</title>
+      <end_time_offset>1488000</end_time_offset>
+      <start_time_offset>1020000</start_time_offset>
+    </item>
+    <item index="3">
+      <title>Chapter 4</title>
+      <end_time_offset>1716000</end_time_offset>
+      <start_time_offset>1488000</start_time_offset>
+    </item>
+    <item index="4">
+      <title>Chapter 5</title>
+      <end_time_offset>2112000</end_time_offset>
+      <start_time_offset>1716000</start_time_offset>
+    </item>
+    <item index="5">
+      <title>Chapter 6</title>
+      <end_time_offset>2551000</end_time_offset>
+      <start_time_offset>2112000</start_time_offset>
+    </item>
+    <item index="6">
+      <title>Chapter 7</title>
+      <end_time_offset>3102000</end_time_offset>
+      <start_time_offset>2551000</start_time_offset>
+    </item>
+    <item index="7">
+      <title>Chapter 8</title>
+      <end_time_offset>3460000</end_time_offset>
+      <start_time_offset>3102000</start_time_offset>
+    </item>
+    <item index="8">
+      <title>Chapter 9</title>
+      <end_time_offset>3767000</end_time_offset>
+      <start_time_offset>3460000</start_time_offset>
+    </item>
+    <item index="9">
+      <title>Chapter 10</title>
+      <end_time_offset>4061000</end_time_offset>
+      <start_time_offset>3767000</start_time_offset>
+    </item>
+    <item index="10">
+      <title>Chapter 11</title>
+      <end_time_offset>4624000</end_time_offset>
+      <start_time_offset>4061000</start_time_offset>
+    </item>
+    <item index="11">
+      <title>Chapter 12</title>
+      <end_time_offset>5058000</end_time_offset>
+      <start_time_offset>4624000</start_time_offset>
+    </item>
+    <item index="12">
+      <title>Chapter 13</title>
+      <end_time_offset>5503000</end_time_offset>
+      <start_time_offset>5058000</start_time_offset>
+    </item>
+    <item index="13">
+      <title>Chapter 14</title>
+      <end_time_offset>6058000</end_time_offset>
+      <start_time_offset>5503000</start_time_offset>
+    </item>
+    <item index="14">
+      <title>Chapter 15</title>
+      <end_time_offset>6464000</end_time_offset>
+      <start_time_offset>6058000</start_time_offset>
+    </item>
+    <item index="15">
+      <title>Chapter 16</title>
+      <end_time_offset>6770000</end_time_offset>
+      <start_time_offset>6464000</start_time_offset>
+    </item>
+    <item index="16">
+      <title>Chapter 17</title>
+      <end_time_offset>7094000</end_time_offset>
+      <start_time_offset>6770000</start_time_offset>
+    </item>
+    <item index="17">
+      <title>Chapter 18</title>
+      <end_time_offset>7628000</end_time_offset>
+      <start_time_offset>7094000</start_time_offset>
+    </item>
+    <item index="18">
+      <title>Chapter 19</title>
+      <end_time_offset>-1</end_time_offset>
+      <start_time_offset>7628000</start_time_offset>
+    </item>
+  </chapters>
+  <collections/>
+  <content_rating>R</content_rating>
+  <countries>
+    <item index="0">United Kingdom</item>
+  </countries>
+  <directors>
+    <item index="0">
+      <photo>http://image.tmdb.org/t/p/original/o1NbAcrBHaX8Qsk2AV95TEY0iLR.jpg</photo>
+      <role/>
+      <name>Brad Furman</name>
+    </item>
+  </directors>
+  <duration>7620000</duration>
+  <genres>
+    <item index="0">Biography</item>
+    <item index="1">Crime</item>
+    <item index="2">Drama</item>
+    <item index="3">Thriller</item>
+  </genres>
+  <originally_available_at>2016-07-13</originally_available_at>
+  <posters>
+    <item external="True" url="http://image.tmdb.org/t/p/original/tnQ2TLwz82F3KXUCSMePPXviY1i.jpg" sort_order="1" provider="com.plexapp.agents.imdb" media="com.plexapp.agents.imdb_ff4b881e2e7ba0e3a0f9039fb3c8c3e0a8bed2d2"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/xcyj3UUtW7banYo1iQiT4wqSPjY.jpg" preview="com.plexapp.agents.imdb_5fde7c47009bcd03c313cae0e2ba7047aaf4f7ea" sort_order="2" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/zHN3LMXJ0mMJIlKMdaWbVzocbFR.jpg" preview="com.plexapp.agents.imdb_6cae80a6120179dc1d21f21739ba651bd261c220" sort_order="3" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/eHEUzlLyaOh7tIgamsDf02lD1j6.jpg" preview="com.plexapp.agents.imdb_653cdcaf35b76fa36a895d228da1b70406e52976" sort_order="4" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/pLvxrIQTX7dKLewS9AAGYKTRDfM.jpg" preview="com.plexapp.agents.imdb_4104bbc02154e8812bbe5b175b5ca52c119b534a" sort_order="5" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/hTaGPnsgUfRd3Wxxu9Du8Vm4mdB.jpg" preview="com.plexapp.agents.imdb_64fe3dc7e0d5547103d77edc29ba4e6dbdbd46e2" sort_order="6" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/FwEx4Are5ZzyU4484Gw4xqUzXR.jpg" preview="com.plexapp.agents.imdb_81800b17ee3c35f963025eabae2a7fb2324c9d1d" sort_order="7" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/huZbHDLJyVBaBdBDBPklBk8JD22.jpg" preview="com.plexapp.agents.imdb_09a21c755571f022b5aadaf1df58c5699d5b5fbd" sort_order="8" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/reyCpYslgBOQ2KPngfmfGquD00O.jpg" preview="com.plexapp.agents.imdb_275dfc27fd555fde972374702497d648ede4c1c4" sort_order="9" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/cBiyyM6bZmcqIi2lZ4prsLHfJlC.jpg" preview="com.plexapp.agents.imdb_241fa2ed2c2f044a95a8cf29cd41500603ce4973" sort_order="10" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/s2KQHe1vEhta3g3tInsR8dwTBom.jpg" preview="com.plexapp.agents.imdb_98c6c3225644270bc0d57480d056edf44f112d8f" sort_order="11" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/jlo4Gkxdao0UBygTf4hD5T1eU9o.jpg" preview="com.plexapp.agents.imdb_01c3a9e23099070ca2927e5b0429e18a8ba20bff" sort_order="12" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/lP6E1OtZSnVKJ9khg3lob8cCpDA.jpg" preview="com.plexapp.agents.imdb_dced5ab6796834b8b90a79ebbffd8ffd277e637d" sort_order="13" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/djHvUVtCXfENFZ5RTwnaJaahUEB.jpg" preview="com.plexapp.agents.imdb_fc7b1348daf652fd5979706af1e8c31efa51c48a" sort_order="14" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/pv7G8Ktn27vWISw2XCzOcDLKRls.jpg" preview="com.plexapp.agents.imdb_60d1fba74126e44ec1a801b44adb7842963e97fb" sort_order="15" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/kR7gl0dwNoQOl6VhH3B39nSatU8.jpg" preview="com.plexapp.agents.imdb_342057d496f0ee41930489b10861590f51074878" sort_order="16" provider="com.plexapp.agents.imdb"/>
+  </posters>
+  <producers>
+    <item index="0">
+      <photo/>
+      <role/>
+      <name>Paul M. Brennan</name>
+    </item>
+    <item index="1">
+      <photo>http://image.tmdb.org/t/p/original/o1NbAcrBHaX8Qsk2AV95TEY0iLR.jpg</photo>
+      <role/>
+      <name>Brad Furman</name>
+    </item>
+    <item index="2">
+      <photo/>
+      <role/>
+      <name>Miriam Segal</name>
+    </item>
+    <item index="3">
+      <photo/>
+      <role/>
+      <name>Don Sikorski</name>
+    </item>
+  </producers>
+  <rating>7.0</rating>
+  <rating_image>rottentomatoes://image.rating.ripe</rating_image>
+  <audience_rating>7.1</audience_rating>
+  <audience_rating_image>rottentomatoes://image.rating.upright</audience_rating_image>
+  <reviews>
+    <item index="0">
+      <text>The best thing you can say about The Infiltrator is that Cranston and company are entirely persuasive in a film that doesn't make the best use of their stellar efforts.</text>
+      <source>Globe and Mail</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>http://www.theglobeandmail.com/arts/film/film-reviews/the-infiltrator-has-persuasive-acting-but-doesnt-make-the-best-of-it/article31378711/</link>
+      <author>Brad Wheeler</author>
+    </item>
+    <item index="1">
+      <text>There aren't enough adrenalin moments to supercharge a film that gets bogged down in exposition.</text>
+      <source>Toronto Star</source>
+      <image>rottentomatoes://image.review.rotten</image>
+      <link>https://www.thestar.com/entertainment/movies/2016/08/11/reel-brief-mini-reviews-of-equity-anthropoid-lo-an-behold-how-heavy-this-hammer-the-infiltrator.html</link>
+      <author>Bruce Demara</author>
+    </item>
+    <item index="2">
+      <text>This is a summer movie for grownups, the kind that reminds you how gratifying it can be to sit down uninterrupted and watch actors work on the big screen.</text>
+      <source>TIME Magazine</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>http://time.com/4416681/a-colombian-coke-and-cash-caper-scores-grownup-thrills/</link>
+      <author>Stephanie Zacharek</author>
+    </item>
+    <item index="3">
+      <text>On its own limited terms, The Infiltrator, like its hero, delivers the goods.</text>
+      <source>Christian Science Monitor</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>http://www.csmonitor.com/The-Culture/Movies/2016/0713/The-Infiltrator-lacks-novelty-but-has-nail-biting-pizzazz</link>
+      <author>Peter Rainer</author>
+    </item>
+    <item index="4">
+      <text>When director Brad Furman isn't focusing on huge closeups (which seems to be an awful lot of the time), he's focusing on all the wrong details.</text>
+      <source>San Diego Reader</source>
+      <image>rottentomatoes://image.review.rotten</image>
+      <link>http://www.sandiegoreader.com/movies/the-infiltrator/</link>
+      <author>Matthew Lickona</author>
+    </item>
+    <item index="5">
+      <text>It's distinguished by its craft and verve.</text>
+      <source>NPR</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>http://www.npr.org/2016/07/14/485292982/the-infiltrator-offers-a-familiar-but-stylish-look-inside-a-drug-kingpins-empire</link>
+      <author>Mark Jenkins</author>
+    </item>
+    <item index="6">
+      <text>Composer Chris Hajian breaks out the percolating Jan Hammer synthesizers, and the '80s decadence wafts offscreen like a stink.</text>
+      <source>Time Out</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>http://www.timeout.com/us/film/the-infiltrator</link>
+      <author>Joshua Rothkopf</author>
+    </item>
+    <item index="7">
+      <text>The drug of choice here is acting, and the highs in this hurtling, often violent thriller are doubly intense, since two of its stars play flamboyant double roles.</text>
+      <source>Wall Street Journal</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>http://www.wsj.com/articles/the-infiltrator-review-cocaine-cash-and-an-identity-crisis-1468520563</link>
+      <author>Joe Morgenstern</author>
+    </item>
+    <item index="8">
+      <text>After a few initial missteps, Cranston's good-natured character can do no wrong, and The Infiltrator takes cues from his progression by creating the sense that his scheme is so perfectly realized it can just glide along to a perfect finish.</text>
+      <source>indieWire</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>http://www.indiewire.com/2016/07/the-infiltrator-review-bryan-cranston-1201704917/</link>
+      <author>Eric Kohn</author>
+    </item>
+    <item index="9">
+      <text>Brad Furman, the screenwriter's husband, wrings the maximum suspense out of all this.</text>
+      <source>Chicago Reader</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>http://www.chicagoreader.com/chicago/the-infiltrator/MovieTimes?oid=22806037</link>
+      <author>J. R. Jones</author>
+    </item>
+    <item index="10">
+      <text>[Cranston and Leguizamo] give ample reason for a trip to the multiplex, even if director Brad Furman ("The Lincoln Lawyer") can't maintain the film's gritty, immersive tone.</text>
+      <source>Boston Globe</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>http://www.bostonglobe.com/arts/movies/2016/07/12/the-infiltrator-follows-dirty-money-trail-war-drugs/ERXFP6xiGJsTUHqku73ubP/story.html</link>
+      <author>Tom Russo</author>
+    </item>
+    <item index="11">
+      <text>Though "The Infiltrator" breaks no new ground in its storytelling, it is nonetheless a riveting piece of work.</text>
+      <source>Seattle Times</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>http://www.seattletimes.com/entertainment/movies/the-infiltrator-danger-is-drug-of-choice-in-this-thriller/?utm_source=RSS&amp;utm_medium=Referral&amp;utm_campaign=RSS_movies</link>
+      <author>Soren Anderson</author>
+    </item>
+    <item index="12">
+      <text>It sure is fun to watch Cranston at his best again, masterfully walking the tightrope between good and bad.</text>
+      <source>Entertainment Weekly</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>http://www.ew.com/article/2016/07/13/infiltrator-ew-review</link>
+      <author>Devan Coggan</author>
+    </item>
+    <item index="13">
+      <text>Furman keeps a tight rein on the film's palpable, sometimes suffocating tension. It's one of The Infiltrator's assets. Another is the ensemble cast.</text>
+      <source>ReelViews</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>http://www.reelviews.net/reelviews/infiltrator-the</link>
+      <author>James Berardinelli</author>
+    </item>
+    <item index="14">
+      <text>Cranston changes his character from regular Joe to raging psycho - and you believe it utterly. He's extraordinary. Too bad the movie settles for being same old/same old.</text>
+      <source>Rolling Stone</source>
+      <image>rottentomatoes://image.review.rotten</image>
+      <link>http://www.rollingstone.com/movies/reviews/the-infiltrator-20160713</link>
+      <author>Peter Travers</author>
+    </item>
+    <item index="15">
+      <text>For such an extraordinary story, The Infiltrator, from director Brad Furman, feels very by the books.</text>
+      <source>Associated Press</source>
+      <image>rottentomatoes://image.review.rotten</image>
+      <link>http://staging.hosted.ap.org/dynamic/stories/U/US_FILM_REVIEW_THE_INFILTRATOR?SITE=AP&amp;SECTION=HOME&amp;TEMPLATE=DEFAULT&amp;CTIME=2016-07-11-22-20-51</link>
+      <author>Lindsey Bahr</author>
+    </item>
+    <item index="16">
+      <text>The genuine success of The Infiltrator comes from the fact that Cranston seems to hate it, that his every second is full of dread and terror, and he can't wait for it to be over. And so he makes everyone in the audience a nervous wreck.</text>
+      <source>San Francisco Chronicle</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>http://www.sfgate.com/movies/article/The-Infiltrator-keeps-suspense-high-without-8354685.php</link>
+      <author>Mick LaSalle</author>
+    </item>
+    <item index="17">
+      <text>As solid as Cranston, Leguizamo, Kruger, Bratt, and all the rest are, the built-in constraints of the movie format don't do their real-life counterparts full justice.</text>
+      <source>Philadelphia Inquirer</source>
+      <image>rottentomatoes://image.review.rotten</image>
+      <link>http://www.philly.com/philly/entertainment/movies/20160713__The_Infiltrator___Bryan_Cranston_goes_undercover_to_expose_drug_kings_and_money-laundering_sleaze.html</link>
+      <author>Steven Rea</author>
+    </item>
+    <item index="18">
+      <text>Those looking for a story equal to Cranston's contributions to it are liable to come away from it feeling slightly disappointed.</text>
+      <source>RogerEbert.com</source>
+      <image>rottentomatoes://image.review.rotten</image>
+      <link>http://www.rogerebert.com/reviews/the-infiltrator-2016</link>
+      <author>Peter Sobczynski</author>
+    </item>
+    <item index="19">
+      <text>Something's missing. Although the movie is tense, it's not the white-knuckle experience you might expect, with the most suspenseful scenes coming across as manufactured.</text>
+      <source>Washington Post</source>
+      <image>rottentomatoes://image.review.rotten</image>
+      <link>https://www.washingtonpost.com/goingoutguide/movies/the-infiltrator-an-undercover-cartel-bust-story-that-couldnt-be-made-up/2016/07/12/4424fe0c-4834-11e6-bdb9-701687974517_story.html</link>
+      <author>Stephanie Merry</author>
+    </item>
+  </reviews>
+  <roles>
+    <item index="0">
+      <photo>http://image.tmdb.org/t/p/original/9dvZ0Id5RtnCGianoayNJBFrNVU.jpg</photo>
+      <role>Robert Mazur</role>
+      <name>Bryan Cranston</name>
+    </item>
+    <item index="1">
+      <photo>http://image.tmdb.org/t/p/original/zbRqfYLEkhbqcmR9GYyg1nhYHVz.jpg</photo>
+      <role>Kathy Ertz</role>
+      <name>Diane Kruger</name>
+    </item>
+    <item index="2">
+      <photo>http://image.tmdb.org/t/p/original/rbq24AzthnwRXUYcVfUnP5bKN50.jpg</photo>
+      <role>Emir Abreu</role>
+      <name>John Leguizamo</name>
+    </item>
+    <item index="3">
+      <photo>http://image.tmdb.org/t/p/original/ueenzFjVISvw4feto7WrxRao4zx.jpg</photo>
+      <role>Frankie</role>
+      <name>Daniel Mays</name>
+    </item>
+    <item index="4">
+      <photo>http://image.tmdb.org/t/p/original/5g88fU683ZXhFn0VSsBMjLHsXG1.jpg</photo>
+      <role>Roberto Alcaino</role>
+      <name>Benjamin Bratt</name>
+    </item>
+    <item index="5">
+      <photo>http://image.tmdb.org/t/p/original/icpKwwx4v17xrBtB3qT8uY0ClKv.jpg</photo>
+      <role>Bonni Tischler</role>
+      <name>Amy Ryan</name>
+    </item>
+    <item index="6">
+      <photo>http://image.tmdb.org/t/p/original/77AlR8g3YpWdEjQeaFBADjkKwge.jpg</photo>
+      <role>Gloria Alcaino</role>
+      <name>Elena Anaya</name>
+    </item>
+    <item index="7">
+      <photo>http://image.tmdb.org/t/p/original/zTOh3XhMSQ0g7hSDPdPF2Vd5tdv.jpg</photo>
+      <role>Dominic</role>
+      <name>Joseph Gilgun</name>
+    </item>
+    <item index="8">
+      <photo>http://image.tmdb.org/t/p/original/kRQtw7B08M52s990mFOqkRoYGcE.jpg</photo>
+      <role>Banker</role>
+      <name>Gino Picciano</name>
+    </item>
+    <item index="9">
+      <photo>http://image.tmdb.org/t/p/original/dJ8isTdH4hLfQHDEJu7DQYdfeIz.jpg</photo>
+      <role>Akbar Bilgrami</role>
+      <name>Art Malik</name>
+    </item>
+    <item index="10">
+      <photo>http://image.tmdb.org/t/p/original/sJMBUTkSWi2C5nLkWdd6Ob7OMl.jpg</photo>
+      <role>The Informant</role>
+      <name>Juan Cely</name>
+    </item>
+    <item index="11">
+      <photo>http://image.tmdb.org/t/p/original/1GtGhAJz1JloqHARqc2xMsq5rG4.jpg</photo>
+      <role>Mark Jackowski</role>
+      <name>Jason Isaacs</name>
+    </item>
+    <item index="12">
+      <photo>http://image.tmdb.org/t/p/original/taoZXCxhWdzHI0iNb3IVdeMYcXZ.jpg</photo>
+      <role>Steve Cook</role>
+      <name>Tom Vaughan-Lawlor</name>
+    </item>
+    <item index="13">
+      <photo>http://image.tmdb.org/t/p/original/8kYmUwC0SfnJKt39M5Xrr8Q0oIf.jpg</photo>
+      <role>Aunt Vicky</role>
+      <name>Olympia Dukakis</name>
+    </item>
+    <item index="14">
+      <photo>http://image.tmdb.org/t/p/original/bOh3ZQ64WiGivN6GJrrO8vrw9wU.jpg</photo>
+      <role>Amjad Awan</role>
+      <name>Saïd Taghmaoui</name>
+    </item>
+    <item index="15">
+      <photo>http://image.tmdb.org/t/p/original/lYzAZgSn1dkZp7s9NXzO0ke9Nrn.jpg</photo>
+      <role>Ian Howard</role>
+      <name>Tim Dutton</name>
+    </item>
+    <item index="16">
+      <photo>http://image.tmdb.org/t/p/original/g1cVLWWAgl3J1nNFhg67qXs8GUT.jpg</photo>
+      <role>Barry Seal</role>
+      <name>Michael Paré</name>
+    </item>
+    <item index="17">
+      <photo>http://image.tmdb.org/t/p/original/u8GkLSTzfnNHYoWFlKOPZ08cMQd.jpg</photo>
+      <role>Gonzalo Mora Jr.</role>
+      <name>Rubén Ochandiano</name>
+    </item>
+    <item index="18">
+      <photo/>
+      <role>Rudy Ambrecht</role>
+      <name>Carsten Hayes</name>
+    </item>
+    <item index="19">
+      <photo>http://image.tmdb.org/t/p/original/6IjyvBZwKVfdyOu9hWIWo7FCQHM.jpg</photo>
+      <role>Joe</role>
+      <name>Andy Beckwith</name>
+    </item>
+    <item index="20">
+      <photo>http://image.tmdb.org/t/p/original/gvlQZQzeB5LNHiLyx0czmaujGG0.jpg</photo>
+      <role>Farhana Awan</role>
+      <name>Dinita Gohil</name>
+    </item>
+    <item index="21">
+      <photo>http://image.tmdb.org/t/p/original/yvKqJCcIqPXr8sLSxEXXpTL5OBO.jpg</photo>
+      <role>Attorney</role>
+      <name>Richard Katz</name>
+    </item>
+    <item index="22">
+      <photo>http://image.tmdb.org/t/p/original/37AqcahEexETlbatyyuK9zg56Ki.jpg</photo>
+      <role>Saul Mineroff</role>
+      <name>David Horovitch</name>
+    </item>
+    <item index="23">
+      <photo>http://image.tmdb.org/t/p/original/eOxhalNnaj7oHof0JIPC6n8KHPK.jpg</photo>
+      <role>Mora's Henchman</role>
+      <name>Matthew Stirling</name>
+    </item>
+  </roles>
+  <similar>
+    <item index="0">Blood Father</item>
+    <item index="1">War Dogs</item>
+    <item index="2">Anthropoid</item>
+    <item index="3">Hell or High Water</item>
+    <item index="4">Imperium</item>
+    <item index="5">Eye in the Sky</item>
+    <item index="6">Free State of Jones</item>
+    <item index="7">The Accountant</item>
+    <item index="8">Criminal</item>
+    <item index="9">Gold</item>
+    <item index="10">Money Monster</item>
+    <item index="11">Live by Night</item>
+    <item index="12">Snowden</item>
+    <item index="13">Triple 9</item>
+    <item index="14">Legend</item>
+    <item index="15">Black Mass</item>
+    <item index="16">Kill the Messenger</item>
+    <item index="17">Deepwater Horizon</item>
+    <item index="18">Trumbo</item>
+    <item index="19">Demolition</item>
+  </similar>
+  <studio>Good Films</studio>
+  <summary>A U.S Customs official uncovers a massive money laundering scheme involving Pablo Escobar.</summary>
+  <tagline>The true story of one man against the biggest drug cartel in history.</tagline>
+  <tags/>
+  <themes/>
+  <title>The Infiltrator</title>
+  <writers>
+    <item index="0">
+      <photo/>
+      <role/>
+      <name>Ellen Brown Furman</name>
+    </item>
+  </writers>
+  <year>2016</year>
+</Movie>

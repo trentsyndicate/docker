@@ -1,0 +1,263 @@
+<?xml version='1.0' encoding='utf-8'?>
+<MediaContainer size="13" identifier="com.plexapp.agents.imdb" mediaTagPrefix="/system/bundle/media/flags/" prefsKey="/:/plugins/com.plexapp.agents.imdb/prefs">
+  <Video url="iva://api.internetvideoarchive.com/2.0/DataService/VideoAssets(284662)?lang=en&amp;bitrates=80,212,450,750,1500,2500,5000,8000&amp;duration=92&amp;adaptive=1&amp;dts=0" key="/system/services/url/lookup?url=iva%3A%2F%2Fapi.internetvideoarchive.com%2F2.0%2FDataService%2FVideoAssets%28284662%29%3Flang%3Den%26bitrates%3D80%2C212%2C450%2C750%2C1500%2C2500%2C5000%2C8000%26duration%3D92%26adaptive%3D1%26dts%3D0" type="clip" relationType="trailer" year="2017" title="Alien: Covenant (Clean Trailer)" originallyAvailableAt="2017-12-07" thumb="https://iva-images.plex.tv/content/hdphotos/11578/011578/011578_1104x621_284662_041.jpg" ratingKey="iva://api.internetvideoarchive.com/2.0/DataService/VideoAssets(284662)?lang=en&amp;bitrates=80,212,450,750,1500,2500,5000,8000&amp;duration=92&amp;adaptive=1&amp;dts=0">
+    <Media container="mp4" height="1080" width="1920" audioCodec="aac" duration="92000" videoCodec="h264" bitrate="2500">
+      <Part duration="92000" key="/services/iva/assets/284662/video.mp4?bitrate=2500" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="1080" width="1920" codec="h264" bitrate="2500" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+    <Media container="mp4" height="720" width="1280" audioCodec="aac" duration="92000" videoCodec="h264" bitrate="1500">
+      <Part duration="92000" key="/services/iva/assets/284662/video.mp4?bitrate=1500" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="720" width="1280" codec="h264" bitrate="1500" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+    <Media container="mp4" height="480" width="640" audioCodec="aac" duration="92000" videoCodec="h264" bitrate="450">
+      <Part duration="92000" key="/services/iva/assets/284662/video.mp4?bitrate=450" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="480" width="640" codec="h264" bitrate="450" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+  </Video>
+  <Video url="iva://api.internetvideoarchive.com/2.0/DataService/VideoAssets(270533)?lang=en&amp;bitrates=80,212,450,750,1500,2500,5000,8000&amp;duration=84&amp;adaptive=1&amp;dts=0" key="/system/services/url/lookup?url=iva%3A%2F%2Fapi.internetvideoarchive.com%2F2.0%2FDataService%2FVideoAssets%28270533%29%3Flang%3Den%26bitrates%3D80%2C212%2C450%2C750%2C1500%2C2500%2C5000%2C8000%26duration%3D84%26adaptive%3D1%26dts%3D0" type="clip" relationType="behindTheScenes" year="2017" title="Alien: Covenant: Michael Fassbender On How The Crew Decides To Land On The Planet" originallyAvailableAt="2017-05-09" thumb="https://iva-images.plex.tv/content/hdphotos/11112/011112/011112_1280x720_270533_009.jpg" ratingKey="iva://api.internetvideoarchive.com/2.0/DataService/VideoAssets(270533)?lang=en&amp;bitrates=80,212,450,750,1500,2500,5000,8000&amp;duration=84&amp;adaptive=1&amp;dts=0">
+    <Media container="mp4" height="1080" width="1920" audioCodec="aac" duration="84000" videoCodec="h264" bitrate="2500">
+      <Part duration="84000" key="/services/iva/assets/270533/video.mp4?bitrate=2500" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="1080" width="1920" codec="h264" bitrate="2500" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+    <Media container="mp4" height="720" width="1280" audioCodec="aac" duration="84000" videoCodec="h264" bitrate="1500">
+      <Part duration="84000" key="/services/iva/assets/270533/video.mp4?bitrate=1500" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="720" width="1280" codec="h264" bitrate="1500" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+    <Media container="mp4" height="480" width="640" audioCodec="aac" duration="84000" videoCodec="h264" bitrate="450">
+      <Part duration="84000" key="/services/iva/assets/270533/video.mp4?bitrate=450" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="480" width="640" codec="h264" bitrate="450" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+  </Video>
+  <Video url="iva://api.internetvideoarchive.com/2.0/DataService/VideoAssets(631873)?lang=en&amp;bitrates=80,212,450,750,1500,2500,5000,8000&amp;duration=47&amp;adaptive=1&amp;dts=0" key="/system/services/url/lookup?url=iva%3A%2F%2Fapi.internetvideoarchive.com%2F2.0%2FDataService%2FVideoAssets%28631873%29%3Flang%3Den%26bitrates%3D80%2C212%2C450%2C750%2C1500%2C2500%2C5000%2C8000%26duration%3D47%26adaptive%3D1%26dts%3D0" type="clip" relationType="behindTheScenes" year="2017" title="Alien: Covenant: Ridley Scott On The Mission Of The Covenant" originallyAvailableAt="2017-05-09" thumb="https://iva-images.plex.tv/content/hdphotos/11112/011112/011112_1280x720_631873_051.jpg" ratingKey="iva://api.internetvideoarchive.com/2.0/DataService/VideoAssets(631873)?lang=en&amp;bitrates=80,212,450,750,1500,2500,5000,8000&amp;duration=47&amp;adaptive=1&amp;dts=0">
+    <Media container="mp4" height="1080" width="1920" audioCodec="aac" duration="47000" videoCodec="h264" bitrate="2500">
+      <Part duration="47000" key="/services/iva/assets/631873/video.mp4?bitrate=2500" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="1080" width="1920" codec="h264" bitrate="2500" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+    <Media container="mp4" height="720" width="1280" audioCodec="aac" duration="47000" videoCodec="h264" bitrate="1500">
+      <Part duration="47000" key="/services/iva/assets/631873/video.mp4?bitrate=1500" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="720" width="1280" codec="h264" bitrate="1500" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+    <Media container="mp4" height="480" width="640" audioCodec="aac" duration="47000" videoCodec="h264" bitrate="450">
+      <Part duration="47000" key="/services/iva/assets/631873/video.mp4?bitrate=450" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="480" width="640" codec="h264" bitrate="450" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+  </Video>
+  <Video url="iva://api.internetvideoarchive.com/2.0/DataService/VideoAssets(626385)?lang=en&amp;bitrates=80,212,450,750,1500,2500,5000,8000&amp;duration=20&amp;adaptive=1&amp;dts=0" key="/system/services/url/lookup?url=iva%3A%2F%2Fapi.internetvideoarchive.com%2F2.0%2FDataService%2FVideoAssets%28626385%29%3Flang%3Den%26bitrates%3D80%2C212%2C450%2C750%2C1500%2C2500%2C5000%2C8000%26duration%3D20%26adaptive%3D1%26dts%3D0" type="clip" relationType="behindTheScenes" year="2017" title="Alien: Covenant: Katherine Waterston On Her Character" originallyAvailableAt="2017-05-09" thumb="https://iva-images.plex.tv/content/hdphotos/11111/011111/011111_1280x720_626385_009.jpg" ratingKey="iva://api.internetvideoarchive.com/2.0/DataService/VideoAssets(626385)?lang=en&amp;bitrates=80,212,450,750,1500,2500,5000,8000&amp;duration=20&amp;adaptive=1&amp;dts=0">
+    <Media container="mp4" height="1080" width="1920" audioCodec="aac" duration="20000" videoCodec="h264" bitrate="2500">
+      <Part duration="20000" key="/services/iva/assets/626385/video.mp4?bitrate=2500" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="1080" width="1920" codec="h264" bitrate="2500" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+    <Media container="mp4" height="720" width="1280" audioCodec="aac" duration="20000" videoCodec="h264" bitrate="1500">
+      <Part duration="20000" key="/services/iva/assets/626385/video.mp4?bitrate=1500" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="720" width="1280" codec="h264" bitrate="1500" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+    <Media container="mp4" height="480" width="640" audioCodec="aac" duration="20000" videoCodec="h264" bitrate="450">
+      <Part duration="20000" key="/services/iva/assets/626385/video.mp4?bitrate=450" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="480" width="640" codec="h264" bitrate="450" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+  </Video>
+  <Video url="iva://api.internetvideoarchive.com/2.0/DataService/VideoAssets(12936)?lang=en&amp;bitrates=80,212,450,750,1500,2500,5000,8000&amp;duration=56&amp;adaptive=1&amp;dts=0" key="/system/services/url/lookup?url=iva%3A%2F%2Fapi.internetvideoarchive.com%2F2.0%2FDataService%2FVideoAssets%2812936%29%3Flang%3Den%26bitrates%3D80%2C212%2C450%2C750%2C1500%2C2500%2C5000%2C8000%26duration%3D56%26adaptive%3D1%26dts%3D0" type="clip" relationType="behindTheScenes" year="2017" title="Alien: Covenant: Carmen Ejogo On The Mission Of The Lander Team" originallyAvailableAt="2017-05-09" thumb="https://iva-images.plex.tv/content/hdphotos/11111/011111/011111_1280x720_12936_003.jpg" ratingKey="iva://api.internetvideoarchive.com/2.0/DataService/VideoAssets(12936)?lang=en&amp;bitrates=80,212,450,750,1500,2500,5000,8000&amp;duration=56&amp;adaptive=1&amp;dts=0">
+    <Media container="mp4" height="1080" width="1920" audioCodec="aac" duration="56000" videoCodec="h264" bitrate="2500">
+      <Part duration="56000" key="/services/iva/assets/12936/video.mp4?bitrate=2500" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="1080" width="1920" codec="h264" bitrate="2500" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+    <Media container="mp4" height="720" width="1280" audioCodec="aac" duration="56000" videoCodec="h264" bitrate="1500">
+      <Part duration="56000" key="/services/iva/assets/12936/video.mp4?bitrate=1500" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="720" width="1280" codec="h264" bitrate="1500" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+    <Media container="mp4" height="480" width="640" audioCodec="aac" duration="56000" videoCodec="h264" bitrate="450">
+      <Part duration="56000" key="/services/iva/assets/12936/video.mp4?bitrate=450" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="480" width="640" codec="h264" bitrate="450" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+  </Video>
+  <Video url="iva://api.internetvideoarchive.com/2.0/DataService/VideoAssets(117336)?lang=en&amp;bitrates=80,212,450,750,1500,2500,5000,8000&amp;duration=26&amp;adaptive=1&amp;dts=0" key="/system/services/url/lookup?url=iva%3A%2F%2Fapi.internetvideoarchive.com%2F2.0%2FDataService%2FVideoAssets%28117336%29%3Flang%3Den%26bitrates%3D80%2C212%2C450%2C750%2C1500%2C2500%2C5000%2C8000%26duration%3D26%26adaptive%3D1%26dts%3D0" type="clip" relationType="behindTheScenes" year="2017" title="Alien: Covenant: James Franco On His Character" originallyAvailableAt="2017-05-09" thumb="https://iva-images.plex.tv/content/hdphotos/11111/011111/011111_1280x720_117336_008.jpg" ratingKey="iva://api.internetvideoarchive.com/2.0/DataService/VideoAssets(117336)?lang=en&amp;bitrates=80,212,450,750,1500,2500,5000,8000&amp;duration=26&amp;adaptive=1&amp;dts=0">
+    <Media container="mp4" height="1080" width="1920" audioCodec="aac" duration="26000" videoCodec="h264" bitrate="2500">
+      <Part duration="26000" key="/services/iva/assets/117336/video.mp4?bitrate=2500" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="1080" width="1920" codec="h264" bitrate="2500" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+    <Media container="mp4" height="720" width="1280" audioCodec="aac" duration="26000" videoCodec="h264" bitrate="1500">
+      <Part duration="26000" key="/services/iva/assets/117336/video.mp4?bitrate=1500" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="720" width="1280" codec="h264" bitrate="1500" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+    <Media container="mp4" height="480" width="640" audioCodec="aac" duration="26000" videoCodec="h264" bitrate="450">
+      <Part duration="26000" key="/services/iva/assets/117336/video.mp4?bitrate=450" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="480" width="640" codec="h264" bitrate="450" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+  </Video>
+  <Video url="iva://api.internetvideoarchive.com/2.0/DataService/VideoAssets(223823)?lang=en&amp;bitrates=80,212,450,750,1500,2500,5000,8000&amp;duration=23&amp;adaptive=1&amp;dts=0" key="/system/services/url/lookup?url=iva%3A%2F%2Fapi.internetvideoarchive.com%2F2.0%2FDataService%2FVideoAssets%28223823%29%3Flang%3Den%26bitrates%3D80%2C212%2C450%2C750%2C1500%2C2500%2C5000%2C8000%26duration%3D23%26adaptive%3D1%26dts%3D0" type="clip" relationType="behindTheScenes" year="2017" title="Alien: Covenant: Danny McBride On The Beginning Of The Story" originallyAvailableAt="2017-05-09" thumb="https://iva-images.plex.tv/content/hdphotos/11111/011111/011111_1280x720_223823_027.jpg" ratingKey="iva://api.internetvideoarchive.com/2.0/DataService/VideoAssets(223823)?lang=en&amp;bitrates=80,212,450,750,1500,2500,5000,8000&amp;duration=23&amp;adaptive=1&amp;dts=0">
+    <Media container="mp4" height="1080" width="1920" audioCodec="aac" duration="23000" videoCodec="h264" bitrate="2500">
+      <Part duration="23000" key="/services/iva/assets/223823/video.mp4?bitrate=2500" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="1080" width="1920" codec="h264" bitrate="2500" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+    <Media container="mp4" height="720" width="1280" audioCodec="aac" duration="23000" videoCodec="h264" bitrate="1500">
+      <Part duration="23000" key="/services/iva/assets/223823/video.mp4?bitrate=1500" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="720" width="1280" codec="h264" bitrate="1500" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+    <Media container="mp4" height="480" width="640" audioCodec="aac" duration="23000" videoCodec="h264" bitrate="450">
+      <Part duration="23000" key="/services/iva/assets/223823/video.mp4?bitrate=450" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="480" width="640" codec="h264" bitrate="450" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+  </Video>
+  <Video url="iva://api.internetvideoarchive.com/2.0/DataService/VideoAssets(631974)?lang=en&amp;bitrates=80,212,450,750,1500,2500,5000,8000&amp;duration=62&amp;adaptive=1&amp;dts=0" key="/system/services/url/lookup?url=iva%3A%2F%2Fapi.internetvideoarchive.com%2F2.0%2FDataService%2FVideoAssets%28631974%29%3Flang%3Den%26bitrates%3D80%2C212%2C450%2C750%2C1500%2C2500%2C5000%2C8000%26duration%3D62%26adaptive%3D1%26dts%3D0" type="clip" relationType="behindTheScenes" year="2017" title="Alien: Covenant: Demian Bichir On Working With Ridley Scott" originallyAvailableAt="2017-05-09" thumb="https://iva-images.plex.tv/content/hdphotos/11111/011111/011111_1280x720_631974_024.jpg" ratingKey="iva://api.internetvideoarchive.com/2.0/DataService/VideoAssets(631974)?lang=en&amp;bitrates=80,212,450,750,1500,2500,5000,8000&amp;duration=62&amp;adaptive=1&amp;dts=0">
+    <Media container="mp4" height="1080" width="1920" audioCodec="aac" duration="62000" videoCodec="h264" bitrate="2500">
+      <Part duration="62000" key="/services/iva/assets/631974/video.mp4?bitrate=2500" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="1080" width="1920" codec="h264" bitrate="2500" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+    <Media container="mp4" height="720" width="1280" audioCodec="aac" duration="62000" videoCodec="h264" bitrate="1500">
+      <Part duration="62000" key="/services/iva/assets/631974/video.mp4?bitrate=1500" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="720" width="1280" codec="h264" bitrate="1500" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+    <Media container="mp4" height="480" width="640" audioCodec="aac" duration="62000" videoCodec="h264" bitrate="450">
+      <Part duration="62000" key="/services/iva/assets/631974/video.mp4?bitrate=450" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="480" width="640" codec="h264" bitrate="450" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+  </Video>
+  <Video url="iva://api.internetvideoarchive.com/2.0/DataService/VideoAssets(884529)?lang=en&amp;bitrates=80,212,450,750,1500,2500,5000,8000&amp;duration=41&amp;adaptive=1&amp;dts=0" key="/system/services/url/lookup?url=iva%3A%2F%2Fapi.internetvideoarchive.com%2F2.0%2FDataService%2FVideoAssets%28884529%29%3Flang%3Den%26bitrates%3D80%2C212%2C450%2C750%2C1500%2C2500%2C5000%2C8000%26duration%3D41%26adaptive%3D1%26dts%3D0" type="clip" relationType="behindTheScenes" year="2017" title="Alien: Covenant: Billy Crudup On Why 'Oram' Volunteered For The Mission" originallyAvailableAt="2017-05-09" thumb="https://iva-images.plex.tv/content/hdphotos/11111/011111/011111_1280x720_884529_016.jpg" ratingKey="iva://api.internetvideoarchive.com/2.0/DataService/VideoAssets(884529)?lang=en&amp;bitrates=80,212,450,750,1500,2500,5000,8000&amp;duration=41&amp;adaptive=1&amp;dts=0">
+    <Media container="mp4" height="1080" width="1920" audioCodec="aac" duration="41000" videoCodec="h264" bitrate="2500">
+      <Part duration="41000" key="/services/iva/assets/884529/video.mp4?bitrate=2500" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="1080" width="1920" codec="h264" bitrate="2500" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+    <Media container="mp4" height="720" width="1280" audioCodec="aac" duration="41000" videoCodec="h264" bitrate="1500">
+      <Part duration="41000" key="/services/iva/assets/884529/video.mp4?bitrate=1500" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="720" width="1280" codec="h264" bitrate="1500" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+    <Media container="mp4" height="480" width="640" audioCodec="aac" duration="41000" videoCodec="h264" bitrate="450">
+      <Part duration="41000" key="/services/iva/assets/884529/video.mp4?bitrate=450" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="480" width="640" codec="h264" bitrate="450" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+  </Video>
+  <Video url="iva://api.internetvideoarchive.com/2.0/DataService/VideoAssets(769263)?lang=en&amp;bitrates=80,212,450,750,1500,2500,5000,8000&amp;duration=23&amp;adaptive=1&amp;dts=0" key="/system/services/url/lookup?url=iva%3A%2F%2Fapi.internetvideoarchive.com%2F2.0%2FDataService%2FVideoAssets%28769263%29%3Flang%3Den%26bitrates%3D80%2C212%2C450%2C750%2C1500%2C2500%2C5000%2C8000%26duration%3D23%26adaptive%3D1%26dts%3D0" type="clip" relationType="behindTheScenes" year="2017" title="Alien: Covenant: Amy Seimetz On The Beginning Of The Story" originallyAvailableAt="2017-05-09" thumb="https://iva-images.plex.tv/content/hdphotos/11111/011111/011111_1280x720_769263_009.jpg" ratingKey="iva://api.internetvideoarchive.com/2.0/DataService/VideoAssets(769263)?lang=en&amp;bitrates=80,212,450,750,1500,2500,5000,8000&amp;duration=23&amp;adaptive=1&amp;dts=0">
+    <Media container="mp4" height="1080" width="1920" audioCodec="aac" duration="23000" videoCodec="h264" bitrate="2500">
+      <Part duration="23000" key="/services/iva/assets/769263/video.mp4?bitrate=2500" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="1080" width="1920" codec="h264" bitrate="2500" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+    <Media container="mp4" height="720" width="1280" audioCodec="aac" duration="23000" videoCodec="h264" bitrate="1500">
+      <Part duration="23000" key="/services/iva/assets/769263/video.mp4?bitrate=1500" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="720" width="1280" codec="h264" bitrate="1500" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+    <Media container="mp4" height="480" width="640" audioCodec="aac" duration="23000" videoCodec="h264" bitrate="450">
+      <Part duration="23000" key="/services/iva/assets/769263/video.mp4?bitrate=450" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="480" width="640" codec="h264" bitrate="450" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+  </Video>
+  <Video url="iva://api.internetvideoarchive.com/2.0/DataService/VideoAssets(174647)?lang=en&amp;bitrates=80,212,450,750,1500,2500,5000,8000&amp;duration=51&amp;adaptive=1&amp;dts=0" key="/system/services/url/lookup?url=iva%3A%2F%2Fapi.internetvideoarchive.com%2F2.0%2FDataService%2FVideoAssets%28174647%29%3Flang%3Den%26bitrates%3D80%2C212%2C450%2C750%2C1500%2C2500%2C5000%2C8000%26duration%3D51%26adaptive%3D1%26dts%3D0" type="clip" relationType="behindTheScenes" year="2017" title="Alien: Covenant: Callie Hernandez On 'Upworth's' Reaction To Crew Distress Calls" originallyAvailableAt="2017-05-09" thumb="https://iva-images.plex.tv/content/hdphotos/11111/011111/011111_1280x720_174647_018.jpg" ratingKey="iva://api.internetvideoarchive.com/2.0/DataService/VideoAssets(174647)?lang=en&amp;bitrates=80,212,450,750,1500,2500,5000,8000&amp;duration=51&amp;adaptive=1&amp;dts=0">
+    <Media container="mp4" height="1080" width="1920" audioCodec="aac" duration="51000" videoCodec="h264" bitrate="2500">
+      <Part duration="51000" key="/services/iva/assets/174647/video.mp4?bitrate=2500" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="1080" width="1920" codec="h264" bitrate="2500" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+    <Media container="mp4" height="720" width="1280" audioCodec="aac" duration="51000" videoCodec="h264" bitrate="1500">
+      <Part duration="51000" key="/services/iva/assets/174647/video.mp4?bitrate=1500" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="720" width="1280" codec="h264" bitrate="1500" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+    <Media container="mp4" height="480" width="640" audioCodec="aac" duration="51000" videoCodec="h264" bitrate="450">
+      <Part duration="51000" key="/services/iva/assets/174647/video.mp4?bitrate=450" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="480" width="640" codec="h264" bitrate="450" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+  </Video>
+  <Video url="iva://api.internetvideoarchive.com/2.0/DataService/VideoAssets(237622)?lang=en&amp;bitrates=80,212,450,750,1500,2500,5000,8000&amp;duration=106&amp;adaptive=1&amp;dts=0" key="/system/services/url/lookup?url=iva%3A%2F%2Fapi.internetvideoarchive.com%2F2.0%2FDataService%2FVideoAssets%28237622%29%3Flang%3Den%26bitrates%3D80%2C212%2C450%2C750%2C1500%2C2500%2C5000%2C8000%26duration%3D106%26adaptive%3D1%26dts%3D0" type="clip" relationType="behindTheScenes" year="2017" title="Alien: Covenant (International Premiere Sizzle Reel)" originallyAvailableAt="2017-05-08" thumb="https://iva-images.plex.tv/content/hdphotos/11106/011106/011106_1280x720_237622_034.jpg" ratingKey="iva://api.internetvideoarchive.com/2.0/DataService/VideoAssets(237622)?lang=en&amp;bitrates=80,212,450,750,1500,2500,5000,8000&amp;duration=106&amp;adaptive=1&amp;dts=0">
+    <Media container="mp4" height="1080" width="1920" audioCodec="aac" duration="106000" videoCodec="h264" bitrate="2500">
+      <Part duration="106000" key="/services/iva/assets/237622/video.mp4?bitrate=2500" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="1080" width="1920" codec="h264" bitrate="2500" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+    <Media container="mp4" height="720" width="1280" audioCodec="aac" duration="106000" videoCodec="h264" bitrate="1500">
+      <Part duration="106000" key="/services/iva/assets/237622/video.mp4?bitrate=1500" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="720" width="1280" codec="h264" bitrate="1500" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+    <Media container="mp4" height="480" width="640" audioCodec="aac" duration="106000" videoCodec="h264" bitrate="450">
+      <Part duration="106000" key="/services/iva/assets/237622/video.mp4?bitrate=450" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="480" width="640" codec="h264" bitrate="450" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+  </Video>
+  <Video url="iva://api.internetvideoarchive.com/2.0/DataService/VideoAssets(762574)?lang=en&amp;bitrates=80,212,450,750,1500,2500,5000,8000&amp;duration=139&amp;adaptive=1&amp;dts=0" key="/system/services/url/lookup?url=iva%3A%2F%2Fapi.internetvideoarchive.com%2F2.0%2FDataService%2FVideoAssets%28762574%29%3Flang%3Den%26bitrates%3D80%2C212%2C450%2C750%2C1500%2C2500%2C5000%2C8000%26duration%3D139%26adaptive%3D1%26dts%3D0" type="clip" relationType="behindTheScenes" year="2017" title="Alien: Covenant: Meet Walter (Featurette)" originallyAvailableAt="2017-03-10" thumb="https://iva-images.plex.tv/content/hdphotos/10976/010976/010976_1280x720_762574_209.jpg" ratingKey="iva://api.internetvideoarchive.com/2.0/DataService/VideoAssets(762574)?lang=en&amp;bitrates=80,212,450,750,1500,2500,5000,8000&amp;duration=139&amp;adaptive=1&amp;dts=0">
+    <Media container="mp4" height="1080" width="1920" audioCodec="aac" duration="139000" videoCodec="h264" bitrate="2500">
+      <Part duration="139000" key="/services/iva/assets/762574/video.mp4?bitrate=2500" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="1080" width="1920" codec="h264" bitrate="2500" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+    <Media container="mp4" height="720" width="1280" audioCodec="aac" duration="139000" videoCodec="h264" bitrate="1500">
+      <Part duration="139000" key="/services/iva/assets/762574/video.mp4?bitrate=1500" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="720" width="1280" codec="h264" bitrate="1500" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+    <Media container="mp4" height="480" width="640" audioCodec="aac" duration="139000" videoCodec="h264" bitrate="450">
+      <Part duration="139000" key="/services/iva/assets/762574/video.mp4?bitrate=450" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="480" width="640" codec="h264" bitrate="450" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+  </Video>
+</MediaContainer>

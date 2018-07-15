@@ -1,0 +1,83 @@
+<?xml version='1.0' encoding='utf-8'?>
+<MediaContainer size="4" identifier="com.plexapp.agents.imdb" mediaTagPrefix="/system/bundle/media/flags/" prefsKey="/:/plugins/com.plexapp.agents.imdb/prefs">
+  <Video url="iva://api.internetvideoarchive.com/2.0/DataService/VideoAssets(445452)?lang=en&amp;bitrates=80,212,450,750,1500,2500,5000,8000&amp;duration=142&amp;adaptive=1&amp;dts=0" key="/system/services/url/lookup?url=iva%3A%2F%2Fapi.internetvideoarchive.com%2F2.0%2FDataService%2FVideoAssets%28445452%29%3Flang%3Den%26bitrates%3D80%2C212%2C450%2C750%2C1500%2C2500%2C5000%2C8000%26duration%3D142%26adaptive%3D1%26dts%3D0" type="clip" relationType="trailer" year="2017" title="Iron Man 2 (Clean Trailer)" originallyAvailableAt="2017-12-08" thumb="https://iva-images.plex.tv/content/hdphotos/11585/011585/011585_1280x720_445452_131.jpg" ratingKey="iva://api.internetvideoarchive.com/2.0/DataService/VideoAssets(445452)?lang=en&amp;bitrates=80,212,450,750,1500,2500,5000,8000&amp;duration=142&amp;adaptive=1&amp;dts=0">
+    <Media container="mp4" height="1080" width="1920" audioCodec="aac" duration="142000" videoCodec="h264" bitrate="2500">
+      <Part duration="142000" key="/services/iva/assets/445452/video.mp4?bitrate=2500" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="1080" width="1920" codec="h264" bitrate="2500" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+    <Media container="mp4" height="720" width="1280" audioCodec="aac" duration="142000" videoCodec="h264" bitrate="1500">
+      <Part duration="142000" key="/services/iva/assets/445452/video.mp4?bitrate=1500" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="720" width="1280" codec="h264" bitrate="1500" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+    <Media container="mp4" height="480" width="640" audioCodec="aac" duration="142000" videoCodec="h264" bitrate="450">
+      <Part duration="142000" key="/services/iva/assets/445452/video.mp4?bitrate=450" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="480" width="640" codec="h264" bitrate="450" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+  </Video>
+  <Video url="iva://api.internetvideoarchive.com/2.0/DataService/VideoAssets(472838)?lang=en&amp;bitrates=80,212,450,750,1500,8000&amp;duration=490&amp;adaptive=1&amp;dts=0" key="/system/services/url/lookup?url=iva%3A%2F%2Fapi.internetvideoarchive.com%2F2.0%2FDataService%2FVideoAssets%28472838%29%3Flang%3Den%26bitrates%3D80%2C212%2C450%2C750%2C1500%2C8000%26duration%3D490%26adaptive%3D1%26dts%3D0" type="clip" relationType="interview" year="2010" title="Iron Man 2: Jon Favreau" originallyAvailableAt="2010-12-22" thumb="https://iva-images.plex.tv/content/photos/7136/29974607_.jpg" ratingKey="iva://api.internetvideoarchive.com/2.0/DataService/VideoAssets(472838)?lang=en&amp;bitrates=80,212,450,750,1500,8000&amp;duration=490&amp;adaptive=1&amp;dts=0">
+    <Media container="mp4" height="720" width="1280" audioCodec="aac" duration="490000" videoCodec="h264" bitrate="1500">
+      <Part duration="490000" key="/services/iva/assets/472838/video.mp4?bitrate=1500" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="720" width="1280" codec="h264" bitrate="1500" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+    <Media container="mp4" height="480" width="640" audioCodec="aac" duration="490000" videoCodec="h264" bitrate="750">
+      <Part duration="490000" key="/services/iva/assets/472838/video.mp4?bitrate=750" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="480" width="640" codec="h264" bitrate="750" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+    <Media container="mp4" height="480" width="640" audioCodec="aac" duration="490000" videoCodec="h264" bitrate="450">
+      <Part duration="490000" key="/services/iva/assets/472838/video.mp4?bitrate=450" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="480" width="640" codec="h264" bitrate="450" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+  </Video>
+  <Video url="iva://api.internetvideoarchive.com/2.0/DataService/VideoAssets(561187)?lang=en&amp;bitrates=80,212,450,750,1500,8000&amp;duration=330&amp;adaptive=1&amp;dts=0" key="/system/services/url/lookup?url=iva%3A%2F%2Fapi.internetvideoarchive.com%2F2.0%2FDataService%2FVideoAssets%28561187%29%3Flang%3Den%26bitrates%3D80%2C212%2C450%2C750%2C1500%2C8000%26duration%3D330%26adaptive%3D1%26dts%3D0" type="clip" relationType="interview" year="2010" title="Iron Man 2: Robert Downey Jr." originallyAvailableAt="2010-12-22" thumb="https://iva-images.plex.tv/content/photos/7136/29974505_.jpg" ratingKey="iva://api.internetvideoarchive.com/2.0/DataService/VideoAssets(561187)?lang=en&amp;bitrates=80,212,450,750,1500,8000&amp;duration=330&amp;adaptive=1&amp;dts=0">
+    <Media container="mp4" height="720" width="1280" audioCodec="aac" duration="330000" videoCodec="h264" bitrate="1500">
+      <Part duration="330000" key="/services/iva/assets/561187/video.mp4?bitrate=1500" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="720" width="1280" codec="h264" bitrate="1500" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+    <Media container="mp4" height="480" width="640" audioCodec="aac" duration="330000" videoCodec="h264" bitrate="750">
+      <Part duration="330000" key="/services/iva/assets/561187/video.mp4?bitrate=750" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="480" width="640" codec="h264" bitrate="750" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+    <Media container="mp4" height="480" width="640" audioCodec="aac" duration="330000" videoCodec="h264" bitrate="450">
+      <Part duration="330000" key="/services/iva/assets/561187/video.mp4?bitrate=450" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="480" width="640" codec="h264" bitrate="450" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+  </Video>
+  <Video url="iva://api.internetvideoarchive.com/2.0/DataService/VideoAssets(735549)?lang=en&amp;bitrates=80,212,450,750,1500,8000&amp;duration=517&amp;adaptive=1&amp;dts=0" key="/system/services/url/lookup?url=iva%3A%2F%2Fapi.internetvideoarchive.com%2F2.0%2FDataService%2FVideoAssets%28735549%29%3Flang%3Den%26bitrates%3D80%2C212%2C450%2C750%2C1500%2C8000%26duration%3D517%26adaptive%3D1%26dts%3D0" type="clip" relationType="interview" year="2010" title="Iron Man 2: Scarlett Johansson" originallyAvailableAt="2010-12-22" thumb="https://iva-images.plex.tv/content/photos/7136/29974409_.jpg" ratingKey="iva://api.internetvideoarchive.com/2.0/DataService/VideoAssets(735549)?lang=en&amp;bitrates=80,212,450,750,1500,8000&amp;duration=517&amp;adaptive=1&amp;dts=0">
+    <Media container="mp4" height="720" width="1280" audioCodec="aac" duration="517000" videoCodec="h264" bitrate="1500">
+      <Part duration="517000" key="/services/iva/assets/735549/video.mp4?bitrate=1500" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="720" width="1280" codec="h264" bitrate="1500" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+    <Media container="mp4" height="480" width="640" audioCodec="aac" duration="517000" videoCodec="h264" bitrate="750">
+      <Part duration="517000" key="/services/iva/assets/735549/video.mp4?bitrate=750" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="480" width="640" codec="h264" bitrate="750" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+    <Media container="mp4" height="480" width="640" audioCodec="aac" duration="517000" videoCodec="h264" bitrate="450">
+      <Part duration="517000" key="/services/iva/assets/735549/video.mp4?bitrate=450" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="480" width="640" codec="h264" bitrate="450" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+  </Video>
+</MediaContainer>

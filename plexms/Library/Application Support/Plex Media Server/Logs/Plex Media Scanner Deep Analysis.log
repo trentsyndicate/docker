@@ -1,0 +1,72 @@
+Jul 15, 2018 03:35:27.312 [0x7f62737ff700] INFO - Plex Media Scanner v1.13.2.5154-fd05be322 - ubuntu docker x86_64 - build: linux-ubuntu-x86_64 - GMT -04:00
+Jul 15, 2018 03:35:27.312 [0x7f62737ff700] INFO - Linux version: 4.15.0-24-generic (#26-Ubuntu SMP Wed Jun 13 08:44:47 UTC 2018), language: C
+Jul 15, 2018 03:35:27.312 [0x7f62737ff700] INFO - Processor Intel(R) Core(TM) i7-4770R CPU @ 3.20GHz
+Jul 15, 2018 03:35:27.312 [0x7f62737ff700] INFO - /usr/lib/plexmediaserver/Plex Media Scanner --analyze-deeply --item 5039 --log-file-suffix  Deep Analysis
+Jul 15, 2018 03:35:27.315 [0x7f627eece800] DEBUG - Opening 20 database sessions to library (com.plexapp.plugins.library), SQLite 3.13.0, threadsafe=1
+Jul 15, 2018 03:35:27.408 [0x7f627eece800] DEBUG - [MI] Opening input file: "/movies/Kung.Fu.Panda.2008.720p.BRRip.x264-x0r-Obfuscated/7ZsqDlqUyn8S.mkv"
+Jul 15, 2018 03:35:27.408 [0x7f627eece800] DEBUG - [FFMPEG] - Opening '/movies/Kung.Fu.Panda.2008.720p.BRRip.x264-x0r-Obfuscated/7ZsqDlqUyn8S.mkv' for reading
+Jul 15, 2018 03:35:27.408 [0x7f627eece800] DEBUG - [FFMPEG] - Setting default whitelist 'file,crypto'
+Jul 15, 2018 03:35:27.482 [0x7f627eece800] DEBUG - [FFMPEG] - Format matroska,webm probed with size=2048 and score=100
+Jul 15, 2018 03:35:27.494 [0x7f627eece800] DEBUG - [FFMPEG] - st:0 removing common factor 1000000 from timebase
+Jul 15, 2018 03:35:27.494 [0x7f627eece800] DEBUG - [FFMPEG] - st:1 removing common factor 1000000 from timebase
+Jul 15, 2018 03:35:27.494 [0x7f627eece800] DEBUG - [FFMPEG] - st:2 removing common factor 1000000 from timebase
+Jul 15, 2018 03:35:27.495 [0x7f627eece800] DEBUG - [FFMPEG] - Before avformat_find_stream_info() pos: 5663 bytes read:79815 seeks:2 nb_streams:3
+Jul 15, 2018 03:35:27.496 [0x7f627eece800] DEBUG - [FFMPEG] - nal_unit_type: 7, nal_ref_idc: 3
+Jul 15, 2018 03:35:27.496 [0x7f627eece800] DEBUG - [FFMPEG] - nal_unit_type: 8, nal_ref_idc: 3
+Jul 15, 2018 03:35:27.497 [0x7f627eece800] DEBUG - [FFMPEG] - nal_unit_type: 7, nal_ref_idc: 3
+Jul 15, 2018 03:35:27.498 [0x7f627eece800] DEBUG - [FFMPEG] - nal_unit_type: 8, nal_ref_idc: 3
+Jul 15, 2018 03:35:27.498 [0x7f627eece800] DEBUG - [FFMPEG] - nal_unit_type: 6, nal_ref_idc: 0
+Jul 15, 2018 03:35:27.498 [0x7f627eece800] DEBUG - [FFMPEG] - nal_unit_type: 5, nal_ref_idc: 3
+Jul 15, 2018 03:35:27.499 [0x7f627eece800] DEBUG - [FFMPEG] - Format yuv420p chosen by get_format().
+Jul 15, 2018 03:35:27.501 [0x7f627eece800] DEBUG - [FFMPEG] - no picture 
+Jul 15, 2018 03:35:27.502 [0x7f627eece800] DEBUG - [FFMPEG] - nal_unit_type: 1, nal_ref_idc: 2
+Jul 15, 2018 03:35:27.504 [0x7f627eece800] DEBUG - [FFMPEG] - no picture 
+Jul 15, 2018 03:35:27.505 [0x7f627eece800] DEBUG - [FFMPEG] - nal_unit_type: 1, nal_ref_idc: 2
+Jul 15, 2018 03:35:27.508 [0x7f627eece800] DEBUG - [FFMPEG] - nal_unit_type: 1, nal_ref_idc: 2
+Jul 15, 2018 03:35:27.511 [0x7f627eece800] DEBUG - [FFMPEG] - nal_unit_type: 1, nal_ref_idc: 2
+Jul 15, 2018 03:35:27.514 [0x7f627eece800] DEBUG - [FFMPEG] - nal_unit_type: 1, nal_ref_idc: 2
+Jul 15, 2018 03:35:27.517 [0x7f627eece800] DEBUG - [FFMPEG] - nal_unit_type: 1, nal_ref_idc: 2
+Jul 15, 2018 03:35:27.521 [0x7f627eece800] DEBUG - [FFMPEG] - nal_unit_type: 1, nal_ref_idc: 2
+Jul 15, 2018 03:35:27.524 [0x7f627eece800] DEBUG - [FFMPEG] - nal_unit_type: 1, nal_ref_idc: 2
+Jul 15, 2018 03:35:27.525 [0x7f627eece800] DEBUG - [FFMPEG] - All info found
+Jul 15, 2018 03:35:27.525 [0x7f627eece800] DEBUG - [FFMPEG] - After avformat_find_stream_info() pos: 35605 bytes read:112583 seeks:2 frames:26
+Jul 15, 2018 03:35:28.031 [0x7f627eece800] DEBUG - Deep Analysis: Read 10000 packets at 180.480000
+Jul 15, 2018 03:35:28.373 [0x7f627eece800] DEBUG - Deep Analysis: Read 20000 packets at 360.768000
+Jul 15, 2018 03:35:28.739 [0x7f627eece800] DEBUG - Deep Analysis: Read 30000 packets at 541.024000
+Jul 15, 2018 03:35:29.146 [0x7f627eece800] DEBUG - Deep Analysis: Read 40000 packets at 721.178000
+Jul 15, 2018 03:35:29.501 [0x7f627eece800] DEBUG - Deep Analysis: Read 50000 packets at 902.144000
+Jul 15, 2018 03:35:30.053 [0x7f627eece800] DEBUG - Deep Analysis: Read 60000 packets at 1082.247000
+Jul 15, 2018 03:35:30.262 [0x7f627eece800] DEBUG - Deep Analysis: Read 70000 packets at 1262.635000
+Jul 15, 2018 03:35:30.564 [0x7f627eece800] DEBUG - Deep Analysis: Read 80000 packets at 1443.104000
+Jul 15, 2018 03:35:30.827 [0x7f627eece800] DEBUG - Deep Analysis: Read 90000 packets at 1623.552000
+Jul 15, 2018 03:35:31.042 [0x7f627eece800] DEBUG - Deep Analysis: Read 100000 packets at 1803.744000
+Jul 15, 2018 03:35:31.352 [0x7f627eece800] DEBUG - Deep Analysis: Read 110000 packets at 1984.064000
+Jul 15, 2018 03:35:31.763 [0x7f627eece800] DEBUG - Deep Analysis: Read 120000 packets at 2165.088000
+Jul 15, 2018 03:35:32.081 [0x7f627eece800] DEBUG - Deep Analysis: Read 130000 packets at 2345.216000
+Jul 15, 2018 03:35:32.380 [0x7f627eece800] DEBUG - Deep Analysis: Read 140000 packets at 2525.696000
+Jul 15, 2018 03:35:32.693 [0x7f627eece800] DEBUG - Deep Analysis: Read 150000 packets at 2705.856000
+Jul 15, 2018 03:35:33.139 [0x7f627eece800] DEBUG - Deep Analysis: Read 160000 packets at 2886.112000
+Jul 15, 2018 03:35:33.407 [0x7f627eece800] DEBUG - Deep Analysis: Read 170000 packets at 3066.353000
+Jul 15, 2018 03:35:33.661 [0x7f627eece800] DEBUG - Deep Analysis: Read 180000 packets at 3247.075000
+Jul 15, 2018 03:35:34.022 [0x7f627eece800] DEBUG - Deep Analysis: Read 190000 packets at 3427.463000
+Jul 15, 2018 03:35:34.478 [0x7f627eece800] DEBUG - Deep Analysis: Read 200000 packets at 3608.512000
+Jul 15, 2018 03:35:34.984 [0x7f627eece800] DEBUG - Deep Analysis: Read 210000 packets at 3789.049000
+Jul 15, 2018 03:35:35.300 [0x7f627eece800] DEBUG - Deep Analysis: Read 220000 packets at 3969.504000
+Jul 15, 2018 03:35:35.575 [0x7f627eece800] DEBUG - Deep Analysis: Read 230000 packets at 4149.642000
+Jul 15, 2018 03:35:35.928 [0x7f627eece800] DEBUG - Deep Analysis: Read 240000 packets at 4330.400000
+Jul 15, 2018 03:35:36.290 [0x7f627eece800] DEBUG - Deep Analysis: Read 250000 packets at 4510.711000
+Jul 15, 2018 03:35:36.841 [0x7f627eece800] DEBUG - Deep Analysis: Read 260000 packets at 4691.776000
+Jul 15, 2018 03:35:37.343 [0x7f627eece800] DEBUG - Deep Analysis: Read 270000 packets at 4872.416000
+Jul 15, 2018 03:35:37.617 [0x7f627eece800] DEBUG - Deep Analysis: Read 280000 packets at 5052.736000
+Jul 15, 2018 03:35:37.919 [0x7f627eece800] DEBUG - Deep Analysis: Read 290000 packets at 5233.224000
+Jul 15, 2018 03:35:38.211 [0x7f627eece800] DEBUG - Deep Analysis: Read 300000 packets at 5414.528000
+Jul 15, 2018 03:35:38.451 [0x7f627eece800] DEBUG - Deep Analysis: Sorting packets
+Jul 15, 2018 03:35:38.477 [0x7f627eece800] DEBUG - Deep Analysis: Performing file bitrate analysis
+Jul 15, 2018 03:35:38.517 [0x7f627eece800] DEBUG - Deep Analysis: Performing stream bitrate analysis on stream 0
+Jul 15, 2018 03:35:38.533 [0x7f627eece800] DEBUG - Deep Analysis: Performing stream bitrate analysis on stream 1
+Jul 15, 2018 03:35:38.542 [0x7f627eece800] DEBUG - Deep Analysis: Performing stream bitrate analysis on stream 2
+Jul 15, 2018 03:35:38.543 [0x7f627eece800] DEBUG - Deep Analysis: Saving GoP analysis for stream 0
+Jul 15, 2018 03:35:38.545 [0x7f627eece800] DEBUG - Deep Analysis: Saving bitrate analysis
+Jul 15, 2018 03:35:38.566 [0x7f627eece800] DEBUG - Updating part with ID=9485 [/movies/Kung.Fu.Panda.2008.720p.BRRip.x264-x0r-Obfuscated/7ZsqDlqUyn8S.mkv]
+Jul 15, 2018 03:35:38.589 [0x7f627eece800] DEBUG - [MI] Closing input file: /movies/Kung.Fu.Panda.2008.720p.BRRip.x264-x0r-Obfuscated/7ZsqDlqUyn8S.mkv
+Jul 15, 2018 03:35:38.592 [0x7f627eece800] DEBUG - [FFMPEG] - Statistics: 1675904741 bytes read, 4 seeks

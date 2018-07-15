@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='utf-8'?>
+<MediaContainer size="2" identifier="com.plexapp.agents.imdb" mediaTagPrefix="/system/bundle/media/flags/" prefsKey="/:/plugins/com.plexapp.agents.imdb/prefs">
+  <Video url="iva://api.internetvideoarchive.com/2.0/DataService/VideoAssets(473123)?lang=en&amp;bitrates=80,212,450,750,1500,2500,5000,8000&amp;duration=132&amp;adaptive=1&amp;dts=0" key="/system/services/url/lookup?url=iva%3A%2F%2Fapi.internetvideoarchive.com%2F2.0%2FDataService%2FVideoAssets%28473123%29%3Flang%3Den%26bitrates%3D80%2C212%2C450%2C750%2C1500%2C2500%2C5000%2C8000%26duration%3D132%26adaptive%3D1%26dts%3D0" type="clip" relationType="trailer" year="2016" title="X-Men: Days of Future Past (Blu-ray/DVD Trailer)" originallyAvailableAt="2016-06-06" thumb="https://iva-images.plex.tv/content/hdphotos/10366/010366/010366_1232x693_473123_019.jpg" ratingKey="iva://api.internetvideoarchive.com/2.0/DataService/VideoAssets(473123)?lang=en&amp;bitrates=80,212,450,750,1500,2500,5000,8000&amp;duration=132&amp;adaptive=1&amp;dts=0">
+    <Media container="mp4" height="1080" width="1920" audioCodec="aac" duration="132000" videoCodec="h264" bitrate="2500">
+      <Part duration="132000" key="/services/iva/assets/473123/video.mp4?bitrate=2500" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="1080" width="1920" codec="h264" bitrate="2500" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+    <Media container="mp4" height="720" width="1280" audioCodec="aac" duration="132000" videoCodec="h264" bitrate="1500">
+      <Part duration="132000" key="/services/iva/assets/473123/video.mp4?bitrate=1500" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="720" width="1280" codec="h264" bitrate="1500" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+    <Media container="mp4" height="480" width="640" audioCodec="aac" duration="132000" videoCodec="h264" bitrate="450">
+      <Part duration="132000" key="/services/iva/assets/473123/video.mp4?bitrate=450" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="480" width="640" codec="h264" bitrate="450" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+  </Video>
+  <Video url="iva://api.internetvideoarchive.com/2.0/DataService/VideoAssets(60254)?lang=en&amp;bitrates=80,212,450,750,1500,2500,5000,8000&amp;duration=106&amp;adaptive=1&amp;dts=0" key="/system/services/url/lookup?url=iva%3A%2F%2Fapi.internetvideoarchive.com%2F2.0%2FDataService%2FVideoAssets%2860254%29%3Flang%3Den%26bitrates%3D80%2C212%2C450%2C750%2C1500%2C2500%2C5000%2C8000%26duration%3D106%26adaptive%3D1%26dts%3D0" type="clip" relationType="behindTheScenes" year="2014" title="X-Men: Days Of Future Past: Extinction (German)" originallyAvailableAt="2014-05-22" thumb="https://iva-images.plex.tv/content/hdphotos/9054/009054/009054_1280x720_60254_052.jpg" ratingKey="iva://api.internetvideoarchive.com/2.0/DataService/VideoAssets(60254)?lang=en&amp;bitrates=80,212,450,750,1500,2500,5000,8000&amp;duration=106&amp;adaptive=1&amp;dts=0">
+    <Media container="mp4" height="1080" width="1920" audioCodec="aac" duration="106000" videoCodec="h264" bitrate="2500">
+      <Part duration="106000" key="/services/iva/assets/60254/video.mp4?bitrate=2500" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="1080" width="1920" codec="h264" bitrate="2500" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+    <Media container="mp4" height="720" width="1280" audioCodec="aac" duration="106000" videoCodec="h264" bitrate="1500">
+      <Part duration="106000" key="/services/iva/assets/60254/video.mp4?bitrate=1500" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="720" width="1280" codec="h264" bitrate="1500" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+    <Media container="mp4" height="480" width="640" audioCodec="aac" duration="106000" videoCodec="h264" bitrate="450">
+      <Part duration="106000" key="/services/iva/assets/60254/video.mp4?bitrate=450" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="480" width="640" codec="h264" bitrate="450" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+  </Video>
+</MediaContainer>

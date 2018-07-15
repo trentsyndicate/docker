@@ -1,0 +1,444 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Movie>
+  <art>
+    <item external="True" url="http://image.tmdb.org/t/p/original/fjt8ZNuDH64GxgluSj52UMNkolY.jpg" sort_order="1" provider="com.plexapp.agents.imdb" media="com.plexapp.agents.imdb_a283bd958debcc363e73c00249d9547942fd13d9"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/gLBVnPJtDaKfOeyTJ88JAYCQ95S.jpg" preview="com.plexapp.agents.imdb_de34d4bbb4e7a1c567f85e8081a50b1a93cc3ce6" sort_order="2" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/l31Gz3jLhDOlt3MRY7nbltwbptm.jpg" preview="com.plexapp.agents.imdb_93f99f67f553157e9e64271a4cec89736273acc0" sort_order="3" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/goGEOkZiKyqipcrTWDmOZR0ZLmx.jpg" preview="com.plexapp.agents.imdb_b2e28b0f6b3bd7977d8986bf9ef73fb29bdb8f4f" sort_order="4" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/pet8MtkE1fPQdYYcugoVflcOYhs.jpg" preview="com.plexapp.agents.imdb_7a700c486002d8e28feff81622f85cefa80ce9ea" sort_order="5" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/uJX5QphItJExAsUNFJDfre2ua2W.jpg" preview="com.plexapp.agents.imdb_344788138fab489835d66910950a92f535b92bb3" sort_order="6" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/nzl6yemz83KVBCyOwuAdldOr2J7.jpg" preview="com.plexapp.agents.imdb_fe37625a210267f6a8606e9a4098c1502f82226a" sort_order="7" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/hcNBhlba0UYefzRwPbEt21FzcxD.jpg" preview="com.plexapp.agents.imdb_dac1131e8f7a9ee2c98c0135c29d81cc07ae7018" sort_order="8" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/ktbIM9tmid2qJ6teKoBmqZqyXPc.jpg" preview="com.plexapp.agents.imdb_5a2d3a19801f68e48c297659d14cda417cb96950" sort_order="9" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/54IdQAHw6KEAcoGAEUULrCTzZtr.jpg" preview="com.plexapp.agents.imdb_40a33e003b6be4ac7e41592f4cd3a5deafb49b9d" sort_order="10" provider="com.plexapp.agents.imdb"/>
+  </art>
+  <banners/>
+  <chapters>
+    <item index="0">
+      <title>Main Titles</title>
+      <end_time_offset>277000</end_time_offset>
+      <start_time_offset>0</start_time_offset>
+    </item>
+    <item index="1">
+      <title>A Basic Human Need</title>
+      <end_time_offset>493000</end_time_offset>
+      <start_time_offset>277000</start_time_offset>
+    </item>
+    <item index="2">
+      <title>Brothers In Arms</title>
+      <end_time_offset>749000</end_time_offset>
+      <start_time_offset>493000</start_time_offset>
+    </item>
+    <item index="3">
+      <title>No Place For Amateurs</title>
+      <end_time_offset>1000000</end_time_offset>
+      <start_time_offset>749000</start_time_offset>
+    </item>
+    <item index="4">
+      <title>Merchant Of Death</title>
+      <end_time_offset>1175000</end_time_offset>
+      <start_time_offset>1000000</start_time_offset>
+    </item>
+    <item index="5">
+      <title>Ss Kono</title>
+      <end_time_offset>1407000</end_time_offset>
+      <start_time_offset>1175000</start_time_offset>
+    </item>
+    <item index="6">
+      <title>Running From Vitaly</title>
+      <end_time_offset>1639000</end_time_offset>
+      <start_time_offset>1407000</start_time_offset>
+    </item>
+    <item index="7">
+      <title>Improving The Odds</title>
+      <end_time_offset>1867000</end_time_offset>
+      <start_time_offset>1639000</start_time_offset>
+    </item>
+    <item index="8">
+      <title>Risk Taker</title>
+      <end_time_offset>2300000</end_time_offset>
+      <start_time_offset>1867000</start_time_offset>
+    </item>
+    <item index="9">
+      <title>Arms Bazaar</title>
+      <end_time_offset>2538000</end_time_offset>
+      <start_time_offset>2300000</start_time_offset>
+    </item>
+    <item index="10">
+      <title>Rivals</title>
+      <end_time_offset>2752000</end_time_offset>
+      <start_time_offset>2538000</start_time_offset>
+    </item>
+    <item index="11">
+      <title>Rescue Helicopter</title>
+      <end_time_offset>3043000</end_time_offset>
+      <start_time_offset>2752000</start_time_offset>
+    </item>
+    <item index="12">
+      <title>Primary Market</title>
+      <end_time_offset>3236000</end_time_offset>
+      <start_time_offset>3043000</start_time_offset>
+    </item>
+    <item index="13">
+      <title>Used Gun</title>
+      <end_time_offset>3497000</end_time_offset>
+      <start_time_offset>3236000</start_time_offset>
+    </item>
+    <item index="14">
+      <title>Blood Bath</title>
+      <end_time_offset>3768000</end_time_offset>
+      <start_time_offset>3497000</start_time_offset>
+    </item>
+    <item index="15">
+      <title>A Beautiful Everything</title>
+      <end_time_offset>4113000</end_time_offset>
+      <start_time_offset>3768000</start_time_offset>
+    </item>
+    <item index="16">
+      <title>New Breed Of Cop</title>
+      <end_time_offset>4345000</end_time_offset>
+      <start_time_offset>4113000</start_time_offset>
+    </item>
+    <item index="17">
+      <title>Not A Good Time</title>
+      <end_time_offset>4641000</end_time_offset>
+      <start_time_offset>4345000</start_time_offset>
+    </item>
+    <item index="18">
+      <title>Free Sample</title>
+      <end_time_offset>4891000</end_time_offset>
+      <start_time_offset>4641000</start_time_offset>
+    </item>
+    <item index="19">
+      <title>A Bonding Experience</title>
+      <end_time_offset>5103000</end_time_offset>
+      <start_time_offset>4891000</start_time_offset>
+    </item>
+    <item index="20">
+      <title>Brown Brown</title>
+      <end_time_offset>5407000</end_time_offset>
+      <start_time_offset>5103000</start_time_offset>
+    </item>
+    <item index="21">
+      <title>Blood Money</title>
+      <end_time_offset>5821000</end_time_offset>
+      <start_time_offset>5407000</start_time_offset>
+    </item>
+    <item index="22">
+      <title>Going Legit</title>
+      <end_time_offset>6010000</end_time_offset>
+      <start_time_offset>5821000</start_time_offset>
+    </item>
+    <item index="23">
+      <title>Hide And Seek</title>
+      <end_time_offset>6424000</end_time_offset>
+      <start_time_offset>6010000</start_time_offset>
+    </item>
+    <item index="24">
+      <title>Humanitarian Aid</title>
+      <end_time_offset>6658000</end_time_offset>
+      <start_time_offset>6424000</start_time_offset>
+    </item>
+    <item index="25">
+      <title>Not Our Fight</title>
+      <end_time_offset>6863000</end_time_offset>
+      <start_time_offset>6658000</start_time_offset>
+    </item>
+    <item index="26">
+      <title>Evil Prevails</title>
+      <end_time_offset>6969000</end_time_offset>
+      <start_time_offset>6863000</start_time_offset>
+    </item>
+    <item index="27">
+      <title>One Man Genocide/End Credits</title>
+      <end_time_offset>-1</end_time_offset>
+      <start_time_offset>6969000</start_time_offset>
+    </item>
+  </chapters>
+  <collections/>
+  <content_rating>R</content_rating>
+  <countries>
+    <item index="0">USA</item>
+  </countries>
+  <directors>
+    <item index="0">
+      <photo>http://image.tmdb.org/t/p/original/ffu94ltKqX6mAPSWdimz7MIdJMZ.jpg</photo>
+      <role/>
+      <name>Andrew Niccol</name>
+    </item>
+  </directors>
+  <duration>7320000</duration>
+  <genres>
+    <item index="0">Crime</item>
+    <item index="1">Drama</item>
+    <item index="2">Thriller</item>
+  </genres>
+  <originally_available_at>2005-09-16</originally_available_at>
+  <posters>
+    <item external="True" url="http://image.tmdb.org/t/p/original/nwPUI9WlYtDmE5VO6eEFCfrNXWl.jpg" sort_order="1" provider="com.plexapp.agents.imdb" media="com.plexapp.agents.imdb_57c6e7b4f9fbb05b055fd973d8e6a4c96e8e769b"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/wsy2d3072xsJpzYiP85BQOcD3gK.jpg" preview="com.plexapp.agents.imdb_b8d426bcb85eb6e7105d55976c32948743d97b2e" sort_order="2" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/4lFg2JMNlH6h5JNRX30rP9uKbMj.jpg" preview="com.plexapp.agents.imdb_c9648e558170e24ecbd4c462a0a32be79b1c880b" sort_order="3" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/xEdwdFZRwrNAvTDx0fAV3MAInaA.jpg" preview="com.plexapp.agents.imdb_6670dd6b74001739a1cd748b8198c1cc437c9133" sort_order="4" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/jS5jWFvXv0USEkVxaXCPCVSVYUJ.jpg" preview="com.plexapp.agents.imdb_cc9b9e80b96541f212ada9b8fa6a620fef70396e" sort_order="5" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/1ESsnSH1WNRIdRb9Y6E8eh33KzZ.jpg" preview="com.plexapp.agents.imdb_d21a8ac85fce656c93d76e10d31d210186684d45" sort_order="6" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/lGFQ6u45LddILT36AqIKFjO8O3R.jpg" preview="com.plexapp.agents.imdb_9e256f752f9fa2c0a41031952d456ffdc980aa46" sort_order="7" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/8wZ6CihCJ9wFTPmV6NQcKH9Nrll.jpg" preview="com.plexapp.agents.imdb_3194804db15522edc6565c5d954437950a901792" sort_order="8" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/unUp9nntx6lhUsx04AJaXa0bR5F.jpg" preview="com.plexapp.agents.imdb_952bec6f8b36feb2145cbd081255c2e002d220a7" sort_order="9" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/lbfUAHDjBT9qNOfg0sy3eRbFFQ8.jpg" preview="com.plexapp.agents.imdb_70eec18a0dd3543faba805860a5b79f46fc523cd" sort_order="10" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/k8mgxX2y0Ev8XwpTZtO2CysDaVZ.jpg" preview="com.plexapp.agents.imdb_fe817007c07c97924047ebf7535e9eb05d46c9a4" sort_order="11" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/1jiV3XQW5ayrdw72WpIwxc0PO1R.jpg" preview="com.plexapp.agents.imdb_142f87828e92bd04f654c0379a8a9e2c5e2d1ca5" sort_order="12" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/8qumhTHomM7XeWvIVNL6CjZAiqG.jpg" preview="com.plexapp.agents.imdb_93a5d8a408511226bff14cd2b8ef3e1d2c467d98" sort_order="13" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/54CGx18epYWxSHBPGVFq8XfLLJs.jpg" preview="com.plexapp.agents.imdb_b062c2bba1545555a304c61b9c2018372a588289" sort_order="14" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/3RUdRBd6VBBVj0KG0eLidahC3YV.jpg" preview="com.plexapp.agents.imdb_f2a4e96a2c403944b7cdd966c0de7889445ee6f5" sort_order="15" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/2fHm4TYnkvIpCgqI0Au8dOvRxWq.jpg" preview="com.plexapp.agents.imdb_22ed0c8fad9a6405c499d8c5bf3e7420103b15b3" sort_order="16" provider="com.plexapp.agents.imdb"/>
+  </posters>
+  <producers>
+    <item index="0">
+      <photo>http://image.tmdb.org/t/p/original/fW37Gbk5PJZuXvyZwtcr0cMwPKY.jpg</photo>
+      <role/>
+      <name>Nicolas Cage</name>
+    </item>
+    <item index="1">
+      <photo>http://image.tmdb.org/t/p/original/p5ZatHtOPzxsUndYYGCU5enZblu.jpg</photo>
+      <role/>
+      <name>Andreas Grosch</name>
+    </item>
+    <item index="2">
+      <photo>http://image.tmdb.org/t/p/original/ffu94ltKqX6mAPSWdimz7MIdJMZ.jpg</photo>
+      <role/>
+      <name>Andrew Niccol</name>
+    </item>
+    <item index="3">
+      <photo/>
+      <role/>
+      <name>Christopher Roberts</name>
+    </item>
+    <item index="4">
+      <photo/>
+      <role/>
+      <name>Teri-Lin Robertson</name>
+    </item>
+    <item index="5">
+      <photo/>
+      <role/>
+      <name>Philippe Rousselet</name>
+    </item>
+    <item index="6">
+      <photo/>
+      <role/>
+      <name>Norman Golightly</name>
+    </item>
+  </producers>
+  <rating>6.1</rating>
+  <rating_image>rottentomatoes://image.rating.ripe</rating_image>
+  <audience_rating>8.5</audience_rating>
+  <audience_rating_image>rottentomatoes://image.rating.upright</audience_rating_image>
+  <reviews>
+    <item index="0">
+      <text>Niccol is no stranger to hot-button issues, but he outdoes his previous efforts by injecting this satire of war profiteering in the Halliburton age with a wicked arsenic wit.</text>
+      <source>Time Out</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>http://www.timeout.com/film/newyork/reviews/83020/lord_of_war.html</link>
+      <author>Dave Calhoun</author>
+    </item>
+    <item index="1">
+      <text>Even though Niccol sometimes puts unnecessary homilies in the mouths of his characters, he mostly pulls off the tricky feat of being direct and breezy at the same time. "Lord of War" skims along like a dance routine.</text>
+      <source>Salon.com</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>http://www.salon.com/2005/09/16/lord_of_war/</link>
+      <author>Stephanie Zacharek</author>
+    </item>
+    <item index="2">
+      <text>A caustic satire masquerading as an action adventure.</text>
+      <source>Chicago Reader</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>http://www.chicagoreader.com/movies/archives/2005/0905/050916.html</link>
+      <author>Jonathan Rosenbaum</author>
+    </item>
+    <item index="3">
+      <text>There are the makings here of a really good feature or an even better documentary, but as it stands, Lord of War is not quite either.</text>
+      <source>San Francisco Chronicle</source>
+      <image>rottentomatoes://image.review.rotten</image>
+      <link>http://sfgate.com/cgi-bin/article.cgi?f=/c/a/2005/09/16/DDGKGENKUH1.DTL&amp;type=movies</link>
+      <author>Mick LaSalle</author>
+    </item>
+    <item index="4">
+      <text>Lord of War tosses grenades and then fearfully runs from them.</text>
+      <source>Toronto Star</source>
+      <image>rottentomatoes://image.review.rotten</image>
+      <link>http://WWW.TheStar.COM/NASApp/cs/ContentServer?pagename=thestar/Layout/Article_Type1&amp;c=Article&amp;cid=1126864957758&amp;call_pageid=1022183557980&amp;col=1022183560753</link>
+      <author>Peter Howell</author>
+    </item>
+    <item index="5">
+      <text>Lord of War has a hip, gonzo energy to it and it's often transfixing to watch and listen to. But it's finally just as empty as the man it's about.</text>
+      <source>Washington Post</source>
+      <image>rottentomatoes://image.review.rotten</image>
+      <link>http://www.washingtonpost.com/wp-dyn/content/article/2005/09/15/AR2005091502423.html</link>
+      <author>Ann Hornaday</author>
+    </item>
+    <item index="6">
+      <text>His heavy-handedness and inability to humanize and explain his hero mean that even the choir Niccol is preaching to won't be moved by Lord of War.</text>
+      <source>Orlando Sentinel</source>
+      <image>rottentomatoes://image.review.rotten</image>
+      <link>http://www.orlandosentinel.com/entertainment/movies/orl-lordwar05sep16,0,6590797.story?coll=orl-calmoviestop</link>
+      <author>Roger Moore</author>
+    </item>
+    <item index="7">
+      <text>Its best moments burn with irony.</text>
+      <source>Houston Chronicle</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>http://www.chron.com/cs/CDA/moviestory.mpl/ae/movies/reviews/3355829</link>
+      <author>Amy Biancolli</author>
+    </item>
+    <item index="8">
+      <text>It's just a well-intended essay, a movie when necessary but not necessarily a movie.</text>
+      <source>Globe and Mail</source>
+      <image>rottentomatoes://image.review.rotten</image>
+      <link>http://www.theglobeandmail.com/servlet/story/RTGAM.20050916.wxlord16/BNStory/Entertainment/</link>
+      <author>Rick Groen</author>
+    </item>
+  </reviews>
+  <roles>
+    <item index="0">
+      <photo>http://image.tmdb.org/t/p/original/fW37Gbk5PJZuXvyZwtcr0cMwPKY.jpg</photo>
+      <role>Yuri Orlov</role>
+      <name>Nicolas Cage</name>
+    </item>
+    <item index="1">
+      <photo>http://image.tmdb.org/t/p/original/sNdD2Cos4aecowtWPpd0hcM8izY.jpg</photo>
+      <role>Ava Fontaine Orlov</role>
+      <name>Bridget Moynahan</name>
+    </item>
+    <item index="2">
+      <photo>http://image.tmdb.org/t/p/original/i6zIpHiKBnaHtacJU6qgeoDjiw1.jpg</photo>
+      <role>Vitaly Orlov</role>
+      <name>Jared Leto</name>
+    </item>
+    <item index="3">
+      <photo>http://image.tmdb.org/t/p/original/kcby6VYk6Gb0036nUyh8chY5ZAJ.jpg</photo>
+      <role>Jack Valentine</role>
+      <name>Ethan Hawke</name>
+    </item>
+    <item index="4">
+      <photo>http://image.tmdb.org/t/p/original/mfB9S91rT1ZbqZloEn5i5jYTKoC.jpg</photo>
+      <role>Andre Baptiste Sr.</role>
+      <name>Eamonn Walker</name>
+    </item>
+    <item index="5">
+      <photo>http://image.tmdb.org/t/p/original/27SAk1v043GdOeAxT5pPoMUYhGg.jpg</photo>
+      <role>Simeon Weisz</role>
+      <name>Ian Holm</name>
+    </item>
+    <item index="6">
+      <photo>http://image.tmdb.org/t/p/original/yjktr2trahEBQmuLsCRMzgoDFvh.jpg</photo>
+      <role>Andre Baptiste Jr.</role>
+      <name>Sammi Rotibi</name>
+    </item>
+    <item index="7">
+      <photo>http://image.tmdb.org/t/p/original/AdFpu2aVEvS9ZihuxM1EGjafFES.jpg</photo>
+      <role>Candy</role>
+      <name>Tanit Phoenix</name>
+    </item>
+    <item index="8">
+      <photo>http://image.tmdb.org/t/p/original/onvyRiMnG2fGdzfYRYlJ1iWxeiL.jpg</photo>
+      <role>Irina Orlov</role>
+      <name>Shake Tukhmanyan</name>
+    </item>
+    <item index="9">
+      <photo>http://image.tmdb.org/t/p/original/g8vthdw69j4rmU0aEpJC2qMoa2I.jpg</photo>
+      <role>Ukrainian Mobster</role>
+      <name>Jared Burke</name>
+    </item>
+    <item index="10">
+      <photo>http://image.tmdb.org/t/p/original/1tzQUsOv7cFhXY8Ya6ps8t9jeZR.jpg</photo>
+      <role>Ukrainian Mobster</role>
+      <name>David Shumbris</name>
+    </item>
+    <item index="11">
+      <photo>http://image.tmdb.org/t/p/original/x6m7cjArcwxUps004Iuk1v6yQXF.jpg</photo>
+      <role>Vladimir</role>
+      <name>Weston Cage</name>
+    </item>
+    <item index="12">
+      <photo>http://image.tmdb.org/t/p/original/17aHojCYOmUyoyuPgLd4di0fdvm.jpg</photo>
+      <role>Arms Fair Salesman</role>
+      <name>Jeremy Crutchley</name>
+    </item>
+    <item index="13">
+      <photo>http://image.tmdb.org/t/p/original/hLtyGhAuEeJc8qPjQDZswIMpYDd.jpg</photo>
+      <role>General Dmitri Orlov</role>
+      <name>Yevgeni Lazarev</name>
+    </item>
+    <item index="14">
+      <photo/>
+      <role>Anatoly Orlov</role>
+      <name>Jean-Pierre Nshanian</name>
+    </item>
+    <item index="15">
+      <photo/>
+      <role>Ukrainian Mobster</role>
+      <name>Eric Uys</name>
+    </item>
+    <item index="16">
+      <photo/>
+      <role>Ukrainian Mobster</role>
+      <name>Stewart Morgan</name>
+    </item>
+    <item index="17">
+      <photo/>
+      <role>Gregor</role>
+      <name>Jasper Lenz</name>
+    </item>
+    <item index="18">
+      <photo/>
+      <role>Eli Kurtzman</role>
+      <name>Stephen Gregory</name>
+    </item>
+    <item index="19">
+      <photo/>
+      <role>Boris</role>
+      <name>Kobus Marx</name>
+    </item>
+    <item index="20">
+      <photo/>
+      <role>Liev</role>
+      <name>Stephan De Abreu</name>
+    </item>
+  </roles>
+  <similar>
+    <item index="0">Collateral</item>
+    <item index="1">Face/Off</item>
+    <item index="2">The Rock</item>
+    <item index="3">Con Air</item>
+    <item index="4">Swordfish</item>
+    <item index="5">Ronin</item>
+    <item index="6">Gone in Sixty Seconds</item>
+    <item index="7">The Recruit</item>
+    <item index="8">Payback</item>
+    <item index="9">Enemy of the State</item>
+    <item index="10">Phone Booth</item>
+    <item index="11">Lucky Number Slevin</item>
+    <item index="12">Crank</item>
+    <item index="13">The Taking of Pelham 1 2 3</item>
+    <item index="14">Smokin' Aces</item>
+    <item index="15">Shoot 'Em Up</item>
+    <item index="16">Enemy at the Gates</item>
+    <item index="17">16 Blocks</item>
+    <item index="18">The Jackal</item>
+    <item index="19">A History of Violence</item>
+  </similar>
+  <studio>Saturn Films</studio>
+  <summary>Yuri Orlov is a globetrotting arms dealer and, through some of the deadliest war zones, he struggles to stay one step ahead of a relentless Interpol agent, his business rivals and even some of his customers who include many of the world's most notorious dictators. Finally, he must also face his own conscience.</summary>
+  <tagline>Where there's a will, there's a weapon</tagline>
+  <tags/>
+  <themes/>
+  <title>Lord of War</title>
+  <writers>
+    <item index="0">
+      <photo>http://image.tmdb.org/t/p/original/ffu94ltKqX6mAPSWdimz7MIdJMZ.jpg</photo>
+      <role/>
+      <name>Andrew Niccol</name>
+    </item>
+  </writers>
+  <year>2005</year>
+</Movie>

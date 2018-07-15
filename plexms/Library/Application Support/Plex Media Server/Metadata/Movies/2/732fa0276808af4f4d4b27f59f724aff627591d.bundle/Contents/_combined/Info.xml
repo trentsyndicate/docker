@@ -1,0 +1,599 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Movie>
+  <art>
+    <item external="True" url="http://image.tmdb.org/t/p/original/2ryEVMGIRSGYd8EvwbCmugQuFqA.jpg" sort_order="1" provider="com.plexapp.agents.imdb" media="com.plexapp.agents.imdb_1c036aca896a1ccc807b5140298c17d5d2a6450a"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/dTfNabgsaR6t4XhFglXqwgqSqhM.jpg" preview="com.plexapp.agents.imdb_d62caa4ea12640b840b812dae6863059d8705127" sort_order="2" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/83nHcz2KcnEpPXY50Ky2VldewJJ.jpg" preview="com.plexapp.agents.imdb_5c3a1ae9cd9e8dd8311b965dc14f690ba8e41c6a" sort_order="3" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/4PwyB0ErucIANzW24Kori71J6gU.jpg" preview="com.plexapp.agents.imdb_8db79eedcacbcaebf2380ded19596dc8b66a74aa" sort_order="4" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/fUn5I5f4069vwGFEEvA3HXt9xPP.jpg" preview="com.plexapp.agents.imdb_fb55a7d4ad0779d8c43d8c6061227144b7733814" sort_order="5" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/yVOPR21NS414ol0l8qedoi7Gho1.jpg" preview="com.plexapp.agents.imdb_5339ea0c8ba835bcfa55be28d5f8143d1e5c089d" sort_order="6" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/Anzw6dtq95z6yiujTaISH2boPcg.jpg" preview="com.plexapp.agents.imdb_155552a23623604d37eb2aa93e4263518e80ba3b" sort_order="7" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/4zmGaQ1XFoEhJUtrCsfI93MNxAg.jpg" preview="com.plexapp.agents.imdb_e8b7cc58659316abda8cd931cbe0402c9a07adb8" sort_order="8" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/gBjS7q8CmT2G2XL6EPgao8WnkRq.jpg" preview="com.plexapp.agents.imdb_371fdf184d0dd94758e8714933c59d9264d887e5" sort_order="9" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/1eoX7O1pnAtt8JAEc01MYZ1nxDu.jpg" preview="com.plexapp.agents.imdb_ca410bd2dceb90322a74ffdefb68ba3f3ead07cb" sort_order="10" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/fX3owqzMcCHOYXyoZHgaUoohGn0.jpg" preview="com.plexapp.agents.imdb_db639fa1dba1f3b1d7ca41350c1a51c90dde87fa" sort_order="11" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/q8W0VNixqYEeWvWjzbPytjETmbw.jpg" preview="com.plexapp.agents.imdb_8c32d914e747f54af4a09061fa572cc9c152d57e" sort_order="12" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/3aRD4mZTakgvR34jYkhCgQ77R1P.jpg" preview="com.plexapp.agents.imdb_733fd80f1869f8b2d3a5b97b162b5be1cf4b1a70" sort_order="13" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/zPUEQOYGjyY7YjF883PvhuuPsuY.jpg" preview="com.plexapp.agents.imdb_5123d849e07358d278fa245943e1d4b8acb86735" sort_order="14" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/oWYHj2qvta9jRb8S9iBU5NlNlPP.jpg" preview="com.plexapp.agents.imdb_7cb7cf132ca4e22d4ed7762d04ae19d6fc6aaf5e" sort_order="15" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/jIOnZ1sXfZng4RsQHrXw4CB2dXL.jpg" preview="com.plexapp.agents.imdb_8bf315c53574e348635e12794298166743f8444a" sort_order="16" provider="com.plexapp.agents.imdb"/>
+  </art>
+  <banners/>
+  <chapters>
+    <item index="0">
+      <title>Chapitre 01</title>
+      <end_time_offset>523000</end_time_offset>
+      <start_time_offset>0</start_time_offset>
+    </item>
+    <item index="1">
+      <title>Chapitre 02</title>
+      <end_time_offset>902000</end_time_offset>
+      <start_time_offset>523000</start_time_offset>
+    </item>
+    <item index="2">
+      <title>Chapitre 03</title>
+      <end_time_offset>1376000</end_time_offset>
+      <start_time_offset>902000</start_time_offset>
+    </item>
+    <item index="3">
+      <title>Chapitre 04</title>
+      <end_time_offset>1792000</end_time_offset>
+      <start_time_offset>1376000</start_time_offset>
+    </item>
+    <item index="4">
+      <title>Chapitre 05</title>
+      <end_time_offset>2205000</end_time_offset>
+      <start_time_offset>1792000</start_time_offset>
+    </item>
+    <item index="5">
+      <title>Chapitre 06</title>
+      <end_time_offset>2554000</end_time_offset>
+      <start_time_offset>2205000</start_time_offset>
+    </item>
+    <item index="6">
+      <title>Chapitre 07</title>
+      <end_time_offset>3033000</end_time_offset>
+      <start_time_offset>2554000</start_time_offset>
+    </item>
+    <item index="7">
+      <title>Chapitre 08</title>
+      <end_time_offset>3391000</end_time_offset>
+      <start_time_offset>3033000</start_time_offset>
+    </item>
+    <item index="8">
+      <title>Chapitre 09</title>
+      <end_time_offset>3734000</end_time_offset>
+      <start_time_offset>3391000</start_time_offset>
+    </item>
+    <item index="9">
+      <title>Chapitre 10</title>
+      <end_time_offset>4167000</end_time_offset>
+      <start_time_offset>3734000</start_time_offset>
+    </item>
+    <item index="10">
+      <title>Chapitre 11</title>
+      <end_time_offset>4657000</end_time_offset>
+      <start_time_offset>4167000</start_time_offset>
+    </item>
+    <item index="11">
+      <title>Chapitre 12</title>
+      <end_time_offset>5110000</end_time_offset>
+      <start_time_offset>4657000</start_time_offset>
+    </item>
+    <item index="12">
+      <title>Chapitre 13</title>
+      <end_time_offset>5660000</end_time_offset>
+      <start_time_offset>5110000</start_time_offset>
+    </item>
+    <item index="13">
+      <title>Chapitre 14</title>
+      <end_time_offset>6093000</end_time_offset>
+      <start_time_offset>5660000</start_time_offset>
+    </item>
+    <item index="14">
+      <title>Chapitre 15</title>
+      <end_time_offset>6440000</end_time_offset>
+      <start_time_offset>6093000</start_time_offset>
+    </item>
+    <item index="15">
+      <title>Chapitre 16</title>
+      <end_time_offset>-1</end_time_offset>
+      <start_time_offset>6440000</start_time_offset>
+    </item>
+  </chapters>
+  <collections/>
+  <content_rating>PG-13</content_rating>
+  <countries>
+    <item index="0">USA</item>
+  </countries>
+  <directors>
+    <item index="0">
+      <photo>http://image.tmdb.org/t/p/original/pyGWo5mAwZ2Koe6leB2RjKd7vmc.jpg</photo>
+      <role/>
+      <name>Francis Lawrence</name>
+    </item>
+  </directors>
+  <duration>7380000</duration>
+  <genres>
+    <item index="0">Action</item>
+    <item index="1">Adventure</item>
+    <item index="2">Sci-Fi</item>
+    <item index="3">Thriller</item>
+  </genres>
+  <originally_available_at>2014-11-18</originally_available_at>
+  <posters>
+    <item external="True" url="http://image.tmdb.org/t/p/original/gj282Pniaa78ZJfbaixyLXnXEDI.jpg" sort_order="1" provider="com.plexapp.agents.imdb" media="com.plexapp.agents.imdb_6a5012f77e3736f27fe873a66ae9aa6932899f75"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/cWERd8rgbw7bCMZlwP207HUXxym.jpg" preview="com.plexapp.agents.imdb_e300d16155327b2b33d0f4717113d5b6158f2144" sort_order="2" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/zDwvHHMSEwBaBSXFlkCrxLJRr5u.jpg" preview="com.plexapp.agents.imdb_9371287afdf27934ff75824d4bb4433db088d754" sort_order="3" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/64zVPbcBkoAHwa7oVmAAIbFCxJh.jpg" preview="com.plexapp.agents.imdb_e446cfaf31ea9d6f140815711ac6ba6eba1abb10" sort_order="4" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/bkf7p5PW91AY9zf657jyrBuhZS5.jpg" preview="com.plexapp.agents.imdb_ce99e60001b2f20fa49409004e78dc110caf25cd" sort_order="5" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/xdlnVeH7raRflkS4Imtx10oG8dF.jpg" preview="com.plexapp.agents.imdb_c274b3728c3cc043d13869214c7192f15bccc966" sort_order="6" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/fSv20qM1ucmarAgKFfwyrD0zqPL.jpg" preview="com.plexapp.agents.imdb_d1a316825ed6fa38e19e649555613d218ed391a2" sort_order="7" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/3iRpBgcSzNFL10VNyr6LvGv6QT0.jpg" preview="com.plexapp.agents.imdb_3886c8a10d76a3918d1464137ed61fb5278522ba" sort_order="8" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/oXg5NLGINnAh70EQpN2KGC5POHt.jpg" preview="com.plexapp.agents.imdb_f9284df1f7a69e708733be8b75dc2dbac5f9718f" sort_order="9" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/hJZ6ESu7jn21x8UqNGIpVEhjoWb.jpg" preview="com.plexapp.agents.imdb_24cddd4ddf3abd28dd6b1c13d4957fbc0e618d24" sort_order="10" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/f8XB1GcBWmXtT5rlR4nq43qvTzV.jpg" preview="com.plexapp.agents.imdb_b7fed723d33956fc5e49a162526d6cca9615b7ad" sort_order="11" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/3siMDQ5XMKICf6qRTvYELXSa0y7.jpg" preview="com.plexapp.agents.imdb_4fde87f7e044297bfb2752175a63cf8aa179d2fd" sort_order="12" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/s7fbqln1aAJUgs2u5KSBLvIvtp6.jpg" preview="com.plexapp.agents.imdb_ee2048a725faa04e517f2ca96c4a33dacbf3ccaf" sort_order="13" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/gAK5TsHdfw7YNpiSy2jGUFPnSAn.jpg" preview="com.plexapp.agents.imdb_664a9c441e68bbf3a40fc4c99433f5840c6cc275" sort_order="14" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/osx4a2vCHxTZdPUglvvZSTW4DkQ.jpg" preview="com.plexapp.agents.imdb_29f993f3bcdd01f61c529e57b9526707a9ba9f13" sort_order="15" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/qXL01SDOIrOVVAPDb2DVFdGZ2gS.jpg" preview="com.plexapp.agents.imdb_3dc3241cfe56d5f2db5b8e639173093043cb16ab" sort_order="16" provider="com.plexapp.agents.imdb"/>
+  </posters>
+  <producers>
+    <item index="0">
+      <photo/>
+      <role/>
+      <name>Nina Jacobson</name>
+    </item>
+    <item index="1">
+      <photo/>
+      <role/>
+      <name>Jon Kilik</name>
+    </item>
+  </producers>
+  <rating>6.7</rating>
+  <rating_image>rottentomatoes://image.rating.ripe</rating_image>
+  <audience_rating>7.1</audience_rating>
+  <audience_rating_image>rottentomatoes://image.rating.upright</audience_rating_image>
+  <reviews>
+    <item index="0">
+      <text>A solid lead-up to the finale.</text>
+      <source>Richard Roeper.com</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>http://www.richardroeper.com/reviews/thehungergamesmockingjaypart1.aspx</link>
+      <author>Richard Roeper</author>
+    </item>
+    <item index="1">
+      <text>It's an elaborate game of hurry-up-and-wait. And it's the most shameless example yet of splitting the final book in a hugely popular series into two film adaptations.</text>
+      <source>ChristyLemire.com</source>
+      <image>rottentomatoes://image.review.rotten</image>
+      <link>http://christylemire.com/hunger-games-mockingjay-part-1/</link>
+      <author>Christy Lemire</author>
+    </item>
+    <item index="2">
+      <text>Might it have been better if they'd squeezed the whole book into one movie? Probably. Nonetheless, Mockingjay Part 1 is a fine entertainment, shot through with moments of surprising emotional impact.</text>
+      <source>The Atlantic</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>http://www.theatlantic.com/entertainment/archive/2014/11/review-the-hunger-games-mockingjay-is-surprisingly-emotional/383015/</link>
+      <author>Christopher Orr</author>
+    </item>
+    <item index="3">
+      <text>Jennifer Lawrence's charisma and the the sly excellence of her supporting cast keep "The Hunger Games: Mockingjay, Part 1" aloft.</text>
+      <source>RogerEbert.com</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>http://www.rogerebert.com/reviews/the-hunger-games-mockingjay---part-1-2014</link>
+      <author>Matt Zoller Seitz</author>
+    </item>
+    <item index="4">
+      <text>Mockingjay has more exposition than a TED Talk, more rubble than a decade of The Flintstones, and absolutely no nonmonetary reason to be Part 1 of anything. It isn't storytelling. It's a filibuster.</text>
+      <source>Grantland</source>
+      <image>rottentomatoes://image.review.rotten</image>
+      <link>http://grantland.com/hollywood-prospectus/hunger-games-mockingjay-part-one-review/</link>
+      <author>Wesley Morris</author>
+    </item>
+    <item index="5">
+      <text>As an actress, Lawrence has grown beyond this sort of thing, and the entire enterprise, directed by Francis Lawrence, feels like a massive placeholder for the grand finale.</text>
+      <source>Christian Science Monitor</source>
+      <image>rottentomatoes://image.review.rotten</image>
+      <link>http://www.csmonitor.com/The-Culture/Movies/2014/1120/The-Hunger-Games-Mockingjay-Part-1-Just-a-placeholder-until-grand-finale</link>
+      <author>Peter Rainer</author>
+    </item>
+    <item index="6">
+      <text>The effect of so many Oscar-calibre actors speaking the generic dialogue is like watching pro ballplayers play T-ball.</text>
+      <source>Globe and Mail</source>
+      <image>rottentomatoes://image.review.rotten</image>
+      <link>http://www.theglobeandmail.com/arts/film/film-reviews/the-latest-hunger-games-movie-is-a-serving-of-grey-gruel/article21676302/</link>
+      <author>Liam Lacey</author>
+    </item>
+    <item index="7">
+      <text>"Mockingjay - Part 1," however well done, can't compete with the first two films, although it sets up what should be its stunning ending well enough.</text>
+      <source>Detroit News</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>http://www.detroitnews.com/story/entertainment/2014/11/20/mockingjay-part-sets-stage-finale/70018704/</link>
+      <author>Tom Long</author>
+    </item>
+    <item index="8">
+      <text>If Mockingjay - Part 1 is quieter and less flashy than its predecessors, that doesn't make it less satisfying.</text>
+      <source>Philadelphia Inquirer</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>http://www.philly.com/philly/entertainment/movies/20141121__The_Hunger_Games__Mockingjay_-_Part_1___Katniss_and_company_strike_back.html</link>
+      <author>Steven Rea</author>
+    </item>
+    <item index="9">
+      <text>Once you accept that the splitting of Mockingjay is a business decision, not a dramatic imperative, Part 1 comes off as a curiously satisfying nonaction movie.</text>
+      <source>Dallas Morning News</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>http://www.dallasnews.com/entertainment/movies/reviews/20141120-first-mockingjay-is-a-savvy-look-at-how-to-sell-a-war-b.ece</link>
+      <author>Chris Vognar</author>
+    </item>
+    <item index="10">
+      <text>This is as grim as PG-13 can get; the darkness is comparable to that of The Empire Strikes Back.</text>
+      <source>ReelViews</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>http://www.reelviews.net/php_review_template.php?identifier=2834</link>
+      <author>James Berardinelli</author>
+    </item>
+    <item index="11">
+      <text>Lawrence delivers on what dramatic beats half a novel affords him. You just wish there were more of them and that they provided a more complete, more satisfying story arc.</text>
+      <source>Los Angeles Times</source>
+      <image>rottentomatoes://image.review.rotten</image>
+      <link>http://www.latimes.com/entertainment/movies/la-et-mn-hunger-games-mockingjay-review-20141121-column.html</link>
+      <author>Kenneth Turan</author>
+    </item>
+    <item index="12">
+      <text>Collins and the Lawrences have crossed the uncanny valley separating imagined dystopia from actual horrors, but they're also delivering a life lesson in cinema to teens: Things are stronger when they look real.</text>
+      <source>NPR</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>http://www.npr.org/2014/11/20/365187357/its-getting-serious-in-panem-as-mockingjay-goes-dark?utm_medium=RSS&amp;utm_campaign=movies</link>
+      <author>Andrew Lapin</author>
+    </item>
+    <item index="13">
+      <text>OK, there's less action in Games this time, but what's there is prime. And the acting is aces.</text>
+      <source>Rolling Stone</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>http://www.rollingstone.com/movies/reviews/the-hunger-games-mockingjay-part-1-20141119</link>
+      <author>Peter Travers</author>
+    </item>
+    <item index="14">
+      <text>The impressive supporting cast (which features Philip Seymour Hoffman, Julianne Moore, Jeffrey Wright, and Woody Harrelson) keeps this highly watchable.</text>
+      <source>Chicago Reader</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>http://www.chicagoreader.com/chicago/the-hunger-games-mockingjay-part-1/Film?oid=15490196</link>
+      <author>Ben Sachs</author>
+    </item>
+    <item index="15">
+      <text>There's enough here to at least keep fans of the series involved and eagerly awaiting the grand finale.</text>
+      <source>Toronto Star</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>http://www.thestar.com/entertainment/movies/2014/11/20/hunger_games_mockingjay_part_1_the_story_splinters_but_the_camera_never_blinks_review.html</link>
+      <author>Peter Howell</author>
+    </item>
+    <item index="16">
+      <text>Although it doesn't make a lick of sense as a stand-alone story, "Mockingjay - Part 1" is the first "Hunger Games" movie with meat on its bones.</text>
+      <source>St. Louis Post-Dispatch</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>http://www.stltoday.com/entertainment/movies/reviews/third-hunger-games-makes-a-political-point/article_60bbf29d-5163-5558-bcda-a59a35115584.html</link>
+      <author>Joe Williams</author>
+    </item>
+    <item index="17">
+      <text>After its first two terrific installments, the newest edition of "The Hunger Games" left me hungry, like a feast that's stunningly prepared but flavorless and non-nutritious.</text>
+      <source>Minneapolis Star Tribune</source>
+      <image>rottentomatoes://image.review.rotten</image>
+      <link>http://www.startribune.com/entertainment/movies/283354441.html</link>
+      <author>Colin Covert</author>
+    </item>
+  </reviews>
+  <roles>
+    <item index="0">
+      <photo>http://image.tmdb.org/t/p/original/naZyy9IqAQDaAbr1kYShLdg6aPR.jpg</photo>
+      <role>Katniss Everdeen</role>
+      <name>Jennifer Lawrence</name>
+    </item>
+    <item index="1">
+      <photo>http://image.tmdb.org/t/p/original/fuLYoaiiFhkJzAVj5jOtdZ8FlEl.jpg</photo>
+      <role>Peeta Mellark</role>
+      <name>Josh Hutcherson</name>
+    </item>
+    <item index="2">
+      <photo>http://image.tmdb.org/t/p/original/eVeBiqx1vTsd1QCHOr24Cf13wb.jpg</photo>
+      <role>Gale Hawthorne</role>
+      <name>Liam Hemsworth</name>
+    </item>
+    <item index="3">
+      <photo>http://image.tmdb.org/t/p/original/1ecdooAHICUhCZKKEKlFtccEmTU.jpg</photo>
+      <role>Haymitch Abernathy</role>
+      <name>Woody Harrelson</name>
+    </item>
+    <item index="4">
+      <photo>http://image.tmdb.org/t/p/original/luKIiU3wAAZ5C6j2053g35cRhzE.jpg</photo>
+      <role>President Snow</role>
+      <name>Donald Sutherland</name>
+    </item>
+    <item index="5">
+      <photo>http://image.tmdb.org/t/p/original/vEDJukK8CjIsA0DjNFhoT88TvzS.jpg</photo>
+      <role>Plutarch Heavensbee</role>
+      <name>Philip Seymour Hoffman</name>
+    </item>
+    <item index="6">
+      <photo>http://image.tmdb.org/t/p/original/v2FcWGiiuvl6P7NV0966jNL09uh.jpg</photo>
+      <role>President Alma Coin</role>
+      <name>Julianne Moore</name>
+    </item>
+    <item index="7">
+      <photo>http://image.tmdb.org/t/p/original/c9Zna579entVQBdx7kTtKJjl9CB.jpg</photo>
+      <role>Primrose Everdeen</role>
+      <name>Willow Shields</name>
+    </item>
+    <item index="8">
+      <photo>http://image.tmdb.org/t/p/original/8DVC5uMFX00G0sLIE0bBaF6nC3U.jpg</photo>
+      <role>Finnick Odair</role>
+      <name>Sam Claflin</name>
+    </item>
+    <item index="9">
+      <photo>http://image.tmdb.org/t/p/original/t6sfUzvQkMZu3wh4LMNBFxEmiDy.jpg</photo>
+      <role>Effie Trinket</role>
+      <name>Elizabeth Banks</name>
+    </item>
+    <item index="10">
+      <photo>http://image.tmdb.org/t/p/original/waUvfhRSpVe4vk0hGVcsr0dhpK6.jpg</photo>
+      <role>Boggs</role>
+      <name>Mahershala Ali</name>
+    </item>
+    <item index="11">
+      <photo>http://image.tmdb.org/t/p/original/hVT1eaRBHLwrW8nRiVoPJpZU4l0.jpg</photo>
+      <role>Johanna Mason</role>
+      <name>Jena Malone</name>
+    </item>
+    <item index="12">
+      <photo>http://image.tmdb.org/t/p/original/wBh9rwK3aRr1hCrSRLxxPHKzGeU.jpg</photo>
+      <role>Beetee</role>
+      <name>Jeffrey Wright</name>
+    </item>
+    <item index="13">
+      <photo>http://image.tmdb.org/t/p/original/mqiiy0HXExPYaIczPxWFRDGqhwA.jpg</photo>
+      <role>Katniss' Mother</role>
+      <name>Paula Malcomson</name>
+    </item>
+    <item index="14">
+      <photo>http://image.tmdb.org/t/p/original/omGlTJF2IW5r3L3c5y0qkCt3hFr.jpg</photo>
+      <role>Caesar Flickerman</role>
+      <name>Stanley Tucci</name>
+    </item>
+    <item index="15">
+      <photo>http://image.tmdb.org/t/p/original/mw8L1luheBg3YjijdGWtjT2f2Zp.jpg</photo>
+      <role>Cressida</role>
+      <name>Natalie Dormer</name>
+    </item>
+    <item index="16">
+      <photo>http://image.tmdb.org/t/p/original/2qNAI0zGfnsSbEAuzlbZvcij5VF.jpg</photo>
+      <role>Messalla</role>
+      <name>Evan Ross</name>
+    </item>
+    <item index="17">
+      <photo>http://image.tmdb.org/t/p/original/nX2c32A2ppiw5IC86zUM4JTLpoz.jpg</photo>
+      <role>Pollux</role>
+      <name>Elden Henson</name>
+    </item>
+    <item index="18">
+      <photo>http://image.tmdb.org/t/p/original/vWaxlHbGnJy7dQ0Se7cSUOqi9aR.jpg</photo>
+      <role>Castor</role>
+      <name>Wes Chatham</name>
+    </item>
+    <item index="19">
+      <photo>http://image.tmdb.org/t/p/original/2YNa0h5lCq5lMYyGFLJmSe09ZeW.jpg</photo>
+      <role>Egeria</role>
+      <name>Sarita Choudhury</name>
+    </item>
+    <item index="20">
+      <photo>http://image.tmdb.org/t/p/original/jHAd1NwUfl5uYfVj6fi9N1TswDD.jpg</photo>
+      <role>Annie Cresta</role>
+      <name>Stef Dawson</name>
+    </item>
+    <item index="21">
+      <photo>http://image.tmdb.org/t/p/original/uLGWqDo0r0JdE8JbY7M8tyzG2BH.jpg</photo>
+      <role>Commander Paylor</role>
+      <name>Patina Miller</name>
+    </item>
+    <item index="22">
+      <photo>http://image.tmdb.org/t/p/original/w40AttR4OPQvjYyTVanq5Rm5iOb.jpg</photo>
+      <role>Antonius</role>
+      <name>Robert Knepper</name>
+    </item>
+    <item index="23">
+      <photo>http://image.tmdb.org/t/p/original/ov9MDO7gUXdjKt7jvwUpRoo0HQn.jpg</photo>
+      <role>D8 Another Patient</role>
+      <name>Caitlin Fowler</name>
+    </item>
+    <item index="24">
+      <photo>http://image.tmdb.org/t/p/original/k46yfyAyNE9j3q9oVJrlhknX8WY.jpg</photo>
+      <role>D8 Female Patient</role>
+      <name>Jada Taylor</name>
+    </item>
+    <item index="25">
+      <photo>http://image.tmdb.org/t/p/original/jqJVM5jEVq2Xqi8G5fO0iiEnd5O.jpg</photo>
+      <role>D8 Male Patient</role>
+      <name>Nicholas Pryor</name>
+    </item>
+    <item index="26">
+      <photo>http://image.tmdb.org/t/p/original/a8wTPPXmRDEkLKbYGvM6pqnIfXB.jpg</photo>
+      <role>D8 Old Woman</role>
+      <name>Donna Biscoe</name>
+    </item>
+    <item index="27">
+      <photo>http://image.tmdb.org/t/p/original/l83ZOfCHVX1WD0DfZlenKYYtomg.jpg</photo>
+      <role>Eddy</role>
+      <name>Michael Garza</name>
+    </item>
+    <item index="28">
+      <photo>http://image.tmdb.org/t/p/original/r5zw8kHfyDTk7zNd5pm2nkKE3CL.jpg</photo>
+      <role>Snow's Granddaughter</role>
+      <name>Erika Bierman</name>
+    </item>
+    <item index="29">
+      <photo>http://image.tmdb.org/t/p/original/zKF8BvSoapHVLgXyCddFZ0gUQdX.jpg</photo>
+      <role>District 13 Engineer</role>
+      <name>Bill Bennett</name>
+    </item>
+    <item index="30">
+      <photo>http://image.tmdb.org/t/p/original/xYMkiZQuoramEeabUPnrtiS19vn.jpg</photo>
+      <role>D13 Systems Operator</role>
+      <name>Rus Blackwell</name>
+    </item>
+    <item index="31">
+      <photo>http://image.tmdb.org/t/p/original/2NG5BmVpxr6mRexZJwU047XzHXb.jpg</photo>
+      <role>D13 Systems Operator #2</role>
+      <name>Stevie Ray Dallimore</name>
+    </item>
+    <item index="32">
+      <photo>http://image.tmdb.org/t/p/original/lkYGZaZirbXggdl374M0CXqaGX2.jpg</photo>
+      <role>D13 Systems Operator #3</role>
+      <name>Breann Couch</name>
+    </item>
+    <item index="33">
+      <photo>http://image.tmdb.org/t/p/original/nSqOpAMjjZEL7OVthdbqAiI8kb4.jpg</photo>
+      <role>District 13 Citizen</role>
+      <name>Jennifer Cocker</name>
+    </item>
+    <item index="34">
+      <photo>http://image.tmdb.org/t/p/original/55gEVgC7oMtYvCDtppWDftI15LM.jpg</photo>
+      <role>District 13 Citizen</role>
+      <name>Marshall Choka</name>
+    </item>
+    <item index="35">
+      <photo>http://image.tmdb.org/t/p/original/cVVMHFhoSRZnpxrEp2Rj0dOnjuV.jpg</photo>
+      <role>Snow's Stylist #1</role>
+      <name>Jordan Woods-Robinson</name>
+    </item>
+    <item index="36">
+      <photo>http://image.tmdb.org/t/p/original/dkVvVFVx18HquvBE8vEGLxeI9ro.jpg</photo>
+      <role>Orderly</role>
+      <name>Katie Sawhill</name>
+    </item>
+    <item index="37">
+      <photo>http://image.tmdb.org/t/p/original/rSgBDfOQvA2caeJNvCO5RCLg8WD.jpg</photo>
+      <role>Rescue Hovercraft Pilot</role>
+      <name>Jenique Bennett</name>
+    </item>
+    <item index="38">
+      <photo>http://image.tmdb.org/t/p/original/lfJ2g2gdhtt0rOwwijBfYE5yiYy.jpg</photo>
+      <role>Pilot</role>
+      <name>Charles Kronmuller</name>
+    </item>
+    <item index="39">
+      <photo>http://image.tmdb.org/t/p/original/qqrVmsqzbJdop0Dns8Xan2j2esd.jpg</photo>
+      <role>President Snow's Security (uncredited)</role>
+      <name>Tyler Lee Allen</name>
+    </item>
+    <item index="40">
+      <photo>http://image.tmdb.org/t/p/original/wwhIUuArmutObRwnBspEk0qK13l.jpg</photo>
+      <role>Stair Runner District 13 (uncredited)</role>
+      <name>Jordanne Calvin</name>
+    </item>
+    <item index="41">
+      <photo>http://image.tmdb.org/t/p/original/rNJa4EKbhWliEEE1giPceySOtIF.jpg</photo>
+      <role>District 8 Hospital Patient (uncredited)</role>
+      <name>Jasmine Ahnie</name>
+    </item>
+    <item index="42">
+      <photo>http://image.tmdb.org/t/p/original/cJovT2FBrS2oorUgaIyEiNZS87G.jpg</photo>
+      <role>District 13 Citizen (uncredited)</role>
+      <name>Brayden Patterson</name>
+    </item>
+    <item index="43">
+      <photo>http://image.tmdb.org/t/p/original/g1Te1r5QIV13jhB8llBPD3Zogob.jpg</photo>
+      <role>District 13 (uncredited)</role>
+      <name>Emma Elle Roberts</name>
+    </item>
+    <item index="44">
+      <photo>http://image.tmdb.org/t/p/original/ekIZ6c2jhGKvem2m4C8OHGbH3lD.jpg</photo>
+      <role>District 13 Citizen (uncredited)</role>
+      <name>A.J. Sexton</name>
+    </item>
+    <item index="45">
+      <photo>http://image.tmdb.org/t/p/original/z0NfjC9Yw91LFtLcgZOa9XV8Ucs.jpg</photo>
+      <role>District 13 Citizen (uncredited)</role>
+      <name>Sarah Turner Holland</name>
+    </item>
+    <item index="46">
+      <photo>http://image.tmdb.org/t/p/original/v4m3X5yPXXU9qmt1YULQo1TqHLO.jpg</photo>
+      <role>District 13 Citizen (uncredited)</role>
+      <name>Lauren Henneberg</name>
+    </item>
+    <item index="47">
+      <photo>http://image.tmdb.org/t/p/original/8PIVFVSZRyVsgCBRvxucFXAQUqj.jpg</photo>
+      <role>District 13 Citizen (uncredited)</role>
+      <name>Molly Evensen</name>
+    </item>
+    <item index="48">
+      <photo>http://image.tmdb.org/t/p/original/uklbKBjGhm9FXmHWd6NJ1n6Cv7A.jpg</photo>
+      <role>District 5 Rebel (uncredited)</role>
+      <name>William Frasca</name>
+    </item>
+    <item index="49">
+      <photo>http://image.tmdb.org/t/p/original/npA2WAe88QClLGtw2LtMWsIL8yA.jpg</photo>
+      <role>Peacekeeper (uncredited)</role>
+      <name>Joe Crosson</name>
+    </item>
+    <item index="50">
+      <photo>http://image.tmdb.org/t/p/original/eYmWGZCgl9AKOJxagGTOQqYTtf6.jpg</photo>
+      <role>Peacekeeper (uncredited)</role>
+      <name>Gregory Fears</name>
+    </item>
+    <item index="51">
+      <photo/>
+      <role>Peacekeeper (uncredited)</role>
+      <name>Kirk Crenshaw</name>
+    </item>
+    <item index="52">
+      <photo/>
+      <role>Beetee's Technician (uncredited)</role>
+      <name>Stephen Mackenzie Brown</name>
+    </item>
+    <item index="53">
+      <photo>http://image.tmdb.org/t/p/original/91vfg0OuwWhtz8LBeVu6PHUnEEF.jpg</photo>
+      <role>District 8 Rebel (uncredited)</role>
+      <name>Stephen Vining</name>
+    </item>
+  </roles>
+  <similar>
+    <item index="0">The Hunger Games: Mockingjay - Part 2</item>
+    <item index="1">The Hunger Games: Catching Fire</item>
+    <item index="2">Divergent</item>
+    <item index="3">Insurgent</item>
+    <item index="4">The Hunger Games</item>
+    <item index="5">The Maze Runner</item>
+    <item index="6">The Hobbit: The Battle of the Five Armies</item>
+    <item index="7">Maze Runner: The Scorch Trials</item>
+    <item index="8">Maleficent</item>
+    <item index="9">Frozen</item>
+    <item index="10">X-Men: Days of Future Past</item>
+    <item index="11">Allegiant</item>
+    <item index="12">Lucy</item>
+    <item index="13">The Hobbit: The Desolation of Smaug</item>
+    <item index="14">The Amazing Spider-Man 2</item>
+    <item index="15">The Twilight Saga: New Moon</item>
+    <item index="16">Harry Potter and the Half-Blood Prince</item>
+    <item index="17">Harry Potter and the Deathly Hallows: Part 1</item>
+    <item index="18">The Twilight Saga: Eclipse</item>
+    <item index="19">Harry Potter and the Deathly Hallows: Part 2</item>
+  </similar>
+  <studio>Lionsgate</studio>
+  <summary>Katniss Everdeen reluctantly becomes the symbol of a mass rebellion against the autocratic Capitol.</summary>
+  <tagline>Fire burns brighter in the darkness</tagline>
+  <tags/>
+  <themes/>
+  <title>The Hunger Games: Mockingjay - Part 1</title>
+  <writers>
+    <item index="0">
+      <photo>http://image.tmdb.org/t/p/original/n3KlfzxxHWVb9XosSxIkO5Gx8dS.jpg</photo>
+      <role/>
+      <name>Danny Strong</name>
+    </item>
+    <item index="1">
+      <photo>http://image.tmdb.org/t/p/original/yzJp4yfpJnbnXJXkJC8qpfX2s9y.jpg</photo>
+      <role/>
+      <name>Peter Craig</name>
+    </item>
+  </writers>
+  <year>2014</year>
+</Movie>

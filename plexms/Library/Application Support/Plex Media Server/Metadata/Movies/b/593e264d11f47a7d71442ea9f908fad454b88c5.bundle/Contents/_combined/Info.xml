@@ -1,0 +1,454 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Movie>
+  <art>
+    <item external="True" url="http://image.tmdb.org/t/p/original/51wsckOi4dViwlHSF5oWgza5gWx.jpg" sort_order="1" provider="com.plexapp.agents.imdb" media="com.plexapp.agents.imdb_8f1af2736345495edc1fb2cfb42635a81e21bdb2"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/umVlw455pfDY1cs563FX1OtvI7H.jpg" preview="com.plexapp.agents.imdb_ddbe57bd6d84ed71dc03c6c9a45b4b48222b8ecc" sort_order="2" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/fTk19nWIMkO4sEL7hquvXG2mIV.jpg" preview="com.plexapp.agents.imdb_a2ff7156882f2f73ac0685e5eb92bc46d9a391d0" sort_order="3" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/kiLEAfRQhs93r3tSsQFpD2EpbyR.jpg" preview="com.plexapp.agents.imdb_1bfc9830b1bb06d2d72bc02ec91a7a77d05723f0" sort_order="4" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/vF0PZIRMufEOizTOaRZIGm7zxHZ.jpg" preview="com.plexapp.agents.imdb_305d0f8df830568e4ddec62c09f5c502ea04a338" sort_order="5" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/sfghaVqC8EyH0HLM0TeN8AHMXeW.jpg" preview="com.plexapp.agents.imdb_dc3ddfdd2ced5c4bdd9ceacc8e32a8f31638623d" sort_order="6" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/qUzdRutcYuLAF4rUxQ6R3xivdYb.jpg" preview="com.plexapp.agents.imdb_4ed2b98692a69bdb89ee6983c2ee7e754a90d8ef" sort_order="7" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/kLqhVH0eghCNlVlZZcmAAIpDg8C.jpg" preview="com.plexapp.agents.imdb_fe4318506999397364be965248e6a47b5de187fc" sort_order="8" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/1xsD5F63YjfqlXTXxkNn57DotL1.jpg" preview="com.plexapp.agents.imdb_aeb4a7a2f6a793a3dd8802c7893d9821ca4c88a3" sort_order="9" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/9Hs7wph4QKFsNKWwPXeQpXRjsgW.jpg" preview="com.plexapp.agents.imdb_e07511bc77b3f285423eff07d9c78772148cffb1" sort_order="10" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/p5wKgFlP7RhKJ2Kr8BW6CgRLoxv.jpg" preview="com.plexapp.agents.imdb_e6a54ec76c77f636f23cf981328e7bc7266a74d5" sort_order="11" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/bvO2kKdSBwzg01wQUTv4icSkI7i.jpg" preview="com.plexapp.agents.imdb_e1df94e06bd1d049898d19573b601e7c60272b9a" sort_order="12" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/fabG9F9pnb7GEG4xR7E5abEyUrZ.jpg" preview="com.plexapp.agents.imdb_cb5382624639aec2e790bc0abfcec56cb756b8d1" sort_order="13" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/5gsS6aCqR81y1lqKpTa6eYX9qu8.jpg" preview="com.plexapp.agents.imdb_877c19f559283e7e59748a82c0d18129a59cf540" sort_order="14" provider="com.plexapp.agents.imdb"/>
+  </art>
+  <banners/>
+  <chapters>
+    <item index="0">
+      <title>Monarch</title>
+      <end_time_offset>234000</end_time_offset>
+      <start_time_offset>0</start_time_offset>
+    </item>
+    <item index="1">
+      <title>Race Prep</title>
+      <end_time_offset>469000</end_time_offset>
+      <start_time_offset>234000</start_time_offset>
+    </item>
+    <item index="2">
+      <title>Race</title>
+      <end_time_offset>868000</end_time_offset>
+      <start_time_offset>469000</start_time_offset>
+    </item>
+    <item index="3">
+      <title>Proposition</title>
+      <end_time_offset>1243000</end_time_offset>
+      <start_time_offset>868000</start_time_offset>
+    </item>
+    <item index="4">
+      <title>Julia Maddon</title>
+      <end_time_offset>1578000</end_time_offset>
+      <start_time_offset>1243000</start_time_offset>
+    </item>
+    <item index="5">
+      <title>Joyride</title>
+      <end_time_offset>1725000</end_time_offset>
+      <start_time_offset>1578000</start_time_offset>
+    </item>
+    <item index="6">
+      <title>Illegal in the U.S.</title>
+      <end_time_offset>2266000</end_time_offset>
+      <start_time_offset>1725000</start_time_offset>
+    </item>
+    <item index="7">
+      <title>Back in the Game</title>
+      <end_time_offset>2527000</end_time_offset>
+      <start_time_offset>2266000</start_time_offset>
+    </item>
+    <item index="8">
+      <title>Taking Her for a Spin</title>
+      <end_time_offset>3033000</end_time_offset>
+      <start_time_offset>2527000</start_time_offset>
+    </item>
+    <item index="9">
+      <title>Attracting Attention</title>
+      <end_time_offset>3360000</end_time_offset>
+      <start_time_offset>3033000</start_time_offset>
+    </item>
+    <item index="10">
+      <title>Hot Pursuit</title>
+      <end_time_offset>3909000</end_time_offset>
+      <start_time_offset>3360000</start_time_offset>
+    </item>
+    <item index="11">
+      <title>Getting the Invite</title>
+      <end_time_offset>4329000</end_time_offset>
+      <start_time_offset>3909000</start_time_offset>
+    </item>
+    <item index="12">
+      <title>Inconvenience Store</title>
+      <end_time_offset>4701000</end_time_offset>
+      <start_time_offset>4329000</start_time_offset>
+    </item>
+    <item index="13">
+      <title>Her Turn Behind the Wheel</title>
+      <end_time_offset>5107000</end_time_offset>
+      <start_time_offset>4701000</start_time_offset>
+    </item>
+    <item index="14">
+      <title>Higher Stakes</title>
+      <end_time_offset>5575000</end_time_offset>
+      <start_time_offset>5107000</start_time_offset>
+    </item>
+    <item index="15">
+      <title>Anita</title>
+      <end_time_offset>5798000</end_time_offset>
+      <start_time_offset>5575000</start_time_offset>
+    </item>
+    <item index="16">
+      <title>Hospital Visit</title>
+      <end_time_offset>5989000</end_time_offset>
+      <start_time_offset>5798000</start_time_offset>
+    </item>
+    <item index="17">
+      <title>De Leon</title>
+      <end_time_offset>6587000</end_time_offset>
+      <start_time_offset>5989000</start_time_offset>
+    </item>
+    <item index="18">
+      <title>The Final Three</title>
+      <end_time_offset>6941000</end_time_offset>
+      <start_time_offset>6587000</start_time_offset>
+    </item>
+    <item index="19">
+      <title>The Finish Line</title>
+      <end_time_offset>7342000</end_time_offset>
+      <start_time_offset>6941000</start_time_offset>
+    </item>
+    <item index="20">
+      <title>End Credits</title>
+      <end_time_offset>-1</end_time_offset>
+      <start_time_offset>7342000</start_time_offset>
+    </item>
+  </chapters>
+  <collections/>
+  <content_rating>PG-13</content_rating>
+  <countries>
+    <item index="0">USA</item>
+  </countries>
+  <directors>
+    <item index="0">
+      <photo/>
+      <role/>
+      <name>Scott Waugh</name>
+    </item>
+  </directors>
+  <duration>7920000</duration>
+  <genres>
+    <item index="0">Action</item>
+    <item index="1">Crime</item>
+    <item index="2">Thriller</item>
+  </genres>
+  <originally_available_at>2014-03-13</originally_available_at>
+  <posters>
+    <item external="True" url="http://image.tmdb.org/t/p/original/lN0mP3BNaKirkKl6FJ0yL0wmjSJ.jpg" sort_order="1" provider="com.plexapp.agents.imdb" media="com.plexapp.agents.imdb_4b95b936eee89cbca17ff229dd348ea1ba8d6919"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/48PoBbYFsMYP4gViNtSzwx84mVD.jpg" preview="com.plexapp.agents.imdb_2d1d1cc998cd18a0878abd99e2a1e561f4a3b5d2" sort_order="2" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/4zN1xwWBdFkhM4egWVIPtFoPRWT.jpg" preview="com.plexapp.agents.imdb_5e9aac2bf3596c932dcc3e2a5ee7156e19d801a6" sort_order="3" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/bfTMWckSogSr6Gd4s6bYqY7zepP.jpg" preview="com.plexapp.agents.imdb_fa1b90d356bda5f936c433b3cff2e38c55be9534" sort_order="4" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/vNPoSdnbLGYTOPnfB8edGBEU3eR.jpg" preview="com.plexapp.agents.imdb_14d3ccfd57ea92c8b5cfd6dc283651103a305985" sort_order="5" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/x7NVffhxdXqB6QW8xJvWnk5nrSz.jpg" preview="com.plexapp.agents.imdb_50722c52b23868e348a6ee0aeec045d1fc2fa233" sort_order="6" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/qfEaCXUcxzEL8yUIqnanRbfsy6k.jpg" preview="com.plexapp.agents.imdb_a0afa96ee9f98a423b4a4275ec789b1398ac1094" sort_order="7" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/wuNkLqVd5AKwQ0g9BcJoKCmBW5J.jpg" preview="com.plexapp.agents.imdb_85968922fe2cede5f75ad3e4e1d64eb65c3d6221" sort_order="8" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/mZxDbWux9C8VwUsHGBF7grmgDwi.jpg" preview="com.plexapp.agents.imdb_b033324d0c3eb964912a61c207a41d15712cff40" sort_order="9" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/tpNgxLQ5PPBxdiWhJTZGmP4n44k.jpg" preview="com.plexapp.agents.imdb_f7ab9d7aa2ea844b3aa90c0190884ff200c61ac8" sort_order="10" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/6ctfJRYuOaF2FDQY5h0ayTO1GWN.jpg" preview="com.plexapp.agents.imdb_deb55b11e30f3f3d727ba5cfc8def0fa90cb4a89" sort_order="11" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/l4LFxKPPB1KLk2ABzRChLBUrnuC.jpg" preview="com.plexapp.agents.imdb_5016d06c5436b3c0bdcd444e3e5a8a3bbc687fc3" sort_order="12" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/n2uDmFdG6DPBSoSyaB2kCcNK0oS.jpg" preview="com.plexapp.agents.imdb_0f40ec886cc5ebbf021fe6b3386f64fe58f3668b" sort_order="13" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/mmOYT1Za3PVeeT4sSJqE7Oe6DJO.jpg" preview="com.plexapp.agents.imdb_1bd2755aae67967f8ac7329b94042e2948d009d2" sort_order="14" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/s8L8GRi1AiD2zMYVCeeOBWHybWx.jpg" preview="com.plexapp.agents.imdb_b59d415805fd079df6dcfd0ff5261039bdf59012" sort_order="15" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/mgBmeNJL8KXi2Rqy9shnNxmZM4.jpg" preview="com.plexapp.agents.imdb_41556a8e95f1b48758fb984f398fd17ed6774d33" sort_order="16" provider="com.plexapp.agents.imdb"/>
+  </posters>
+  <producers>
+    <item index="0">
+      <photo>http://image.tmdb.org/t/p/original/A2MqnSKVzOuBf8MVfNyve2h2LxJ.jpg</photo>
+      <role/>
+      <name>John Gatins</name>
+    </item>
+    <item index="1">
+      <photo/>
+      <role/>
+      <name>Mark Sourian</name>
+    </item>
+    <item index="2">
+      <photo/>
+      <role/>
+      <name>Patrick O’Brien</name>
+    </item>
+  </producers>
+  <rating>6.5</rating>
+  <rating_image>imdb://image.rating</rating_image>
+  <audience_rating>0.0</audience_rating>
+  <audience_rating_image/>
+  <reviews/>
+  <roles>
+    <item index="0">
+      <photo>http://image.tmdb.org/t/p/original/pAa8H7DjgXENBhyvJy0hVLKvVT6.jpg</photo>
+      <role>Tobey Marshall</role>
+      <name>Aaron Paul</name>
+    </item>
+    <item index="1">
+      <photo>http://image.tmdb.org/t/p/original/z4eKEtwZXVespbZCS2qjYZaztyv.jpg</photo>
+      <role>Dino Brewster</role>
+      <name>Dominic Cooper</name>
+    </item>
+    <item index="2">
+      <photo>http://image.tmdb.org/t/p/original/gBzx7UjZ3dtR6Qdko7uIjKrnsz2.jpg</photo>
+      <role>Julia Maddon</role>
+      <name>Imogen Poots</name>
+    </item>
+    <item index="3">
+      <photo>http://image.tmdb.org/t/p/original/zvBCjFmedqXRqa45jlLf6vBd9Nt.jpg</photo>
+      <role>Finn</role>
+      <name>Rami Malek</name>
+    </item>
+    <item index="4">
+      <photo>http://image.tmdb.org/t/p/original/kTcrgiUouxJyqKNVngNCXT87Jgp.jpg</photo>
+      <role>Joe Peck</role>
+      <name>Ramón Rodríguez</name>
+    </item>
+    <item index="5">
+      <photo>http://image.tmdb.org/t/p/original/4Dn0yyZxzO4NBYOxLN6oJ3pKpg.jpg</photo>
+      <role>Little Pete Coleman</role>
+      <name>Harrison Gilbertson</name>
+    </item>
+    <item index="6">
+      <photo>http://image.tmdb.org/t/p/original/dKMg1vpCGqIz6QP4ZsK70TdRURR.jpg</photo>
+      <role>Anita Coleman</role>
+      <name>Dakota Johnson</name>
+    </item>
+    <item index="7">
+      <photo>http://image.tmdb.org/t/p/original/myVdrYNGTgqunLfUSaM8DuVD7DL.jpg</photo>
+      <role>Monarch Maddon</role>
+      <name>Michael Keaton</name>
+    </item>
+    <item index="8">
+      <photo>http://image.tmdb.org/t/p/original/431ip65azwGdciT8CdMKzezCFv3.jpg</photo>
+      <role>Benny Jackson</role>
+      <name>Scott Mescudi</name>
+    </item>
+    <item index="9">
+      <photo>http://image.tmdb.org/t/p/original/AtTbDuBT00cGbHoEEtylNp547vj.jpg</photo>
+      <role>Leigh Dennis</role>
+      <name>Sir Maejor</name>
+    </item>
+    <item index="10">
+      <photo>http://image.tmdb.org/t/p/original/yms4gxPdLzLwBO2nkuSWzI6TyCz.jpg</photo>
+      <role>Jeny B</role>
+      <name>Carmela Zumbado</name>
+    </item>
+    <item index="11">
+      <photo>http://image.tmdb.org/t/p/original/vRSPZxACDnLrLkol01kWMiAxCeU.jpg</photo>
+      <role>Officer Lejeune</role>
+      <name>Nick Chinlund</name>
+    </item>
+    <item index="12">
+      <photo>http://image.tmdb.org/t/p/original/zK0AvDFFqPcAjEx1vY3UPF2pvV0.jpg</photo>
+      <role>San Fran Girl</role>
+      <name>Libby Blanton</name>
+    </item>
+    <item index="13">
+      <photo>http://image.tmdb.org/t/p/original/v5rTkYCYi6rxv1DAdzGDCBJZfIL.jpg</photo>
+      <role>Investor's Wife</role>
+      <name>Beth Waugh</name>
+    </item>
+    <item index="14">
+      <photo>http://image.tmdb.org/t/p/original/zxVFWG8TIgqV01nL90mfucX83nQ.jpg</photo>
+      <role>Investor</role>
+      <name>Michael Rose</name>
+    </item>
+    <item index="15">
+      <photo>http://image.tmdb.org/t/p/original/yNeZnnkO7aux7uKRM7AoOxX3mbG.jpg</photo>
+      <role>News Producer</role>
+      <name>Han Soto</name>
+    </item>
+    <item index="16">
+      <photo>http://image.tmdb.org/t/p/original/2NG5BmVpxr6mRexZJwU047XzHXb.jpg</photo>
+      <role>Bill Ingram</role>
+      <name>Stevie Ray Dallimore</name>
+    </item>
+    <item index="17">
+      <photo/>
+      <role>Flyin' Hawaiian</role>
+      <name>Alan Pflueger</name>
+    </item>
+    <item index="18">
+      <photo/>
+      <role>Right Seater</role>
+      <name>Brian L. Keaulana</name>
+    </item>
+    <item index="19">
+      <photo/>
+      <role>'DJ' Joseph</role>
+      <name>Logan Holladay</name>
+    </item>
+    <item index="20">
+      <photo/>
+      <role>Jimmy MacIntosh</role>
+      <name>Jalil Jay Lynch</name>
+    </item>
+    <item index="21">
+      <photo>http://image.tmdb.org/t/p/original/ooczOXwYhY6WRampNqYDIM6ecoT.jpg</photo>
+      <role>Detective #1</role>
+      <name>E. Roger Mitchell</name>
+    </item>
+    <item index="22">
+      <photo>http://image.tmdb.org/t/p/original/2Zyedc6NhCmRIIgf7INEf7Gqq7i.jpg</photo>
+      <role>Detective #2</role>
+      <name>Antoni Corone</name>
+    </item>
+    <item index="23">
+      <photo>http://image.tmdb.org/t/p/original/tET4SUUkVrHEVDejTy6Cs2Xgfao.jpg</photo>
+      <role>Preacher</role>
+      <name>Charles Black</name>
+    </item>
+    <item index="24">
+      <photo>http://image.tmdb.org/t/p/original/hEUxt0xDXUmxjjtbVy6BxGrCzGY.jpg</photo>
+      <role>Female EMT</role>
+      <name>Adora Dei</name>
+    </item>
+    <item index="25">
+      <photo>http://image.tmdb.org/t/p/original/1m6udxIA9mewLRgjUOv81mwSjty.jpg</photo>
+      <role>Big Al</role>
+      <name>Chad Randall</name>
+    </item>
+    <item index="26">
+      <photo>http://image.tmdb.org/t/p/original/gTgymZkBBvwI7wnsoPTWC28gzLU.jpg</photo>
+      <role>Detroit Cop</role>
+      <name>Buddy Joe Hooker</name>
+    </item>
+    <item index="27">
+      <photo>http://image.tmdb.org/t/p/original/d4G3AymCfoV2YWlYXGcvVanZCcB.jpg</photo>
+      <role>English Paul</role>
+      <name>Rich Rutherford</name>
+    </item>
+    <item index="28">
+      <photo/>
+      <role>The Gooch</role>
+      <name>Tony Brakohiapa</name>
+    </item>
+    <item index="29">
+      <photo>http://image.tmdb.org/t/p/original/n6Pd8kYMjd2i31AT9iAPNuiP6mv.jpg</photo>
+      <role>Texas Mike</role>
+      <name>Brent Fletcher</name>
+    </item>
+    <item index="30">
+      <photo>http://image.tmdb.org/t/p/original/rfLkU41URSKGQNseJ0ZKxGyxtP3.jpg</photo>
+      <role>Johnny V</role>
+      <name>Paul Dallenbach</name>
+    </item>
+    <item index="31">
+      <photo>http://image.tmdb.org/t/p/original/iz3NJyB7F3SkxMk9zzm00V1Ri6E.jpg</photo>
+      <role>CHP</role>
+      <name>Kanin Howell</name>
+    </item>
+    <item index="32">
+      <photo>http://image.tmdb.org/t/p/original/A1Z23UqiwBxX66iJTB4q9xjnG5P.jpg</photo>
+      <role>60 Year Old Man</role>
+      <name>Frank Brennan</name>
+    </item>
+    <item index="33">
+      <photo/>
+      <role>News Anchor</role>
+      <name>Tara Jones</name>
+    </item>
+    <item index="34">
+      <photo>http://image.tmdb.org/t/p/original/9GQ30ddvRU6UVEUDBvwTzKHLQcb.jpg</photo>
+      <role>Older Smaller Woman</role>
+      <name>Jill Jane Clements</name>
+    </item>
+    <item index="35">
+      <photo>http://image.tmdb.org/t/p/original/dGYvkpW5zeW1KcehKwihgI92ELv.jpg</photo>
+      <role>CHP Pilot</role>
+      <name>Rick Shuster</name>
+    </item>
+    <item index="36">
+      <photo/>
+      <role>Teenage Waitress</role>
+      <name>Kerry Gatins</name>
+    </item>
+    <item index="37">
+      <photo/>
+      <role>Detroit Cop</role>
+      <name>Tierre Turner</name>
+    </item>
+    <item index="38">
+      <photo/>
+      <role>CHP</role>
+      <name>Michael C. Smith</name>
+    </item>
+    <item index="39">
+      <photo/>
+      <role>CHP</role>
+      <name>Tim Gilbert</name>
+    </item>
+    <item index="40">
+      <photo>http://image.tmdb.org/t/p/original/or2VaK0aw1UtlCHQeqrva4w8E8N.jpg</photo>
+      <role>CHP</role>
+      <name>Mike Massa</name>
+    </item>
+    <item index="41">
+      <photo>http://image.tmdb.org/t/p/original/kP7rVXlfnKQF9YHEoTJonYiHsBm.jpg</photo>
+      <role>CHP</role>
+      <name>John Meier</name>
+    </item>
+    <item index="42">
+      <photo>http://image.tmdb.org/t/p/original/ffDrcpKGvjPgpcjd0t9T6EtQ2hz.jpg</photo>
+      <role>Valet</role>
+      <name>Thomas Rosales, Jr.</name>
+    </item>
+    <item index="43">
+      <photo/>
+      <role>Jacki</role>
+      <name>Jacki Hill</name>
+    </item>
+    <item index="44">
+      <photo/>
+      <role>Girl at the Bar</role>
+      <name>Chloe Warren</name>
+    </item>
+    <item index="45">
+      <photo/>
+      <role>Drive-In Fan</role>
+      <name>Chelsea Small</name>
+    </item>
+  </roles>
+  <similar>
+    <item index="0">The Expendables 3</item>
+    <item index="1">Jack Ryan: Shadow Recruit</item>
+    <item index="2">RoboCop</item>
+    <item index="3">Non-Stop</item>
+    <item index="4">Brick Mansions</item>
+    <item index="5">2 Guns</item>
+    <item index="6">Homefront</item>
+    <item index="7">Hercules</item>
+    <item index="8">Sabotage</item>
+    <item index="9">Transformers: Age of Extinction</item>
+    <item index="10">Pain &amp; Gain</item>
+    <item index="11">Escape Plan</item>
+    <item index="12">Ride Along</item>
+    <item index="13">R.I.P.D.</item>
+    <item index="14">300: Rise of an Empire</item>
+    <item index="15">3 Days to Kill</item>
+    <item index="16">Fast Five</item>
+    <item index="17">Lone Survivor</item>
+    <item index="18">I, Frankenstein</item>
+    <item index="19">White House Down</item>
+  </similar>
+  <studio>DreamWorks</studio>
+  <summary>The film revolves around a local street-racer who partners with a rich and arrogant business associate, only to find himself framed by his colleague and sent to prison. After he gets out, he joins a New York-to-Los Angeles race to get revenge. But when the ex-partner learns of the scheme, he puts a massive bounty on the racer's head, forcing him to run a cross-country gauntlet of illegal racers in all manner of supercharged vehicles.</summary>
+  <tagline>For honor. For love. For redemption.</tagline>
+  <tags/>
+  <themes/>
+  <title>Need for Speed</title>
+  <writers>
+    <item index="0">
+      <photo/>
+      <role/>
+      <name>George Gatins</name>
+    </item>
+  </writers>
+  <year>2014</year>
+</Movie>

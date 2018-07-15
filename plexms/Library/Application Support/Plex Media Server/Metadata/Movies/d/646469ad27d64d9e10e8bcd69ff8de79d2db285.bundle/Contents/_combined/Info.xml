@@ -1,0 +1,440 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Movie>
+  <art>
+    <item external="True" url="http://image.tmdb.org/t/p/original/oOho0YnKZtDUEX5B7nMxsGllELY.jpg" sort_order="1" provider="com.plexapp.agents.imdb" media="com.plexapp.agents.imdb_2985a625f497032282bbfbee3beeff0395489757"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/tTx6iQBzbfIRGGEMjreqjzgTS5q.jpg" preview="com.plexapp.agents.imdb_c79316e21f58036f42cc1aed1675a90ae8a260f2" sort_order="2" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/h3t4zZPteUPqyDBrmz5Z2zzGM61.jpg" preview="com.plexapp.agents.imdb_da0501b3e0f28860be07bbcdd37a7042d6990c6c" sort_order="3" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/6JRbFATfcpXuo4QqFHPlOi38TFJ.jpg" preview="com.plexapp.agents.imdb_3f8eb08ce94caf9f7478ca70db3dff5466477191" sort_order="4" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/bs1A91xtn1ccYFjI1hld7ZkFjd2.jpg" preview="com.plexapp.agents.imdb_8e079f55a58327ebad776ce1c984e58989bce5df" sort_order="5" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/bU8YiNdxmL6I7ZSOishJVFQmleK.jpg" preview="com.plexapp.agents.imdb_7a441fe3d5aefe928735a32fa9ae4630ae443307" sort_order="6" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/wsCeL2p1LNo9buGKlC9EPbytm0e.jpg" preview="com.plexapp.agents.imdb_8b05dab59cee66cb18bc9180459ce8aa27dd987c" sort_order="7" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/m2wZTVy2qOMlcZsIxJrkosst95O.jpg" preview="com.plexapp.agents.imdb_06987c0969c6c845eea930d495fd8e05b2b2d37e" sort_order="8" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/zqarkahQJ06IPuZKaE5QdK8N3G6.jpg" preview="com.plexapp.agents.imdb_e24a2e4ec1c2660ced3e944afba2dfaa49343039" sort_order="9" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/1vcXVRRfj9ouJrKjkkH0VrWOJIG.jpg" preview="com.plexapp.agents.imdb_8ef214a8ff951a5ee4d9c314f5f9fc30c3fdc1b5" sort_order="10" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/irRKMjqHFgMsv9x1VpBs5FtDyn8.jpg" preview="com.plexapp.agents.imdb_5ef5e9de03f5d70badb99890a3e0ccd2e317d893" sort_order="11" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/igEWmaHoCn3mJDdZZGI81ozhUvh.jpg" preview="com.plexapp.agents.imdb_42759334d485a2b30e043c49b88a37e0545b984e" sort_order="12" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/isy8sYeyK91hFgVX1NMUSgHQu89.jpg" preview="com.plexapp.agents.imdb_8896dc8ae5aadd30c288e27070edb55e10a9c5d7" sort_order="13" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/xFevcLsQoaSmrcAFxS5QcRV6OfN.jpg" preview="com.plexapp.agents.imdb_e85ee3c110fcb9ebc6424ba76f8974bc563f835c" sort_order="14" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/pAJNYRqjEOkqWALfiUkc08W5KfV.jpg" preview="com.plexapp.agents.imdb_d8f5e93da4c1c67accb8d9f1eed6a59462e5f448" sort_order="15" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/eYQygKjq8QBcvU5vo4RNPDAXjX1.jpg" preview="com.plexapp.agents.imdb_a67dcaa0451b6e3a6557cc5eb49a722e8082f980" sort_order="16" provider="com.plexapp.agents.imdb"/>
+  </art>
+  <banners/>
+  <chapters>
+    <item index="0">
+      <title>Chapter 1</title>
+      <end_time_offset>346000</end_time_offset>
+      <start_time_offset>0</start_time_offset>
+    </item>
+    <item index="1">
+      <title>Chapter 2</title>
+      <end_time_offset>557000</end_time_offset>
+      <start_time_offset>346000</start_time_offset>
+    </item>
+    <item index="2">
+      <title>Chapter 3</title>
+      <end_time_offset>789000</end_time_offset>
+      <start_time_offset>557000</start_time_offset>
+    </item>
+    <item index="3">
+      <title>Chapter 4</title>
+      <end_time_offset>1168000</end_time_offset>
+      <start_time_offset>789000</start_time_offset>
+    </item>
+    <item index="4">
+      <title>Chapter 5</title>
+      <end_time_offset>1361000</end_time_offset>
+      <start_time_offset>1168000</start_time_offset>
+    </item>
+    <item index="5">
+      <title>Chapter 6</title>
+      <end_time_offset>1803000</end_time_offset>
+      <start_time_offset>1361000</start_time_offset>
+    </item>
+    <item index="6">
+      <title>Chapter 7</title>
+      <end_time_offset>2170000</end_time_offset>
+      <start_time_offset>1803000</start_time_offset>
+    </item>
+    <item index="7">
+      <title>Chapter 8</title>
+      <end_time_offset>2398000</end_time_offset>
+      <start_time_offset>2170000</start_time_offset>
+    </item>
+    <item index="8">
+      <title>Chapter 9</title>
+      <end_time_offset>2751000</end_time_offset>
+      <start_time_offset>2398000</start_time_offset>
+    </item>
+    <item index="9">
+      <title>Chapter 10</title>
+      <end_time_offset>3079000</end_time_offset>
+      <start_time_offset>2751000</start_time_offset>
+    </item>
+    <item index="10">
+      <title>Chapter 11</title>
+      <end_time_offset>3411000</end_time_offset>
+      <start_time_offset>3079000</start_time_offset>
+    </item>
+    <item index="11">
+      <title>Chapter 12</title>
+      <end_time_offset>3838000</end_time_offset>
+      <start_time_offset>3411000</start_time_offset>
+    </item>
+    <item index="12">
+      <title>Chapter 13</title>
+      <end_time_offset>4108000</end_time_offset>
+      <start_time_offset>3838000</start_time_offset>
+    </item>
+    <item index="13">
+      <title>Chapter 14</title>
+      <end_time_offset>4405000</end_time_offset>
+      <start_time_offset>4108000</start_time_offset>
+    </item>
+    <item index="14">
+      <title>Chapter 15</title>
+      <end_time_offset>4711000</end_time_offset>
+      <start_time_offset>4405000</start_time_offset>
+    </item>
+    <item index="15">
+      <title>Chapter 16</title>
+      <end_time_offset>-1</end_time_offset>
+      <start_time_offset>4711000</start_time_offset>
+    </item>
+  </chapters>
+  <collections/>
+  <content_rating>PG</content_rating>
+  <countries>
+    <item index="0">USA</item>
+  </countries>
+  <directors>
+    <item index="0">
+      <photo>http://image.tmdb.org/t/p/original/eCpab8efUcvaYQXMRbsgau7fAr5.jpg</photo>
+      <role/>
+      <name>Genndy Tartakovsky</name>
+    </item>
+  </directors>
+  <duration>5340000</duration>
+  <genres>
+    <item index="0">Animation</item>
+    <item index="1">Comedy</item>
+    <item index="2">Family</item>
+    <item index="3">Fantasy</item>
+    <item index="4">Horror</item>
+  </genres>
+  <originally_available_at>2015-09-21</originally_available_at>
+  <posters>
+    <item external="True" url="http://image.tmdb.org/t/p/original/t4PLWexbe4wbNydCOBv18cYexup.jpg" sort_order="1" provider="com.plexapp.agents.imdb" media="com.plexapp.agents.imdb_e92b14b6342b01fb75de7a87d9f0f0b924bc0e3e"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/5BGjNYVHWynVNIbo3eF6XhPeB1J.jpg" preview="com.plexapp.agents.imdb_36387b9213511a0dec9554d0e2b32ac532f0fbb3" sort_order="2" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/cFQHMUmxaO3PEDo5lxuQC8MCRIH.jpg" preview="com.plexapp.agents.imdb_2af094c1f3bdb3baee54aa0200033207ca610818" sort_order="3" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/hm7Qq0K5gfII1KXjnYFBE38LErs.jpg" preview="com.plexapp.agents.imdb_9fdda2e26b2618cfc04c18c13b95348351d2bcd6" sort_order="4" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/zlZb96lbBg2TCkPTxTApjxUwHTS.jpg" preview="com.plexapp.agents.imdb_da158e9752432dee3923e17110bbad9effbc0558" sort_order="5" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/oBW6CJQepfNOUxhwrHgKfe0n4ww.jpg" preview="com.plexapp.agents.imdb_02e6e35cf4da2eada9294d9a86e7ebf6ee784bfa" sort_order="6" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/syPeBYcEe0IwQ9LNFumHfXlO6lm.jpg" preview="com.plexapp.agents.imdb_e5ba187fbef1ae8fb6c9ff0951c45fad64a0b732" sort_order="7" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/2bPe9LQymQOc84OLejizKO4O10J.jpg" preview="com.plexapp.agents.imdb_b0435469ead9509ca817ca2ceb07020c5f6805ad" sort_order="8" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/pUUZeFa1X8FFPA82fVxcANe7gf4.jpg" preview="com.plexapp.agents.imdb_15e91129231c27773fdac0733e924cf9297652a4" sort_order="9" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/aYXPOwqLQSt8tD9lEI3Uxy8wBbe.jpg" preview="com.plexapp.agents.imdb_d5d41eaf8bcf1c196213f0b91a88253abb5d0e83" sort_order="10" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/1oJLNkNXSHTvxGPUQcw0h2XD1L6.jpg" preview="com.plexapp.agents.imdb_46102484f1d4ba570e3387f37b7ab336a4227ac9" sort_order="11" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/SgUUuZiBgSLF6rsY5szm5d2ufn.jpg" preview="com.plexapp.agents.imdb_95c948a776209319b0cf2728fc0be056caf435a6" sort_order="12" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/9TDRkIrU8386Cc9du4jTxu9fs2P.jpg" preview="com.plexapp.agents.imdb_f93ebaf2842c73a61082fdc3fc374e6c48d9931a" sort_order="13" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/g90slb5rzrCuwyWuN9qoqtESLD6.jpg" preview="com.plexapp.agents.imdb_f2c87374add733d376917b6d91bd9149bc6318f9" sort_order="14" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/62QRXAeWXmT8hBqksw4bCMWZqy1.jpg" preview="com.plexapp.agents.imdb_c7b07ca9b5d68967130c0c77df5a300b774e523a" sort_order="15" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/zUAoq9uEkYKooS7J8sv56rXeYyK.jpg" preview="com.plexapp.agents.imdb_9d25a406ac8206eca7535db9af2f46a172f86ff4" sort_order="16" provider="com.plexapp.agents.imdb"/>
+  </posters>
+  <producers>
+    <item index="0">
+      <photo>http://image.tmdb.org/t/p/original/fBJaWXCzwnzrdZx6PkFiwhEClSh.jpg</photo>
+      <role/>
+      <name>Robert Smigel</name>
+    </item>
+  </producers>
+  <rating>5.5</rating>
+  <rating_image>rottentomatoes://image.rating.rotten</rating_image>
+  <audience_rating>6.4</audience_rating>
+  <audience_rating_image>rottentomatoes://image.rating.spilled</audience_rating_image>
+  <reviews>
+    <item index="0">
+      <text>"Hotel Transylvania 2" is an unfortunate throwback to about 20 years ago, when animated movies were more widely accepted as cinematic babysitters.</text>
+      <source>San Francisco Chronicle</source>
+      <image>rottentomatoes://image.review.rotten</image>
+      <link>http://www.sfgate.com/movies/article/Transylvania-2-script-never-rises-from-the-6525391.php</link>
+      <author>Peter Hartlaub</author>
+    </item>
+    <item index="1">
+      <text>Hotel Transylvania 2 is the greatest movie Adam Sandler and Kevin James have ever made together. I believe this is called "damning with faint praise."</text>
+      <source>ChristyLemire.com</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>http://christylemire.com/hotel-transylvania-2/</link>
+      <author>Christy Lemire</author>
+    </item>
+    <item index="2">
+      <text>So much attention has been paid to crafting a relentless string of in-jokes meant for ancient horror fans that the storyline limps from tired blood.</text>
+      <source>Time Out</source>
+      <image>rottentomatoes://image.review.rotten</image>
+      <link>http://www.timeout.com/us/film/hotel-transylvania-2-2015</link>
+      <author>Joshua Rothkopf</author>
+    </item>
+    <item index="3">
+      <text>Yes, every joke in the film is low-hanging fruit, but not a single one is left unpicked.</text>
+      <source>New York Magazine/Vulture</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>http://www.vulture.com/2015/09/hotel-transylvania-2-is-minor-but-pleasant.html</link>
+      <author>Bilge Ebiri</author>
+    </item>
+    <item index="4">
+      <text>The onslaught [of gags] isn't painful, but neither does it do much to distract from the ho-hum story.</text>
+      <source>San Diego Reader</source>
+      <image>rottentomatoes://image.review.rotten</image>
+      <link>http://www.sandiegoreader.com/movies/hotel-transylvania-2/</link>
+      <author>Matthew Lickona</author>
+    </item>
+    <item index="5">
+      <text>This subpar sequel barely comes close to being as amusing as any run-of-the-mill "Munsters" TV episode.</text>
+      <source>RogerEbert.com</source>
+      <image>rottentomatoes://image.review.rotten</image>
+      <link>http://www.rogerebert.com/reviews/hotel-transylvania-2-2015</link>
+      <author>Susan Wloszczyna</author>
+    </item>
+    <item index="6">
+      <text>"Be yourself" proves the obvious takeaway from these exploits, this being a children's movie. I'm just not sure the message rang clear among the sounds of the children screaming.</text>
+      <source>Globe and Mail</source>
+      <image>rottentomatoes://image.review.rotten</image>
+      <link>http://www.theglobeandmail.com/arts/film/film-reviews/hotel-transylvania-2-family-film-is-frightening-for-no-reason/article26525808/</link>
+      <author>Calum Marsh</author>
+    </item>
+    <item index="7">
+      <text>The whole thing is amiable and colorful and surprisingly low on body-function gags. It may not kill you to take your kids.</text>
+      <source>New York Times</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>http://www.nytimes.com/2015/09/25/movies/review-in-hotel-transylvania-2-dracula-yearns-for-a-little-monster-of-a-grandson.html?partner=rss&amp;emc=rss</link>
+      <author>Glenn Kenny</author>
+    </item>
+    <item index="8">
+      <text>Genndy Tartakovsky is a talented director who knows how to telegraph what an animated character is thinking and doing and how to move a character in ways that suggest personality. He deserves a more interesting assignment.</text>
+      <source>Los Angeles Times</source>
+      <image>rottentomatoes://image.review.rotten</image>
+      <link>http://www.latimes.com/entertainment/movies/la-et-mn-hotel-transylvania-2-review-20150925-story.html</link>
+      <author>Charles Solomon</author>
+    </item>
+    <item index="9">
+      <text>There's still no shortage of sight gags, but most of them work.</text>
+      <source>Hollywood Reporter</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>http://www.hollywoodreporter.com/movie/hotel-transylvania-2/review/826542</link>
+      <author>Michael Rechtshaffen</author>
+    </item>
+    <item index="10">
+      <text>It's an episodic, energetically animated gag factory from the pen of Adam Sandler, and while it's the best screenplay to bear his name in years, it also warps some overfamiliar family-movie concerns until they become unavoidable in their ickiness.</text>
+      <source>AV Club</source>
+      <image>rottentomatoes://image.review.rotten</image>
+      <link>http://www.avclub.com/review/hotel-transylvania-2-mixes-fun-gags-and-creepy-mes-225593</link>
+      <author>Jesse Hassenger</author>
+    </item>
+    <item index="11">
+      <text>Hotel Transylvania 2 is better than the original. Mind you, this is a low hurdle to clear.</text>
+      <source>Arizona Republic</source>
+      <image>rottentomatoes://image.review.rotten</image>
+      <link>http://www.azcentral.com/story/entertainment/movies/billgoodykoontz/2015/09/24/hotel-transylvania-2-movie-review/72636142/</link>
+      <author>Bill Goodykoontz</author>
+    </item>
+    <item index="12">
+      <text>Tartakovsky hasn't created the sort of sequel that eclipses the original, but then again the original wasn't exactly "Toy Story" or "How to Train Your Dragon."</text>
+      <source>Washington Post</source>
+      <image>rottentomatoes://image.review.rotten</image>
+      <link>http://www.washingtonpost.com/goingoutguide/movies/hotel-transylvania-2-review-sequel-is-just-enough-of-a-halloween-treat/2015/09/23/50a44ee6-6151-11e5-b38e-06883aacba64_story.html</link>
+      <author>Sandie Angulo Chen</author>
+    </item>
+    <item index="13">
+      <text>While the first Hotel Trans had humour for both younger and older audiences, this one will likely fall short in its appeal to adults, although there's plenty for the little monsters to enjoy.</text>
+      <source>Toronto Star</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>http://www.thestar.com/entertainment/movies/2015/09/24/hotel-transylvania-2-has-a-few-new-faces-same-old-gags-review.html</link>
+      <author>Bruce Demara</author>
+    </item>
+    <item index="14">
+      <text>The jokes stink like the Mummy's armpits.</text>
+      <source>New York Post</source>
+      <image>rottentomatoes://image.review.rotten</image>
+      <link>http://nypost.com/2015/09/24/adam-sandler-is-terrible-in-hotel-transylvania-2/</link>
+      <author>Kyle Smith</author>
+    </item>
+    <item index="15">
+      <text>Many of the wisecracks are low-hanging fruit (like jokes about the rampant gentrification of the Transylvanian countryside), but most of them still land ...</text>
+      <source>Entertainment Weekly</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>http://www.ew.com/article/2015/09/24/hotel-transylvania-2-ew-review</link>
+      <author>Devan Coggan</author>
+    </item>
+    <item index="16">
+      <text>Whereas the jokes in the Grown Ups series feel reactionary and bullying, the family-friendly Hotel Transylvania gags instead come off as clever and humane, even when they're making fun of helicopter moms and lawsuit-sensitive summer camps.</text>
+      <source>TheWrap</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>http://www.thewrap.com/hotel-transylvania-2-review-adam-sandler-andy-samberg-selena-gomez/</link>
+      <author>Alonso Duralde</author>
+    </item>
+    <item index="17">
+      <text>Its plot comes across as just a rickety skeleton designed to prop up Sandler and company's litany of cornball punchlines and gags, only a few of which cleverly play off of these characters' iconography</text>
+      <source>Variety</source>
+      <image>rottentomatoes://image.review.rotten</image>
+      <link>http://t.co/a73pcJNzGI</link>
+      <author>Nick Schager</author>
+    </item>
+  </reviews>
+  <roles>
+    <item index="0">
+      <photo>http://image.tmdb.org/t/p/original/tv9V6QsuZ3bcp4ciUJjwjcc4qAg.jpg</photo>
+      <role>Dracula (voice)</role>
+      <name>Adam Sandler</name>
+    </item>
+    <item index="1">
+      <photo>http://image.tmdb.org/t/p/original/gneiMN0OldoxNfmu6dkcBEy0u2k.jpg</photo>
+      <role>Jonathan (voice)</role>
+      <name>Andy Samberg</name>
+    </item>
+    <item index="2">
+      <photo>http://image.tmdb.org/t/p/original/iD7KizfexCV7TlujWbxFI6AJeei.jpg</photo>
+      <role>Mavis (voice)</role>
+      <name>Selena Gomez</name>
+    </item>
+    <item index="3">
+      <photo>http://image.tmdb.org/t/p/original/bve9CJ1xHvyyHSH4LsasG0eEQaW.jpg</photo>
+      <role>Frank / Frankenstein (voice)</role>
+      <name>Kevin James</name>
+    </item>
+    <item index="4">
+      <photo>http://image.tmdb.org/t/p/original/ieDyVKnQHo7eMGu1GOE7YYr2Fk4.jpg</photo>
+      <role>Wayne (voice)</role>
+      <name>Steve Buscemi</name>
+    </item>
+    <item index="5">
+      <photo>http://image.tmdb.org/t/p/original/tamKFAKdB1Q2mllHYHXxqg3YUXr.jpg</photo>
+      <role>Griffin (voice)</role>
+      <name>David Spade</name>
+    </item>
+    <item index="6">
+      <photo>http://image.tmdb.org/t/p/original/gqPRozx8ppAg2TSjW3ww56LnIZr.jpg</photo>
+      <role>Murray (voice)</role>
+      <name>Keegan-Michael Key</name>
+    </item>
+    <item index="7">
+      <photo>http://image.tmdb.org/t/p/original/780sIDWQoAIVVaUbAQex50Vam0V.jpg</photo>
+      <role>Dennis (voice)</role>
+      <name>Asher Blinkoff</name>
+    </item>
+    <item index="8">
+      <photo>http://image.tmdb.org/t/p/original/vQxr8CRgyDkH3GTFLwacs9W9tF4.jpg</photo>
+      <role>Eunice (voice)</role>
+      <name>Fran Drescher</name>
+    </item>
+    <item index="9">
+      <photo>http://image.tmdb.org/t/p/original/11Ade9QKtTSwUeRNH9cVCWoaeQj.jpg</photo>
+      <role>Wanda (voice)</role>
+      <name>Molly Shannon</name>
+    </item>
+    <item index="10">
+      <photo>http://image.tmdb.org/t/p/original/2KEpCVRVafx9tLho5iMyR9WWt3k.jpg</photo>
+      <role>Linda (voice)</role>
+      <name>Megan Mullally</name>
+    </item>
+    <item index="11">
+      <photo>http://image.tmdb.org/t/p/original/mycTNCHzvPY6Alpuw1jzeIjpEX3.jpg</photo>
+      <role>Mike (voice)</role>
+      <name>Nick Offerman</name>
+    </item>
+    <item index="12">
+      <photo>http://image.tmdb.org/t/p/original/1SyPT9N3J3NAycz89JmSmPd2xZ7.jpg</photo>
+      <role>Dana (voice)</role>
+      <name>Dana Carvey</name>
+    </item>
+    <item index="13">
+      <photo>http://image.tmdb.org/t/p/original/tWh7aVLl82jxX6U0f7tRTN7Sw3S.jpg</photo>
+      <role>Bela (voice)</role>
+      <name>Rob Riggle</name>
+    </item>
+    <item index="14">
+      <photo>http://image.tmdb.org/t/p/original/ndFo3LOYNCUghQTK833N1Wtuynr.jpg</photo>
+      <role>Vlad (voice)</role>
+      <name>Mel Brooks</name>
+    </item>
+    <item index="15">
+      <photo/>
+      <role>Blobby (voice)</role>
+      <name>Jonny Solomon</name>
+    </item>
+    <item index="16">
+      <photo>http://image.tmdb.org/t/p/original/kTmr5DuGMoXPFH0FcXxUqQKhpgA.jpg</photo>
+      <role>Kakie (voice)</role>
+      <name>Chris Kattan</name>
+    </item>
+    <item index="17">
+      <photo>http://image.tmdb.org/t/p/original/s2bN6d7KZ9VSLVgxHA1WsMdDt13.jpg</photo>
+      <role>Winnie (voice)</role>
+      <name>Sadie Sandler</name>
+    </item>
+    <item index="18">
+      <photo>http://image.tmdb.org/t/p/original/ne1azdUoRsZnCmiNu4Xh1QcpdCN.jpg</photo>
+      <role>Baby Dennis (voice)</role>
+      <name>Sunny Sandler</name>
+    </item>
+    <item index="19">
+      <photo>http://image.tmdb.org/t/p/original/3Sw3X69m19FHSiSpv9cs4doBBfI.jpg</photo>
+      <role>The Phantom of the Opera (voice)</role>
+      <name>Jon Lovitz</name>
+    </item>
+    <item index="20">
+      <photo>http://image.tmdb.org/t/p/original/fBJaWXCzwnzrdZx6PkFiwhEClSh.jpg</photo>
+      <role>Marty (voice)</role>
+      <name>Robert Smigel</name>
+    </item>
+    <item index="21">
+      <photo>http://image.tmdb.org/t/p/original/kIK6BDTgMmNSAncCgZ7XQhFo5oZ.jpg</photo>
+      <role>Additional Voices (voice)</role>
+      <name>Ava Acres</name>
+    </item>
+    <item index="22">
+      <photo>http://image.tmdb.org/t/p/original/slIU7qRDnpuB0OZXIGBDKeYvAu1.jpg</photo>
+      <role>Additional Voices (voice)</role>
+      <name>Cole Sand</name>
+    </item>
+  </roles>
+  <similar>
+    <item index="0">Hotel Transylvania</item>
+    <item index="1">Home</item>
+    <item index="2">Kung Fu Panda 3</item>
+    <item index="3">Cloudy with a Chance of Meatballs 2</item>
+    <item index="4">The Good Dinosaur</item>
+    <item index="5">Rio 2</item>
+    <item index="6">Penguins of Madagascar</item>
+    <item index="7">Goosebumps</item>
+    <item index="8">The Angry Birds Movie</item>
+    <item index="9">Madagascar 3: Europe's Most Wanted</item>
+    <item index="10">Megamind</item>
+    <item index="11">Ice Age: Collision Course</item>
+    <item index="12">Cloudy with a Chance of Meatballs</item>
+    <item index="13">The Croods</item>
+    <item index="14">Madagascar: Escape 2 Africa</item>
+    <item index="15">Rise of the Guardians</item>
+    <item index="16">Night at the Museum: Secret of the Tomb</item>
+    <item index="17">Kung Fu Panda 2</item>
+    <item index="18">The Princess and the Frog</item>
+    <item index="19">Mr. Peabody &amp; Sherman</item>
+  </similar>
+  <studio>Columbia Pictures</studio>
+  <summary>When the old-old-old-fashioned vampire Vlad arrives at the hotel for an impromptu family get-together, Hotel Transylvania is in for a collision of supernatural old-school and modern day cool.</summary>
+  <tagline>They're back to raise a little terror</tagline>
+  <tags/>
+  <themes/>
+  <title>Hotel Transylvania 2</title>
+  <writers>
+    <item index="0">
+      <photo/>
+      <role/>
+      <name>Dan Hageman</name>
+    </item>
+    <item index="1">
+      <photo/>
+      <role/>
+      <name>Kevin Hageman</name>
+    </item>
+  </writers>
+  <year>2015</year>
+</Movie>

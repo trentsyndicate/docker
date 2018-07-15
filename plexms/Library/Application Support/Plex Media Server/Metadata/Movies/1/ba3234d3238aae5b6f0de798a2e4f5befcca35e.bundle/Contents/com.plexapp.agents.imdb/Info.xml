@@ -1,0 +1,470 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Movie id="tt0070909">
+  <rating>8.6</rating>
+  <title_sort/>
+  <art>
+    <item external="True" url="http://image.tmdb.org/t/p/original/sZtVYpulooHSN7doa7FCq3O3s6p.jpg" preview="c41414947ecdbac18de3206467040c09f9e69135" sort_order="1"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/ut1svoui5yDO58PoSV7BC00udpj.jpg" preview="034e89a67e3ece751ffd8439eb5937ada2a85980" sort_order="2"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/ainRUPKHuKy3g3T1twmNL8l0qvv.jpg" preview="6e9894b3d26aa0f38e7a57b860f3981004f61f1d" sort_order="3"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/70WW8rzyaCuIrlzWrf0s5RJui4Z.jpg" preview="f45a6c496a858f22e3f36b2358abfd8ed10b65d9" sort_order="4"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/3WuzRK4gdQyjm3ZHBexI4inSWYB.jpg" preview="0805486045d48c309d15b0cac81d5d33aa0c7264" sort_order="5"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/vxY3cPk1Syyy1VILo84qflyONEu.jpg" preview="a5071e9142c708b7f7742067fb88b91606a42bfc" sort_order="6"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/iMLrw5tDo03TkTUzoIOUV1TAbaB.jpg" preview="e62748f6f3672914566bc88f11a0a2b57be673da" sort_order="7"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/14NVZHi5gwHqDuZESDVjNaTBTuc.jpg" preview="8d300d0142ba0f9b418dbfa151080002c558004d" sort_order="8"/>
+  </art>
+  <writers>
+    <item index="0">
+      <photo>http://image.tmdb.org/t/p/original/lAQ6LYkhdVxa2tDSCOGxQZ3t0wO.jpg</photo>
+      <role/>
+      <name>Michael Crichton</name>
+    </item>
+  </writers>
+  <chapters>
+    <item index="0">
+      <title>Logos/Testimonials</title>
+      <end_time_offset>178000</end_time_offset>
+      <start_time_offset>0</start_time_offset>
+    </item>
+    <item index="1">
+      <title>Title/Orientation</title>
+      <end_time_offset>444000</end_time_offset>
+      <start_time_offset>178000</start_time_offset>
+    </item>
+    <item index="2">
+      <title>In Transit/Suiting Up</title>
+      <end_time_offset>616000</end_time_offset>
+      <start_time_offset>444000</start_time_offset>
+    </item>
+    <item index="3">
+      <title>All teh Amenities</title>
+      <end_time_offset>791000</end_time_offset>
+      <start_time_offset>616000</start_time_offset>
+    </item>
+    <item index="4">
+      <title>The Gunslinger</title>
+      <end_time_offset>1031000</end_time_offset>
+      <start_time_offset>791000</start_time_offset>
+    </item>
+    <item index="5">
+      <title>Pete's 'Move'</title>
+      <end_time_offset>1100000</end_time_offset>
+      <start_time_offset>1031000</start_time_offset>
+    </item>
+    <item index="6">
+      <title>"Try It. Shoot Me."</title>
+      <end_time_offset>1202000</end_time_offset>
+      <start_time_offset>1100000</start_time_offset>
+    </item>
+    <item index="7">
+      <title>At Miss Carrie's</title>
+      <end_time_offset>1573000</end_time_offset>
+      <start_time_offset>1202000</start_time_offset>
+    </item>
+    <item index="8">
+      <title>The Night Shift</title>
+      <end_time_offset>1703000</end_time_offset>
+      <start_time_offset>1573000</start_time_offset>
+    </item>
+    <item index="9">
+      <title>Robot Repair</title>
+      <end_time_offset>1864000</end_time_offset>
+      <start_time_offset>1703000</start_time_offset>
+    </item>
+    <item index="10">
+      <title>The Breakdowns</title>
+      <end_time_offset>1949000</end_time_offset>
+      <start_time_offset>1864000</start_time_offset>
+    </item>
+    <item index="11">
+      <title>Resort Activation</title>
+      <end_time_offset>2093000</end_time_offset>
+      <start_time_offset>1949000</start_time_offset>
+    </item>
+    <item index="12">
+      <title>He's Back</title>
+      <end_time_offset>2219000</end_time_offset>
+      <start_time_offset>2093000</start_time_offset>
+    </item>
+    <item index="13">
+      <title>Jailed...</title>
+      <end_time_offset>2392000</end_time_offset>
+      <start_time_offset>2219000</start_time_offset>
+    </item>
+    <item index="14">
+      <title>...&amp; Bailed</title>
+      <end_time_offset>2543000</end_time_offset>
+      <start_time_offset>2392000</start_time_offset>
+    </item>
+    <item index="15">
+      <title>A Queen's Infidelity</title>
+      <end_time_offset>2660000</end_time_offset>
+      <start_time_offset>2543000</start_time_offset>
+    </item>
+    <item index="16">
+      <title>A New Sheriff</title>
+      <end_time_offset>2730000</end_time_offset>
+      <start_time_offset>2660000</start_time_offset>
+    </item>
+    <item index="17">
+      <title>Robot Rattler</title>
+      <end_time_offset>2933000</end_time_offset>
+      <start_time_offset>2730000</start_time_offset>
+    </item>
+    <item index="18">
+      <title>Revelers &amp; Brawlers</title>
+      <end_time_offset>3146000</end_time_offset>
+      <start_time_offset>2933000</start_time_offset>
+    </item>
+    <item index="19">
+      <title>Adjustments</title>
+      <end_time_offset>3270000</end_time_offset>
+      <start_time_offset>3146000</start_time_offset>
+    </item>
+    <item index="20">
+      <title>Getting Medieval</title>
+      <end_time_offset>3537000</end_time_offset>
+      <start_time_offset>3270000</start_time_offset>
+    </item>
+    <item index="21">
+      <title>"I'm Shot!"</title>
+      <end_time_offset>3740000</end_time_offset>
+      <start_time_offset>3537000</start_time_offset>
+    </item>
+    <item index="22">
+      <title>Cyber-Mayhem</title>
+      <end_time_offset>3819000</end_time_offset>
+      <start_time_offset>3740000</start_time_offset>
+    </item>
+    <item index="23">
+      <title>Pete is Hunted</title>
+      <end_time_offset>4037000</end_time_offset>
+      <start_time_offset>3819000</start_time_offset>
+    </item>
+    <item index="24">
+      <title>"You Haven't a Chance"</title>
+      <end_time_offset>4260000</end_time_offset>
+      <start_time_offset>4037000</start_time_offset>
+    </item>
+    <item index="25">
+      <title>When in Rome, Run!</title>
+      <end_time_offset>4480000</end_time_offset>
+      <start_time_offset>4260000</start_time_offset>
+    </item>
+    <item index="26">
+      <title>Giving an Eyeful</title>
+      <end_time_offset>4665000</end_time_offset>
+      <start_time_offset>4480000</start_time_offset>
+    </item>
+    <item index="27">
+      <title>Assault w/o Battery</title>
+      <end_time_offset>4734000</end_time_offset>
+      <start_time_offset>4665000</start_time_offset>
+    </item>
+    <item index="28">
+      <title>Into the King's Court</title>
+      <end_time_offset>4803000</end_time_offset>
+      <start_time_offset>4734000</start_time_offset>
+    </item>
+    <item index="29">
+      <title>Flamethrowing Him Off</title>
+      <end_time_offset>4988000</end_time_offset>
+      <start_time_offset>4803000</start_time_offset>
+    </item>
+    <item index="30">
+      <title>Ruthless &amp; Faceless</title>
+      <end_time_offset>5224000</end_time_offset>
+      <start_time_offset>4988000</start_time_offset>
+    </item>
+    <item index="31">
+      <title>End Credits</title>
+      <end_time_offset>-1</end_time_offset>
+      <start_time_offset>5224000</start_time_offset>
+    </item>
+  </chapters>
+  <themes/>
+  <quotes/>
+  <year>1973</year>
+  <duration>5280000</duration>
+  <genres>
+    <item index="0">Action</item>
+    <item index="1">Sci-Fi</item>
+    <item index="2">Thriller</item>
+    <item index="3">Western</item>
+  </genres>
+  <title>Westworld</title>
+  <tagline>Westworld ...where robot men and women are programmed to serve you for ...Romance ...Violence ...Anything</tagline>
+  <content_rating_age/>
+  <rating_count/>
+  <collections/>
+  <trivia/>
+  <tags/>
+  <audience_rating_image>rottentomatoes://image.rating.upright</audience_rating_image>
+  <rating_image>rottentomatoes://image.rating.ripe</rating_image>
+  <producers>
+    <item index="0">
+      <photo/>
+      <role/>
+      <name>Paul Lazarus III</name>
+    </item>
+  </producers>
+  <audience_rating>7.0</audience_rating>
+  <studio>Metro-Goldwyn-Mayer</studio>
+  <posters>
+    <item external="True" url="http://image.tmdb.org/t/p/original/cOJsaT8jEmG9s1MziVIPpHBRpQ7.jpg" preview="bbe9da8533de16940ac439283209617fa973c079" sort_order="1"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/rY7zaVaNbjs3scN0Q2Djkwq9T8l.jpg" preview="846002b74b40f501f67abd7ab4af2447a1e0365d" sort_order="2"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/8OtprZisP6IDgViKp9HHWbtUhhV.jpg" preview="5026c400cb36f48d964bb28552642351099c3999" sort_order="3"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/eFG0BRMYljTe4hn7T9YeGGOsvt3.jpg" preview="83316bdb32a3357b296f333ed16f945200afd7a3" sort_order="4"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/g8AZZCbzKucvAHuHOsUSEj6HkQQ.jpg" preview="9467798b99da51905f48784122a1e94c28b1cf2c" sort_order="5"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/uOskYcS1MFnEjlwB7AM4bwOEW9b.jpg" preview="79ef671e2c861e8b4159f3bf3308997ada2c1c34" sort_order="6"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/fnpVtYg49NSOZaZP2D9vvIAB9DS.jpg" preview="6653ed35ccfd9fd181680685a71b14ffc8dcfed7" sort_order="7"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/j00gD5JFK1u0BDRUB35zEGRIEqN.jpg" preview="4274f2ce581ba11af6c77ebf194417a38cf670cb" sort_order="8"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/kwdjY6aiTSOjwBW7Yanqgpp5vIs.jpg" preview="a173980d9f64b22c9c76cbb773e09949ab2a1410" sort_order="9"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/xQVETy4U0O4Szb0a0vMhl07pwT2.jpg" preview="e587cc0981787c2974ec6f7139a8cfb1bec9a448" sort_order="10"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/yykSsvd00NnVZE8XpFWVwOm7x4a.jpg" preview="03c596d4500b4598f39ebd48639789adaad67deb" sort_order="11"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/3i1J6Vu0WgShxsDRwMkBRSRQND3.jpg" preview="2e0231518d03213ef688fc3aeaf12db4e2a96db8" sort_order="12"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/mUVxc65WhjlPVwg4iO9gGhGwwA7.jpg" preview="4557d3afe69cfedb116e27010491a9746b91d38d" sort_order="13"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/w4Tub1rrY6GzE6xsvrEXJrQqXME.jpg" preview="a23928f1eec49ac3d9edc3b50a659d73f65380f6" sort_order="14"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/me7uCu3xBUTbBFbKgxFXDaBsMWp.jpg" preview="d2f4932ead53384e56ebe75c0ea11111d66111d8" sort_order="15"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/2Y68ELF3Z1oLaqN73Mh2T3O5RJ9.jpg" preview="7d440c25d510e9c49c0df642806a44ab82aca612" sort_order="16"/>
+  </posters>
+  <originally_available_at>1973-11-21</originally_available_at>
+  <roles>
+    <item index="0">
+      <photo>http://image.tmdb.org/t/p/original/bRA6b94H7Aak8PESLbtJ5LzHATU.jpg</photo>
+      <role>The Gunslinger</role>
+      <name>Yul Brynner</name>
+    </item>
+    <item index="1">
+      <photo>http://image.tmdb.org/t/p/original/9BQ5QcoCA7sfQzPvBpX8U4zDXqn.jpg</photo>
+      <role>Peter Martin</role>
+      <name>Richard Benjamin</name>
+    </item>
+    <item index="2">
+      <photo>http://image.tmdb.org/t/p/original/8SGPpN3ieM3K0mHjD8bbQIRD6x.jpg</photo>
+      <role>John Blane</role>
+      <name>James Brolin</name>
+    </item>
+    <item index="3">
+      <photo>http://image.tmdb.org/t/p/original/vnYMtCkcP7dnQHQdjRGKlzpdyKB.jpg</photo>
+      <role>Medieval Knight</role>
+      <name>Norman Bartold</name>
+    </item>
+    <item index="4">
+      <photo>http://image.tmdb.org/t/p/original/5UAa7wSnoh6JwiAKciCCKB9dnro.jpg</photo>
+      <role>Chief Supervisor</role>
+      <name>Alan Oppenheimer</name>
+    </item>
+    <item index="5">
+      <photo>http://image.tmdb.org/t/p/original/29mbub06AU0TAaRrH7hAo4ksQ8P.jpg</photo>
+      <role>Medieval Queen</role>
+      <name>Victoria Shaw</name>
+    </item>
+    <item index="6">
+      <photo>http://image.tmdb.org/t/p/original/mAYJ9Psvz3JQAvHXDwdcegO3Wok.jpg</photo>
+      <role>Banker</role>
+      <name>Dick Van Patten</name>
+    </item>
+    <item index="7">
+      <photo>http://image.tmdb.org/t/p/original/muy5obOb4wy8tbLIBmcjoCjeBQo.jpg</photo>
+      <role>Arlette</role>
+      <name>Linda Gaye Scott</name>
+    </item>
+    <item index="8">
+      <photo>http://image.tmdb.org/t/p/original/xmWo1fzZbQ3EpM1I9GZQitx1Adz.jpg</photo>
+      <role>Technican</role>
+      <name>Steve Franken</name>
+    </item>
+    <item index="9">
+      <photo>http://image.tmdb.org/t/p/original/m47HuUkGBaukm4H7nAjWNeU1XHH.jpg</photo>
+      <role>Blackknight</role>
+      <name>Michael T. Mikler</name>
+    </item>
+    <item index="10">
+      <photo>http://image.tmdb.org/t/p/original/aW00ioFG62NYoFqr8JEkeB7Ok2.jpg</photo>
+      <role>Sheriff</role>
+      <name>Terry Wilson</name>
+    </item>
+    <item index="11">
+      <photo>http://image.tmdb.org/t/p/original/exitLyo3YQLCFfGezo3YfmqYzvN.jpg</photo>
+      <role>Serrant Girl</role>
+      <name>Anne Randall</name>
+    </item>
+    <item index="12">
+      <photo>http://image.tmdb.org/t/p/original/6esZeIlIdrCnoGkAggRAJ8FWs7Z.jpg</photo>
+      <role>Miss Carrie</role>
+      <name>Majel Barrett</name>
+    </item>
+    <item index="13">
+      <photo>http://image.tmdb.org/t/p/original/qGQCpAbkDtwLKNljDqWDM0s0gcP.jpg</photo>
+      <role>Middle Aged Woman</role>
+      <name>Anne Bellamy</name>
+    </item>
+    <item index="14">
+      <photo>http://image.tmdb.org/t/p/original/p55pZZnQGKvTTZaBTpFpQLlH1Tv.jpg</photo>
+      <role>Bellhop</role>
+      <name>Charles Seel</name>
+    </item>
+    <item index="15">
+      <photo>http://image.tmdb.org/t/p/original/h0MVV9nFCaF4DMszcFKp8H7OFAL.jpg</photo>
+      <role>Bartender</role>
+      <name>Wade Crosby</name>
+    </item>
+    <item index="16">
+      <photo>http://image.tmdb.org/t/p/original/hg5ZsWKujEJoS9igbuDKvztWALL.jpg</photo>
+      <role>Hostess</role>
+      <name>Nora Marlowe</name>
+    </item>
+    <item index="17">
+      <photo/>
+      <role>Ticket Girl</role>
+      <name>Lin Henson</name>
+    </item>
+    <item index="18">
+      <photo/>
+      <role>Supervisor</role>
+      <name>C. Lindsay Workman</name>
+    </item>
+    <item index="19">
+      <photo/>
+      <role>Supervisor</role>
+      <name>Lauren Gilbert</name>
+    </item>
+    <item index="20">
+      <photo>http://image.tmdb.org/t/p/original/5CmDwuc6gI4PEwOXteh7jsXdxMD.jpg</photo>
+      <role>Supervisor</role>
+      <name>Davis Roberts</name>
+    </item>
+    <item index="21">
+      <photo/>
+      <role>Supervisor</role>
+      <name>Howard Platt</name>
+    </item>
+    <item index="22">
+      <photo>http://image.tmdb.org/t/p/original/g7VwAJuYx4D6ygkH73TBeKXocyd.jpg</photo>
+      <role>Technician</role>
+      <name>Richard Roat</name>
+    </item>
+    <item index="23">
+      <photo/>
+      <role>Technician</role>
+      <name>Kenneth Washington</name>
+    </item>
+    <item index="24">
+      <photo>http://image.tmdb.org/t/p/original/om2ubA98tWLzDf3kFXpdkogv6k.jpg</photo>
+      <role>Technician</role>
+      <name>Jared Martin</name>
+    </item>
+    <item index="25">
+      <photo/>
+      <role>Technician</role>
+      <name>Robert Patten</name>
+    </item>
+    <item index="26">
+      <photo/>
+      <role>Technician</role>
+      <name>David M. Frank</name>
+    </item>
+    <item index="27">
+      <photo>http://image.tmdb.org/t/p/original/zvNsOSsnod0hgT435jmK3YM3ZX4.jpg</photo>
+      <role>Technician</role>
+      <name>Kip King</name>
+    </item>
+    <item index="28">
+      <photo/>
+      <role>Technician</role>
+      <name>David Man</name>
+    </item>
+    <item index="29">
+      <photo/>
+      <role>Technician</role>
+      <name>Larry Delaney</name>
+    </item>
+    <item index="30">
+      <photo/>
+      <role>Workman</role>
+      <name>Will J. White</name>
+    </item>
+    <item index="31">
+      <photo/>
+      <role>Workman</role>
+      <name>Ben Young</name>
+    </item>
+    <item index="32">
+      <photo/>
+      <role>Workman</role>
+      <name>Tom Falk</name>
+    </item>
+    <item index="33">
+      <photo>http://image.tmdb.org/t/p/original/lJLHXGzxZXj3Ooe2N3cFkxsT06y.jpg</photo>
+      <role>Supervisor</role>
+      <name>Orville Sherman</name>
+    </item>
+  </roles>
+  <countries>
+    <item index="0">USA</item>
+  </countries>
+  <content_rating>PG</content_rating>
+  <original_title/>
+  <summary>In a futuristic resort, wealthy patrons can visit recreations of different time periods and experience their wildest fantasies with life-like robots. But when Richard Benjamin opts for the wild west, he gets more than he bargained for when a gunslinger robot goes berserk.</summary>
+  <reviews>
+    <item index="0">
+      <text>Combines solid entertainment, chilling topicality, and superbly intelligent serio-comic story values.</text>
+      <source>Variety</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>http://www.variety.com/review/VE1117796272.html?categoryid=31&amp;cs=1</link>
+      <author></author>
+    </item>
+    <item index="1">
+      <text>Priceless sci-fi schlock.</text>
+      <source>Chicago Reader</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>http://onfilm.chicagoreader.com/movies/capsules/9191_WESTWORLD</link>
+      <author>J. R. Jones</author>
+    </item>
+    <item index="2">
+      <text>Great stuff.</text>
+      <source>Time Out</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>http://www.timeout.com/film/reviews/64385/westworld.html</link>
+      <author></author>
+    </item>
+    <item index="3">
+      <text>[Michael Crichton] makes a creditable debut as a film director.</text>
+      <source>New York Times</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>http://movies2.nytimes.com/mem/movies/review.html?title1=&amp;title2=Westworld%20%28Movie%29&amp;reviewer=&amp;v_id=53970&amp;pdate=19731122&amp;partner=Rotten+Tomatoes</link>
+      <author></author>
+    </item>
+  </reviews>
+  <directors>
+    <item index="0">
+      <photo>http://image.tmdb.org/t/p/original/lAQ6LYkhdVxa2tDSCOGxQZ3t0wO.jpg</photo>
+      <role/>
+      <name>Michael Crichton</name>
+    </item>
+  </directors>
+  <extras external="True" extension="xml"/>
+  <banners/>
+  <similar>
+    <item index="0">Logan's Run</item>
+    <item index="1">The Omega Man</item>
+    <item index="2">Soylent Green</item>
+    <item index="3">Invasion of the Body Snatchers</item>
+    <item index="4">The Andromeda Strain</item>
+    <item index="5">Futureworld</item>
+    <item index="6">The Day the Earth Stood Still</item>
+    <item index="7">Flash Gordon</item>
+    <item index="8">Silent Running</item>
+    <item index="9">Enemy Mine</item>
+    <item index="10">Forbidden Planet</item>
+    <item index="11">Time Bandits</item>
+    <item index="12">The Time Machine</item>
+    <item index="13">Lifeforce</item>
+    <item index="14">Outland</item>
+    <item index="15">Capricorn One</item>
+    <item index="16">Zardoz</item>
+    <item index="17">THX 1138</item>
+    <item index="18">The Hidden</item>
+    <item index="19">Starman</item>
+  </similar>
+</Movie>

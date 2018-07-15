@@ -1,0 +1,323 @@
+<?xml version='1.0' encoding='utf-8'?>
+<MediaContainer size="16" identifier="com.plexapp.agents.imdb" mediaTagPrefix="/system/bundle/media/flags/" prefsKey="/:/plugins/com.plexapp.agents.imdb/prefs">
+  <Video url="iva://api.internetvideoarchive.com/2.0/DataService/VideoAssets(466896)?lang=en&amp;bitrates=80,212,450,750,1500,2500,5000,8000&amp;duration=58&amp;adaptive=1&amp;dts=0" key="/system/services/url/lookup?url=iva%3A%2F%2Fapi.internetvideoarchive.com%2F2.0%2FDataService%2FVideoAssets%28466896%29%3Flang%3Den%26bitrates%3D80%2C212%2C450%2C750%2C1500%2C2500%2C5000%2C8000%26duration%3D58%26adaptive%3D1%26dts%3D0" type="clip" relationType="trailer" year="2017" title="The Hunger Games: Catching Fire (Clean Trailer)" originallyAvailableAt="2017-12-11" thumb="https://iva-images.plex.tv/content/hdphotos/11589/011589/011589_1280x720_466896_041.jpg" ratingKey="iva://api.internetvideoarchive.com/2.0/DataService/VideoAssets(466896)?lang=en&amp;bitrates=80,212,450,750,1500,2500,5000,8000&amp;duration=58&amp;adaptive=1&amp;dts=0">
+    <Media container="mp4" height="1080" width="1920" audioCodec="aac" duration="58000" videoCodec="h264" bitrate="2500">
+      <Part duration="58000" key="/services/iva/assets/466896/video.mp4?bitrate=2500" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="1080" width="1920" codec="h264" bitrate="2500" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+    <Media container="mp4" height="720" width="1280" audioCodec="aac" duration="58000" videoCodec="h264" bitrate="1500">
+      <Part duration="58000" key="/services/iva/assets/466896/video.mp4?bitrate=1500" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="720" width="1280" codec="h264" bitrate="1500" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+    <Media container="mp4" height="480" width="640" audioCodec="aac" duration="58000" videoCodec="h264" bitrate="450">
+      <Part duration="58000" key="/services/iva/assets/466896/video.mp4?bitrate=450" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="480" width="640" codec="h264" bitrate="450" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+  </Video>
+  <Video url="iva://api.internetvideoarchive.com/2.0/DataService/VideoAssets(305988)?lang=en&amp;bitrates=80,212,450,750,1500,2500,5000,8000&amp;duration=51&amp;adaptive=1&amp;dts=0" key="/system/services/url/lookup?url=iva%3A%2F%2Fapi.internetvideoarchive.com%2F2.0%2FDataService%2FVideoAssets%28305988%29%3Flang%3Den%26bitrates%3D80%2C212%2C450%2C750%2C1500%2C2500%2C5000%2C8000%26duration%3D51%26adaptive%3D1%26dts%3D0" type="clip" relationType="behindTheScenes" year="2013" title="The Hunger Games: Catching Fire: Francis Lawrence" originallyAvailableAt="2013-11-12" thumb="https://iva-images.plex.tv/content/hdphotos/8554/008554/008554_1031x580_305988_009.jpg" ratingKey="iva://api.internetvideoarchive.com/2.0/DataService/VideoAssets(305988)?lang=en&amp;bitrates=80,212,450,750,1500,2500,5000,8000&amp;duration=51&amp;adaptive=1&amp;dts=0">
+    <Media container="mp4" height="1080" width="1920" audioCodec="aac" duration="51000" videoCodec="h264" bitrate="2500">
+      <Part duration="51000" key="/services/iva/assets/305988/video.mp4?bitrate=2500" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="1080" width="1920" codec="h264" bitrate="2500" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+    <Media container="mp4" height="720" width="1280" audioCodec="aac" duration="51000" videoCodec="h264" bitrate="1500">
+      <Part duration="51000" key="/services/iva/assets/305988/video.mp4?bitrate=1500" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="720" width="1280" codec="h264" bitrate="1500" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+    <Media container="mp4" height="480" width="640" audioCodec="aac" duration="51000" videoCodec="h264" bitrate="450">
+      <Part duration="51000" key="/services/iva/assets/305988/video.mp4?bitrate=450" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="480" width="640" codec="h264" bitrate="450" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+  </Video>
+  <Video url="iva://api.internetvideoarchive.com/2.0/DataService/VideoAssets(440922)?lang=en&amp;bitrates=80,212,450,750,1500,2500,5000,8000&amp;duration=53&amp;adaptive=1&amp;dts=0" key="/system/services/url/lookup?url=iva%3A%2F%2Fapi.internetvideoarchive.com%2F2.0%2FDataService%2FVideoAssets%28440922%29%3Flang%3Den%26bitrates%3D80%2C212%2C450%2C750%2C1500%2C2500%2C5000%2C8000%26duration%3D53%26adaptive%3D1%26dts%3D0" type="clip" relationType="behindTheScenes" year="2013" title="The Hunger Games: Catching Fire: Jena Malone On Her Character" originallyAvailableAt="2013-11-12" thumb="https://iva-images.plex.tv/content/hdphotos/8554/008554/008554_1058x595_440922_014.jpg" ratingKey="iva://api.internetvideoarchive.com/2.0/DataService/VideoAssets(440922)?lang=en&amp;bitrates=80,212,450,750,1500,2500,5000,8000&amp;duration=53&amp;adaptive=1&amp;dts=0">
+    <Media container="mp4" height="1080" width="1920" audioCodec="aac" duration="53000" videoCodec="h264" bitrate="2500">
+      <Part duration="53000" key="/services/iva/assets/440922/video.mp4?bitrate=2500" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="1080" width="1920" codec="h264" bitrate="2500" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+    <Media container="mp4" height="720" width="1280" audioCodec="aac" duration="53000" videoCodec="h264" bitrate="1500">
+      <Part duration="53000" key="/services/iva/assets/440922/video.mp4?bitrate=1500" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="720" width="1280" codec="h264" bitrate="1500" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+    <Media container="mp4" height="480" width="640" audioCodec="aac" duration="53000" videoCodec="h264" bitrate="450">
+      <Part duration="53000" key="/services/iva/assets/440922/video.mp4?bitrate=450" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="480" width="640" codec="h264" bitrate="450" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+  </Video>
+  <Video url="iva://api.internetvideoarchive.com/2.0/DataService/VideoAssets(685853)?lang=en&amp;bitrates=80,212,450,750,1500,2500,5000,8000&amp;duration=58&amp;adaptive=1&amp;dts=0" key="/system/services/url/lookup?url=iva%3A%2F%2Fapi.internetvideoarchive.com%2F2.0%2FDataService%2FVideoAssets%28685853%29%3Flang%3Den%26bitrates%3D80%2C212%2C450%2C750%2C1500%2C2500%2C5000%2C8000%26duration%3D58%26adaptive%3D1%26dts%3D0" type="clip" relationType="behindTheScenes" year="2013" title="The Hunger Games: Catching Fire: Sam Claflin On How Katniss Begins The Uprising" originallyAvailableAt="2013-11-12" thumb="https://iva-images.plex.tv/content/hdphotos/8554/008554/008554_1019x573_685853_006.jpg" ratingKey="iva://api.internetvideoarchive.com/2.0/DataService/VideoAssets(685853)?lang=en&amp;bitrates=80,212,450,750,1500,2500,5000,8000&amp;duration=58&amp;adaptive=1&amp;dts=0">
+    <Media container="mp4" height="1080" width="1920" audioCodec="aac" duration="58000" videoCodec="h264" bitrate="2500">
+      <Part duration="58000" key="/services/iva/assets/685853/video.mp4?bitrate=2500" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="1080" width="1920" codec="h264" bitrate="2500" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+    <Media container="mp4" height="720" width="1280" audioCodec="aac" duration="58000" videoCodec="h264" bitrate="1500">
+      <Part duration="58000" key="/services/iva/assets/685853/video.mp4?bitrate=1500" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="720" width="1280" codec="h264" bitrate="1500" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+    <Media container="mp4" height="480" width="640" audioCodec="aac" duration="58000" videoCodec="h264" bitrate="450">
+      <Part duration="58000" key="/services/iva/assets/685853/video.mp4?bitrate=450" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="480" width="640" codec="h264" bitrate="450" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+  </Video>
+  <Video url="iva://api.internetvideoarchive.com/2.0/DataService/VideoAssets(740013)?lang=en&amp;bitrates=80,212,450,750,1500,2500,5000,8000&amp;duration=34&amp;adaptive=1&amp;dts=0" key="/system/services/url/lookup?url=iva%3A%2F%2Fapi.internetvideoarchive.com%2F2.0%2FDataService%2FVideoAssets%28740013%29%3Flang%3Den%26bitrates%3D80%2C212%2C450%2C750%2C1500%2C2500%2C5000%2C8000%26duration%3D34%26adaptive%3D1%26dts%3D0" type="clip" relationType="behindTheScenes" year="2013" title="The Hunger Games: Catching Fire: Donald Sutherland On Working With Jennifer Lawrence" originallyAvailableAt="2013-11-12" thumb="https://iva-images.plex.tv/content/hdphotos/8554/008554/008554_1008x567_740013_007.jpg" ratingKey="iva://api.internetvideoarchive.com/2.0/DataService/VideoAssets(740013)?lang=en&amp;bitrates=80,212,450,750,1500,2500,5000,8000&amp;duration=34&amp;adaptive=1&amp;dts=0">
+    <Media container="mp4" height="1080" width="1920" audioCodec="aac" duration="34000" videoCodec="h264" bitrate="2500">
+      <Part duration="34000" key="/services/iva/assets/740013/video.mp4?bitrate=2500" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="1080" width="1920" codec="h264" bitrate="2500" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+    <Media container="mp4" height="720" width="1280" audioCodec="aac" duration="34000" videoCodec="h264" bitrate="1500">
+      <Part duration="34000" key="/services/iva/assets/740013/video.mp4?bitrate=1500" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="720" width="1280" codec="h264" bitrate="1500" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+    <Media container="mp4" height="480" width="640" audioCodec="aac" duration="34000" videoCodec="h264" bitrate="450">
+      <Part duration="34000" key="/services/iva/assets/740013/video.mp4?bitrate=450" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="480" width="640" codec="h264" bitrate="450" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+  </Video>
+  <Video url="iva://api.internetvideoarchive.com/2.0/DataService/VideoAssets(408549)?lang=en&amp;bitrates=80,212,450,750,1500,2500,5000,8000&amp;duration=20&amp;adaptive=1&amp;dts=0" key="/system/services/url/lookup?url=iva%3A%2F%2Fapi.internetvideoarchive.com%2F2.0%2FDataService%2FVideoAssets%28408549%29%3Flang%3Den%26bitrates%3D80%2C212%2C450%2C750%2C1500%2C2500%2C5000%2C8000%26duration%3D20%26adaptive%3D1%26dts%3D0" type="clip" relationType="behindTheScenes" year="2013" title="The Hunger Games: Catching Fire: Stanley Tucci On His Character" originallyAvailableAt="2013-11-12" thumb="https://iva-images.plex.tv/content/hdphotos/8554/008554/008554_1081x608_408549_009.jpg" ratingKey="iva://api.internetvideoarchive.com/2.0/DataService/VideoAssets(408549)?lang=en&amp;bitrates=80,212,450,750,1500,2500,5000,8000&amp;duration=20&amp;adaptive=1&amp;dts=0">
+    <Media container="mp4" height="1080" width="1920" audioCodec="aac" duration="20000" videoCodec="h264" bitrate="2500">
+      <Part duration="20000" key="/services/iva/assets/408549/video.mp4?bitrate=2500" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="1080" width="1920" codec="h264" bitrate="2500" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+    <Media container="mp4" height="720" width="1280" audioCodec="aac" duration="20000" videoCodec="h264" bitrate="1500">
+      <Part duration="20000" key="/services/iva/assets/408549/video.mp4?bitrate=1500" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="720" width="1280" codec="h264" bitrate="1500" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+    <Media container="mp4" height="480" width="640" audioCodec="aac" duration="20000" videoCodec="h264" bitrate="450">
+      <Part duration="20000" key="/services/iva/assets/408549/video.mp4?bitrate=450" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="480" width="640" codec="h264" bitrate="450" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+  </Video>
+  <Video url="iva://api.internetvideoarchive.com/2.0/DataService/VideoAssets(848717)?lang=en&amp;bitrates=80,212,450,750,1500,2500,5000,8000&amp;duration=27&amp;adaptive=1&amp;dts=0" key="/system/services/url/lookup?url=iva%3A%2F%2Fapi.internetvideoarchive.com%2F2.0%2FDataService%2FVideoAssets%28848717%29%3Flang%3Den%26bitrates%3D80%2C212%2C450%2C750%2C1500%2C2500%2C5000%2C8000%26duration%3D27%26adaptive%3D1%26dts%3D0" type="clip" relationType="behindTheScenes" year="2013" title="The Hunger Games: Catching Fire: Jeffrey Wright On His Character" originallyAvailableAt="2013-11-12" thumb="https://iva-images.plex.tv/content/hdphotos/8554/008554/008554_1074x604_848717_004.jpg" ratingKey="iva://api.internetvideoarchive.com/2.0/DataService/VideoAssets(848717)?lang=en&amp;bitrates=80,212,450,750,1500,2500,5000,8000&amp;duration=27&amp;adaptive=1&amp;dts=0">
+    <Media container="mp4" height="1080" width="1920" audioCodec="aac" duration="27000" videoCodec="h264" bitrate="2500">
+      <Part duration="27000" key="/services/iva/assets/848717/video.mp4?bitrate=2500" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="1080" width="1920" codec="h264" bitrate="2500" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+    <Media container="mp4" height="720" width="1280" audioCodec="aac" duration="27000" videoCodec="h264" bitrate="1500">
+      <Part duration="27000" key="/services/iva/assets/848717/video.mp4?bitrate=1500" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="720" width="1280" codec="h264" bitrate="1500" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+    <Media container="mp4" height="480" width="640" audioCodec="aac" duration="27000" videoCodec="h264" bitrate="450">
+      <Part duration="27000" key="/services/iva/assets/848717/video.mp4?bitrate=450" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="480" width="640" codec="h264" bitrate="450" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+  </Video>
+  <Video url="iva://api.internetvideoarchive.com/2.0/DataService/VideoAssets(278525)?lang=en&amp;bitrates=80,212,450,750,1500,2500,5000,8000&amp;duration=22&amp;adaptive=1&amp;dts=0" key="/system/services/url/lookup?url=iva%3A%2F%2Fapi.internetvideoarchive.com%2F2.0%2FDataService%2FVideoAssets%28278525%29%3Flang%3Den%26bitrates%3D80%2C212%2C450%2C750%2C1500%2C2500%2C5000%2C8000%26duration%3D22%26adaptive%3D1%26dts%3D0" type="clip" relationType="behindTheScenes" year="2013" title="The Hunger Games: Catching Fire: Josh Hutcherson On What Excited Him About The Second Film" originallyAvailableAt="2013-11-12" thumb="https://iva-images.plex.tv/content/hdphotos/8554/008554/008554_1058x595_278525_013.jpg" ratingKey="iva://api.internetvideoarchive.com/2.0/DataService/VideoAssets(278525)?lang=en&amp;bitrates=80,212,450,750,1500,2500,5000,8000&amp;duration=22&amp;adaptive=1&amp;dts=0">
+    <Media container="mp4" height="1080" width="1920" audioCodec="aac" duration="22000" videoCodec="h264" bitrate="2500">
+      <Part duration="22000" key="/services/iva/assets/278525/video.mp4?bitrate=2500" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="1080" width="1920" codec="h264" bitrate="2500" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+    <Media container="mp4" height="720" width="1280" audioCodec="aac" duration="22000" videoCodec="h264" bitrate="1500">
+      <Part duration="22000" key="/services/iva/assets/278525/video.mp4?bitrate=1500" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="720" width="1280" codec="h264" bitrate="1500" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+    <Media container="mp4" height="480" width="640" audioCodec="aac" duration="22000" videoCodec="h264" bitrate="450">
+      <Part duration="22000" key="/services/iva/assets/278525/video.mp4?bitrate=450" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="480" width="640" codec="h264" bitrate="450" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+  </Video>
+  <Video url="iva://api.internetvideoarchive.com/2.0/DataService/VideoAssets(175641)?lang=en&amp;bitrates=80,212,450,750,1500,2500,5000,8000&amp;duration=33&amp;adaptive=1&amp;dts=0" key="/system/services/url/lookup?url=iva%3A%2F%2Fapi.internetvideoarchive.com%2F2.0%2FDataService%2FVideoAssets%28175641%29%3Flang%3Den%26bitrates%3D80%2C212%2C450%2C750%2C1500%2C2500%2C5000%2C8000%26duration%3D33%26adaptive%3D1%26dts%3D0" type="clip" relationType="behindTheScenes" year="2013" title="The Hunger Games: Catching Fire: Lenny Kravitz On How Linna Has Changed In The Second Film" originallyAvailableAt="2013-11-12" thumb="https://iva-images.plex.tv/content/hdphotos/8554/008554/008554_1092x614_175641_001.jpg" ratingKey="iva://api.internetvideoarchive.com/2.0/DataService/VideoAssets(175641)?lang=en&amp;bitrates=80,212,450,750,1500,2500,5000,8000&amp;duration=33&amp;adaptive=1&amp;dts=0">
+    <Media container="mp4" height="1080" width="1920" audioCodec="aac" duration="33000" videoCodec="h264" bitrate="2500">
+      <Part duration="33000" key="/services/iva/assets/175641/video.mp4?bitrate=2500" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="1080" width="1920" codec="h264" bitrate="2500" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+    <Media container="mp4" height="720" width="1280" audioCodec="aac" duration="33000" videoCodec="h264" bitrate="1500">
+      <Part duration="33000" key="/services/iva/assets/175641/video.mp4?bitrate=1500" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="720" width="1280" codec="h264" bitrate="1500" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+    <Media container="mp4" height="480" width="640" audioCodec="aac" duration="33000" videoCodec="h264" bitrate="450">
+      <Part duration="33000" key="/services/iva/assets/175641/video.mp4?bitrate=450" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="480" width="640" codec="h264" bitrate="450" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+  </Video>
+  <Video url="iva://api.internetvideoarchive.com/2.0/DataService/VideoAssets(423729)?lang=en&amp;bitrates=80,212,450,750,1500,2500,5000,8000&amp;duration=23&amp;adaptive=1&amp;dts=0" key="/system/services/url/lookup?url=iva%3A%2F%2Fapi.internetvideoarchive.com%2F2.0%2FDataService%2FVideoAssets%28423729%29%3Flang%3Den%26bitrates%3D80%2C212%2C450%2C750%2C1500%2C2500%2C5000%2C8000%26duration%3D23%26adaptive%3D1%26dts%3D0" type="clip" relationType="behindTheScenes" year="2013" title="The Hunger Games: Catching Fire: Woody Harrelson On Having Fun Being On The Set" originallyAvailableAt="2013-11-12" thumb="https://iva-images.plex.tv/content/hdphotos/8554/008554/008554_1088x612_423729_005.jpg" ratingKey="iva://api.internetvideoarchive.com/2.0/DataService/VideoAssets(423729)?lang=en&amp;bitrates=80,212,450,750,1500,2500,5000,8000&amp;duration=23&amp;adaptive=1&amp;dts=0">
+    <Media container="mp4" height="1080" width="1920" audioCodec="aac" duration="23000" videoCodec="h264" bitrate="2500">
+      <Part duration="23000" key="/services/iva/assets/423729/video.mp4?bitrate=2500" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="1080" width="1920" codec="h264" bitrate="2500" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+    <Media container="mp4" height="720" width="1280" audioCodec="aac" duration="23000" videoCodec="h264" bitrate="1500">
+      <Part duration="23000" key="/services/iva/assets/423729/video.mp4?bitrate=1500" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="720" width="1280" codec="h264" bitrate="1500" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+    <Media container="mp4" height="480" width="640" audioCodec="aac" duration="23000" videoCodec="h264" bitrate="450">
+      <Part duration="23000" key="/services/iva/assets/423729/video.mp4?bitrate=450" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="480" width="640" codec="h264" bitrate="450" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+  </Video>
+  <Video url="iva://api.internetvideoarchive.com/2.0/DataService/VideoAssets(713018)?lang=en&amp;bitrates=80,212,450,750,1500,2500,5000,8000&amp;duration=41&amp;adaptive=1&amp;dts=0" key="/system/services/url/lookup?url=iva%3A%2F%2Fapi.internetvideoarchive.com%2F2.0%2FDataService%2FVideoAssets%28713018%29%3Flang%3Den%26bitrates%3D80%2C212%2C450%2C750%2C1500%2C2500%2C5000%2C8000%26duration%3D41%26adaptive%3D1%26dts%3D0" type="clip" relationType="behindTheScenes" year="2013" title="The Hunger Games: Catching Fire: Liam Hemsworth On How Gale Has Changed Since The First Film" originallyAvailableAt="2013-11-12" thumb="https://iva-images.plex.tv/content/hdphotos/8554/008554/008554_1154x649_713018_008.jpg" ratingKey="iva://api.internetvideoarchive.com/2.0/DataService/VideoAssets(713018)?lang=en&amp;bitrates=80,212,450,750,1500,2500,5000,8000&amp;duration=41&amp;adaptive=1&amp;dts=0">
+    <Media container="mp4" height="1080" width="1920" audioCodec="aac" duration="41000" videoCodec="h264" bitrate="2500">
+      <Part duration="41000" key="/services/iva/assets/713018/video.mp4?bitrate=2500" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="1080" width="1920" codec="h264" bitrate="2500" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+    <Media container="mp4" height="720" width="1280" audioCodec="aac" duration="41000" videoCodec="h264" bitrate="1500">
+      <Part duration="41000" key="/services/iva/assets/713018/video.mp4?bitrate=1500" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="720" width="1280" codec="h264" bitrate="1500" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+    <Media container="mp4" height="480" width="640" audioCodec="aac" duration="41000" videoCodec="h264" bitrate="450">
+      <Part duration="41000" key="/services/iva/assets/713018/video.mp4?bitrate=450" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="480" width="640" codec="h264" bitrate="450" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+  </Video>
+  <Video url="iva://api.internetvideoarchive.com/2.0/DataService/VideoAssets(310889)?lang=en&amp;bitrates=80,212,450,750,1500,2500,5000,8000&amp;duration=28&amp;adaptive=1&amp;dts=0" key="/system/services/url/lookup?url=iva%3A%2F%2Fapi.internetvideoarchive.com%2F2.0%2FDataService%2FVideoAssets%28310889%29%3Flang%3Den%26bitrates%3D80%2C212%2C450%2C750%2C1500%2C2500%2C5000%2C8000%26duration%3D28%26adaptive%3D1%26dts%3D0" type="clip" relationType="behindTheScenes" year="2013" title="The Hunger Games: Catching Fire: Jennifer Lawrence On Katniss' Changing Relationships" originallyAvailableAt="2013-11-12" thumb="https://iva-images.plex.tv/content/hdphotos/8554/008554/008554_1074x604_310889_009.jpg" ratingKey="iva://api.internetvideoarchive.com/2.0/DataService/VideoAssets(310889)?lang=en&amp;bitrates=80,212,450,750,1500,2500,5000,8000&amp;duration=28&amp;adaptive=1&amp;dts=0">
+    <Media container="mp4" height="1080" width="1920" audioCodec="aac" duration="28000" videoCodec="h264" bitrate="2500">
+      <Part duration="28000" key="/services/iva/assets/310889/video.mp4?bitrate=2500" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="1080" width="1920" codec="h264" bitrate="2500" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+    <Media container="mp4" height="720" width="1280" audioCodec="aac" duration="28000" videoCodec="h264" bitrate="1500">
+      <Part duration="28000" key="/services/iva/assets/310889/video.mp4?bitrate=1500" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="720" width="1280" codec="h264" bitrate="1500" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+    <Media container="mp4" height="480" width="640" audioCodec="aac" duration="28000" videoCodec="h264" bitrate="450">
+      <Part duration="28000" key="/services/iva/assets/310889/video.mp4?bitrate=450" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="480" width="640" codec="h264" bitrate="450" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+  </Video>
+  <Video url="iva://api.internetvideoarchive.com/2.0/DataService/VideoAssets(263447)?lang=en&amp;bitrates=80,212,450,750,1500,2500,5000,8000&amp;duration=121&amp;adaptive=1&amp;dts=0" key="/system/services/url/lookup?url=iva%3A%2F%2Fapi.internetvideoarchive.com%2F2.0%2FDataService%2FVideoAssets%28263447%29%3Flang%3Den%26bitrates%3D80%2C212%2C450%2C750%2C1500%2C2500%2C5000%2C8000%26duration%3D121%26adaptive%3D1%26dts%3D0" type="clip" relationType="behindTheScenes" year="2013" title="The Hunger Games: Catching Fire: Imax Behind The Frame (Featurette)" originallyAvailableAt="2013-10-02" thumb="https://iva-images.plex.tv/content/hdphotos/8505/008505/008505_1280x720_263447_079.jpg" ratingKey="iva://api.internetvideoarchive.com/2.0/DataService/VideoAssets(263447)?lang=en&amp;bitrates=80,212,450,750,1500,2500,5000,8000&amp;duration=121&amp;adaptive=1&amp;dts=0">
+    <Media container="mp4" height="1080" width="1920" audioCodec="aac" duration="121000" videoCodec="h264" bitrate="2500">
+      <Part duration="121000" key="/services/iva/assets/263447/video.mp4?bitrate=2500" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="1080" width="1920" codec="h264" bitrate="2500" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+    <Media container="mp4" height="720" width="1280" audioCodec="aac" duration="121000" videoCodec="h264" bitrate="1500">
+      <Part duration="121000" key="/services/iva/assets/263447/video.mp4?bitrate=1500" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="720" width="1280" codec="h264" bitrate="1500" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+    <Media container="mp4" height="480" width="640" audioCodec="aac" duration="121000" videoCodec="h264" bitrate="450">
+      <Part duration="121000" key="/services/iva/assets/263447/video.mp4?bitrate=450" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="480" width="640" codec="h264" bitrate="450" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+  </Video>
+  <Video url="iva://api.internetvideoarchive.com/2.0/DataService/VideoAssets(577844)?lang=en&amp;bitrates=80,212,450,750,1500,2500,5000,8000&amp;duration=24&amp;adaptive=1&amp;dts=0" key="/system/services/url/lookup?url=iva%3A%2F%2Fapi.internetvideoarchive.com%2F2.0%2FDataService%2FVideoAssets%28577844%29%3Flang%3Den%26bitrates%3D80%2C212%2C450%2C750%2C1500%2C2500%2C5000%2C8000%26duration%3D24%26adaptive%3D1%26dts%3D0" type="clip" relationType="interview" year="2014" title="The Hunger Games: Catching Fire: Jena Malone Sound Clip" originallyAvailableAt="2014-03-07" thumb="https://iva-images.plex.tv/content/hdphotos/8930/008930/008930_1161x653_577844_010.jpg" ratingKey="iva://api.internetvideoarchive.com/2.0/DataService/VideoAssets(577844)?lang=en&amp;bitrates=80,212,450,750,1500,2500,5000,8000&amp;duration=24&amp;adaptive=1&amp;dts=0">
+    <Media container="mp4" height="1080" width="1920" audioCodec="aac" duration="24000" videoCodec="h264" bitrate="2500">
+      <Part duration="24000" key="/services/iva/assets/577844/video.mp4?bitrate=2500" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="1080" width="1920" codec="h264" bitrate="2500" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+    <Media container="mp4" height="720" width="1280" audioCodec="aac" duration="24000" videoCodec="h264" bitrate="1500">
+      <Part duration="24000" key="/services/iva/assets/577844/video.mp4?bitrate=1500" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="720" width="1280" codec="h264" bitrate="1500" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+    <Media container="mp4" height="480" width="640" audioCodec="aac" duration="24000" videoCodec="h264" bitrate="450">
+      <Part duration="24000" key="/services/iva/assets/577844/video.mp4?bitrate=450" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="480" width="640" codec="h264" bitrate="450" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+  </Video>
+  <Video url="iva://api.internetvideoarchive.com/2.0/DataService/VideoAssets(124177)?lang=en&amp;bitrates=80,212,450,750,1500,2500,5000,8000&amp;duration=30&amp;adaptive=1&amp;dts=0" key="/system/services/url/lookup?url=iva%3A%2F%2Fapi.internetvideoarchive.com%2F2.0%2FDataService%2FVideoAssets%28124177%29%3Flang%3Den%26bitrates%3D80%2C212%2C450%2C750%2C1500%2C2500%2C5000%2C8000%26duration%3D30%26adaptive%3D1%26dts%3D0" type="clip" relationType="interview" year="2014" title="The Hunger Games: Catching Fire: Francis Lawrence Sound Clip" originallyAvailableAt="2014-03-07" thumb="https://iva-images.plex.tv/content/hdphotos/8930/008930/008930_1049x590_124177_019.jpg" ratingKey="iva://api.internetvideoarchive.com/2.0/DataService/VideoAssets(124177)?lang=en&amp;bitrates=80,212,450,750,1500,2500,5000,8000&amp;duration=30&amp;adaptive=1&amp;dts=0">
+    <Media container="mp4" height="1080" width="1920" audioCodec="aac" duration="30000" videoCodec="h264" bitrate="2500">
+      <Part duration="30000" key="/services/iva/assets/124177/video.mp4?bitrate=2500" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="1080" width="1920" codec="h264" bitrate="2500" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+    <Media container="mp4" height="720" width="1280" audioCodec="aac" duration="30000" videoCodec="h264" bitrate="1500">
+      <Part duration="30000" key="/services/iva/assets/124177/video.mp4?bitrate=1500" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="720" width="1280" codec="h264" bitrate="1500" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+    <Media container="mp4" height="480" width="640" audioCodec="aac" duration="30000" videoCodec="h264" bitrate="450">
+      <Part duration="30000" key="/services/iva/assets/124177/video.mp4?bitrate=450" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="480" width="640" codec="h264" bitrate="450" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+  </Video>
+  <Video url="iva://api.internetvideoarchive.com/2.0/DataService/VideoAssets(253218)?lang=en&amp;bitrates=80,212,450,750,1500,8000&amp;duration=35&amp;adaptive=1&amp;dts=0" key="/system/services/url/lookup?url=iva%3A%2F%2Fapi.internetvideoarchive.com%2F2.0%2FDataService%2FVideoAssets%28253218%29%3Flang%3Den%26bitrates%3D80%2C212%2C450%2C750%2C1500%2C8000%26duration%3D35%26adaptive%3D1%26dts%3D0" type="clip" relationType="interview" year="2014" title="The Hunger Games: Catching Fire: Donald Sutherland Sound Clip" originallyAvailableAt="2014-03-07" thumb="https://iva-images.plex.tv/content/hdphotos/8929/008929/008929_894x503_253218_005.jpg" ratingKey="iva://api.internetvideoarchive.com/2.0/DataService/VideoAssets(253218)?lang=en&amp;bitrates=80,212,450,750,1500,8000&amp;duration=35&amp;adaptive=1&amp;dts=0">
+    <Media container="mp4" height="720" width="1280" audioCodec="aac" duration="35000" videoCodec="h264" bitrate="1500">
+      <Part duration="35000" key="/services/iva/assets/253218/video.mp4?bitrate=1500" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="720" width="1280" codec="h264" bitrate="1500" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+    <Media container="mp4" height="480" width="640" audioCodec="aac" duration="35000" videoCodec="h264" bitrate="750">
+      <Part duration="35000" key="/services/iva/assets/253218/video.mp4?bitrate=750" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="480" width="640" codec="h264" bitrate="750" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+    <Media container="mp4" height="480" width="640" audioCodec="aac" duration="35000" videoCodec="h264" bitrate="450">
+      <Part duration="35000" key="/services/iva/assets/253218/video.mp4?bitrate=450" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="480" width="640" codec="h264" bitrate="450" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+  </Video>
+</MediaContainer>

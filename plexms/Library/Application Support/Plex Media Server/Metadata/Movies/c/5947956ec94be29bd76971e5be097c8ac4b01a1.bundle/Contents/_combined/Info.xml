@@ -1,0 +1,486 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Movie>
+  <art>
+    <item external="True" url="http://image.tmdb.org/t/p/original/89gjHpVo0OriH8OYKWuoc4EJrvd.jpg" sort_order="1" provider="com.plexapp.agents.imdb" media="com.plexapp.agents.imdb_8a65a20fb75d9bba7486668c1091650dd534ce7d"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/cE9TDkLOjYsK0mDr3iPgorbTb7y.jpg" preview="com.plexapp.agents.imdb_94a27ee43b48b6d2ff2d7adac9a70a4fc1b62925" sort_order="2" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/6e82H6KoHLGVflBNNk1FTRxkcop.jpg" preview="com.plexapp.agents.imdb_9d674a2f6ae3123efa84353ba6962c91aa4af158" sort_order="3" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/cYTTPYquOkPl5e1pxxdnxoDV3F2.jpg" preview="com.plexapp.agents.imdb_0e55c5e3ae4f5de8da9997c291f7dd5114408e4a" sort_order="4" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/ftlhnjBKhUA1gXnCyOVw0BENNlC.jpg" preview="com.plexapp.agents.imdb_4f96a7428b1dd5d1a112ceddb60f50445a1778c8" sort_order="5" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/pDuD96Fz0ZZXf9buEvRu1UQsmFT.jpg" preview="com.plexapp.agents.imdb_14dfd7da7d88b9e2a846b45f9d4accd0ad274aa7" sort_order="6" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/vUYPeriVvh4od1yYHjDvsrPA01N.jpg" preview="com.plexapp.agents.imdb_6adeb69db7ad358cffcca1ce7faf1b9eedddf8e1" sort_order="7" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/dilqiMAaT0EWHXqPpBUoDkh7l9Q.jpg" preview="com.plexapp.agents.imdb_86e0443cc3d2ec1b4b59f02bc6c3df00abd35886" sort_order="8" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/rv4o5EVPhdtIY4RPvD2gQSIEFKe.jpg" preview="com.plexapp.agents.imdb_dbfe5ef126235958846bb2c849711e481aca0a00" sort_order="9" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/lkdgXSUgb9LXCu8exI2vgVrtc76.jpg" preview="com.plexapp.agents.imdb_73de18f6851fcc58d07954a6ff58d5e12d863dd0" sort_order="10" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/llAvR7ibtJ5iXmtkBmH1MTIVXdg.jpg" preview="com.plexapp.agents.imdb_02f997f7ab10873ecf8fd8b3b835eb24fdd3b475" sort_order="11" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/lhkHxPaTNE0RzLgKZib49r7aNIk.jpg" preview="com.plexapp.agents.imdb_19990af7240d2974ad3ac7c7ea4e89ef29d8823f" sort_order="12" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/pgcxrwbbQgKCyj7HN2Toa9gqy1C.jpg" preview="com.plexapp.agents.imdb_eb4da6985f0460eb6646d68f710d3b40a2625938" sort_order="13" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/nNUDUVHzqKZsjvFJeAXlzdgCiD5.jpg" preview="com.plexapp.agents.imdb_f35fd2feaf801cadd589ee2d4bd3320cd0926b67" sort_order="14" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/cY7vbAMOhv217L51FlxjJPLh1gR.jpg" preview="com.plexapp.agents.imdb_25c7b3a4fa1cbd75b1648c1aaafc91ae0ff0972a" sort_order="15" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/lbj6mSv2vFc8dF8kAX6Hxu4K6Dr.jpg" preview="com.plexapp.agents.imdb_7a9f9dd333e66c0ad444c92a88d93d957d1e7f0f" sort_order="16" provider="com.plexapp.agents.imdb"/>
+  </art>
+  <banners/>
+  <chapters>
+    <item index="0">
+      <title>Asteroid</title>
+      <end_time_offset>217000</end_time_offset>
+      <start_time_offset>0</start_time_offset>
+    </item>
+    <item index="1">
+      <title>Arlo Is Born</title>
+      <end_time_offset>376000</end_time_offset>
+      <start_time_offset>217000</start_time_offset>
+    </item>
+    <item index="2">
+      <title>Chores</title>
+      <end_time_offset>494000</end_time_offset>
+      <start_time_offset>376000</start_time_offset>
+    </item>
+    <item index="3">
+      <title>Make Your Mark</title>
+      <end_time_offset>732000</end_time_offset>
+      <start_time_offset>494000</start_time_offset>
+    </item>
+    <item index="4">
+      <title>Fireflies</title>
+      <end_time_offset>873000</end_time_offset>
+      <start_time_offset>732000</start_time_offset>
+    </item>
+    <item index="5">
+      <title>Meet Spot</title>
+      <end_time_offset>1062000</end_time_offset>
+      <start_time_offset>873000</start_time_offset>
+    </item>
+    <item index="6">
+      <title>Arlo Steps Up</title>
+      <end_time_offset>1270000</end_time_offset>
+      <start_time_offset>1062000</start_time_offset>
+    </item>
+    <item index="7">
+      <title>Swept Away</title>
+      <end_time_offset>1378000</end_time_offset>
+      <start_time_offset>1270000</start_time_offset>
+    </item>
+    <item index="8">
+      <title>Wilderness</title>
+      <end_time_offset>1601000</end_time_offset>
+      <start_time_offset>1378000</start_time_offset>
+    </item>
+    <item index="9">
+      <title>Helpless</title>
+      <end_time_offset>1742000</end_time_offset>
+      <start_time_offset>1601000</start_time_offset>
+    </item>
+    <item index="10">
+      <title>Spot Investigates</title>
+      <end_time_offset>1990000</end_time_offset>
+      <start_time_offset>1742000</start_time_offset>
+    </item>
+    <item index="11">
+      <title>Snake Attack</title>
+      <end_time_offset>2128000</end_time_offset>
+      <start_time_offset>1990000</start_time_offset>
+    </item>
+    <item index="12">
+      <title>Pet Collector</title>
+      <end_time_offset>2294000</end_time_offset>
+      <start_time_offset>2128000</start_time_offset>
+    </item>
+    <item index="13">
+      <title>Working Together</title>
+      <end_time_offset>2468000</end_time_offset>
+      <start_time_offset>2294000</start_time_offset>
+    </item>
+    <item index="14">
+      <title>Orphan Spot</title>
+      <end_time_offset>2742000</end_time_offset>
+      <start_time_offset>2468000</start_time_offset>
+    </item>
+    <item index="15">
+      <title>Storm Fear</title>
+      <end_time_offset>2867000</end_time_offset>
+      <start_time_offset>2742000</start_time_offset>
+    </item>
+    <item index="16">
+      <title>Ambush</title>
+      <end_time_offset>3108000</end_time_offset>
+      <start_time_offset>2867000</start_time_offset>
+    </item>
+    <item index="17">
+      <title>T-Rexes</title>
+      <end_time_offset>3346000</end_time_offset>
+      <start_time_offset>3108000</start_time_offset>
+    </item>
+    <item index="18">
+      <title>Rustlers</title>
+      <end_time_offset>3622000</end_time_offset>
+      <start_time_offset>3346000</start_time_offset>
+    </item>
+    <item index="19">
+      <title>Campfire</title>
+      <end_time_offset>3839000</end_time_offset>
+      <start_time_offset>3622000</start_time_offset>
+    </item>
+    <item index="20">
+      <title>Arlo Herds</title>
+      <end_time_offset>3927000</end_time_offset>
+      <start_time_offset>3839000</start_time_offset>
+    </item>
+    <item index="21">
+      <title>Above the Clouds</title>
+      <end_time_offset>4031000</end_time_offset>
+      <start_time_offset>3927000</start_time_offset>
+    </item>
+    <item index="22">
+      <title>Spot Taken</title>
+      <end_time_offset>4266000</end_time_offset>
+      <start_time_offset>4031000</start_time_offset>
+    </item>
+    <item index="23">
+      <title>Poppa's Help</title>
+      <end_time_offset>4423000</end_time_offset>
+      <start_time_offset>4266000</start_time_offset>
+    </item>
+    <item index="24">
+      <title>Into the Storm</title>
+      <end_time_offset>4561000</end_time_offset>
+      <start_time_offset>4423000</start_time_offset>
+    </item>
+    <item index="25">
+      <title>Flash Flood</title>
+      <end_time_offset>4748000</end_time_offset>
+      <start_time_offset>4561000</start_time_offset>
+    </item>
+    <item index="26">
+      <title>Goodbye Spot</title>
+      <end_time_offset>5036000</end_time_offset>
+      <start_time_offset>4748000</start_time_offset>
+    </item>
+    <item index="27">
+      <title>Back Home</title>
+      <end_time_offset>5161000</end_time_offset>
+      <start_time_offset>5036000</start_time_offset>
+    </item>
+    <item index="28">
+      <title>End Credits</title>
+      <end_time_offset>-1</end_time_offset>
+      <start_time_offset>5161000</start_time_offset>
+    </item>
+  </chapters>
+  <collections/>
+  <content_rating>PG</content_rating>
+  <countries>
+    <item index="0">USA</item>
+  </countries>
+  <directors>
+    <item index="0">
+      <photo>http://image.tmdb.org/t/p/original/ouaPg2hdBBXfq8N7HPatvEq3P81.jpg</photo>
+      <role/>
+      <name>Peter Sohn</name>
+    </item>
+  </directors>
+  <duration>5580000</duration>
+  <genres>
+    <item index="0">Animation</item>
+    <item index="1">Adventure</item>
+    <item index="2">Comedy</item>
+    <item index="3">Drama</item>
+    <item index="4">Family</item>
+    <item index="5">Fantasy</item>
+  </genres>
+  <originally_available_at>2015-11-14</originally_available_at>
+  <posters>
+    <item external="True" url="http://image.tmdb.org/t/p/original/2ZckiMTfSkCep2JTtZbr73tnQbN.jpg" sort_order="1" provider="com.plexapp.agents.imdb" media="com.plexapp.agents.imdb_cd2894612a25c8eec9e7d7ec9e33a3697579e73e"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/c6sS6IJBDDIK1dh7HmyCWIpa5ei.jpg" preview="com.plexapp.agents.imdb_0d418f4f50e50220e52b8e485daea1e0a7cc3435" sort_order="2" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/pJH9VQok2I6Dqzrnc5D7m9Kbjnf.jpg" preview="com.plexapp.agents.imdb_2afdf6f610ef70011bcb45731c986c7a16c403eb" sort_order="3" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/2ROlWAgktsJa4OZzDmxjpj20ScV.jpg" preview="com.plexapp.agents.imdb_599a475873593be3455f63c9d2b0491585960cf3" sort_order="4" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/6XtdyutpxGx6JHgOEyCGy5wEiMn.jpg" preview="com.plexapp.agents.imdb_dc0f4a0d980ccb633527eb57dc77bdee9e0786d2" sort_order="5" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/kTylA7LjDLWADmmze8fuOkBjHh8.jpg" preview="com.plexapp.agents.imdb_bf1278c385e1931e5652452b9c1c0505cd35104a" sort_order="6" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/irnOpw1o69xatUc5W3nwSuIurF.jpg" preview="com.plexapp.agents.imdb_c63f4e5888b9dcc41e760d7bd27aacb45bec5715" sort_order="7" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/3y6eVAYDw7IS2OwDdXsWyv1klaU.jpg" preview="com.plexapp.agents.imdb_ca252a8ef7c50ede68c59985b71095d160e477d6" sort_order="8" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/9nvfEDX0U1K1szViu3ZEA5KmZGr.jpg" preview="com.plexapp.agents.imdb_02af2023e40e4159ada02736ea6ebeb41e897d73" sort_order="9" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/6NXst4aA6XK5gvXRCeoGKgH4Uzf.jpg" preview="com.plexapp.agents.imdb_295aae4bf7a723423d656161b29244821ed0d184" sort_order="10" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/edTXEy3w1f7E5UzgMWrQpfn93VQ.jpg" preview="com.plexapp.agents.imdb_4f6298ce14180bea70409a4925efce4deafbb6b1" sort_order="11" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/oMgNM6PFSEhxa6cTS4c3mVwN88N.jpg" preview="com.plexapp.agents.imdb_744ce703ee6ab182e9c8da055e7fd8054ed0f5f4" sort_order="12" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/vvaA783qzDTWzT68ORykU0UJnGb.jpg" preview="com.plexapp.agents.imdb_30b57edee53135b29f969f78df2d03b475090fdc" sort_order="13" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/1zBlhVzdKXKnRIESZd4ptpE3qkX.jpg" preview="com.plexapp.agents.imdb_d4f4d051f10f1412049619d66a3dfe4828fe29ff" sort_order="14" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/9ZXudiaZGyEgztKwzUblQHKORPR.jpg" preview="com.plexapp.agents.imdb_7b84960edbbe081163c06f51c57ffc991806c4aa" sort_order="15" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/zMcqVu5aqMgkNPC0JTTFpm4FWO.jpg" preview="com.plexapp.agents.imdb_5f75b8faa0e3c09eb5fc8fc4eadebc10a978cc95" sort_order="16" provider="com.plexapp.agents.imdb"/>
+  </posters>
+  <producers>
+    <item index="0">
+      <photo>http://image.tmdb.org/t/p/original/7EdqiNbr4FRjIhKHyPPdFfEEEFG.jpg</photo>
+      <role/>
+      <name>John Lasseter</name>
+    </item>
+    <item index="1">
+      <photo/>
+      <role/>
+      <name>Denise Ream</name>
+    </item>
+  </producers>
+  <rating>7.6</rating>
+  <rating_image>rottentomatoes://image.rating.ripe</rating_image>
+  <audience_rating>6.5</audience_rating>
+  <audience_rating_image>rottentomatoes://image.rating.spilled</audience_rating_image>
+  <reviews>
+    <item index="0">
+      <text>The Good Dinosaur is by no means a bad movie. But it breaks new ground for Pixar in that it's the studio's first feature that is explicitly-and pretty much exclusively-a kid's movie.</text>
+      <source>The Atlantic</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>http://www.theatlantic.com/entertainment/archive/2015/11/the-good-dinosaur-pixars-first-movie-just-for-kids/417609/</link>
+      <author>Christopher Orr</author>
+    </item>
+    <item index="1">
+      <text>The digital landscapes are meant to be breathtakingly beautiful, but they tend to come across more like very expensive screensavers or immersive desktop wallpapers.</text>
+      <source>Globe and Mail</source>
+      <image>rottentomatoes://image.review.rotten</image>
+      <link>http://www.theglobeandmail.com/arts/film/film-reviews/the-good-dinosaur-maudlin-manipulation-and-not-much-else/article27460430/</link>
+      <author>John Semley</author>
+    </item>
+    <item index="2">
+      <text>If The Good Dinosaur falls short in the narrative department, it represents a step forward for Pixar's artists.</text>
+      <source>ReelViews</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>http://www.reelviews.net/reelviews/good-dinosaur-the</link>
+      <author>James Berardinelli</author>
+    </item>
+    <item index="3">
+      <text>OK, it's not pushing the boundaries of storytelling, but it certainly does the job.</text>
+      <source>Detroit News</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>http://www.detroitnews.com/story/entertainment/2015/11/24/movie-review-amiable-dinosaur-delivers-solid-family-fare/76341112/</link>
+      <author>Tom Long</author>
+    </item>
+    <item index="4">
+      <text>The characters may look cartoony-and cloyingly cute-but they're wandering through what could be Thomas Hill paintings in panoramic widescreen.</text>
+      <source>NPR</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>http://www.npr.org/2015/11/25/457132713/a-great-looking-if-underpowered-adventure-with-a-good-dinosaur?utm_medium=RSS&amp;utm_campaign=movies</link>
+      <author>Andrew Lapin</author>
+    </item>
+    <item index="5">
+      <text>As Pixar productions go, this one isn't a groundbreaker, but it's heartfelt and endearing, as well as visually splendiferous, and kids will love it for sure.</text>
+      <source>Wall Street Journal</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>http://www.wsj.com/articles/the-good-dinosaur-review-a-warm-blooded-jurassic-lark-1448485487</link>
+      <author>Joe Morgenstern</author>
+    </item>
+    <item index="6">
+      <text>The resulting film is amiable, pretty, and charming in all the right ways -- even if it ultimately settles for a fairly typical tale of a late bloomer finding his way.</text>
+      <source>New York Magazine/Vulture</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>http://www.vulture.com/2015/11/review-good-dinosaur-awes-but-doesnt-innovate.html</link>
+      <author>Bilge Ebiri</author>
+    </item>
+    <item index="7">
+      <text>The intricately designed settings convey a Miyazaki-like reverence for the natural world, and the hero's longing for his family is affecting, never saccharine.</text>
+      <source>Chicago Reader</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>http://www.chicagoreader.com/chicago/the-good-dinosaur/MovieTimes?oid=19862971</link>
+      <author>Ben Sachs</author>
+    </item>
+    <item index="8">
+      <text>If the story sounds simple, that's because it is. The complexity here is tonal - zig-zagging from silly to scary - and visual: a super-realistic depiction of nature... contrasted with the foam-rubber, glass-eyed vulnerability of our hero.</text>
+      <source>San Diego Reader</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>http://www.sandiegoreader.com/movies/the-good-dinosaur/</link>
+      <author>Matthew Lickona</author>
+    </item>
+    <item index="9">
+      <text>I didn't love everything about The Good Dinosaur, but I loved visiting the world Pixar made.</text>
+      <source>Slate</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>http://www.slate.com/articles/arts/movies/2015/11/pixar_s_the_good_dinosaur_reviewed_gorgeous_vistas_cute_story.html</link>
+      <author>Dan Kois</author>
+    </item>
+    <item index="10">
+      <text>There's nothing too deep here, but the picture does warm the heart.</text>
+      <source>Seattle Times</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>http://www.seattletimes.com/entertainment/movies/the-good-dinosaur-a-cute-pixar-flick-for-kids/?utm_source=RSS&amp;utm_medium=Referral&amp;utm_campaign=RSS_movies</link>
+      <author>Soren Anderson</author>
+    </item>
+    <item index="11">
+      <text>This fantasy about an apatosaurus named Arlo who must find (and fight) his way back to his family plays a bit like The Odyssey for tykes.</text>
+      <source>Christian Science Monitor</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>http://www.csmonitor.com/The-Culture/Movies/2015/1125/The-Good-Dinosaur-The-script-is-functional-the-animation-is-not-memorable</link>
+      <author>Peter Rainer</author>
+    </item>
+    <item index="12">
+      <text>"The Good Dinosaur" is antic and unexpected as well as homiletic, rife with subversive elements, wacky critters and some of the most beautiful landscapes ever seen in a computer animated film.</text>
+      <source>Los Angeles Times</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>http://www.latimes.com/entertainment/movies/la-et-mn-good-dinosaur-review-20151125-column.html</link>
+      <author>Kenneth Turan</author>
+    </item>
+    <item index="13">
+      <text>"The Good Dinosaur" is charmingly different, but its oddness sneaks up on you only after the filmmakers lay out some storybook bona fides.</text>
+      <source>New York Times</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>http://www.nytimes.com/2015/11/25/movies/review-the-good-dinosaur-pixar-human-and-apatosaurus.html?partner=rss&amp;emc=rss</link>
+      <author>Manohla Dargis</author>
+    </item>
+    <item index="14">
+      <text>Enjoy it for what it is.</text>
+      <source>St. Louis Post-Dispatch</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>http://www.stltoday.com/entertainment/movies/reviews/review-good-dinosaur-combines-a-predictable-plot-with-gorgeous-animation/article_7c02f0b0-01b4-52ef-aa9a-4f5b0e02cf94.html</link>
+      <author>Sarah Bryan Miller</author>
+    </item>
+    <item index="15">
+      <text>Part of the movie would likely make anyone under 10 squirm with boredom. These other parts would make children under 10 (and many adults, too) squirm for a very different reason.</text>
+      <source>Boston Globe</source>
+      <image>rottentomatoes://image.review.rotten</image>
+      <link>https://www.bostonglobe.com/arts/movies/2015/11/24/pixar-latest-planet-dinosaurs/mWreOAMAHOfiTYElfIZ0UP/story.html</link>
+      <author>Mark Feeney</author>
+    </item>
+    <item index="16">
+      <text>On a technical level, at least, The Good Dinosaur is the most dazzling Pixar movie yet. As a story, however, it's the studio's weakest by far.</text>
+      <source>Newsday</source>
+      <image>rottentomatoes://image.review.rotten</image>
+      <link>http://www.newsday.com/entertainment/movies/the-good-dinosaur-review-weak-story-nonsensical-theme-make-for-rare-pixar-stumble-1.11161721</link>
+      <author>Rafer Guzman</author>
+    </item>
+    <item index="17">
+      <text>On its own, it seems fine; just don't compare it to its capable siblings.</text>
+      <source>Washington Post</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>http://www.washingtonpost.com/goingoutguide/movies/the-good-dinosaur-fails-to-live-up-to-the-pixar-promise/2015/11/24/64897948-92b3-11e5-b5e4-279b4501e8a6_story.html</link>
+      <author>Stephanie Merry</author>
+    </item>
+  </reviews>
+  <roles>
+    <item index="0">
+      <photo>http://image.tmdb.org/t/p/original/iayG9g3yq7OIrrzhN7FTQqfGqgW.jpg</photo>
+      <role>Arlo (voice)</role>
+      <name>Raymond Ochoa</name>
+    </item>
+    <item index="1">
+      <photo>http://image.tmdb.org/t/p/original/qVhYqDtQOl8s1zA25JbumZpo4D0.jpg</photo>
+      <role>Spot (voice)</role>
+      <name>Jack Bright</name>
+    </item>
+    <item index="2">
+      <photo>http://image.tmdb.org/t/p/original/wBh9rwK3aRr1hCrSRLxxPHKzGeU.jpg</photo>
+      <role>Poppa (voice)</role>
+      <name>Jeffrey Wright</name>
+    </item>
+    <item index="3">
+      <photo>http://image.tmdb.org/t/p/original/AskZbUslI8HkkbdmwyAXHjmQqPg.jpg</photo>
+      <role>Momma (voice)</role>
+      <name>Frances McDormand</name>
+    </item>
+    <item index="4">
+      <photo>http://image.tmdb.org/t/p/original/ulf3xYH0PIrjkr4R3RMuPVkgBDU.jpg</photo>
+      <role>Young Libby (voice)</role>
+      <name>Maleah Nipay-Padilla</name>
+    </item>
+    <item index="5">
+      <photo>http://image.tmdb.org/t/p/original/s4SgeFq1r44BFt9xPZR8lhokRwz.jpg</photo>
+      <role>Young Buck (voice)</role>
+      <name>Ryan Teeple</name>
+    </item>
+    <item index="6">
+      <photo>http://image.tmdb.org/t/p/original/vc5c7WZbFN9B6mznJquR0VlU08C.jpg</photo>
+      <role>Young Arlo (voice)</role>
+      <name>Jack McGraw</name>
+    </item>
+    <item index="7">
+      <photo>http://image.tmdb.org/t/p/original/viJMaVFJE5QjMDrv5lee47e6lxG.jpg</photo>
+      <role>Buck (voice)</role>
+      <name>Marcus Scribner</name>
+    </item>
+    <item index="8">
+      <photo>http://image.tmdb.org/t/p/original/ouaPg2hdBBXfq8N7HPatvEq3P81.jpg</photo>
+      <role>Forrest Woodbush (voice)</role>
+      <name>Peter Sohn</name>
+    </item>
+    <item index="9">
+      <photo>http://image.tmdb.org/t/p/original/tcRHqtdi4wM8hlZ3MjPDWgePp7L.jpg</photo>
+      <role>Thunderclap (voice)</role>
+      <name>Steve Zahn</name>
+    </item>
+    <item index="10">
+      <photo/>
+      <role>Downpour (voice)</role>
+      <name>Mandy Freund</name>
+    </item>
+    <item index="11">
+      <photo/>
+      <role>Coldfront (voice)</role>
+      <name>Steven Clay Hunter</name>
+    </item>
+    <item index="12">
+      <photo>http://image.tmdb.org/t/p/original/cARCD3mOMwnAiVMBcP9eansQs4D.jpg</photo>
+      <role>Nash (voice)</role>
+      <name>A.J. Buckley</name>
+    </item>
+    <item index="13">
+      <photo>http://image.tmdb.org/t/p/original/5Q4vZK2PqHkreQLmbPspIgrSLUP.jpg</photo>
+      <role>Ramsey (voice)</role>
+      <name>Anna Paquin</name>
+    </item>
+    <item index="14">
+      <photo>http://image.tmdb.org/t/p/original/f2AxZZ6d0Cit0tmf6wYTHcGfwT9.jpg</photo>
+      <role>Butch (voice)</role>
+      <name>Sam Elliott</name>
+    </item>
+    <item index="15">
+      <photo>http://image.tmdb.org/t/p/original/4ewxttZW0bhlta27oc5Tjrxel3p.jpg</photo>
+      <role>Bubbha (voice)</role>
+      <name>David Boat</name>
+    </item>
+    <item index="16">
+      <photo>http://image.tmdb.org/t/p/original/8QytvzewEy3cJroMuPjbcu93yfj.jpg</photo>
+      <role>Lurleane (voice)</role>
+      <name>Carrie Paff</name>
+    </item>
+    <item index="17">
+      <photo>http://image.tmdb.org/t/p/original/3gX1dg2qr9UdeGr75mmkb5VhsB7.jpg</photo>
+      <role>Pervis (voice)</role>
+      <name>Calum Grant</name>
+    </item>
+    <item index="18">
+      <photo>http://image.tmdb.org/t/p/original/yGechiKWL6TJDfVE2KPSJYqdMsY.jpg</photo>
+      <role>Earl (voice)</role>
+      <name>John Ratzenberger</name>
+    </item>
+  </roles>
+  <similar>
+    <item index="0">Hotel Transylvania 2</item>
+    <item index="1">Home</item>
+    <item index="2">The Peanuts Movie</item>
+    <item index="3">Kung Fu Panda 3</item>
+    <item index="4">Finding Dory</item>
+    <item index="5">Pete's Dragon</item>
+    <item index="6">The Angry Birds Movie</item>
+    <item index="7">Mr. Peabody &amp; Sherman</item>
+    <item index="8">The Jungle Book</item>
+    <item index="9">Rio 2</item>
+    <item index="10">Penguins of Madagascar</item>
+    <item index="11">Monsters University</item>
+    <item index="12">Storks</item>
+    <item index="13">Zootopia</item>
+    <item index="14">How to Train Your Dragon 2</item>
+    <item index="15">Inside Out</item>
+    <item index="16">Kubo and the Two Strings</item>
+    <item index="17">Goosebumps</item>
+    <item index="18">Cars 2</item>
+    <item index="19">The Boxtrolls</item>
+  </similar>
+  <studio>Pixar</studio>
+  <summary>An epic journey into the world of dinosaurs where an Apatosaurus named Arlo makes an unlikely human friend.</summary>
+  <tagline>Little Arms With Big Attitude</tagline>
+  <tags/>
+  <themes/>
+  <title>The Good Dinosaur</title>
+  <writers>
+    <item index="0">
+      <photo>http://image.tmdb.org/t/p/original/3xv8tzlBZoGDqEoZqktqu2LRLUe.jpg</photo>
+      <role/>
+      <name>Meg LeFauve</name>
+    </item>
+  </writers>
+  <year>2015</year>
+</Movie>

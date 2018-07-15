@@ -1,0 +1,386 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Movie>
+  <art>
+    <item external="True" url="http://image.tmdb.org/t/p/original/kqKcID44nGtIxhhzmziAX65abRx.jpg" sort_order="1" provider="com.plexapp.agents.imdb" media="com.plexapp.agents.imdb_0a30871e7a62f26d09649255617c6c5f827eeba1"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/qfJYDXyQAt0WqnJgf4u1Mk2lgiX.jpg" preview="com.plexapp.agents.imdb_f8820f61888987842b45f73ef6ad3bbc6f1277f6" sort_order="2" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/r4KPOUFszYUhi1TTKt7ZRuBTIj5.jpg" preview="com.plexapp.agents.imdb_20534453039da66dc06e5bb1432427d31e5cd1e6" sort_order="3" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/yp4WHdN43lLF8o6jHTBULkaOcHS.jpg" preview="com.plexapp.agents.imdb_6fbee34de6e913d738decbf55d92549c03e7b4e9" sort_order="4" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/5jiuLMy2I7HheG2XjRBfksOZ2Ex.jpg" preview="com.plexapp.agents.imdb_180bdb6a7fa31e3350b7ab8fc7cbb694ef481269" sort_order="5" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/qMLcdPaFmlFvHOVOrgVslBgxoIa.jpg" preview="com.plexapp.agents.imdb_61cd2e6991b51aebca24fef25ffe8fe36747f088" sort_order="6" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/t9J4CXTBAhvJAgrER9pTNrBEL87.jpg" preview="com.plexapp.agents.imdb_5b3692d821d2551c05da145437b9963b7a6936b4" sort_order="7" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/j6zVVrbT3Qv6GkU90A25PxtHpJS.jpg" preview="com.plexapp.agents.imdb_0d65e1619e14406bad66eddafe318b07a6fdf9d3" sort_order="8" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/2RwmhjQ0KNP16H0Ef9gsQ1Qrqer.jpg" preview="com.plexapp.agents.imdb_809148e2bb5f1bee13052a4711bc2d4190f2896a" sort_order="9" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/34Nijv9Y0JDnxaloN4J72AkRWL.jpg" preview="com.plexapp.agents.imdb_86b230ad0b54b11a289f6ace8f416fb89c6ab4e6" sort_order="10" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/hDtpiUHnKyxeiaHOeWuE1EqaykH.jpg" preview="com.plexapp.agents.imdb_61dd7f2783ab389e92f06dd4e4d26988f5f8b108" sort_order="11" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/6DeFDo7zdYj8aMe7OJWto7Rk6zz.jpg" preview="com.plexapp.agents.imdb_9ced163e54f470d80cbf6a27dc45fde28e5d1fb3" sort_order="12" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/gAVcEMiT63gUvrSCDRrCe3vZJXF.jpg" preview="com.plexapp.agents.imdb_3b1c47019929221fdf7f680cc2cdf58a5120aa52" sort_order="13" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/3OUKxCiH71TbStuowb33zSkgXr4.jpg" preview="com.plexapp.agents.imdb_17277fc6e810729c3449e295b27cbdb612027fab" sort_order="14" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/p11oLnnjnfceuayZdQZu3WkqLoj.jpg" preview="com.plexapp.agents.imdb_e494196106a2049c18125f9bcc0ee146cd8e122e" sort_order="15" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/9dr3UpYlGpsKv9vpeVjuDvAC61v.jpg" preview="com.plexapp.agents.imdb_018aa2bfe37dc636173b2b46e391ece267bd79b5" sort_order="16" provider="com.plexapp.agents.imdb"/>
+  </art>
+  <banners/>
+  <chapters>
+    <item index="0">
+      <title>Chapter 1</title>
+      <end_time_offset>343000</end_time_offset>
+      <start_time_offset>0</start_time_offset>
+    </item>
+    <item index="1">
+      <title>Chapter 2</title>
+      <end_time_offset>494000</end_time_offset>
+      <start_time_offset>343000</start_time_offset>
+    </item>
+    <item index="2">
+      <title>Chapter 3</title>
+      <end_time_offset>857000</end_time_offset>
+      <start_time_offset>494000</start_time_offset>
+    </item>
+    <item index="3">
+      <title>Chapter 4</title>
+      <end_time_offset>1182000</end_time_offset>
+      <start_time_offset>857000</start_time_offset>
+    </item>
+    <item index="4">
+      <title>Chapter 5</title>
+      <end_time_offset>1449000</end_time_offset>
+      <start_time_offset>1182000</start_time_offset>
+    </item>
+    <item index="5">
+      <title>Chapter 6</title>
+      <end_time_offset>1641000</end_time_offset>
+      <start_time_offset>1449000</start_time_offset>
+    </item>
+    <item index="6">
+      <title>Chapter 7</title>
+      <end_time_offset>2161000</end_time_offset>
+      <start_time_offset>1641000</start_time_offset>
+    </item>
+    <item index="7">
+      <title>Chapter 8</title>
+      <end_time_offset>2389000</end_time_offset>
+      <start_time_offset>2161000</start_time_offset>
+    </item>
+    <item index="8">
+      <title>Chapter 9</title>
+      <end_time_offset>2906000</end_time_offset>
+      <start_time_offset>2389000</start_time_offset>
+    </item>
+    <item index="9">
+      <title>Chapter 10</title>
+      <end_time_offset>3279000</end_time_offset>
+      <start_time_offset>2906000</start_time_offset>
+    </item>
+    <item index="10">
+      <title>Chapter 11</title>
+      <end_time_offset>3657000</end_time_offset>
+      <start_time_offset>3279000</start_time_offset>
+    </item>
+    <item index="11">
+      <title>Chapter 12</title>
+      <end_time_offset>3990000</end_time_offset>
+      <start_time_offset>3657000</start_time_offset>
+    </item>
+    <item index="12">
+      <title>Chapter 13</title>
+      <end_time_offset>4321000</end_time_offset>
+      <start_time_offset>3990000</start_time_offset>
+    </item>
+    <item index="13">
+      <title>Chapter 14</title>
+      <end_time_offset>4810000</end_time_offset>
+      <start_time_offset>4321000</start_time_offset>
+    </item>
+    <item index="14">
+      <title>Chapter 15</title>
+      <end_time_offset>5220000</end_time_offset>
+      <start_time_offset>4810000</start_time_offset>
+    </item>
+    <item index="15">
+      <title>Chapter 16</title>
+      <end_time_offset>-1</end_time_offset>
+      <start_time_offset>5220000</start_time_offset>
+    </item>
+  </chapters>
+  <collections/>
+  <content_rating>R</content_rating>
+  <countries>
+    <item index="0">United Kingdom</item>
+  </countries>
+  <directors>
+    <item index="0">
+      <photo>http://image.tmdb.org/t/p/original/xHxcow0RqzkTM2vwgfnpOT2FoSe.jpg</photo>
+      <role/>
+      <name>Pete Travis</name>
+    </item>
+  </directors>
+  <duration>5700000</duration>
+  <genres>
+    <item index="0">Action</item>
+    <item index="1">Crime</item>
+    <item index="2">Sci-Fi</item>
+  </genres>
+  <originally_available_at>2012-09-07</originally_available_at>
+  <posters>
+    <item external="True" url="http://image.tmdb.org/t/p/original/71fkYuMVMtdbREh9Mp3gTFmI8Bv.jpg" sort_order="1" provider="com.plexapp.agents.imdb" media="com.plexapp.agents.imdb_5258967962c65cf4f7bd84d869157a3feff05459"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/3ybGfXLODiI1aQrGAIEseXlnquk.jpg" preview="com.plexapp.agents.imdb_19e513eb88fbf8994eb0a61783bd745052925bfe" sort_order="2" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/tloHWmKDv1i0tXjis1ra1qTmxoT.jpg" preview="com.plexapp.agents.imdb_7eb910039d57df499cf4fb7ac2c5234396b498ed" sort_order="3" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/rcgGcwb6nlCwIk8Vs83kxG1W9ob.jpg" preview="com.plexapp.agents.imdb_1973bcda38b28f513f24b9ceb45c892075bbd3ae" sort_order="4" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/cjzzgEFQuBvD5hlMkkc5RfItnpq.jpg" preview="com.plexapp.agents.imdb_5a742cb6d1f012ce680cd2335839457beed7b5be" sort_order="5" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/sMDSIHSO2gBhKNI85ltpL989LUm.jpg" preview="com.plexapp.agents.imdb_5e8abd185ff961f9a0ae7ea85be8b35e5365e683" sort_order="6" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/1mjKPbRfSOfzGJJvnnvWtN6eDcp.jpg" preview="com.plexapp.agents.imdb_4e7e4e32332ccdb6c473b96da15c061bfa5904e8" sort_order="7" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/9iRC9ObQAfrn2viZ3Wer7JU8CRR.jpg" preview="com.plexapp.agents.imdb_6438720fef25880086dec705e6113d0473509f27" sort_order="8" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/y9hjWA59fD7kcmLqNL1lRbGsNIo.jpg" preview="com.plexapp.agents.imdb_4e143d67a3ee368d429fc1036c50450946f7ed00" sort_order="9" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/c6Ng476h5u2yDbZ7tMmuzp0FOJ0.jpg" preview="com.plexapp.agents.imdb_9dc47f7b3ecf3e5e57f503207500ca5e915ca5d9" sort_order="10" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/bxKtPF8DhIKwRaVl5XOxMtO1yiP.jpg" preview="com.plexapp.agents.imdb_6005c65896280d65adb7287579d2adfc926ebe85" sort_order="11" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/ffPRYPQsjwMFoI0GYrwHuMMdEVE.jpg" preview="com.plexapp.agents.imdb_0974fa539396a5193509cffadd716c998ab3a81b" sort_order="12" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/rMc1plzCBZKWXDTbPsFev1fe0gk.jpg" preview="com.plexapp.agents.imdb_c7fb53e2dabc06937f8644fb187c6e3ebfc74d25" sort_order="13" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/wHwA6FRnI6KE2jn6z0CVXjOG9Wa.jpg" preview="com.plexapp.agents.imdb_3c7bb37c122a76b4208ec0a5cb8015d691c6d346" sort_order="14" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/hTHiKwQImArATpaxsdySh1NnHit.jpg" preview="com.plexapp.agents.imdb_525b7480629117ed635b2f3a06e1188549085118" sort_order="15" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/t6PAXmMEVpStwzdl9u1MW3AUfZU.jpg" preview="com.plexapp.agents.imdb_4465a90a268eec22e43df07a5625e3ef2ec67c83" sort_order="16" provider="com.plexapp.agents.imdb"/>
+  </posters>
+  <producers>
+    <item index="0">
+      <photo/>
+      <role/>
+      <name>Allon Reich</name>
+    </item>
+  </producers>
+  <rating>7.8</rating>
+  <rating_image>rottentomatoes://image.rating.ripe</rating_image>
+  <audience_rating>7.2</audience_rating>
+  <audience_rating_image>rottentomatoes://image.rating.upright</audience_rating_image>
+  <reviews>
+    <item index="0">
+      <text>While not for the squeamish, Dredd 3D is an effectively gritty B movie accentuated by stylish visuals and irreverent humor.</text>
+      <source>USA Today</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>http://rssfeeds.usatoday.com/~r/UsatodaycomMovies-TopStories/~3/6NCe7PJFSCM/1</link>
+      <author>Claudia Puig</author>
+    </item>
+    <item index="1">
+      <text>Proves a surprisingly unimaginative cops vs. drug lord story, complete with the weathered veteran forced to take a rookie under his wing.</text>
+      <source>Newsday</source>
+      <image>rottentomatoes://image.review.rotten</image>
+      <link>http://www.newsday.com/entertainment/movies/dredd-review-satire-played-straight-1.4019082</link>
+      <author>Frank Lovece</author>
+    </item>
+    <item index="2">
+      <text>My notes are as follows: "Shoot bad guy." "Shoot bad guy." "Shoot bad guy."</text>
+      <source>New York Post</source>
+      <image>rottentomatoes://image.review.rotten</image>
+      <link>http://www.nypost.com/p/entertainment/movies/you_ll_dredd_this_disaster_1PfzUN2Ft1g7MPEDueoUcO</link>
+      <author>Kyle Smith</author>
+    </item>
+    <item index="3">
+      <text>This, finally, is the Dredd movie comic book readers have been anticipating.</text>
+      <source>Washington Post</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>http://www.washingtonpost.com/gog/movies/dredd,1211066/critic-review.html</link>
+      <author>Sean O'Connell</author>
+    </item>
+    <item index="4">
+      <text>Smartly cast and with a sharp team behind the scenes, there is no good reason why "Dredd 3D" is such a clunk-headed action picture.</text>
+      <source>Los Angeles Times</source>
+      <image>rottentomatoes://image.review.rotten</image>
+      <link>http://www.latimes.com/entertainment/movies/moviesnow/la-et-mn-dredd-3d-20120921,0,3925203.story</link>
+      <author>Mark Olsen</author>
+    </item>
+    <item index="5">
+      <text>For sci-fi action fans, it's an instant classic.</text>
+      <source>Philadelphia Inquirer</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>http://www.philly.com/philly/entertainment/movies/20120921__Judge_Dredd___A_classic__or_a_mess__you_decide.html</link>
+      <author>David Hiltbrand</author>
+    </item>
+    <item index="6">
+      <text>It's savage, beautiful and loads of fun.</text>
+      <source>NPR</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>http://www.npr.org/2012/09/20/161272582/nothing-to-dredd-about-a-new-action-adaptation?ft=1&amp;f=1045</link>
+      <author>Joel Arnold</author>
+    </item>
+    <item index="7">
+      <text>What's exceptional is the orchestration of color, form, light and dark (lots of dark), 3-D technology and digital effects into a look that amounts to a vision.</text>
+      <source>Wall Street Journal</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>http://online.wsj.com/article/SB10000872396390443995604578005201824449348.html</link>
+      <author>Joe Morgenstern</author>
+    </item>
+    <item index="8">
+      <text>In a generic way, the environment works. But it drains the material of what should be most unique about it, and leaves Urban twisting despite a tightly coiled performance.</text>
+      <source>Boston Globe</source>
+      <image>rottentomatoes://image.review.rotten</image>
+      <link>http://www.boston.com/ae/movies/2012/09/20/movie-review-dredd-without-enough-crazy/p9W4aGjP0jVilDUXA1vqmM/story.html</link>
+      <author>Tom Russo</author>
+    </item>
+    <item index="9">
+      <text>"Dredd" is a lot of murk and grunt with no inner engine. And the unnecessary 3-D only makes it look muddier.</text>
+      <source>New York Daily News</source>
+      <image>rottentomatoes://image.review.rotten</image>
+      <link>http://www.nydailynews.com/entertainment/tv-movies/movie-review-dredd-article-1.1163683</link>
+      <author>Joe Neumaier</author>
+    </item>
+    <item index="10">
+      <text>A fine piece of cheap entertainment.</text>
+      <source>San Francisco Chronicle</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>http://www.sfgate.com/movies/article/Dredd-3D-review-Bleak-and-violent-3881063.php</link>
+      <author>Peter Hartlaub</author>
+    </item>
+    <item index="11">
+      <text>With its dark characters and the grim setting, the film masterfully creates a compelling, nightmarish atmosphere.</text>
+      <source>Arizona Republic</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>http://www.azcentral.com/thingstodo/movies/articles/2012/09/20/20120920dredd-movie-review.html</link>
+      <author>Randy Cordova</author>
+    </item>
+    <item index="12">
+      <text>Urban manages to give a credibly wry performance using little more than his gravelly, imitation-Eastwood voice - and his chin.</text>
+      <source>Entertainment Weekly</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>http://www.ew.com/ew/article/0,,20483133_20620106,00.html</link>
+      <author>Darren Franich</author>
+    </item>
+    <item index="13">
+      <text>"Dredd 3D" may present a dreary vision of the future, but it offers a promising encapsulation of the modern action movie.</text>
+      <source>indieWire</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>http://www.indiewire.com/article/how-dredd-3d-represents-the-good-bad-and-ugly-of-modern-action-movies</link>
+      <author>Eric Kohn</author>
+    </item>
+    <item index="14">
+      <text>Mostly a bunch of flatly staged bits of action shot against anonymous backgrounds.</text>
+      <source>AV Club</source>
+      <image>rottentomatoes://image.review.rotten</image>
+      <link>http://www.avclub.com/articles/dredd,85173/</link>
+      <author>Keith Phipps</author>
+    </item>
+    <item index="15">
+      <text>Even if the similarity to The Raid: Redemption is pure coincidence, Dredd 3D suffers greatly by comparison, as it fails to muster even half of the thrills of its predecessor.</text>
+      <source>TheWrap</source>
+      <image>rottentomatoes://image.review.rotten</image>
+      <link>http://www.thewrap.com/movies/column-post/dredd-3d-review-action-movie-not-smart-enough-know-how-dumb-it-57176</link>
+      <author>Alonso Duralde</author>
+    </item>
+    <item index="16">
+      <text>Dredd is proudly degenerate-and it never feels compelled to slow down and explain itself.</text>
+      <source>Village Voice</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>http://www.villagevoice.com/2012-09-19/film/the-dark-dredd-3-d-is-nothing-to-fear/</link>
+      <author>Simon Abrams</author>
+    </item>
+  </reviews>
+  <roles>
+    <item index="0">
+      <photo>http://image.tmdb.org/t/p/original/tHYOUO33K7iaDw8nXyqRvDIkVuM.jpg</photo>
+      <role>Judge Dredd</role>
+      <name>Karl Urban</name>
+    </item>
+    <item index="1">
+      <photo>http://image.tmdb.org/t/p/original/kDzFwMc2WZZQD3No2ULn3G8Sj42.jpg</photo>
+      <role>Anderson</role>
+      <name>Olivia Thirlby</name>
+    </item>
+    <item index="2">
+      <photo>http://image.tmdb.org/t/p/original/2Mv9R3ncZNgx9STyfmDJYLM6sPg.jpg</photo>
+      <role>Ma-Ma</role>
+      <name>Lena Headey</name>
+    </item>
+    <item index="3">
+      <photo>http://image.tmdb.org/t/p/original/u88haG6iG7zwV0PTk9tSG5obaeP.jpg</photo>
+      <role>Kay</role>
+      <name>Wood Harris</name>
+    </item>
+    <item index="4">
+      <photo>http://image.tmdb.org/t/p/original/scn3r86ekzN1RQpsLc6Rhb7D76x.jpg</photo>
+      <role>Zwirner</role>
+      <name>Jason Cope</name>
+    </item>
+    <item index="5">
+      <photo>http://image.tmdb.org/t/p/original/nSZ0JZEvHnEJ3sxQ8TWwOvQlMSo.jpg</photo>
+      <role>Clan Techie</role>
+      <name>Domhnall Gleeson</name>
+    </item>
+    <item index="6">
+      <photo>http://image.tmdb.org/t/p/original/vCdshEaPP8lrClphIMwK65Wv2XA.jpg</photo>
+      <role>Chief Judge</role>
+      <name>Rakie Ayola</name>
+    </item>
+    <item index="7">
+      <photo>http://image.tmdb.org/t/p/original/w4gidsff3WG5WjsSu9spcHxh2uE.jpg</photo>
+      <role>Paramedic TJ</role>
+      <name>Deobia Oparei</name>
+    </item>
+    <item index="8">
+      <photo>http://image.tmdb.org/t/p/original/A46yo1No6vxFjxYS7eATjgPDtDO.jpg</photo>
+      <role>Judge Lex</role>
+      <name>Langley Kirkwood</name>
+    </item>
+    <item index="9">
+      <photo>http://image.tmdb.org/t/p/original/t12KLQgyB9oC86IvfbLB5J2BlZE.jpg</photo>
+      <role>Caleb</role>
+      <name>Warrick Grier</name>
+    </item>
+    <item index="10">
+      <photo>http://image.tmdb.org/t/p/original/mfuklIvNtqIR4jovnDpjeQsb8z6.jpg</photo>
+      <role>Japhet</role>
+      <name>Scott Sparrow</name>
+    </item>
+    <item index="11">
+      <photo>http://image.tmdb.org/t/p/original/cokfPKuMyrfWYPONUcPaSlHujXj.jpg</photo>
+      <role>Driver</role>
+      <name>Porteus Xandau</name>
+    </item>
+    <item index="12">
+      <photo>http://image.tmdb.org/t/p/original/wNW0XpdWxAe2pzVjbRagqdhBEHk.jpg</photo>
+      <role>Big Joe</role>
+      <name>Joe Vaz</name>
+    </item>
+    <item index="13">
+      <photo>http://image.tmdb.org/t/p/original/3HzCjGQQq68fbAG46ClccMs1SbU.jpg</photo>
+      <role>Cathy</role>
+      <name>Nicole Bailey</name>
+    </item>
+    <item index="14">
+      <photo>http://image.tmdb.org/t/p/original/e08CojIbdPtwL2OrnIDyzl8xLWg.jpg</photo>
+      <role>Judge Chan</role>
+      <name>Karl Thaning</name>
+    </item>
+  </roles>
+  <similar>
+    <item index="0">Total Recall</item>
+    <item index="1">Terminator Salvation</item>
+    <item index="2">The Raid</item>
+    <item index="3">Judge Dredd</item>
+    <item index="4">Starship Troopers</item>
+    <item index="5">Battle: Los Angeles</item>
+    <item index="6">The Chronicles of Riddick</item>
+    <item index="7">Pitch Black</item>
+    <item index="8">Equilibrium</item>
+    <item index="9">RoboCop</item>
+    <item index="10">Lockout</item>
+    <item index="11">John Carter</item>
+    <item index="12">Predators</item>
+    <item index="13">Surrogates</item>
+    <item index="14">Riddick</item>
+    <item index="15">Serenity</item>
+    <item index="16">Demolition Man</item>
+    <item index="17">Dark City</item>
+    <item index="18">Sunshine</item>
+    <item index="19">Pandorum</item>
+  </similar>
+  <studio>DNA Films</studio>
+  <summary>In the future, America is a dystopian wasteland. The latest scourge is Ma-Ma, a prostitute-turned-drug pusher with a dangerous new drug and aims to take over the city. The only possibility of stopping her is an elite group of urban police called Judges, who combine the duties of judge, jury and executioner to deliver a brutal brand of swift justice. But even the top-ranking Judge, Dredd, discovers that taking down Ma-Ma isn’t as easy as it seems in this explosive adaptation of the hugely popular comic series.</summary>
+  <tagline>Judgement is coming</tagline>
+  <tags/>
+  <themes/>
+  <title>Dredd</title>
+  <writers>
+    <item index="0">
+      <photo>http://image.tmdb.org/t/p/original/mijr9lMVIIc5Ts4rnc9tJNbQOux.jpg</photo>
+      <role/>
+      <name>Alex Garland</name>
+    </item>
+  </writers>
+  <year>2012</year>
+</Movie>

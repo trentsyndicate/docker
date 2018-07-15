@@ -1,0 +1,584 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Movie>
+  <art>
+    <item external="True" url="http://image.tmdb.org/t/p/original/5hJ0XDCxE3qGfp1H3h7HQP9rLfU.jpg" sort_order="1" provider="com.plexapp.agents.imdb" media="com.plexapp.agents.imdb_46bcee660476b0e1116e49273d03b354d1506a26"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/4rhJJYhAMOlxr2Iwhk7RNJKVPCU.jpg" preview="com.plexapp.agents.imdb_2477ebd9431c937806f07ab5831c9f446cd802cb" sort_order="2" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/zzIZiAxBwEjqMDborHqKwCPI0Fe.jpg" preview="com.plexapp.agents.imdb_b26d179c8ede97a5a50c863fcf68ed68c9f68168" sort_order="3" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/tv8J6uCTKsTlASa8luJqrFiJlBX.jpg" preview="com.plexapp.agents.imdb_b19b8572fc0ccd590f471d3a4240554d3a88d1f7" sort_order="4" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/c8iM9ipgkZNDSyfQYNSKBB7ORaG.jpg" preview="com.plexapp.agents.imdb_cad9c8dbd66438eb1b4fe625fe6bf12876f35aa6" sort_order="5" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/yNlVk0HnxvY5Z1raID9N6SKeFid.jpg" preview="com.plexapp.agents.imdb_f3c5671583cfaf88765a4e7108e9c7a5bbb5f18f" sort_order="6" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/rj6rHZVrNJBOgvIrd8MuDZgvRol.jpg" preview="com.plexapp.agents.imdb_65cdcb02eb7ebceb5f83069487603f78f050a671" sort_order="7" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/WtCMzZyc3X8ttK1IzK4O24TpqW.jpg" preview="com.plexapp.agents.imdb_a6a13eb09bad9b4e92f6584869703087c93326c7" sort_order="8" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/k36huckDH0v3LP1zo7maFt3mJC0.jpg" preview="com.plexapp.agents.imdb_9c40eb23a59a84af9fc84d93a408437d421d4134" sort_order="9" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/hlT4kVdcXqEK4Ol81HRL8gEqsha.jpg" preview="com.plexapp.agents.imdb_9f9be391be69e0d947d6bce5cafbdbdd60bb8e94" sort_order="10" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/uUkZ8rA36erYx77hKCRibAJcNlM.jpg" preview="com.plexapp.agents.imdb_14191ff642c40871a2d0bf4c7b1968e5bb06d89d" sort_order="11" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/eJ8CHKGhRjXaDab2kYt4vQqajKD.jpg" preview="com.plexapp.agents.imdb_85bac19d0e6994cd90368c5abb013179a7f288c6" sort_order="12" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/kWkGUeNmtH2tRGDImGmYnzj3i7N.jpg" preview="com.plexapp.agents.imdb_835bedadf462ad7f2ce5c4bdb44bf7324e3fd50a" sort_order="13" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/ePRR8cf52NCbMUxZVPFajARBSBx.jpg" preview="com.plexapp.agents.imdb_f05d14a5f99723593a4237478f2d115a9d9ee37f" sort_order="14" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/wIl2ViUARnL4vuFCTOLWchXolJ6.jpg" preview="com.plexapp.agents.imdb_6f0c9fc4b44cf7a74b666535d21c21ef5a306a40" sort_order="15" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/KNMMqwLjsji0MgCy2nxbMLK7KD.jpg" preview="com.plexapp.agents.imdb_3f645248e0c57585d5d3ab64f9afee9858f49724" sort_order="16" provider="com.plexapp.agents.imdb"/>
+  </art>
+  <banners/>
+  <chapters>
+    <item index="0">
+      <title>Credits and Forward</title>
+      <end_time_offset>178000</end_time_offset>
+      <start_time_offset>0</start_time_offset>
+    </item>
+    <item index="1">
+      <title>Eye on the City</title>
+      <end_time_offset>271000</end_time_offset>
+      <start_time_offset>178000</start_time_offset>
+    </item>
+    <item index="2">
+      <title>Leon's Emotional Response</title>
+      <end_time_offset>446000</end_time_offset>
+      <start_time_offset>271000</start_time_offset>
+    </item>
+    <item index="3">
+      <title>Street Scene; Interrupted Sushi</title>
+      <end_time_offset>678000</end_time_offset>
+      <start_time_offset>446000</start_time_offset>
+    </item>
+    <item index="4">
+      <title>The Old Blade Runner Magic</title>
+      <end_time_offset>778000</end_time_offset>
+      <start_time_offset>678000</start_time_offset>
+    </item>
+    <item index="5">
+      <title>The Replicants in Question</title>
+      <end_time_offset>1018000</end_time_offset>
+      <start_time_offset>778000</start_time_offset>
+    </item>
+    <item index="6">
+      <title>Rachael; the Voight-Kampff Test</title>
+      <end_time_offset>1358000</end_time_offset>
+      <start_time_offset>1018000</start_time_offset>
+    </item>
+    <item index="7">
+      <title>Leon's Apartment</title>
+      <end_time_offset>1504000</end_time_offset>
+      <start_time_offset>1358000</start_time_offset>
+    </item>
+    <item index="8">
+      <title>Chew's Visitors</title>
+      <end_time_offset>1678000</end_time_offset>
+      <start_time_offset>1504000</start_time_offset>
+    </item>
+    <item index="9">
+      <title>If Only You Could See...</title>
+      <end_time_offset>1821000</end_time_offset>
+      <start_time_offset>1678000</start_time_offset>
+    </item>
+    <item index="10">
+      <title>A Visitor with Someone Else's Memories</title>
+      <end_time_offset>2179000</end_time_offset>
+      <start_time_offset>1821000</start_time_offset>
+    </item>
+    <item index="11">
+      <title>Pris Meets Sebastian</title>
+      <end_time_offset>2490000</end_time_offset>
+      <start_time_offset>2179000</start_time_offset>
+    </item>
+    <item index="12">
+      <title>Deckard's Dream</title>
+      <end_time_offset>2543000</end_time_offset>
+      <start_time_offset>2490000</start_time_offset>
+    </item>
+    <item index="13">
+      <title>Computer Photo Scan</title>
+      <end_time_offset>2756000</end_time_offset>
+      <start_time_offset>2543000</start_time_offset>
+    </item>
+    <item index="14">
+      <title>Manufactured Skin</title>
+      <end_time_offset>2924000</end_time_offset>
+      <start_time_offset>2756000</start_time_offset>
+    </item>
+    <item index="15">
+      <title>Miss Salome's Dressing Room</title>
+      <end_time_offset>3318000</end_time_offset>
+      <start_time_offset>2924000</start_time_offset>
+    </item>
+    <item index="16">
+      <title>Pursuing Zhora</title>
+      <end_time_offset>3447000</end_time_offset>
+      <start_time_offset>3318000</start_time_offset>
+    </item>
+    <item index="17">
+      <title>Retirement...Witnessed</title>
+      <end_time_offset>3584000</end_time_offset>
+      <start_time_offset>3447000</start_time_offset>
+    </item>
+    <item index="18">
+      <title>How Many to Go?</title>
+      <end_time_offset>3709000</end_time_offset>
+      <start_time_offset>3584000</start_time_offset>
+    </item>
+    <item index="19">
+      <title>Wake Up. Time to Die.</title>
+      <end_time_offset>3798000</end_time_offset>
+      <start_time_offset>3709000</start_time_offset>
+    </item>
+    <item index="20">
+      <title>I Am the Business. I Owe You One.</title>
+      <end_time_offset>4064000</end_time_offset>
+      <start_time_offset>3798000</start_time_offset>
+    </item>
+    <item index="21">
+      <title>The Real Thing?</title>
+      <end_time_offset>4359000</end_time_offset>
+      <start_time_offset>4064000</start_time_offset>
+    </item>
+    <item index="22">
+      <title>There's Only Two of Us Now.</title>
+      <end_time_offset>4573000</end_time_offset>
+      <start_time_offset>4359000</start_time_offset>
+    </item>
+    <item index="23">
+      <title>We Need You, Sebastian.</title>
+      <end_time_offset>4812000</end_time_offset>
+      <start_time_offset>4573000</start_time_offset>
+    </item>
+    <item index="24">
+      <title>The Right Moves</title>
+      <end_time_offset>4954000</end_time_offset>
+      <start_time_offset>4812000</start_time_offset>
+    </item>
+    <item index="25">
+      <title>The Prodigal Son Brings Death</title>
+      <end_time_offset>5227000</end_time_offset>
+      <start_time_offset>4954000</start_time_offset>
+    </item>
+    <item index="26">
+      <title>No Way to Treat a Friend</title>
+      <end_time_offset>5325000</end_time_offset>
+      <start_time_offset>5227000</start_time_offset>
+    </item>
+    <item index="27">
+      <title>Death Among the Menagerie</title>
+      <end_time_offset>5642000</end_time_offset>
+      <start_time_offset>5325000</start_time_offset>
+    </item>
+    <item index="28">
+      <title>Proud of Yourself, Little Man?</title>
+      <end_time_offset>5814000</end_time_offset>
+      <start_time_offset>5642000</start_time_offset>
+    </item>
+    <item index="29">
+      <title>Wounded Animals</title>
+      <end_time_offset>6072000</end_time_offset>
+      <start_time_offset>5814000</start_time_offset>
+    </item>
+    <item index="30">
+      <title>The Building Ledge</title>
+      <end_time_offset>6157000</end_time_offset>
+      <start_time_offset>6072000</start_time_offset>
+    </item>
+    <item index="31">
+      <title>The Roof</title>
+      <end_time_offset>6271000</end_time_offset>
+      <start_time_offset>6157000</start_time_offset>
+    </item>
+    <item index="32">
+      <title>To Live in Fear</title>
+      <end_time_offset>6356000</end_time_offset>
+      <start_time_offset>6271000</start_time_offset>
+    </item>
+    <item index="33">
+      <title>Like Tears in Rain. But Then Again, Who Does?</title>
+      <end_time_offset>6544000</end_time_offset>
+      <start_time_offset>6356000</start_time_offset>
+    </item>
+    <item index="34">
+      <title>Souvenir of Dreams</title>
+      <end_time_offset>6741000</end_time_offset>
+      <start_time_offset>6544000</start_time_offset>
+    </item>
+    <item index="35">
+      <title>End Credits</title>
+      <end_time_offset>-1</end_time_offset>
+      <start_time_offset>6741000</start_time_offset>
+    </item>
+  </chapters>
+  <collections/>
+  <content_rating>R</content_rating>
+  <countries>
+    <item index="0">USA</item>
+  </countries>
+  <directors>
+    <item index="0">
+      <photo>http://image.tmdb.org/t/p/original/fB1ypzkwJKXEOVVAd4ymYRpBkdC.jpg</photo>
+      <role/>
+      <name>Ridley Scott</name>
+    </item>
+  </directors>
+  <duration>7020000</duration>
+  <genres>
+    <item index="0">Sci-Fi</item>
+    <item index="1">Thriller</item>
+  </genres>
+  <originally_available_at>1982-06-25</originally_available_at>
+  <posters>
+    <item external="True" url="http://image.tmdb.org/t/p/original/p64TtbZGCElxQHpAMWmDHkWJlH2.jpg" sort_order="1" provider="com.plexapp.agents.imdb" media="com.plexapp.agents.imdb_30dd9cc9c059396c84499f56b1021b62b38f559d"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/vfzE3pjE5G7G7kcZWrA3fnbZo7V.jpg" preview="com.plexapp.agents.imdb_b4539086df2c15bfec7615a5903bb0d86f18b1dd" sort_order="2" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/5ig0kdWz5kxR4PHjyCgyI5khCzd.jpg" preview="com.plexapp.agents.imdb_da77ce239806da897146990fd39254970903209c" sort_order="3" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/ad1WcgMdukB1d1jMwGFIHoiZMGP.jpg" preview="com.plexapp.agents.imdb_53b0bf993baefbf06670ae973768b3f116a584e9" sort_order="4" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/wuvsU227d8pvHvTRaqkPlsj0OvD.jpg" preview="com.plexapp.agents.imdb_bea60c45a2521c2274bd11ec0983689bdc6cb528" sort_order="5" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/j9vy0FOCga6AhYvPXtOBhdLCSfQ.jpg" preview="com.plexapp.agents.imdb_ea9597a174cab66ae5f7ed279a130d1fe8b0de9b" sort_order="6" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/81temNemOgNsb4IXc6kzvtMndSQ.jpg" preview="com.plexapp.agents.imdb_5af29d70ef5f91791750c759310f2e81358bb830" sort_order="7" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/wTidvwLehLxnXoH3DSW1GKn6BUw.jpg" preview="com.plexapp.agents.imdb_c8ffc3b945f1b30e83caa6c0f3866c341ad7a41c" sort_order="8" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/8AZmkpVAwP06rQ7m2suLOQob322.jpg" preview="com.plexapp.agents.imdb_e6b06f72c36ec21b96a6581a6235419dc7d6e8f9" sort_order="9" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/qYW8ulR6iEJuyjmf2s8sZvGOgFW.jpg" preview="com.plexapp.agents.imdb_857b0690db70264c086cdc8bf16b0f7ea9a1d6d2" sort_order="10" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/fWy8FTiRs3QEW9OpZjiPnFWKHTB.jpg" preview="com.plexapp.agents.imdb_ba5bdb962381a2ffadf16cffc170c4dfdbb3904b" sort_order="11" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/fGvowqtslQpQTJxG5mUdUPht4zw.jpg" preview="com.plexapp.agents.imdb_3170aa2cebd0f45886efcb33caba2c4f00158b5f" sort_order="12" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/d14DGAZeIgiwtWlg4uMfLLXqpCy.jpg" preview="com.plexapp.agents.imdb_3e7724ae61f53384026835fd24447ecf6e57c2f9" sort_order="13" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/9W9lhpiokcltzDLOnzMIPVrox4A.jpg" preview="com.plexapp.agents.imdb_cffc9606daa6e3a211fd382ef81ee5013db67c06" sort_order="14" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/sg8gMTxbN0s6NKMQtyGMZ9GpOJt.jpg" preview="com.plexapp.agents.imdb_7681e11db84caca0868149b45641aef76163ee07" sort_order="15" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/yZa3P4NhAF6mjdj7BGh6xJSZlSE.jpg" preview="com.plexapp.agents.imdb_8615bd51b395405dc0f6716da5358fbad5e27f8a" sort_order="16" provider="com.plexapp.agents.imdb"/>
+  </posters>
+  <producers>
+    <item index="0">
+      <photo/>
+      <role/>
+      <name>Michael Deeley</name>
+    </item>
+  </producers>
+  <rating>9.0</rating>
+  <rating_image>rottentomatoes://image.rating.ripe</rating_image>
+  <audience_rating>9.1</audience_rating>
+  <audience_rating_image>rottentomatoes://image.rating.upright</audience_rating_image>
+  <reviews>
+    <item index="0">
+      <text>Film noir cubed, science fiction a step beyond 2001.</text>
+      <source>Los Angeles Times</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>http://articles.latimes.com/1992-09-11/entertainment/ca-30_1_blade-runner</link>
+      <author>Michael Wilmington</author>
+    </item>
+    <item index="1">
+      <text>Too bad the filmmakers didn't try to recapture the modest virtues of the Dick novel, which (despite many flaws of its own) has a humor and humanity that are nowhere felt in 'Blade Runner.</text>
+      <source>Christian Science Monitor</source>
+      <image>rottentomatoes://image.review.rotten</image>
+      <link>http://www.csmonitor.com/1982/0715/071502.html</link>
+      <author>Peter Rainer</author>
+    </item>
+    <item index="2">
+      <text>The contradictions that plague the movie are apparent from the outset.</text>
+      <source>Washington Post</source>
+      <image>rottentomatoes://image.review.rotten</image>
+      <link>http://www.washingtonpost.com/archive/lifestyle/1982/06/25/future-cop/0334e5d7-0f46-4299-9951-caf4a24adbdf/</link>
+      <author>Gary Arnold</author>
+    </item>
+    <item index="3">
+      <text>This is perhaps the only science-fiction film that can be called transcendental.</text>
+      <source>Entertainment Weekly</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>http://www.ew.com/ew/article/0,,311946,00.html</link>
+      <author>Owen Gleiberman</author>
+    </item>
+    <item index="4">
+      <text>As a display terminal for the wizardry of Designers Lawrence G. Paull, Douglas Trumbull and Syd Mead, the movie delivers.</text>
+      <source>TIME Magazine</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>http://www.time.com/time/magazine/article/0,9171,925566-1,00.html</link>
+      <author>Richard Corliss</author>
+    </item>
+    <item index="5">
+      <text>Paradoxically, Scott's crowded, misty, neon streetscape seems even murkier; fuzz I chalked up to VHS tapes is production designer Lawrence G. Paull dumping ashtrays in the air.</text>
+      <source>I.E. Weekly</source>
+      <image>rottentomatoes://image.review.rotten</image>
+      <link>http://www.ieweekly.com/cms/story/detail/bladerunner/572/</link>
+      <author>Amy Nicholson</author>
+    </item>
+    <item index="6">
+      <text>This definitive print should be the last little push that "Blade Runner" needs to complete its 25-year journey from box office failure to cult favorite to full-blown classic.</text>
+      <source>San Francisco Chronicle</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>http://www.sfgate.com/cgi-bin/article.cgi?f=/c/a/2007/11/30/DD8ITKJTK.DTL&amp;type=movies</link>
+      <author>Peter Hartlaub</author>
+    </item>
+    <item index="7">
+      <text>The film still represents the cutting edge of dark science fiction.</text>
+      <source>Minneapolis Star Tribune</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>http://www.startribune.com/entertainment/movies/11927711.html</link>
+      <author>Colin Covert</author>
+    </item>
+    <item index="8">
+      <text>Open the champagne: Blade Runner is finally just the way Ridley Scott wanted it. And it only took 25 years.</text>
+      <source>Boston Globe</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>http://www.boston.com/ae/movies/articles/2007/11/16/blade_runner_is_better_than_ever</link>
+      <author>Ty Burr</author>
+    </item>
+    <item index="9">
+      <text>There are no plot-altering additions or subtractions. But the digitally spruced print is gorgeous to look at and listen to.</text>
+      <source>Toronto Star</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>http://www.thestar.com/entertainment/Movies/article/274941</link>
+      <author>Peter Howell</author>
+    </item>
+    <item index="10">
+      <text>Much of the film's erotic charge and moral and ideological ambiguity stem from the fact that these characters are very nearly the only ones we care about.</text>
+      <source>Chicago Reader</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>http://onfilm.chicagoreader.com/movies/briefs/32342_BLADE_RUNNER_THE_FINAL_CUT.html</link>
+      <author>Jonathan Rosenbaum</author>
+    </item>
+    <item index="11">
+      <text>This is a seminal film, building on older classics like Metropolis or Things to Come, but establishing a pervasive view of the future that has influenced science fiction films ever since.</text>
+      <source>Chicago Sun-Times</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>http://www.rogerebert.com/reviews/great-movie-blade-runner-the-final-cut-1982</link>
+      <author>Roger Ebert</author>
+    </item>
+    <item index="12">
+      <text>Ridley Scott created a triumph of retro-futuristic design over narrative or character richness.</text>
+      <source>Chicago Tribune</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>http://articles.chicagotribune.com/2007-11-02/entertainment/0710310741_1_blade-runner-replicant-disc</link>
+      <author>Michael Phillips</author>
+    </item>
+    <item index="13">
+      <text>The opportunity to see one of the milestone visual achievements in a big hall with a giant screen is not to be missed. And even if you saw Blade Runner in a theater in 1982, this will be an entirely new experience.</text>
+      <source>New York Daily News</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>http://www.nydailynews.com/entertainment/movies/2007/10/05/2007-10-05_blade_runner_goes_back_to_the_future.html</link>
+      <author>Jack Mathews</author>
+    </item>
+    <item index="14">
+      <text>Mainly, the re-release is a good excuse to indulge once more in Scott's iconic and highly influential vision of a future Los Angeles choked by rain, neon and cheap pleasure palaces.</text>
+      <source>L.A. Weekly</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>http://www.laweekly.com/film/movie-reviews-kurt-cobain-about-a-son-michael-clayton-2150682</link>
+      <author>Scott Foundas</author>
+    </item>
+    <item index="15">
+      <text>These days, it's almost impossible to find a gritty science fiction motion picture that doesn't owe at least a small debt to Blade Runner's visual style.</text>
+      <source>ReelViews</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>http://www.reelviews.net/movies/b/blade_runner.html</link>
+      <author>James Berardinelli</author>
+    </item>
+    <item index="16">
+      <text>A stylistically dazzling film noir set in November 2019 in a brilliantly imagined Los Angeles marked by both technological wonders and horrendous squalor.</text>
+      <source>Variety</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>http://www.variety.com/review/VE1117789337.html?categoryid=31&amp;cs=1</link>
+      <author>Variety Staff</author>
+    </item>
+    <item index="17">
+      <text>The android villains are neither menacing nor sympathetic, when ideally they should have been both. This leaves Scott's picturesque violence looking dull and exploitative.</text>
+      <source>Time Out</source>
+      <image>rottentomatoes://image.review.rotten</image>
+      <link>http://www.timeout.com/film/reviews/67977/blade_runner.html</link>
+      <author>David Pirie</author>
+    </item>
+    <item index="18">
+      <text>As intricately detailed as anything a science-fiction film has yet envisioned.</text>
+      <source>New York Times</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>http://www.nytimes.com/movie/review?res=9A0DE4D71038F936A15755C0A964948260</link>
+      <author>Janet Maslin</author>
+    </item>
+  </reviews>
+  <roles>
+    <item index="0">
+      <photo>http://image.tmdb.org/t/p/original/7LOTdRfHU1H1qHBxpUv3jT04eWB.jpg</photo>
+      <role>Rick Deckard</role>
+      <name>Harrison Ford</name>
+    </item>
+    <item index="1">
+      <photo>http://image.tmdb.org/t/p/original/2x1S2VAUvZXZuDjZ4E9iEKINvNu.jpg</photo>
+      <role>Roy Batty</role>
+      <name>Rutger Hauer</name>
+    </item>
+    <item index="2">
+      <photo>http://image.tmdb.org/t/p/original/4zgkRFQruIlaJ4JakNZLoKJ70fH.jpg</photo>
+      <role>Rachael</role>
+      <name>Sean Young</name>
+    </item>
+    <item index="3">
+      <photo>http://image.tmdb.org/t/p/original/i7zKqsFqL5L1HPmAMeSA1xZzlD5.jpg</photo>
+      <role>Gaff</role>
+      <name>Edward James Olmos</name>
+    </item>
+    <item index="4">
+      <photo>http://image.tmdb.org/t/p/original/dLf79xlsmE40rog0gryjxsZJzml.jpg</photo>
+      <role>Bryant</role>
+      <name>M. Emmet Walsh</name>
+    </item>
+    <item index="5">
+      <photo>http://image.tmdb.org/t/p/original/4LLmp6AQdlj6ueGCRbVRSGvvFSt.jpg</photo>
+      <role>Pris</role>
+      <name>Daryl Hannah</name>
+    </item>
+    <item index="6">
+      <photo>http://image.tmdb.org/t/p/original/vR2EnhcPUqkIeXmHf10Sokeuw1J.jpg</photo>
+      <role>J.F. Sebastian</role>
+      <name>William Sanderson</name>
+    </item>
+    <item index="7">
+      <photo>http://image.tmdb.org/t/p/original/4Vm3Zq6arXq3jyFfq3yJgH9Jj2l.jpg</photo>
+      <role>Leon Kowalski</role>
+      <name>Brion James</name>
+    </item>
+    <item index="8">
+      <photo>http://image.tmdb.org/t/p/original/p8qRmki4MnEwiuTcGJH0LZVZxdz.jpg</photo>
+      <role>Eldon Tyrell</role>
+      <name>Joe Turkel</name>
+    </item>
+    <item index="9">
+      <photo>http://image.tmdb.org/t/p/original/p7CQ4EmGmtAaR3YWKRJTnmnRU8i.jpg</photo>
+      <role>Zhora</role>
+      <name>Joanna Cassidy</name>
+    </item>
+    <item index="10">
+      <photo>http://image.tmdb.org/t/p/original/8k4RrDRsqkvJDePU8ciMOOx5Zso.jpg</photo>
+      <role>Hannibal Chew</role>
+      <name>James Hong</name>
+    </item>
+    <item index="11">
+      <photo>http://image.tmdb.org/t/p/original/k8EaOIcEWYrWknWyR4zfQbansPN.jpg</photo>
+      <role>Holden</role>
+      <name>Morgan Paull</name>
+    </item>
+    <item index="12">
+      <photo>http://image.tmdb.org/t/p/original/pUKpoqEjQg7Isu0dJFBtootlWad.jpg</photo>
+      <role>Bear</role>
+      <name>Kevin Thompson</name>
+    </item>
+    <item index="13">
+      <photo/>
+      <role>Kaiser</role>
+      <name>John Edward Allen</name>
+    </item>
+    <item index="14">
+      <photo>http://image.tmdb.org/t/p/original/b7DfZgPV2lOvPJZNRrvMoAzxJ0t.jpg</photo>
+      <role>Taffey Lewis</role>
+      <name>Hy Pyke</name>
+    </item>
+    <item index="15">
+      <photo>http://image.tmdb.org/t/p/original/1WPGIg7JzUSGviTjH8vorQ4xG69.jpg</photo>
+      <role>Cambodian Lady</role>
+      <name>Kimiko Hiroshige</name>
+    </item>
+    <item index="16">
+      <photo>http://image.tmdb.org/t/p/original/ke2y5GnDnVR2BQ6y8Z8B4TXq2aj.jpg</photo>
+      <role>Howie Lee</role>
+      <name>Bob Okazaki</name>
+    </item>
+    <item index="17">
+      <photo/>
+      <role>Saleslady</role>
+      <name>Carolyn DeMirjian</name>
+    </item>
+    <item index="18">
+      <photo>http://image.tmdb.org/t/p/original/xbbqyADz11MnAh0733sJVBDYNMq.jpg</photo>
+      <role>Abdul Ben Hassan (uncredited)</role>
+      <name>Ben Astar</name>
+    </item>
+    <item index="19">
+      <photo/>
+      <role>Ming-Fa (uncredited)</role>
+      <name>Judith Burnett</name>
+    </item>
+    <item index="20">
+      <photo/>
+      <role>Louie - Bartender (uncredited)</role>
+      <name>Leo Gorcey Jr.</name>
+    </item>
+    <item index="21">
+      <photo>http://image.tmdb.org/t/p/original/pdF1PlmIaWP4N87PkGDS8GUpc9l.jpg</photo>
+      <role>Showgirl (uncredited)</role>
+      <name>Dawna Lee Heising</name>
+    </item>
+    <item index="22">
+      <photo/>
+      <role>Bar Patron (uncredited)</role>
+      <name>Sharon Hesky</name>
+    </item>
+    <item index="23">
+      <photo/>
+      <role>Showgirl (uncredited)</role>
+      <name>Kelly Hine</name>
+    </item>
+    <item index="24">
+      <photo/>
+      <role>Bartender (uncredited)</role>
+      <name>Tom Hutchinson</name>
+    </item>
+    <item index="25">
+      <photo/>
+      <role>Bartender (uncredited)</role>
+      <name>Charles Knapp</name>
+    </item>
+    <item index="26">
+      <photo/>
+      <role>Bar Patron (uncredited)</role>
+      <name>Rose Mascari</name>
+    </item>
+    <item index="27">
+      <photo/>
+      <role>Policeman (uncredited)</role>
+      <name>Jirô Okazaki</name>
+    </item>
+    <item index="28">
+      <photo/>
+      <role>Policeman (uncredited)</role>
+      <name>Steve Pope</name>
+    </item>
+    <item index="29">
+      <photo/>
+      <role>Policeman (uncredited)</role>
+      <name>Robert Reiter</name>
+    </item>
+    <item index="30">
+      <photo>http://image.tmdb.org/t/p/original/vu4RAoiD4eXXt0KRA882IwmZQAE.jpg</photo>
+      <role>Geisha #1 (uncredited)</role>
+      <name>Alexis Rhee</name>
+    </item>
+  </roles>
+  <similar>
+    <item index="0">2001: A Space Odyssey</item>
+    <item index="1">Apocalypse Now</item>
+    <item index="2">Alien</item>
+    <item index="3">Aliens</item>
+    <item index="4">Twelve Monkeys</item>
+    <item index="5">Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb</item>
+    <item index="6">The Thing</item>
+    <item index="7">Total Recall</item>
+    <item index="8">Fargo</item>
+    <item index="9">Raiders of the Lost Ark</item>
+    <item index="10">Indiana Jones and the Last Crusade</item>
+    <item index="11">The Terminator</item>
+    <item index="12">Full Metal Jacket</item>
+    <item index="13">Brazil</item>
+    <item index="14">Predator</item>
+    <item index="15">Taxi Driver</item>
+    <item index="16">Indiana Jones and the Temple of Doom</item>
+    <item index="17">Children of Men</item>
+    <item index="18">Moon</item>
+    <item index="19">The Good, the Bad and the Ugly</item>
+  </similar>
+  <studio>Warner Bros. Pictures</studio>
+  <summary>In the smog-choked dystopian Los Angeles of 2019, blade runner Rick Deckard is called out of retirement to terminate a quartet of replicants who have escaped to Earth seeking their creator for a way to extend their short life spans.</summary>
+  <tagline>Man has made his match... now it's his problem.</tagline>
+  <tags/>
+  <themes/>
+  <title>Blade Runner</title>
+  <writers>
+    <item index="0">
+      <photo>http://image.tmdb.org/t/p/original/3GsXumUZhYUgjTZpOnMQfpxflwL.jpg</photo>
+      <role/>
+      <name>Hampton Fancher</name>
+    </item>
+    <item index="1">
+      <photo>http://image.tmdb.org/t/p/original/6B8mGTnE5K7JJTmYuwzWaogkRSK.jpg</photo>
+      <role/>
+      <name>David Webb Peoples</name>
+    </item>
+  </writers>
+  <year>1982</year>
+</Movie>

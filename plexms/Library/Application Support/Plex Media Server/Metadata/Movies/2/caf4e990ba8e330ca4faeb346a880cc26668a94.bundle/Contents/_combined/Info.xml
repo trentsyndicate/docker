@@ -1,0 +1,523 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Movie>
+  <art>
+    <item external="True" url="http://image.tmdb.org/t/p/original/dJl5xLVNoIUOyeQdrrc2W9cl88m.jpg" sort_order="1" provider="com.plexapp.agents.imdb" media="com.plexapp.agents.imdb_e200ae79b9d0ccdd38b03d569eb2e96333ff0d04"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/qzbeaz5OAo3dSIFJ4avIvYhjUAZ.jpg" preview="com.plexapp.agents.imdb_8303ab8ecdc5ceb4abfda3d4fc151a7134f122f5" sort_order="2" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/scnwdvnt4N1FX6eHWDxEkQFoR1j.jpg" preview="com.plexapp.agents.imdb_24240bd6b1adc1a2e2554c0540e75f27262c7c97" sort_order="3" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/rZpMofGarCyOHF7kgz7dvjPPi3z.jpg" preview="com.plexapp.agents.imdb_70f1702e59a7792b86f1ed44c07b41a4594f3f20" sort_order="4" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/9GwZiQWyWHh6tlm3034ppnOZkR0.jpg" preview="com.plexapp.agents.imdb_721c1759e702a6c91b89cf473e522aad053d9380" sort_order="5" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/rHOBQJHdLzPCJ42895fPMB4M3tj.jpg" preview="com.plexapp.agents.imdb_4594b6306f565f7e99fe6ac58d810ceba26b7716" sort_order="6" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/5unsQMK7fdAzqEQgl85AkNk0Ruo.jpg" preview="com.plexapp.agents.imdb_d2655d7d46fb72afac67f01ec8a866a1dd8605fa" sort_order="7" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/rkc5vY78TgjEGmO4q12TFWrGWMq.jpg" preview="com.plexapp.agents.imdb_0c336bb58b5cab18850e955d12cfb03706ce1ede" sort_order="8" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/zqHClwHuAGskMIUT6HcsamIY24S.jpg" preview="com.plexapp.agents.imdb_ef702a0fd31e70bbc78389602b1d1267ddeaa4bc" sort_order="9" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/rCwVLRa65nuoWINUhZI6gt8kOYu.jpg" preview="com.plexapp.agents.imdb_f910f827363a17df22108e74547d9a9a00aa6494" sort_order="10" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/5p1Z6d3mlPFWKqrrjIrliEd1DF3.jpg" preview="com.plexapp.agents.imdb_0d57c13a7756831587bf82780fefbc85882a1543" sort_order="11" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/5KBm4jWUVgjTRoWidloY1w0ekJl.jpg" preview="com.plexapp.agents.imdb_e00cd2421c2f20995925acce46ad3848579889f7" sort_order="12" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/uW2wXQa8WTyq7EHO5shLukuSd80.jpg" preview="com.plexapp.agents.imdb_65e203664ce278fa118052e676d26909e9630830" sort_order="13" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/mAjHYrp1rLCyzBJwB6ApnWLXWHj.jpg" preview="com.plexapp.agents.imdb_ca3939f7960d08dc14c4622ff379a60c65707ad6" sort_order="14" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/xj87QIN6mpmspw8HO18TuuAcHUA.jpg" preview="com.plexapp.agents.imdb_4002052a100385a0ca93bda33fa20ea8fc158e9c" sort_order="15" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/whp96neQufSNv6VWuQ6JsAuSZZ2.jpg" preview="com.plexapp.agents.imdb_7cf77018d5dfaf3e1490f0bb90ded81ebf955cab" sort_order="16" provider="com.plexapp.agents.imdb"/>
+  </art>
+  <banners/>
+  <chapters>
+    <item index="0">
+      <title>The Arrest</title>
+      <end_time_offset>285000</end_time_offset>
+      <start_time_offset>0</start_time_offset>
+    </item>
+    <item index="1">
+      <title>Chance Encounter</title>
+      <end_time_offset>462000</end_time_offset>
+      <start_time_offset>285000</start_time_offset>
+    </item>
+    <item index="2">
+      <title>Childhood Friends</title>
+      <end_time_offset>785000</end_time_offset>
+      <start_time_offset>462000</start_time_offset>
+    </item>
+    <item index="3">
+      <title>Bending Time</title>
+      <end_time_offset>1024000</end_time_offset>
+      <start_time_offset>785000</start_time_offset>
+    </item>
+    <item index="4">
+      <title>Creating Coins</title>
+      <end_time_offset>1069000</end_time_offset>
+      <start_time_offset>1024000</start_time_offset>
+    </item>
+    <item index="5">
+      <title>Trade Secret</title>
+      <end_time_offset>1316000</end_time_offset>
+      <start_time_offset>1069000</start_time_offset>
+    </item>
+    <item index="6">
+      <title>Soul Reflections</title>
+      <end_time_offset>1608000</end_time_offset>
+      <start_time_offset>1316000</start_time_offset>
+    </item>
+    <item index="7">
+      <title>The Crown Prince</title>
+      <end_time_offset>1774000</end_time_offset>
+      <start_time_offset>1608000</start_time_offset>
+    </item>
+    <item index="8">
+      <title>Wishful Thinking</title>
+      <end_time_offset>2002000</end_time_offset>
+      <start_time_offset>1774000</start_time_offset>
+    </item>
+    <item index="9">
+      <title>A Polite Warning</title>
+      <end_time_offset>2214000</end_time_offset>
+      <start_time_offset>2002000</start_time_offset>
+    </item>
+    <item index="10">
+      <title>Excalibur</title>
+      <end_time_offset>2582000</end_time_offset>
+      <start_time_offset>2214000</start_time_offset>
+    </item>
+    <item index="11">
+      <title>Forbidden Love</title>
+      <end_time_offset>2932000</end_time_offset>
+      <start_time_offset>2582000</start_time_offset>
+    </item>
+    <item index="12">
+      <title>Surveillance</title>
+      <end_time_offset>3204000</end_time_offset>
+      <start_time_offset>2932000</start_time_offset>
+    </item>
+    <item index="13">
+      <title>Sophie's Defiance</title>
+      <end_time_offset>3438000</end_time_offset>
+      <start_time_offset>3204000</start_time_offset>
+    </item>
+    <item index="14">
+      <title>Consequences</title>
+      <end_time_offset>3581000</end_time_offset>
+      <start_time_offset>3438000</start_time_offset>
+    </item>
+    <item index="15">
+      <title>Murder Investigation</title>
+      <end_time_offset>3900000</end_time_offset>
+      <start_time_offset>3581000</start_time_offset>
+    </item>
+    <item index="16">
+      <title>The Illusionist</title>
+      <end_time_offset>4140000</end_time_offset>
+      <start_time_offset>3900000</start_time_offset>
+    </item>
+    <item index="17">
+      <title>Spirit Manifestations</title>
+      <end_time_offset>4346000</end_time_offset>
+      <start_time_offset>4140000</start_time_offset>
+    </item>
+    <item index="18">
+      <title>"It's Not Real"</title>
+      <end_time_offset>4730000</end_time_offset>
+      <start_time_offset>4346000</start_time_offset>
+    </item>
+    <item index="19">
+      <title>Sophie Speaks</title>
+      <end_time_offset>4987000</end_time_offset>
+      <start_time_offset>4730000</start_time_offset>
+    </item>
+    <item index="20">
+      <title>To Be with Her</title>
+      <end_time_offset>5061000</end_time_offset>
+      <start_time_offset>4987000</start_time_offset>
+    </item>
+    <item index="21">
+      <title>Public Disappearance</title>
+      <end_time_offset>5385000</end_time_offset>
+      <start_time_offset>5061000</start_time_offset>
+    </item>
+    <item index="22">
+      <title>The Locket</title>
+      <end_time_offset>5573000</end_time_offset>
+      <start_time_offset>5385000</start_time_offset>
+    </item>
+    <item index="23">
+      <title>The Gemstone</title>
+      <end_time_offset>5645000</end_time_offset>
+      <start_time_offset>5573000</start_time_offset>
+    </item>
+    <item index="24">
+      <title>"It's All a Trick"</title>
+      <end_time_offset>5896000</end_time_offset>
+      <start_time_offset>5645000</start_time_offset>
+    </item>
+    <item index="25">
+      <title>The Orange Tree</title>
+      <end_time_offset>6075000</end_time_offset>
+      <start_time_offset>5896000</start_time_offset>
+    </item>
+    <item index="26">
+      <title>Realization</title>
+      <end_time_offset>6257000</end_time_offset>
+      <start_time_offset>6075000</start_time_offset>
+    </item>
+    <item index="27">
+      <title>End Titles</title>
+      <end_time_offset>6531000</end_time_offset>
+      <start_time_offset>6257000</start_time_offset>
+    </item>
+    <item index="28">
+      <title>Chapter 29</title>
+      <end_time_offset>-1</end_time_offset>
+      <start_time_offset>6531000</start_time_offset>
+    </item>
+  </chapters>
+  <collections/>
+  <content_rating>PG-13</content_rating>
+  <countries>
+    <item index="0">USA</item>
+  </countries>
+  <directors>
+    <item index="0">
+      <photo>http://image.tmdb.org/t/p/original/eUDHt2OWYnCwC8FOVIgU2uTPK3x.jpg</photo>
+      <role/>
+      <name>Neil Burger</name>
+    </item>
+  </directors>
+  <duration>6600000</duration>
+  <genres>
+    <item index="0">Drama</item>
+    <item index="1">Mystery</item>
+    <item index="2">Romance</item>
+    <item index="3">Thriller</item>
+  </genres>
+  <originally_available_at>2006-08-18</originally_available_at>
+  <posters>
+    <item external="True" url="http://image.tmdb.org/t/p/original/sRYw9oAiporMpq1GWcYHqmpdeAO.jpg" sort_order="1" provider="com.plexapp.agents.imdb" media="com.plexapp.agents.imdb_080b3f5e1c1958a20d59f82e6962c0f16c492413"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/wlRNgr1AsodUmpUTl3eFz2Hfl20.jpg" preview="com.plexapp.agents.imdb_27f8c5260dd9700b47823639cb139dec16971872" sort_order="2" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/1Hxq6ZQiQctCKDfrQIEzrij1sQm.jpg" preview="com.plexapp.agents.imdb_a6b14e41de514c1b5d5020ce80737e61c26a6b97" sort_order="3" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/pxODasXss5OiqQju0vdFMFJIagx.jpg" preview="com.plexapp.agents.imdb_53af877656179fe1959cd5a6ce49dbcac19f4012" sort_order="4" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/mqbmHe27vi5IVGqOsFhULCakpi2.jpg" preview="com.plexapp.agents.imdb_23adb97b3d9a4fe45005a6c4d4cd9c819362d0da" sort_order="5" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/pxpLXGJniX36fh4xkmNVnlyACBa.jpg" preview="com.plexapp.agents.imdb_057e1a49b219e057eb1e1f33e5ada7babc1a7a61" sort_order="6" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/fP7IprEn04bjxfT0x8cA6x9ZUGF.jpg" preview="com.plexapp.agents.imdb_903b52a7fe4dadc6330c4bc8441232f6e4d17d90" sort_order="7" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/yYA2YDvP7HLecqHGennguXaO6df.jpg" preview="com.plexapp.agents.imdb_3ed218ffa5eef88bb57f00332a595607be4b22ff" sort_order="8" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/t6kto8hzMwgl5ORmn2K7XLyESU2.jpg" preview="com.plexapp.agents.imdb_74df1d5cc4e07443a09d0318e5556148d0444558" sort_order="9" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/bnb7yyKMJBGcXCWI1QcCi2TCTFg.jpg" preview="com.plexapp.agents.imdb_bd557c31a3e54fe300d251a5987f9a1ab802d042" sort_order="10" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/bWhy7V2HTX0417WSNDqhjYsdAMQ.jpg" preview="com.plexapp.agents.imdb_99ff3ec7cebfe1b3760d9055b3c01e5cb8c3920c" sort_order="11" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/kWlQe2VuEj9K129RMYIl7cTrTB2.jpg" preview="com.plexapp.agents.imdb_facd17cb987722f5e68538b33450a2540af955dd" sort_order="12" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/tGsCZ9U8EbQehPVCZadXizNZtm9.jpg" preview="com.plexapp.agents.imdb_028fc42cef9ff5c57a831c3679cc2f7037a7d0f3" sort_order="13" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/lLlStj2iXwUzSj633W6wmwfwRY4.jpg" preview="com.plexapp.agents.imdb_6b6d14d836e5156f35419381331bba8fec02f0b5" sort_order="14" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/7taFGDCi0netOxTkW6EAEFyUbZ7.jpg" preview="com.plexapp.agents.imdb_adf655343b7a5c7246ede1df45370a1517ae5e8c" sort_order="15" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/yarzzvMwvHAGOTFev2qFVgMvLiC.jpg" preview="com.plexapp.agents.imdb_e5ae1ba318ac85e0cdf7c8f91c697ed709674af8" sort_order="16" provider="com.plexapp.agents.imdb"/>
+  </posters>
+  <producers>
+    <item index="0">
+      <photo>http://image.tmdb.org/t/p/original/qY8ExnRPlwe2mUw86orpyhmuROM.jpg</photo>
+      <role/>
+      <name>Brian Koppelman</name>
+    </item>
+    <item index="1">
+      <photo>http://image.tmdb.org/t/p/original/7WOIDFyZgZWtX152JW3kd5rxJPf.jpg</photo>
+      <role/>
+      <name>Cathy Schulman</name>
+    </item>
+    <item index="2">
+      <photo>http://image.tmdb.org/t/p/original/qxfzz4zT1bEaG2bBYixR0zuFgqg.jpg</photo>
+      <role/>
+      <name>Michael London</name>
+    </item>
+    <item index="3">
+      <photo>http://image.tmdb.org/t/p/original/42khQGfjVbp4dCEByDCf47OqxUH.jpg</photo>
+      <role/>
+      <name>David Levien</name>
+    </item>
+    <item index="4">
+      <photo/>
+      <role/>
+      <name>Bob Yari</name>
+    </item>
+  </producers>
+  <rating>7.3</rating>
+  <rating_image>rottentomatoes://image.rating.ripe</rating_image>
+  <audience_rating>8.3</audience_rating>
+  <audience_rating_image>rottentomatoes://image.rating.upright</audience_rating_image>
+  <reviews>
+    <item index="0">
+      <text>The line between truth and illusion is blurred so persuasively that for a moment or two, you may even believe that a romantic costume drama could stand up to all those special-effects blockbusters in the dog days of summer.</text>
+      <source>NPR.org</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>http://www.npr.org/templates/story/story.php?storyId=5671504</link>
+      <author>Bob Mondello</author>
+    </item>
+    <item index="1">
+      <text>With exquisite performances (Giamatti's, in particular), it leaves you thrillingly hovering, happily uncommitted to any one interpretation.</text>
+      <source>Time Out</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>http://www.timeout.com/film/84132.html</link>
+      <author>Nick Funnell</author>
+    </item>
+    <item index="2">
+      <text>You may be temporarily beguiled, but not fooled.</text>
+      <source>Time Out</source>
+      <image>rottentomatoes://image.review.rotten</image>
+      <link>http://www.timeoutny.com/newyork/Details.do?page=1&amp;xyurl=xyl://TONYWebArticles1/568/film/the_illusionist.xml</link>
+      <author>Joshua Rothkopf</author>
+    </item>
+    <item index="3">
+      <text>A pleasant diversion serious enough to offer a little soul.</text>
+      <source>Denver Post</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>http://www.denverpost.com/movies/ci_4263610</link>
+      <author>Michael Booth</author>
+    </item>
+    <item index="4">
+      <text>While Burger's screenplay isn't always graceful, the movie's lovely enough that you might not notice.</text>
+      <source>Seattle Times</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>http://community.seattletimes.nwsource.com/archive/?slug=illusionist25&amp;date=20060825</link>
+      <author>Moira MacDonald</author>
+    </item>
+    <item index="5">
+      <text>The ludicrous climax, full of run-that-by-me-again flashbacks delivered at Keystone-cop speed -- oh, if only he could make that disappear.</text>
+      <source>Wall Street Journal</source>
+      <image>rottentomatoes://image.review.rotten</image>
+      <link>http://online.wsj.com/article/SB115585457290438813.html</link>
+      <author>Joanne Kaufman</author>
+    </item>
+    <item index="6">
+      <text>The ending dispels a lot of the magic, but the silent-movie palette is gorgeous, and the film is worth seeing for the inspired hamming of Paul Giamatti as Vienna's chief inspector.</text>
+      <source>New York Magazine/Vulture</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>http://nymag.com/movies/reviews/19377/</link>
+      <author>David Edelstein</author>
+    </item>
+    <item index="7">
+      <text>The alluring and absorbing Illusionist proves that a film need not be mindless fluff or ridiculously far-fetched to qualify as escapist entertainment.</text>
+      <source>USA Today</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>http://www.usatoday.com/life/movies/reviews/2006-08-17-illusionist_x.htm</link>
+      <author>Claudia Puig</author>
+    </item>
+    <item index="8">
+      <text>This terrific romantic thriller, set in 1900 Vienna, is an outstanding example of frugality in the service of art.</text>
+      <source>Toronto Star</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>http://WWW.TheStar.COM/NASApp/cs/ContentServer?pagename=thestar/Layout/Article_Type1&amp;c=Article&amp;cid=1155895397013&amp;call_pageid=1022183557980&amp;col=1022183560753</link>
+      <author>Peter Howell</author>
+    </item>
+    <item index="9">
+      <text>The Illusionist is a rich and elegant film, full of sly, devious characters with complicated motives.</text>
+      <source>San Francisco Chronicle</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>http://sfgate.com/cgi-bin/article.cgi?f=/c/a/2006/08/18/DDG3EKKDCI1.DTL&amp;type=movies</link>
+      <author>Mick LaSalle</author>
+    </item>
+  </reviews>
+  <roles>
+    <item index="0">
+      <photo>http://image.tmdb.org/t/p/original/5XBzD5WuTyVQZeS4VI25z2moMeY.jpg</photo>
+      <role>Eisenheim</role>
+      <name>Edward Norton</name>
+    </item>
+    <item index="1">
+      <photo>http://image.tmdb.org/t/p/original/rX4LRmkYshMRfQ6lVbeZVAfqVKI.jpg</photo>
+      <role>Inspector Uhl</role>
+      <name>Paul Giamatti</name>
+    </item>
+    <item index="2">
+      <photo>http://image.tmdb.org/t/p/original/34c4S8IX9JQPoEAMJ4o5FTVbzM1.jpg</photo>
+      <role>Sophie</role>
+      <name>Jessica Biel</name>
+    </item>
+    <item index="3">
+      <photo>http://image.tmdb.org/t/p/original/f2PNMnztHluTOw8YfCJUZ2pKfbe.jpg</photo>
+      <role>Crown Prince Leopold</role>
+      <name>Rufus Sewell</name>
+    </item>
+    <item index="4">
+      <photo>http://image.tmdb.org/t/p/original/scV617yo35FrKYSXEOAROfcblOm.jpg</photo>
+      <role>Josef Fischer</role>
+      <name>Eddie Marsan</name>
+    </item>
+    <item index="5">
+      <photo>http://image.tmdb.org/t/p/original/kEcRKeXOrp1hpSqex2rwZ1c89G1.jpg</photo>
+      <role>Jurka</role>
+      <name>Jake Wood</name>
+    </item>
+    <item index="6">
+      <photo>http://image.tmdb.org/t/p/original/oVKIxTE5zNg5KlFg2AEZ0vYs2sy.jpg</photo>
+      <role>Willigut</role>
+      <name>Tom Fisher</name>
+    </item>
+    <item index="7">
+      <photo>http://image.tmdb.org/t/p/original/yxxlHfExQJyWXRgq09X32ZtYv9b.jpg</photo>
+      <role>Doctor / Old Man</role>
+      <name>Karl Johnson</name>
+    </item>
+    <item index="8">
+      <photo>http://image.tmdb.org/t/p/original/iQrBTHUtKVI2kN4u0hRKQz667cx.jpg</photo>
+      <role>Young Eisenheim</role>
+      <name>Aaron Taylor-Johnson</name>
+    </item>
+    <item index="9">
+      <photo>http://image.tmdb.org/t/p/original/9dicItyLMbNE4Q0FZ2Yw0pjN5bA.jpg</photo>
+      <role>Young Sophie</role>
+      <name>Eleanor Tomlinson</name>
+    </item>
+    <item index="10">
+      <photo>http://image.tmdb.org/t/p/original/zLOnUc52qcD1ljiRTn98Ej2CCB2.jpg</photo>
+      <role>Loschek</role>
+      <name>Vincent Franklin</name>
+    </item>
+    <item index="11">
+      <photo>http://image.tmdb.org/t/p/original/dZ1Z9EPSGItJO4Zv2Eu0d4B9czf.jpg</photo>
+      <role>Herr Doebler</role>
+      <name>Nicholas Blane</name>
+    </item>
+    <item index="12">
+      <photo>http://image.tmdb.org/t/p/original/yE4V4kFxwU0Yl89gZdy4BftgGQv.jpg</photo>
+      <role>Dr. Hofzinser</role>
+      <name>Philip McGough</name>
+    </item>
+    <item index="13">
+      <photo>http://image.tmdb.org/t/p/original/yD7JHmH5giNNjjhsaN0WBcRnolL.jpg</photo>
+      <role>Count Rainer</role>
+      <name>Erich Redman</name>
+    </item>
+    <item index="14">
+      <photo>http://image.tmdb.org/t/p/original/rYVKZQ4uYLf7cpAGfdFzDcRNJXw.jpg</photo>
+      <role>Von Thurnburg</role>
+      <name>Michael Carter</name>
+    </item>
+    <item index="15">
+      <photo/>
+      <role>Eisenheim's Father</role>
+      <name>Andreas Grothusen</name>
+    </item>
+    <item index="16">
+      <photo>http://image.tmdb.org/t/p/original/1fDVsCwZOwp97Pdl7q743seHCMP.jpg</photo>
+      <role>Eisenheim's Assistant</role>
+      <name>Brian Caspe</name>
+    </item>
+    <item index="17">
+      <photo>http://image.tmdb.org/t/p/original/aj38ZHm9nkzSt6qMwNtuykxTYmp.jpg</photo>
+      <role>Mrs. Uhl</role>
+      <name>Ellen Savaria</name>
+    </item>
+    <item index="18">
+      <photo/>
+      <role>Sophie's Driver</role>
+      <name>Vitezslav Bouchner</name>
+    </item>
+    <item index="19">
+      <photo/>
+      <role>Archduke</role>
+      <name>David O'Kelly</name>
+    </item>
+    <item index="20">
+      <photo/>
+      <role>Archduke</role>
+      <name>Richard Rowlands</name>
+    </item>
+    <item index="21">
+      <photo>http://image.tmdb.org/t/p/original/8RV3Ikh2zvHDG9XIhYkvN6yOTU.jpg</photo>
+      <role>Frankel</role>
+      <name>Reuben-Henry Biggs</name>
+    </item>
+    <item index="22">
+      <photo/>
+      <role>Spiritualist Leader</role>
+      <name>Robert Russell</name>
+    </item>
+    <item index="23">
+      <photo/>
+      <role>Arrested Man</role>
+      <name>Noel Le Bon</name>
+    </item>
+    <item index="24">
+      <photo/>
+      <role>Respectable Man</role>
+      <name>David Fellowes</name>
+    </item>
+    <item index="25">
+      <photo>http://image.tmdb.org/t/p/original/nD9R9fPvTejXCIcP6OwdVDNNkyE.jpg</photo>
+      <role>Senior Officer</role>
+      <name>Jan Nemejovský</name>
+    </item>
+    <item index="26">
+      <photo>http://image.tmdb.org/t/p/original/hnCbC9sp0D4r0e0Wwkl1mPTZOhz.jpg</photo>
+      <role>Senior Officer</role>
+      <name>Ivo Novák</name>
+    </item>
+    <item index="27">
+      <photo/>
+      <role>Train Conductor</role>
+      <name>Vladimir Kulhavy</name>
+    </item>
+    <item index="28">
+      <photo>http://image.tmdb.org/t/p/original/f90EeGNRwki5446HWwrntjymNAL.jpg</photo>
+      <role>Audience Member</role>
+      <name>Duke Faeger</name>
+    </item>
+    <item index="29">
+      <photo/>
+      <role>Audience Member</role>
+      <name>Brendan Gunn</name>
+    </item>
+    <item index="30">
+      <photo/>
+      <role>Audience Member</role>
+      <name>Ryan James</name>
+    </item>
+    <item index="31">
+      <photo>http://image.tmdb.org/t/p/original/1V2HXKGCz5MKJzfJncBY38fgNWJ.jpg</photo>
+      <role>Audience Member</role>
+      <name>Petr Meissel</name>
+    </item>
+    <item index="32">
+      <photo/>
+      <role>Audience Member</role>
+      <name>Jeff Smith</name>
+    </item>
+    <item index="33">
+      <photo/>
+      <role>Audience Member</role>
+      <name>Ivan Urbánek</name>
+    </item>
+    <item index="34">
+      <photo>http://image.tmdb.org/t/p/original/PsYYzL0CcFhCGyq2rpQq8uHF8n.jpg</photo>
+      <role>Young Father (uncredited)</role>
+      <name>James Babson</name>
+    </item>
+  </roles>
+  <similar>
+    <item index="0">Lucky Number Slevin</item>
+    <item index="1">K-PAX</item>
+    <item index="2">Phone Booth</item>
+    <item index="3">Mr. Brooks</item>
+    <item index="4">Crash</item>
+    <item index="5">Déjà Vu</item>
+    <item index="6">The Devil's Advocate</item>
+    <item index="7">The Game</item>
+    <item index="8">Lord of War</item>
+    <item index="9">The Machinist</item>
+    <item index="10">Collateral</item>
+    <item index="11">Mystic River</item>
+    <item index="12">Inside Man</item>
+    <item index="13">Vanilla Sky</item>
+    <item index="14">25th Hour</item>
+    <item index="15">The Italian Job</item>
+    <item index="16">Stranger Than Fiction</item>
+    <item index="17">RockNRolla</item>
+    <item index="18">Equilibrium</item>
+    <item index="19">The Fugitive</item>
+  </similar>
+  <studio>Michael London Productions</studio>
+  <summary>With his eye on a lovely aristocrat, a gifted illusionist named Eisenheim uses his powers to win her away from her betrothed, a crowned prince. But Eisenheim's scheme creates tumult within the monarchy and ignites the suspicion of a dogged inspector.</summary>
+  <tagline>Nothing is what it seems</tagline>
+  <tags/>
+  <themes/>
+  <title>The Illusionist</title>
+  <writers>
+    <item index="0">
+      <photo>http://image.tmdb.org/t/p/original/eUDHt2OWYnCwC8FOVIgU2uTPK3x.jpg</photo>
+      <role/>
+      <name>Neil Burger</name>
+    </item>
+  </writers>
+  <year>2006</year>
+</Movie>

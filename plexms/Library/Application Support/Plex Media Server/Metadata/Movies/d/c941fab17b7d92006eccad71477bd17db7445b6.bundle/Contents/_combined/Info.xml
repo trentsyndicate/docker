@@ -1,0 +1,538 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Movie>
+  <art>
+    <item external="True" url="http://image.tmdb.org/t/p/original/okBufQYJrFWRI6Z69h6Cwpru1Ss.jpg" sort_order="1" provider="com.plexapp.agents.imdb" media="com.plexapp.agents.imdb_6ffdbb619c65bdbec03251a3bdaaad7358bef506"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/cyoM4hIMHnIOWcLvfMlpmbpRer4.jpg" preview="com.plexapp.agents.imdb_2254d9f0655765e7e78a9995d3e0ded46754c9d8" sort_order="2" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/pXPQcymD0t9QFT1KmViWs7ql7Kr.jpg" preview="com.plexapp.agents.imdb_afe8cf9b637944904015f4e59d10b58fe1833b41" sort_order="3" provider="com.plexapp.agents.imdb"/>
+  </art>
+  <banners/>
+  <chapters/>
+  <collections/>
+  <content_rating>R</content_rating>
+  <countries>
+    <item index="0">USA</item>
+  </countries>
+  <directors>
+    <item index="0">
+      <photo>http://image.tmdb.org/t/p/original/b0BYI0zTyCCLIqPwAQflOm3RHfO.jpg</photo>
+      <role/>
+      <name>Troy Duffy</name>
+    </item>
+  </directors>
+  <duration>7080000</duration>
+  <genres>
+    <item index="0">Action</item>
+    <item index="1">Crime</item>
+    <item index="2">Thriller</item>
+  </genres>
+  <originally_available_at>2009-11-24</originally_available_at>
+  <posters>
+    <item external="True" url="http://image.tmdb.org/t/p/original/9ZlbbsLn1KHWFQ5hilYwYAOauzP.jpg" sort_order="1" provider="com.plexapp.agents.imdb" media="com.plexapp.agents.imdb_cd21413a120ba4433ab928975aa81f8ef6856bfb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/hjU3caMd9O3h21e5kzJeUOAoy7h.jpg" preview="com.plexapp.agents.imdb_2c7060e93d4eb2a94dfdb8778cce7a6bacfbd20f" sort_order="2" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/aVHrt5zH5PDtyWhp4PhQLfXAvh.jpg" preview="com.plexapp.agents.imdb_dbaa8fcb216ea1b5f01cf1a2617f2d0f7e1baf10" sort_order="3" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/rfATiz9ZBiLui07dQ54uTnozFpQ.jpg" preview="com.plexapp.agents.imdb_f5fa5ec6a9f21279fc4c69d4ee704d9314315460" sort_order="4" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/my6tRFu0XwnflS3uMgYako0ayg8.jpg" preview="com.plexapp.agents.imdb_a52dec726164e4e4051b2055fbe39290e07f3d0e" sort_order="5" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/dZej7BCTLTZVI13LL2QifzN4ysj.jpg" preview="com.plexapp.agents.imdb_3b322c1aadc770e8ce06cc148fa7b407ed66b3df" sort_order="6" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/veXN4krZhmbmPvy0m2yCJLT1D77.jpg" preview="com.plexapp.agents.imdb_1ac53679b8763e3ffeb145a9e896bfc279d38a06" sort_order="7" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/oF3JXP6BBTSl4UXyKptasVNlJZY.jpg" preview="com.plexapp.agents.imdb_8b9bea65282fab4e6295c48e2dced4a8850cce0a" sort_order="8" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/f7ZF3vSrij4V2kdMJoH9ZOeJFeF.jpg" preview="com.plexapp.agents.imdb_c3b930501cc73c6fecc231abbd5b02e42807aef0" sort_order="9" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/iZX81nPhEeoMiZaHMDGBsom3OhI.jpg" preview="com.plexapp.agents.imdb_9503a9bd0d81e2f25785bb5a5e43a0c773888fcb" sort_order="10" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/9Mmam0dYocQ4G1eMOFywwxjzi26.jpg" preview="com.plexapp.agents.imdb_3d90e0b54ba47809cd1b37ed429b994bd6e78751" sort_order="11" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/q5anizFuzmcaSl5nFSbw4i4AO44.jpg" preview="com.plexapp.agents.imdb_f7a6c11db7b3ae9675ac9918693dda28910192f6" sort_order="12" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/bplitSPvkQKvxmDfSuI6qaPIl0J.jpg" preview="com.plexapp.agents.imdb_e785de049787907a5f89977cc32fbc22d5ea9c24" sort_order="13" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/8rtu9ZFeuOGwxl7AXcH5gxZKeVU.jpg" preview="com.plexapp.agents.imdb_b8d34180186d04c324858c005b7299219e12bd38" sort_order="14" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/46k5YnrJfVWfB7NtBkBs5iKCV06.jpg" preview="com.plexapp.agents.imdb_e213d785739fb3fd8e26a63c0a5a78b28bfcacf0" sort_order="15" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/gyZWf7xEJJ9clvOQnoQlJ6TXjPs.jpg" preview="com.plexapp.agents.imdb_1bade9b4810cb86da98839c0f19c1fd741c9dff8" sort_order="16" provider="com.plexapp.agents.imdb"/>
+  </posters>
+  <producers>
+    <item index="0">
+      <photo/>
+      <role/>
+      <name>Chris Brinker</name>
+    </item>
+    <item index="1">
+      <photo/>
+      <role/>
+      <name>Don Carmody</name>
+    </item>
+  </producers>
+  <rating>2.3</rating>
+  <rating_image>rottentomatoes://image.rating.rotten</rating_image>
+  <audience_rating>5.8</audience_rating>
+  <audience_rating_image>rottentomatoes://image.rating.spilled</audience_rating_image>
+  <reviews>
+    <item index="0">
+      <text>Imagine Quentin Tarantino if he got his brow lowered.</text>
+      <source>Globe and Mail</source>
+      <image>rottentomatoes://image.review.rotten</image>
+      <link>http://www.theglobeandmail.com/news/arts/the-boondock-saints-ii-all-saints-day/article1361021/</link>
+      <author>Stephen Cole</author>
+    </item>
+    <item index="1">
+      <text>Bold prediction: At his current glacial pace of progress, Troy Duffy is likely to write and direct the great Irish-American payback movie sometime in the year 2049.</text>
+      <source>Toronto Star</source>
+      <image>rottentomatoes://image.review.rotten</image>
+      <link>http://www.thestar.com/entertainment/movies/article/725156--boondock-saints-ii-praise-be-to-patron-saint-of-cult-film-sequels</link>
+      <author>Peter Howell</author>
+    </item>
+    <item index="2">
+      <text>It's as if writer/director Troy Duffy threw every idea he had at the wall, creating a very messy wall.</text>
+      <source>Minneapolis Star Tribune</source>
+      <image>rottentomatoes://image.review.rotten</image>
+      <link>http://www.startribune.com/entertainment/movies/69869457.html?elr=KArksD:aDyaEP:kD:aUnc5PDiUiD3aPc:_Yyc:aULPQL7PQLanchO7DiUr</link>
+      <author>Colin Covert</author>
+    </item>
+    <item index="3">
+      <text>Writer-director Troy Duffy needs to YouTube himself a new idea or two, because his variations on themes provided by Quentin Tarantino and Guy "RocknRolla" Ritchie are pure mold.</text>
+      <source>Chicago Tribune</source>
+      <image>rottentomatoes://image.review.rotten</image>
+      <link>http://featuresblogs.chicagotribune.com/talking_pictures/2009/11/the-boondock-saints-ii-1-star.html</link>
+      <author>Michael Phillips</author>
+    </item>
+    <item index="4">
+      <text>Can you fly forward through the air while firing two heavy-duty handguns without your arms jerking back and smacking you in the chin? Would that violate one of Newton's laws? Just askin'.</text>
+      <source>Chicago Sun-Times</source>
+      <image>rottentomatoes://image.review.rotten</image>
+      <link>http://www.rogerebert.com/reviews/the-boondock-saints-ii-all-saints-day-2009</link>
+      <author>Roger Ebert</author>
+    </item>
+    <item index="5">
+      <text>Earns points only for being remarkably unself-conscious about its across-the-board ineptitude.</text>
+      <source>Entertainment Weekly</source>
+      <image>rottentomatoes://image.review.rotten</image>
+      <link>http://www.ew.com/ew/article/0,,20317544,00.html</link>
+      <author>Adam Markovitz</author>
+    </item>
+    <item index="6">
+      <text>Indulges in extreme movie love.</text>
+      <source>New York Times</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>http://movies.nytimes.com/2009/10/30/movies/30boon.html?partner=Rotten+Tomatoes&amp;ei=5083</link>
+      <author>Mike Hale</author>
+    </item>
+    <item index="7">
+      <text>The only truly ugly side to this self-consciously grimy movie is the streak of Neanderthal humor. Operatic overacting is funny. Racist and homophobic jokes? Not so much.</text>
+      <source>New York Daily News</source>
+      <image>rottentomatoes://image.review.rotten</image>
+      <link>http://www.nydailynews.com/entertainment/movies/2009/10/30/2009-10-30_short_movie_reviews_this_is_it_.html</link>
+      <author>Elizabeth Weitzman</author>
+    </item>
+    <item index="8">
+      <text>A throwback picture that returns you to the late '90s, when every third filmmaker thought he was the next Quentin Tarantino.</text>
+      <source>New York Post</source>
+      <image>rottentomatoes://image.review.rotten</image>
+      <link>http://www.nypost.com/p/entertainment/movies/shoot_talk_repeat_LidDF843zgo6oYyAJrPX7L</link>
+      <author>Kyle Smith</author>
+    </item>
+    <item index="9">
+      <text>Time may have healed some of Duffy's wounds, but it hasn't made him a better Tarantino knockoff, unfortunately.</text>
+      <source>Los Angeles Times</source>
+      <image>rottentomatoes://image.review.rotten</image>
+      <link>http://www.latimes.com/entertainment/news/la-et-capsules30-2009oct30,0,4777361.story</link>
+      <author>Robert Abele</author>
+    </item>
+    <item index="10">
+      <text>[It] isn't art but it is an improvement: a scurrilous, lowdown, sub-Tarantino action comedy that, unlike the original, doesn't make you want to claw your eyes out. How's that for praise?</text>
+      <source>Boston Globe</source>
+      <image>rottentomatoes://image.review.rotten</image>
+      <link>http://www.boston.com/ae/movies/articles/2009/10/30/the_gang_shoots_straighter_in_the_boondock_saints_ii/</link>
+      <author>Ty Burr</author>
+    </item>
+    <item index="11">
+      <text>The film's style mirrors that of the original, which was already late to the Reservoir Dogs ripoff party and feels doubly dated now, with Duffy still relying on his old trick of cranking up the heavy metal and techno music to boost excitement.</text>
+      <source>Variety</source>
+      <image>rottentomatoes://image.review.rotten</image>
+      <link>http://www.variety.com/review/VE1117941489.html?categoryid=31&amp;cs=1</link>
+      <author>Peter Debruge</author>
+    </item>
+    <item index="12">
+      <text>Cloaking vigilante justice (not to mention casual racism and homophobia) in religion eventually turns Boondock Saints from merely a bad movie to a distasteful one.</text>
+      <source>Associated Press</source>
+      <image>rottentomatoes://image.review.rotten</image>
+      <link>http://www.google.com/hostednews/ap/article/ALeqM5hmfPQuvUdqpHpyNJWTY8kEg_L8dgD9BKD0D00</link>
+      <author>Jake Coyle</author>
+    </item>
+    <item index="13">
+      <text>Duffy orchestrates the resulting carnage like an inebriate spinning fourth-rate Peckinpah tales.</text>
+      <source>Time Out</source>
+      <image>rottentomatoes://image.review.rotten</image>
+      <link>http://newyork.timeout.com/newyork/articles/film/80034/theboondocksaintsiiallsaintsday</link>
+      <author>Keith Uhlich</author>
+    </item>
+    <item index="14">
+      <text>Duffy is still chasing his perfect slide-and-shoot, except now with more self-satisfied posturing, awkward pop-culture referencing, casual homophobia and racism, and the most vulgar co-opting of religious iconography this side of Dan Brown.</text>
+      <source>Village Voice</source>
+      <image>rottentomatoes://image.review.rotten</image>
+      <link>http://www.villagevoice.com/2009-10-27/film/the-inevitable-boondock-saints-ii-all-saints-day/</link>
+      <author>Aaron Hillis</author>
+    </item>
+  </reviews>
+  <roles>
+    <item index="0">
+      <photo>http://image.tmdb.org/t/p/original/1xgb9WblosYkvTGoh0yDuZII9ok.jpg</photo>
+      <role>Connor MacManus</role>
+      <name>Sean Patrick Flanery</name>
+    </item>
+    <item index="1">
+      <photo>http://image.tmdb.org/t/p/original/ozHPdO5jAt7ozzdZUgyRAMNPSDW.jpg</photo>
+      <role>Murphy MacManus</role>
+      <name>Norman Reedus</name>
+    </item>
+    <item index="2">
+      <photo>http://image.tmdb.org/t/p/original/7e1rVdJah2r0DaMpovrhbR2dHPS.jpg</photo>
+      <role>Poppa Il Duce</role>
+      <name>Billy Connolly</name>
+    </item>
+    <item index="3">
+      <photo>http://image.tmdb.org/t/p/original/31FbXPcEwKLE1eiQ8ceyQpsnheE.jpg</photo>
+      <role>Romeo</role>
+      <name>Clifton Collins Jr.</name>
+    </item>
+    <item index="4">
+      <photo>http://image.tmdb.org/t/p/original/3ymRPOitD5IKXZgDLoy8FLRGQCn.jpg</photo>
+      <role>Eunice Bloom</role>
+      <name>Julie Benz</name>
+    </item>
+    <item index="5">
+      <photo>http://image.tmdb.org/t/p/original/dgorN06SQ9ZNL2NY3I7BNxg93lc.jpg</photo>
+      <role>The Roman</role>
+      <name>Peter Fonda</name>
+    </item>
+    <item index="6">
+      <photo>http://image.tmdb.org/t/p/original/i4LnsBGxtfY68nSw7CwHedSx3ft.jpg</photo>
+      <role>Rick</role>
+      <name>Paul Johansson</name>
+    </item>
+    <item index="7">
+      <photo>http://image.tmdb.org/t/p/original/9H1TSnBEDYl59tFC1EQHccrINsp.jpg</photo>
+      <role>Concezio Yakavetta</role>
+      <name>Judd Nelson</name>
+    </item>
+    <item index="8">
+      <photo>http://image.tmdb.org/t/p/original/pgzIf45tq5R58K9ZWMlrAa9J62Z.jpg</photo>
+      <role>Rocco</role>
+      <name>David Della Rocco</name>
+    </item>
+    <item index="9">
+      <photo>http://image.tmdb.org/t/p/original/qtvL2i75yqBZ0kpUgbHfR11OVwG.jpg</photo>
+      <role>Detective Greenly</role>
+      <name>Bob Marley</name>
+    </item>
+    <item index="10">
+      <photo>http://image.tmdb.org/t/p/original/v6pTsqgOHE5TldFV63Kr44idQNe.jpg</photo>
+      <role>Detective Duffy</role>
+      <name>Brian Mahoney</name>
+    </item>
+    <item index="11">
+      <photo>http://image.tmdb.org/t/p/original/bzz3Vx2QavSL6ODXDLubvFR3L54.jpg</photo>
+      <role>Detective Dolly</role>
+      <name>David Ferry</name>
+    </item>
+    <item index="12">
+      <photo>http://image.tmdb.org/t/p/original/AgmAajLs8xJJdeCEe7OZa89XOr4.jpg</photo>
+      <role>Doc</role>
+      <name>Gerard Parkes</name>
+    </item>
+    <item index="13">
+      <photo>http://image.tmdb.org/t/p/original/8TOv7jLMt0ueCsdfCgCV5uwai42.jpg</photo>
+      <role>The Chief</role>
+      <name>Richard Fitzpatrick</name>
+    </item>
+    <item index="14">
+      <photo>http://image.tmdb.org/t/p/original/qoT5qLR642NQ4O2fHhTNOPPYfda.jpg</photo>
+      <role>Louie</role>
+      <name>Robert Mauriell</name>
+    </item>
+    <item index="15">
+      <photo>http://image.tmdb.org/t/p/original/s40Uk5qXc5DA43jI7HJzrxNKAaR.jpg</photo>
+      <role>Crew Cut</role>
+      <name>Daniel DeSanto</name>
+    </item>
+    <item index="16">
+      <photo>http://image.tmdb.org/t/p/original/lfYmcydTBsPu8OUYohPLg54YAoR.jpg</photo>
+      <role>Jimmy the Gofer</role>
+      <name>Robb Wells</name>
+    </item>
+    <item index="17">
+      <photo>http://image.tmdb.org/t/p/original/nlARMfccPSdkOleKmGT9jbyma13.jpg</photo>
+      <role>Uncle Cesar</role>
+      <name>Pedro Salvín</name>
+    </item>
+    <item index="18">
+      <photo>http://image.tmdb.org/t/p/original/d23GNIBEg3Mbb3OrZsTiJviKSxD.jpg</photo>
+      <role>Father McKinney</role>
+      <name>Dwayne McLean</name>
+    </item>
+    <item index="19">
+      <photo>http://image.tmdb.org/t/p/original/la3He3emM3O7b0a8gKjkIPCtDYA.jpg</photo>
+      <role>Irish Gun Dealer</role>
+      <name>Tom Barnett</name>
+    </item>
+    <item index="20">
+      <photo>http://image.tmdb.org/t/p/original/8Gk1fofqQQSYDb2paJUEE6GTrhf.jpg</photo>
+      <role>Gorgeous George</role>
+      <name>Bob Rubin</name>
+    </item>
+    <item index="21">
+      <photo>http://image.tmdb.org/t/p/original/fEfZPewAN2ZfvPCh1x7j6KtXKzV.jpg</photo>
+      <role>Father Sibeal</role>
+      <name>Mairtin O'Carrigan</name>
+    </item>
+    <item index="22">
+      <photo>http://image.tmdb.org/t/p/original/6oY0Doi1ipJzREgthnDZ3zMD4qv.jpg</photo>
+      <role>Jacob McManus</role>
+      <name>Sweeney MacArthur</name>
+    </item>
+    <item index="23">
+      <photo>http://image.tmdb.org/t/p/original/iGvsSJpPXrDxH6rvLIBNtCzDHwy.jpg</photo>
+      <role>Jo Jo Rhama</role>
+      <name>Aaron Berg</name>
+    </item>
+    <item index="24">
+      <photo>http://image.tmdb.org/t/p/original/mtzNrX8Z0WYbtot82o4gM3FDqYa.jpg</photo>
+      <role>Lloyd</role>
+      <name>Joris Jarsky</name>
+    </item>
+    <item index="25">
+      <photo>http://image.tmdb.org/t/p/original/jWjUO3GgDlzeqQKPN7GrKpLout8.jpg</photo>
+      <role>Roy</role>
+      <name>Zachary Bennett</name>
+    </item>
+    <item index="26">
+      <photo>http://image.tmdb.org/t/p/original/7t8fhfaFBoS9VOo3OPXCfK516eI.jpg</photo>
+      <role>Paul Smecker (uncredited)</role>
+      <name>Willem Dafoe</name>
+    </item>
+    <item index="27">
+      <photo>http://image.tmdb.org/t/p/original/n8kmltFIkeyaUoIEl3A5UwT5Upg.jpg</photo>
+      <role>Massage Therapist</role>
+      <name>Erika Bruun-Andersen</name>
+    </item>
+    <item index="28">
+      <photo/>
+      <role>Officer Chaffey</role>
+      <name>Matthew Chaffee</name>
+    </item>
+    <item index="29">
+      <photo>http://image.tmdb.org/t/p/original/66KxpkTKNQlG313Sspg2HFV6Xe8.jpg</photo>
+      <role>50's Mafioso</role>
+      <name>Carlo Berardinucci</name>
+    </item>
+    <item index="30">
+      <photo/>
+      <role>50's Mafioso</role>
+      <name>Joe Parro</name>
+    </item>
+    <item index="31">
+      <photo>http://image.tmdb.org/t/p/original/12yf1ZPBxHazIky2CPRuzU8IOxm.jpg</photo>
+      <role>50's Thug</role>
+      <name>Joseph Di Mambro</name>
+    </item>
+    <item index="32">
+      <photo>http://image.tmdb.org/t/p/original/AlRvMieYcPOvOFUu2mbaxbhzkP7.jpg</photo>
+      <role>50's Thug</role>
+      <name>Philip Bucceri</name>
+    </item>
+    <item index="33">
+      <photo>http://image.tmdb.org/t/p/original/1VaMaAImwDWAjzKbrn8T1prnOdf.jpg</photo>
+      <role>50's Thug</role>
+      <name>Tony Munch</name>
+    </item>
+    <item index="34">
+      <photo>http://image.tmdb.org/t/p/original/il8bIgN6sANpmMSohJGvpNbeN8A.jpg</photo>
+      <role>Giant</role>
+      <name>Matthew G. Taylor</name>
+    </item>
+    <item index="35">
+      <photo/>
+      <role>Cab Driver</role>
+      <name>Paul De La Rosa</name>
+    </item>
+    <item index="36">
+      <photo>http://image.tmdb.org/t/p/original/ixxEYcNGo0UyBUQdj3YsZ85OTTV.jpg</photo>
+      <role>Capo</role>
+      <name>Paulino Nunes</name>
+    </item>
+    <item index="37">
+      <photo>http://image.tmdb.org/t/p/original/ytM7LXVQMpbG4aZw7ThiTCno9cN.jpg</photo>
+      <role>Capo</role>
+      <name>A. Frank Ruffo</name>
+    </item>
+    <item index="38">
+      <photo>http://image.tmdb.org/t/p/original/7kuOp3Yqm1ADFqQR0ZNXDjisoCA.jpg</photo>
+      <role>Capo</role>
+      <name>Stefano DiMatteo</name>
+    </item>
+    <item index="39">
+      <photo>http://image.tmdb.org/t/p/original/sm9ZVJnC5m1z6GZ8DLEyxGQ1OGy.jpg</photo>
+      <role>Capo</role>
+      <name>Marco Bianco</name>
+    </item>
+    <item index="40">
+      <photo>http://image.tmdb.org/t/p/original/1hjxQcz3Fr1vz1FkTESAN2j7kC0.jpg</photo>
+      <role>Capo</role>
+      <name>Paul Rapovski</name>
+    </item>
+    <item index="41">
+      <photo/>
+      <role>Capo</role>
+      <name>Santino Buda</name>
+    </item>
+    <item index="42">
+      <photo/>
+      <role>Dock Worker</role>
+      <name>Jeremy Wright</name>
+    </item>
+    <item index="43">
+      <photo>http://image.tmdb.org/t/p/original/fU9pJXqcVTKwiZwYqt67ShMGN3q.jpg</photo>
+      <role>G-Man</role>
+      <name>Darryl Flatman</name>
+    </item>
+    <item index="44">
+      <photo/>
+      <role>Hot Dog Vendor</role>
+      <name>Darryl Pring</name>
+    </item>
+    <item index="45">
+      <photo>http://image.tmdb.org/t/p/original/6Mrqk280ZALRpGeUctzpfEUyE3X.jpg</photo>
+      <role>Mexican Seaman</role>
+      <name>Rolando Alvarez Giacoman</name>
+    </item>
+    <item index="46">
+      <photo>http://image.tmdb.org/t/p/original/30tMJEaUfos586IIGCdg9vVVASm.jpg</photo>
+      <role>North Side Bruglione</role>
+      <name>Brad Davis</name>
+    </item>
+    <item index="47">
+      <photo/>
+      <role>North Side Bruglione</role>
+      <name>Ermes Blarasin</name>
+    </item>
+    <item index="48">
+      <photo>http://image.tmdb.org/t/p/original/flPFEezO4VPaZuRyHF99S4Jc8Co.jpg</photo>
+      <role>North Side Bruglione</role>
+      <name>Flint Eagle</name>
+    </item>
+    <item index="49">
+      <photo>http://image.tmdb.org/t/p/original/6ncc5gjDyZEztA7r2eBgUSzl6XM.jpg</photo>
+      <role>North Side Bruglione</role>
+      <name>Brian Frank</name>
+    </item>
+    <item index="50">
+      <photo/>
+      <role>North Side Bruglione</role>
+      <name>Steve 'Shack' Shackleton</name>
+    </item>
+    <item index="51">
+      <photo>http://image.tmdb.org/t/p/original/h2csRawwCKv7AyRbCNOiauIfDqd.jpg</photo>
+      <role>North Side Bruglione</role>
+      <name>Brendan Wall</name>
+    </item>
+    <item index="52">
+      <photo>http://image.tmdb.org/t/p/original/4csc1l4VYczTCW7qaLth809tsJz.jpg</photo>
+      <role>Police Officer</role>
+      <name>Shamus Fynes</name>
+    </item>
+    <item index="53">
+      <photo>http://image.tmdb.org/t/p/original/3trabVKLgCrMWu5L6f0k2v0lzJG.jpg</photo>
+      <role>Patronazzi</role>
+      <name>Louis Di Bianco</name>
+    </item>
+    <item index="54">
+      <photo>http://image.tmdb.org/t/p/original/3trabVKLgCrMWu5L6f0k2v0lzJG.jpg</photo>
+      <role>Pedestrian</role>
+      <name>Louis Di Bianco</name>
+    </item>
+    <item index="55">
+      <photo>http://image.tmdb.org/t/p/original/3aOl9rU1q9bfsU0XTRMhugd7hKK.jpg</photo>
+      <role>Pedestrian</role>
+      <name>George Nickolas K.</name>
+    </item>
+    <item index="56">
+      <photo>http://image.tmdb.org/t/p/original/A0AWlSRvgJ7Kq64nIMeFi551Ij.jpg</photo>
+      <role>Reporter #1</role>
+      <name>Howard Hoover</name>
+    </item>
+    <item index="57">
+      <photo>http://image.tmdb.org/t/p/original/4mzfCpH4lhHXM3ZEFIUU3fl96m1.jpg</photo>
+      <role>Reporter #2</role>
+      <name>Joey Amorosino</name>
+    </item>
+    <item index="58">
+      <photo/>
+      <role>Prison Guard</role>
+      <name>Mark Stables</name>
+    </item>
+    <item index="59">
+      <photo/>
+      <role>FBI Agent</role>
+      <name>Jerry Azzopardi</name>
+    </item>
+    <item index="60">
+      <photo/>
+      <role>Thug in the Woods</role>
+      <name>Brendan Carmody</name>
+    </item>
+    <item index="61">
+      <photo/>
+      <role>Street Interviewee</role>
+      <name>Scott Savitz</name>
+    </item>
+    <item index="62">
+      <photo/>
+      <role>Street Interviewee</role>
+      <name>Paul Joyce</name>
+    </item>
+    <item index="63">
+      <photo/>
+      <role>Street Interviewee</role>
+      <name>John Herman</name>
+    </item>
+    <item index="64">
+      <photo/>
+      <role>Street Interviewee</role>
+      <name>Kara Apostolica</name>
+    </item>
+    <item index="65">
+      <photo/>
+      <role>Street Interviewee</role>
+      <name>Kimberly Tuscano</name>
+    </item>
+  </roles>
+  <similar>
+    <item index="0">The Boondock Saints</item>
+    <item index="1">Smokin' Aces</item>
+    <item index="2">Shoot 'Em Up</item>
+    <item index="3">You Kill Me</item>
+    <item index="4">The Tournament</item>
+    <item index="5">Smokin' Aces 2: Assassins' Ball</item>
+    <item index="6">Punisher: War Zone</item>
+    <item index="7">Harry Brown</item>
+    <item index="8">Defendor</item>
+    <item index="9">Street Kings</item>
+    <item index="10">Beerfest</item>
+    <item index="11">Payback</item>
+    <item index="12">Black Snake Moan</item>
+    <item index="13">War</item>
+    <item index="14">Mutant Chronicles</item>
+    <item index="15">Spawn</item>
+    <item index="16">Max Payne</item>
+    <item index="17">Jay and Silent Bob Strike Back</item>
+    <item index="18">Super Troopers</item>
+    <item index="19">El Mariachi</item>
+  </similar>
+  <studio>Chris Brinker Productions</studio>
+  <summary>Skillfully framed by an unknown enemy for the murder of a priest, wanted vigilante MacManus brothers Murphy and Connor must come out of hiding on a sheep farm in Ireland to fight for justice in Boston.</summary>
+  <tagline>The Saints Are Calling</tagline>
+  <tags/>
+  <themes/>
+  <title>The Boondock Saints II: All Saints Day</title>
+  <writers>
+    <item index="0">
+      <photo>http://image.tmdb.org/t/p/original/b0BYI0zTyCCLIqPwAQflOm3RHfO.jpg</photo>
+      <role/>
+      <name>Troy Duffy</name>
+    </item>
+  </writers>
+  <year>2009</year>
+</Movie>

@@ -1,0 +1,381 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Movie id="tt1509767">
+  <rating>2.4</rating>
+  <title_sort/>
+  <art>
+    <item external="True" url="http://image.tmdb.org/t/p/original/4YNvdDlnwQF00KyS02QnLoCuoFc.jpg" preview="5c69ed1308d7aa4f87591920e57dd84886fb5810" sort_order="1"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/apGL05Qnb8M6RrOhwfTW0zy92JQ.jpg" preview="405afab3b4ff54d579e13e8284a46e1f6aa9ef92" sort_order="2"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/cv4KDlorayBLTMY8oijHLERmMRH.jpg" preview="aee573ba1c1f53874c84d691257f1beb4fae8508" sort_order="3"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/av5pgPbEik31zdPvjuxPYJnjNv9.jpg" preview="2bd0b8a27313457ff53155aed82bfd1f0934498c" sort_order="4"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/uE97yg14YWfG8vpMjeUJf23pqXP.jpg" preview="b4abdafb94e874497c971335aa0dab433e425d43" sort_order="5"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/1vT8qycG7LB4camuvhx9rz0kMud.jpg" preview="5c143fe77f76ff407aaa29b491ac11ba218987e5" sort_order="6"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/9T3hiokST8a5zhagJqE6TyHG1Q9.jpg" preview="0ad915fba762938528b89f51dc9bc8c562ed43d6" sort_order="7"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/XPBPUXcIlB6AJzW12AQRwWBMcd.jpg" preview="0b5e887d96e1378e7027147e04c484e0d4363df8" sort_order="8"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/29aqnI76eMqpKPQ5AcdjZtOrfpV.jpg" preview="e63e76060655df8261d849234087e2230f24679a" sort_order="9"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/8n1B9PumOHT0ipOdmeiRlCCfdl9.jpg" preview="56d10c2ecc30d3e6ae266d8875451146a1d4ed4d" sort_order="10"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/v8Cfx2VZ3ADMtot3hOFJbGcsRTJ.jpg" preview="9ed60f32a221cc0e9cee0ee5164e0e81b4855044" sort_order="11"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/u42f1mVtbPn4ZPPQtEp2mUXFlR7.jpg" preview="e594ed5677ba21acbe5099f0f9bc9ec3263d2952" sort_order="12"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/rT9wN2DinncXTdtUHZA9wW619GW.jpg" preview="f8fa94cf5b240c079aad5cc8892eb8321c2c0191" sort_order="13"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/uFlrhou6DZVid6co6MMw7hFNFY.jpg" preview="5f71ce165206ebef00f855e6484e3cc133b9381d" sort_order="14"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/zgoshSquqkmE65qzqVU2i3LECNv.jpg" preview="1ee700947665f9a75c23c1c5ae86ad843269c2e1" sort_order="15"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/AmVVnlMCMVK5V1MlJ71j7KjQIe6.jpg" preview="dbe89cd2e0d0c8a7e9da8a2e462eff8783d110b0" sort_order="16"/>
+  </art>
+  <writers>
+    <item index="0">
+      <photo>http://image.tmdb.org/t/p/original/s4jcQsOnsimtmljJCBv9mDxPaed.jpg</photo>
+      <role/>
+      <name>Alex Litvak</name>
+    </item>
+    <item index="1">
+      <photo>http://image.tmdb.org/t/p/original/14KgOcMBoNrdaUIYTAdb8N6Male.jpg</photo>
+      <role/>
+      <name>Andrew Davies</name>
+    </item>
+  </writers>
+  <chapters>
+    <item index="0">
+      <title>Program Start</title>
+      <end_time_offset>369000</end_time_offset>
+      <start_time_offset>0</start_time_offset>
+    </item>
+    <item index="1">
+      <title>Musketeers Disbanded</title>
+      <end_time_offset>740000</end_time_offset>
+      <start_time_offset>369000</start_time_offset>
+    </item>
+    <item index="2">
+      <title>D'artagnan Meets Constance</title>
+      <end_time_offset>1051000</end_time_offset>
+      <start_time_offset>740000</start_time_offset>
+    </item>
+    <item index="3">
+      <title>Porthos Brings Down the House</title>
+      <end_time_offset>1432000</end_time_offset>
+      <start_time_offset>1051000</start_time_offset>
+    </item>
+    <item index="4">
+      <title>The Heart of a Musketeer</title>
+      <end_time_offset>1888000</end_time_offset>
+      <start_time_offset>1432000</start_time_offset>
+    </item>
+    <item index="5">
+      <title>Milady De Winter &amp; Richelieu</title>
+      <end_time_offset>2156000</end_time_offset>
+      <start_time_offset>1888000</start_time_offset>
+    </item>
+    <item index="6">
+      <title>In the Nick of Time</title>
+      <end_time_offset>2551000</end_time_offset>
+      <start_time_offset>2156000</start_time_offset>
+    </item>
+    <item index="7">
+      <title>The Manly Art of Wenching</title>
+      <end_time_offset>2824000</end_time_offset>
+      <start_time_offset>2551000</start_time_offset>
+    </item>
+    <item index="8">
+      <title>In Queen Anne's Chambers</title>
+      <end_time_offset>3197000</end_time_offset>
+      <start_time_offset>2824000</start_time_offset>
+    </item>
+    <item index="9">
+      <title>Troubling Rumors</title>
+      <end_time_offset>3554000</end_time_offset>
+      <start_time_offset>3197000</start_time_offset>
+    </item>
+    <item index="10">
+      <title>Seduction</title>
+      <end_time_offset>3880000</end_time_offset>
+      <start_time_offset>3554000</start_time_offset>
+    </item>
+    <item index="11">
+      <title>Sabine and Athos</title>
+      <end_time_offset>4113000</end_time_offset>
+      <start_time_offset>3880000</start_time_offset>
+    </item>
+    <item index="12">
+      <title>Forgiveness</title>
+      <end_time_offset>4464000</end_time_offset>
+      <start_time_offset>4113000</start_time_offset>
+    </item>
+    <item index="13">
+      <title>Assassin's Attempt</title>
+      <end_time_offset>4864000</end_time_offset>
+      <start_time_offset>4464000</start_time_offset>
+    </item>
+    <item index="14">
+      <title>Save the King</title>
+      <end_time_offset>5256000</end_time_offset>
+      <start_time_offset>4864000</start_time_offset>
+    </item>
+    <item index="15">
+      <title>Avenging His Father's Death</title>
+      <end_time_offset>5769000</end_time_offset>
+      <start_time_offset>5256000</start_time_offset>
+    </item>
+    <item index="16">
+      <title>A Surprise for Richelieu</title>
+      <end_time_offset>6147000</end_time_offset>
+      <start_time_offset>5769000</start_time_offset>
+    </item>
+    <item index="17">
+      <title>The Fourth Musketeer!</title>
+      <end_time_offset>6631000</end_time_offset>
+      <start_time_offset>6147000</start_time_offset>
+    </item>
+    <item index="18">
+      <title>End Credits</title>
+      <end_time_offset>-1</end_time_offset>
+      <start_time_offset>6631000</start_time_offset>
+    </item>
+  </chapters>
+  <themes/>
+  <quotes/>
+  <year>2011</year>
+  <duration>6600000</duration>
+  <genres>
+    <item index="0">Action</item>
+    <item index="1">Adventure</item>
+    <item index="2">Romance</item>
+  </genres>
+  <title>The Three Musketeers</title>
+  <tagline>Every legend has a new beginning.</tagline>
+  <content_rating_age/>
+  <rating_count/>
+  <collections/>
+  <trivia/>
+  <tags/>
+  <audience_rating_image>rottentomatoes://image.rating.spilled</audience_rating_image>
+  <rating_image>rottentomatoes://image.rating.rotten</rating_image>
+  <producers>
+    <item index="0">
+      <photo>http://image.tmdb.org/t/p/original/AeYYSi30WCkowdk04Awa0kr1E4S.jpg</photo>
+      <role/>
+      <name>Paul W.S. Anderson</name>
+    </item>
+    <item index="1">
+      <photo>http://image.tmdb.org/t/p/original/pqbpSnsM5Ord6t6Fx7AqCb0bGqo.jpg</photo>
+      <role/>
+      <name>Jeremy Bolt</name>
+    </item>
+    <item index="2">
+      <photo/>
+      <role/>
+      <name>Robert Kulzer</name>
+    </item>
+  </producers>
+  <audience_rating>3.9</audience_rating>
+  <studio>Impact Pictures</studio>
+  <posters>
+    <item external="True" url="http://image.tmdb.org/t/p/original/n8ob0xjLIjnvqgWY57rPQYOw7t.jpg" preview="6960863489b0fc80c1cfda63160595b7b7b140ee" sort_order="1"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/psJnbm5o13ZEo0jK60caviUkiF.jpg" preview="451d2d4e1915994dc514ef95d1cf5e15daabd8f4" sort_order="2"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/o1UvBGh2lhLoiiTMEOyQe5X95fQ.jpg" preview="eb7870c0f52d9c2f3d8c441500d93c6c1cafe24f" sort_order="3"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/2hrYNnCkSRcD3Car7abflK5EGxl.jpg" preview="c7c8110badadfba548cf12c190d895996fdaa7cc" sort_order="4"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/6TExAR10ZIzVTc0oa5dWTxZS0jK.jpg" preview="ff8c9781f15528e9b7e6eb43b4efbdc3c8e9099d" sort_order="5"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/4EEx4r19zF75CEGWX63Pjr7SASi.jpg" preview="b1ff6cf46773018afa548d646221362b499e5acd" sort_order="6"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/o5r0KO4DjvO4XR6nZ0AsuzI7a3Q.jpg" preview="b7d98f1bd7f68e13247614ada64138083f63f517" sort_order="7"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/6EdsVwQGXW6oFBZxg3f1m7OQGqY.jpg" preview="57b5f16de4de062efb962165de89a09e1672834e" sort_order="8"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/cpKs0UApsflhnkGWTxMzyB6hcCU.jpg" preview="1e97f842017e6e0d943338a95b57d7b4f2622ab6" sort_order="9"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/cDbiZ14StmaxVVcFoV7kdts1Lof.jpg" preview="48bfe937714ec1c916c3466d848fdde1676ee24d" sort_order="10"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/xO4hQNeRamyBkDleiqEwGtmaYb7.jpg" preview="d1d1a735273890624052b1ab8c97ead193faf372" sort_order="11"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/5BDAEXInQSKB9vDP0vssVkoJyuw.jpg" preview="f7a8919d67b42b57935a637a64f73a9c4f08d824" sort_order="12"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/iRZFWdNSZuFvdhWmgmm0UEe0jTH.jpg" preview="40ada4d5ed1923334037310c423744dd497f9131" sort_order="13"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/kPdQzx7xVaT7ooDjNiGXkKBGnJW.jpg" preview="6252be5dd257af9f5fc27746874e42feae937b4b" sort_order="14"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/kbJR24iDQJpnnTUeYB5Fo0m4Hac.jpg" preview="a8348ec4a76084552002a241f0486b40cd07d945" sort_order="15"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/lLOO5aHBdfZhuYsqmIRi8DA1Qzb.jpg" preview="401ca395c18f8ef104b7503d7989d7b105d71a78" sort_order="16"/>
+  </posters>
+  <originally_available_at>2011-08-31</originally_available_at>
+  <roles>
+    <item index="0">
+      <photo>http://image.tmdb.org/t/p/original/mcNgLarIVho7LheWcvd1oQ2tBOg.jpg</photo>
+      <role>M'lady De Winter</role>
+      <name>Milla Jovovich</name>
+    </item>
+    <item index="1">
+      <photo>http://image.tmdb.org/t/p/original/vq90ECKinICxJYYZpbga4pMwch.jpg</photo>
+      <role>Duke of Buckingham</role>
+      <name>Orlando Bloom</name>
+    </item>
+    <item index="2">
+      <photo>http://image.tmdb.org/t/p/original/A8Cws1ZLrUyHa2s8D2rsBeohgh3.jpg</photo>
+      <role>D'Artagnan</role>
+      <name>Logan Lerman</name>
+    </item>
+    <item index="3">
+      <photo>http://image.tmdb.org/t/p/original/bcd9uqwfCVYsu7rduZnPVYUkyfU.jpg</photo>
+      <role>Porthos</role>
+      <name>Ray Stevenson</name>
+    </item>
+    <item index="4">
+      <photo>http://image.tmdb.org/t/p/original/2FF3Yjxd7DYR4EIJL6s2GpKDMkJ.jpg</photo>
+      <role>Athos</role>
+      <name>Matthew Macfadyen</name>
+    </item>
+    <item index="5">
+      <photo>http://image.tmdb.org/t/p/original/1d31uDYub8TaLOPWfgX78OotduD.jpg</photo>
+      <role>Aramis</role>
+      <name>Luke Evans</name>
+    </item>
+    <item index="6">
+      <photo>http://image.tmdb.org/t/p/original/8F1dY2rjZ1YDEKH0imDs21xdTDX.jpg</photo>
+      <role>Rochefort</role>
+      <name>Mads Mikkelsen</name>
+    </item>
+    <item index="7">
+      <photo>http://image.tmdb.org/t/p/original/2Hhztd4mUEV9Y25rfkXDwzL9QI9.jpg</photo>
+      <role>Cardinal Richelieu</role>
+      <name>Christoph Waltz</name>
+    </item>
+    <item index="8">
+      <photo>http://image.tmdb.org/t/p/original/kOPYh0Jr8lAUTmbyDZiES9Lx1j8.jpg</photo>
+      <role>King Louis XIII of France</role>
+      <name>Freddie Fox</name>
+    </item>
+    <item index="9">
+      <photo>http://image.tmdb.org/t/p/original/85ff7klCWqs3wagYhjwVZGpMmaa.jpg</photo>
+      <role>Constance</role>
+      <name>Gabriella Wilde</name>
+    </item>
+    <item index="10">
+      <photo>http://image.tmdb.org/t/p/original/6lervF85GSg9v6mP14oleq85XiI.jpg</photo>
+      <role>Queen Anne</role>
+      <name>Juno Temple</name>
+    </item>
+    <item index="11">
+      <photo>http://image.tmdb.org/t/p/original/mRQ9URazBbImeV0NxHZsGS3Px7D.jpg</photo>
+      <role>Cagliostro</role>
+      <name>Til Schweiger</name>
+    </item>
+    <item index="12">
+      <photo>http://image.tmdb.org/t/p/original/xGB0gfZ48M27gQjjL7inJIh1Pqj.jpg</photo>
+      <role>Planchet</role>
+      <name>James Corden</name>
+    </item>
+    <item index="13">
+      <photo>http://image.tmdb.org/t/p/original/did9anJiAFYvTbeQyNZaxts7GaT.jpg</photo>
+      <role>D'Artagnan's Father</role>
+      <name>Dexter Fletcher</name>
+    </item>
+    <item index="14">
+      <photo>http://image.tmdb.org/t/p/original/jziXtz3qCCOzYL9sEhyNHMel6xU.jpg</photo>
+      <role>Venetian Nobleman</role>
+      <name>Christian Oliver</name>
+    </item>
+  </roles>
+  <countries>
+    <item index="0">Germany</item>
+  </countries>
+  <content_rating>PG-13</content_rating>
+  <original_title/>
+  <summary>The hot-headed young D'Artagnan along with three former legendary but now down on their luck Musketeers must unite and defeat a beautiful double agent and her villainous employer from seizing the French throne and engulfing Europe in war.</summary>
+  <reviews>
+    <item index="0">
+      <text>Even the most liberal viewer is likely to echo Milady's thoughts of D'Artagnan: "You are very amiable, no doubt, but you would be charming if you would only depart."</text>
+      <source>New York Daily News</source>
+      <image>rottentomatoes://image.review.rotten</image>
+      <link>http://www.nydailynews.com/entertainment/movies/2011/10/24/2011-10-24_the_three_musketeers_review_english_literary_classic_gets_campy_spin_with_bloom_.html?r=entertainment/movies</link>
+      <author>Elizabeth Weitzman</author>
+    </item>
+    <item index="1">
+      <text>Call it the Robert Downey Jr. Meets Sherlock Holmes Effect. A classic popular adventure gets overblown, juiced-up, and generally CGI-ified.</text>
+      <source>Boston Globe</source>
+      <image>rottentomatoes://image.review.rotten</image>
+      <link>http://feeds.boston.com/click.phdo?i=feded36f5a2bea0e0f7e0d9c969b4252</link>
+      <author>Mark Feeney</author>
+    </item>
+    <item index="2">
+      <text>This version of the Musketeers story can't decide if it wants to be an old-fashioned tale of swashbuckling adventure and palace intrigue or a cheeky, effects-heavy rethink of some iconic characters a la the Guy Ritchie-directed Sherlock Holmes.</text>
+      <source>AV Club</source>
+      <image>rottentomatoes://image.review.rotten</image>
+      <link>http://www.avclub.com/articles/the-three-musketeers,63858/?utm_medium=RSS&amp;utm_campaign=feeds&amp;utm_source=channel_film</link>
+      <author>Keith Phipps</author>
+    </item>
+    <item index="3">
+      <text>Every time you think it can't get any stupider, it gets right up in your face, calls you "bro," and gets stupider.</text>
+      <source>Film.com</source>
+      <image>rottentomatoes://image.review.rotten</image>
+      <link>http://www.film.com/movies/review-the-three-musketeers</link>
+      <author>Eric D. Snider</author>
+    </item>
+    <item index="4">
+      <text>Jovovich tries hard to be terribly, terribly wicked, but her performance finds a hitherto unknown middle ground between Divine in Pink Flamingos and Halle Berry in Catwoman that's just embarrassing.</text>
+      <source>TheWrap</source>
+      <image>rottentomatoes://image.review.rotten</image>
+      <link>http://www.thewrap.com/movies/column-post/three-musketeers-gives-swashbuckling-bad-name-32063</link>
+      <author>Alonso Duralde</author>
+    </item>
+    <item index="5">
+      <text>All the borderline pantomime acting and wigged buffoonery is deliberate and silly, but The Three Musketeers remains charmless, a romp brought down by its lead-footed script.</text>
+      <source>Globe and Mail</source>
+      <image>rottentomatoes://image.review.rotten</image>
+      <link>http://www.theglobeandmail.com/news/arts/movies/steampunk-meets-swashbuckle-in-3-d-three-musketeers/article2207878/</link>
+      <author>Liam Lacey</author>
+    </item>
+    <item index="6">
+      <text>This one is overblown, over-dressed, and grandiosely dopey, packed with gargantuan sets and ludicrous action scenes and shot in unusually dark and dingy 3-D.</text>
+      <source>Chicago Reader</source>
+      <image>rottentomatoes://image.review.rotten</image>
+      <link>http://www.chicagoreader.com/chicago/MovieTimes?oid=4817692</link>
+      <author>Michael Wilmington</author>
+    </item>
+    <item index="7">
+      <text>Seriously: What the hell?</text>
+      <source>Chicago Tribune</source>
+      <image>rottentomatoes://image.review.rotten</image>
+      <link>http://feeds.seattletimes.com/click.phdo?i=b5cc84b8d4f379eb02102847eb8bcfdf</link>
+      <author>Michael Phillips</author>
+    </item>
+    <item index="8">
+      <text>For the latest update of Alexandre Dumas's novel, Paul W.S. Anderson has added flying battleships and elaborate diamond heists.</text>
+      <source>Time Out</source>
+      <image>rottentomatoes://image.review.rotten</image>
+      <link>http://newyork.timeout.com/arts-culture/film/2098691/review-the-three-musketeers</link>
+      <author>Ben Kenigsberg</author>
+    </item>
+    <item index="9">
+      <text>One for all and all for nowt.</text>
+      <source>Time Out</source>
+      <image>rottentomatoes://image.review.rotten</image>
+      <link>http://www.timeout.com/film/reviews/89623/the-three-musketeers.html</link>
+      <author>Nigel Floyd</author>
+    </item>
+    <item index="10">
+      <text>3D swashbuckler wields a disappointingly blunt sword.</text>
+      <source>Hollywood Reporter</source>
+      <image>rottentomatoes://image.review.rotten</image>
+      <link>http://www.hollywoodreporter.com/review/three-musketeers-film-review-239728</link>
+      <author>Neil Young</author>
+    </item>
+  </reviews>
+  <directors>
+    <item index="0">
+      <photo>http://image.tmdb.org/t/p/original/AeYYSi30WCkowdk04Awa0kr1E4S.jpg</photo>
+      <role/>
+      <name>Paul W.S. Anderson</name>
+    </item>
+  </directors>
+  <extras external="True" extension="xml"/>
+  <banners/>
+  <similar>
+    <item index="0">The Sorcerer's Apprentice</item>
+    <item index="1">Immortals</item>
+    <item index="2">Conan the Barbarian</item>
+    <item index="3">Wrath of the Titans</item>
+    <item index="4">I Am Number Four</item>
+    <item index="5">Robin Hood</item>
+    <item index="6">Priest</item>
+    <item index="7">Prince of Persia: The Sands of Time</item>
+    <item index="8">The Green Hornet</item>
+    <item index="9">Season of the Witch</item>
+    <item index="10">King Arthur</item>
+    <item index="11">Tower Heist</item>
+    <item index="12">Knight and Day</item>
+    <item index="13">The Legend of Zorro</item>
+    <item index="14">The Golden Compass</item>
+    <item index="15">Percy Jackson &amp; the Olympians: The Lightning Thief</item>
+    <item index="16">The Last Airbender</item>
+    <item index="17">G.I. Joe: The Rise of Cobra</item>
+    <item index="18">Abraham Lincoln: Vampire Hunter</item>
+    <item index="19">The Mummy: Tomb of the Dragon Emperor</item>
+  </similar>
+</Movie>

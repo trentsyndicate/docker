@@ -1,0 +1,435 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Movie>
+  <art>
+    <item external="True" url="http://image.tmdb.org/t/p/original/1sZ9Nnic1ldHhHttAMDmNxaNM04.jpg" sort_order="1" provider="com.plexapp.agents.imdb" media="com.plexapp.agents.imdb_41f7c82be41b9141c93e721d10274ecae761747a"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/2wfiojviQjx4A6ylnokPJ9F9LQX.jpg" preview="com.plexapp.agents.imdb_8a8fb9a2f0021d99079e39739d0dd570af4a2d58" sort_order="2" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/6gMXOmYV0tYZYEWT41m75lQJLBx.jpg" preview="com.plexapp.agents.imdb_879f1e1ca25d12162245625ce4ce97aab569ff7d" sort_order="3" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/z6LEqUrlfK0oM3xuTbXABVdaX0Y.jpg" preview="com.plexapp.agents.imdb_8f43a3c2ae90e4c4b5daacbad1a77ab384944898" sort_order="4" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/9JBy5cuSzp0uqsZDCWiOY7JYEKC.jpg" preview="com.plexapp.agents.imdb_984dcc475ee429f87aadc7a483866c45976fee6b" sort_order="5" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/sq8fc6005RAzyBvnWDIaaRYSe4V.jpg" preview="com.plexapp.agents.imdb_a2f07db4e589a2ab6f9bc8b2a301daf72bed22e0" sort_order="6" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/7uyXvZOHhkgPiPZCLexMSCqAPVt.jpg" preview="com.plexapp.agents.imdb_a1e371ae76a28300c9eda7854ec4b430646838b2" sort_order="7" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/kPjEuFBsun8PcVYnh1Cm1aXn0Em.jpg" preview="com.plexapp.agents.imdb_1cdac7b4712cb418abf0752ec5ce6b5f77264f7e" sort_order="8" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/fgPH4gFpqaa7H7tFlPYCg36S6vU.jpg" preview="com.plexapp.agents.imdb_af83200eafefe3791b6fadea0c1ae2d38037f36d" sort_order="9" provider="com.plexapp.agents.imdb"/>
+  </art>
+  <banners/>
+  <chapters>
+    <item index="0">
+      <title/>
+      <end_time_offset>270000</end_time_offset>
+      <start_time_offset>0</start_time_offset>
+    </item>
+    <item index="1">
+      <title/>
+      <end_time_offset>444000</end_time_offset>
+      <start_time_offset>270000</start_time_offset>
+    </item>
+    <item index="2">
+      <title/>
+      <end_time_offset>828000</end_time_offset>
+      <start_time_offset>444000</start_time_offset>
+    </item>
+    <item index="3">
+      <title/>
+      <end_time_offset>1104000</end_time_offset>
+      <start_time_offset>828000</start_time_offset>
+    </item>
+    <item index="4">
+      <title/>
+      <end_time_offset>1391000</end_time_offset>
+      <start_time_offset>1104000</start_time_offset>
+    </item>
+    <item index="5">
+      <title/>
+      <end_time_offset>1693000</end_time_offset>
+      <start_time_offset>1391000</start_time_offset>
+    </item>
+    <item index="6">
+      <title/>
+      <end_time_offset>1893000</end_time_offset>
+      <start_time_offset>1693000</start_time_offset>
+    </item>
+    <item index="7">
+      <title/>
+      <end_time_offset>2142000</end_time_offset>
+      <start_time_offset>1893000</start_time_offset>
+    </item>
+    <item index="8">
+      <title/>
+      <end_time_offset>2368000</end_time_offset>
+      <start_time_offset>2142000</start_time_offset>
+    </item>
+    <item index="9">
+      <title/>
+      <end_time_offset>2677000</end_time_offset>
+      <start_time_offset>2368000</start_time_offset>
+    </item>
+    <item index="10">
+      <title/>
+      <end_time_offset>2873000</end_time_offset>
+      <start_time_offset>2677000</start_time_offset>
+    </item>
+    <item index="11">
+      <title/>
+      <end_time_offset>3033000</end_time_offset>
+      <start_time_offset>2873000</start_time_offset>
+    </item>
+    <item index="12">
+      <title/>
+      <end_time_offset>3362000</end_time_offset>
+      <start_time_offset>3033000</start_time_offset>
+    </item>
+    <item index="13">
+      <title/>
+      <end_time_offset>3620000</end_time_offset>
+      <start_time_offset>3362000</start_time_offset>
+    </item>
+    <item index="14">
+      <title/>
+      <end_time_offset>3815000</end_time_offset>
+      <start_time_offset>3620000</start_time_offset>
+    </item>
+    <item index="15">
+      <title/>
+      <end_time_offset>4029000</end_time_offset>
+      <start_time_offset>3815000</start_time_offset>
+    </item>
+    <item index="16">
+      <title/>
+      <end_time_offset>4269000</end_time_offset>
+      <start_time_offset>4029000</start_time_offset>
+    </item>
+    <item index="17">
+      <title/>
+      <end_time_offset>4561000</end_time_offset>
+      <start_time_offset>4269000</start_time_offset>
+    </item>
+    <item index="18">
+      <title/>
+      <end_time_offset>4767000</end_time_offset>
+      <start_time_offset>4561000</start_time_offset>
+    </item>
+    <item index="19">
+      <title/>
+      <end_time_offset>-1</end_time_offset>
+      <start_time_offset>4767000</start_time_offset>
+    </item>
+  </chapters>
+  <collections/>
+  <content_rating>R</content_rating>
+  <countries>
+    <item index="0">France</item>
+  </countries>
+  <directors>
+    <item index="0">
+      <photo/>
+      <role/>
+      <name>James DeMonaco</name>
+    </item>
+  </directors>
+  <duration>5160000</duration>
+  <genres>
+    <item index="0">Horror</item>
+    <item index="1">Thriller</item>
+  </genres>
+  <originally_available_at>2013-05-31</originally_available_at>
+  <posters>
+    <item external="True" url="http://image.tmdb.org/t/p/original/tGGJOuLHX7UDlTz57sjfhW1qreP.jpg" sort_order="1" provider="com.plexapp.agents.imdb" media="com.plexapp.agents.imdb_0308b03628e43fa041430eba3cb7c1e241cc9c19"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/3dXjXaApTLOhzwGHCDtl5dKmy7Z.jpg" preview="com.plexapp.agents.imdb_b15435e1f07943df02f31cf5099eba1e1be493b0" sort_order="2" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/6UrIl81KsiGRjgKfuk2CKgVMnBO.jpg" preview="com.plexapp.agents.imdb_c817fc7ee9cc770f6e692b11e690ed3ea7910e51" sort_order="3" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/xbGs1sd6LmANVsNABNzSDqKmG4V.jpg" sort_order="4" provider="com.plexapp.agents.imdb" media="com.plexapp.agents.imdb_9eef7068620f2a16427f632abb89e3b79020773f"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/4hOrevQ3F5jSjCU6CODIRYPvV7r.jpg" preview="com.plexapp.agents.imdb_b7577a1b413982e44e90a15bf744151fdf75292d" sort_order="5" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/5QSEzKBsHShMpVPb32Vz02yAfiQ.jpg" preview="com.plexapp.agents.imdb_41b743a1e48a4a4f36cb8f0702db4a23a0e6c824" sort_order="6" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/e4iyOS1cVJ16ZvwKoUGU4GbTwKD.jpg" preview="com.plexapp.agents.imdb_b62cd167d15bfac7ab1947fd7804e3931421ea34" sort_order="7" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/td6go7PMysGM4j8LVtIVOQeKhSi.jpg" preview="com.plexapp.agents.imdb_2a3c7d5ecb490e852b4da721899e0862b3d6b05a" sort_order="8" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/jlNLW5DRMdfZSH2eYUg7eYGhLPA.jpg" preview="com.plexapp.agents.imdb_56834245c51b83af5a88c0cc519150c4b60a1c7f" sort_order="9" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/3sV0aQjq6O74mHDsoHbVUwQoeuA.jpg" preview="com.plexapp.agents.imdb_6e1bde67d8a9db124e14131e845b883bf455cb99" sort_order="10" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/3tI05b3catJBGCGp9wOUcfEb9YS.jpg" preview="com.plexapp.agents.imdb_76ad0608a81bde3c5d9ca428fc7fc2904763b153" sort_order="11" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/vaiGGDIM9w2cu0x56bds3l6F7OW.jpg" preview="com.plexapp.agents.imdb_ab0125ff633e1228a83e644a9004b5674b9dfca8" sort_order="12" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/r6aM8Yien0kZ1vW6be67imJmBL9.jpg" preview="com.plexapp.agents.imdb_2dda83b00fbd53ed2ac46dcf80df6faf62b05034" sort_order="13" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/1fiPY0wrMMLs1rTLv56KuYNQiCv.jpg" preview="com.plexapp.agents.imdb_79373ecc15ba6fc7173431d2f2d7323099e8ee16" sort_order="14" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/i65PIOQa0E2Ir4nuB3iU48IzoE4.jpg" preview="com.plexapp.agents.imdb_1d19e6f889c3ba12441db05ee875521aac164cf1" sort_order="15" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/aVe7T8XGvkGIuIc9fT6cIsUr1sQ.jpg" preview="com.plexapp.agents.imdb_128b2371ceaea5a4597117e338dcecd2b86de1ef" sort_order="16" provider="com.plexapp.agents.imdb"/>
+  </posters>
+  <producers>
+    <item index="0">
+      <photo>http://image.tmdb.org/t/p/original/cBJX9TOcJk1RQDaKrgYJRvYNUq1.jpg</photo>
+      <role/>
+      <name>Michael Bay</name>
+    </item>
+    <item index="1">
+      <photo>http://image.tmdb.org/t/p/original/9tm1oUdA6HOUaaS4bwWI2ihmBVt.jpg</photo>
+      <role/>
+      <name>Jason Blum</name>
+    </item>
+    <item index="2">
+      <photo>http://image.tmdb.org/t/p/original/yo3V5C3RUm43NaLhKISU9UIIFjm.jpg</photo>
+      <role/>
+      <name>Andrew Form</name>
+    </item>
+    <item index="3">
+      <photo>http://image.tmdb.org/t/p/original/qlJSn1kbOe6jZwJAkJGuyNh5tGi.jpg</photo>
+      <role/>
+      <name>Bradley Fuller</name>
+    </item>
+    <item index="4">
+      <photo>http://image.tmdb.org/t/p/original/mBRPceqEeXuQDuGidjl6irxmP33.jpg</photo>
+      <role/>
+      <name>Sebastien Lemercier</name>
+    </item>
+  </producers>
+  <rating>3.8</rating>
+  <rating_image>rottentomatoes://image.rating.rotten</rating_image>
+  <audience_rating>3.6</audience_rating>
+  <audience_rating_image>rottentomatoes://image.rating.spilled</audience_rating_image>
+  <reviews>
+    <item index="0">
+      <text>Writer-director James DeMonaco's The Purge fritters away its promise in lurid, frenzied violence.</text>
+      <source>Orange County Register</source>
+      <image>rottentomatoes://image.review.rotten</image>
+      <link>http://www.ocregister.com/articles/purge-511661-film-demonaco.html</link>
+      <author>Michael Sragow</author>
+    </item>
+    <item index="1">
+      <text>DeMonaco clearly hopes to make a significant moral statement on the level of Shirley Jackson's literary masterpiece The Lottery. Alas, his aim at political conservatives who support the gun lobby falls flat before he can pull the trigger.</text>
+      <source>New York Observer</source>
+      <image>rottentomatoes://image.review.rotten</image>
+      <link>http://observer.com/2013/06/brainless-brutality-the-purge-is-a-virulent-travesty-of-the-profanity-it-pretends-to-be-questioning/</link>
+      <author>Rex Reed</author>
+    </item>
+    <item index="2">
+      <text>If The Purge is as far-sighted as Network proved to be, we are in for very ugly times.</text>
+      <source>The New Republic</source>
+      <image>rottentomatoes://image.review.rotten</image>
+      <link>http://www.newrepublic.com/article/113428/purge-reviewed-david-thomson#</link>
+      <author>David Thomson</author>
+    </item>
+    <item index="3">
+      <text>That old horror-movie standard, a homestead besieged by psychos, gets remixed with a bit of Occupy-era class-conflict satire in the disappointing future-set thriller The Purge.</text>
+      <source>Variety</source>
+      <image>rottentomatoes://image.review.rotten</image>
+      <link>http://variety.com/2013/film/reviews/the-purge-ethan-hawke-1200491474/</link>
+      <author>Leslie Felperin</author>
+    </item>
+    <item index="4">
+      <text>Gimmicky chiller lacks the robustness and distinction needed to support its social-commentary ambitions.</text>
+      <source>Hollywood Reporter</source>
+      <image>rottentomatoes://image.review.rotten</image>
+      <link>http://www.hollywoodreporter.com/movie/purge/review/561176</link>
+      <author>Neil Young</author>
+    </item>
+    <item index="5">
+      <text>The blunt instrument plot allows for a few sneaky moments of satire and social commentary lite.</text>
+      <source>Hearst Newspapers</source>
+      <image>rottentomatoes://image.review.rotten</image>
+      <link>http://www.timesunion.com/living/article/Ill-conceived-Purge-not-entirely-awful-4583996.php</link>
+      <author>Peter Hartlaub</author>
+    </item>
+    <item index="6">
+      <text>When critics bemoan the dumbing down of movies, they're talking about stuff like The Purge.</text>
+      <source>ReelViews</source>
+      <image>rottentomatoes://image.review.rotten</image>
+      <link>http://www.reelviews.net/php_review_template.php?identifier=2628&amp;utm_source=feedly</link>
+      <author>James Berardinelli</author>
+    </item>
+    <item index="7">
+      <text>Instead of being a creepy B-movie about the necessity of suppressing one's animalistic urges, "The Purge" is just a product of uninspired filmmaking.</text>
+      <source>Chicago Sun-Times</source>
+      <image>rottentomatoes://image.review.rotten</image>
+      <link>http://www.rogerebert.com/reviews/the-purge-2013</link>
+      <author>Simon Abrams</author>
+    </item>
+    <item index="8">
+      <text>In its own clumsy, exaggerated way, The Purge takes a strong stand against our cultural obsession with violence and our tendency to conflate justice with vengeance.</text>
+      <source>Philadelphia Inquirer</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>http://www.philly.com/philly/entertainment/movies/20130607_Home-invasion_thriller_with_a_politico-cultural_critique.html</link>
+      <author>Tirdad Derakhshani</author>
+    </item>
+    <item index="9">
+      <text>Fans, gear up for rock-em-sock-em action, yet don't be disappointed if much of the goonery seems a bit tepid and, dare I say, staged.</text>
+      <source>Globe and Mail</source>
+      <image>rottentomatoes://image.review.rotten</image>
+      <link>http://www.theglobeandmail.com/arts/summer-entertainment/rock-em-sock-em-action-in-the-purge/article12382043/</link>
+      <author>Rick Groen</author>
+    </item>
+    <item index="10">
+      <text>A nutty if bloody lark, with a strange artificiality to the behaviors it portrays. That blunts the sharpness of any cultural critique it might aspire to.</text>
+      <source>Washington Post</source>
+      <image>rottentomatoes://image.review.rotten</image>
+      <link>http://www.washingtonpost.com/gog/movies/the-purge,1244323/critic-review.html</link>
+      <author>Michael O'Sullivan</author>
+    </item>
+    <item index="11">
+      <text>The Purge is not subtle. But why should it be? It's not a movie about class or morality, but about the need for violence -- our own. We are the audience, after all, and we must be purged, too.</text>
+      <source>New York Magazine/Vulture</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>http://www.vulture.com/2013/06/movie-review-the-purge.html</link>
+      <author>Bilge Ebiri</author>
+    </item>
+    <item index="12">
+      <text>Audiences will feel the need for a good cleansing after experiencing The Purge.</text>
+      <source>USA Today</source>
+      <image>rottentomatoes://image.review.rotten</image>
+      <link>http://rssfeeds.usatoday.com/~r/UsatodaycomMovies-TopStories/~3/VObHF2YbmDM/</link>
+      <author>Claudia Puig</author>
+    </item>
+    <item index="13">
+      <text>It's cultural commentary as blunt instrument - and as blunt instruments are wont to do, it achieves an end while making a bloody mess.</text>
+      <source>Toronto Star</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>http://www.thestar.com/entertainment/movies/2013/06/06/the_purge_a_deadly_night_with_a_blunt_message_review.html</link>
+      <author>Peter Howell</author>
+    </item>
+    <item index="14">
+      <text>The great premise in "The Purge" - and it is a great premise, while being no "Hunger Games" - is squandered on a few levels.</text>
+      <source>St. Louis Post-Dispatch</source>
+      <image>rottentomatoes://image.review.rotten</image>
+      <link>http://www.stltoday.com/entertainment/movies/reviews/the-purge-rids-viewers-of-genuine-shocks/article_00cd7705-f534-5538-a8c7-9848e31951b4.html</link>
+      <author>Kevin C. Johnson</author>
+    </item>
+    <item index="15">
+      <text>The vague posters for "The Purge" won't prepare you for how sharp and shockingly subversive this home-invasion flick can be.</text>
+      <source>Newsday</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>http://www.newsday.com/entertainment/movies/the-purge-review-horror-flick-with-social-satire-1.5416428</link>
+      <author>Rafer Guzman</author>
+    </item>
+    <item index="16">
+      <text>Its premise requires more sophisticated layering for the audience to really get on board with the notion that people leading very comfortable lives will suddenly go on a murder bender just because they can.</text>
+      <source>Minneapolis Star Tribune</source>
+      <image>rottentomatoes://image.review.rotten</image>
+      <link>http://www.startribune.com/entertainment/movies/210451041.html</link>
+      <author>Kristin Tillotson</author>
+    </item>
+    <item index="17">
+      <text>The Purge is mostly a genre picture trying to layer on some prestige by way of social commentary. The latter falls flat; the film is actually stronger when it just goes for our baser instincts.</text>
+      <source>NPR</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>http://www.npr.org/2013/06/06/188946336/shell?ft=1&amp;f=1045&amp;utm_source=feedly</link>
+      <author>Ian Buckwalter</author>
+    </item>
+  </reviews>
+  <roles>
+    <item index="0">
+      <photo>http://image.tmdb.org/t/p/original/2Mv9R3ncZNgx9STyfmDJYLM6sPg.jpg</photo>
+      <role>Mary Sandin</role>
+      <name>Lena Headey</name>
+    </item>
+    <item index="1">
+      <photo>http://image.tmdb.org/t/p/original/kcby6VYk6Gb0036nUyh8chY5ZAJ.jpg</photo>
+      <role>James Sandin</role>
+      <name>Ethan Hawke</name>
+    </item>
+    <item index="2">
+      <photo>http://image.tmdb.org/t/p/original/8tM61XfapNvBnXum2WcBKlmDDeE.jpg</photo>
+      <role>Charlie Sandin</role>
+      <name>Max Burkholder</name>
+    </item>
+    <item index="3">
+      <photo>http://image.tmdb.org/t/p/original/CaqLu6hnKehDSQhwLoUbA21g5D.jpg</photo>
+      <role>Zoey Sandin</role>
+      <name>Adelaide Kane</name>
+    </item>
+    <item index="4">
+      <photo>http://image.tmdb.org/t/p/original/f286bjIUI5tObGn7h0EVrNwBSuZ.jpg</photo>
+      <role>Polite Leader</role>
+      <name>Rhys Wakefield</name>
+    </item>
+    <item index="5">
+      <photo>http://image.tmdb.org/t/p/original/7DkByOn4GxSNyYFLS187xSfNRiL.jpg</photo>
+      <role>Henry</role>
+      <name>Tony Oller</name>
+    </item>
+    <item index="6">
+      <photo>http://image.tmdb.org/t/p/original/oC56KKxXBufH182bw4QwtsZ5Jj6.jpg</photo>
+      <role>Bloody Stranger</role>
+      <name>Edwin Hodge</name>
+    </item>
+    <item index="7">
+      <photo>http://image.tmdb.org/t/p/original/9PQ91swJgHLJsoVZkcKGfd9NWgw.jpg</photo>
+      <role>Mr. Cali</role>
+      <name>Tom Yi</name>
+    </item>
+    <item index="8">
+      <photo>http://image.tmdb.org/t/p/original/qxJ6M4eCAhUlXkAaXCK8iGLl14g.jpg</photo>
+      <role>Mrs. Grace Ferrin</role>
+      <name>Arija Bareikis</name>
+    </item>
+    <item index="9">
+      <photo>http://image.tmdb.org/t/p/original/ibXN9Ho0nCF4jbGHeQYRHI8AMjH.jpg</photo>
+      <role>Mr. Halverson</role>
+      <name>Chris Mulkey</name>
+    </item>
+    <item index="10">
+      <photo>http://image.tmdb.org/t/p/original/oNlWW5n9fmKgL50MIV65HhYBt88.jpg</photo>
+      <role>Mrs. Halverson</role>
+      <name>Tisha French</name>
+    </item>
+    <item index="11">
+      <photo>http://image.tmdb.org/t/p/original/6nfoiFhqrFphaD2FNMAmEYWk4G1.jpg</photo>
+      <role>Mr. Ferrin</role>
+      <name>Dana Bunch</name>
+    </item>
+    <item index="12">
+      <photo/>
+      <role>Dr. Peter Buynak</role>
+      <name>Peter Gvozdas</name>
+    </item>
+    <item index="13">
+      <photo/>
+      <role>Freak Interrupting</role>
+      <name>John Weselcouch</name>
+    </item>
+    <item index="14">
+      <photo>http://image.tmdb.org/t/p/original/kVuyn6sS7ZSBlXVjjxq0LSE3k4I.jpg</photo>
+      <role>Female Freak</role>
+      <name>Alicia Vela-Bailey</name>
+    </item>
+    <item index="15">
+      <photo>http://image.tmdb.org/t/p/original/nnwcHWqm5mMxzFTqEmi5oJgYJ5t.jpg</photo>
+      <role>George (uncredited)</role>
+      <name>David Basila</name>
+    </item>
+    <item index="16">
+      <photo>http://image.tmdb.org/t/p/original/eAEmO2RoLHDSAl7jlLDvsjeMGuD.jpg</photo>
+      <role>Freak (uncredited)</role>
+      <name>Nathan Clarkson</name>
+    </item>
+  </roles>
+  <similar>
+    <item index="0">The Purge: Anarchy</item>
+    <item index="1">The Purge: Election Year</item>
+    <item index="2">Sinister</item>
+    <item index="3">Insidious</item>
+    <item index="4">The Conjuring</item>
+    <item index="5">Insidious: Chapter 2</item>
+    <item index="6">Carrie</item>
+    <item index="7">Paranormal Activity</item>
+    <item index="8">Mama</item>
+    <item index="9">You're Next</item>
+    <item index="10">Evil Dead</item>
+    <item index="11">The Cabin in the Woods</item>
+    <item index="12">Saw II</item>
+    <item index="13">Annabelle</item>
+    <item index="14">Final Destination 2</item>
+    <item index="15">Devil</item>
+    <item index="16">Final Destination</item>
+    <item index="17">Final Destination 5</item>
+    <item index="18">Final Destination 3</item>
+    <item index="19">The Final Destination</item>
+  </similar>
+  <studio>Universal Pictures</studio>
+  <summary>Given the country's overcrowded prisons, the U.S. government begins to allow 12-hour periods of time in which all illegal activity is legal. During one of these free-for-alls, a family must protect themselves from a home invasion.</summary>
+  <tagline>One night a year, all crime is legal.</tagline>
+  <tags/>
+  <themes/>
+  <title>The Purge</title>
+  <writers>
+    <item index="0">
+      <photo/>
+      <role/>
+      <name>James DeMonaco</name>
+    </item>
+  </writers>
+  <year>2013</year>
+</Movie>

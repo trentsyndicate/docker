@@ -1,0 +1,1162 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Movie>
+  <art>
+    <item external="True" url="http://image.tmdb.org/t/p/original/7j7eBhReCRafAYdCr5XaJzNAIDz.jpg" sort_order="1" provider="com.plexapp.agents.imdb" media="com.plexapp.agents.imdb_9c97375ec329a3262c89a8c9e45d0f56e78693e6"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/bzfiQ0sYsLo6kzeP1DntXxZ4quD.jpg" preview="com.plexapp.agents.imdb_5f0f8167b92f5e8c433a9a2fb40a43e18c083bd1" sort_order="2" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/AtWTkPDUOO98xrB43vcX9P7DKaJ.jpg" preview="com.plexapp.agents.imdb_e7eb05d572e593e24867ecfc332384c433fd9ed8" sort_order="3" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/6I2tPx6KIiBB4TWFiWwNUzrbxUn.jpg" preview="com.plexapp.agents.imdb_84971177f62863d3c9a0c2fb705d683507f0b27d" sort_order="4" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/7GrpqAs0oDcFcwFwyygnUI7BrZA.jpg" preview="com.plexapp.agents.imdb_906056b3323dad2303601fb52efb7b126c773dda" sort_order="5" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/8Qsr8pvDL3s1jNZQ4HK1d1Xlvnh.jpg" preview="com.plexapp.agents.imdb_15f5d7c6882aa3fd6dd54a2eb5b54e679cdb98df" sort_order="6" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/alut5DoMrALIF1tSE9WcYVCzc0J.jpg" preview="com.plexapp.agents.imdb_e4c3f1ab1a914e087ff0d15baf4471b8a4b6c590" sort_order="7" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/bh39Ruzd45UYkRAvqSCQDNtbbom.jpg" preview="com.plexapp.agents.imdb_4b92c71c228402c1d46873daee064137976eb460" sort_order="8" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/ixKzD8p95NIe8trdqrDu9OaJJWO.jpg" preview="com.plexapp.agents.imdb_156b3b0a69ec92aef7fd021a28adf82d049959c1" sort_order="9" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/wmZ5pAoUzNPFEfFMt6LgCqv2q0C.jpg" preview="com.plexapp.agents.imdb_708cfb28252d415de759225929e294f099b52e8d" sort_order="10" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/pfoBajCUUua8RlKkMMWgNJFfQ6v.jpg" preview="com.plexapp.agents.imdb_9aa1c3025c14a2bfdc6c825aa0609d99961a4086" sort_order="11" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/kMzU4PkXcKcDMngCxXji0BbVXsu.jpg" preview="com.plexapp.agents.imdb_599a4e80089057474a7aacfeeae4d657af909bb6" sort_order="12" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/iStRSkVvRTysYdCd5FIV8KmLwLD.jpg" preview="com.plexapp.agents.imdb_69930897a90a5871e286dfd16ac61de52435ccd3" sort_order="13" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/zZK4i6lXqb2r9CZLhCkA4qV9xJ9.jpg" preview="com.plexapp.agents.imdb_b4fae962dc167dd2a05ccc1fdfa518fecf58bb9c" sort_order="14" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/mO4VLBkRbdbi2193F4QWLa1dnHj.jpg" preview="com.plexapp.agents.imdb_9ee574d3f729f23a63a4ad8c19fe9f2e88810442" sort_order="15" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/rqQ9zZks71ZY3W4CSR55br6YRY.jpg" preview="com.plexapp.agents.imdb_621b1fcd2c5ab7c8426def3c8a3ae396c4fc32a3" sort_order="16" provider="com.plexapp.agents.imdb"/>
+  </art>
+  <banners/>
+  <chapters>
+    <item index="0">
+      <title/>
+      <end_time_offset>520000</end_time_offset>
+      <start_time_offset>0</start_time_offset>
+    </item>
+    <item index="1">
+      <title/>
+      <end_time_offset>1135000</end_time_offset>
+      <start_time_offset>520000</start_time_offset>
+    </item>
+    <item index="2">
+      <title/>
+      <end_time_offset>1703000</end_time_offset>
+      <start_time_offset>1135000</start_time_offset>
+    </item>
+    <item index="3">
+      <title/>
+      <end_time_offset>2314000</end_time_offset>
+      <start_time_offset>1703000</start_time_offset>
+    </item>
+    <item index="4">
+      <title/>
+      <end_time_offset>2888000</end_time_offset>
+      <start_time_offset>2314000</start_time_offset>
+    </item>
+    <item index="5">
+      <title/>
+      <end_time_offset>3499000</end_time_offset>
+      <start_time_offset>2888000</start_time_offset>
+    </item>
+    <item index="6">
+      <title/>
+      <end_time_offset>4154000</end_time_offset>
+      <start_time_offset>3499000</start_time_offset>
+    </item>
+    <item index="7">
+      <title/>
+      <end_time_offset>4646000</end_time_offset>
+      <start_time_offset>4154000</start_time_offset>
+    </item>
+    <item index="8">
+      <title/>
+      <end_time_offset>5373000</end_time_offset>
+      <start_time_offset>4646000</start_time_offset>
+    </item>
+    <item index="9">
+      <title/>
+      <end_time_offset>5882000</end_time_offset>
+      <start_time_offset>5373000</start_time_offset>
+    </item>
+    <item index="10">
+      <title/>
+      <end_time_offset>6627000</end_time_offset>
+      <start_time_offset>5882000</start_time_offset>
+    </item>
+    <item index="11">
+      <title/>
+      <end_time_offset>7144000</end_time_offset>
+      <start_time_offset>6627000</start_time_offset>
+    </item>
+    <item index="12">
+      <title/>
+      <end_time_offset>7451000</end_time_offset>
+      <start_time_offset>7144000</start_time_offset>
+    </item>
+    <item index="13">
+      <title/>
+      <end_time_offset>-1</end_time_offset>
+      <start_time_offset>7451000</start_time_offset>
+    </item>
+  </chapters>
+  <collections/>
+  <content_rating>PG-13</content_rating>
+  <countries>
+    <item index="0">United Kingdom</item>
+  </countries>
+  <directors>
+    <item index="0">
+      <photo>http://image.tmdb.org/t/p/original/sCjOa6Yt5o4YeyB7t8LZwNVvtSw.jpg</photo>
+      <role/>
+      <name>David Yates</name>
+    </item>
+  </directors>
+  <duration>7980000</duration>
+  <genres>
+    <item index="0">Adventure</item>
+    <item index="1">Family</item>
+    <item index="2">Fantasy</item>
+  </genres>
+  <originally_available_at>2016-11-16</originally_available_at>
+  <posters>
+    <item external="True" url="http://image.tmdb.org/t/p/original/9HE9xiNMEFJnCzndlkWD7oPfAOx.jpg" sort_order="1" provider="com.plexapp.agents.imdb" media="com.plexapp.agents.imdb_e079c4cc63fcd38e0d954a6b2cf0b1bf764c8be2"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/gri0DDxsERr6B2sOR1fGLxLpSLx.jpg" preview="com.plexapp.agents.imdb_9f7f242bd8b822b42b2ca49c815fcdc1c0739eef" sort_order="2" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/1M91Bt3oGspda75H9eLqYZkJzgO.jpg" preview="com.plexapp.agents.imdb_d7ab7c30de97357c7ace5901dccb1e7bcc9e6c1e" sort_order="3" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/dXwbjYyZH1Se0IS3oVcPdvueLKd.jpg" preview="com.plexapp.agents.imdb_0efcfe24d5e8f3790a7a7364b27c5c91f92a1099" sort_order="4" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/yHw8rBzAWDQWqI5B2HwD0NmVCrR.jpg" preview="com.plexapp.agents.imdb_c5999bd0a1ba8bb9e35ca9a6134fc4e75c5446d1" sort_order="5" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/nVNu88VlVGbvD9SUiA7pFzRioDe.jpg" preview="com.plexapp.agents.imdb_47abdccd206cfd5e41f42e4851292e6af34696ef" sort_order="6" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/jL5CxKI7yHPmxezN2jJXoKoZz40.jpg" preview="com.plexapp.agents.imdb_f5567d56882ffc4bf1818942e4b555d6128f7833" sort_order="7" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/2HBAFGnmstE42cQm884lRdoK4UW.jpg" preview="com.plexapp.agents.imdb_5de97e850641545c0add2db685c178e3cee1a6fb" sort_order="8" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/n4WPwuXLEBMUXVeN61GN8zYngbP.jpg" preview="com.plexapp.agents.imdb_8e91f6ae69f773fa059c92f0bf3d71f6b8921534" sort_order="9" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/16ukJZkncnvSoXheKOFSHIPwNlD.jpg" preview="com.plexapp.agents.imdb_bd0c25768ac89c9c1c1efb4a1cffda73b77483a6" sort_order="10" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/hRPl3C1lHUDroW8MVsLBZfgTx0R.jpg" preview="com.plexapp.agents.imdb_6039947aea209c5b83c121c4ba9447fe31ed6d93" sort_order="11" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/fEL7hTOX38sCkxzSjSyJ1Kl64gl.jpg" preview="com.plexapp.agents.imdb_e9d096a8d645cd8fb20c87beeb2f471db1225e72" sort_order="12" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/sU2i4QrJszufRbYsZx3TfVUhQmi.jpg" preview="com.plexapp.agents.imdb_80afd594ab0a80712d511930ac688ecd6b08756c" sort_order="13" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/j1RuuGOYdiNcL1V9vmPevDj9Znr.jpg" preview="com.plexapp.agents.imdb_347451e46ed9d109e4fe38f2add0eb98b22f900d" sort_order="14" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/hUhyN00FDZZxPpsiqcWWQaZXPug.jpg" preview="com.plexapp.agents.imdb_36a1eca4e837a6b4f5dc7fadce773445eb8be755" sort_order="15" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/qhIt0Ik9pmF6TLI5Uea8sYBsNTB.jpg" preview="com.plexapp.agents.imdb_c5ba567decfdefb2c6e36b61c3ea83f4626e4410" sort_order="16" provider="com.plexapp.agents.imdb"/>
+  </posters>
+  <producers>
+    <item index="0">
+      <photo>http://image.tmdb.org/t/p/original/gZXoZrYxcn4d3XDcVcRE39RFZmL.jpg</photo>
+      <role/>
+      <name>J.K. Rowling</name>
+    </item>
+    <item index="1">
+      <photo>http://image.tmdb.org/t/p/original/1Vvlw01hls1ctuuwActyrLRnAJK.jpg</photo>
+      <role/>
+      <name>David Heyman</name>
+    </item>
+    <item index="2">
+      <photo>http://image.tmdb.org/t/p/original/nhHzMwSiVse15WF1Qi7xfVBoo7A.jpg</photo>
+      <role/>
+      <name>Steve Kloves</name>
+    </item>
+    <item index="3">
+      <photo>http://image.tmdb.org/t/p/original/hwJ5bRA307egY7XwpTdlwGHrR0w.jpg</photo>
+      <role/>
+      <name>Lionel Wigram</name>
+    </item>
+  </producers>
+  <rating>7.4</rating>
+  <rating_image>rottentomatoes://image.rating.ripe</rating_image>
+  <audience_rating>7.9</audience_rating>
+  <audience_rating_image>rottentomatoes://image.rating.upright</audience_rating_image>
+  <reviews>
+    <item index="0">
+      <text>In all, the movie is a cunning and peppy surprise, dulled only by the news that no less than four sequels await.</text>
+      <source>New Yorker</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>http://www.newyorker.com/magazine/2016/11/28/manchester-by-the-sea-and-fantastic-beasts-and-where-to-find-them</link>
+      <author>Anthony Lane</author>
+    </item>
+    <item index="1">
+      <text>To its considerable credit, Fantastic Beasts is not the Potter retread it could easily-and very profitably-have been.</text>
+      <source>The Atlantic</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>http://www.theatlantic.com/entertainment/archive/2016/11/fantastic-beasts-charts-a-new-path-through-a-familiar-world/507989/</link>
+      <author>Christopher Orr</author>
+    </item>
+    <item index="2">
+      <text>The film strains considerably under the weight of all its plot lines-it's never fun to be the movie with the origin story.</text>
+      <source>The New Republic</source>
+      <image>rottentomatoes://image.review.rotten</image>
+      <link>https://newrepublic.com/article/138859/fantastic-beasts-nice-place-visit</link>
+      <author>Will Leitch</author>
+    </item>
+    <item index="3">
+      <text>Rowling has a voluminous imagination and Yates keeps things humming along, although, as was also true of many Potter movies, there is often too much of a good thing.</text>
+      <source>Christian Science Monitor</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>http://www.csmonitor.com/The-Culture/Movies/2016/1118/Fantastic-Beasts-and-Where-to-Find-Them-has-too-much-of-a-good-thing</link>
+      <author>Peter Rainer</author>
+    </item>
+    <item index="4">
+      <text>At least the monsters, when compared with their co-stars, have some personality.</text>
+      <source>Globe and Mail</source>
+      <image>rottentomatoes://image.review.rotten</image>
+      <link>http://www.theglobeandmail.com/arts/film/film-reviews/fantastic-beasts-harry-potter-spin-off-devoid-of-magic/article32900795/</link>
+      <author>Mark Medley</author>
+    </item>
+    <item index="5">
+      <text>A lavish visual feast that nonetheless fails to cast any new spells over its audience.</text>
+      <source>Detroit News</source>
+      <image>rottentomatoes://image.review.rotten</image>
+      <link>http://www.detroitnews.com/story/entertainment/movies/2016/11/17/movie-review-fantastic-beasts-misses-magic-harry-potter/94056538/</link>
+      <author>Adam Graham</author>
+    </item>
+    <item index="6">
+      <text>Yates has fresh tricks up his sleeve as he preps for four more planned films. Five years after the last Potter movie, his 20-something fans can age alongside wizards and witches again. Magical.</text>
+      <source>Dallas Morning News</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>http://www.guidelive.com/movie-reviews/2016/11/17/fantastic-beasts-find-wizarding-world-harry-potter</link>
+      <author>Nancy Churnin</author>
+    </item>
+    <item index="7">
+      <text>Fantastic Beasts and Where to Find Them turns out to be a hyperbolic name for a pretty so-so movie -- one with entertaining passages, but which mostly feels like a big-budget prequel to the better, more cohesive film that's yet to come.</text>
+      <source>CNN.com</source>
+      <image>rottentomatoes://image.review.rotten</image>
+      <link>http://www.cnn.com/2016/11/17/entertainment/fantastic-beasts-review/index.html</link>
+      <author>Brian Lowry</author>
+    </item>
+    <item index="8">
+      <text>Set against all the thunderous themes are the antics of a bunch of uninspired imaginary animals - sorry, fantastic beasts - and an astonishingly winning cast that very nearly atones for everything else.</text>
+      <source>San Diego Reader</source>
+      <image>rottentomatoes://image.review.rotten</image>
+      <link>http://www.sandiegoreader.com/movies/fantastic-beasts-and-where-to-find-them/</link>
+      <author>Matthew Lickona</author>
+    </item>
+    <item index="9">
+      <text>Extravagant creatures of digital descent can't sustain a story that does little more than set the scene for a long string of sequels.</text>
+      <source>Wall Street Journal</source>
+      <image>rottentomatoes://image.review.rotten</image>
+      <link>http://www.wsj.com/articles/fantastic-beasts-and-where-to-find-them-review-in-search-of-monsters-1479412536</link>
+      <author>Joe Morgenstern</author>
+    </item>
+    <item index="10">
+      <text>Rowling and her studio are not so much telling a story as erecting another "tentpole," the Hollywood name for a "franchise" that becomes a virus - but is nonetheless regarded as a remedy for red ink. I only wish there were a vaccine.</text>
+      <source>New York Magazine/Vulture</source>
+      <image>rottentomatoes://image.review.rotten</image>
+      <link>http://www.vulture.com/2016/11/review-fantastic-beasts-is-a-tedious-slog.html</link>
+      <author>David Edelstein</author>
+    </item>
+    <item index="11">
+      <text>Fantastic Beasts offers a good intro to Potter-iffic times ahead, some of them suitably creepy (note the parental guidance rating) as the dark wizard Gellert Grindelwald threatens to bring his evil doings across the Pond from Europe.</text>
+      <source>Toronto Star</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>https://www.thestar.com/entertainment/movies/2016/11/17/fantastic-beasts-and-where-to-find-them-is-more-muddled-than-magical-review.html</link>
+      <author>Peter Howell</author>
+    </item>
+    <item index="12">
+      <text>The plot thickens, along with the emotional tension, which was always the best part of the Potter universe, and not the dazzling special effects.</text>
+      <source>Washington Post</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>https://www.washingtonpost.com/goingoutguide/movies/fantastic-beasts-and-where-to-find-them-hits-the-harry-potter-reset-button/2016/11/17/c9518378-ac1d-11e6-977a-1030f822fc35_story.html</link>
+      <author>Michael O'Sullivan</author>
+    </item>
+    <item index="13">
+      <text>This is the first time that David Yates-who directed the final four movies in the Potter series-has been defeated while dueling his wizardly material.</text>
+      <source>Slate</source>
+      <image>rottentomatoes://image.review.rotten</image>
+      <link>http://www.slate.com/articles/arts/movies/2016/11/david_yates_is_outdueled_by_his_material_in_fantastic_beasts.html</link>
+      <author>Dan Kois</author>
+    </item>
+    <item index="14">
+      <text>What might have been a cynical cash grab is a delightful romp through new but equally spellbinding territory.</text>
+      <source>St. Louis Post-Dispatch</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>http://www.stltoday.com/entertainment/movies/reviews/fantastic-beasts-is-a-delightful-romp-through-spellbinding-territory/article_22c50cee-0efd-5d81-9485-affa84d1542d.html</link>
+      <author>Calvin Wilson</author>
+    </item>
+    <item index="15">
+      <text>A thoroughly satisfying, wildly entertaining and highly enjoyable ride from the very beginning to the very end.</text>
+      <source>Minneapolis Star Tribune</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>http://www.startribune.com/potter-prequel-fantastic-beasts-is-the-best-in-the-series-since-azkaban/401700755/</link>
+      <author>Colin Covert</author>
+    </item>
+    <item index="16">
+      <text>It's ... not hard to feel a twinge of skepticism, a nagging suspicion that this busy, proficient, uninspired movie is soliciting not our sense of wonderment so much as our brand loyalty.</text>
+      <source>Los Angeles Times</source>
+      <image>rottentomatoes://image.review.rotten</image>
+      <link>http://www.latimes.com/entertainment/movies/la-et-mn-fantastic-beasts-review-20161114-story.html</link>
+      <author>Justin Chang</author>
+    </item>
+    <item index="17">
+      <text>Rowling proves to be a good, sharp hand with dialogue while still having a ways to go in terms of shaping a movie; that said, you can feel her enjoyment in exploring the terrain she has created.</text>
+      <source>Boston Globe</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>https://www.bostonglobe.com/arts/movies/2016/11/16/rowlings-fantastic-beasts-high-flying-fun/ToSaHtYrBHb3iPad4nJbrN/story.html</link>
+      <author>Ty Burr</author>
+    </item>
+    <item index="18">
+      <text>The dull special-effects gloss of a fantasy blockbuster only throws [Fogler's] charming performance into greater relief.</text>
+      <source>Chicago Reader</source>
+      <image>rottentomatoes://image.review.rotten</image>
+      <link>http://www.chicagoreader.com/chicago/fantastic-beasts-and-where-to-find-them-3d/MovieTimes?oid=23887024</link>
+      <author>J. R. Jones</author>
+    </item>
+    <item index="19">
+      <text>It is best to simply sit back at some point and enjoy the ride.</text>
+      <source>RogerEbert.com</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>http://www.rogerebert.com/reviews/fantastic-beasts-and-where-to-find-them-2016</link>
+      <author>Susan Wloszczyna</author>
+    </item>
+  </reviews>
+  <roles>
+    <item index="0">
+      <photo>http://image.tmdb.org/t/p/original/bHipa1GkpedD32w2OIRg5axdkQ6.jpg</photo>
+      <role>Newt Scamander</role>
+      <name>Eddie Redmayne</name>
+    </item>
+    <item index="1">
+      <photo>http://image.tmdb.org/t/p/original/pgMM9r5ll99RXSmz1J4sj8zaddW.jpg</photo>
+      <role>Percival Graves</role>
+      <name>Colin Farrell</name>
+    </item>
+    <item index="2">
+      <photo>http://image.tmdb.org/t/p/original/zgLVX4KJJ6hTD2niGLchkzjfWpJ.jpg</photo>
+      <role>Porpentina "Tina" Goldstein</role>
+      <name>Katherine Waterston</name>
+    </item>
+    <item index="3">
+      <photo>http://image.tmdb.org/t/p/original/75hCIe6KHpHUlJDcyoxEp035BWz.jpg</photo>
+      <role>Jacob Kowalski</role>
+      <name>Dan Fogler</name>
+    </item>
+    <item index="4">
+      <photo>http://image.tmdb.org/t/p/original/w0ixLYjKN5I171bQ3XSsgW3Lte3.jpg</photo>
+      <role>Queenie Goldstein</role>
+      <name>Alison Sudol</name>
+    </item>
+    <item index="5">
+      <photo>http://image.tmdb.org/t/p/original/oxLsItDwLddXu8YYJCfkddYNejL.jpg</photo>
+      <role>Henry Shaw Sr</role>
+      <name>Jon Voight</name>
+    </item>
+    <item index="6">
+      <photo>http://image.tmdb.org/t/p/original/xZyrXT2iEmSOokQRc1hedmxrbTi.jpg</photo>
+      <role>Gnarlack</role>
+      <name>Ron Perlman</name>
+    </item>
+    <item index="7">
+      <photo>http://image.tmdb.org/t/p/original/ea4fTp9T8Zy2KWxyFsqDIBgHZmb.jpg</photo>
+      <role>Gellert Grindelwald</role>
+      <name>Johnny Depp</name>
+    </item>
+    <item index="8">
+      <photo>http://image.tmdb.org/t/p/original/wcl5pdFDAUyDgJ1gfQErXch6FgH.jpg</photo>
+      <role>Leta Lestrange</role>
+      <name>Zoë Kravitz</name>
+    </item>
+    <item index="9">
+      <photo>http://image.tmdb.org/t/p/original/1tgihUq8F6zPHU9IYyRZ7vI6nme.jpg</photo>
+      <role>Credence Barebone</role>
+      <name>Ezra Miller</name>
+    </item>
+    <item index="10">
+      <photo>http://image.tmdb.org/t/p/original/zRvK2T98rz5smCwRiAaFRq1CoDo.jpg</photo>
+      <role>Mary Lou Barebone</role>
+      <name>Samantha Morton</name>
+    </item>
+    <item index="11">
+      <photo>http://image.tmdb.org/t/p/original/yAiQAfxCAFw2SNIVpAePKXBvT58.jpg</photo>
+      <role>Seraphina Picquery</role>
+      <name>Carmen Ejogo</name>
+    </item>
+    <item index="12">
+      <photo>http://image.tmdb.org/t/p/original/mV5d7ZshhMMhiFcq5i02quGNxA4.jpg</photo>
+      <role>Henry Shaw, Jr</role>
+      <name>Josh Cowdery</name>
+    </item>
+    <item index="13">
+      <photo>http://image.tmdb.org/t/p/original/cwvrSNokGx9k5FjGqJsYtVWnKUI.jpg</photo>
+      <role>Langdon Shaw</role>
+      <name>Ronan Raftery</name>
+    </item>
+    <item index="14">
+      <photo>http://image.tmdb.org/t/p/original/8d9WoUi1tN9chpjcpaDmcGEYv9t.jpg</photo>
+      <role>Modesty Barebone</role>
+      <name>Faith Wood-Blagrove</name>
+    </item>
+    <item index="15">
+      <photo>http://image.tmdb.org/t/p/original/ihzliJtl9mvRJA0qc7W1wcE1cqL.jpg</photo>
+      <role>Chastity Barebone</role>
+      <name>Jenn Murray</name>
+    </item>
+    <item index="16">
+      <photo>http://image.tmdb.org/t/p/original/iSdKh6NAhu6jOSsOdM8SQIVkYbf.jpg</photo>
+      <role>Madame Ya Zou</role>
+      <name>Gemma Chan</name>
+    </item>
+    <item index="17">
+      <photo>http://image.tmdb.org/t/p/original/iQeR1xk7vs8r3ZyiGaHSMzznCzF.jpg</photo>
+      <role>Gilbert Bingley</role>
+      <name>Peter Breitmayer</name>
+    </item>
+    <item index="18">
+      <photo>http://image.tmdb.org/t/p/original/cJgSv0hcv67GSTjvr1LTdRc0L7h.jpg</photo>
+      <role>Mr. Abernathy</role>
+      <name>Kevin Guthrie</name>
+    </item>
+    <item index="19">
+      <photo>http://image.tmdb.org/t/p/original/4N6vO5VdopIrQAshUONzEM70XiI.jpg</photo>
+      <role>Nearby Criminal</role>
+      <name>Sean Cronin</name>
+    </item>
+    <item index="20">
+      <photo>http://image.tmdb.org/t/p/original/As9hylT9XK7wJkXZs2505FrNzRT.jpg</photo>
+      <role>Customs Official</role>
+      <name>Sam Redford</name>
+    </item>
+    <item index="21">
+      <photo>http://image.tmdb.org/t/p/original/nCSIiFVWWSkON9b5zmrC4RvwmWI.jpg</photo>
+      <role>Auror</role>
+      <name>Akin Gazi</name>
+    </item>
+    <item index="22">
+      <photo>http://image.tmdb.org/t/p/original/3TxjK0D3zuTg57ArfJFKxrnYNi2.jpg</photo>
+      <role>The Announcer</role>
+      <name>Todd Boyce</name>
+    </item>
+    <item index="23">
+      <photo>http://image.tmdb.org/t/p/original/ammfZMEJsfyaOEmKGQH3Pb0ugYM.jpg</photo>
+      <role>Housewife</role>
+      <name>Anne Wittman</name>
+    </item>
+    <item index="24">
+      <photo>http://image.tmdb.org/t/p/original/6wkJL230v2MbCy6kyXaAnZ1DlKs.jpg</photo>
+      <role>Auror 9</role>
+      <name>Andreea Păduraru</name>
+    </item>
+    <item index="25">
+      <photo>http://image.tmdb.org/t/p/original/hyN4zqc0YteHXXvWftjDesOdiOk.jpg</photo>
+      <role>Photographer 1</role>
+      <name>Matthew Sim</name>
+    </item>
+    <item index="26">
+      <photo>http://image.tmdb.org/t/p/original/jherqMN2Wyelzb9tpd7IajMOmXC.jpg</photo>
+      <role>Executioner #1</role>
+      <name>Elizabeth Moynihan</name>
+    </item>
+    <item index="27">
+      <photo>http://image.tmdb.org/t/p/original/lSelvvvhc18H40rsjW64NwdlrWI.jpg</photo>
+      <role>Wizard</role>
+      <name>Adam Lazarus</name>
+    </item>
+    <item index="28">
+      <photo>http://image.tmdb.org/t/p/original/jtkaxs0qYZnE8XjR3maQYiYYWo0.jpg</photo>
+      <role>Secretary</role>
+      <name>Lucie Pohl</name>
+    </item>
+    <item index="29">
+      <photo>http://image.tmdb.org/t/p/original/ihJRG3IHZwRadoMejkk8Q3Ey3SO.jpg</photo>
+      <role>Witness</role>
+      <name>Tim Bentinck</name>
+    </item>
+    <item index="30">
+      <photo>http://image.tmdb.org/t/p/original/kZsYHfxdHfdfaYAJ8dkjJ4V9kCn.jpg</photo>
+      <role>New York Chief of Police</role>
+      <name>Bart Edwards</name>
+    </item>
+    <item index="31">
+      <photo>http://image.tmdb.org/t/p/original/2QgSKdtqePVLQ6abPr28knniTy4.jpg</photo>
+      <role>The Watchman</role>
+      <name>Brian F. Mulvey</name>
+    </item>
+    <item index="32">
+      <photo>http://image.tmdb.org/t/p/original/8XDYVxAyJq81qysTzE5p0KCgSKY.jpg</photo>
+      <role>Reporter</role>
+      <name>Tristan Tait</name>
+    </item>
+    <item index="33">
+      <photo>http://image.tmdb.org/t/p/original/Ojy1RMeqVH2o5N8v0682q8YMA8.jpg</photo>
+      <role>Photographer 2</role>
+      <name>Tom Clarke Hill</name>
+    </item>
+    <item index="34">
+      <photo/>
+      <role>Bank Employee</role>
+      <name>Cory Peterson</name>
+    </item>
+    <item index="35">
+      <photo/>
+      <role>Bank Guard</role>
+      <name>Jake Samuels</name>
+    </item>
+    <item index="36">
+      <photo/>
+      <role>Young Man</role>
+      <name>Max Cazier</name>
+    </item>
+    <item index="37">
+      <photo>http://image.tmdb.org/t/p/original/5E4SUVfLMUKNCiP0dMhyOv3XHVZ.jpg</photo>
+      <role>Red</role>
+      <name>Dan Hedaya</name>
+    </item>
+    <item index="38">
+      <photo>http://image.tmdb.org/t/p/original/pv4h70F7IsyfktAMSLcZMToBFhL.jpg</photo>
+      <role>Guide - Inside Macusa</role>
+      <name>Christy Meyer</name>
+    </item>
+    <item index="39">
+      <photo/>
+      <role>Auror 2</role>
+      <name>Guy Paul</name>
+    </item>
+    <item index="40">
+      <photo>http://image.tmdb.org/t/p/original/uoKuXFqmL7uwjJro1runny5N822.jpg</photo>
+      <role>Auror 10</role>
+      <name>Walles Hamonde</name>
+    </item>
+    <item index="41">
+      <photo>http://image.tmdb.org/t/p/original/gGThkG4WNRYGObVR2avOwQG3QB.jpg</photo>
+      <role>Auror 1</role>
+      <name>Dominique Tipper</name>
+    </item>
+    <item index="42">
+      <photo>http://image.tmdb.org/t/p/original/aY8FGZlafvtIVMFV7Ri4AOA4owk.jpg</photo>
+      <role>Boy with Birthmark</role>
+      <name>Leo Heller</name>
+    </item>
+    <item index="43">
+      <photo/>
+      <role>Poor Boy</role>
+      <name>Miles Roughley</name>
+    </item>
+    <item index="44">
+      <photo>http://image.tmdb.org/t/p/original/z2XmsoQjhLN3mL9QBNS8U5diUlR.jpg</photo>
+      <role>Policeman</role>
+      <name>Erick Hayden</name>
+    </item>
+    <item index="45">
+      <photo>http://image.tmdb.org/t/p/original/iDEyo8cSZAVy9HsmZMv9mPs5tx4.jpg</photo>
+      <role>Hobo</role>
+      <name>Paul Birchard</name>
+    </item>
+    <item index="46">
+      <photo/>
+      <role>Barker</role>
+      <name>Tom Hodgkins</name>
+    </item>
+    <item index="47">
+      <photo>http://image.tmdb.org/t/p/original/uiSAmpSfjtGueB8is9eUMjGeUmT.jpg</photo>
+      <role>Mrs. Esposito</role>
+      <name>Ellie Haddington</name>
+    </item>
+    <item index="48">
+      <photo/>
+      <role>Police Officer 1</role>
+      <name>Joseph Macnab</name>
+    </item>
+    <item index="49">
+      <photo/>
+      <role>Heinrich Eberstadt</role>
+      <name>Martin Oelbermann</name>
+    </item>
+    <item index="50">
+      <photo/>
+      <role>British Envoy</role>
+      <name>Richard Clothier</name>
+    </item>
+    <item index="51">
+      <photo/>
+      <role>Momolou Wotorson</role>
+      <name>Christian Dixon</name>
+    </item>
+    <item index="52">
+      <photo/>
+      <role>Auror 4</role>
+      <name>Richard Hardisty</name>
+    </item>
+    <item index="53">
+      <photo>http://image.tmdb.org/t/p/original/1ZW6ygI7WYuvtjGGljlAgsZIzRX.jpg</photo>
+      <role>Executioner #2</role>
+      <name>Miquel Brown</name>
+    </item>
+    <item index="54">
+      <photo>http://image.tmdb.org/t/p/original/9X0GzCfkho7eslAjEdOVyTC88eV.jpg</photo>
+      <role>Beryl</role>
+      <name>Wunmi Mosaku</name>
+    </item>
+    <item index="55">
+      <photo>http://image.tmdb.org/t/p/original/8w34SSMksNJETSDmmmNxfBqi98W.jpg</photo>
+      <role>Executioner #3</role>
+      <name>Cristian Solimeno</name>
+    </item>
+    <item index="56">
+      <photo/>
+      <role>Sam the Obliviator</role>
+      <name>Matthew Wilson</name>
+    </item>
+    <item index="57">
+      <photo/>
+      <role>Singer - The Blind Pig Speakeasy</role>
+      <name>Aretha Ayeh</name>
+    </item>
+    <item index="58">
+      <photo/>
+      <role>Singer - The Blind Pig Speakeasy</role>
+      <name>Emmi</name>
+    </item>
+    <item index="59">
+      <photo/>
+      <role>Australian Wizard</role>
+      <name>Nicholas McGaughey</name>
+    </item>
+    <item index="60">
+      <photo>http://image.tmdb.org/t/p/original/3FpgMFDIq5Ms65CCzsTnXgUOUG0.jpg</photo>
+      <role>Auror 6</role>
+      <name>Arinzé Kene</name>
+    </item>
+    <item index="61">
+      <photo>http://image.tmdb.org/t/p/original/gajiGfToSOUQvfy7wy8TwZi6hW9.jpg</photo>
+      <role>Bakery Customer</role>
+      <name>Jane Perry</name>
+    </item>
+    <item index="62">
+      <photo>http://image.tmdb.org/t/p/original/wrLHb9eDExBGncdskqSbBtU6TBI.jpg</photo>
+      <role>International Royal Dignitar (uncredited)</role>
+      <name>Abi Adeyemi</name>
+    </item>
+    <item index="63">
+      <photo/>
+      <role>Auror (uncredited)</role>
+      <name>Reid Anderson</name>
+    </item>
+    <item index="64">
+      <photo/>
+      <role>Criminal (uncredited)</role>
+      <name>Aileen Archer</name>
+    </item>
+    <item index="65">
+      <photo>http://image.tmdb.org/t/p/original/bnmw4wXIo7Tb7NWN8jcMiSPTbxK.jpg</photo>
+      <role>Officer 247 (uncredited)</role>
+      <name>Lee Asquith-Coe</name>
+    </item>
+    <item index="66">
+      <photo>http://image.tmdb.org/t/p/original/oBaR9wdTZTM5bF0QHVY28p00Nrf.jpg</photo>
+      <role>Pedestrian (uncredited)</role>
+      <name>Lasco Atkins</name>
+    </item>
+    <item index="67">
+      <photo/>
+      <role>Upperclass Wizard (uncredited)</role>
+      <name>Robert-Anthony Artlett</name>
+    </item>
+    <item index="68">
+      <photo/>
+      <role>Boat Crew (uncredited)</role>
+      <name>Alphonso Austin</name>
+    </item>
+    <item index="69">
+      <photo/>
+      <role>New Yorker (uncredited)</role>
+      <name>Michael Barron</name>
+    </item>
+    <item index="70">
+      <photo/>
+      <role>Senator Shaw's Speechwriter (uncredited)</role>
+      <name>Roy Beck</name>
+    </item>
+    <item index="71">
+      <photo/>
+      <role>Journalist (uncredited)</role>
+      <name>Marc Benanti</name>
+    </item>
+    <item index="72">
+      <photo/>
+      <role>Bank Guard (uncredited)</role>
+      <name>Nathan Benham</name>
+    </item>
+    <item index="73">
+      <photo/>
+      <role>Gala Dinner Guest (uncredited)</role>
+      <name>Paul Bergquist</name>
+    </item>
+    <item index="74">
+      <photo>http://image.tmdb.org/t/p/original/8xT1eSQndTKLgWJpvqWTrgnK96A.jpg</photo>
+      <role>Italian Tenant in New York (uncredited)</role>
+      <name>Laura Bernardeschi</name>
+    </item>
+    <item index="75">
+      <photo/>
+      <role>Journalist (uncredited)</role>
+      <name>David J Biscoe</name>
+    </item>
+    <item index="76">
+      <photo/>
+      <role>Photographer (uncredited)</role>
+      <name>Lee Bolton</name>
+    </item>
+    <item index="77">
+      <photo>http://image.tmdb.org/t/p/original/mioZHOK2wXGOVc6Ue3pHnahR5Iz.jpg</photo>
+      <role>New Yorker (uncredited)</role>
+      <name>Annarie Boor</name>
+    </item>
+    <item index="78">
+      <photo>http://image.tmdb.org/t/p/original/sOcwIRJ0zgP5GIm4VD9Q7RMCGwV.jpg</photo>
+      <role>Gala Guest (uncredited)</role>
+      <name>Elizabeth Briand</name>
+    </item>
+    <item index="79">
+      <photo>http://image.tmdb.org/t/p/original/nJ1MhmKktrUG4tam8To1jtEfUAZ.jpg</photo>
+      <role>Gala Dinner Guest (uncredited)</role>
+      <name>Neil Broome</name>
+    </item>
+    <item index="80">
+      <photo/>
+      <role>New York Tenement (uncredited)</role>
+      <name>Greg Brummel</name>
+    </item>
+    <item index="81">
+      <photo/>
+      <role>Gala Guest (uncredited)</role>
+      <name>Douglas Byrne</name>
+    </item>
+    <item index="82">
+      <photo>http://image.tmdb.org/t/p/original/9KJCSQRdpy9nDSWaLHJwkChP0vb.jpg</photo>
+      <role>Mrs. Goldstein (uncredited)</role>
+      <name>Fanny Carbonnel</name>
+    </item>
+    <item index="83">
+      <photo/>
+      <role>Gentleman (uncredited)</role>
+      <name>David Charles-Cully</name>
+    </item>
+    <item index="84">
+      <photo>http://image.tmdb.org/t/p/original/yNgXZjF2hlN3B7wlN7E5yQKauJE.jpg</photo>
+      <role>Gala Dinner Guest (uncredited)</role>
+      <name>Stacey Clegg</name>
+    </item>
+    <item index="85">
+      <photo/>
+      <role>Taxi Passenger (uncredited)</role>
+      <name>Chloe Collingwood</name>
+    </item>
+    <item index="86">
+      <photo>http://image.tmdb.org/t/p/original/gmnBOEHqRc1Nk8KQmKAgWpGC9mx.jpg</photo>
+      <role>Gala Dinner Guest (uncredited)</role>
+      <name>Claire Cooper-King</name>
+    </item>
+    <item index="87">
+      <photo>http://image.tmdb.org/t/p/original/pHNpf6gxX4liyvO9sMncWj3MkE6.jpg</photo>
+      <role>Tenement Woman (uncredited)</role>
+      <name>Carmen Cowell</name>
+    </item>
+    <item index="88">
+      <photo>http://image.tmdb.org/t/p/original/tenBMDreDvBUOABEJJySncA5y8i.jpg</photo>
+      <role>New Yorker (uncredited)</role>
+      <name>Silvia Crastan</name>
+    </item>
+    <item index="89">
+      <photo>http://image.tmdb.org/t/p/original/4Dxr1CZEocPssXznLmu0NRxQ9x6.jpg</photo>
+      <role>Factory Worker (uncredited)</role>
+      <name>Tom Dab</name>
+    </item>
+    <item index="90">
+      <photo/>
+      <role>New Yorker (uncredited)</role>
+      <name>Craig Davies</name>
+    </item>
+    <item index="91">
+      <photo/>
+      <role>Factory Worker (uncredited)</role>
+      <name>Nick Davison</name>
+    </item>
+    <item index="92">
+      <photo>http://image.tmdb.org/t/p/original/pJoaLF84xjrVHIjXhRGJUcPlon7.jpg</photo>
+      <role>Tenement Woman (uncredited)</role>
+      <name>Chloe de Burgh</name>
+    </item>
+    <item index="93">
+      <photo/>
+      <role>New York Journalist (uncredited)</role>
+      <name>Paul Dewdney</name>
+    </item>
+    <item index="94">
+      <photo/>
+      <role>Ranjit (uncredited)</role>
+      <name>Rudi Dharmalingam</name>
+    </item>
+    <item index="95">
+      <photo/>
+      <role>Young Husband (uncredited)</role>
+      <name>Joshua Diffley</name>
+    </item>
+    <item index="96">
+      <photo/>
+      <role>Bank Customer (uncredited)</role>
+      <name>Nick Donald</name>
+    </item>
+    <item index="97">
+      <photo>http://image.tmdb.org/t/p/original/zKliTe7BGy4DC9UlvHKL2eQawq1.jpg</photo>
+      <role>Gentleman (uncredited)</role>
+      <name>Richard Douglas</name>
+    </item>
+    <item index="98">
+      <photo>http://image.tmdb.org/t/p/original/tDtwcFqktjWuFRExMKvoBsZiyB3.jpg</photo>
+      <role>Skender (uncredited)</role>
+      <name>Henry Douthwaite</name>
+    </item>
+    <item index="99">
+      <photo/>
+      <role>Gala Dinner Guest (uncredited)</role>
+      <name>Stephanie Eccles</name>
+    </item>
+    <item index="100">
+      <photo>http://image.tmdb.org/t/p/original/fjOF76fBGDAKMGeGkuK4HUkLgrx.jpg</photo>
+      <role>Factory Worker (uncredited)</role>
+      <name>Dino Fazzani</name>
+    </item>
+    <item index="101">
+      <photo>http://image.tmdb.org/t/p/original/gzwL8y0OT6GDkE5rNAlnXxP2u5m.jpg</photo>
+      <role>Bank Client (uncredited)</role>
+      <name>Flor Ferraco</name>
+    </item>
+    <item index="102">
+      <photo>http://image.tmdb.org/t/p/original/5f2Qd5g4qIn7iGaXezBa5TzVo8E.jpg</photo>
+      <role>New Yorker (uncredited)</role>
+      <name>Marketa Flynn</name>
+    </item>
+    <item index="103">
+      <photo>http://image.tmdb.org/t/p/original/dZvwaZ3NUg5CroV48oV6oXb7OI4.jpg</photo>
+      <role>Witch (uncredited)</role>
+      <name>Lobna Futers</name>
+    </item>
+    <item index="104">
+      <photo/>
+      <role>Gala Guest (uncredited)</role>
+      <name>Michael Gabbitas</name>
+    </item>
+    <item index="105">
+      <photo/>
+      <role>Porter (uncredited)</role>
+      <name>David Goodson</name>
+    </item>
+    <item index="106">
+      <photo>http://image.tmdb.org/t/p/original/5M3wKZAiqu8ZA1jeLHDcVdn5koH.jpg</photo>
+      <role>Jazz Girl (uncredited)</role>
+      <name>Kirsty Grace</name>
+    </item>
+    <item index="107">
+      <photo/>
+      <role>New York Street Sweeper (uncredited)</role>
+      <name>Rudy Valentino Grant</name>
+    </item>
+    <item index="108">
+      <photo>http://image.tmdb.org/t/p/original/44iN6eaLLe8wsPlrMzoR9NBZzbt.jpg</photo>
+      <role>Immigrant (uncredited)</role>
+      <name>Guna Gultniece</name>
+    </item>
+    <item index="109">
+      <photo/>
+      <role>Criminal (uncredited)</role>
+      <name>Abigayle Honeywill</name>
+    </item>
+    <item index="110">
+      <photo/>
+      <role>NYC Banker (uncredited)</role>
+      <name>Luke Hope</name>
+    </item>
+    <item index="111">
+      <photo>http://image.tmdb.org/t/p/original/gDimAObmWPSsFRyaSg40QlDMUNI.jpg</photo>
+      <role>South American Passenger on Newt's Boat (uncredited)</role>
+      <name>Kornelia Horvath</name>
+    </item>
+    <item index="112">
+      <photo>http://image.tmdb.org/t/p/original/eBpxxMpUrb8nCiGZ6bfr6NSUfld.jpg</photo>
+      <role>Young Gentleman (uncredited)</role>
+      <name>Ashley Hudson</name>
+    </item>
+    <item index="113">
+      <photo/>
+      <role>Gala Photographer (uncredited)</role>
+      <name>Alan Wyn Hughes</name>
+    </item>
+    <item index="114">
+      <photo/>
+      <role>Pedestrian (uncredited)</role>
+      <name>Alex Jaep</name>
+    </item>
+    <item index="115">
+      <photo/>
+      <role>High Society Gentleman (uncredited)</role>
+      <name>Ian Jenkins</name>
+    </item>
+    <item index="116">
+      <photo/>
+      <role>Gala Dinner Guest (uncredited)</role>
+      <name>Patrick Carney Junior</name>
+    </item>
+    <item index="117">
+      <photo>http://image.tmdb.org/t/p/original/Au0KKwogmqtnRoTrRxn3v3WuefP.jpg</photo>
+      <role>Wizard (uncredited)</role>
+      <name>Solomon Taiwo Justified</name>
+    </item>
+    <item index="118">
+      <photo>http://image.tmdb.org/t/p/original/FhYiUP9OWdN6T8j3ZlUKBfqylx.jpg</photo>
+      <role>Male Passenger on Newt's Boat (uncredited)</role>
+      <name>Lampros Kalfuntzos</name>
+    </item>
+    <item index="119">
+      <photo/>
+      <role>New York Citizen (uncredited)</role>
+      <name>Attila G. Kerekes</name>
+    </item>
+    <item index="120">
+      <photo/>
+      <role>High Society Gentleman / Gala Guest (uncredited)</role>
+      <name>Simon Kerrison</name>
+    </item>
+    <item index="121">
+      <photo>http://image.tmdb.org/t/p/original/rbvHeDJ4fYUoJd43ajxQ38h2ZB3.jpg</photo>
+      <role>Banker Smirnoff (uncredited)</role>
+      <name>Denis Khoroshko</name>
+    </item>
+    <item index="122">
+      <photo/>
+      <role>Customs Officer (uncredited)</role>
+      <name>Cole Leman</name>
+    </item>
+    <item index="123">
+      <photo/>
+      <role>Gala Guest (uncredited)</role>
+      <name>Adam Lezemore</name>
+    </item>
+    <item index="124">
+      <photo/>
+      <role>New York Socialite (uncredited)</role>
+      <name>Keith Lomas</name>
+    </item>
+    <item index="125">
+      <photo/>
+      <role>Pentagram Nobleman (uncredited)</role>
+      <name>Paul Low-Hang</name>
+    </item>
+    <item index="126">
+      <photo/>
+      <role>Higher Class Gentleman (uncredited)</role>
+      <name>Khristopher MacLeod</name>
+    </item>
+    <item index="127">
+      <photo/>
+      <role>Young Wizard (uncredited)</role>
+      <name>Joe Malone</name>
+    </item>
+    <item index="128">
+      <photo/>
+      <role>Mr. Goldstein (uncredited)</role>
+      <name>Alan Mandel</name>
+    </item>
+    <item index="129">
+      <photo/>
+      <role>New York Banker (uncredited)</role>
+      <name>Christopher Marsh</name>
+    </item>
+    <item index="130">
+      <photo>http://image.tmdb.org/t/p/original/nWYveATaySCXosWAjcSS8VNPRe7.jpg</photo>
+      <role>Spaniard Ship Passenger (uncredited)</role>
+      <name>Jorge Leon Martinez</name>
+    </item>
+    <item index="131">
+      <photo>http://image.tmdb.org/t/p/original/b2OZAMFXjD2iRuUiQvJmokFhHtF.jpg</photo>
+      <role>Exterminator (uncredited)</role>
+      <name>Christine Marzano</name>
+    </item>
+    <item index="132">
+      <photo>http://image.tmdb.org/t/p/original/tOlzoGkOe5sqObLmjsnISzZy4zU.jpg</photo>
+      <role>Factory Worker (uncredited)</role>
+      <name>Pete Meads</name>
+    </item>
+    <item index="133">
+      <photo/>
+      <role>Bank Customer (uncredited)</role>
+      <name>Andy Mihalache</name>
+    </item>
+    <item index="134">
+      <photo/>
+      <role>Journalist (uncredited)</role>
+      <name>Arnold Montey</name>
+    </item>
+    <item index="135">
+      <photo>http://image.tmdb.org/t/p/original/b7nuAf9fhZyp6oF09NrGA87vkg4.jpg</photo>
+      <role>Newsroom Reporter (uncredited)</role>
+      <name>James M.L. Muller</name>
+    </item>
+    <item index="136">
+      <photo/>
+      <role>Journalist (uncredited)</role>
+      <name>Paul A Munday</name>
+    </item>
+    <item index="137">
+      <photo/>
+      <role>Blind Pig Criminal (uncredited)</role>
+      <name>John Murray</name>
+    </item>
+    <item index="138">
+      <photo/>
+      <role>Circus Escapologist (uncredited)</role>
+      <name>Dennis O'Donnell</name>
+    </item>
+    <item index="139">
+      <photo/>
+      <role>Gala Dinner Guest (uncredited)</role>
+      <name>Yves O'Hara</name>
+    </item>
+    <item index="140">
+      <photo/>
+      <role>New York Factory Worker (uncredited)</role>
+      <name>Andrew G. Ogleby</name>
+    </item>
+    <item index="141">
+      <photo>http://image.tmdb.org/t/p/original/bKnXm07luu8f6soOM5XyGfcpY3G.jpg</photo>
+      <role>Creature Performer (uncredited)</role>
+      <name>Edd Osmond</name>
+    </item>
+    <item index="142">
+      <photo/>
+      <role>New York Gentleman (uncredited)</role>
+      <name>Nick Owenford</name>
+    </item>
+    <item index="143">
+      <photo/>
+      <role>Gangster at Bar (uncredited)</role>
+      <name>Andrew Parker</name>
+    </item>
+    <item index="144">
+      <photo>http://image.tmdb.org/t/p/original/kRQtw7B08M52s990mFOqkRoYGcE.jpg</photo>
+      <role>Gangster (uncredited)</role>
+      <name>Gino Picciano</name>
+    </item>
+    <item index="145">
+      <photo>http://image.tmdb.org/t/p/original/iiITgdpWPmybUfhWd1ktjxDFW1c.jpg</photo>
+      <role>Gala Guest (uncredited)</role>
+      <name>Richard Price</name>
+    </item>
+    <item index="146">
+      <photo>http://image.tmdb.org/t/p/original/h3Cru0AG0PFU8u5ts2dQsprmmD0.jpg</photo>
+      <role>Aunt of the Bride (uncredited)</role>
+      <name>Olivia Quinn</name>
+    </item>
+    <item index="147">
+      <photo/>
+      <role>Gala Guest (uncredited)</role>
+      <name>Paul Redfern</name>
+    </item>
+    <item index="148">
+      <photo>http://image.tmdb.org/t/p/original/hGkK96PIcNGpfwzXzNg5GuPCX1V.jpg</photo>
+      <role>Higher Class Gentleman (uncredited)</role>
+      <name>Jason Redshaw</name>
+    </item>
+    <item index="149">
+      <photo>http://image.tmdb.org/t/p/original/nRUNvLCfe43Rs1OEd4GoztuxxED.jpg</photo>
+      <role>Gala Guest (uncredited)</role>
+      <name>Anthony J. Sacco</name>
+    </item>
+    <item index="150">
+      <photo>http://image.tmdb.org/t/p/original/1rqDt8XAkSCS7NHBcYvwOdGVK0L.jpg</photo>
+      <role>Smart New Yorker (uncredited)</role>
+      <name>Bernardo Santos</name>
+    </item>
+    <item index="151">
+      <photo>http://image.tmdb.org/t/p/original/eD5eMzwCaAJEyv5yf7NwdVBQitQ.jpg</photo>
+      <role>Wizard (uncredited)</role>
+      <name>Andrei Satalov</name>
+    </item>
+    <item index="152">
+      <photo>http://image.tmdb.org/t/p/original/pyDp7rqOyDUul5As9qYjx9a1Bot.jpg</photo>
+      <role>New York Socialite (uncredited)</role>
+      <name>Dave Simon</name>
+    </item>
+    <item index="153">
+      <photo/>
+      <role>Gala Dinner Guest (uncredited)</role>
+      <name>David Soffe</name>
+    </item>
+    <item index="154">
+      <photo/>
+      <role>Waiter (uncredited)</role>
+      <name>Ryan Storey</name>
+    </item>
+    <item index="155">
+      <photo/>
+      <role>Gala Guest (uncredited)</role>
+      <name>Connor Sullivan</name>
+    </item>
+    <item index="156">
+      <photo/>
+      <role>New York Citizen (uncredited)</role>
+      <name>Camilla Talarowska</name>
+    </item>
+    <item index="157">
+      <photo/>
+      <role>Gala Doorman and Waiter (uncredited)</role>
+      <name>Mitchell Thornton</name>
+    </item>
+    <item index="158">
+      <photo/>
+      <role>Street Vendor (uncredited)</role>
+      <name>Dan Trotter</name>
+    </item>
+    <item index="159">
+      <photo>http://image.tmdb.org/t/p/original/r2h7p2mZbhfSKjQsbedcGa899Ot.jpg</photo>
+      <role>Boat Passenger (uncredited)</role>
+      <name>Vassiliki Tzanakou</name>
+    </item>
+    <item index="160">
+      <photo>http://image.tmdb.org/t/p/original/2MXyP2sA1fUQ51Gad0R1vsYrVUz.jpg</photo>
+      <role>Auror (uncredited)</role>
+      <name>Geeta Vij</name>
+    </item>
+    <item index="161">
+      <photo/>
+      <role>Watchman (uncredited)</role>
+      <name>Morgan Walters</name>
+    </item>
+    <item index="162">
+      <photo/>
+      <role>Featured Bank Guard (uncredited)</role>
+      <name>Dean Weir</name>
+    </item>
+    <item index="163">
+      <photo>http://image.tmdb.org/t/p/original/r4vknP06DNZIEZQpqOZ1UsPZujY.jpg</photo>
+      <role>Criminal on 'Wanted' Poster (uncredited)</role>
+      <name>Anick Wiget</name>
+    </item>
+    <item index="164">
+      <photo>http://image.tmdb.org/t/p/original/kZyZlbiFGoatmZSpeiYjm4hLhlu.jpg</photo>
+      <role>Bank Guard (uncredited)</role>
+      <name>Miroslav Zaruba</name>
+    </item>
+  </roles>
+  <similar>
+    <item index="0">Doctor Strange</item>
+    <item index="1">Miss Peregrine's Home for Peculiar Children</item>
+    <item index="2">Rogue One: A Star Wars Story</item>
+    <item index="3">Harry Potter and the Half-Blood Prince</item>
+    <item index="4">Harry Potter and the Deathly Hallows: Part 2</item>
+    <item index="5">Zootopia</item>
+    <item index="6">Harry Potter and the Order of the Phoenix</item>
+    <item index="7">Harry Potter and the Deathly Hallows: Part 1</item>
+    <item index="8">X-Men: Apocalypse</item>
+    <item index="9">Harry Potter and the Chamber of Secrets</item>
+    <item index="10">Harry Potter and the Goblet of Fire</item>
+    <item index="11">Alice Through the Looking Glass</item>
+    <item index="12">Now You See Me 2</item>
+    <item index="13">Suicide Squad</item>
+    <item index="14">Harry Potter and the Prisoner of Azkaban</item>
+    <item index="15">The Hunger Games: Mockingjay - Part 2</item>
+    <item index="16">Passengers</item>
+    <item index="17">Finding Dory</item>
+    <item index="18">Harry Potter and the Philosopher's Stone</item>
+    <item index="19">The Jungle Book</item>
+  </similar>
+  <studio>Warner Bros. Pictures</studio>
+  <summary>In 1926, Newt Scamander arrives at the Magical Congress of the United States of America with a magically expanded briefcase, which houses a number of dangerous creatures and their habitats. When the creatures escape from the briefcase, it sends the American wizarding authorities after Newt, and threatens to strain even further the state of magical and non-magical relations.</summary>
+  <tagline>From J.K. Rowling's wizarding world.</tagline>
+  <tags/>
+  <themes/>
+  <title>Fantastic Beasts and Where to Find Them</title>
+  <writers>
+    <item index="0">
+      <photo>http://image.tmdb.org/t/p/original/gZXoZrYxcn4d3XDcVcRE39RFZmL.jpg</photo>
+      <role/>
+      <name>J.K. Rowling</name>
+    </item>
+  </writers>
+  <year>2016</year>
+</Movie>

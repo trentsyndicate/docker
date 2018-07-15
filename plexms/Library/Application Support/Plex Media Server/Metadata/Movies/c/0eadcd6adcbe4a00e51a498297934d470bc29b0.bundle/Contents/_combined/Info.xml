@@ -1,0 +1,622 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Movie>
+  <art>
+    <item external="True" url="http://image.tmdb.org/t/p/original/4XbLCMvAhKzD4Wmb6Bzz8bER9RI.jpg" sort_order="1" provider="com.plexapp.agents.imdb" media="com.plexapp.agents.imdb_e1409c235d1d77db4f5ca0b7c89973211c2329d5"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/a1MlbLBk5Sy6YvMbSuKfwGlDVlb.jpg" preview="com.plexapp.agents.imdb_cb90757c44afeaa1724981a940af027a4dad6c35" sort_order="2" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/yOJsQM5CGHegmsgDmWiLr2FbLJa.jpg" preview="com.plexapp.agents.imdb_ffa061fffedff94d393b398356daea144a6755c3" sort_order="3" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/6pwDuJXUD5DDDkNzomcVTYSzV97.jpg" preview="com.plexapp.agents.imdb_ace6b771cb61911462af7f5c4125ed79f378bb8e" sort_order="4" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/fXZIwmAJBGwcSiRz02yuq2FWYhG.jpg" preview="com.plexapp.agents.imdb_a4f9e2d34a1e430030dbac640fcbe0f8e18ef595" sort_order="5" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/7ypWkWcMxYJsaGeJ79ebfzS5dsi.jpg" preview="com.plexapp.agents.imdb_ae6c9792d2d95ccd4cebce8af74bb4ae0d9ef9f0" sort_order="6" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/9Xeimr83FZJFe5DcJ0Isa2MLw5E.jpg" preview="com.plexapp.agents.imdb_b3f69a2d25f8995b00ab6ca930455a3b3bb026d5" sort_order="7" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/hoSepfRFeiMMYNf7rNyL6zBhGPm.jpg" preview="com.plexapp.agents.imdb_8eb29cde0afb4b4df9471c42700637c6ea784382" sort_order="8" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/99w6aTUNJc0LQsE189dD4lfA0dN.jpg" preview="com.plexapp.agents.imdb_8f411053afb7f75a019663e11ba6444e43fecfe6" sort_order="9" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/wBbwaCvqOQIbTQeEyyVpWLTliIz.jpg" preview="com.plexapp.agents.imdb_dccb22a4d4e737b99ce0344a1027d3fd5168144e" sort_order="10" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/bKr8bAMQkcWtwKv9RS4ARAYwPJQ.jpg" preview="com.plexapp.agents.imdb_eb51420deca77604362537c0b7b96c5a7ae8ced1" sort_order="11" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/7aKMU3J9rF5rEKHldymaA02ciqo.jpg" preview="com.plexapp.agents.imdb_e1e3b87fe2978032da682ab81d84084f447b31f0" sort_order="12" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/mpYHevei5UFiH4pqQl3TSsXpMWw.jpg" preview="com.plexapp.agents.imdb_0ea0b4f6c3aa2a351f71e6071ed7505add5dd0a1" sort_order="13" provider="com.plexapp.agents.imdb"/>
+  </art>
+  <banners/>
+  <chapters>
+    <item index="0">
+      <title>Dinoco 400</title>
+      <end_time_offset>567000</end_time_offset>
+      <start_time_offset>0</start_time_offset>
+    </item>
+    <item index="1">
+      <title>Victory Lane</title>
+      <end_time_offset>818000</end_time_offset>
+      <start_time_offset>567000</start_time_offset>
+    </item>
+    <item index="2">
+      <title>Rust-Eze</title>
+      <end_time_offset>969000</end_time_offset>
+      <start_time_offset>818000</start_time_offset>
+    </item>
+    <item index="3">
+      <title>"Life Is a Highway"</title>
+      <end_time_offset>1182000</end_time_offset>
+      <start_time_offset>969000</start_time_offset>
+    </item>
+    <item index="4">
+      <title>Lost</title>
+      <end_time_offset>1463000</end_time_offset>
+      <start_time_offset>1182000</start_time_offset>
+    </item>
+    <item index="5">
+      <title>Into Town</title>
+      <end_time_offset>1636000</end_time_offset>
+      <start_time_offset>1463000</start_time_offset>
+    </item>
+    <item index="6">
+      <title>Where's Mcqueen?</title>
+      <end_time_offset>1682000</end_time_offset>
+      <start_time_offset>1636000</start_time_offset>
+    </item>
+    <item index="7">
+      <title>The Impound</title>
+      <end_time_offset>1771000</end_time_offset>
+      <start_time_offset>1682000</start_time_offset>
+    </item>
+    <item index="8">
+      <title>Traffic Court</title>
+      <end_time_offset>2027000</end_time_offset>
+      <start_time_offset>1771000</start_time_offset>
+    </item>
+    <item index="9">
+      <title>Bessie</title>
+      <end_time_offset>2143000</end_time_offset>
+      <start_time_offset>2027000</start_time_offset>
+    </item>
+    <item index="10">
+      <title>Customers!</title>
+      <end_time_offset>2500000</end_time_offset>
+      <start_time_offset>2143000</start_time_offset>
+    </item>
+    <item index="11">
+      <title>Doc's Challenge</title>
+      <end_time_offset>2745000</end_time_offset>
+      <start_time_offset>2500000</start_time_offset>
+    </item>
+    <item index="12">
+      <title>A New Road</title>
+      <end_time_offset>2910000</end_time_offset>
+      <start_time_offset>2745000</start_time_offset>
+    </item>
+    <item index="13">
+      <title>Turn Right to Go Left</title>
+      <end_time_offset>3028000</end_time_offset>
+      <start_time_offset>2910000</start_time_offset>
+    </item>
+    <item index="14">
+      <title>Back to Work</title>
+      <end_time_offset>3270000</end_time_offset>
+      <start_time_offset>3028000</start_time_offset>
+    </item>
+    <item index="15">
+      <title>Tractor Tipping</title>
+      <end_time_offset>3457000</end_time_offset>
+      <start_time_offset>3270000</start_time_offset>
+    </item>
+    <item index="16">
+      <title>Backwards Driving</title>
+      <end_time_offset>3679000</end_time_offset>
+      <start_time_offset>3457000</start_time_offset>
+    </item>
+    <item index="17">
+      <title>Goodnight</title>
+      <end_time_offset>3768000</end_time_offset>
+      <start_time_offset>3679000</start_time_offset>
+    </item>
+    <item index="18">
+      <title>Doc's Piston Cups</title>
+      <end_time_offset>3932000</end_time_offset>
+      <start_time_offset>3768000</start_time_offset>
+    </item>
+    <item index="19">
+      <title>Breakfast at Flo's</title>
+      <end_time_offset>4052000</end_time_offset>
+      <start_time_offset>3932000</start_time_offset>
+    </item>
+    <item index="20">
+      <title>Drive with Sally</title>
+      <end_time_offset>4179000</end_time_offset>
+      <start_time_offset>4052000</start_time_offset>
+    </item>
+    <item index="21">
+      <title>Wheel Well</title>
+      <end_time_offset>4277000</end_time_offset>
+      <start_time_offset>4179000</start_time_offset>
+    </item>
+    <item index="22">
+      <title>"Our Town"</title>
+      <end_time_offset>4491000</end_time_offset>
+      <start_time_offset>4277000</start_time_offset>
+    </item>
+    <item index="23">
+      <title>Stampede</title>
+      <end_time_offset>4547000</end_time_offset>
+      <start_time_offset>4491000</start_time_offset>
+    </item>
+    <item index="24">
+      <title>Doc Races</title>
+      <end_time_offset>4803000</end_time_offset>
+      <start_time_offset>4547000</start_time_offset>
+    </item>
+    <item index="25">
+      <title>He's Gone</title>
+      <end_time_offset>4931000</end_time_offset>
+      <start_time_offset>4803000</start_time_offset>
+    </item>
+    <item index="26">
+      <title>A New Customer</title>
+      <end_time_offset>5088000</end_time_offset>
+      <start_time_offset>4931000</start_time_offset>
+    </item>
+    <item index="27">
+      <title>Cruisin'</title>
+      <end_time_offset>5241000</end_time_offset>
+      <start_time_offset>5088000</start_time_offset>
+    </item>
+    <item index="28">
+      <title>Mcqueen Is Found</title>
+      <end_time_offset>5546000</end_time_offset>
+      <start_time_offset>5241000</start_time_offset>
+    </item>
+    <item index="29">
+      <title>California Race</title>
+      <end_time_offset>6367000</end_time_offset>
+      <start_time_offset>5546000</start_time_offset>
+    </item>
+    <item index="30">
+      <title>Back on the Map</title>
+      <end_time_offset>6501000</end_time_offset>
+      <start_time_offset>6367000</start_time_offset>
+    </item>
+    <item index="31">
+      <title>Epilogue</title>
+      <end_time_offset>-1</end_time_offset>
+      <start_time_offset>6501000</start_time_offset>
+    </item>
+  </chapters>
+  <collections/>
+  <content_rating>G</content_rating>
+  <countries>
+    <item index="0">USA</item>
+  </countries>
+  <directors>
+    <item index="0">
+      <photo>http://image.tmdb.org/t/p/original/7EdqiNbr4FRjIhKHyPPdFfEEEFG.jpg</photo>
+      <role/>
+      <name>John Lasseter</name>
+    </item>
+  </directors>
+  <duration>7020000</duration>
+  <genres>
+    <item index="0">Animation</item>
+    <item index="1">Comedy</item>
+    <item index="2">Family</item>
+    <item index="3">Sport</item>
+  </genres>
+  <originally_available_at>2006-06-08</originally_available_at>
+  <posters>
+    <item external="True" url="http://image.tmdb.org/t/p/original/5damnMcRFKSjhCirgX3CMa88MBj.jpg" sort_order="1" provider="com.plexapp.agents.imdb" media="com.plexapp.agents.imdb_af14d9b224053dd9560a699f67840daa673ba328"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/jpfkzbIXgKZqCZAkEkFH2VYF63s.jpg" preview="com.plexapp.agents.imdb_c49419084202a50ab86f3326adfe4488372f41e5" sort_order="2" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/xi7KxnMSQzlqyCyCrXFJUJFdtxm.jpg" preview="com.plexapp.agents.imdb_154bf4e483f14508cc372bd603bd4ee764d1dfde" sort_order="3" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/4o2WJfWicCyq6VoFt86oTc4bmNb.jpg" preview="com.plexapp.agents.imdb_55011337c304889812f825c5bdc1c9e0ae7f4cbe" sort_order="4" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/abW5AzHDaIK1n9C36VdAeOwORRA.jpg" preview="com.plexapp.agents.imdb_028495dceb7bab2f92485cd8f0b65022e96f8870" sort_order="5" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/jmd5W6B9enlX3k1XzE1p78RjbId.jpg" preview="com.plexapp.agents.imdb_ecd2a939adc06ecdff9bb7d0e9b60ae4a6520729" sort_order="6" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/eN0OtsqjwA88c9lECa9RldJeW3w.jpg" preview="com.plexapp.agents.imdb_9c6d3635a95d27d81804c5a54bf02fa6101e3f6f" sort_order="7" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/kPHzA20OwjwTr7JN1CPARjkmw3x.jpg" preview="com.plexapp.agents.imdb_36e1ef0ead8c6a1445ab164c1cb11212e9e93670" sort_order="8" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/2udWqlcn56M3mlUySBeSaJ598pD.jpg" preview="com.plexapp.agents.imdb_66c45cf971791f6a50c2c301b3f209106d917ef5" sort_order="9" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/x1ZC1XBpNE853VVZOU0tcyJxH4l.jpg" preview="com.plexapp.agents.imdb_396a467548f9a06d82c1042b27be14b5007443c5" sort_order="10" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/w34rn50bcPIECXOeJ30NJ7BqONx.jpg" preview="com.plexapp.agents.imdb_ea3b5bd87554625312e3094ec2a1c1fcb40333c5" sort_order="11" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/dWg33ektXuHmxjSjEulwDPTWbC2.jpg" preview="com.plexapp.agents.imdb_35319e580fcceff56174d95df247f386715468cd" sort_order="12" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/a5MVlAlMPFgqXXexB38oo8OSDYi.jpg" preview="com.plexapp.agents.imdb_8e0a5395ddca777fe98aa50f8a8d64f20f3796e6" sort_order="13" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/9F9c9EhgInQah65kkYCF9WiMTxa.jpg" preview="com.plexapp.agents.imdb_511c1e908a77900bed6d11ed0ddabfa8067c7159" sort_order="14" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/fEDSso3cgC23X9hFQvRRPjzT5CC.jpg" preview="com.plexapp.agents.imdb_cbdf1cb5de8c7c03ad9ce7bee0b8cc8e2513f4c6" sort_order="15" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/8dOd9Na7uv55xo6D55Ag6v1YB46.jpg" preview="com.plexapp.agents.imdb_7bc93e4bc26b0b0c5b49963b006b3b7339b05cfe" sort_order="16" provider="com.plexapp.agents.imdb"/>
+  </posters>
+  <producers>
+    <item index="0">
+      <photo/>
+      <role/>
+      <name>Darla K. Anderson</name>
+    </item>
+  </producers>
+  <rating>7.4</rating>
+  <rating_image>rottentomatoes://image.rating.ripe</rating_image>
+  <audience_rating>7.9</audience_rating>
+  <audience_rating_image>rottentomatoes://image.rating.upright</audience_rating_image>
+  <reviews>
+    <item index="0">
+      <text>Cars might get us into car world as a gimmick, but it doesn't get us into car world as a state of mind. Thus, the animation, rather than seeming like an expression of the movie's deeper truth, becomes an impediment to it.</text>
+      <source>San Francisco Chronicle</source>
+      <image>rottentomatoes://image.review.rotten</image>
+      <link>http://www.sfgate.com/cgi-bin/article.cgi?f=/c/a/2006/06/09/DDGEAJ9FD91.DTL&amp;type=movies</link>
+      <author>Mick LaSalle</author>
+    </item>
+    <item index="1">
+      <text>Though the central idea of nostalgia for a quieter, small-town life may well be lost on this movie's young audience -- Cars finds a pleasant and often sparkling groove.</text>
+      <source>Seattle Times</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>http://community.seattletimes.nwsource.com/archive/?slug=cars09&amp;date=20060609</link>
+      <author>Moira MacDonald</author>
+    </item>
+    <item index="2">
+      <text>Cars made me want to hop in my jalopy and to head out to Route 66, bypassing the boring interstate highways that made the Mother Road redundant.</text>
+      <source>Toronto Star</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>http://WWW.TheStar.COM/NASApp/cs/ContentServer?pagename=thestar/Layout/Article_Type1&amp;c=Article&amp;cid=1149847307769&amp;call_pageid=1022183557980&amp;col=1022183560753</link>
+      <author>Peter Howell</author>
+    </item>
+    <item index="3">
+      <text>It's impossible to find more joy in the dark at the moment.</text>
+      <source>Slate</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>http://www.slate.com/id/2143311/</link>
+      <author>Michael Agger</author>
+    </item>
+    <item index="4">
+      <text>It thunders ahead with breezy abandon, scoring big grins on its way.</text>
+      <source>Houston Chronicle</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>http://www.chron.com/disp/story.mpl/ent/movies/reviews/3882625.html</link>
+      <author>Amy Biancolli</author>
+    </item>
+    <item index="5">
+      <text>For parents out there whose future holds the certain prospect of the DVD version blaring repeatedly from family-room screens, let this by your advisory. Warning: Cars comes unequipped with two essential options -- charm and a good muffler.</text>
+      <source>Globe and Mail</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>http://www.globeandmail.com/servlet/story/MOVIEREVIEWS.20060609.CARS09/MovieStory/Entertainment/Movies</link>
+      <author>Rick Groen</author>
+    </item>
+    <item index="6">
+      <text>It's touching, it's funny, it offers cautions about the modern pace of life, and it depends on a sense of rural Americana for its soul.</text>
+      <source>Detroit News</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>http://www.detnews.com/apps/pbcs.dll/article?AID=/20060609/ENT02/606090415/1034</link>
+      <author>Tom Long</author>
+    </item>
+    <item index="7">
+      <text>No other outfit can match Pixar's knack for plucking heartstrings without tearing them off the frets.</text>
+      <source>Dallas Morning News</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>http://www.guidelive.com/pls/portal/url/page/LSDallasPageGroup/MovieDetail?item_id=45569</link>
+      <author>Chris Vognar</author>
+    </item>
+    <item index="8">
+      <text>The short answer is: Pixar does it again.</text>
+      <source>Boston Globe</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>http://www.boston.com/ae/movies/articles/2006/06/09/revved_up</link>
+      <author>Ty Burr</author>
+    </item>
+    <item index="9">
+      <text>At 116 minutes, it's a test not of speed but endurance.</text>
+      <source>Chicago Reader</source>
+      <image>rottentomatoes://image.review.rotten</image>
+      <link>http://onfilm.chicagoreader.com/movies/briefs/29910_CARS.html</link>
+      <author>J. R. Jones</author>
+    </item>
+    <item index="10">
+      <text>It tells a bright and cheery story, and then has a little something profound lurking around the edges. In this case, it's a sense of loss.</text>
+      <source>Chicago Sun-Times</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>http://www.rogerebert.com/reviews/cars-2006</link>
+      <author>Roger Ebert</author>
+    </item>
+  </reviews>
+  <roles>
+    <item index="0">
+      <photo>http://image.tmdb.org/t/p/original/j7oYgvfDiO34VcFdSB7GhM2CSle.jpg</photo>
+      <role>Lightning McQueen (voice)</role>
+      <name>Owen Wilson</name>
+    </item>
+    <item index="1">
+      <photo>http://image.tmdb.org/t/p/original/my0Blo9IBy1WZ0QKbuxUzS0QwV5.jpg</photo>
+      <role>Doc Hudson (voice)</role>
+      <name>Paul Newman</name>
+    </item>
+    <item index="2">
+      <photo>http://image.tmdb.org/t/p/original/uKAfrFRZYnHFAxw53Jldbs8yIZO.jpg</photo>
+      <role>Sally Carrera (voice)</role>
+      <name>Bonnie Hunt</name>
+    </item>
+    <item index="3">
+      <photo>http://image.tmdb.org/t/p/original/9yGwJBveIvLidqJEQI4PRuKQhMr.jpg</photo>
+      <role>Mater (voice)</role>
+      <name>Larry the Cable Guy</name>
+    </item>
+    <item index="4">
+      <photo>http://image.tmdb.org/t/p/original/jXzlVxS8u64XEZUoNPiuhGcQXDW.jpg</photo>
+      <role>Luigi (voice)</role>
+      <name>Tony Shalhoub</name>
+    </item>
+    <item index="5">
+      <photo>http://image.tmdb.org/t/p/original/efuXbXg7JpORy5hPDU7Zityq3k3.jpg</photo>
+      <role>Ramone (voice)</role>
+      <name>Cheech Marin</name>
+    </item>
+    <item index="6">
+      <photo>http://image.tmdb.org/t/p/original/4LuttJxXdNZgSDPeY0IOaczfajj.jpg</photo>
+      <role>Sheriff (voice)</role>
+      <name>Michael Wallis</name>
+    </item>
+    <item index="7">
+      <photo>http://image.tmdb.org/t/p/original/xmSn6p5QVn66UK2ueEJisrUR5Bg.jpg</photo>
+      <role>Fillmore (voice)</role>
+      <name>George Carlin</name>
+    </item>
+    <item index="8">
+      <photo>http://image.tmdb.org/t/p/original/rnzvqo7oR2IwSfN2Ayh3ysc4WNt.jpg</photo>
+      <role>Sarge (voice)</role>
+      <name>Paul Dooley</name>
+    </item>
+    <item index="9">
+      <photo>http://image.tmdb.org/t/p/original/yMClokTiKKwa3KWSfxT1wsy9YZ.jpg</photo>
+      <role>Flo (voice)</role>
+      <name>Jenifer Lewis</name>
+    </item>
+    <item index="10">
+      <photo>http://image.tmdb.org/t/p/original/qfnm3XzrMljLhU3HoNfYk0YGoBw.jpg</photo>
+      <role>Guido (voice)</role>
+      <name>Guido Quaroni</name>
+    </item>
+    <item index="11">
+      <photo>http://image.tmdb.org/t/p/original/xPjbuyCfkBKSXK0W9y8TiMJoIOJ.jpg</photo>
+      <role>The King (voice)</role>
+      <name>Richard Petty</name>
+    </item>
+    <item index="12">
+      <photo>http://image.tmdb.org/t/p/original/myVdrYNGTgqunLfUSaM8DuVD7DL.jpg</photo>
+      <role>Chick Hicks (voice)</role>
+      <name>Michael Keaton</name>
+    </item>
+    <item index="13">
+      <photo>http://image.tmdb.org/t/p/original/m7o1IEKIabcTWz5Qr4yUEoCNHDE.jpg</photo>
+      <role>Lizzie (voice)</role>
+      <name>Katherine Helmond</name>
+    </item>
+    <item index="14">
+      <photo>http://image.tmdb.org/t/p/original/yGechiKWL6TJDfVE2KPSJYqdMsY.jpg</photo>
+      <role>Mack /Hamm Car/Abominable Snow Plow/P.T. Flea Car (voice)</role>
+      <name>John Ratzenberger</name>
+    </item>
+    <item index="15">
+      <photo>http://image.tmdb.org/t/p/original/f1BoWC2JbCcfP1e5hKfGsxkHzVU.jpg</photo>
+      <role>Red (voice)</role>
+      <name>Joe Ranft</name>
+    </item>
+    <item index="16">
+      <photo>http://image.tmdb.org/t/p/original/qtho4ZUcValnVvscTGgyWfUr4VP.jpg</photo>
+      <role>Harv (voice)</role>
+      <name>Jeremy Piven</name>
+    </item>
+    <item index="17">
+      <photo>http://image.tmdb.org/t/p/original/bwiGlvV08wPTEifSLwOjkA6Z0iD.jpg</photo>
+      <role>British Harv</role>
+      <name>Jeremy Clarkson</name>
+    </item>
+    <item index="18">
+      <photo>http://image.tmdb.org/t/p/original/axGPXTL5VvtQ2G7A7XlBIKlSPio.jpg</photo>
+      <role>Junior (voice)</role>
+      <name>Dale Earnhardt Jr.</name>
+    </item>
+    <item index="19">
+      <photo>http://image.tmdb.org/t/p/original/kOXfjRM2e4DPaWUvMu2F8jz3JWU.jpg</photo>
+      <role>Himself</role>
+      <name>Mario Andretti</name>
+    </item>
+    <item index="20">
+      <photo>http://image.tmdb.org/t/p/original/soIayrvI5LVk7XTn644rAYGeiCd.jpg</photo>
+      <role>Michael Schumacher Ferrari (voice)</role>
+      <name>Michael Schumacher</name>
+    </item>
+    <item index="21">
+      <photo>http://image.tmdb.org/t/p/original/pmCpEGNkZnGxoKRVSMLHQnCtqAg.jpg</photo>
+      <role>Jay Limo (voice)</role>
+      <name>Jay Leno</name>
+    </item>
+    <item index="22">
+      <photo>http://image.tmdb.org/t/p/original/zLDjweF7EvnPGbgnYHrNBlVlNhg.jpg</photo>
+      <role>Woody Car (voice)</role>
+      <name>Tom Hanks</name>
+    </item>
+    <item index="23">
+      <photo>http://image.tmdb.org/t/p/original/uX2xVf6pMmPepxnvFWyBtjexzgY.jpg</photo>
+      <role>Buzz Lightyear Car (voice)</role>
+      <name>Tim Allen</name>
+    </item>
+    <item index="24">
+      <photo>http://image.tmdb.org/t/p/original/22PBSROMN6GmD7uxHpTNb0Unftt.jpg</photo>
+      <role>Mike Car (voice)</role>
+      <name>Billy Crystal</name>
+    </item>
+    <item index="25">
+      <photo>http://image.tmdb.org/t/p/original/eOIx8zj1vYIRhVY2bK5cjIQfua0.jpg</photo>
+      <role>Sullivan Truck (voice)</role>
+      <name>John Goodman</name>
+    </item>
+    <item index="26">
+      <photo>http://image.tmdb.org/t/p/original/3M9Yj0vScFcDbpopseBWJm6FdzF.jpg</photo>
+      <role>Flik Car (voice)</role>
+      <name>Dave Foley</name>
+    </item>
+    <item index="27">
+      <photo>http://image.tmdb.org/t/p/original/fJ6N8FzKQ0bd57rNJSJCSvrRFO8.jpg</photo>
+      <role>Bob Cutlass (voice)</role>
+      <name>Bob Costas</name>
+    </item>
+    <item index="28">
+      <photo>http://image.tmdb.org/t/p/original/3iMeZsKQ9FH31tmdsEb36GfrQZP.jpg</photo>
+      <role>Darrell Cartrip (voice)</role>
+      <name>Darrell Waltrip</name>
+    </item>
+    <item index="29">
+      <photo>http://image.tmdb.org/t/p/original/xpLufPiiFgoCEdIMqD4RY79PKGb.jpg</photo>
+      <role>Van (voice)</role>
+      <name>Richard Kind</name>
+    </item>
+    <item index="30">
+      <photo>http://image.tmdb.org/t/p/original/l8iHE1qnlCUlOs1Oq0LzGWO8T1D.jpg</photo>
+      <role>Minny (voice)</role>
+      <name>Edie McClurg</name>
+    </item>
+    <item index="31">
+      <photo/>
+      <role>Tex (voice)</role>
+      <name>Humpy Wheeler</name>
+    </item>
+    <item index="32">
+      <photo>http://image.tmdb.org/t/p/original/xRi01zAHlwvZp80EGhQoU5QPDak.jpg</photo>
+      <role>Rusty Rust-eze (voice)</role>
+      <name>Tom Magliozzi</name>
+    </item>
+    <item index="33">
+      <photo>http://image.tmdb.org/t/p/original/kuFaKYABpQV02njwawLuHWsCTQd.jpg</photo>
+      <role>Dusty Rust-eze (voice)</role>
+      <name>Ray Magliozzi</name>
+    </item>
+    <item index="34">
+      <photo/>
+      <role>Mrs. The King (voice)</role>
+      <name>Lynda Petty</name>
+    </item>
+    <item index="35">
+      <photo>http://image.tmdb.org/t/p/original/pvQWsu0qc8JFQhMVJkTHuexUAa1.jpg</photo>
+      <role>Fred (voice)</role>
+      <name>Andrew Stanton</name>
+    </item>
+    <item index="36">
+      <photo/>
+      <role>Kori Turbowitz (voice)</role>
+      <name>Sarah Clark</name>
+    </item>
+    <item index="37">
+      <photo/>
+      <role>Not Chuck (voice)</role>
+      <name>Mike Nelson</name>
+    </item>
+    <item index="38">
+      <photo>http://image.tmdb.org/t/p/original/f1BoWC2JbCcfP1e5hKfGsxkHzVU.jpg</photo>
+      <role>Peterbilt (voice)</role>
+      <name>Joe Ranft</name>
+    </item>
+    <item index="39">
+      <photo/>
+      <role>Boost (voice)</role>
+      <name>Jonas Rivera</name>
+    </item>
+    <item index="40">
+      <photo>http://image.tmdb.org/t/p/original/q5BXFPkFZA7RJh9Oj15WRQawMfk.jpg</photo>
+      <role>Snotrod (voice)</role>
+      <name>Lou Romano</name>
+    </item>
+    <item index="41">
+      <photo/>
+      <role>Wingo (voice)</role>
+      <name>Adrian Ochoa</name>
+    </item>
+    <item index="42">
+      <photo/>
+      <role>DJ (voice)</role>
+      <name>E.J. Holowicki</name>
+    </item>
+    <item index="43">
+      <photo>http://image.tmdb.org/t/p/original/21JKhZc6bTAoHcwSjQhZcdhhx5d.jpg</photo>
+      <role>Tia (voice)</role>
+      <name>Elissa Knight</name>
+    </item>
+    <item index="44">
+      <photo/>
+      <role>Mia (voice)</role>
+      <name>Lindsey Collins</name>
+    </item>
+    <item index="45">
+      <photo/>
+      <role>Motorhome Race Fan (voice)</role>
+      <name>Larry Benton</name>
+    </item>
+    <item index="46">
+      <photo/>
+      <role>Motorhome Race Fan (voice)</role>
+      <name>Douglas Keever</name>
+    </item>
+    <item index="47">
+      <photo>http://image.tmdb.org/t/p/original/kQDSC2z7sb6S5HcpOH6cmeJokKE.jpg</photo>
+      <role>(voice)</role>
+      <name>Sherry Lynn</name>
+    </item>
+    <item index="48">
+      <photo>http://image.tmdb.org/t/p/original/k7TjJBfINsg8vLQxJwos6XObAD6.jpg</photo>
+      <role>Additional Voices (voice)</role>
+      <name>Mickie McGowan</name>
+    </item>
+    <item index="49">
+      <photo>http://image.tmdb.org/t/p/original/qYvR57QBtXpdvj1jm2a8hjh7E4L.jpg</photo>
+      <role>Additional Voices (voice)</role>
+      <name>Jack Angel</name>
+    </item>
+  </roles>
+  <similar>
+    <item index="0">Cars 2</item>
+    <item index="1">Toy Story 2</item>
+    <item index="2">Madagascar</item>
+    <item index="3">Toy Story 3</item>
+    <item index="4">Monsters, Inc.</item>
+    <item index="5">Kung Fu Panda</item>
+    <item index="6">The Incredibles</item>
+    <item index="7">Toy Story</item>
+    <item index="8">Ratatouille</item>
+    <item index="9">Ice Age: The Meltdown</item>
+    <item index="10">Ice Age</item>
+    <item index="11">A Bug's Life</item>
+    <item index="12">Finding Nemo</item>
+    <item index="13">Shrek 2</item>
+    <item index="14">Shrek</item>
+    <item index="15">Shrek the Third</item>
+    <item index="16">Ice Age: Dawn of the Dinosaurs</item>
+    <item index="17">Madagascar: Escape 2 Africa</item>
+    <item index="18">Bolt</item>
+    <item index="19">Aladdin</item>
+  </similar>
+  <studio>Pixar</studio>
+  <summary>Lightning McQueen, a hotshot rookie race car driven to succeed, discovers that life is about the journey, not the finish line, when he finds himself unexpectedly detoured in the sleepy Route 66 town of Radiator Springs. On route across the country to the big Piston Cup Championship in California to compete against two seasoned pros, McQueen gets to know the town's offbeat characters.</summary>
+  <tagline>Ahhh... it's got that new movie smell.</tagline>
+  <tags/>
+  <themes/>
+  <title>Cars</title>
+  <writers>
+    <item index="0">
+      <photo>http://image.tmdb.org/t/p/original/grLBoLU2blYEoT8vjGFOiM8mw1D.jpg</photo>
+      <role/>
+      <name>Dan Fogelman</name>
+    </item>
+    <item index="1">
+      <photo>http://image.tmdb.org/t/p/original/f1BoWC2JbCcfP1e5hKfGsxkHzVU.jpg</photo>
+      <role/>
+      <name>Joe Ranft</name>
+    </item>
+    <item index="2">
+      <photo>http://image.tmdb.org/t/p/original/7EdqiNbr4FRjIhKHyPPdFfEEEFG.jpg</photo>
+      <role/>
+      <name>John Lasseter</name>
+    </item>
+    <item index="3">
+      <photo/>
+      <role/>
+      <name>Kiel Murray</name>
+    </item>
+    <item index="4">
+      <photo/>
+      <role/>
+      <name>Phil Lorin</name>
+    </item>
+    <item index="5">
+      <photo/>
+      <role/>
+      <name>Jorgen Klubien</name>
+    </item>
+  </writers>
+  <year>2006</year>
+</Movie>

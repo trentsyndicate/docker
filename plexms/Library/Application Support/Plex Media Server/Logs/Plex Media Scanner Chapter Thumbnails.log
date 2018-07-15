@@ -1,0 +1,939 @@
+Jul 15, 2018 02:13:00.359 [0x7f6b73fff700] INFO - Plex Media Scanner v1.13.2.5154-fd05be322 - ubuntu docker x86_64 - build: linux-ubuntu-x86_64 - GMT -04:00
+Jul 15, 2018 02:13:00.360 [0x7f6b73fff700] INFO - Linux version: 4.15.0-24-generic (#26-Ubuntu SMP Wed Jun 13 08:44:47 UTC 2018), language: C
+Jul 15, 2018 02:13:00.360 [0x7f6b73fff700] INFO - Processor Intel(R) Core(TM) i7-4770R CPU @ 3.20GHz
+Jul 15, 2018 02:13:00.360 [0x7f6b73fff700] INFO - /usr/lib/plexmediaserver/Plex Media Scanner --generate --chapter-thumbs-only --item 7205 --log-file-suffix  Chapter Thumbnails
+Jul 15, 2018 02:13:00.363 [0x7f6b7f6e1800] DEBUG - Opening 20 database sessions to library (com.plexapp.plugins.library), SQLite 3.13.0, threadsafe=1
+Jul 15, 2018 02:13:00.446 [0x7f6b7f6e1800] DEBUG - [MI] Opening input file: "/movies/Rampage.2018.1080p.WEB.h264-WEBTiFUL/rampage.2018.1080p.web.h264-webtiful.mkv"
+Jul 15, 2018 02:13:00.446 [0x7f6b7f6e1800] DEBUG - [FFMPEG] - Opening '/movies/Rampage.2018.1080p.WEB.h264-WEBTiFUL/rampage.2018.1080p.web.h264-webtiful.mkv' for reading
+Jul 15, 2018 02:13:00.446 [0x7f6b7f6e1800] DEBUG - [FFMPEG] - Setting default whitelist 'file,crypto'
+Jul 15, 2018 02:13:00.448 [0x7f6b7f6e1800] DEBUG - [FFMPEG] - Format matroska,webm probed with size=2048 and score=100
+Jul 15, 2018 02:13:00.448 [0x7f6b7f6e1800] DEBUG - [FFMPEG] - st:0 removing common factor 1000000 from timebase
+Jul 15, 2018 02:13:00.448 [0x7f6b7f6e1800] DEBUG - [FFMPEG] - st:1 removing common factor 1000000 from timebase
+Jul 15, 2018 02:13:00.449 [0x7f6b7f6e1800] DEBUG - [FFMPEG] - st:2 removing common factor 1000000 from timebase
+Jul 15, 2018 02:13:00.449 [0x7f6b7f6e1800] DEBUG - [FFMPEG] - st:3 removing common factor 1000000 from timebase
+Jul 15, 2018 02:13:00.449 [0x7f6b7f6e1800] DEBUG - [FFMPEG] - st:4 removing common factor 1000000 from timebase
+Jul 15, 2018 02:13:00.449 [0x7f6b7f6e1800] DEBUG - [FFMPEG] - st:5 removing common factor 1000000 from timebase
+Jul 15, 2018 02:13:00.449 [0x7f6b7f6e1800] DEBUG - [FFMPEG] - Before avformat_find_stream_info() pos: 5873 bytes read:35076 seeks:2 nb_streams:6
+Jul 15, 2018 02:13:00.449 [0x7f6b7f6e1800] DEBUG - [FFMPEG] - nal_unit_type: 7, nal_ref_idc: 1
+Jul 15, 2018 02:13:00.450 [0x7f6b7f6e1800] DEBUG - [FFMPEG] - nal_unit_type: 8, nal_ref_idc: 1
+Jul 15, 2018 02:13:00.450 [0x7f6b7f6e1800] DEBUG - [FFMPEG] - nal_unit_type: 7, nal_ref_idc: 1
+Jul 15, 2018 02:13:00.450 [0x7f6b7f6e1800] DEBUG - [FFMPEG] - nal_unit_type: 8, nal_ref_idc: 1
+Jul 15, 2018 02:13:00.450 [0x7f6b7f6e1800] DEBUG - [FFMPEG] - nal_unit_type: 6, nal_ref_idc: 0
+Jul 15, 2018 02:13:00.451 [0x7f6b7f6e1800] DEBUG - [FFMPEG] - nal_unit_type: 6, nal_ref_idc: 0
+Jul 15, 2018 02:13:00.451 [0x7f6b7f6e1800] DEBUG - [FFMPEG] - nal_unit_type: 5, nal_ref_idc: 1
+Jul 15, 2018 02:13:00.451 [0x7f6b7f6e1800] DEBUG - [FFMPEG] - nal_unit_type: 5, nal_ref_idc: 1
+Jul 15, 2018 02:13:00.451 [0x7f6b7f6e1800] DEBUG - [FFMPEG] - nal_unit_type: 5, nal_ref_idc: 1
+Jul 15, 2018 02:13:00.451 [0x7f6b7f6e1800] DEBUG - [FFMPEG] - nal_unit_type: 5, nal_ref_idc: 1
+Jul 15, 2018 02:13:00.451 [0x7f6b7f6e1800] DEBUG - [FFMPEG] - nal_unit_type: 5, nal_ref_idc: 1
+Jul 15, 2018 02:13:00.451 [0x7f6b7f6e1800] DEBUG - [FFMPEG] - nal_unit_type: 5, nal_ref_idc: 1
+Jul 15, 2018 02:13:00.451 [0x7f6b7f6e1800] DEBUG - [FFMPEG] - nal_unit_type: 5, nal_ref_idc: 1
+Jul 15, 2018 02:13:00.451 [0x7f6b7f6e1800] DEBUG - [FFMPEG] - nal_unit_type: 5, nal_ref_idc: 1
+Jul 15, 2018 02:13:00.451 [0x7f6b7f6e1800] DEBUG - [FFMPEG] - Format yuv420p chosen by get_format().
+Jul 15, 2018 02:13:00.455 [0x7f6b7f6e1800] DEBUG - [FFMPEG] - nal_unit_type: 6, nal_ref_idc: 0
+Jul 15, 2018 02:13:00.455 [0x7f6b7f6e1800] DEBUG - [FFMPEG] - nal_unit_type: 1, nal_ref_idc: 1
+Jul 15, 2018 02:13:00.455 [0x7f6b7f6e1800] DEBUG - [FFMPEG] - nal_unit_type: 1, nal_ref_idc: 1
+Jul 15, 2018 02:13:00.455 [0x7f6b7f6e1800] DEBUG - [FFMPEG] - nal_unit_type: 1, nal_ref_idc: 1
+Jul 15, 2018 02:13:00.455 [0x7f6b7f6e1800] DEBUG - [FFMPEG] - nal_unit_type: 1, nal_ref_idc: 1
+Jul 15, 2018 02:13:00.455 [0x7f6b7f6e1800] DEBUG - [FFMPEG] - nal_unit_type: 1, nal_ref_idc: 1
+Jul 15, 2018 02:13:00.455 [0x7f6b7f6e1800] DEBUG - [FFMPEG] - nal_unit_type: 1, nal_ref_idc: 1
+Jul 15, 2018 02:13:00.455 [0x7f6b7f6e1800] DEBUG - [FFMPEG] - nal_unit_type: 1, nal_ref_idc: 1
+Jul 15, 2018 02:13:00.455 [0x7f6b7f6e1800] DEBUG - [FFMPEG] - nal_unit_type: 1, nal_ref_idc: 1
+Jul 15, 2018 02:13:00.456 [0x7f6b7f6e1800] DEBUG - [FFMPEG] - no picture 
+Jul 15, 2018 02:13:00.458 [0x7f6b7f6e1800] DEBUG - [FFMPEG] - nal_unit_type: 6, nal_ref_idc: 0
+Jul 15, 2018 02:13:00.458 [0x7f6b7f6e1800] DEBUG - [FFMPEG] - nal_unit_type: 1, nal_ref_idc: 0
+Jul 15, 2018 02:13:00.458 [0x7f6b7f6e1800] DEBUG - [FFMPEG] - nal_unit_type: 1, nal_ref_idc: 0
+Jul 15, 2018 02:13:00.458 [0x7f6b7f6e1800] DEBUG - [FFMPEG] - nal_unit_type: 1, nal_ref_idc: 0
+Jul 15, 2018 02:13:00.458 [0x7f6b7f6e1800] DEBUG - [FFMPEG] - nal_unit_type: 1, nal_ref_idc: 0
+Jul 15, 2018 02:13:00.458 [0x7f6b7f6e1800] DEBUG - [FFMPEG] - nal_unit_type: 1, nal_ref_idc: 0
+Jul 15, 2018 02:13:00.458 [0x7f6b7f6e1800] DEBUG - [FFMPEG] - nal_unit_type: 1, nal_ref_idc: 0
+Jul 15, 2018 02:13:00.458 [0x7f6b7f6e1800] DEBUG - [FFMPEG] - nal_unit_type: 1, nal_ref_idc: 0
+Jul 15, 2018 02:13:00.458 [0x7f6b7f6e1800] DEBUG - [FFMPEG] - nal_unit_type: 1, nal_ref_idc: 0
+Jul 15, 2018 02:13:00.461 [0x7f6b7f6e1800] DEBUG - [FFMPEG] - nal_unit_type: 6, nal_ref_idc: 0
+Jul 15, 2018 02:13:00.461 [0x7f6b7f6e1800] DEBUG - [FFMPEG] - nal_unit_type: 1, nal_ref_idc: 1
+Jul 15, 2018 02:13:00.461 [0x7f6b7f6e1800] DEBUG - [FFMPEG] - nal_unit_type: 1, nal_ref_idc: 1
+Jul 15, 2018 02:13:00.461 [0x7f6b7f6e1800] DEBUG - [FFMPEG] - nal_unit_type: 1, nal_ref_idc: 1
+Jul 15, 2018 02:13:00.461 [0x7f6b7f6e1800] DEBUG - [FFMPEG] - nal_unit_type: 1, nal_ref_idc: 1
+Jul 15, 2018 02:13:00.461 [0x7f6b7f6e1800] DEBUG - [FFMPEG] - nal_unit_type: 1, nal_ref_idc: 1
+Jul 15, 2018 02:13:00.461 [0x7f6b7f6e1800] DEBUG - [FFMPEG] - nal_unit_type: 1, nal_ref_idc: 1
+Jul 15, 2018 02:13:00.461 [0x7f6b7f6e1800] DEBUG - [FFMPEG] - nal_unit_type: 1, nal_ref_idc: 1
+Jul 15, 2018 02:13:00.461 [0x7f6b7f6e1800] DEBUG - [FFMPEG] - nal_unit_type: 1, nal_ref_idc: 1
+Jul 15, 2018 02:13:00.463 [0x7f6b7f6e1800] DEBUG - [FFMPEG] - nal_unit_type: 6, nal_ref_idc: 0
+Jul 15, 2018 02:13:00.463 [0x7f6b7f6e1800] DEBUG - [FFMPEG] - nal_unit_type: 1, nal_ref_idc: 0
+Jul 15, 2018 02:13:00.463 [0x7f6b7f6e1800] DEBUG - [FFMPEG] - nal_unit_type: 1, nal_ref_idc: 0
+Jul 15, 2018 02:13:00.463 [0x7f6b7f6e1800] DEBUG - [FFMPEG] - nal_unit_type: 1, nal_ref_idc: 0
+Jul 15, 2018 02:13:00.463 [0x7f6b7f6e1800] DEBUG - [FFMPEG] - nal_unit_type: 1, nal_ref_idc: 0
+Jul 15, 2018 02:13:00.463 [0x7f6b7f6e1800] DEBUG - [FFMPEG] - nal_unit_type: 1, nal_ref_idc: 0
+Jul 15, 2018 02:13:00.463 [0x7f6b7f6e1800] DEBUG - [FFMPEG] - nal_unit_type: 1, nal_ref_idc: 0
+Jul 15, 2018 02:13:00.463 [0x7f6b7f6e1800] DEBUG - [FFMPEG] - nal_unit_type: 1, nal_ref_idc: 0
+Jul 15, 2018 02:13:00.463 [0x7f6b7f6e1800] DEBUG - [FFMPEG] - nal_unit_type: 1, nal_ref_idc: 0
+Jul 15, 2018 02:13:00.466 [0x7f6b7f6e1800] DEBUG - [FFMPEG] - nal_unit_type: 6, nal_ref_idc: 0
+Jul 15, 2018 02:13:00.466 [0x7f6b7f6e1800] DEBUG - [FFMPEG] - nal_unit_type: 1, nal_ref_idc: 1
+Jul 15, 2018 02:13:00.466 [0x7f6b7f6e1800] DEBUG - [FFMPEG] - nal_unit_type: 1, nal_ref_idc: 1
+Jul 15, 2018 02:13:00.466 [0x7f6b7f6e1800] DEBUG - [FFMPEG] - nal_unit_type: 1, nal_ref_idc: 1
+Jul 15, 2018 02:13:00.466 [0x7f6b7f6e1800] DEBUG - [FFMPEG] - nal_unit_type: 1, nal_ref_idc: 1
+Jul 15, 2018 02:13:00.466 [0x7f6b7f6e1800] DEBUG - [FFMPEG] - nal_unit_type: 1, nal_ref_idc: 1
+Jul 15, 2018 02:13:00.466 [0x7f6b7f6e1800] DEBUG - [FFMPEG] - nal_unit_type: 1, nal_ref_idc: 1
+Jul 15, 2018 02:13:00.466 [0x7f6b7f6e1800] DEBUG - [FFMPEG] - nal_unit_type: 1, nal_ref_idc: 1
+Jul 15, 2018 02:13:00.466 [0x7f6b7f6e1800] DEBUG - [FFMPEG] - nal_unit_type: 1, nal_ref_idc: 1
+Jul 15, 2018 02:13:00.468 [0x7f6b7f6e1800] DEBUG - [FFMPEG] - nal_unit_type: 6, nal_ref_idc: 0
+Jul 15, 2018 02:13:00.468 [0x7f6b7f6e1800] DEBUG - [FFMPEG] - nal_unit_type: 1, nal_ref_idc: 0
+Jul 15, 2018 02:13:00.468 [0x7f6b7f6e1800] DEBUG - [FFMPEG] - nal_unit_type: 1, nal_ref_idc: 0
+Jul 15, 2018 02:13:00.468 [0x7f6b7f6e1800] DEBUG - [FFMPEG] - nal_unit_type: 1, nal_ref_idc: 0
+Jul 15, 2018 02:13:00.468 [0x7f6b7f6e1800] DEBUG - [FFMPEG] - nal_unit_type: 1, nal_ref_idc: 0
+Jul 15, 2018 02:13:00.468 [0x7f6b7f6e1800] DEBUG - [FFMPEG] - nal_unit_type: 1, nal_ref_idc: 0
+Jul 15, 2018 02:13:00.468 [0x7f6b7f6e1800] DEBUG - [FFMPEG] - nal_unit_type: 1, nal_ref_idc: 0
+Jul 15, 2018 02:13:00.468 [0x7f6b7f6e1800] DEBUG - [FFMPEG] - nal_unit_type: 1, nal_ref_idc: 0
+Jul 15, 2018 02:13:00.468 [0x7f6b7f6e1800] DEBUG - [FFMPEG] - nal_unit_type: 1, nal_ref_idc: 0
+Jul 15, 2018 02:13:00.470 [0x7f6b7f6e1800] DEBUG - [FFMPEG] - nal_unit_type: 6, nal_ref_idc: 0
+Jul 15, 2018 02:13:00.470 [0x7f6b7f6e1800] DEBUG - [FFMPEG] - nal_unit_type: 1, nal_ref_idc: 1
+Jul 15, 2018 02:13:00.470 [0x7f6b7f6e1800] DEBUG - [FFMPEG] - nal_unit_type: 1, nal_ref_idc: 1
+Jul 15, 2018 02:13:00.470 [0x7f6b7f6e1800] DEBUG - [FFMPEG] - nal_unit_type: 1, nal_ref_idc: 1
+Jul 15, 2018 02:13:00.471 [0x7f6b7f6e1800] DEBUG - [FFMPEG] - nal_unit_type: 1, nal_ref_idc: 1
+Jul 15, 2018 02:13:00.471 [0x7f6b7f6e1800] DEBUG - [FFMPEG] - nal_unit_type: 1, nal_ref_idc: 1
+Jul 15, 2018 02:13:00.471 [0x7f6b7f6e1800] DEBUG - [FFMPEG] - nal_unit_type: 1, nal_ref_idc: 1
+Jul 15, 2018 02:13:00.471 [0x7f6b7f6e1800] DEBUG - [FFMPEG] - nal_unit_type: 1, nal_ref_idc: 1
+Jul 15, 2018 02:13:00.471 [0x7f6b7f6e1800] DEBUG - [FFMPEG] - nal_unit_type: 1, nal_ref_idc: 1
+Jul 15, 2018 02:13:00.473 [0x7f6b7f6e1800] DEBUG - [FFMPEG] - All info found
+Jul 15, 2018 02:13:00.473 [0x7f6b7f6e1800] DEBUG - [FFMPEG] - After avformat_find_stream_info() pos: 33084 bytes read:67844 seeks:2 frames:25
+Jul 15, 2018 02:13:00.473 [0x7f6b7f6e1800] DEBUG - Creating /config/Library/Application Support/Plex Media Server/Media/localhost/a/3ee2e0816372c24a5c572c8cf9fca42ff05179c.bundle/Contents/Chapters/chapter1.jpg (0.0%, 1280x720).
+Jul 15, 2018 02:13:00.473 [0x7f6b7f6e1800] DEBUG - [FFMPEG] - nal_unit_type: 7, nal_ref_idc: 1
+Jul 15, 2018 02:13:00.473 [0x7f6b7f6e1800] DEBUG - [FFMPEG] - nal_unit_type: 8, nal_ref_idc: 1
+Jul 15, 2018 02:13:00.502 [0x7f6b7f6e1800] DEBUG - [FFMPEG] - nal_unit_type: 7, nal_ref_idc: 1
+Jul 15, 2018 02:13:00.502 [0x7f6b7f6e1800] DEBUG - [FFMPEG] - nal_unit_type: 8, nal_ref_idc: 1
+Jul 15, 2018 02:13:00.502 [0x7f6b7f6e1800] DEBUG - [FFMPEG] - nal_unit_type: 6, nal_ref_idc: 0
+Jul 15, 2018 02:13:00.502 [0x7f6b7f6e1800] DEBUG - [FFMPEG] - nal_unit_type: 6, nal_ref_idc: 0
+Jul 15, 2018 02:13:00.502 [0x7f6b7f6e1800] DEBUG - [FFMPEG] - nal_unit_type: 5, nal_ref_idc: 1
+Jul 15, 2018 02:13:00.502 [0x7f6b7f6e1800] DEBUG - [FFMPEG] - nal_unit_type: 5, nal_ref_idc: 1
+Jul 15, 2018 02:13:00.503 [0x7f6b7f6e1800] DEBUG - [FFMPEG] - nal_unit_type: 5, nal_ref_idc: 1
+Jul 15, 2018 02:13:00.503 [0x7f6b7f6e1800] DEBUG - [FFMPEG] - nal_unit_type: 5, nal_ref_idc: 1
+Jul 15, 2018 02:13:00.503 [0x7f6b7f6e1800] DEBUG - [FFMPEG] - nal_unit_type: 5, nal_ref_idc: 1
+Jul 15, 2018 02:13:00.503 [0x7f6b7f6e1800] DEBUG - [FFMPEG] - nal_unit_type: 5, nal_ref_idc: 1
+Jul 15, 2018 02:13:00.503 [0x7f6b7f6e1800] DEBUG - [FFMPEG] - nal_unit_type: 5, nal_ref_idc: 1
+Jul 15, 2018 02:13:00.503 [0x7f6b7f6e1800] DEBUG - [FFMPEG] - nal_unit_type: 5, nal_ref_idc: 1
+Jul 15, 2018 02:13:00.503 [0x7f6b7f6e1800] DEBUG - [FFMPEG] - Format yuv420p chosen by get_format().
+Jul 15, 2018 02:13:00.504 [0x7f6b7f6e1800] DEBUG - [FFMPEG] - no picture 
+Jul 15, 2018 02:13:00.507 [0x7f6b7f6e1800] DEBUG - [FFMPEG] - nal_unit_type: 6, nal_ref_idc: 0
+Jul 15, 2018 02:13:00.507 [0x7f6b7f6e1800] DEBUG - [FFMPEG] - nal_unit_type: 1, nal_ref_idc: 1
+Jul 15, 2018 02:13:00.507 [0x7f6b7f6e1800] DEBUG - [FFMPEG] - nal_unit_type: 1, nal_ref_idc: 1
+Jul 15, 2018 02:13:00.507 [0x7f6b7f6e1800] DEBUG - [FFMPEG] - nal_unit_type: 1, nal_ref_idc: 1
+Jul 15, 2018 02:13:00.507 [0x7f6b7f6e1800] DEBUG - [FFMPEG] - nal_unit_type: 1, nal_ref_idc: 1
+Jul 15, 2018 02:13:00.507 [0x7f6b7f6e1800] DEBUG - [FFMPEG] - nal_unit_type: 1, nal_ref_idc: 1
+Jul 15, 2018 02:13:00.507 [0x7f6b7f6e1800] DEBUG - [FFMPEG] - nal_unit_type: 1, nal_ref_idc: 1
+Jul 15, 2018 02:13:00.507 [0x7f6b7f6e1800] DEBUG - [FFMPEG] - nal_unit_type: 1, nal_ref_idc: 1
+Jul 15, 2018 02:13:00.507 [0x7f6b7f6e1800] DEBUG - [FFMPEG] - nal_unit_type: 1, nal_ref_idc: 1
+Jul 15, 2018 02:13:00.580 [0x7f6b7f6e1800] DEBUG - Loaded memory image of size 1920x800.
+Jul 15, 2018 02:13:00.657 [0x7f6b7f6e1800] DEBUG - [FFMPEG] - nal_unit_type: 7, nal_ref_idc: 1
+Jul 15, 2018 02:13:00.657 [0x7f6b7f6e1800] DEBUG - [FFMPEG] - nal_unit_type: 8, nal_ref_idc: 1
+Jul 15, 2018 02:13:00.657 [0x7f6b7f6e1800] DEBUG - [FFMPEG] - nal_unit_type: 7, nal_ref_idc: 1
+Jul 15, 2018 02:13:00.657 [0x7f6b7f6e1800] DEBUG - [FFMPEG] - nal_unit_type: 8, nal_ref_idc: 1
+Jul 15, 2018 02:13:00.658 [0x7f6b7f6e1800] DEBUG - [FFMPEG] - nal_unit_type: 6, nal_ref_idc: 0
+Jul 15, 2018 02:13:00.658 [0x7f6b7f6e1800] DEBUG - [FFMPEG] - nal_unit_type: 6, nal_ref_idc: 0
+Jul 15, 2018 02:13:00.658 [0x7f6b7f6e1800] DEBUG - [FFMPEG] - nal_unit_type: 5, nal_ref_idc: 1
+Jul 15, 2018 02:13:00.658 [0x7f6b7f6e1800] DEBUG - [FFMPEG] - nal_unit_type: 5, nal_ref_idc: 1
+Jul 15, 2018 02:13:00.658 [0x7f6b7f6e1800] DEBUG - [FFMPEG] - nal_unit_type: 5, nal_ref_idc: 1
+Jul 15, 2018 02:13:00.658 [0x7f6b7f6e1800] DEBUG - [FFMPEG] - nal_unit_type: 5, nal_ref_idc: 1
+Jul 15, 2018 02:13:00.658 [0x7f6b7f6e1800] DEBUG - [FFMPEG] - nal_unit_type: 5, nal_ref_idc: 1
+Jul 15, 2018 02:13:00.658 [0x7f6b7f6e1800] DEBUG - [FFMPEG] - nal_unit_type: 5, nal_ref_idc: 1
+Jul 15, 2018 02:13:00.658 [0x7f6b7f6e1800] DEBUG - [FFMPEG] - nal_unit_type: 5, nal_ref_idc: 1
+Jul 15, 2018 02:13:00.658 [0x7f6b7f6e1800] DEBUG - [FFMPEG] - nal_unit_type: 5, nal_ref_idc: 1
+Jul 15, 2018 02:13:00.658 [0x7f6b7f6e1800] DEBUG - [FFMPEG] - Format yuv420p chosen by get_format().
+Jul 15, 2018 02:13:00.658 [0x7f6b7f6e1800] DEBUG - [FFMPEG] - no picture 
+Jul 15, 2018 02:13:00.661 [0x7f6b7f6e1800] DEBUG - [FFMPEG] - nal_unit_type: 6, nal_ref_idc: 0
+Jul 15, 2018 02:13:00.661 [0x7f6b7f6e1800] DEBUG - [FFMPEG] - nal_unit_type: 1, nal_ref_idc: 1
+Jul 15, 2018 02:13:00.661 [0x7f6b7f6e1800] DEBUG - [FFMPEG] - nal_unit_type: 1, nal_ref_idc: 1
+Jul 15, 2018 02:13:00.661 [0x7f6b7f6e1800] DEBUG - [FFMPEG] - nal_unit_type: 1, nal_ref_idc: 1
+Jul 15, 2018 02:13:00.661 [0x7f6b7f6e1800] DEBUG - [FFMPEG] - nal_unit_type: 1, nal_ref_idc: 1
+Jul 15, 2018 02:13:00.661 [0x7f6b7f6e1800] DEBUG - [FFMPEG] - nal_unit_type: 1, nal_ref_idc: 1
+Jul 15, 2018 02:13:00.661 [0x7f6b7f6e1800] DEBUG - [FFMPEG] - nal_unit_type: 1, nal_ref_idc: 1
+Jul 15, 2018 02:13:00.661 [0x7f6b7f6e1800] DEBUG - [FFMPEG] - nal_unit_type: 1, nal_ref_idc: 1
+Jul 15, 2018 02:13:00.661 [0x7f6b7f6e1800] DEBUG - [FFMPEG] - nal_unit_type: 1, nal_ref_idc: 1
+Jul 15, 2018 02:13:00.730 [0x7f6b7f6e1800] DEBUG - Loaded memory image of size 1920x800.
+Jul 15, 2018 02:13:00.808 [0x7f6b7f6e1800] DEBUG - [FFMPEG] - nal_unit_type: 7, nal_ref_idc: 1
+Jul 15, 2018 02:13:00.808 [0x7f6b7f6e1800] DEBUG - [FFMPEG] - nal_unit_type: 8, nal_ref_idc: 1
+Jul 15, 2018 02:13:00.808 [0x7f6b7f6e1800] DEBUG - [FFMPEG] - nal_unit_type: 7, nal_ref_idc: 1
+Jul 15, 2018 02:13:00.808 [0x7f6b7f6e1800] DEBUG - [FFMPEG] - nal_unit_type: 8, nal_ref_idc: 1
+Jul 15, 2018 02:13:00.809 [0x7f6b7f6e1800] DEBUG - [FFMPEG] - nal_unit_type: 6, nal_ref_idc: 0
+Jul 15, 2018 02:13:00.809 [0x7f6b7f6e1800] DEBUG - [FFMPEG] - nal_unit_type: 6, nal_ref_idc: 0
+Jul 15, 2018 02:13:00.809 [0x7f6b7f6e1800] DEBUG - [FFMPEG] - nal_unit_type: 5, nal_ref_idc: 1
+Jul 15, 2018 02:13:00.809 [0x7f6b7f6e1800] DEBUG - [FFMPEG] - nal_unit_type: 5, nal_ref_idc: 1
+Jul 15, 2018 02:13:00.809 [0x7f6b7f6e1800] DEBUG - [FFMPEG] - nal_unit_type: 5, nal_ref_idc: 1
+Jul 15, 2018 02:13:00.809 [0x7f6b7f6e1800] DEBUG - [FFMPEG] - nal_unit_type: 5, nal_ref_idc: 1
+Jul 15, 2018 02:13:00.809 [0x7f6b7f6e1800] DEBUG - [FFMPEG] - nal_unit_type: 5, nal_ref_idc: 1
+Jul 15, 2018 02:13:00.809 [0x7f6b7f6e1800] DEBUG - [FFMPEG] - nal_unit_type: 5, nal_ref_idc: 1
+Jul 15, 2018 02:13:00.809 [0x7f6b7f6e1800] DEBUG - [FFMPEG] - nal_unit_type: 5, nal_ref_idc: 1
+Jul 15, 2018 02:13:00.809 [0x7f6b7f6e1800] DEBUG - [FFMPEG] - nal_unit_type: 5, nal_ref_idc: 1
+Jul 15, 2018 02:13:00.809 [0x7f6b7f6e1800] DEBUG - [FFMPEG] - Format yuv420p chosen by get_format().
+Jul 15, 2018 02:13:00.810 [0x7f6b7f6e1800] DEBUG - [FFMPEG] - no picture 
+Jul 15, 2018 02:13:00.812 [0x7f6b7f6e1800] DEBUG - [FFMPEG] - nal_unit_type: 6, nal_ref_idc: 0
+Jul 15, 2018 02:13:00.812 [0x7f6b7f6e1800] DEBUG - [FFMPEG] - nal_unit_type: 1, nal_ref_idc: 1
+Jul 15, 2018 02:13:00.812 [0x7f6b7f6e1800] DEBUG - [FFMPEG] - nal_unit_type: 1, nal_ref_idc: 1
+Jul 15, 2018 02:13:00.812 [0x7f6b7f6e1800] DEBUG - [FFMPEG] - nal_unit_type: 1, nal_ref_idc: 1
+Jul 15, 2018 02:13:00.813 [0x7f6b7f6e1800] DEBUG - [FFMPEG] - nal_unit_type: 1, nal_ref_idc: 1
+Jul 15, 2018 02:13:00.813 [0x7f6b7f6e1800] DEBUG - [FFMPEG] - nal_unit_type: 1, nal_ref_idc: 1
+Jul 15, 2018 02:13:00.813 [0x7f6b7f6e1800] DEBUG - [FFMPEG] - nal_unit_type: 1, nal_ref_idc: 1
+Jul 15, 2018 02:13:00.813 [0x7f6b7f6e1800] DEBUG - [FFMPEG] - nal_unit_type: 1, nal_ref_idc: 1
+Jul 15, 2018 02:13:00.813 [0x7f6b7f6e1800] DEBUG - [FFMPEG] - nal_unit_type: 1, nal_ref_idc: 1
+Jul 15, 2018 02:13:00.883 [0x7f6b7f6e1800] DEBUG - Loaded memory image of size 1920x800.
+Jul 15, 2018 02:13:00.961 [0x7f6b7f6e1800] DEBUG - [FFMPEG] - nal_unit_type: 7, nal_ref_idc: 1
+Jul 15, 2018 02:13:00.961 [0x7f6b7f6e1800] DEBUG - [FFMPEG] - nal_unit_type: 8, nal_ref_idc: 1
+Jul 15, 2018 02:13:00.961 [0x7f6b7f6e1800] DEBUG - [FFMPEG] - nal_unit_type: 7, nal_ref_idc: 1
+Jul 15, 2018 02:13:00.961 [0x7f6b7f6e1800] DEBUG - [FFMPEG] - nal_unit_type: 8, nal_ref_idc: 1
+Jul 15, 2018 02:13:00.961 [0x7f6b7f6e1800] DEBUG - [FFMPEG] - nal_unit_type: 6, nal_ref_idc: 0
+Jul 15, 2018 02:13:00.961 [0x7f6b7f6e1800] DEBUG - [FFMPEG] - nal_unit_type: 6, nal_ref_idc: 0
+Jul 15, 2018 02:13:00.961 [0x7f6b7f6e1800] DEBUG - [FFMPEG] - nal_unit_type: 5, nal_ref_idc: 1
+Jul 15, 2018 02:13:00.961 [0x7f6b7f6e1800] DEBUG - [FFMPEG] - nal_unit_type: 5, nal_ref_idc: 1
+Jul 15, 2018 02:13:00.961 [0x7f6b7f6e1800] DEBUG - [FFMPEG] - nal_unit_type: 5, nal_ref_idc: 1
+Jul 15, 2018 02:13:00.961 [0x7f6b7f6e1800] DEBUG - [FFMPEG] - nal_unit_type: 5, nal_ref_idc: 1
+Jul 15, 2018 02:13:00.961 [0x7f6b7f6e1800] DEBUG - [FFMPEG] - nal_unit_type: 5, nal_ref_idc: 1
+Jul 15, 2018 02:13:00.961 [0x7f6b7f6e1800] DEBUG - [FFMPEG] - nal_unit_type: 5, nal_ref_idc: 1
+Jul 15, 2018 02:13:00.961 [0x7f6b7f6e1800] DEBUG - [FFMPEG] - nal_unit_type: 5, nal_ref_idc: 1
+Jul 15, 2018 02:13:00.961 [0x7f6b7f6e1800] DEBUG - [FFMPEG] - nal_unit_type: 5, nal_ref_idc: 1
+Jul 15, 2018 02:13:00.961 [0x7f6b7f6e1800] DEBUG - [FFMPEG] - Format yuv420p chosen by get_format().
+Jul 15, 2018 02:13:00.962 [0x7f6b7f6e1800] DEBUG - [FFMPEG] - no picture 
+Jul 15, 2018 02:13:00.965 [0x7f6b7f6e1800] DEBUG - [FFMPEG] - nal_unit_type: 6, nal_ref_idc: 0
+Jul 15, 2018 02:13:00.965 [0x7f6b7f6e1800] DEBUG - [FFMPEG] - nal_unit_type: 1, nal_ref_idc: 1
+Jul 15, 2018 02:13:00.965 [0x7f6b7f6e1800] DEBUG - [FFMPEG] - nal_unit_type: 1, nal_ref_idc: 1
+Jul 15, 2018 02:13:00.965 [0x7f6b7f6e1800] DEBUG - [FFMPEG] - nal_unit_type: 1, nal_ref_idc: 1
+Jul 15, 2018 02:13:00.965 [0x7f6b7f6e1800] DEBUG - [FFMPEG] - nal_unit_type: 1, nal_ref_idc: 1
+Jul 15, 2018 02:13:00.965 [0x7f6b7f6e1800] DEBUG - [FFMPEG] - nal_unit_type: 1, nal_ref_idc: 1
+Jul 15, 2018 02:13:00.965 [0x7f6b7f6e1800] DEBUG - [FFMPEG] - nal_unit_type: 1, nal_ref_idc: 1
+Jul 15, 2018 02:13:00.965 [0x7f6b7f6e1800] DEBUG - [FFMPEG] - nal_unit_type: 1, nal_ref_idc: 1
+Jul 15, 2018 02:13:00.965 [0x7f6b7f6e1800] DEBUG - [FFMPEG] - nal_unit_type: 1, nal_ref_idc: 1
+Jul 15, 2018 02:13:01.035 [0x7f6b7f6e1800] DEBUG - Loaded memory image of size 1920x800.
+Jul 15, 2018 02:13:01.113 [0x7f6b7f6e1800] DEBUG - [FFMPEG] - nal_unit_type: 7, nal_ref_idc: 1
+Jul 15, 2018 02:13:01.113 [0x7f6b7f6e1800] DEBUG - [FFMPEG] - nal_unit_type: 8, nal_ref_idc: 1
+Jul 15, 2018 02:13:01.113 [0x7f6b7f6e1800] DEBUG - [FFMPEG] - nal_unit_type: 7, nal_ref_idc: 1
+Jul 15, 2018 02:13:01.113 [0x7f6b7f6e1800] DEBUG - [FFMPEG] - nal_unit_type: 8, nal_ref_idc: 1
+Jul 15, 2018 02:13:01.113 [0x7f6b7f6e1800] DEBUG - [FFMPEG] - nal_unit_type: 6, nal_ref_idc: 0
+Jul 15, 2018 02:13:01.113 [0x7f6b7f6e1800] DEBUG - [FFMPEG] - nal_unit_type: 6, nal_ref_idc: 0
+Jul 15, 2018 02:13:01.113 [0x7f6b7f6e1800] DEBUG - [FFMPEG] - nal_unit_type: 5, nal_ref_idc: 1
+Jul 15, 2018 02:13:01.113 [0x7f6b7f6e1800] DEBUG - [FFMPEG] - nal_unit_type: 5, nal_ref_idc: 1
+Jul 15, 2018 02:13:01.113 [0x7f6b7f6e1800] DEBUG - [FFMPEG] - nal_unit_type: 5, nal_ref_idc: 1
+Jul 15, 2018 02:13:01.113 [0x7f6b7f6e1800] DEBUG - [FFMPEG] - nal_unit_type: 5, nal_ref_idc: 1
+Jul 15, 2018 02:13:01.113 [0x7f6b7f6e1800] DEBUG - [FFMPEG] - nal_unit_type: 5, nal_ref_idc: 1
+Jul 15, 2018 02:13:01.113 [0x7f6b7f6e1800] DEBUG - [FFMPEG] - nal_unit_type: 5, nal_ref_idc: 1
+Jul 15, 2018 02:13:01.113 [0x7f6b7f6e1800] DEBUG - [FFMPEG] - nal_unit_type: 5, nal_ref_idc: 1
+Jul 15, 2018 02:13:01.113 [0x7f6b7f6e1800] DEBUG - [FFMPEG] - nal_unit_type: 5, nal_ref_idc: 1
+Jul 15, 2018 02:13:01.113 [0x7f6b7f6e1800] DEBUG - [FFMPEG] - Format yuv420p chosen by get_format().
+Jul 15, 2018 02:13:01.114 [0x7f6b7f6e1800] DEBUG - [FFMPEG] - no picture 
+Jul 15, 2018 02:13:01.116 [0x7f6b7f6e1800] DEBUG - [FFMPEG] - nal_unit_type: 6, nal_ref_idc: 0
+Jul 15, 2018 02:13:01.116 [0x7f6b7f6e1800] DEBUG - [FFMPEG] - nal_unit_type: 1, nal_ref_idc: 1
+Jul 15, 2018 02:13:01.116 [0x7f6b7f6e1800] DEBUG - [FFMPEG] - nal_unit_type: 1, nal_ref_idc: 1
+Jul 15, 2018 02:13:01.116 [0x7f6b7f6e1800] DEBUG - [FFMPEG] - nal_unit_type: 1, nal_ref_idc: 1
+Jul 15, 2018 02:13:01.116 [0x7f6b7f6e1800] DEBUG - [FFMPEG] - nal_unit_type: 1, nal_ref_idc: 1
+Jul 15, 2018 02:13:01.116 [0x7f6b7f6e1800] DEBUG - [FFMPEG] - nal_unit_type: 1, nal_ref_idc: 1
+Jul 15, 2018 02:13:01.116 [0x7f6b7f6e1800] DEBUG - [FFMPEG] - nal_unit_type: 1, nal_ref_idc: 1
+Jul 15, 2018 02:13:01.116 [0x7f6b7f6e1800] DEBUG - [FFMPEG] - nal_unit_type: 1, nal_ref_idc: 1
+Jul 15, 2018 02:13:01.116 [0x7f6b7f6e1800] DEBUG - [FFMPEG] - nal_unit_type: 1, nal_ref_idc: 1
+Jul 15, 2018 02:13:01.187 [0x7f6b7f6e1800] DEBUG - Loaded memory image of size 1920x800.
+Jul 15, 2018 02:13:01.269 [0x7f6b7f6e1800] DEBUG - Skipped thumbnail for metadata item 7205, media item 15707 for chapter number 1:0
+Jul 15, 2018 02:13:01.281 [0x7f6b7f6e1800] DEBUG - Creating /config/Library/Application Support/Plex Media Server/Media/localhost/a/3ee2e0816372c24a5c572c8cf9fca42ff05179c.bundle/Contents/Chapters/chapter2.jpg (7.3%, 1280x720).
+Jul 15, 2018 02:13:01.281 [0x7f6b7f6e1800] DEBUG - [FFMPEG] - nal_unit_type: 7, nal_ref_idc: 1
+Jul 15, 2018 02:13:01.281 [0x7f6b7f6e1800] DEBUG - [FFMPEG] - nal_unit_type: 8, nal_ref_idc: 1
+Jul 15, 2018 02:13:01.297 [0x7f6b7f6e1800] DEBUG - [FFMPEG] - nal_unit_type: 7, nal_ref_idc: 1
+Jul 15, 2018 02:13:01.297 [0x7f6b7f6e1800] DEBUG - [FFMPEG] - nal_unit_type: 8, nal_ref_idc: 1
+Jul 15, 2018 02:13:01.298 [0x7f6b7f6e1800] DEBUG - [FFMPEG] - nal_unit_type: 6, nal_ref_idc: 0
+Jul 15, 2018 02:13:01.298 [0x7f6b7f6e1800] DEBUG - [FFMPEG] - nal_unit_type: 6, nal_ref_idc: 0
+Jul 15, 2018 02:13:01.298 [0x7f6b7f6e1800] DEBUG - [FFMPEG] - nal_unit_type: 5, nal_ref_idc: 1
+Jul 15, 2018 02:13:01.298 [0x7f6b7f6e1800] DEBUG - [FFMPEG] - nal_unit_type: 5, nal_ref_idc: 1
+Jul 15, 2018 02:13:01.298 [0x7f6b7f6e1800] DEBUG - [FFMPEG] - nal_unit_type: 5, nal_ref_idc: 1
+Jul 15, 2018 02:13:01.298 [0x7f6b7f6e1800] DEBUG - [FFMPEG] - nal_unit_type: 5, nal_ref_idc: 1
+Jul 15, 2018 02:13:01.298 [0x7f6b7f6e1800] DEBUG - [FFMPEG] - nal_unit_type: 5, nal_ref_idc: 1
+Jul 15, 2018 02:13:01.298 [0x7f6b7f6e1800] DEBUG - [FFMPEG] - nal_unit_type: 5, nal_ref_idc: 1
+Jul 15, 2018 02:13:01.298 [0x7f6b7f6e1800] DEBUG - [FFMPEG] - nal_unit_type: 5, nal_ref_idc: 1
+Jul 15, 2018 02:13:01.298 [0x7f6b7f6e1800] DEBUG - [FFMPEG] - nal_unit_type: 5, nal_ref_idc: 1
+Jul 15, 2018 02:13:01.298 [0x7f6b7f6e1800] DEBUG - [FFMPEG] - Format yuv420p chosen by get_format().
+Jul 15, 2018 02:13:01.299 [0x7f6b7f6e1800] DEBUG - [FFMPEG] - no picture 
+Jul 15, 2018 02:13:01.315 [0x7f6b7f6e1800] DEBUG - [FFMPEG] - nal_unit_type: 6, nal_ref_idc: 0
+Jul 15, 2018 02:13:01.315 [0x7f6b7f6e1800] DEBUG - [FFMPEG] - nal_unit_type: 1, nal_ref_idc: 1
+Jul 15, 2018 02:13:01.315 [0x7f6b7f6e1800] DEBUG - [FFMPEG] - nal_unit_type: 1, nal_ref_idc: 1
+Jul 15, 2018 02:13:01.315 [0x7f6b7f6e1800] DEBUG - [FFMPEG] - nal_unit_type: 1, nal_ref_idc: 1
+Jul 15, 2018 02:13:01.315 [0x7f6b7f6e1800] DEBUG - [FFMPEG] - nal_unit_type: 1, nal_ref_idc: 1
+Jul 15, 2018 02:13:01.315 [0x7f6b7f6e1800] DEBUG - [FFMPEG] - nal_unit_type: 1, nal_ref_idc: 1
+Jul 15, 2018 02:13:01.315 [0x7f6b7f6e1800] DEBUG - [FFMPEG] - nal_unit_type: 1, nal_ref_idc: 1
+Jul 15, 2018 02:13:01.315 [0x7f6b7f6e1800] DEBUG - [FFMPEG] - nal_unit_type: 1, nal_ref_idc: 1
+Jul 15, 2018 02:13:01.315 [0x7f6b7f6e1800] DEBUG - [FFMPEG] - nal_unit_type: 1, nal_ref_idc: 1
+Jul 15, 2018 02:13:01.392 [0x7f6b7f6e1800] DEBUG - Loaded memory image of size 1920x800.
+Jul 15, 2018 02:13:01.477 [0x7f6b7f6e1800] DEBUG - Created chapter thumbnail for metadata item 7205, media item 15707 for chapter number 2:470000 at "/config/Library/Application Support/Plex Media Server/Media/localhost/a/3ee2e0816372c24a5c572c8cf9fca42ff05179c.bundle/Contents/Chapters/chapter2.jpg"
+Jul 15, 2018 02:13:01.484 [0x7f6b7f6e1800] DEBUG - Creating /config/Library/Application Support/Plex Media Server/Media/localhost/a/3ee2e0816372c24a5c572c8cf9fca42ff05179c.bundle/Contents/Chapters/chapter3.jpg (13.7%, 1280x720).
+Jul 15, 2018 02:13:01.484 [0x7f6b7f6e1800] DEBUG - [FFMPEG] - nal_unit_type: 7, nal_ref_idc: 1
+Jul 15, 2018 02:13:01.484 [0x7f6b7f6e1800] DEBUG - [FFMPEG] - nal_unit_type: 8, nal_ref_idc: 1
+Jul 15, 2018 02:13:01.514 [0x7f6b7f6e1800] DEBUG - [FFMPEG] - nal_unit_type: 7, nal_ref_idc: 1
+Jul 15, 2018 02:13:01.514 [0x7f6b7f6e1800] DEBUG - [FFMPEG] - nal_unit_type: 8, nal_ref_idc: 1
+Jul 15, 2018 02:13:01.514 [0x7f6b7f6e1800] DEBUG - [FFMPEG] - nal_unit_type: 6, nal_ref_idc: 0
+Jul 15, 2018 02:13:01.514 [0x7f6b7f6e1800] DEBUG - [FFMPEG] - nal_unit_type: 6, nal_ref_idc: 0
+Jul 15, 2018 02:13:01.514 [0x7f6b7f6e1800] DEBUG - [FFMPEG] - nal_unit_type: 5, nal_ref_idc: 1
+Jul 15, 2018 02:13:01.514 [0x7f6b7f6e1800] DEBUG - [FFMPEG] - nal_unit_type: 5, nal_ref_idc: 1
+Jul 15, 2018 02:13:01.514 [0x7f6b7f6e1800] DEBUG - [FFMPEG] - nal_unit_type: 5, nal_ref_idc: 1
+Jul 15, 2018 02:13:01.514 [0x7f6b7f6e1800] DEBUG - [FFMPEG] - nal_unit_type: 5, nal_ref_idc: 1
+Jul 15, 2018 02:13:01.514 [0x7f6b7f6e1800] DEBUG - [FFMPEG] - nal_unit_type: 5, nal_ref_idc: 1
+Jul 15, 2018 02:13:01.514 [0x7f6b7f6e1800] DEBUG - [FFMPEG] - nal_unit_type: 5, nal_ref_idc: 1
+Jul 15, 2018 02:13:01.514 [0x7f6b7f6e1800] DEBUG - [FFMPEG] - nal_unit_type: 5, nal_ref_idc: 1
+Jul 15, 2018 02:13:01.514 [0x7f6b7f6e1800] DEBUG - [FFMPEG] - nal_unit_type: 5, nal_ref_idc: 1
+Jul 15, 2018 02:13:01.514 [0x7f6b7f6e1800] DEBUG - [FFMPEG] - Format yuv420p chosen by get_format().
+Jul 15, 2018 02:13:01.515 [0x7f6b7f6e1800] DEBUG - [FFMPEG] - no picture 
+Jul 15, 2018 02:13:01.532 [0x7f6b7f6e1800] DEBUG - [FFMPEG] - nal_unit_type: 6, nal_ref_idc: 0
+Jul 15, 2018 02:13:01.532 [0x7f6b7f6e1800] DEBUG - [FFMPEG] - nal_unit_type: 1, nal_ref_idc: 1
+Jul 15, 2018 02:13:01.532 [0x7f6b7f6e1800] DEBUG - [FFMPEG] - nal_unit_type: 1, nal_ref_idc: 1
+Jul 15, 2018 02:13:01.532 [0x7f6b7f6e1800] DEBUG - [FFMPEG] - nal_unit_type: 1, nal_ref_idc: 1
+Jul 15, 2018 02:13:01.532 [0x7f6b7f6e1800] DEBUG - [FFMPEG] - nal_unit_type: 1, nal_ref_idc: 1
+Jul 15, 2018 02:13:01.532 [0x7f6b7f6e1800] DEBUG - [FFMPEG] - nal_unit_type: 1, nal_ref_idc: 1
+Jul 15, 2018 02:13:01.532 [0x7f6b7f6e1800] DEBUG - [FFMPEG] - nal_unit_type: 1, nal_ref_idc: 1
+Jul 15, 2018 02:13:01.532 [0x7f6b7f6e1800] DEBUG - [FFMPEG] - nal_unit_type: 1, nal_ref_idc: 1
+Jul 15, 2018 02:13:01.532 [0x7f6b7f6e1800] DEBUG - [FFMPEG] - nal_unit_type: 1, nal_ref_idc: 1
+Jul 15, 2018 02:13:01.612 [0x7f6b7f6e1800] DEBUG - Loaded memory image of size 1920x800.
+Jul 15, 2018 02:13:01.696 [0x7f6b7f6e1800] DEBUG - Created chapter thumbnail for metadata item 7205, media item 15707 for chapter number 3:881000 at "/config/Library/Application Support/Plex Media Server/Media/localhost/a/3ee2e0816372c24a5c572c8cf9fca42ff05179c.bundle/Contents/Chapters/chapter3.jpg"
+Jul 15, 2018 02:13:01.702 [0x7f6b7f6e1800] DEBUG - Creating /config/Library/Application Support/Plex Media Server/Media/localhost/a/3ee2e0816372c24a5c572c8cf9fca42ff05179c.bundle/Contents/Chapters/chapter4.jpg (20.3%, 1280x720).
+Jul 15, 2018 02:13:01.702 [0x7f6b7f6e1800] DEBUG - [FFMPEG] - nal_unit_type: 7, nal_ref_idc: 1
+Jul 15, 2018 02:13:01.702 [0x7f6b7f6e1800] DEBUG - [FFMPEG] - nal_unit_type: 8, nal_ref_idc: 1
+Jul 15, 2018 02:13:01.720 [0x7f6b7f6e1800] DEBUG - [FFMPEG] - nal_unit_type: 7, nal_ref_idc: 1
+Jul 15, 2018 02:13:01.720 [0x7f6b7f6e1800] DEBUG - [FFMPEG] - nal_unit_type: 8, nal_ref_idc: 1
+Jul 15, 2018 02:13:01.721 [0x7f6b7f6e1800] DEBUG - [FFMPEG] - nal_unit_type: 6, nal_ref_idc: 0
+Jul 15, 2018 02:13:01.721 [0x7f6b7f6e1800] DEBUG - [FFMPEG] - nal_unit_type: 6, nal_ref_idc: 0
+Jul 15, 2018 02:13:01.721 [0x7f6b7f6e1800] DEBUG - [FFMPEG] - nal_unit_type: 5, nal_ref_idc: 1
+Jul 15, 2018 02:13:01.721 [0x7f6b7f6e1800] DEBUG - [FFMPEG] - nal_unit_type: 5, nal_ref_idc: 1
+Jul 15, 2018 02:13:01.721 [0x7f6b7f6e1800] DEBUG - [FFMPEG] - nal_unit_type: 5, nal_ref_idc: 1
+Jul 15, 2018 02:13:01.721 [0x7f6b7f6e1800] DEBUG - [FFMPEG] - nal_unit_type: 5, nal_ref_idc: 1
+Jul 15, 2018 02:13:01.721 [0x7f6b7f6e1800] DEBUG - [FFMPEG] - nal_unit_type: 5, nal_ref_idc: 1
+Jul 15, 2018 02:13:01.721 [0x7f6b7f6e1800] DEBUG - [FFMPEG] - nal_unit_type: 5, nal_ref_idc: 1
+Jul 15, 2018 02:13:01.721 [0x7f6b7f6e1800] DEBUG - [FFMPEG] - nal_unit_type: 5, nal_ref_idc: 1
+Jul 15, 2018 02:13:01.721 [0x7f6b7f6e1800] DEBUG - [FFMPEG] - nal_unit_type: 5, nal_ref_idc: 1
+Jul 15, 2018 02:13:01.721 [0x7f6b7f6e1800] DEBUG - [FFMPEG] - Format yuv420p chosen by get_format().
+Jul 15, 2018 02:13:01.722 [0x7f6b7f6e1800] DEBUG - [FFMPEG] - no picture 
+Jul 15, 2018 02:13:01.729 [0x7f6b7f6e1800] DEBUG - [FFMPEG] - nal_unit_type: 6, nal_ref_idc: 0
+Jul 15, 2018 02:13:01.729 [0x7f6b7f6e1800] DEBUG - [FFMPEG] - nal_unit_type: 1, nal_ref_idc: 1
+Jul 15, 2018 02:13:01.729 [0x7f6b7f6e1800] DEBUG - [FFMPEG] - nal_unit_type: 1, nal_ref_idc: 1
+Jul 15, 2018 02:13:01.729 [0x7f6b7f6e1800] DEBUG - [FFMPEG] - nal_unit_type: 1, nal_ref_idc: 1
+Jul 15, 2018 02:13:01.729 [0x7f6b7f6e1800] DEBUG - [FFMPEG] - nal_unit_type: 1, nal_ref_idc: 1
+Jul 15, 2018 02:13:01.729 [0x7f6b7f6e1800] DEBUG - [FFMPEG] - nal_unit_type: 1, nal_ref_idc: 1
+Jul 15, 2018 02:13:01.729 [0x7f6b7f6e1800] DEBUG - [FFMPEG] - nal_unit_type: 1, nal_ref_idc: 1
+Jul 15, 2018 02:13:01.729 [0x7f6b7f6e1800] DEBUG - [FFMPEG] - nal_unit_type: 1, nal_ref_idc: 1
+Jul 15, 2018 02:13:01.729 [0x7f6b7f6e1800] DEBUG - [FFMPEG] - nal_unit_type: 1, nal_ref_idc: 1
+Jul 15, 2018 02:13:01.807 [0x7f6b7f6e1800] DEBUG - Loaded memory image of size 1920x800.
+Jul 15, 2018 02:13:01.888 [0x7f6b7f6e1800] DEBUG - Created chapter thumbnail for metadata item 7205, media item 15707 for chapter number 4:1306000 at "/config/Library/Application Support/Plex Media Server/Media/localhost/a/3ee2e0816372c24a5c572c8cf9fca42ff05179c.bundle/Contents/Chapters/chapter4.jpg"
+Jul 15, 2018 02:13:01.894 [0x7f6b7f6e1800] DEBUG - Creating /config/Library/Application Support/Plex Media Server/Media/localhost/a/3ee2e0816372c24a5c572c8cf9fca42ff05179c.bundle/Contents/Chapters/chapter5.jpg (27.8%, 1280x720).
+Jul 15, 2018 02:13:01.894 [0x7f6b7f6e1800] DEBUG - [FFMPEG] - nal_unit_type: 7, nal_ref_idc: 1
+Jul 15, 2018 02:13:01.894 [0x7f6b7f6e1800] DEBUG - [FFMPEG] - nal_unit_type: 8, nal_ref_idc: 1
+Jul 15, 2018 02:13:01.918 [0x7f6b7f6e1800] DEBUG - [FFMPEG] - nal_unit_type: 7, nal_ref_idc: 1
+Jul 15, 2018 02:13:01.918 [0x7f6b7f6e1800] DEBUG - [FFMPEG] - nal_unit_type: 8, nal_ref_idc: 1
+Jul 15, 2018 02:13:01.918 [0x7f6b7f6e1800] DEBUG - [FFMPEG] - nal_unit_type: 6, nal_ref_idc: 0
+Jul 15, 2018 02:13:01.918 [0x7f6b7f6e1800] DEBUG - [FFMPEG] - nal_unit_type: 6, nal_ref_idc: 0
+Jul 15, 2018 02:13:01.918 [0x7f6b7f6e1800] DEBUG - [FFMPEG] - nal_unit_type: 5, nal_ref_idc: 1
+Jul 15, 2018 02:13:01.919 [0x7f6b7f6e1800] DEBUG - [FFMPEG] - nal_unit_type: 5, nal_ref_idc: 1
+Jul 15, 2018 02:13:01.919 [0x7f6b7f6e1800] DEBUG - [FFMPEG] - nal_unit_type: 5, nal_ref_idc: 1
+Jul 15, 2018 02:13:01.919 [0x7f6b7f6e1800] DEBUG - [FFMPEG] - nal_unit_type: 5, nal_ref_idc: 1
+Jul 15, 2018 02:13:01.919 [0x7f6b7f6e1800] DEBUG - [FFMPEG] - nal_unit_type: 5, nal_ref_idc: 1
+Jul 15, 2018 02:13:01.919 [0x7f6b7f6e1800] DEBUG - [FFMPEG] - nal_unit_type: 5, nal_ref_idc: 1
+Jul 15, 2018 02:13:01.919 [0x7f6b7f6e1800] DEBUG - [FFMPEG] - nal_unit_type: 5, nal_ref_idc: 1
+Jul 15, 2018 02:13:01.919 [0x7f6b7f6e1800] DEBUG - [FFMPEG] - nal_unit_type: 5, nal_ref_idc: 1
+Jul 15, 2018 02:13:01.919 [0x7f6b7f6e1800] DEBUG - [FFMPEG] - Format yuv420p chosen by get_format().
+Jul 15, 2018 02:13:01.919 [0x7f6b7f6e1800] DEBUG - [FFMPEG] - no picture 
+Jul 15, 2018 02:13:01.933 [0x7f6b7f6e1800] DEBUG - [FFMPEG] - nal_unit_type: 6, nal_ref_idc: 0
+Jul 15, 2018 02:13:01.933 [0x7f6b7f6e1800] DEBUG - [FFMPEG] - nal_unit_type: 1, nal_ref_idc: 1
+Jul 15, 2018 02:13:01.933 [0x7f6b7f6e1800] DEBUG - [FFMPEG] - nal_unit_type: 1, nal_ref_idc: 1
+Jul 15, 2018 02:13:01.933 [0x7f6b7f6e1800] DEBUG - [FFMPEG] - nal_unit_type: 1, nal_ref_idc: 1
+Jul 15, 2018 02:13:01.933 [0x7f6b7f6e1800] DEBUG - [FFMPEG] - nal_unit_type: 1, nal_ref_idc: 1
+Jul 15, 2018 02:13:01.933 [0x7f6b7f6e1800] DEBUG - [FFMPEG] - nal_unit_type: 1, nal_ref_idc: 1
+Jul 15, 2018 02:13:01.933 [0x7f6b7f6e1800] DEBUG - [FFMPEG] - nal_unit_type: 1, nal_ref_idc: 1
+Jul 15, 2018 02:13:01.933 [0x7f6b7f6e1800] DEBUG - [FFMPEG] - nal_unit_type: 1, nal_ref_idc: 1
+Jul 15, 2018 02:13:01.933 [0x7f6b7f6e1800] DEBUG - [FFMPEG] - nal_unit_type: 1, nal_ref_idc: 1
+Jul 15, 2018 02:13:02.009 [0x7f6b7f6e1800] DEBUG - Loaded memory image of size 1920x800.
+Jul 15, 2018 02:13:02.092 [0x7f6b7f6e1800] DEBUG - Created chapter thumbnail for metadata item 7205, media item 15707 for chapter number 5:1789000 at "/config/Library/Application Support/Plex Media Server/Media/localhost/a/3ee2e0816372c24a5c572c8cf9fca42ff05179c.bundle/Contents/Chapters/chapter5.jpg"
+Jul 15, 2018 02:13:02.098 [0x7f6b7f6e1800] DEBUG - Creating /config/Library/Application Support/Plex Media Server/Media/localhost/a/3ee2e0816372c24a5c572c8cf9fca42ff05179c.bundle/Contents/Chapters/chapter6.jpg (38.1%, 1280x720).
+Jul 15, 2018 02:13:02.098 [0x7f6b7f6e1800] DEBUG - [FFMPEG] - nal_unit_type: 7, nal_ref_idc: 1
+Jul 15, 2018 02:13:02.098 [0x7f6b7f6e1800] DEBUG - [FFMPEG] - nal_unit_type: 8, nal_ref_idc: 1
+Jul 15, 2018 02:13:02.118 [0x7f6b7f6e1800] DEBUG - [FFMPEG] - nal_unit_type: 7, nal_ref_idc: 1
+Jul 15, 2018 02:13:02.118 [0x7f6b7f6e1800] DEBUG - [FFMPEG] - nal_unit_type: 8, nal_ref_idc: 1
+Jul 15, 2018 02:13:02.118 [0x7f6b7f6e1800] DEBUG - [FFMPEG] - nal_unit_type: 6, nal_ref_idc: 0
+Jul 15, 2018 02:13:02.118 [0x7f6b7f6e1800] DEBUG - [FFMPEG] - nal_unit_type: 6, nal_ref_idc: 0
+Jul 15, 2018 02:13:02.118 [0x7f6b7f6e1800] DEBUG - [FFMPEG] - nal_unit_type: 5, nal_ref_idc: 1
+Jul 15, 2018 02:13:02.118 [0x7f6b7f6e1800] DEBUG - [FFMPEG] - nal_unit_type: 5, nal_ref_idc: 1
+Jul 15, 2018 02:13:02.118 [0x7f6b7f6e1800] DEBUG - [FFMPEG] - nal_unit_type: 5, nal_ref_idc: 1
+Jul 15, 2018 02:13:02.118 [0x7f6b7f6e1800] DEBUG - [FFMPEG] - nal_unit_type: 5, nal_ref_idc: 1
+Jul 15, 2018 02:13:02.118 [0x7f6b7f6e1800] DEBUG - [FFMPEG] - nal_unit_type: 5, nal_ref_idc: 1
+Jul 15, 2018 02:13:02.118 [0x7f6b7f6e1800] DEBUG - [FFMPEG] - nal_unit_type: 5, nal_ref_idc: 1
+Jul 15, 2018 02:13:02.118 [0x7f6b7f6e1800] DEBUG - [FFMPEG] - nal_unit_type: 5, nal_ref_idc: 1
+Jul 15, 2018 02:13:02.118 [0x7f6b7f6e1800] DEBUG - [FFMPEG] - nal_unit_type: 5, nal_ref_idc: 1
+Jul 15, 2018 02:13:02.118 [0x7f6b7f6e1800] DEBUG - [FFMPEG] - Format yuv420p chosen by get_format().
+Jul 15, 2018 02:13:02.119 [0x7f6b7f6e1800] DEBUG - [FFMPEG] - no picture 
+Jul 15, 2018 02:13:02.138 [0x7f6b7f6e1800] DEBUG - [FFMPEG] - nal_unit_type: 6, nal_ref_idc: 0
+Jul 15, 2018 02:13:02.139 [0x7f6b7f6e1800] DEBUG - [FFMPEG] - nal_unit_type: 1, nal_ref_idc: 1
+Jul 15, 2018 02:13:02.139 [0x7f6b7f6e1800] DEBUG - [FFMPEG] - nal_unit_type: 1, nal_ref_idc: 1
+Jul 15, 2018 02:13:02.139 [0x7f6b7f6e1800] DEBUG - [FFMPEG] - nal_unit_type: 1, nal_ref_idc: 1
+Jul 15, 2018 02:13:02.139 [0x7f6b7f6e1800] DEBUG - [FFMPEG] - nal_unit_type: 1, nal_ref_idc: 1
+Jul 15, 2018 02:13:02.139 [0x7f6b7f6e1800] DEBUG - [FFMPEG] - nal_unit_type: 1, nal_ref_idc: 1
+Jul 15, 2018 02:13:02.139 [0x7f6b7f6e1800] DEBUG - [FFMPEG] - nal_unit_type: 1, nal_ref_idc: 1
+Jul 15, 2018 02:13:02.139 [0x7f6b7f6e1800] DEBUG - [FFMPEG] - nal_unit_type: 1, nal_ref_idc: 1
+Jul 15, 2018 02:13:02.139 [0x7f6b7f6e1800] DEBUG - [FFMPEG] - nal_unit_type: 1, nal_ref_idc: 1
+Jul 15, 2018 02:13:02.236 [0x7f6b7f6e1800] DEBUG - Loaded memory image of size 1920x800.
+Jul 15, 2018 02:13:02.318 [0x7f6b7f6e1800] DEBUG - Created chapter thumbnail for metadata item 7205, media item 15707 for chapter number 6:2448000 at "/config/Library/Application Support/Plex Media Server/Media/localhost/a/3ee2e0816372c24a5c572c8cf9fca42ff05179c.bundle/Contents/Chapters/chapter6.jpg"
+Jul 15, 2018 02:13:02.324 [0x7f6b7f6e1800] DEBUG - Creating /config/Library/Application Support/Plex Media Server/Media/localhost/a/3ee2e0816372c24a5c572c8cf9fca42ff05179c.bundle/Contents/Chapters/chapter7.jpg (43.1%, 1280x720).
+Jul 15, 2018 02:13:02.324 [0x7f6b7f6e1800] DEBUG - [FFMPEG] - nal_unit_type: 7, nal_ref_idc: 1
+Jul 15, 2018 02:13:02.324 [0x7f6b7f6e1800] DEBUG - [FFMPEG] - nal_unit_type: 8, nal_ref_idc: 1
+Jul 15, 2018 02:13:02.343 [0x7f6b7f6e1800] DEBUG - [FFMPEG] - nal_unit_type: 7, nal_ref_idc: 1
+Jul 15, 2018 02:13:02.343 [0x7f6b7f6e1800] DEBUG - [FFMPEG] - nal_unit_type: 8, nal_ref_idc: 1
+Jul 15, 2018 02:13:02.343 [0x7f6b7f6e1800] DEBUG - [FFMPEG] - nal_unit_type: 6, nal_ref_idc: 0
+Jul 15, 2018 02:13:02.343 [0x7f6b7f6e1800] DEBUG - [FFMPEG] - nal_unit_type: 6, nal_ref_idc: 0
+Jul 15, 2018 02:13:02.343 [0x7f6b7f6e1800] DEBUG - [FFMPEG] - nal_unit_type: 5, nal_ref_idc: 1
+Jul 15, 2018 02:13:02.343 [0x7f6b7f6e1800] DEBUG - [FFMPEG] - nal_unit_type: 5, nal_ref_idc: 1
+Jul 15, 2018 02:13:02.343 [0x7f6b7f6e1800] DEBUG - [FFMPEG] - nal_unit_type: 5, nal_ref_idc: 1
+Jul 15, 2018 02:13:02.343 [0x7f6b7f6e1800] DEBUG - [FFMPEG] - nal_unit_type: 5, nal_ref_idc: 1
+Jul 15, 2018 02:13:02.343 [0x7f6b7f6e1800] DEBUG - [FFMPEG] - nal_unit_type: 5, nal_ref_idc: 1
+Jul 15, 2018 02:13:02.343 [0x7f6b7f6e1800] DEBUG - [FFMPEG] - nal_unit_type: 5, nal_ref_idc: 1
+Jul 15, 2018 02:13:02.343 [0x7f6b7f6e1800] DEBUG - [FFMPEG] - nal_unit_type: 5, nal_ref_idc: 1
+Jul 15, 2018 02:13:02.343 [0x7f6b7f6e1800] DEBUG - [FFMPEG] - nal_unit_type: 5, nal_ref_idc: 1
+Jul 15, 2018 02:13:02.343 [0x7f6b7f6e1800] DEBUG - [FFMPEG] - Format yuv420p chosen by get_format().
+Jul 15, 2018 02:13:02.344 [0x7f6b7f6e1800] DEBUG - [FFMPEG] - no picture 
+Jul 15, 2018 02:13:02.355 [0x7f6b7f6e1800] DEBUG - [FFMPEG] - nal_unit_type: 6, nal_ref_idc: 0
+Jul 15, 2018 02:13:02.355 [0x7f6b7f6e1800] DEBUG - [FFMPEG] - nal_unit_type: 1, nal_ref_idc: 1
+Jul 15, 2018 02:13:02.355 [0x7f6b7f6e1800] DEBUG - [FFMPEG] - nal_unit_type: 1, nal_ref_idc: 1
+Jul 15, 2018 02:13:02.355 [0x7f6b7f6e1800] DEBUG - [FFMPEG] - nal_unit_type: 1, nal_ref_idc: 1
+Jul 15, 2018 02:13:02.355 [0x7f6b7f6e1800] DEBUG - [FFMPEG] - nal_unit_type: 1, nal_ref_idc: 1
+Jul 15, 2018 02:13:02.355 [0x7f6b7f6e1800] DEBUG - [FFMPEG] - nal_unit_type: 1, nal_ref_idc: 1
+Jul 15, 2018 02:13:02.355 [0x7f6b7f6e1800] DEBUG - [FFMPEG] - nal_unit_type: 1, nal_ref_idc: 1
+Jul 15, 2018 02:13:02.355 [0x7f6b7f6e1800] DEBUG - [FFMPEG] - nal_unit_type: 1, nal_ref_idc: 1
+Jul 15, 2018 02:13:02.355 [0x7f6b7f6e1800] DEBUG - [FFMPEG] - nal_unit_type: 1, nal_ref_idc: 1
+Jul 15, 2018 02:13:02.432 [0x7f6b7f6e1800] DEBUG - Loaded memory image of size 1920x800.
+Jul 15, 2018 02:13:02.515 [0x7f6b7f6e1800] DEBUG - Created chapter thumbnail for metadata item 7205, media item 15707 for chapter number 7:2774000 at "/config/Library/Application Support/Plex Media Server/Media/localhost/a/3ee2e0816372c24a5c572c8cf9fca42ff05179c.bundle/Contents/Chapters/chapter7.jpg"
+Jul 15, 2018 02:13:02.522 [0x7f6b7f6e1800] DEBUG - Creating /config/Library/Application Support/Plex Media Server/Media/localhost/a/3ee2e0816372c24a5c572c8cf9fca42ff05179c.bundle/Contents/Chapters/chapter8.jpg (50.9%, 1280x720).
+Jul 15, 2018 02:13:02.522 [0x7f6b7f6e1800] DEBUG - [FFMPEG] - nal_unit_type: 7, nal_ref_idc: 1
+Jul 15, 2018 02:13:02.522 [0x7f6b7f6e1800] DEBUG - [FFMPEG] - nal_unit_type: 8, nal_ref_idc: 1
+Jul 15, 2018 02:13:02.544 [0x7f6b7f6e1800] DEBUG - [FFMPEG] - nal_unit_type: 7, nal_ref_idc: 1
+Jul 15, 2018 02:13:02.544 [0x7f6b7f6e1800] DEBUG - [FFMPEG] - nal_unit_type: 8, nal_ref_idc: 1
+Jul 15, 2018 02:13:02.545 [0x7f6b7f6e1800] DEBUG - [FFMPEG] - nal_unit_type: 6, nal_ref_idc: 0
+Jul 15, 2018 02:13:02.545 [0x7f6b7f6e1800] DEBUG - [FFMPEG] - nal_unit_type: 6, nal_ref_idc: 0
+Jul 15, 2018 02:13:02.546 [0x7f6b7f6e1800] DEBUG - [FFMPEG] - nal_unit_type: 5, nal_ref_idc: 1
+Jul 15, 2018 02:13:02.546 [0x7f6b7f6e1800] DEBUG - [FFMPEG] - nal_unit_type: 5, nal_ref_idc: 1
+Jul 15, 2018 02:13:02.546 [0x7f6b7f6e1800] DEBUG - [FFMPEG] - nal_unit_type: 5, nal_ref_idc: 1
+Jul 15, 2018 02:13:02.546 [0x7f6b7f6e1800] DEBUG - [FFMPEG] - nal_unit_type: 5, nal_ref_idc: 1
+Jul 15, 2018 02:13:02.546 [0x7f6b7f6e1800] DEBUG - [FFMPEG] - nal_unit_type: 5, nal_ref_idc: 1
+Jul 15, 2018 02:13:02.546 [0x7f6b7f6e1800] DEBUG - [FFMPEG] - nal_unit_type: 5, nal_ref_idc: 1
+Jul 15, 2018 02:13:02.546 [0x7f6b7f6e1800] DEBUG - [FFMPEG] - nal_unit_type: 5, nal_ref_idc: 1
+Jul 15, 2018 02:13:02.546 [0x7f6b7f6e1800] DEBUG - [FFMPEG] - nal_unit_type: 5, nal_ref_idc: 1
+Jul 15, 2018 02:13:02.546 [0x7f6b7f6e1800] DEBUG - [FFMPEG] - Format yuv420p chosen by get_format().
+Jul 15, 2018 02:13:02.550 [0x7f6b7f6e1800] DEBUG - [FFMPEG] - no picture 
+Jul 15, 2018 02:13:02.592 [0x7f6b7f6e1800] DEBUG - [FFMPEG] - nal_unit_type: 6, nal_ref_idc: 0
+Jul 15, 2018 02:13:02.592 [0x7f6b7f6e1800] DEBUG - [FFMPEG] - nal_unit_type: 1, nal_ref_idc: 1
+Jul 15, 2018 02:13:02.592 [0x7f6b7f6e1800] DEBUG - [FFMPEG] - nal_unit_type: 1, nal_ref_idc: 1
+Jul 15, 2018 02:13:02.592 [0x7f6b7f6e1800] DEBUG - [FFMPEG] - nal_unit_type: 1, nal_ref_idc: 1
+Jul 15, 2018 02:13:02.592 [0x7f6b7f6e1800] DEBUG - [FFMPEG] - nal_unit_type: 1, nal_ref_idc: 1
+Jul 15, 2018 02:13:02.592 [0x7f6b7f6e1800] DEBUG - [FFMPEG] - nal_unit_type: 1, nal_ref_idc: 1
+Jul 15, 2018 02:13:02.592 [0x7f6b7f6e1800] DEBUG - [FFMPEG] - nal_unit_type: 1, nal_ref_idc: 1
+Jul 15, 2018 02:13:02.592 [0x7f6b7f6e1800] DEBUG - [FFMPEG] - nal_unit_type: 1, nal_ref_idc: 1
+Jul 15, 2018 02:13:02.592 [0x7f6b7f6e1800] DEBUG - [FFMPEG] - nal_unit_type: 1, nal_ref_idc: 1
+Jul 15, 2018 02:13:02.676 [0x7f6b7f6e1800] DEBUG - Loaded memory image of size 1920x800.
+Jul 15, 2018 02:13:02.760 [0x7f6b7f6e1800] DEBUG - Created chapter thumbnail for metadata item 7205, media item 15707 for chapter number 8:3276000 at "/config/Library/Application Support/Plex Media Server/Media/localhost/a/3ee2e0816372c24a5c572c8cf9fca42ff05179c.bundle/Contents/Chapters/chapter8.jpg"
+Jul 15, 2018 02:13:02.766 [0x7f6b7f6e1800] DEBUG - Creating /config/Library/Application Support/Plex Media Server/Media/localhost/a/3ee2e0816372c24a5c572c8cf9fca42ff05179c.bundle/Contents/Chapters/chapter9.jpg (56.7%, 1280x720).
+Jul 15, 2018 02:13:02.766 [0x7f6b7f6e1800] DEBUG - [FFMPEG] - nal_unit_type: 7, nal_ref_idc: 1
+Jul 15, 2018 02:13:02.766 [0x7f6b7f6e1800] DEBUG - [FFMPEG] - nal_unit_type: 8, nal_ref_idc: 1
+Jul 15, 2018 02:13:02.780 [0x7f6b7f6e1800] ERROR - [FFMPEG] - Read error at pos. 2235473530 (0x853e9e7a)
+Jul 15, 2018 02:13:03.034 [0x7f6b7f6e1800] DEBUG - [FFMPEG] - nal_unit_type: 7, nal_ref_idc: 1
+Jul 15, 2018 02:13:03.034 [0x7f6b7f6e1800] DEBUG - [FFMPEG] - nal_unit_type: 8, nal_ref_idc: 1
+Jul 15, 2018 02:13:03.034 [0x7f6b7f6e1800] DEBUG - [FFMPEG] - nal_unit_type: 6, nal_ref_idc: 0
+Jul 15, 2018 02:13:03.034 [0x7f6b7f6e1800] DEBUG - [FFMPEG] - nal_unit_type: 1, nal_ref_idc: 0
+Jul 15, 2018 02:13:03.034 [0x7f6b7f6e1800] DEBUG - [FFMPEG] - nal_unit_type: 1, nal_ref_idc: 0
+Jul 15, 2018 02:13:03.034 [0x7f6b7f6e1800] DEBUG - [FFMPEG] - nal_unit_type: 1, nal_ref_idc: 0
+Jul 15, 2018 02:13:03.034 [0x7f6b7f6e1800] DEBUG - [FFMPEG] - nal_unit_type: 1, nal_ref_idc: 0
+Jul 15, 2018 02:13:03.034 [0x7f6b7f6e1800] DEBUG - [FFMPEG] - nal_unit_type: 1, nal_ref_idc: 0
+Jul 15, 2018 02:13:03.034 [0x7f6b7f6e1800] DEBUG - [FFMPEG] - nal_unit_type: 1, nal_ref_idc: 0
+Jul 15, 2018 02:13:03.034 [0x7f6b7f6e1800] DEBUG - [FFMPEG] - nal_unit_type: 1, nal_ref_idc: 0
+Jul 15, 2018 02:13:03.034 [0x7f6b7f6e1800] DEBUG - [FFMPEG] - nal_unit_type: 1, nal_ref_idc: 0
+Jul 15, 2018 02:13:03.034 [0x7f6b7f6e1800] DEBUG - [FFMPEG] - Format yuv420p chosen by get_format().
+Jul 15, 2018 02:13:03.035 [0x7f6b7f6e1800] DEBUG - [FFMPEG] - Frame num gap 11 5
+Jul 15, 2018 02:13:03.035 [0x7f6b7f6e1800] DEBUG - [FFMPEG] - Frame num gap 11 6
+Jul 15, 2018 02:13:03.036 [0x7f6b7f6e1800] DEBUG - [FFMPEG] - Frame num gap 11 7
+Jul 15, 2018 02:13:03.037 [0x7f6b7f6e1800] DEBUG - [FFMPEG] - Frame num gap 11 8
+Jul 15, 2018 02:13:03.038 [0x7f6b7f6e1800] DEBUG - [FFMPEG] - Frame num gap 11 9
+Jul 15, 2018 02:13:03.041 [0x7f6b7f6e1800] DEBUG - [FFMPEG] - no picture 
+Jul 15, 2018 02:13:03.041 [0x7f6b7f6e1800] ERROR - [FFMPEG] - co located POCs unavailable
+Jul 15, 2018 02:13:03.041 [0x7f6b7f6e1800] ERROR - [FFMPEG] - co located POCs unavailable
+Jul 15, 2018 02:13:03.042 [0x7f6b7f6e1800] ERROR - [FFMPEG] - co located POCs unavailable
+Jul 15, 2018 02:13:03.042 [0x7f6b7f6e1800] ERROR - [FFMPEG] - co located POCs unavailable
+Jul 15, 2018 02:13:03.043 [0x7f6b7f6e1800] ERROR - [FFMPEG] - co located POCs unavailable
+Jul 15, 2018 02:13:03.043 [0x7f6b7f6e1800] ERROR - [FFMPEG] - co located POCs unavailable
+Jul 15, 2018 02:13:03.044 [0x7f6b7f6e1800] ERROR - [FFMPEG] - co located POCs unavailable
+Jul 15, 2018 02:13:03.044 [0x7f6b7f6e1800] ERROR - [FFMPEG] - co located POCs unavailable
+Jul 15, 2018 02:13:03.045 [0x7f6b7f6e1800] DEBUG - [FFMPEG] - nal_unit_type: 6, nal_ref_idc: 0
+Jul 15, 2018 02:13:03.045 [0x7f6b7f6e1800] DEBUG - [FFMPEG] - nal_unit_type: 1, nal_ref_idc: 1
+Jul 15, 2018 02:13:03.045 [0x7f6b7f6e1800] DEBUG - [FFMPEG] - nal_unit_type: 1, nal_ref_idc: 1
+Jul 15, 2018 02:13:03.045 [0x7f6b7f6e1800] DEBUG - [FFMPEG] - nal_unit_type: 1, nal_ref_idc: 1
+Jul 15, 2018 02:13:03.045 [0x7f6b7f6e1800] DEBUG - [FFMPEG] - nal_unit_type: 1, nal_ref_idc: 1
+Jul 15, 2018 02:13:03.045 [0x7f6b7f6e1800] DEBUG - [FFMPEG] - nal_unit_type: 1, nal_ref_idc: 1
+Jul 15, 2018 02:13:03.045 [0x7f6b7f6e1800] DEBUG - [FFMPEG] - nal_unit_type: 1, nal_ref_idc: 1
+Jul 15, 2018 02:13:03.045 [0x7f6b7f6e1800] DEBUG - [FFMPEG] - nal_unit_type: 1, nal_ref_idc: 1
+Jul 15, 2018 02:13:03.045 [0x7f6b7f6e1800] DEBUG - [FFMPEG] - nal_unit_type: 1, nal_ref_idc: 1
+Jul 15, 2018 02:13:03.051 [0x7f6b7f6e1800] DEBUG - [FFMPEG] - nal_unit_type: 6, nal_ref_idc: 0
+Jul 15, 2018 02:13:03.051 [0x7f6b7f6e1800] DEBUG - [FFMPEG] - nal_unit_type: 1, nal_ref_idc: 0
+Jul 15, 2018 02:13:03.051 [0x7f6b7f6e1800] DEBUG - [FFMPEG] - nal_unit_type: 1, nal_ref_idc: 0
+Jul 15, 2018 02:13:03.051 [0x7f6b7f6e1800] DEBUG - [FFMPEG] - nal_unit_type: 1, nal_ref_idc: 0
+Jul 15, 2018 02:13:03.051 [0x7f6b7f6e1800] DEBUG - [FFMPEG] - nal_unit_type: 1, nal_ref_idc: 0
+Jul 15, 2018 02:13:03.051 [0x7f6b7f6e1800] DEBUG - [FFMPEG] - nal_unit_type: 1, nal_ref_idc: 0
+Jul 15, 2018 02:13:03.051 [0x7f6b7f6e1800] DEBUG - [FFMPEG] - nal_unit_type: 1, nal_ref_idc: 0
+Jul 15, 2018 02:13:03.051 [0x7f6b7f6e1800] DEBUG - [FFMPEG] - nal_unit_type: 1, nal_ref_idc: 0
+Jul 15, 2018 02:13:03.051 [0x7f6b7f6e1800] DEBUG - [FFMPEG] - nal_unit_type: 1, nal_ref_idc: 0
+Jul 15, 2018 02:13:03.056 [0x7f6b7f6e1800] DEBUG - [FFMPEG] - nal_unit_type: 6, nal_ref_idc: 0
+Jul 15, 2018 02:13:03.056 [0x7f6b7f6e1800] DEBUG - [FFMPEG] - nal_unit_type: 1, nal_ref_idc: 1
+Jul 15, 2018 02:13:03.056 [0x7f6b7f6e1800] DEBUG - [FFMPEG] - nal_unit_type: 1, nal_ref_idc: 1
+Jul 15, 2018 02:13:03.056 [0x7f6b7f6e1800] DEBUG - [FFMPEG] - nal_unit_type: 1, nal_ref_idc: 1
+Jul 15, 2018 02:13:03.056 [0x7f6b7f6e1800] DEBUG - [FFMPEG] - nal_unit_type: 1, nal_ref_idc: 1
+Jul 15, 2018 02:13:03.056 [0x7f6b7f6e1800] DEBUG - [FFMPEG] - nal_unit_type: 1, nal_ref_idc: 1
+Jul 15, 2018 02:13:03.056 [0x7f6b7f6e1800] DEBUG - [FFMPEG] - nal_unit_type: 1, nal_ref_idc: 1
+Jul 15, 2018 02:13:03.056 [0x7f6b7f6e1800] DEBUG - [FFMPEG] - nal_unit_type: 1, nal_ref_idc: 1
+Jul 15, 2018 02:13:03.056 [0x7f6b7f6e1800] DEBUG - [FFMPEG] - nal_unit_type: 1, nal_ref_idc: 1
+Jul 15, 2018 02:13:03.062 [0x7f6b7f6e1800] DEBUG - [FFMPEG] - nal_unit_type: 6, nal_ref_idc: 0
+Jul 15, 2018 02:13:03.062 [0x7f6b7f6e1800] DEBUG - [FFMPEG] - nal_unit_type: 1, nal_ref_idc: 0
+Jul 15, 2018 02:13:03.062 [0x7f6b7f6e1800] DEBUG - [FFMPEG] - nal_unit_type: 1, nal_ref_idc: 0
+Jul 15, 2018 02:13:03.062 [0x7f6b7f6e1800] DEBUG - [FFMPEG] - nal_unit_type: 1, nal_ref_idc: 0
+Jul 15, 2018 02:13:03.062 [0x7f6b7f6e1800] DEBUG - [FFMPEG] - nal_unit_type: 1, nal_ref_idc: 0
+Jul 15, 2018 02:13:03.062 [0x7f6b7f6e1800] DEBUG - [FFMPEG] - nal_unit_type: 1, nal_ref_idc: 0
+Jul 15, 2018 02:13:03.062 [0x7f6b7f6e1800] DEBUG - [FFMPEG] - nal_unit_type: 1, nal_ref_idc: 0
+Jul 15, 2018 02:13:03.062 [0x7f6b7f6e1800] DEBUG - [FFMPEG] - nal_unit_type: 1, nal_ref_idc: 0
+Jul 15, 2018 02:13:03.062 [0x7f6b7f6e1800] DEBUG - [FFMPEG] - nal_unit_type: 1, nal_ref_idc: 0
+Jul 15, 2018 02:13:03.066 [0x7f6b7f6e1800] DEBUG - [FFMPEG] - nal_unit_type: 6, nal_ref_idc: 0
+Jul 15, 2018 02:13:03.066 [0x7f6b7f6e1800] DEBUG - [FFMPEG] - nal_unit_type: 6, nal_ref_idc: 0
+Jul 15, 2018 02:13:03.066 [0x7f6b7f6e1800] DEBUG - [FFMPEG] - nal_unit_type: 5, nal_ref_idc: 1
+Jul 15, 2018 02:13:03.066 [0x7f6b7f6e1800] DEBUG - [FFMPEG] - nal_unit_type: 5, nal_ref_idc: 1
+Jul 15, 2018 02:13:03.066 [0x7f6b7f6e1800] DEBUG - [FFMPEG] - nal_unit_type: 5, nal_ref_idc: 1
+Jul 15, 2018 02:13:03.066 [0x7f6b7f6e1800] DEBUG - [FFMPEG] - nal_unit_type: 5, nal_ref_idc: 1
+Jul 15, 2018 02:13:03.067 [0x7f6b7f6e1800] DEBUG - [FFMPEG] - nal_unit_type: 5, nal_ref_idc: 1
+Jul 15, 2018 02:13:03.067 [0x7f6b7f6e1800] DEBUG - [FFMPEG] - nal_unit_type: 5, nal_ref_idc: 1
+Jul 15, 2018 02:13:03.067 [0x7f6b7f6e1800] DEBUG - [FFMPEG] - nal_unit_type: 5, nal_ref_idc: 1
+Jul 15, 2018 02:13:03.067 [0x7f6b7f6e1800] DEBUG - [FFMPEG] - nal_unit_type: 5, nal_ref_idc: 1
+Jul 15, 2018 02:13:03.077 [0x7f6b7f6e1800] DEBUG - [FFMPEG] - nal_unit_type: 6, nal_ref_idc: 0
+Jul 15, 2018 02:13:03.077 [0x7f6b7f6e1800] DEBUG - [FFMPEG] - nal_unit_type: 1, nal_ref_idc: 1
+Jul 15, 2018 02:13:03.077 [0x7f6b7f6e1800] DEBUG - [FFMPEG] - nal_unit_type: 1, nal_ref_idc: 1
+Jul 15, 2018 02:13:03.077 [0x7f6b7f6e1800] DEBUG - [FFMPEG] - nal_unit_type: 1, nal_ref_idc: 1
+Jul 15, 2018 02:13:03.077 [0x7f6b7f6e1800] DEBUG - [FFMPEG] - nal_unit_type: 1, nal_ref_idc: 1
+Jul 15, 2018 02:13:03.077 [0x7f6b7f6e1800] DEBUG - [FFMPEG] - nal_unit_type: 1, nal_ref_idc: 1
+Jul 15, 2018 02:13:03.077 [0x7f6b7f6e1800] DEBUG - [FFMPEG] - nal_unit_type: 1, nal_ref_idc: 1
+Jul 15, 2018 02:13:03.077 [0x7f6b7f6e1800] DEBUG - [FFMPEG] - nal_unit_type: 1, nal_ref_idc: 1
+Jul 15, 2018 02:13:03.077 [0x7f6b7f6e1800] DEBUG - [FFMPEG] - nal_unit_type: 1, nal_ref_idc: 1
+Jul 15, 2018 02:13:03.150 [0x7f6b7f6e1800] DEBUG - Loaded memory image of size 1920x800.
+Jul 15, 2018 02:13:03.233 [0x7f6b7f6e1800] DEBUG - [FFMPEG] - nal_unit_type: 7, nal_ref_idc: 1
+Jul 15, 2018 02:13:03.233 [0x7f6b7f6e1800] DEBUG - [FFMPEG] - nal_unit_type: 8, nal_ref_idc: 1
+Jul 15, 2018 02:13:03.233 [0x7f6b7f6e1800] ERROR - [FFMPEG] - Read error at pos. 2235473530 (0x853e9e7a)
+Jul 15, 2018 02:13:03.333 [0x7f6b7f6e1800] DEBUG - [FFMPEG] - nal_unit_type: 7, nal_ref_idc: 1
+Jul 15, 2018 02:13:03.333 [0x7f6b7f6e1800] DEBUG - [FFMPEG] - nal_unit_type: 8, nal_ref_idc: 1
+Jul 15, 2018 02:13:03.333 [0x7f6b7f6e1800] DEBUG - [FFMPEG] - nal_unit_type: 6, nal_ref_idc: 0
+Jul 15, 2018 02:13:03.334 [0x7f6b7f6e1800] DEBUG - [FFMPEG] - nal_unit_type: 1, nal_ref_idc: 0
+Jul 15, 2018 02:13:03.334 [0x7f6b7f6e1800] DEBUG - [FFMPEG] - nal_unit_type: 1, nal_ref_idc: 0
+Jul 15, 2018 02:13:03.334 [0x7f6b7f6e1800] DEBUG - [FFMPEG] - nal_unit_type: 1, nal_ref_idc: 0
+Jul 15, 2018 02:13:03.334 [0x7f6b7f6e1800] DEBUG - [FFMPEG] - nal_unit_type: 1, nal_ref_idc: 0
+Jul 15, 2018 02:13:03.334 [0x7f6b7f6e1800] DEBUG - [FFMPEG] - nal_unit_type: 1, nal_ref_idc: 0
+Jul 15, 2018 02:13:03.334 [0x7f6b7f6e1800] DEBUG - [FFMPEG] - nal_unit_type: 1, nal_ref_idc: 0
+Jul 15, 2018 02:13:03.334 [0x7f6b7f6e1800] DEBUG - [FFMPEG] - nal_unit_type: 1, nal_ref_idc: 0
+Jul 15, 2018 02:13:03.334 [0x7f6b7f6e1800] DEBUG - [FFMPEG] - nal_unit_type: 1, nal_ref_idc: 0
+Jul 15, 2018 02:13:03.334 [0x7f6b7f6e1800] DEBUG - [FFMPEG] - Format yuv420p chosen by get_format().
+Jul 15, 2018 02:13:03.334 [0x7f6b7f6e1800] DEBUG - [FFMPEG] - Frame num gap 11 5
+Jul 15, 2018 02:13:03.335 [0x7f6b7f6e1800] DEBUG - [FFMPEG] - Frame num gap 11 6
+Jul 15, 2018 02:13:03.336 [0x7f6b7f6e1800] DEBUG - [FFMPEG] - Frame num gap 11 7
+Jul 15, 2018 02:13:03.337 [0x7f6b7f6e1800] DEBUG - [FFMPEG] - Frame num gap 11 8
+Jul 15, 2018 02:13:03.338 [0x7f6b7f6e1800] DEBUG - [FFMPEG] - Frame num gap 11 9
+Jul 15, 2018 02:13:03.340 [0x7f6b7f6e1800] DEBUG - [FFMPEG] - no picture 
+Jul 15, 2018 02:13:03.340 [0x7f6b7f6e1800] ERROR - [FFMPEG] - co located POCs unavailable
+Jul 15, 2018 02:13:03.341 [0x7f6b7f6e1800] ERROR - [FFMPEG] - co located POCs unavailable
+Jul 15, 2018 02:13:03.341 [0x7f6b7f6e1800] ERROR - [FFMPEG] - co located POCs unavailable
+Jul 15, 2018 02:13:03.342 [0x7f6b7f6e1800] ERROR - [FFMPEG] - co located POCs unavailable
+Jul 15, 2018 02:13:03.342 [0x7f6b7f6e1800] ERROR - [FFMPEG] - co located POCs unavailable
+Jul 15, 2018 02:13:03.343 [0x7f6b7f6e1800] ERROR - [FFMPEG] - co located POCs unavailable
+Jul 15, 2018 02:13:03.343 [0x7f6b7f6e1800] ERROR - [FFMPEG] - co located POCs unavailable
+Jul 15, 2018 02:13:03.344 [0x7f6b7f6e1800] ERROR - [FFMPEG] - co located POCs unavailable
+Jul 15, 2018 02:13:03.344 [0x7f6b7f6e1800] DEBUG - [FFMPEG] - nal_unit_type: 6, nal_ref_idc: 0
+Jul 15, 2018 02:13:03.344 [0x7f6b7f6e1800] DEBUG - [FFMPEG] - nal_unit_type: 1, nal_ref_idc: 1
+Jul 15, 2018 02:13:03.344 [0x7f6b7f6e1800] DEBUG - [FFMPEG] - nal_unit_type: 1, nal_ref_idc: 1
+Jul 15, 2018 02:13:03.344 [0x7f6b7f6e1800] DEBUG - [FFMPEG] - nal_unit_type: 1, nal_ref_idc: 1
+Jul 15, 2018 02:13:03.344 [0x7f6b7f6e1800] DEBUG - [FFMPEG] - nal_unit_type: 1, nal_ref_idc: 1
+Jul 15, 2018 02:13:03.344 [0x7f6b7f6e1800] DEBUG - [FFMPEG] - nal_unit_type: 1, nal_ref_idc: 1
+Jul 15, 2018 02:13:03.344 [0x7f6b7f6e1800] DEBUG - [FFMPEG] - nal_unit_type: 1, nal_ref_idc: 1
+Jul 15, 2018 02:13:03.344 [0x7f6b7f6e1800] DEBUG - [FFMPEG] - nal_unit_type: 1, nal_ref_idc: 1
+Jul 15, 2018 02:13:03.344 [0x7f6b7f6e1800] DEBUG - [FFMPEG] - nal_unit_type: 1, nal_ref_idc: 1
+Jul 15, 2018 02:13:03.351 [0x7f6b7f6e1800] DEBUG - [FFMPEG] - nal_unit_type: 6, nal_ref_idc: 0
+Jul 15, 2018 02:13:03.351 [0x7f6b7f6e1800] DEBUG - [FFMPEG] - nal_unit_type: 1, nal_ref_idc: 0
+Jul 15, 2018 02:13:03.351 [0x7f6b7f6e1800] DEBUG - [FFMPEG] - nal_unit_type: 1, nal_ref_idc: 0
+Jul 15, 2018 02:13:03.351 [0x7f6b7f6e1800] DEBUG - [FFMPEG] - nal_unit_type: 1, nal_ref_idc: 0
+Jul 15, 2018 02:13:03.351 [0x7f6b7f6e1800] DEBUG - [FFMPEG] - nal_unit_type: 1, nal_ref_idc: 0
+Jul 15, 2018 02:13:03.351 [0x7f6b7f6e1800] DEBUG - [FFMPEG] - nal_unit_type: 1, nal_ref_idc: 0
+Jul 15, 2018 02:13:03.351 [0x7f6b7f6e1800] DEBUG - [FFMPEG] - nal_unit_type: 1, nal_ref_idc: 0
+Jul 15, 2018 02:13:03.351 [0x7f6b7f6e1800] DEBUG - [FFMPEG] - nal_unit_type: 1, nal_ref_idc: 0
+Jul 15, 2018 02:13:03.351 [0x7f6b7f6e1800] DEBUG - [FFMPEG] - nal_unit_type: 1, nal_ref_idc: 0
+Jul 15, 2018 02:13:03.355 [0x7f6b7f6e1800] DEBUG - [FFMPEG] - nal_unit_type: 6, nal_ref_idc: 0
+Jul 15, 2018 02:13:03.355 [0x7f6b7f6e1800] DEBUG - [FFMPEG] - nal_unit_type: 1, nal_ref_idc: 1
+Jul 15, 2018 02:13:03.355 [0x7f6b7f6e1800] DEBUG - [FFMPEG] - nal_unit_type: 1, nal_ref_idc: 1
+Jul 15, 2018 02:13:03.355 [0x7f6b7f6e1800] DEBUG - [FFMPEG] - nal_unit_type: 1, nal_ref_idc: 1
+Jul 15, 2018 02:13:03.355 [0x7f6b7f6e1800] DEBUG - [FFMPEG] - nal_unit_type: 1, nal_ref_idc: 1
+Jul 15, 2018 02:13:03.355 [0x7f6b7f6e1800] DEBUG - [FFMPEG] - nal_unit_type: 1, nal_ref_idc: 1
+Jul 15, 2018 02:13:03.355 [0x7f6b7f6e1800] DEBUG - [FFMPEG] - nal_unit_type: 1, nal_ref_idc: 1
+Jul 15, 2018 02:13:03.355 [0x7f6b7f6e1800] DEBUG - [FFMPEG] - nal_unit_type: 1, nal_ref_idc: 1
+Jul 15, 2018 02:13:03.355 [0x7f6b7f6e1800] DEBUG - [FFMPEG] - nal_unit_type: 1, nal_ref_idc: 1
+Jul 15, 2018 02:13:03.361 [0x7f6b7f6e1800] DEBUG - [FFMPEG] - nal_unit_type: 6, nal_ref_idc: 0
+Jul 15, 2018 02:13:03.361 [0x7f6b7f6e1800] DEBUG - [FFMPEG] - nal_unit_type: 1, nal_ref_idc: 0
+Jul 15, 2018 02:13:03.361 [0x7f6b7f6e1800] DEBUG - [FFMPEG] - nal_unit_type: 1, nal_ref_idc: 0
+Jul 15, 2018 02:13:03.361 [0x7f6b7f6e1800] DEBUG - [FFMPEG] - nal_unit_type: 1, nal_ref_idc: 0
+Jul 15, 2018 02:13:03.361 [0x7f6b7f6e1800] DEBUG - [FFMPEG] - nal_unit_type: 1, nal_ref_idc: 0
+Jul 15, 2018 02:13:03.361 [0x7f6b7f6e1800] DEBUG - [FFMPEG] - nal_unit_type: 1, nal_ref_idc: 0
+Jul 15, 2018 02:13:03.361 [0x7f6b7f6e1800] DEBUG - [FFMPEG] - nal_unit_type: 1, nal_ref_idc: 0
+Jul 15, 2018 02:13:03.361 [0x7f6b7f6e1800] DEBUG - [FFMPEG] - nal_unit_type: 1, nal_ref_idc: 0
+Jul 15, 2018 02:13:03.361 [0x7f6b7f6e1800] DEBUG - [FFMPEG] - nal_unit_type: 1, nal_ref_idc: 0
+Jul 15, 2018 02:13:03.366 [0x7f6b7f6e1800] DEBUG - [FFMPEG] - nal_unit_type: 6, nal_ref_idc: 0
+Jul 15, 2018 02:13:03.366 [0x7f6b7f6e1800] DEBUG - [FFMPEG] - nal_unit_type: 6, nal_ref_idc: 0
+Jul 15, 2018 02:13:03.366 [0x7f6b7f6e1800] DEBUG - [FFMPEG] - nal_unit_type: 5, nal_ref_idc: 1
+Jul 15, 2018 02:13:03.366 [0x7f6b7f6e1800] DEBUG - [FFMPEG] - nal_unit_type: 5, nal_ref_idc: 1
+Jul 15, 2018 02:13:03.366 [0x7f6b7f6e1800] DEBUG - [FFMPEG] - nal_unit_type: 5, nal_ref_idc: 1
+Jul 15, 2018 02:13:03.366 [0x7f6b7f6e1800] DEBUG - [FFMPEG] - nal_unit_type: 5, nal_ref_idc: 1
+Jul 15, 2018 02:13:03.366 [0x7f6b7f6e1800] DEBUG - [FFMPEG] - nal_unit_type: 5, nal_ref_idc: 1
+Jul 15, 2018 02:13:03.366 [0x7f6b7f6e1800] DEBUG - [FFMPEG] - nal_unit_type: 5, nal_ref_idc: 1
+Jul 15, 2018 02:13:03.366 [0x7f6b7f6e1800] DEBUG - [FFMPEG] - nal_unit_type: 5, nal_ref_idc: 1
+Jul 15, 2018 02:13:03.366 [0x7f6b7f6e1800] DEBUG - [FFMPEG] - nal_unit_type: 5, nal_ref_idc: 1
+Jul 15, 2018 02:13:03.376 [0x7f6b7f6e1800] DEBUG - [FFMPEG] - nal_unit_type: 6, nal_ref_idc: 0
+Jul 15, 2018 02:13:03.376 [0x7f6b7f6e1800] DEBUG - [FFMPEG] - nal_unit_type: 1, nal_ref_idc: 1
+Jul 15, 2018 02:13:03.376 [0x7f6b7f6e1800] DEBUG - [FFMPEG] - nal_unit_type: 1, nal_ref_idc: 1
+Jul 15, 2018 02:13:03.376 [0x7f6b7f6e1800] DEBUG - [FFMPEG] - nal_unit_type: 1, nal_ref_idc: 1
+Jul 15, 2018 02:13:03.376 [0x7f6b7f6e1800] DEBUG - [FFMPEG] - nal_unit_type: 1, nal_ref_idc: 1
+Jul 15, 2018 02:13:03.376 [0x7f6b7f6e1800] DEBUG - [FFMPEG] - nal_unit_type: 1, nal_ref_idc: 1
+Jul 15, 2018 02:13:03.376 [0x7f6b7f6e1800] DEBUG - [FFMPEG] - nal_unit_type: 1, nal_ref_idc: 1
+Jul 15, 2018 02:13:03.376 [0x7f6b7f6e1800] DEBUG - [FFMPEG] - nal_unit_type: 1, nal_ref_idc: 1
+Jul 15, 2018 02:13:03.376 [0x7f6b7f6e1800] DEBUG - [FFMPEG] - nal_unit_type: 1, nal_ref_idc: 1
+Jul 15, 2018 02:13:03.449 [0x7f6b7f6e1800] DEBUG - Loaded memory image of size 1920x800.
+Jul 15, 2018 02:13:03.531 [0x7f6b7f6e1800] DEBUG - [FFMPEG] - nal_unit_type: 7, nal_ref_idc: 1
+Jul 15, 2018 02:13:03.531 [0x7f6b7f6e1800] DEBUG - [FFMPEG] - nal_unit_type: 8, nal_ref_idc: 1
+Jul 15, 2018 02:13:03.531 [0x7f6b7f6e1800] ERROR - [FFMPEG] - Read error at pos. 2235473530 (0x853e9e7a)
+Jul 15, 2018 02:13:03.631 [0x7f6b7f6e1800] DEBUG - [FFMPEG] - nal_unit_type: 7, nal_ref_idc: 1
+Jul 15, 2018 02:13:03.631 [0x7f6b7f6e1800] DEBUG - [FFMPEG] - nal_unit_type: 8, nal_ref_idc: 1
+Jul 15, 2018 02:13:03.631 [0x7f6b7f6e1800] DEBUG - [FFMPEG] - nal_unit_type: 6, nal_ref_idc: 0
+Jul 15, 2018 02:13:03.631 [0x7f6b7f6e1800] DEBUG - [FFMPEG] - nal_unit_type: 1, nal_ref_idc: 0
+Jul 15, 2018 02:13:03.631 [0x7f6b7f6e1800] DEBUG - [FFMPEG] - nal_unit_type: 1, nal_ref_idc: 0
+Jul 15, 2018 02:13:03.631 [0x7f6b7f6e1800] DEBUG - [FFMPEG] - nal_unit_type: 1, nal_ref_idc: 0
+Jul 15, 2018 02:13:03.631 [0x7f6b7f6e1800] DEBUG - [FFMPEG] - nal_unit_type: 1, nal_ref_idc: 0
+Jul 15, 2018 02:13:03.631 [0x7f6b7f6e1800] DEBUG - [FFMPEG] - nal_unit_type: 1, nal_ref_idc: 0
+Jul 15, 2018 02:13:03.631 [0x7f6b7f6e1800] DEBUG - [FFMPEG] - nal_unit_type: 1, nal_ref_idc: 0
+Jul 15, 2018 02:13:03.631 [0x7f6b7f6e1800] DEBUG - [FFMPEG] - nal_unit_type: 1, nal_ref_idc: 0
+Jul 15, 2018 02:13:03.631 [0x7f6b7f6e1800] DEBUG - [FFMPEG] - nal_unit_type: 1, nal_ref_idc: 0
+Jul 15, 2018 02:13:03.631 [0x7f6b7f6e1800] DEBUG - [FFMPEG] - Format yuv420p chosen by get_format().
+Jul 15, 2018 02:13:03.631 [0x7f6b7f6e1800] DEBUG - [FFMPEG] - Frame num gap 11 5
+Jul 15, 2018 02:13:03.632 [0x7f6b7f6e1800] DEBUG - [FFMPEG] - Frame num gap 11 6
+Jul 15, 2018 02:13:03.633 [0x7f6b7f6e1800] DEBUG - [FFMPEG] - Frame num gap 11 7
+Jul 15, 2018 02:13:03.635 [0x7f6b7f6e1800] DEBUG - [FFMPEG] - Frame num gap 11 8
+Jul 15, 2018 02:13:03.636 [0x7f6b7f6e1800] DEBUG - [FFMPEG] - Frame num gap 11 9
+Jul 15, 2018 02:13:03.638 [0x7f6b7f6e1800] DEBUG - [FFMPEG] - no picture 
+Jul 15, 2018 02:13:03.638 [0x7f6b7f6e1800] ERROR - [FFMPEG] - co located POCs unavailable
+Jul 15, 2018 02:13:03.639 [0x7f6b7f6e1800] ERROR - [FFMPEG] - co located POCs unavailable
+Jul 15, 2018 02:13:03.639 [0x7f6b7f6e1800] ERROR - [FFMPEG] - co located POCs unavailable
+Jul 15, 2018 02:13:03.640 [0x7f6b7f6e1800] ERROR - [FFMPEG] - co located POCs unavailable
+Jul 15, 2018 02:13:03.641 [0x7f6b7f6e1800] ERROR - [FFMPEG] - co located POCs unavailable
+Jul 15, 2018 02:13:03.641 [0x7f6b7f6e1800] ERROR - [FFMPEG] - co located POCs unavailable
+Jul 15, 2018 02:13:03.642 [0x7f6b7f6e1800] ERROR - [FFMPEG] - co located POCs unavailable
+Jul 15, 2018 02:13:03.642 [0x7f6b7f6e1800] ERROR - [FFMPEG] - co located POCs unavailable
+Jul 15, 2018 02:13:03.643 [0x7f6b7f6e1800] DEBUG - [FFMPEG] - nal_unit_type: 6, nal_ref_idc: 0
+Jul 15, 2018 02:13:03.643 [0x7f6b7f6e1800] DEBUG - [FFMPEG] - nal_unit_type: 1, nal_ref_idc: 1
+Jul 15, 2018 02:13:03.643 [0x7f6b7f6e1800] DEBUG - [FFMPEG] - nal_unit_type: 1, nal_ref_idc: 1
+Jul 15, 2018 02:13:03.643 [0x7f6b7f6e1800] DEBUG - [FFMPEG] - nal_unit_type: 1, nal_ref_idc: 1
+Jul 15, 2018 02:13:03.643 [0x7f6b7f6e1800] DEBUG - [FFMPEG] - nal_unit_type: 1, nal_ref_idc: 1
+Jul 15, 2018 02:13:03.643 [0x7f6b7f6e1800] DEBUG - [FFMPEG] - nal_unit_type: 1, nal_ref_idc: 1
+Jul 15, 2018 02:13:03.643 [0x7f6b7f6e1800] DEBUG - [FFMPEG] - nal_unit_type: 1, nal_ref_idc: 1
+Jul 15, 2018 02:13:03.643 [0x7f6b7f6e1800] DEBUG - [FFMPEG] - nal_unit_type: 1, nal_ref_idc: 1
+Jul 15, 2018 02:13:03.643 [0x7f6b7f6e1800] DEBUG - [FFMPEG] - nal_unit_type: 1, nal_ref_idc: 1
+Jul 15, 2018 02:13:03.650 [0x7f6b7f6e1800] DEBUG - [FFMPEG] - nal_unit_type: 6, nal_ref_idc: 0
+Jul 15, 2018 02:13:03.650 [0x7f6b7f6e1800] DEBUG - [FFMPEG] - nal_unit_type: 1, nal_ref_idc: 0
+Jul 15, 2018 02:13:03.650 [0x7f6b7f6e1800] DEBUG - [FFMPEG] - nal_unit_type: 1, nal_ref_idc: 0
+Jul 15, 2018 02:13:03.651 [0x7f6b7f6e1800] DEBUG - [FFMPEG] - nal_unit_type: 1, nal_ref_idc: 0
+Jul 15, 2018 02:13:03.651 [0x7f6b7f6e1800] DEBUG - [FFMPEG] - nal_unit_type: 1, nal_ref_idc: 0
+Jul 15, 2018 02:13:03.651 [0x7f6b7f6e1800] DEBUG - [FFMPEG] - nal_unit_type: 1, nal_ref_idc: 0
+Jul 15, 2018 02:13:03.651 [0x7f6b7f6e1800] DEBUG - [FFMPEG] - nal_unit_type: 1, nal_ref_idc: 0
+Jul 15, 2018 02:13:03.651 [0x7f6b7f6e1800] DEBUG - [FFMPEG] - nal_unit_type: 1, nal_ref_idc: 0
+Jul 15, 2018 02:13:03.651 [0x7f6b7f6e1800] DEBUG - [FFMPEG] - nal_unit_type: 1, nal_ref_idc: 0
+Jul 15, 2018 02:13:03.655 [0x7f6b7f6e1800] DEBUG - [FFMPEG] - nal_unit_type: 6, nal_ref_idc: 0
+Jul 15, 2018 02:13:03.655 [0x7f6b7f6e1800] DEBUG - [FFMPEG] - nal_unit_type: 1, nal_ref_idc: 1
+Jul 15, 2018 02:13:03.655 [0x7f6b7f6e1800] DEBUG - [FFMPEG] - nal_unit_type: 1, nal_ref_idc: 1
+Jul 15, 2018 02:13:03.655 [0x7f6b7f6e1800] DEBUG - [FFMPEG] - nal_unit_type: 1, nal_ref_idc: 1
+Jul 15, 2018 02:13:03.655 [0x7f6b7f6e1800] DEBUG - [FFMPEG] - nal_unit_type: 1, nal_ref_idc: 1
+Jul 15, 2018 02:13:03.655 [0x7f6b7f6e1800] DEBUG - [FFMPEG] - nal_unit_type: 1, nal_ref_idc: 1
+Jul 15, 2018 02:13:03.656 [0x7f6b7f6e1800] DEBUG - [FFMPEG] - nal_unit_type: 1, nal_ref_idc: 1
+Jul 15, 2018 02:13:03.656 [0x7f6b7f6e1800] DEBUG - [FFMPEG] - nal_unit_type: 1, nal_ref_idc: 1
+Jul 15, 2018 02:13:03.656 [0x7f6b7f6e1800] DEBUG - [FFMPEG] - nal_unit_type: 1, nal_ref_idc: 1
+Jul 15, 2018 02:13:03.662 [0x7f6b7f6e1800] DEBUG - [FFMPEG] - nal_unit_type: 6, nal_ref_idc: 0
+Jul 15, 2018 02:13:03.662 [0x7f6b7f6e1800] DEBUG - [FFMPEG] - nal_unit_type: 1, nal_ref_idc: 0
+Jul 15, 2018 02:13:03.662 [0x7f6b7f6e1800] DEBUG - [FFMPEG] - nal_unit_type: 1, nal_ref_idc: 0
+Jul 15, 2018 02:13:03.662 [0x7f6b7f6e1800] DEBUG - [FFMPEG] - nal_unit_type: 1, nal_ref_idc: 0
+Jul 15, 2018 02:13:03.662 [0x7f6b7f6e1800] DEBUG - [FFMPEG] - nal_unit_type: 1, nal_ref_idc: 0
+Jul 15, 2018 02:13:03.662 [0x7f6b7f6e1800] DEBUG - [FFMPEG] - nal_unit_type: 1, nal_ref_idc: 0
+Jul 15, 2018 02:13:03.662 [0x7f6b7f6e1800] DEBUG - [FFMPEG] - nal_unit_type: 1, nal_ref_idc: 0
+Jul 15, 2018 02:13:03.662 [0x7f6b7f6e1800] DEBUG - [FFMPEG] - nal_unit_type: 1, nal_ref_idc: 0
+Jul 15, 2018 02:13:03.662 [0x7f6b7f6e1800] DEBUG - [FFMPEG] - nal_unit_type: 1, nal_ref_idc: 0
+Jul 15, 2018 02:13:03.667 [0x7f6b7f6e1800] DEBUG - [FFMPEG] - nal_unit_type: 6, nal_ref_idc: 0
+Jul 15, 2018 02:13:03.667 [0x7f6b7f6e1800] DEBUG - [FFMPEG] - nal_unit_type: 6, nal_ref_idc: 0
+Jul 15, 2018 02:13:03.667 [0x7f6b7f6e1800] DEBUG - [FFMPEG] - nal_unit_type: 5, nal_ref_idc: 1
+Jul 15, 2018 02:13:03.667 [0x7f6b7f6e1800] DEBUG - [FFMPEG] - nal_unit_type: 5, nal_ref_idc: 1
+Jul 15, 2018 02:13:03.667 [0x7f6b7f6e1800] DEBUG - [FFMPEG] - nal_unit_type: 5, nal_ref_idc: 1
+Jul 15, 2018 02:13:03.667 [0x7f6b7f6e1800] DEBUG - [FFMPEG] - nal_unit_type: 5, nal_ref_idc: 1
+Jul 15, 2018 02:13:03.667 [0x7f6b7f6e1800] DEBUG - [FFMPEG] - nal_unit_type: 5, nal_ref_idc: 1
+Jul 15, 2018 02:13:03.667 [0x7f6b7f6e1800] DEBUG - [FFMPEG] - nal_unit_type: 5, nal_ref_idc: 1
+Jul 15, 2018 02:13:03.667 [0x7f6b7f6e1800] DEBUG - [FFMPEG] - nal_unit_type: 5, nal_ref_idc: 1
+Jul 15, 2018 02:13:03.667 [0x7f6b7f6e1800] DEBUG - [FFMPEG] - nal_unit_type: 5, nal_ref_idc: 1
+Jul 15, 2018 02:13:03.679 [0x7f6b7f6e1800] DEBUG - [FFMPEG] - nal_unit_type: 6, nal_ref_idc: 0
+Jul 15, 2018 02:13:03.679 [0x7f6b7f6e1800] DEBUG - [FFMPEG] - nal_unit_type: 1, nal_ref_idc: 1
+Jul 15, 2018 02:13:03.679 [0x7f6b7f6e1800] DEBUG - [FFMPEG] - nal_unit_type: 1, nal_ref_idc: 1
+Jul 15, 2018 02:13:03.679 [0x7f6b7f6e1800] DEBUG - [FFMPEG] - nal_unit_type: 1, nal_ref_idc: 1
+Jul 15, 2018 02:13:03.679 [0x7f6b7f6e1800] DEBUG - [FFMPEG] - nal_unit_type: 1, nal_ref_idc: 1
+Jul 15, 2018 02:13:03.679 [0x7f6b7f6e1800] DEBUG - [FFMPEG] - nal_unit_type: 1, nal_ref_idc: 1
+Jul 15, 2018 02:13:03.679 [0x7f6b7f6e1800] DEBUG - [FFMPEG] - nal_unit_type: 1, nal_ref_idc: 1
+Jul 15, 2018 02:13:03.679 [0x7f6b7f6e1800] DEBUG - [FFMPEG] - nal_unit_type: 1, nal_ref_idc: 1
+Jul 15, 2018 02:13:03.679 [0x7f6b7f6e1800] DEBUG - [FFMPEG] - nal_unit_type: 1, nal_ref_idc: 1
+Jul 15, 2018 02:13:03.754 [0x7f6b7f6e1800] DEBUG - Loaded memory image of size 1920x800.
+Jul 15, 2018 02:13:03.839 [0x7f6b7f6e1800] DEBUG - [FFMPEG] - nal_unit_type: 7, nal_ref_idc: 1
+Jul 15, 2018 02:13:03.840 [0x7f6b7f6e1800] DEBUG - [FFMPEG] - nal_unit_type: 8, nal_ref_idc: 1
+Jul 15, 2018 02:13:03.840 [0x7f6b7f6e1800] ERROR - [FFMPEG] - Read error at pos. 2235473530 (0x853e9e7a)
+Jul 15, 2018 02:13:03.941 [0x7f6b7f6e1800] DEBUG - [FFMPEG] - nal_unit_type: 7, nal_ref_idc: 1
+Jul 15, 2018 02:13:03.941 [0x7f6b7f6e1800] DEBUG - [FFMPEG] - nal_unit_type: 8, nal_ref_idc: 1
+Jul 15, 2018 02:13:03.941 [0x7f6b7f6e1800] DEBUG - [FFMPEG] - nal_unit_type: 6, nal_ref_idc: 0
+Jul 15, 2018 02:13:03.941 [0x7f6b7f6e1800] DEBUG - [FFMPEG] - nal_unit_type: 1, nal_ref_idc: 0
+Jul 15, 2018 02:13:03.941 [0x7f6b7f6e1800] DEBUG - [FFMPEG] - nal_unit_type: 1, nal_ref_idc: 0
+Jul 15, 2018 02:13:03.941 [0x7f6b7f6e1800] DEBUG - [FFMPEG] - nal_unit_type: 1, nal_ref_idc: 0
+Jul 15, 2018 02:13:03.941 [0x7f6b7f6e1800] DEBUG - [FFMPEG] - nal_unit_type: 1, nal_ref_idc: 0
+Jul 15, 2018 02:13:03.941 [0x7f6b7f6e1800] DEBUG - [FFMPEG] - nal_unit_type: 1, nal_ref_idc: 0
+Jul 15, 2018 02:13:03.941 [0x7f6b7f6e1800] DEBUG - [FFMPEG] - nal_unit_type: 1, nal_ref_idc: 0
+Jul 15, 2018 02:13:03.941 [0x7f6b7f6e1800] DEBUG - [FFMPEG] - nal_unit_type: 1, nal_ref_idc: 0
+Jul 15, 2018 02:13:03.941 [0x7f6b7f6e1800] DEBUG - [FFMPEG] - nal_unit_type: 1, nal_ref_idc: 0
+Jul 15, 2018 02:13:03.941 [0x7f6b7f6e1800] DEBUG - [FFMPEG] - Format yuv420p chosen by get_format().
+Jul 15, 2018 02:13:03.942 [0x7f6b7f6e1800] DEBUG - [FFMPEG] - Frame num gap 11 5
+Jul 15, 2018 02:13:03.943 [0x7f6b7f6e1800] DEBUG - [FFMPEG] - Frame num gap 11 6
+Jul 15, 2018 02:13:03.944 [0x7f6b7f6e1800] DEBUG - [FFMPEG] - Frame num gap 11 7
+Jul 15, 2018 02:13:03.945 [0x7f6b7f6e1800] DEBUG - [FFMPEG] - Frame num gap 11 8
+Jul 15, 2018 02:13:03.946 [0x7f6b7f6e1800] DEBUG - [FFMPEG] - Frame num gap 11 9
+Jul 15, 2018 02:13:03.949 [0x7f6b7f6e1800] DEBUG - [FFMPEG] - no picture 
+Jul 15, 2018 02:13:03.949 [0x7f6b7f6e1800] ERROR - [FFMPEG] - co located POCs unavailable
+Jul 15, 2018 02:13:03.949 [0x7f6b7f6e1800] ERROR - [FFMPEG] - co located POCs unavailable
+Jul 15, 2018 02:13:03.950 [0x7f6b7f6e1800] ERROR - [FFMPEG] - co located POCs unavailable
+Jul 15, 2018 02:13:03.950 [0x7f6b7f6e1800] ERROR - [FFMPEG] - co located POCs unavailable
+Jul 15, 2018 02:13:03.951 [0x7f6b7f6e1800] ERROR - [FFMPEG] - co located POCs unavailable
+Jul 15, 2018 02:13:03.951 [0x7f6b7f6e1800] ERROR - [FFMPEG] - co located POCs unavailable
+Jul 15, 2018 02:13:03.952 [0x7f6b7f6e1800] ERROR - [FFMPEG] - co located POCs unavailable
+Jul 15, 2018 02:13:03.952 [0x7f6b7f6e1800] ERROR - [FFMPEG] - co located POCs unavailable
+Jul 15, 2018 02:13:03.953 [0x7f6b7f6e1800] DEBUG - [FFMPEG] - nal_unit_type: 6, nal_ref_idc: 0
+Jul 15, 2018 02:13:03.953 [0x7f6b7f6e1800] DEBUG - [FFMPEG] - nal_unit_type: 1, nal_ref_idc: 1
+Jul 15, 2018 02:13:03.953 [0x7f6b7f6e1800] DEBUG - [FFMPEG] - nal_unit_type: 1, nal_ref_idc: 1
+Jul 15, 2018 02:13:03.953 [0x7f6b7f6e1800] DEBUG - [FFMPEG] - nal_unit_type: 1, nal_ref_idc: 1
+Jul 15, 2018 02:13:03.953 [0x7f6b7f6e1800] DEBUG - [FFMPEG] - nal_unit_type: 1, nal_ref_idc: 1
+Jul 15, 2018 02:13:03.953 [0x7f6b7f6e1800] DEBUG - [FFMPEG] - nal_unit_type: 1, nal_ref_idc: 1
+Jul 15, 2018 02:13:03.953 [0x7f6b7f6e1800] DEBUG - [FFMPEG] - nal_unit_type: 1, nal_ref_idc: 1
+Jul 15, 2018 02:13:03.953 [0x7f6b7f6e1800] DEBUG - [FFMPEG] - nal_unit_type: 1, nal_ref_idc: 1
+Jul 15, 2018 02:13:03.953 [0x7f6b7f6e1800] DEBUG - [FFMPEG] - nal_unit_type: 1, nal_ref_idc: 1
+Jul 15, 2018 02:13:03.959 [0x7f6b7f6e1800] DEBUG - [FFMPEG] - nal_unit_type: 6, nal_ref_idc: 0
+Jul 15, 2018 02:13:03.959 [0x7f6b7f6e1800] DEBUG - [FFMPEG] - nal_unit_type: 1, nal_ref_idc: 0
+Jul 15, 2018 02:13:03.959 [0x7f6b7f6e1800] DEBUG - [FFMPEG] - nal_unit_type: 1, nal_ref_idc: 0
+Jul 15, 2018 02:13:03.959 [0x7f6b7f6e1800] DEBUG - [FFMPEG] - nal_unit_type: 1, nal_ref_idc: 0
+Jul 15, 2018 02:13:03.959 [0x7f6b7f6e1800] DEBUG - [FFMPEG] - nal_unit_type: 1, nal_ref_idc: 0
+Jul 15, 2018 02:13:03.959 [0x7f6b7f6e1800] DEBUG - [FFMPEG] - nal_unit_type: 1, nal_ref_idc: 0
+Jul 15, 2018 02:13:03.959 [0x7f6b7f6e1800] DEBUG - [FFMPEG] - nal_unit_type: 1, nal_ref_idc: 0
+Jul 15, 2018 02:13:03.959 [0x7f6b7f6e1800] DEBUG - [FFMPEG] - nal_unit_type: 1, nal_ref_idc: 0
+Jul 15, 2018 02:13:03.959 [0x7f6b7f6e1800] DEBUG - [FFMPEG] - nal_unit_type: 1, nal_ref_idc: 0
+Jul 15, 2018 02:13:03.963 [0x7f6b7f6e1800] DEBUG - [FFMPEG] - nal_unit_type: 6, nal_ref_idc: 0
+Jul 15, 2018 02:13:03.963 [0x7f6b7f6e1800] DEBUG - [FFMPEG] - nal_unit_type: 1, nal_ref_idc: 1
+Jul 15, 2018 02:13:03.963 [0x7f6b7f6e1800] DEBUG - [FFMPEG] - nal_unit_type: 1, nal_ref_idc: 1
+Jul 15, 2018 02:13:03.963 [0x7f6b7f6e1800] DEBUG - [FFMPEG] - nal_unit_type: 1, nal_ref_idc: 1
+Jul 15, 2018 02:13:03.963 [0x7f6b7f6e1800] DEBUG - [FFMPEG] - nal_unit_type: 1, nal_ref_idc: 1
+Jul 15, 2018 02:13:03.963 [0x7f6b7f6e1800] DEBUG - [FFMPEG] - nal_unit_type: 1, nal_ref_idc: 1
+Jul 15, 2018 02:13:03.963 [0x7f6b7f6e1800] DEBUG - [FFMPEG] - nal_unit_type: 1, nal_ref_idc: 1
+Jul 15, 2018 02:13:03.963 [0x7f6b7f6e1800] DEBUG - [FFMPEG] - nal_unit_type: 1, nal_ref_idc: 1
+Jul 15, 2018 02:13:03.963 [0x7f6b7f6e1800] DEBUG - [FFMPEG] - nal_unit_type: 1, nal_ref_idc: 1
+Jul 15, 2018 02:13:03.969 [0x7f6b7f6e1800] DEBUG - [FFMPEG] - nal_unit_type: 6, nal_ref_idc: 0
+Jul 15, 2018 02:13:03.969 [0x7f6b7f6e1800] DEBUG - [FFMPEG] - nal_unit_type: 1, nal_ref_idc: 0
+Jul 15, 2018 02:13:03.969 [0x7f6b7f6e1800] DEBUG - [FFMPEG] - nal_unit_type: 1, nal_ref_idc: 0
+Jul 15, 2018 02:13:03.969 [0x7f6b7f6e1800] DEBUG - [FFMPEG] - nal_unit_type: 1, nal_ref_idc: 0
+Jul 15, 2018 02:13:03.969 [0x7f6b7f6e1800] DEBUG - [FFMPEG] - nal_unit_type: 1, nal_ref_idc: 0
+Jul 15, 2018 02:13:03.969 [0x7f6b7f6e1800] DEBUG - [FFMPEG] - nal_unit_type: 1, nal_ref_idc: 0
+Jul 15, 2018 02:13:03.969 [0x7f6b7f6e1800] DEBUG - [FFMPEG] - nal_unit_type: 1, nal_ref_idc: 0
+Jul 15, 2018 02:13:03.969 [0x7f6b7f6e1800] DEBUG - [FFMPEG] - nal_unit_type: 1, nal_ref_idc: 0
+Jul 15, 2018 02:13:03.969 [0x7f6b7f6e1800] DEBUG - [FFMPEG] - nal_unit_type: 1, nal_ref_idc: 0
+Jul 15, 2018 02:13:03.974 [0x7f6b7f6e1800] DEBUG - [FFMPEG] - nal_unit_type: 6, nal_ref_idc: 0
+Jul 15, 2018 02:13:03.974 [0x7f6b7f6e1800] DEBUG - [FFMPEG] - nal_unit_type: 6, nal_ref_idc: 0
+Jul 15, 2018 02:13:03.974 [0x7f6b7f6e1800] DEBUG - [FFMPEG] - nal_unit_type: 5, nal_ref_idc: 1
+Jul 15, 2018 02:13:03.974 [0x7f6b7f6e1800] DEBUG - [FFMPEG] - nal_unit_type: 5, nal_ref_idc: 1
+Jul 15, 2018 02:13:03.974 [0x7f6b7f6e1800] DEBUG - [FFMPEG] - nal_unit_type: 5, nal_ref_idc: 1
+Jul 15, 2018 02:13:03.974 [0x7f6b7f6e1800] DEBUG - [FFMPEG] - nal_unit_type: 5, nal_ref_idc: 1
+Jul 15, 2018 02:13:03.974 [0x7f6b7f6e1800] DEBUG - [FFMPEG] - nal_unit_type: 5, nal_ref_idc: 1
+Jul 15, 2018 02:13:03.974 [0x7f6b7f6e1800] DEBUG - [FFMPEG] - nal_unit_type: 5, nal_ref_idc: 1
+Jul 15, 2018 02:13:03.974 [0x7f6b7f6e1800] DEBUG - [FFMPEG] - nal_unit_type: 5, nal_ref_idc: 1
+Jul 15, 2018 02:13:03.974 [0x7f6b7f6e1800] DEBUG - [FFMPEG] - nal_unit_type: 5, nal_ref_idc: 1
+Jul 15, 2018 02:13:03.984 [0x7f6b7f6e1800] DEBUG - [FFMPEG] - nal_unit_type: 6, nal_ref_idc: 0
+Jul 15, 2018 02:13:03.985 [0x7f6b7f6e1800] DEBUG - [FFMPEG] - nal_unit_type: 1, nal_ref_idc: 1
+Jul 15, 2018 02:13:03.985 [0x7f6b7f6e1800] DEBUG - [FFMPEG] - nal_unit_type: 1, nal_ref_idc: 1
+Jul 15, 2018 02:13:03.985 [0x7f6b7f6e1800] DEBUG - [FFMPEG] - nal_unit_type: 1, nal_ref_idc: 1
+Jul 15, 2018 02:13:03.985 [0x7f6b7f6e1800] DEBUG - [FFMPEG] - nal_unit_type: 1, nal_ref_idc: 1
+Jul 15, 2018 02:13:03.985 [0x7f6b7f6e1800] DEBUG - [FFMPEG] - nal_unit_type: 1, nal_ref_idc: 1
+Jul 15, 2018 02:13:03.985 [0x7f6b7f6e1800] DEBUG - [FFMPEG] - nal_unit_type: 1, nal_ref_idc: 1
+Jul 15, 2018 02:13:03.985 [0x7f6b7f6e1800] DEBUG - [FFMPEG] - nal_unit_type: 1, nal_ref_idc: 1
+Jul 15, 2018 02:13:03.985 [0x7f6b7f6e1800] DEBUG - [FFMPEG] - nal_unit_type: 1, nal_ref_idc: 1
+Jul 15, 2018 02:13:04.057 [0x7f6b7f6e1800] DEBUG - Loaded memory image of size 1920x800.
+Jul 15, 2018 02:13:04.140 [0x7f6b7f6e1800] DEBUG - [FFMPEG] - nal_unit_type: 7, nal_ref_idc: 1
+Jul 15, 2018 02:13:04.140 [0x7f6b7f6e1800] DEBUG - [FFMPEG] - nal_unit_type: 8, nal_ref_idc: 1
+Jul 15, 2018 02:13:04.140 [0x7f6b7f6e1800] ERROR - [FFMPEG] - Read error at pos. 2235473530 (0x853e9e7a)
+Jul 15, 2018 02:13:04.239 [0x7f6b7f6e1800] DEBUG - [FFMPEG] - nal_unit_type: 7, nal_ref_idc: 1
+Jul 15, 2018 02:13:04.239 [0x7f6b7f6e1800] DEBUG - [FFMPEG] - nal_unit_type: 8, nal_ref_idc: 1
+Jul 15, 2018 02:13:04.239 [0x7f6b7f6e1800] DEBUG - [FFMPEG] - nal_unit_type: 6, nal_ref_idc: 0
+Jul 15, 2018 02:13:04.239 [0x7f6b7f6e1800] DEBUG - [FFMPEG] - nal_unit_type: 1, nal_ref_idc: 0
+Jul 15, 2018 02:13:04.239 [0x7f6b7f6e1800] DEBUG - [FFMPEG] - nal_unit_type: 1, nal_ref_idc: 0
+Jul 15, 2018 02:13:04.239 [0x7f6b7f6e1800] DEBUG - [FFMPEG] - nal_unit_type: 1, nal_ref_idc: 0
+Jul 15, 2018 02:13:04.239 [0x7f6b7f6e1800] DEBUG - [FFMPEG] - nal_unit_type: 1, nal_ref_idc: 0
+Jul 15, 2018 02:13:04.240 [0x7f6b7f6e1800] DEBUG - [FFMPEG] - nal_unit_type: 1, nal_ref_idc: 0
+Jul 15, 2018 02:13:04.240 [0x7f6b7f6e1800] DEBUG - [FFMPEG] - nal_unit_type: 1, nal_ref_idc: 0
+Jul 15, 2018 02:13:04.240 [0x7f6b7f6e1800] DEBUG - [FFMPEG] - nal_unit_type: 1, nal_ref_idc: 0
+Jul 15, 2018 02:13:04.240 [0x7f6b7f6e1800] DEBUG - [FFMPEG] - nal_unit_type: 1, nal_ref_idc: 0
+Jul 15, 2018 02:13:04.240 [0x7f6b7f6e1800] DEBUG - [FFMPEG] - Format yuv420p chosen by get_format().
+Jul 15, 2018 02:13:04.240 [0x7f6b7f6e1800] DEBUG - [FFMPEG] - Frame num gap 11 5
+Jul 15, 2018 02:13:04.240 [0x7f6b7f6e1800] DEBUG - [FFMPEG] - Frame num gap 11 6
+Jul 15, 2018 02:13:04.241 [0x7f6b7f6e1800] DEBUG - [FFMPEG] - Frame num gap 11 7
+Jul 15, 2018 02:13:04.243 [0x7f6b7f6e1800] DEBUG - [FFMPEG] - Frame num gap 11 8
+Jul 15, 2018 02:13:04.244 [0x7f6b7f6e1800] DEBUG - [FFMPEG] - Frame num gap 11 9
+Jul 15, 2018 02:13:04.246 [0x7f6b7f6e1800] DEBUG - [FFMPEG] - no picture 
+Jul 15, 2018 02:13:04.246 [0x7f6b7f6e1800] ERROR - [FFMPEG] - co located POCs unavailable
+Jul 15, 2018 02:13:04.247 [0x7f6b7f6e1800] ERROR - [FFMPEG] - co located POCs unavailable
+Jul 15, 2018 02:13:04.247 [0x7f6b7f6e1800] ERROR - [FFMPEG] - co located POCs unavailable
+Jul 15, 2018 02:13:04.248 [0x7f6b7f6e1800] ERROR - [FFMPEG] - co located POCs unavailable
+Jul 15, 2018 02:13:04.248 [0x7f6b7f6e1800] ERROR - [FFMPEG] - co located POCs unavailable
+Jul 15, 2018 02:13:04.249 [0x7f6b7f6e1800] ERROR - [FFMPEG] - co located POCs unavailable
+Jul 15, 2018 02:13:04.249 [0x7f6b7f6e1800] ERROR - [FFMPEG] - co located POCs unavailable
+Jul 15, 2018 02:13:04.250 [0x7f6b7f6e1800] ERROR - [FFMPEG] - co located POCs unavailable
+Jul 15, 2018 02:13:04.250 [0x7f6b7f6e1800] DEBUG - [FFMPEG] - nal_unit_type: 6, nal_ref_idc: 0
+Jul 15, 2018 02:13:04.250 [0x7f6b7f6e1800] DEBUG - [FFMPEG] - nal_unit_type: 1, nal_ref_idc: 1
+Jul 15, 2018 02:13:04.250 [0x7f6b7f6e1800] DEBUG - [FFMPEG] - nal_unit_type: 1, nal_ref_idc: 1
+Jul 15, 2018 02:13:04.250 [0x7f6b7f6e1800] DEBUG - [FFMPEG] - nal_unit_type: 1, nal_ref_idc: 1
+Jul 15, 2018 02:13:04.250 [0x7f6b7f6e1800] DEBUG - [FFMPEG] - nal_unit_type: 1, nal_ref_idc: 1
+Jul 15, 2018 02:13:04.250 [0x7f6b7f6e1800] DEBUG - [FFMPEG] - nal_unit_type: 1, nal_ref_idc: 1
+Jul 15, 2018 02:13:04.250 [0x7f6b7f6e1800] DEBUG - [FFMPEG] - nal_unit_type: 1, nal_ref_idc: 1
+Jul 15, 2018 02:13:04.250 [0x7f6b7f6e1800] DEBUG - [FFMPEG] - nal_unit_type: 1, nal_ref_idc: 1
+Jul 15, 2018 02:13:04.250 [0x7f6b7f6e1800] DEBUG - [FFMPEG] - nal_unit_type: 1, nal_ref_idc: 1
+Jul 15, 2018 02:13:04.257 [0x7f6b7f6e1800] DEBUG - [FFMPEG] - nal_unit_type: 6, nal_ref_idc: 0
+Jul 15, 2018 02:13:04.257 [0x7f6b7f6e1800] DEBUG - [FFMPEG] - nal_unit_type: 1, nal_ref_idc: 0
+Jul 15, 2018 02:13:04.257 [0x7f6b7f6e1800] DEBUG - [FFMPEG] - nal_unit_type: 1, nal_ref_idc: 0
+Jul 15, 2018 02:13:04.257 [0x7f6b7f6e1800] DEBUG - [FFMPEG] - nal_unit_type: 1, nal_ref_idc: 0
+Jul 15, 2018 02:13:04.257 [0x7f6b7f6e1800] DEBUG - [FFMPEG] - nal_unit_type: 1, nal_ref_idc: 0
+Jul 15, 2018 02:13:04.257 [0x7f6b7f6e1800] DEBUG - [FFMPEG] - nal_unit_type: 1, nal_ref_idc: 0
+Jul 15, 2018 02:13:04.257 [0x7f6b7f6e1800] DEBUG - [FFMPEG] - nal_unit_type: 1, nal_ref_idc: 0
+Jul 15, 2018 02:13:04.257 [0x7f6b7f6e1800] DEBUG - [FFMPEG] - nal_unit_type: 1, nal_ref_idc: 0
+Jul 15, 2018 02:13:04.257 [0x7f6b7f6e1800] DEBUG - [FFMPEG] - nal_unit_type: 1, nal_ref_idc: 0
+Jul 15, 2018 02:13:04.261 [0x7f6b7f6e1800] DEBUG - [FFMPEG] - nal_unit_type: 6, nal_ref_idc: 0
+Jul 15, 2018 02:13:04.262 [0x7f6b7f6e1800] DEBUG - [FFMPEG] - nal_unit_type: 1, nal_ref_idc: 1
+Jul 15, 2018 02:13:04.262 [0x7f6b7f6e1800] DEBUG - [FFMPEG] - nal_unit_type: 1, nal_ref_idc: 1
+Jul 15, 2018 02:13:04.262 [0x7f6b7f6e1800] DEBUG - [FFMPEG] - nal_unit_type: 1, nal_ref_idc: 1
+Jul 15, 2018 02:13:04.262 [0x7f6b7f6e1800] DEBUG - [FFMPEG] - nal_unit_type: 1, nal_ref_idc: 1
+Jul 15, 2018 02:13:04.262 [0x7f6b7f6e1800] DEBUG - [FFMPEG] - nal_unit_type: 1, nal_ref_idc: 1
+Jul 15, 2018 02:13:04.262 [0x7f6b7f6e1800] DEBUG - [FFMPEG] - nal_unit_type: 1, nal_ref_idc: 1
+Jul 15, 2018 02:13:04.262 [0x7f6b7f6e1800] DEBUG - [FFMPEG] - nal_unit_type: 1, nal_ref_idc: 1
+Jul 15, 2018 02:13:04.262 [0x7f6b7f6e1800] DEBUG - [FFMPEG] - nal_unit_type: 1, nal_ref_idc: 1
+Jul 15, 2018 02:13:04.268 [0x7f6b7f6e1800] DEBUG - [FFMPEG] - nal_unit_type: 6, nal_ref_idc: 0
+Jul 15, 2018 02:13:04.268 [0x7f6b7f6e1800] DEBUG - [FFMPEG] - nal_unit_type: 1, nal_ref_idc: 0
+Jul 15, 2018 02:13:04.268 [0x7f6b7f6e1800] DEBUG - [FFMPEG] - nal_unit_type: 1, nal_ref_idc: 0
+Jul 15, 2018 02:13:04.268 [0x7f6b7f6e1800] DEBUG - [FFMPEG] - nal_unit_type: 1, nal_ref_idc: 0
+Jul 15, 2018 02:13:04.268 [0x7f6b7f6e1800] DEBUG - [FFMPEG] - nal_unit_type: 1, nal_ref_idc: 0
+Jul 15, 2018 02:13:04.268 [0x7f6b7f6e1800] DEBUG - [FFMPEG] - nal_unit_type: 1, nal_ref_idc: 0
+Jul 15, 2018 02:13:04.268 [0x7f6b7f6e1800] DEBUG - [FFMPEG] - nal_unit_type: 1, nal_ref_idc: 0
+Jul 15, 2018 02:13:04.268 [0x7f6b7f6e1800] DEBUG - [FFMPEG] - nal_unit_type: 1, nal_ref_idc: 0
+Jul 15, 2018 02:13:04.268 [0x7f6b7f6e1800] DEBUG - [FFMPEG] - nal_unit_type: 1, nal_ref_idc: 0
+Jul 15, 2018 02:13:04.273 [0x7f6b7f6e1800] DEBUG - [FFMPEG] - nal_unit_type: 6, nal_ref_idc: 0
+Jul 15, 2018 02:13:04.273 [0x7f6b7f6e1800] DEBUG - [FFMPEG] - nal_unit_type: 6, nal_ref_idc: 0
+Jul 15, 2018 02:13:04.273 [0x7f6b7f6e1800] DEBUG - [FFMPEG] - nal_unit_type: 5, nal_ref_idc: 1
+Jul 15, 2018 02:13:04.273 [0x7f6b7f6e1800] DEBUG - [FFMPEG] - nal_unit_type: 5, nal_ref_idc: 1
+Jul 15, 2018 02:13:04.273 [0x7f6b7f6e1800] DEBUG - [FFMPEG] - nal_unit_type: 5, nal_ref_idc: 1
+Jul 15, 2018 02:13:04.273 [0x7f6b7f6e1800] DEBUG - [FFMPEG] - nal_unit_type: 5, nal_ref_idc: 1
+Jul 15, 2018 02:13:04.273 [0x7f6b7f6e1800] DEBUG - [FFMPEG] - nal_unit_type: 5, nal_ref_idc: 1
+Jul 15, 2018 02:13:04.273 [0x7f6b7f6e1800] DEBUG - [FFMPEG] - nal_unit_type: 5, nal_ref_idc: 1
+Jul 15, 2018 02:13:04.273 [0x7f6b7f6e1800] DEBUG - [FFMPEG] - nal_unit_type: 5, nal_ref_idc: 1
+Jul 15, 2018 02:13:04.273 [0x7f6b7f6e1800] DEBUG - [FFMPEG] - nal_unit_type: 5, nal_ref_idc: 1
+Jul 15, 2018 02:13:04.283 [0x7f6b7f6e1800] DEBUG - [FFMPEG] - nal_unit_type: 6, nal_ref_idc: 0
+Jul 15, 2018 02:13:04.284 [0x7f6b7f6e1800] DEBUG - [FFMPEG] - nal_unit_type: 1, nal_ref_idc: 1
+Jul 15, 2018 02:13:04.284 [0x7f6b7f6e1800] DEBUG - [FFMPEG] - nal_unit_type: 1, nal_ref_idc: 1
+Jul 15, 2018 02:13:04.284 [0x7f6b7f6e1800] DEBUG - [FFMPEG] - nal_unit_type: 1, nal_ref_idc: 1
+Jul 15, 2018 02:13:04.284 [0x7f6b7f6e1800] DEBUG - [FFMPEG] - nal_unit_type: 1, nal_ref_idc: 1
+Jul 15, 2018 02:13:04.284 [0x7f6b7f6e1800] DEBUG - [FFMPEG] - nal_unit_type: 1, nal_ref_idc: 1
+Jul 15, 2018 02:13:04.284 [0x7f6b7f6e1800] DEBUG - [FFMPEG] - nal_unit_type: 1, nal_ref_idc: 1
+Jul 15, 2018 02:13:04.284 [0x7f6b7f6e1800] DEBUG - [FFMPEG] - nal_unit_type: 1, nal_ref_idc: 1
+Jul 15, 2018 02:13:04.284 [0x7f6b7f6e1800] DEBUG - [FFMPEG] - nal_unit_type: 1, nal_ref_idc: 1
+Jul 15, 2018 02:13:04.358 [0x7f6b7f6e1800] DEBUG - Loaded memory image of size 1920x800.
+Jul 15, 2018 02:13:04.440 [0x7f6b7f6e1800] DEBUG - Created chapter thumbnail for metadata item 7205, media item 15707 for chapter number 9:3648000 at "/config/Library/Application Support/Plex Media Server/Media/localhost/a/3ee2e0816372c24a5c572c8cf9fca42ff05179c.bundle/Contents/Chapters/chapter9.jpg"
+Jul 15, 2018 02:13:04.447 [0x7f6b7f6e1800] DEBUG - Creating /config/Library/Application Support/Plex Media Server/Media/localhost/a/3ee2e0816372c24a5c572c8cf9fca42ff05179c.bundle/Contents/Chapters/chapter10.jpg (62.4%, 1280x720).
+Jul 15, 2018 02:13:04.447 [0x7f6b7f6e1800] DEBUG - [FFMPEG] - nal_unit_type: 7, nal_ref_idc: 1
+Jul 15, 2018 02:13:04.447 [0x7f6b7f6e1800] DEBUG - [FFMPEG] - nal_unit_type: 8, nal_ref_idc: 1
+Jul 15, 2018 02:13:04.451 [0x7f6b7f6e1800] DEBUG - [FFMPEG] - nal_unit_type: 7, nal_ref_idc: 1
+Jul 15, 2018 02:13:04.452 [0x7f6b7f6e1800] DEBUG - [FFMPEG] - nal_unit_type: 8, nal_ref_idc: 1
+Jul 15, 2018 02:13:04.452 [0x7f6b7f6e1800] DEBUG - [FFMPEG] - nal_unit_type: 6, nal_ref_idc: 0
+Jul 15, 2018 02:13:04.452 [0x7f6b7f6e1800] DEBUG - [FFMPEG] - nal_unit_type: 6, nal_ref_idc: 0
+Jul 15, 2018 02:13:04.452 [0x7f6b7f6e1800] DEBUG - [FFMPEG] - nal_unit_type: 5, nal_ref_idc: 1
+Jul 15, 2018 02:13:04.452 [0x7f6b7f6e1800] DEBUG - [FFMPEG] - nal_unit_type: 5, nal_ref_idc: 1
+Jul 15, 2018 02:13:04.452 [0x7f6b7f6e1800] DEBUG - [FFMPEG] - nal_unit_type: 5, nal_ref_idc: 1
+Jul 15, 2018 02:13:04.452 [0x7f6b7f6e1800] DEBUG - [FFMPEG] - nal_unit_type: 5, nal_ref_idc: 1
+Jul 15, 2018 02:13:04.452 [0x7f6b7f6e1800] DEBUG - [FFMPEG] - nal_unit_type: 5, nal_ref_idc: 1
+Jul 15, 2018 02:13:04.452 [0x7f6b7f6e1800] DEBUG - [FFMPEG] - nal_unit_type: 5, nal_ref_idc: 1
+Jul 15, 2018 02:13:04.452 [0x7f6b7f6e1800] DEBUG - [FFMPEG] - nal_unit_type: 5, nal_ref_idc: 1
+Jul 15, 2018 02:13:04.452 [0x7f6b7f6e1800] DEBUG - [FFMPEG] - nal_unit_type: 5, nal_ref_idc: 1
+Jul 15, 2018 02:13:04.452 [0x7f6b7f6e1800] DEBUG - [FFMPEG] - Format yuv420p chosen by get_format().
+Jul 15, 2018 02:13:04.453 [0x7f6b7f6e1800] DEBUG - [FFMPEG] - no picture 
+Jul 15, 2018 02:13:04.464 [0x7f6b7f6e1800] DEBUG - [FFMPEG] - nal_unit_type: 6, nal_ref_idc: 0
+Jul 15, 2018 02:13:04.464 [0x7f6b7f6e1800] DEBUG - [FFMPEG] - nal_unit_type: 1, nal_ref_idc: 1
+Jul 15, 2018 02:13:04.464 [0x7f6b7f6e1800] DEBUG - [FFMPEG] - nal_unit_type: 1, nal_ref_idc: 1
+Jul 15, 2018 02:13:04.464 [0x7f6b7f6e1800] DEBUG - [FFMPEG] - nal_unit_type: 1, nal_ref_idc: 1
+Jul 15, 2018 02:13:04.464 [0x7f6b7f6e1800] DEBUG - [FFMPEG] - nal_unit_type: 1, nal_ref_idc: 1
+Jul 15, 2018 02:13:04.464 [0x7f6b7f6e1800] DEBUG - [FFMPEG] - nal_unit_type: 1, nal_ref_idc: 1
+Jul 15, 2018 02:13:04.464 [0x7f6b7f6e1800] DEBUG - [FFMPEG] - nal_unit_type: 1, nal_ref_idc: 1
+Jul 15, 2018 02:13:04.464 [0x7f6b7f6e1800] DEBUG - [FFMPEG] - nal_unit_type: 1, nal_ref_idc: 1
+Jul 15, 2018 02:13:04.464 [0x7f6b7f6e1800] DEBUG - [FFMPEG] - nal_unit_type: 1, nal_ref_idc: 1
+Jul 15, 2018 02:13:04.540 [0x7f6b7f6e1800] DEBUG - Loaded memory image of size 1920x800.
+Jul 15, 2018 02:13:04.624 [0x7f6b7f6e1800] DEBUG - Created chapter thumbnail for metadata item 7205, media item 15707 for chapter number 10:4015000 at "/config/Library/Application Support/Plex Media Server/Media/localhost/a/3ee2e0816372c24a5c572c8cf9fca42ff05179c.bundle/Contents/Chapters/chapter10.jpg"
+Jul 15, 2018 02:13:04.629 [0x7f6b7f6e1800] DEBUG - Creating /config/Library/Application Support/Plex Media Server/Media/localhost/a/3ee2e0816372c24a5c572c8cf9fca42ff05179c.bundle/Contents/Chapters/chapter11.jpg (68.3%, 1280x720).
+Jul 15, 2018 02:13:04.629 [0x7f6b7f6e1800] DEBUG - [FFMPEG] - nal_unit_type: 7, nal_ref_idc: 1
+Jul 15, 2018 02:13:04.629 [0x7f6b7f6e1800] DEBUG - [FFMPEG] - nal_unit_type: 8, nal_ref_idc: 1
+Jul 15, 2018 02:13:04.652 [0x7f6b7f6e1800] DEBUG - [FFMPEG] - nal_unit_type: 7, nal_ref_idc: 1
+Jul 15, 2018 02:13:04.652 [0x7f6b7f6e1800] DEBUG - [FFMPEG] - nal_unit_type: 8, nal_ref_idc: 1
+Jul 15, 2018 02:13:04.652 [0x7f6b7f6e1800] DEBUG - [FFMPEG] - nal_unit_type: 6, nal_ref_idc: 0
+Jul 15, 2018 02:13:04.652 [0x7f6b7f6e1800] DEBUG - [FFMPEG] - nal_unit_type: 6, nal_ref_idc: 0
+Jul 15, 2018 02:13:04.652 [0x7f6b7f6e1800] DEBUG - [FFMPEG] - nal_unit_type: 5, nal_ref_idc: 1
+Jul 15, 2018 02:13:04.652 [0x7f6b7f6e1800] DEBUG - [FFMPEG] - nal_unit_type: 5, nal_ref_idc: 1
+Jul 15, 2018 02:13:04.652 [0x7f6b7f6e1800] DEBUG - [FFMPEG] - nal_unit_type: 5, nal_ref_idc: 1
+Jul 15, 2018 02:13:04.652 [0x7f6b7f6e1800] DEBUG - [FFMPEG] - nal_unit_type: 5, nal_ref_idc: 1
+Jul 15, 2018 02:13:04.652 [0x7f6b7f6e1800] DEBUG - [FFMPEG] - nal_unit_type: 5, nal_ref_idc: 1
+Jul 15, 2018 02:13:04.652 [0x7f6b7f6e1800] DEBUG - [FFMPEG] - nal_unit_type: 5, nal_ref_idc: 1
+Jul 15, 2018 02:13:04.652 [0x7f6b7f6e1800] DEBUG - [FFMPEG] - nal_unit_type: 5, nal_ref_idc: 1
+Jul 15, 2018 02:13:04.652 [0x7f6b7f6e1800] DEBUG - [FFMPEG] - nal_unit_type: 5, nal_ref_idc: 1
+Jul 15, 2018 02:13:04.652 [0x7f6b7f6e1800] DEBUG - [FFMPEG] - Format yuv420p chosen by get_format().
+Jul 15, 2018 02:13:04.653 [0x7f6b7f6e1800] DEBUG - [FFMPEG] - no picture 
+Jul 15, 2018 02:13:04.668 [0x7f6b7f6e1800] DEBUG - [FFMPEG] - nal_unit_type: 6, nal_ref_idc: 0
+Jul 15, 2018 02:13:04.668 [0x7f6b7f6e1800] DEBUG - [FFMPEG] - nal_unit_type: 1, nal_ref_idc: 1
+Jul 15, 2018 02:13:04.668 [0x7f6b7f6e1800] DEBUG - [FFMPEG] - nal_unit_type: 1, nal_ref_idc: 1
+Jul 15, 2018 02:13:04.668 [0x7f6b7f6e1800] DEBUG - [FFMPEG] - nal_unit_type: 1, nal_ref_idc: 1
+Jul 15, 2018 02:13:04.668 [0x7f6b7f6e1800] DEBUG - [FFMPEG] - nal_unit_type: 1, nal_ref_idc: 1
+Jul 15, 2018 02:13:04.668 [0x7f6b7f6e1800] DEBUG - [FFMPEG] - nal_unit_type: 1, nal_ref_idc: 1
+Jul 15, 2018 02:13:04.668 [0x7f6b7f6e1800] DEBUG - [FFMPEG] - nal_unit_type: 1, nal_ref_idc: 1
+Jul 15, 2018 02:13:04.668 [0x7f6b7f6e1800] DEBUG - [FFMPEG] - nal_unit_type: 1, nal_ref_idc: 1
+Jul 15, 2018 02:13:04.668 [0x7f6b7f6e1800] DEBUG - [FFMPEG] - nal_unit_type: 1, nal_ref_idc: 1
+Jul 15, 2018 02:13:04.749 [0x7f6b7f6e1800] DEBUG - Loaded memory image of size 1920x800.
+Jul 15, 2018 02:13:04.832 [0x7f6b7f6e1800] DEBUG - Created chapter thumbnail for metadata item 7205, media item 15707 for chapter number 11:4394000 at "/config/Library/Application Support/Plex Media Server/Media/localhost/a/3ee2e0816372c24a5c572c8cf9fca42ff05179c.bundle/Contents/Chapters/chapter11.jpg"
+Jul 15, 2018 02:13:04.839 [0x7f6b7f6e1800] DEBUG - Creating /config/Library/Application Support/Plex Media Server/Media/localhost/a/3ee2e0816372c24a5c572c8cf9fca42ff05179c.bundle/Contents/Chapters/chapter12.jpg (72.6%, 1280x720).
+Jul 15, 2018 02:13:04.839 [0x7f6b7f6e1800] DEBUG - [FFMPEG] - nal_unit_type: 7, nal_ref_idc: 1
+Jul 15, 2018 02:13:04.839 [0x7f6b7f6e1800] DEBUG - [FFMPEG] - nal_unit_type: 8, nal_ref_idc: 1
+Jul 15, 2018 02:13:04.849 [0x7f6b7f6e1800] DEBUG - [FFMPEG] - nal_unit_type: 7, nal_ref_idc: 1
+Jul 15, 2018 02:13:04.850 [0x7f6b7f6e1800] DEBUG - [FFMPEG] - nal_unit_type: 8, nal_ref_idc: 1
+Jul 15, 2018 02:13:04.850 [0x7f6b7f6e1800] DEBUG - [FFMPEG] - nal_unit_type: 6, nal_ref_idc: 0
+Jul 15, 2018 02:13:04.850 [0x7f6b7f6e1800] DEBUG - [FFMPEG] - nal_unit_type: 6, nal_ref_idc: 0
+Jul 15, 2018 02:13:04.850 [0x7f6b7f6e1800] DEBUG - [FFMPEG] - nal_unit_type: 5, nal_ref_idc: 1
+Jul 15, 2018 02:13:04.850 [0x7f6b7f6e1800] DEBUG - [FFMPEG] - nal_unit_type: 5, nal_ref_idc: 1
+Jul 15, 2018 02:13:04.850 [0x7f6b7f6e1800] DEBUG - [FFMPEG] - nal_unit_type: 5, nal_ref_idc: 1
+Jul 15, 2018 02:13:04.850 [0x7f6b7f6e1800] DEBUG - [FFMPEG] - nal_unit_type: 5, nal_ref_idc: 1
+Jul 15, 2018 02:13:04.850 [0x7f6b7f6e1800] DEBUG - [FFMPEG] - nal_unit_type: 5, nal_ref_idc: 1
+Jul 15, 2018 02:13:04.850 [0x7f6b7f6e1800] DEBUG - [FFMPEG] - nal_unit_type: 5, nal_ref_idc: 1
+Jul 15, 2018 02:13:04.850 [0x7f6b7f6e1800] DEBUG - [FFMPEG] - nal_unit_type: 5, nal_ref_idc: 1
+Jul 15, 2018 02:13:04.850 [0x7f6b7f6e1800] DEBUG - [FFMPEG] - nal_unit_type: 5, nal_ref_idc: 1
+Jul 15, 2018 02:13:04.850 [0x7f6b7f6e1800] DEBUG - [FFMPEG] - Format yuv420p chosen by get_format().
+Jul 15, 2018 02:13:04.851 [0x7f6b7f6e1800] DEBUG - [FFMPEG] - no picture 
+Jul 15, 2018 02:13:04.858 [0x7f6b7f6e1800] DEBUG - [FFMPEG] - nal_unit_type: 6, nal_ref_idc: 0
+Jul 15, 2018 02:13:04.858 [0x7f6b7f6e1800] DEBUG - [FFMPEG] - nal_unit_type: 1, nal_ref_idc: 1
+Jul 15, 2018 02:13:04.858 [0x7f6b7f6e1800] DEBUG - [FFMPEG] - nal_unit_type: 1, nal_ref_idc: 1
+Jul 15, 2018 02:13:04.858 [0x7f6b7f6e1800] DEBUG - [FFMPEG] - nal_unit_type: 1, nal_ref_idc: 1
+Jul 15, 2018 02:13:04.858 [0x7f6b7f6e1800] DEBUG - [FFMPEG] - nal_unit_type: 1, nal_ref_idc: 1
+Jul 15, 2018 02:13:04.858 [0x7f6b7f6e1800] DEBUG - [FFMPEG] - nal_unit_type: 1, nal_ref_idc: 1
+Jul 15, 2018 02:13:04.858 [0x7f6b7f6e1800] DEBUG - [FFMPEG] - nal_unit_type: 1, nal_ref_idc: 1
+Jul 15, 2018 02:13:04.858 [0x7f6b7f6e1800] DEBUG - [FFMPEG] - nal_unit_type: 1, nal_ref_idc: 1
+Jul 15, 2018 02:13:04.858 [0x7f6b7f6e1800] DEBUG - [FFMPEG] - nal_unit_type: 1, nal_ref_idc: 1
+Jul 15, 2018 02:13:04.937 [0x7f6b7f6e1800] DEBUG - Loaded memory image of size 1920x800.
+Jul 15, 2018 02:13:05.019 [0x7f6b7f6e1800] DEBUG - Created chapter thumbnail for metadata item 7205, media item 15707 for chapter number 12:4672000 at "/config/Library/Application Support/Plex Media Server/Media/localhost/a/3ee2e0816372c24a5c572c8cf9fca42ff05179c.bundle/Contents/Chapters/chapter12.jpg"
+Jul 15, 2018 02:13:05.025 [0x7f6b7f6e1800] DEBUG - [MI] Closing input file: /movies/Rampage.2018.1080p.WEB.h264-WEBTiFUL/rampage.2018.1080p.web.h264-webtiful.mkv
+Jul 15, 2018 02:13:05.028 [0x7f6b7f6e1800] DEBUG - [FFMPEG] - Statistics: 90178620 bytes read, 20 seeks
+Jul 15, 2018 02:13:05.028 [0x7f6b7f6e1800] DEBUG - Generated new chapter thumbnails for Rampage.

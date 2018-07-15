@@ -1,0 +1,689 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Movie>
+  <art>
+    <item external="True" url="http://image.tmdb.org/t/p/original/hXpWqy7E0Lq6sn79i1j0JRZif9c.jpg" sort_order="1" provider="com.plexapp.agents.imdb" media="com.plexapp.agents.imdb_4a1b930a8834aac11cfa82ede2e5de28370b871a"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/4qfXT9BtxeFuamR4F49m2mpKQI1.jpg" preview="com.plexapp.agents.imdb_929f9ea8256ce64eed2a4a8aab919f1d0ab8b52a" sort_order="2" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/uOHtJgNiXuAsZoZbHm5OjSbOh5a.jpg" preview="com.plexapp.agents.imdb_c26c0308faa50c207bf856044161acb7f6ea5c6c" sort_order="3" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/cljUbTSL2envuSDr7hTAh5RE2FS.jpg" preview="com.plexapp.agents.imdb_507a06ecd0ef2cc1cd8a3ad3c8ac544109d327ec" sort_order="4" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/5PBRkgLyzpM4dy9RfBe2OgLkLBc.jpg" preview="com.plexapp.agents.imdb_1001bd0d44812fead36daaff58fbc639881bd7be" sort_order="5" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/o8J0NucOQxhGTpdCqTcrsm1Y7Up.jpg" preview="com.plexapp.agents.imdb_8b18c6b959336746cedf492e533c390149f63df3" sort_order="6" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/dfWkH4Xpy7XbHiyS2kke0Bi5NDi.jpg" preview="com.plexapp.agents.imdb_4760efb8a89fddfea9f3963942ccdb4553138558" sort_order="7" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/kRBEKSNgXASvGFjtWOMyprumb1Z.jpg" preview="com.plexapp.agents.imdb_52e0a0c63f8ce502f7df3e4496226fc8498ee455" sort_order="8" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/3zkis6mR4IzdXIHcBWhEnrNupYy.jpg" preview="com.plexapp.agents.imdb_a5e9110c66981ddce11a0f089644e4dbd2486385" sort_order="9" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/cDHSm5a7kemLpI4zBYZMCFW9cMO.jpg" preview="com.plexapp.agents.imdb_3b38121c0c4369950c10946a7b724ecb0a661e9a" sort_order="10" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/4KywgypA5LzEvoKZJP861iEzTme.jpg" preview="com.plexapp.agents.imdb_891df1ce4b52a718c0a17c9beb57586c7b02f0f7" sort_order="11" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/mvysShKlz2wUrzuJYnoC9m51P6h.jpg" preview="com.plexapp.agents.imdb_4633f6e8c5ea63aa020c8e70f7aac80cd33d391a" sort_order="12" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/n0weiMZv250FbraVFZ1lRaJRgif.jpg" preview="com.plexapp.agents.imdb_b15af93fb23b42116017c4033337e75ec66f8964" sort_order="13" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/p4ztwCEnqpehiP6l5QRgyyfI6VC.jpg" preview="com.plexapp.agents.imdb_b906e9cdd937ba4e0e7e84b41b2b126c98c33eaf" sort_order="14" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/2dMkNqXDQd1MpnFiotVZzvZDrdw.jpg" preview="com.plexapp.agents.imdb_180ca0b12ae2c0eb65837cc35b7898d77b2e62d2" sort_order="15" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/mBZAZusD6SrZK6WPa72H1VgGavV.jpg" preview="com.plexapp.agents.imdb_54f4bc91d692d2c3417ef025d59c9b86ebc25ee0" sort_order="16" provider="com.plexapp.agents.imdb"/>
+  </art>
+  <banners/>
+  <chapters>
+    <item index="0">
+      <title>Prologue</title>
+      <end_time_offset>208000</end_time_offset>
+      <start_time_offset>0</start_time_offset>
+    </item>
+    <item index="1">
+      <title>Hostages on the Lemurian Star</title>
+      <end_time_offset>811000</end_time_offset>
+      <start_time_offset>208000</start_time_offset>
+    </item>
+    <item index="2">
+      <title>Don't Hold Your Breath</title>
+      <end_time_offset>1077000</end_time_offset>
+      <start_time_offset>811000</start_time_offset>
+    </item>
+    <item index="3">
+      <title>Steve Visits the Smithsonian</title>
+      <end_time_offset>1345000</end_time_offset>
+      <start_time_offset>1077000</start_time_offset>
+    </item>
+    <item index="4">
+      <title>Project Insight</title>
+      <end_time_offset>2000000</end_time_offset>
+      <start_time_offset>1345000</start_time_offset>
+    </item>
+    <item index="5">
+      <title>In Pursuit</title>
+      <end_time_offset>2487000</end_time_offset>
+      <start_time_offset>2000000</start_time_offset>
+    </item>
+    <item index="6">
+      <title>Steve Meets Alexander Pierce</title>
+      <end_time_offset>3097000</end_time_offset>
+      <start_time_offset>2487000</start_time_offset>
+    </item>
+    <item index="7">
+      <title>Fugitives from S.H.I.E.L.D.</title>
+      <end_time_offset>3503000</end_time_offset>
+      <start_time_offset>3097000</start_time_offset>
+    </item>
+    <item index="8">
+      <title>Uncovering the Past</title>
+      <end_time_offset>4060000</end_time_offset>
+      <start_time_offset>3503000</start_time_offset>
+    </item>
+    <item index="9">
+      <title>Call It a Resume</title>
+      <end_time_offset>4582000</end_time_offset>
+      <start_time_offset>4060000</start_time_offset>
+    </item>
+    <item index="10">
+      <title>Facing Off with the Winter Soldier</title>
+      <end_time_offset>5083000</end_time_offset>
+      <start_time_offset>4582000</start_time_offset>
+    </item>
+    <item index="11">
+      <title>Captain's Orders</title>
+      <end_time_offset>5537000</end_time_offset>
+      <start_time_offset>5083000</start_time_offset>
+    </item>
+    <item index="12">
+      <title>13 Paying a Price</title>
+      <end_time_offset>5826000</end_time_offset>
+      <start_time_offset>5537000</start_time_offset>
+    </item>
+    <item index="13">
+      <title>Engaging</title>
+      <end_time_offset>6553000</end_time_offset>
+      <start_time_offset>5826000</start_time_offset>
+    </item>
+    <item index="14">
+      <title>The End of the Line</title>
+      <end_time_offset>6903000</end_time_offset>
+      <start_time_offset>6553000</start_time_offset>
+    </item>
+    <item index="15">
+      <title>Battle over the Potomac</title>
+      <end_time_offset>7271000</end_time_offset>
+      <start_time_offset>6903000</start_time_offset>
+    </item>
+    <item index="16">
+      <title>Life After S.H.I.E.L.D.</title>
+      <end_time_offset>7582000</end_time_offset>
+      <start_time_offset>7271000</start_time_offset>
+    </item>
+    <item index="17">
+      <title>End Credits</title>
+      <end_time_offset>-1</end_time_offset>
+      <start_time_offset>7582000</start_time_offset>
+    </item>
+  </chapters>
+  <collections/>
+  <content_rating>PG-13</content_rating>
+  <countries>
+    <item index="0">USA</item>
+  </countries>
+  <directors>
+    <item index="0">
+      <photo>http://image.tmdb.org/t/p/original/679Os4tbY1YsU01KdLhM1NPXNWu.jpg</photo>
+      <role/>
+      <name>Joe Russo</name>
+    </item>
+    <item index="1">
+      <photo>http://image.tmdb.org/t/p/original/fIa5wXK7MHAquhefTr3TcnZiYy8.jpg</photo>
+      <role/>
+      <name>Anthony Russo</name>
+    </item>
+  </directors>
+  <duration>8160000</duration>
+  <genres>
+    <item index="0">Action</item>
+    <item index="1">Adventure</item>
+    <item index="2">Sci-Fi</item>
+    <item index="3">Thriller</item>
+  </genres>
+  <originally_available_at>2014-03-20</originally_available_at>
+  <posters>
+    <item external="True" url="http://image.tmdb.org/t/p/original/pH4oeiZAh9a40tly4D0l6aAB3ms.jpg" sort_order="1" provider="com.plexapp.agents.imdb" media="com.plexapp.agents.imdb_524fbd45283c7a6c4e0289243c418660eb25ca21"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/5TQ6YDmymBpnF005OyoB7ohZps9.jpg" preview="com.plexapp.agents.imdb_c9c904903a34a0ae6a08bc0ecd9ca08b5854dfdf" sort_order="2" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/zt6b493XEL2OQ1bCSKccZ7V0iRY.jpg" preview="com.plexapp.agents.imdb_52ac35dceb25da42ff720f7bd4078266ba3330a6" sort_order="3" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/w869KUZ1Nuv7kkGxVItaYdSu3oJ.jpg" preview="com.plexapp.agents.imdb_e59cd306a96e4be3223bb8bce9ae003273c6726f" sort_order="4" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/1zdiZEGSGkJAeqoCWX4Ocyy9l8V.jpg" preview="com.plexapp.agents.imdb_07bf6f7553336122c0b1a74439242babfc315f14" sort_order="5" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/c60yZqggFsYEIn9XSVYGzJljdji.jpg" preview="com.plexapp.agents.imdb_0cfe25a4faddc79fa96a899c24d2c57c62ecff9f" sort_order="6" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/enUM2mWUULwTcKkIodQKLrEV7Bq.jpg" preview="com.plexapp.agents.imdb_e8591d766207a3b69928f89af05716ea1021932a" sort_order="7" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/l79VoTIPEXwo9zCTPTnpqdASvus.jpg" preview="com.plexapp.agents.imdb_b4381fc86811a7098d99ca65e7cd449aa1aa4220" sort_order="8" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/olDtSNItEQzlkGLA1OFDfjMR5c1.jpg" preview="com.plexapp.agents.imdb_9f902d9b3951cddd71dcb9c6965b53182d88ebb8" sort_order="9" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/1FRRbfXfwAX05syj3QS0oKvU588.jpg" preview="com.plexapp.agents.imdb_4aba155cef875302fca07de7ce2d4a724210151d" sort_order="10" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/uz35VkzlmT8ZkICm9W1ACKDYr1J.jpg" preview="com.plexapp.agents.imdb_2308cf94a8c8e87fddc925ca854e91be06d6bca5" sort_order="11" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/jCyq49PemkvsbpniU2T1eZJgS0A.jpg" preview="com.plexapp.agents.imdb_2cf4643d95bb9cdec1caa4c9de6992613af32736" sort_order="12" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/2vr2ytsPVZT8QCo4WmRDnNlV8QD.jpg" preview="com.plexapp.agents.imdb_f8b695236116d227f6b44b9b080c6cda5eab12d6" sort_order="13" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/53J0wu3SFDLoHCuDSbNXoWUYrDr.jpg" preview="com.plexapp.agents.imdb_ebb93afaba6d945085b6a6e3a30245836288d45a" sort_order="14" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/rlpT1I4MiYnbKji53AFkGfcwiRQ.jpg" preview="com.plexapp.agents.imdb_df8e272acc4722522b04a8980ac2621d43fc4241" sort_order="15" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/pfj6TrgctKHDn3ADTdRkvvpqGCa.jpg" preview="com.plexapp.agents.imdb_19234bdc3b1919f915f04cf887de62cb23242d5a" sort_order="16" provider="com.plexapp.agents.imdb"/>
+  </posters>
+  <producers>
+    <item index="0">
+      <photo>http://image.tmdb.org/t/p/original/AewbqQQT0FbcE358rcbopZ3zgDV.jpg</photo>
+      <role/>
+      <name>Kevin Feige</name>
+    </item>
+  </producers>
+  <rating>8.9</rating>
+  <rating_image>rottentomatoes://image.rating.ripe</rating_image>
+  <audience_rating>9.2</audience_rating>
+  <audience_rating_image>rottentomatoes://image.rating.upright</audience_rating_image>
+  <reviews>
+    <item index="0">
+      <text>It knocks down a lot of the infrastructure the previous films had created, and it does so in a way that feels organic and refreshing for the Marvel world at large.</text>
+      <source>The Atlantic</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>http://www.theatlantic.com/entertainment/archive/2014/04/captain-america-the-winter-soldier-is-shield-throwing-conspiracy-thriller/360106/</link>
+      <author>David Sims</author>
+    </item>
+    <item index="1">
+      <text>A movie that is, in the best sense of the word, a Marvel.</text>
+      <source>The Atlantic</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>http://www.theatlantic.com/entertainment/archive/2014/04/a-somber-super-em-captain-america-the-winter-soldier-em/360155/</link>
+      <author>Christopher Orr</author>
+    </item>
+    <item index="2">
+      <text>Beneath the expensive, computer-generated busyness of this second Captain America installment is a bracing, old-style conspiracy thriller made extra-scary by new technology and the increasingly ugly trade-offs of a post-9/11 world.</text>
+      <source>New York Magazine/Vulture</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>http://www.vulture.com/2014/04/review-captain-america-the-winter-soldier.html</link>
+      <author>David Edelstein</author>
+    </item>
+    <item index="3">
+      <text>This is the first Marvel Studios movie since the original Iron Man that really stands on its own.</text>
+      <source>Globe and Mail</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>http://www.theglobeandmail.com/arts/film/film-reviews/captain-america-american-beauty/article17805222/</link>
+      <author>Adam Nayman</author>
+    </item>
+    <item index="4">
+      <text>In "Winter Soldier," amidst the chaos, our hero learns to be wary of the modern world. Welcome to the 21st century, Cap.</text>
+      <source>Detroit News</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>http://www.detroitnews.com/article/20140404/ENT02/304040026</link>
+      <author>Tom Long</author>
+    </item>
+    <item index="5">
+      <text>There's too much going on: the Marvel Universe stuff, the WikiLeaks-ish paranoia stuff, the video game-ish CG visual effects stuff, the epic John Woo-ish everybody-pointing-a-weapon-at-everybody-else face-off stuff.</text>
+      <source>Philadelphia Inquirer</source>
+      <image>rottentomatoes://image.review.rotten</image>
+      <link>http://www.philly.com/philly/entertainment/movies/20140404__Winter_Soldier___Captain_America_beaten_by_Hollywood_bluster.html</link>
+      <author>Steven Rea</author>
+    </item>
+    <item index="6">
+      <text>We not only get an edgier, more complex, more compelling storyline, we get the most badass 95-year-old the world has ever known.</text>
+      <source>Richard Roeper.com</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>http://www.richardroeper.com/reviews/captainamericathewintersoldier.aspx</link>
+      <author>Richard Roeper</author>
+    </item>
+    <item index="7">
+      <text>Fans of this franchise should expect more than a boilerplate action flick that brings absolutely nothing new to the genre.</text>
+      <source>Us Weekly</source>
+      <image>rottentomatoes://image.review.rotten</image>
+      <link>http://www.usmagazine.com/entertainment/news/captain-america-the-winter-soldier-review-chris-evans-is-perfectly-cast-but-film-brings-nothing-new-to-the-genre-201434</link>
+      <author>Mara Reinstein</author>
+    </item>
+    <item index="8">
+      <text>If we must endure yet another spring-summer cycle of comic book superheroes, this movie at least delivers the wham-bang goods (recycled though they may be).</text>
+      <source>Christian Science Monitor</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>http://www.csmonitor.com/The-Culture/Movies/2014/0403/Captain-America-The-Winter-Soldier-is-topical-with-nimble-action-scenes</link>
+      <author>Peter Rainer</author>
+    </item>
+    <item index="9">
+      <text>I had fun. But I could have had more.</text>
+      <source>Grantland</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>http://grantland.com/features/captain-america-chris-evans-scarlett-johansson/</link>
+      <author>Wesley Morris</author>
+    </item>
+    <item index="10">
+      <text>Like many others of its type, [it] gets off to a kinetic start only to lose steam before blowing everything up.</text>
+      <source>New York Times</source>
+      <image>rottentomatoes://image.review.rotten</image>
+      <link>http://www.nytimes.com/2014/04/04/movies/hero-returns-in-captain-america-the-winter-soldier.html?smid=tw-nytmovies&amp;seid=auto</link>
+      <author>Manohla Dargis</author>
+    </item>
+    <item index="11">
+      <text>There's darkness and confusion just under its comic-book surface.</text>
+      <source>Boston Globe</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>http://www.bostonglobe.com/arts/movies/2014/04/03/movie-review-things-get-darker-for-captain-america/wGmB3MyFS3gxsnOZo6L5SK/story.html</link>
+      <author>Ty Burr</author>
+    </item>
+    <item index="12">
+      <text>This film is unlikely to convert a non-Captain America lover into a fanatic but it's assembled with sufficient skill that those who enjoy this sort of motion picture will have a good time.</text>
+      <source>ReelViews</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>http://www.reelviews.net/php_review_template.php?identifier=2746</link>
+      <author>James Berardinelli</author>
+    </item>
+    <item index="13">
+      <text>Captain America: The Winter Soldier injects new life into the Marvel movie universe and the superhero genre.</text>
+      <source>Orange County Register</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>http://www.ocregister.com/articles/captain-608243-rogers-america.html</link>
+      <author>Michael Sragow</author>
+    </item>
+    <item index="14">
+      <text>"The First Avenger" was a work of art, while "The Winter Soldier" is serviceable entertainment.</text>
+      <source>Newsday</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>http://www.newsday.com/entertainment/movies/captain-america-the-winter-soldier-review-bruising-action-1.7585588</link>
+      <author>Rafer Guzman</author>
+    </item>
+    <item index="15">
+      <text>The best kind of blockbuster comic-book movie, tweaking the brain while dazzling the eye.</text>
+      <source>Toronto Star</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>http://www.thestar.com/entertainment/movies/2014/04/03/captain_america_meets_modernday_paranoia_in_the_winter_soldier_review.html</link>
+      <author>Peter Howell</author>
+    </item>
+    <item index="16">
+      <text>Unless you're intimately familiar with the so-called Marvel universe (or you really love CG explosions), little of this will resonate.</text>
+      <source>Chicago Reader</source>
+      <image>rottentomatoes://image.review.rotten</image>
+      <link>http://www.chicagoreader.com/chicago/captain-america-the-winter-soldier/Film?oid=12676883</link>
+      <author>Ben Sachs</author>
+    </item>
+    <item index="17">
+      <text>"Captain America: The Winter Soldier" has the usual overlong running time, the half-hearted feints in the direction of human feeling and the obligatory action sequences that are big without being either exciting or particularly legible.</text>
+      <source>San Francisco Chronicle</source>
+      <image>rottentomatoes://image.review.rotten</image>
+      <link>http://www.sfgate.com/entertainment/article/Captain-America-The-Winter-Soldier-review-5373800.php</link>
+      <author>Mick LaSalle</author>
+    </item>
+  </reviews>
+  <roles>
+    <item index="0">
+      <photo>http://image.tmdb.org/t/p/original/kRlx7PxXkom7Daj8Z2HmcbPQB1o.jpg</photo>
+      <role>Steve Rogers / Captain America</role>
+      <name>Chris Evans</name>
+    </item>
+    <item index="1">
+      <photo>http://image.tmdb.org/t/p/original/oqvusJfmH4zN2LgdCjmB2TxetOd.jpg</photo>
+      <role>Natasha Romanoff / Black Widow</role>
+      <name>Scarlett Johansson</name>
+    </item>
+    <item index="2">
+      <photo>http://image.tmdb.org/t/p/original/AvCReLikjzYEf9XjTQxbv3JWgKT.jpg</photo>
+      <role>Nick Fury</role>
+      <name>Samuel L. Jackson</name>
+    </item>
+    <item index="3">
+      <photo>http://image.tmdb.org/t/p/original/b4mJIBWvEyzB8yyZWbmvfzwrdtp.jpg</photo>
+      <role>Alexander Pierce</role>
+      <name>Robert Redford</name>
+    </item>
+    <item index="4">
+      <photo>http://image.tmdb.org/t/p/original/8MOp9cazWpC4CrGLZnD11A6Dv8c.jpg</photo>
+      <role>James "Bucky" Barnes / Winter Soldier</role>
+      <name>Sebastian Stan</name>
+    </item>
+    <item index="5">
+      <photo>http://image.tmdb.org/t/p/original/5VGGJ0Co8SC94iiedWb2o3C36T.jpg</photo>
+      <role>Sam Wilson / Falcon</role>
+      <name>Anthony Mackie</name>
+    </item>
+    <item index="6">
+      <photo>http://image.tmdb.org/t/p/original/2nBBndedoyJvuDaUwZ1nNgip6Tn.jpg</photo>
+      <role>Sharon Carter / Agent 13</role>
+      <name>Emily VanCamp</name>
+    </item>
+    <item index="7">
+      <photo>http://image.tmdb.org/t/p/original/7JNCBT6A7zEN3ZqRjFNiTXGISo6.jpg</photo>
+      <role>Brock Rumlow</role>
+      <name>Frank Grillo</name>
+    </item>
+    <item index="8">
+      <photo>http://image.tmdb.org/t/p/original/7TIENKNwDdKSuYqyTENKtCznkCG.jpg</photo>
+      <role>Agent Maria Hill</role>
+      <name>Cobie Smulders</name>
+    </item>
+    <item index="9">
+      <photo>http://image.tmdb.org/t/p/original/4oakQGpzryNgjA2gGnAgxGzbH9m.jpg</photo>
+      <role>Agent Jasper Sitwell</role>
+      <name>Maximiliano Hernández</name>
+    </item>
+    <item index="10">
+      <photo>http://image.tmdb.org/t/p/original/6BhmZl0BaC0qTamFH7n4hfjqMqY.jpg</photo>
+      <role>Peggy Carter</role>
+      <name>Hayley Atwell</name>
+    </item>
+    <item index="11">
+      <photo>http://image.tmdb.org/t/p/original/9FUBqeLZZGz8Jmk9B18LODG6aky.jpg</photo>
+      <role>Dr. Arnim Zola</role>
+      <name>Toby Jones</name>
+    </item>
+    <item index="12">
+      <photo>http://image.tmdb.org/t/p/original/htTfBckaMml134A9lFKs6uij3yv.jpg</photo>
+      <role>Jack Rollins</role>
+      <name>Callan Mulvey</name>
+    </item>
+    <item index="13">
+      <photo>http://image.tmdb.org/t/p/original/2AwYEHV0cXXo3vtjiuwHMEkqh6R.jpg</photo>
+      <role>Councilwoman Hawley</role>
+      <name>Jenny Agutter</name>
+    </item>
+    <item index="14">
+      <photo>http://image.tmdb.org/t/p/original/1DEmHQyjfMLQssEE8PeFOtTYGn3.jpg</photo>
+      <role>Councilman Singh</role>
+      <name>Bernard White</name>
+    </item>
+    <item index="15">
+      <photo>http://image.tmdb.org/t/p/original/3eguw755Dl5a4PlDBAeOmTcgZLb.jpg</photo>
+      <role>Councilman Rockwell</role>
+      <name>Alan Dale</name>
+    </item>
+    <item index="16">
+      <photo>http://image.tmdb.org/t/p/original/xvMCVDvrQ2WlAB2LmkG6HAzlYag.jpg</photo>
+      <role>Councilman Yen</role>
+      <name>Chin Han</name>
+    </item>
+    <item index="17">
+      <photo>http://image.tmdb.org/t/p/original/6Xkv15KcWHfnloyhCgKIOcYcWiU.jpg</photo>
+      <role>Georges Batroc</role>
+      <name>Georges St-Pierre</name>
+    </item>
+    <item index="18">
+      <photo>http://image.tmdb.org/t/p/original/rMSod5msflCZBZ9LfJu8n4zYkuP.jpg</photo>
+      <role>Senator Stern</role>
+      <name>Garry Shandling</name>
+    </item>
+    <item index="19">
+      <photo>http://image.tmdb.org/t/p/original/dTr2gJPL7jELKVkcjtoNx80uVKR.jpg</photo>
+      <role>Smithsonian Guard</role>
+      <name>Stan Lee</name>
+    </item>
+    <item index="20">
+      <photo>http://image.tmdb.org/t/p/original/9Wz3nzH7xWmZyIV5SGbpodJx5sX.jpg</photo>
+      <role>French Pirate #1</role>
+      <name>Salvator Xuereb</name>
+    </item>
+    <item index="21">
+      <photo>http://image.tmdb.org/t/p/original/1XlYJr9FaTZG4582ziUIoHT8QSP.jpg</photo>
+      <role>French Pirate #2</role>
+      <name>Brian Duffy</name>
+    </item>
+    <item index="22">
+      <photo>http://image.tmdb.org/t/p/original/vewRMKCtxTL0x3HlG3bKZMm6KpU.jpg</photo>
+      <role>Engine Pirate</role>
+      <name>Zack Duhame</name>
+    </item>
+    <item index="23">
+      <photo>http://image.tmdb.org/t/p/original/eK4lnmoMDFdKsiSsBoetgOiPlXF.jpg</photo>
+      <role>French Radio Pirate</role>
+      <name>Adetokumboh M'Cormack</name>
+    </item>
+    <item index="24">
+      <photo/>
+      <role>Skinny Steve</role>
+      <name>Christopher George Sarris</name>
+    </item>
+    <item index="25">
+      <photo>http://image.tmdb.org/t/p/original/2dreez33YIDG2sWfHAzSS96yGd4.jpg</photo>
+      <role>Specialist Cameron Klein</role>
+      <name>Aaron Himelstein</name>
+    </item>
+    <item index="26">
+      <photo/>
+      <role>Launch Tech</role>
+      <name>Allan Chanes</name>
+    </item>
+    <item index="27">
+      <photo>http://image.tmdb.org/t/p/original/679Os4tbY1YsU01KdLhM1NPXNWu.jpg</photo>
+      <role>Dr. Fine (as Gozie Agbo)</role>
+      <name>Joe Russo</name>
+    </item>
+    <item index="28">
+      <photo>http://image.tmdb.org/t/p/original/tyeKi52yruPdxOkEMKhBKCnkp5V.jpg</photo>
+      <role>SHIELD Interrogator #1</role>
+      <name>Christopher Markus</name>
+    </item>
+    <item index="29">
+      <photo>http://image.tmdb.org/t/p/original/fa8DAGpANcBTTXO4bbNMrCFufmV.jpg</photo>
+      <role>SHIELD Interrogator #2</role>
+      <name>Stephen McFeely</name>
+    </item>
+    <item index="30">
+      <photo>http://image.tmdb.org/t/p/original/n8v5P68qjjYKmdzZx1CbJ3ps9gR.jpg</photo>
+      <role>Scientist #1</role>
+      <name>Pat Healy</name>
+    </item>
+    <item index="31">
+      <photo>http://image.tmdb.org/t/p/original/dcXApNLVHS9DHvRTVF238WSgLc9.jpg</photo>
+      <role>Scientist #2</role>
+      <name>Ed Brubaker</name>
+    </item>
+    <item index="32">
+      <photo>http://image.tmdb.org/t/p/original/alWQi61xarH9QqoondZDPjWOrwW.jpg</photo>
+      <role>Apple Employee</role>
+      <name>D.C. Pierson</name>
+    </item>
+    <item index="33">
+      <photo>http://image.tmdb.org/t/p/original/w0zT8Y2dQHU8FgV03NJoHJE6tmD.jpg</photo>
+      <role>Com Tech #1</role>
+      <name>Danny Pudi</name>
+    </item>
+    <item index="34">
+      <photo/>
+      <role>Com Tech #2</role>
+      <name>Bernie Zilinskas</name>
+    </item>
+    <item index="35">
+      <photo>http://image.tmdb.org/t/p/original/6dtxxJyeGL5kHpUEeshDfe3T4wB.jpg</photo>
+      <role>Renata (as Branka Katic)</role>
+      <name>Branka Katić</name>
+    </item>
+    <item index="36">
+      <photo/>
+      <role>Garcia</role>
+      <name>Angela Russo-Otstot</name>
+    </item>
+    <item index="37">
+      <photo>http://image.tmdb.org/t/p/original/dZR9ClEntAHON0XahsbOac36cLB.jpg</photo>
+      <role>Charlie XO</role>
+      <name>Jon Sklaroff</name>
+    </item>
+    <item index="38">
+      <photo>http://image.tmdb.org/t/p/original/zFHBwnGHAfyj3naHz6NbPaZNAuT.jpg</photo>
+      <role>Charlie Weapons Tech</role>
+      <name>Chad Todhunter</name>
+    </item>
+    <item index="39">
+      <photo>http://image.tmdb.org/t/p/original/ygPdAhxL1MTcr2ezqHxigf6uTja.jpg</photo>
+      <role>SHIELD Tech</role>
+      <name>Abigail Marlowe</name>
+    </item>
+    <item index="40">
+      <photo/>
+      <role>Lead SHIELD Pilot</role>
+      <name>Jeremy Maxwell</name>
+    </item>
+    <item index="41">
+      <photo>http://image.tmdb.org/t/p/original/gW6TNF1smdOXsiXe6xEM6tBZDWa.jpg</photo>
+      <role>Senior SHIELD Agent</role>
+      <name>Emerson Brooks</name>
+    </item>
+    <item index="42">
+      <photo>http://image.tmdb.org/t/p/original/kHzILtL1BS7bGFuoTTufqt78sOD.jpg</photo>
+      <role>SHIELD Agent</role>
+      <name>Evan Parke</name>
+    </item>
+    <item index="43">
+      <photo/>
+      <role>Strike SGT. #1</role>
+      <name>Ricardo Chacon</name>
+    </item>
+    <item index="44">
+      <photo/>
+      <role>Strike SGT. #2</role>
+      <name>Griffin M. Allen</name>
+    </item>
+    <item index="45">
+      <photo>http://image.tmdb.org/t/p/original/dulOMjk4nCawoE4YidVYBjj75A0.jpg</photo>
+      <role>Strike Agent</role>
+      <name>Ann Russo</name>
+    </item>
+    <item index="46">
+      <photo/>
+      <role>Strike Agent</role>
+      <name>Joe Rosalina</name>
+    </item>
+    <item index="47">
+      <photo/>
+      <role>Strike Agent</role>
+      <name>Michael Debeljak</name>
+    </item>
+    <item index="48">
+      <photo>http://image.tmdb.org/t/p/original/wzEilQWiKBsIJvn6vb3JzUvKU14.jpg</photo>
+      <role>Strike Agent</role>
+      <name>Eddie J. Fernandez</name>
+    </item>
+    <item index="49">
+      <photo/>
+      <role>25th Floor Strike Agent</role>
+      <name>Jody Hart</name>
+    </item>
+    <item index="50">
+      <photo>http://image.tmdb.org/t/p/original/jMW07MckDeKbGs6QBwYyA8qCjRA.jpg</photo>
+      <role>Scudder</role>
+      <name>Steven Culp</name>
+    </item>
+    <item index="51">
+      <photo>http://image.tmdb.org/t/p/original/uIlgDCoRZYKbzjBYUSrMQp9YlGu.jpg</photo>
+      <role>Human Resources Executive</role>
+      <name>Derek Hughes</name>
+    </item>
+    <item index="52">
+      <photo>http://image.tmdb.org/t/p/original/76nsNXZO6Jr4mROueUTTZa45yoX.jpg</photo>
+      <role>Doctor</role>
+      <name>Wendy Hoopes</name>
+    </item>
+    <item index="53">
+      <photo>http://image.tmdb.org/t/p/original/tm1wGrsjpuh53aX9UuXitYuqixm.jpg</photo>
+      <role>Lead EMT</role>
+      <name>Ethan Rains</name>
+    </item>
+    <item index="54">
+      <photo>http://image.tmdb.org/t/p/original/w3QxYKb6rk7gCU5YFGwxYl9EgdP.jpg</photo>
+      <role>CIA Instructor</role>
+      <name>Dominic Rains</name>
+    </item>
+    <item index="55">
+      <photo/>
+      <role>Capitol Hill Police</role>
+      <name>Charles Wittman</name>
+    </item>
+    <item index="56">
+      <photo>http://image.tmdb.org/t/p/original/aN40w0equy1hchPIHUz28KPc0Fh.jpg</photo>
+      <role>Capitol Hill Police</role>
+      <name>Andy Martinez, Jr.</name>
+    </item>
+    <item index="57">
+      <photo/>
+      <role>FBI Agent</role>
+      <name>Michael De Geus</name>
+    </item>
+    <item index="58">
+      <photo/>
+      <role>FBI Agent</role>
+      <name>Terence O'Rourke</name>
+    </item>
+    <item index="59">
+      <photo/>
+      <role>Committee Member</role>
+      <name>Anne Grimenstein</name>
+    </item>
+    <item index="60">
+      <photo/>
+      <role>Little Boy in the Smithsonian</role>
+      <name>Dante Rosalina</name>
+    </item>
+    <item index="61">
+      <photo>http://image.tmdb.org/t/p/original/m4poS8cn91Gz2uxSRqve5xrgkGI.jpg</photo>
+      <role>Fury Car Voice (voice)</role>
+      <name>Robert Clotworthy</name>
+    </item>
+    <item index="62">
+      <photo>http://image.tmdb.org/t/p/original/ngYV91xYfCu0JNcSxJ4yQ7tzOna.jpg</photo>
+      <role>The Smithsonian Narrator (voice)</role>
+      <name>Gary Sinise</name>
+    </item>
+    <item index="63">
+      <photo>http://image.tmdb.org/t/p/original/dk6ZhpAG4K2DgDmmWqUkM3BbPzR.jpg</photo>
+      <role>SHIELD Agent (uncredited)</role>
+      <name>Dean Barlage</name>
+    </item>
+    <item index="64">
+      <photo>http://image.tmdb.org/t/p/original/tQKHaaZLK9z6wJ3L8eEEF3dnuGs.jpg</photo>
+      <role>Museum Visitor (uncredited)</role>
+      <name>Debbie Scaletta</name>
+    </item>
+    <item index="65">
+      <photo>http://image.tmdb.org/t/p/original/6aubyjy4zS8CCGEbWuHp8QgMhJv.jpg</photo>
+      <role>Dr. List (uncredited)</role>
+      <name>Henry Goodman</name>
+    </item>
+    <item index="66">
+      <photo>http://image.tmdb.org/t/p/original/sAGn557s6oJ74SycAV2DPb26Vqn.jpg</photo>
+      <role>Baron Wolfgang von Strucker (uncredited)</role>
+      <name>Thomas Kretschmann</name>
+    </item>
+    <item index="67">
+      <photo>http://image.tmdb.org/t/p/original/iQrBTHUtKVI2kN4u0hRKQz667cx.jpg</photo>
+      <role>Pietro Maximoff (uncredited)</role>
+      <name>Aaron Taylor-Johnson</name>
+    </item>
+    <item index="68">
+      <photo>http://image.tmdb.org/t/p/original/mGyqAs1MwwE4gd490iKxSo193qA.jpg</photo>
+      <role>Wanda Maximoff (uncredited)</role>
+      <name>Elizabeth Olsen</name>
+    </item>
+    <item index="69">
+      <photo>http://image.tmdb.org/t/p/original/f2JzxHGRfS0TL6kysHfVfaAeruP.jpg</photo>
+      <role>SHIELD Computer (voice)</role>
+      <name>June Christopher</name>
+    </item>
+  </roles>
+  <similar>
+    <item index="0">Thor: The Dark World</item>
+    <item index="1">Captain America: The First Avenger</item>
+    <item index="2">X-Men: Days of Future Past</item>
+    <item index="3">Avengers: Age of Ultron</item>
+    <item index="4">The Amazing Spider-Man 2</item>
+    <item index="5">Ant-Man</item>
+    <item index="6">Iron Man 2</item>
+    <item index="7">Thor</item>
+    <item index="8">Transformers: Age of Extinction</item>
+    <item index="9">Godzilla</item>
+    <item index="10">Edge of Tomorrow</item>
+    <item index="11">The Incredible Hulk</item>
+    <item index="12">The Hobbit: The Desolation of Smaug</item>
+    <item index="13">Iron Man 3</item>
+    <item index="14">The Wolverine</item>
+    <item index="15">Man of Steel</item>
+    <item index="16">Captain America: Civil War</item>
+    <item index="17">Guardians of the Galaxy</item>
+    <item index="18">Spider-Man 3</item>
+    <item index="19">Dawn of the Planet of the Apes</item>
+  </similar>
+  <studio>Marvel Studios</studio>
+  <summary>After the cataclysmic events in New York with The Avengers, Steve Rogers, aka Captain America is living quietly in Washington, D.C. and trying to adjust to the modern world. But when a S.H.I.E.L.D. colleague comes under attack, Steve becomes embroiled in a web of intrigue that threatens to put the world at risk. Joining forces with the Black Widow, Captain America struggles to expose the ever-widening conspiracy while fighting off professional assassins sent to silence him at every turn. When the full scope of the villainous plot is revealed, Captain America and the Black Widow enlist the help of a new ally, the Falcon. However, they soon find themselves up against an unexpected and formidable enemy—the Winter Soldier.</summary>
+  <tagline>In heroes we trust.</tagline>
+  <tags/>
+  <themes/>
+  <title>Captain America: The Winter Soldier</title>
+  <writers>
+    <item index="0">
+      <photo>http://image.tmdb.org/t/p/original/tyeKi52yruPdxOkEMKhBKCnkp5V.jpg</photo>
+      <role/>
+      <name>Christopher Markus</name>
+    </item>
+    <item index="1">
+      <photo>http://image.tmdb.org/t/p/original/fa8DAGpANcBTTXO4bbNMrCFufmV.jpg</photo>
+      <role/>
+      <name>Stephen McFeely</name>
+    </item>
+  </writers>
+  <year>2014</year>
+</Movie>

@@ -1,0 +1,526 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Movie id="tt0100114">
+  <rating>2.2</rating>
+  <title_sort/>
+  <art>
+    <item external="True" url="http://image.tmdb.org/t/p/original/tckP4mp0w41iofygwT0THPArp0J.jpg" preview="00f9696762c21a6dd98626eb56c6bf13fab36242" sort_order="1"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/dX8UpC8vb6tSkTCpGLxGFmbaYW.jpg" preview="9159a2cd0016b1ce3cc123d3910572f176d1d32c" sort_order="2"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/rmqEGeVjwFmCuPxOxJndbTo4SLh.jpg" preview="3fb26a16af841ee80c86eaae5a9913ed5b760c0c" sort_order="3"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/xeHPLBEqYpKKtTNPBJ6qhFOQKBe.jpg" preview="46e6a1a21bc122ce557b65af6e1fd5eb070f1853" sort_order="4"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/tDpRZRHmOGLBkdxjXRaNo45ddpy.jpg" preview="3a971571bd5997820d72a014876df9c86ac1752b" sort_order="5"/>
+  </art>
+  <writers>
+    <item index="0">
+      <photo/>
+      <role/>
+      <name>Michael Grais</name>
+    </item>
+    <item index="1">
+      <photo/>
+      <role/>
+      <name>Mark Victor</name>
+    </item>
+  </writers>
+  <chapters>
+    <item index="0">
+      <title>Chapter 1</title>
+      <end_time_offset>472000</end_time_offset>
+      <start_time_offset>0</start_time_offset>
+    </item>
+    <item index="1">
+      <title>Chapter 2</title>
+      <end_time_offset>612000</end_time_offset>
+      <start_time_offset>472000</start_time_offset>
+    </item>
+    <item index="2">
+      <title>Chapter 3</title>
+      <end_time_offset>842000</end_time_offset>
+      <start_time_offset>612000</start_time_offset>
+    </item>
+    <item index="3">
+      <title>Chapter 4</title>
+      <end_time_offset>1003000</end_time_offset>
+      <start_time_offset>842000</start_time_offset>
+    </item>
+    <item index="4">
+      <title>Chapter 5</title>
+      <end_time_offset>1219000</end_time_offset>
+      <start_time_offset>1003000</start_time_offset>
+    </item>
+    <item index="5">
+      <title>Chapter 6</title>
+      <end_time_offset>1385000</end_time_offset>
+      <start_time_offset>1219000</start_time_offset>
+    </item>
+    <item index="6">
+      <title>Chapter 7</title>
+      <end_time_offset>1857000</end_time_offset>
+      <start_time_offset>1385000</start_time_offset>
+    </item>
+    <item index="7">
+      <title>Chapter 8</title>
+      <end_time_offset>2173000</end_time_offset>
+      <start_time_offset>1857000</start_time_offset>
+    </item>
+    <item index="8">
+      <title>Chapter 9</title>
+      <end_time_offset>2366000</end_time_offset>
+      <start_time_offset>2173000</start_time_offset>
+    </item>
+    <item index="9">
+      <title>Chapter 10</title>
+      <end_time_offset>2580000</end_time_offset>
+      <start_time_offset>2366000</start_time_offset>
+    </item>
+    <item index="10">
+      <title>Chapter 11</title>
+      <end_time_offset>2810000</end_time_offset>
+      <start_time_offset>2580000</start_time_offset>
+    </item>
+    <item index="11">
+      <title>Chapter 12</title>
+      <end_time_offset>3028000</end_time_offset>
+      <start_time_offset>2810000</start_time_offset>
+    </item>
+    <item index="12">
+      <title>Chapter 13</title>
+      <end_time_offset>3541000</end_time_offset>
+      <start_time_offset>3028000</start_time_offset>
+    </item>
+    <item index="13">
+      <title>Chapter 14</title>
+      <end_time_offset>3714000</end_time_offset>
+      <start_time_offset>3541000</start_time_offset>
+    </item>
+    <item index="14">
+      <title>Chapter 15</title>
+      <end_time_offset>3970000</end_time_offset>
+      <start_time_offset>3714000</start_time_offset>
+    </item>
+    <item index="15">
+      <title>Chapter 16</title>
+      <end_time_offset>4298000</end_time_offset>
+      <start_time_offset>3970000</start_time_offset>
+    </item>
+    <item index="16">
+      <title>Chapter 17</title>
+      <end_time_offset>4681000</end_time_offset>
+      <start_time_offset>4298000</start_time_offset>
+    </item>
+    <item index="17">
+      <title>Chapter 18</title>
+      <end_time_offset>4856000</end_time_offset>
+      <start_time_offset>4681000</start_time_offset>
+    </item>
+    <item index="18">
+      <title>Chapter 19</title>
+      <end_time_offset>5162000</end_time_offset>
+      <start_time_offset>4856000</start_time_offset>
+    </item>
+    <item index="19">
+      <title>Chapter 20</title>
+      <end_time_offset>5350000</end_time_offset>
+      <start_time_offset>5162000</start_time_offset>
+    </item>
+    <item index="20">
+      <title>Chapter 21</title>
+      <end_time_offset>5598000</end_time_offset>
+      <start_time_offset>5350000</start_time_offset>
+    </item>
+    <item index="21">
+      <title>End</title>
+      <end_time_offset>-1</end_time_offset>
+      <start_time_offset>5598000</start_time_offset>
+    </item>
+  </chapters>
+  <themes/>
+  <quotes/>
+  <year>1990</year>
+  <duration>5580000</duration>
+  <genres>
+    <item index="0">Action</item>
+    <item index="1">Adventure</item>
+    <item index="2">Crime</item>
+    <item index="3">Drama</item>
+    <item index="4">Thriller</item>
+  </genres>
+  <title>Marked for Death</title>
+  <tagline>He's a good cop. In a bad mood.</tagline>
+  <content_rating_age/>
+  <rating_count/>
+  <collections/>
+  <trivia/>
+  <tags/>
+  <audience_rating_image>rottentomatoes://image.rating.spilled</audience_rating_image>
+  <rating_image>rottentomatoes://image.rating.rotten</rating_image>
+  <producers>
+    <item index="0">
+      <photo/>
+      <role/>
+      <name>Michael Grais</name>
+    </item>
+    <item index="1">
+      <photo>http://image.tmdb.org/t/p/original/f8OFR4h3ngyFesiudCygrNFdsCE.jpg</photo>
+      <role/>
+      <name>Steven Seagal</name>
+    </item>
+    <item index="2">
+      <photo/>
+      <role/>
+      <name>Mark Victor</name>
+    </item>
+  </producers>
+  <audience_rating>5.0</audience_rating>
+  <studio>20th Century Fox</studio>
+  <posters>
+    <item external="True" url="http://image.tmdb.org/t/p/original/sG7iM5l9GJoaYsmOdT6twtxZDF6.jpg" preview="ec902b75baeabf48d76b14e4bf91ed4e32bcd27e" sort_order="1"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/m1j9lmBRdQfCsgvFQFbwSr7uFiD.jpg" preview="0440e2e647cc94e57703fd48ee9090a8a21c02aa" sort_order="2"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/uSfOxSCuiMckmcVvj2i7OxfH3gr.jpg" preview="7d2b8aaec8c63bc593fd1a498b44cf05bc3fee9d" sort_order="3"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/dtk9LNZPdN1DKo4DnaZ10SZOsrV.jpg" preview="08870f9f640301328da6ec7603de43080f04d910" sort_order="4"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/aLbSqx9I7lEG7jqGzRa5FVSV5i4.jpg" preview="c1eca06f19603d849aa59f986d5cc4bd3c42e0cb" sort_order="6"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/mvv2GyrP4stZQbwPt7zi5Hu2EoZ.jpg" preview="c50eaf720fd1fcb49d98773254fca54752367a59" sort_order="7"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/dNbwUgnV7X0SXew6743cxyfML5k.jpg" preview="a3c8046d08d3b3faeacc040eabf0ac1bb74fb651" sort_order="8"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/5BAQqFo4ORJkWzEmb8KxIzvW6YC.jpg" preview="537f909e29f238a3a905de294909b509dbbae9da" sort_order="9"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/mfdEgdWU10BYpUDqwmz4HUuJEfP.jpg" preview="4699ca8d7b8837b91cc1bad12fa08bba9f723df9" sort_order="10"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/htMB1ZhMWv0X5ubzzxpZC3bLTg8.jpg" preview="70b8e6355873625ffb6e3f1a890bb808e94ccda1" sort_order="11"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/8oDNLwxzOxUxdmHt8LjzLNniw9M.jpg" preview="07232efdd8c37e2f3919f74a836ad3612b18d385" sort_order="12"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/jOCXkoYnZ1ufwSsCEiSW5Gj6z7p.jpg" preview="69d1ee451f69d19f7f495aa00a9b9b14d3558b3d" sort_order="13"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/z6aF1pKlJ1wyL3eZaRYZ3bMjwYd.jpg" preview="d7c1348a4eb0dd2dc3411270755331b888bcc660" sort_order="14"/>
+  </posters>
+  <originally_available_at>1990-10-05</originally_available_at>
+  <roles>
+    <item index="0">
+      <photo>http://image.tmdb.org/t/p/original/f8OFR4h3ngyFesiudCygrNFdsCE.jpg</photo>
+      <role>John Hatcher</role>
+      <name>Steven Seagal</name>
+    </item>
+    <item index="1">
+      <photo>http://image.tmdb.org/t/p/original/8F52E9NrFGsScth6WrxpWfRz2Xq.jpg</photo>
+      <role>Screwface</role>
+      <name>Basil Wallace</name>
+    </item>
+    <item index="2">
+      <photo>http://image.tmdb.org/t/p/original/nwAC9TgwRkj0Ritq93O8GeublyL.jpg</photo>
+      <role>Max</role>
+      <name>Keith David</name>
+    </item>
+    <item index="3">
+      <photo>http://image.tmdb.org/t/p/original/AlBgY9VySrLBhVsOJXtUXuflOGG.jpg</photo>
+      <role>Charles</role>
+      <name>Tom Wright</name>
+    </item>
+    <item index="4">
+      <photo>http://image.tmdb.org/t/p/original/697EWuER2k3lQ4oNZdYdkU6cvvd.jpg</photo>
+      <role>Leslie</role>
+      <name>Joanna Pacula</name>
+    </item>
+    <item index="5">
+      <photo>http://image.tmdb.org/t/p/original/keuQ1Tm8GOGxNPcRaZmq0JBXRLR.jpg</photo>
+      <role>Melissa</role>
+      <name>Elizabeth Gracen</name>
+    </item>
+    <item index="6">
+      <photo>http://image.tmdb.org/t/p/original/oHbWCkFjNlX6n76sdzUj54pusFo.jpg</photo>
+      <role>Kate</role>
+      <name>Bette Ford</name>
+    </item>
+    <item index="7">
+      <photo>http://image.tmdb.org/t/p/original/q3wQP4ZwVjfBerFK0iVZPzaF5BL.jpg</photo>
+      <role>Tracey</role>
+      <name>Danielle Harris</name>
+    </item>
+    <item index="8">
+      <photo>http://image.tmdb.org/t/p/original/seDaFV7BzxgVNeirCjgnP3H3L7M.jpg</photo>
+      <role>Tito Barco</role>
+      <name>Al Israel</name>
+    </item>
+    <item index="9">
+      <photo>http://image.tmdb.org/t/p/original/odiWGU3I6q7I1vkBArpf30CLs5b.jpg</photo>
+      <role>Duvall</role>
+      <name>Arlen Dean Snyder</name>
+    </item>
+    <item index="10">
+      <photo>http://image.tmdb.org/t/p/original/3qE7JFhChQeYwpzKKPIC2g4v6zW.jpg</photo>
+      <role>Nesta</role>
+      <name>Victor Romero Evans</name>
+    </item>
+    <item index="11">
+      <photo/>
+      <role>Jimmy Fingers</role>
+      <name>Tony DiBenedetto</name>
+    </item>
+    <item index="12">
+      <photo>http://image.tmdb.org/t/p/original/85thH2pUn2tPP97QhnYQI7MBiCW.jpg</photo>
+      <role>Sal</role>
+      <name>Kevin Dunn</name>
+    </item>
+    <item index="13">
+      <photo>http://image.tmdb.org/t/p/original/7b8cDfrmeheQbgryfCm7MeJOxxM.jpg</photo>
+      <role>Hector</role>
+      <name>Danny Trejo</name>
+    </item>
+    <item index="14">
+      <photo>http://image.tmdb.org/t/p/original/3feNLCu3bF8VjV3zHspj2QG2AXG.jpg</photo>
+      <role>Carmen</role>
+      <name>Elena Sahagun</name>
+    </item>
+    <item index="15">
+      <photo/>
+      <role>Marta</role>
+      <name>Rita Verreos</name>
+    </item>
+    <item index="16">
+      <photo>http://image.tmdb.org/t/p/original/2VqCiv4R0kZW1Nwi60fIzmHKxpc.jpg</photo>
+      <role>Pete Stone</role>
+      <name>Peter Jason</name>
+    </item>
+    <item index="17">
+      <photo>http://image.tmdb.org/t/p/original/obQfb3EhWnbxEYK7S0bLZw6oMJ6.jpg</photo>
+      <role>Paco</role>
+      <name>Tom Dugan</name>
+    </item>
+    <item index="18">
+      <photo>http://image.tmdb.org/t/p/original/haOeh8ZWSjD9PgQvWqvQIHfXK5A.jpg</photo>
+      <role>Dr. Stein</role>
+      <name>Earl Boen</name>
+    </item>
+    <item index="19">
+      <photo>http://image.tmdb.org/t/p/original/gCXDw4SeaV5fAPmq90Oml5ACSIB.jpg</photo>
+      <role>Girl #1</role>
+      <name>Leslie Danon</name>
+    </item>
+    <item index="20">
+      <photo>http://image.tmdb.org/t/p/original/aLHFSfUvHmHpIFEVoOEjdjdkHVJ.jpg</photo>
+      <role>Girl #2</role>
+      <name>Terri Ivens</name>
+    </item>
+    <item index="21">
+      <photo>http://image.tmdb.org/t/p/original/7sSSp3Z5WIYNlI0x9XLVxp9uLBG.jpg</photo>
+      <role>Sexy Girl #2</role>
+      <name>Teri Weigel</name>
+    </item>
+    <item index="22">
+      <photo/>
+      <role>Man in High Hat Bar</role>
+      <name>Nicholas Celozzi</name>
+    </item>
+    <item index="23">
+      <photo>http://image.tmdb.org/t/p/original/k7TjJBfINsg8vLQxJwos6XObAD6.jpg</photo>
+      <role>Additional Dialogue Replacement (voice)</role>
+      <name>Mickie McGowan</name>
+    </item>
+    <item index="24">
+      <photo>http://image.tmdb.org/t/p/original/xGZQXknJRGGsgLhYct7lS6KkoA8.jpg</photo>
+      <role>Monkey</role>
+      <name>Michael Ralph</name>
+    </item>
+    <item index="25">
+      <photo>http://image.tmdb.org/t/p/original/2aQbGQU5iCxIYn2jdKl9INu8pJX.jpg</photo>
+      <role>Nago</role>
+      <name>Jeffrey Anderson-Gunter</name>
+    </item>
+    <item index="26">
+      <photo>http://image.tmdb.org/t/p/original/85thH2pUn2tPP97QhnYQI7MBiCW.jpg</photo>
+      <role>Lt. Sal Roselli</role>
+      <name>Kevin Dunn</name>
+    </item>
+    <item index="27">
+      <photo/>
+      <role>Chico</role>
+      <name>Richard Delmonte</name>
+    </item>
+    <item index="28">
+      <photo/>
+      <role>Raoul</role>
+      <name>Joe Renteria</name>
+    </item>
+    <item index="29">
+      <photo>http://image.tmdb.org/t/p/original/13kjmeYYdJzdeccnJEXo56KH7CO.jpg</photo>
+      <role>Little Richard</role>
+      <name>Gary Carlos Cervantes</name>
+    </item>
+    <item index="30">
+      <photo/>
+      <role>Mexican Bouncer</role>
+      <name>Wayne Montanio</name>
+    </item>
+    <item index="31">
+      <photo/>
+      <role>Nicky</role>
+      <name>Nick Corello</name>
+    </item>
+    <item index="32">
+      <photo/>
+      <role>Tommy</role>
+      <name>Grant Gelt</name>
+    </item>
+    <item index="33">
+      <photo/>
+      <role>Freddy</role>
+      <name>Justine Murphy</name>
+    </item>
+    <item index="34">
+      <photo/>
+      <role>Sherriff O'Dwyer</role>
+      <name>Stanley White</name>
+    </item>
+    <item index="35">
+      <photo>http://image.tmdb.org/t/p/original/uiLVVlRbJcyGHPMUSuGkln6Kqzw.jpg</photo>
+      <role>Boy #1</role>
+      <name>Matt Levin</name>
+    </item>
+    <item index="36">
+      <photo/>
+      <role>Boy #2</role>
+      <name>Philip Tanzini</name>
+    </item>
+    <item index="37">
+      <photo/>
+      <role>TV News Reporter</role>
+      <name>Dale Harimoto</name>
+    </item>
+    <item index="38">
+      <photo/>
+      <role>Sexy Girl #1</role>
+      <name>Tracey Burch</name>
+    </item>
+    <item index="39">
+      <photo/>
+      <role>Arms Dealer</role>
+      <name>Robert Ashiva Ganta Strickland</name>
+    </item>
+    <item index="40">
+      <photo/>
+      <role>Posse Leader</role>
+      <name>Noel L. Walcott III</name>
+    </item>
+    <item index="41">
+      <photo/>
+      <role>Dread with Hostage</role>
+      <name>Prince Ital Joe</name>
+    </item>
+    <item index="42">
+      <photo/>
+      <role>Young Stripper</role>
+      <name>Andria Martel</name>
+    </item>
+    <item index="43">
+      <photo/>
+      <role>Barmaid</role>
+      <name>Debby Shively</name>
+    </item>
+    <item index="44">
+      <photo/>
+      <role>Bartender</role>
+      <name>Craig Pinkard</name>
+    </item>
+    <item index="45">
+      <photo>http://image.tmdb.org/t/p/original/kNWX5D3SU9Z666M8OcOy5QUF3my.jpg</photo>
+      <role>Yuppie Dealer</role>
+      <name>Matt O'Toole</name>
+    </item>
+    <item index="46">
+      <photo/>
+      <role>Dept. Store Hostage</role>
+      <name>Kerrie Cullen</name>
+    </item>
+    <item index="47">
+      <photo>http://image.tmdb.org/t/p/original/Ru63TYQKJMSlJ2vuRKzVjMT29z.jpg</photo>
+      <role>DEA Agent</role>
+      <name>Linus Huffman</name>
+    </item>
+    <item index="48">
+      <photo/>
+      <role>Band in McGilly's</role>
+      <name>Roger Romero Godbout</name>
+    </item>
+    <item index="49">
+      <photo/>
+      <role>Band in McGilly's</role>
+      <name>Harry John Leamy</name>
+    </item>
+    <item index="50">
+      <photo/>
+      <role>Band in McGilly's</role>
+      <name>John Endeveri</name>
+    </item>
+    <item index="51">
+      <photo/>
+      <role>Band in McGilly's</role>
+      <name>Christopher Allen Goss</name>
+    </item>
+    <item index="52">
+      <photo/>
+      <role>Reggae Band</role>
+      <name>Libert Steer</name>
+    </item>
+    <item index="53">
+      <photo/>
+      <role>Reggae Band</role>
+      <name>Philip Chen</name>
+    </item>
+    <item index="54">
+      <photo/>
+      <role>Reggae Band</role>
+      <name>Rock Deadrick</name>
+    </item>
+    <item index="55">
+      <photo/>
+      <role>Reggae Band</role>
+      <name>Einstein Brown</name>
+    </item>
+    <item index="56">
+      <photo>http://image.tmdb.org/t/p/original/xaYgjfq5ySxWl1N66tpzNMgTbOz.jpg</photo>
+      <role>Reggae Band</role>
+      <name>Éric Bernard</name>
+    </item>
+    <item index="57">
+      <photo/>
+      <role>Reggae Band</role>
+      <name>Haile Maskel</name>
+    </item>
+    <item index="58">
+      <photo>http://image.tmdb.org/t/p/original/xMvPfzHVSLCL5Y9qUijOXErf84v.jpg</photo>
+      <role>Himself</role>
+      <name>Jimmy Cliff</name>
+    </item>
+  </roles>
+  <countries>
+    <item index="0">USA</item>
+  </countries>
+  <content_rating>R</content_rating>
+  <original_title/>
+  <summary>Just retired from the Drug Enforcement Agency, John Hatcher returns to his hometown and quickly discovers that drugs have infiltrated his old neighborhood. Determined to drive the dealers out, Hatcher crosses paths with a ferocious Jamaican drug lord who vows that Hatcher and his family are now marked for death.</summary>
+  <reviews/>
+  <directors>
+    <item index="0">
+      <photo>http://image.tmdb.org/t/p/original/9Q77ZzYvRkVmfdU6twRQyvW4YB8.jpg</photo>
+      <role/>
+      <name>Dwight H. Little</name>
+    </item>
+  </directors>
+  <extras external="True" extension="xml"/>
+  <banners/>
+  <similar>
+    <item index="0">Hard to Kill</item>
+    <item index="1">Out for Justice</item>
+    <item index="2">Above the Law</item>
+    <item index="3">On Deadly Ground</item>
+    <item index="4">The Glimmer Man</item>
+    <item index="5">Fire Down Below</item>
+    <item index="6">Under Siege 2: Dark Territory</item>
+    <item index="7">The Patriot</item>
+    <item index="8">Exit Wounds</item>
+    <item index="9">Half Past Dead</item>
+    <item index="10">Missing in Action</item>
+    <item index="11">Executive Decision</item>
+    <item index="12">Death Warrant</item>
+    <item index="13">Cyborg</item>
+    <item index="14">Under Siege</item>
+    <item index="15">Double Impact</item>
+    <item index="16">Into the Sun</item>
+    <item index="17">Sudden Death</item>
+    <item index="18">Hard Target</item>
+    <item index="19">Nowhere to Run</item>
+  </similar>
+</Movie>

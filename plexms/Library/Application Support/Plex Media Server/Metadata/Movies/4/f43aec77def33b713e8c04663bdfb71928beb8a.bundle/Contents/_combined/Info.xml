@@ -1,0 +1,998 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Movie>
+  <art>
+    <item external="True" url="http://image.tmdb.org/t/p/original/45KTkpV6G3qfv0dQtj20cPZMCNY.jpg" sort_order="1" provider="com.plexapp.agents.imdb" media="com.plexapp.agents.imdb_045ea8cd85a55a15d739d82169816d241f8b087b"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/qvVvrYGrTrQMLDw5wMincAHzMIV.jpg" preview="com.plexapp.agents.imdb_940963467c21cc8b68de6c5aba075d62d23ac049" sort_order="2" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/5pAGnkFYSsFJ99ZxDIYnhQbQFXs.jpg" preview="com.plexapp.agents.imdb_26ce5532d0567178f5874f4090995b26182c7a6e" sort_order="3" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/3dPbFa6NeCKtS5XsqopZTJQXunA.jpg" preview="com.plexapp.agents.imdb_dd6e33c9c2770b13fe139a32fb56b2d7ad0772fb" sort_order="4" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/yEv8c6i79vk06sZDC3Z9D8HQLVV.jpg" preview="com.plexapp.agents.imdb_62b7d22633109922d76223ac3d8c0e1f2d225b80" sort_order="5" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/miqmTwqvnYiPEdolZv0biI7vFw2.jpg" preview="com.plexapp.agents.imdb_3687f8c684e028437afb94d8b3c9fd9bd3b8f87c" sort_order="6" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/z9PXN1bTe0mbLww2XG4YDsWXQSN.jpg" preview="com.plexapp.agents.imdb_0bcffecc52ded250524681285bab2d7d5f9c418f" sort_order="7" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/vR2jKrdeRAr4egGAn7C2LztF6b1.jpg" preview="com.plexapp.agents.imdb_1d641d2d313ba30c7d771259d6a026b76340199a" sort_order="8" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/aCxTSTb2ujpkkX8xAX2nCzSKNwI.jpg" preview="com.plexapp.agents.imdb_7c79c2c2f3fd33582deab48fe1a0289191d61efe" sort_order="9" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/qTdCfGyDisY9e8BLycszlyTsPWx.jpg" preview="com.plexapp.agents.imdb_ba4cdcd9ec32f98c190e0cdc444a936840d38473" sort_order="10" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/ucIlpZ6XVoyGXZZZb3YSkKPg3Zh.jpg" preview="com.plexapp.agents.imdb_da558f590d64a3e13500e310d346eb50cf1ce9d6" sort_order="11" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/uvmIKWCmbYJPcakvQU96Uib5H8Y.jpg" preview="com.plexapp.agents.imdb_df2b6927fe2d81d0c555e8df397207969dd823ee" sort_order="12" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/8zaCS4Q0m3WAjqOPmUvcegQ6SVE.jpg" preview="com.plexapp.agents.imdb_53bdfb2ee9dbc14c2a7a891af4ca0b952d5a3a48" sort_order="13" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/qG2jyjYDSYPX2voFzEgBgtlyxlb.jpg" preview="com.plexapp.agents.imdb_a7779d9f96089cc215b4b47084367bda8485aaa4" sort_order="14" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/iImUFYvuwDHildoANGXpvA30ROO.jpg" preview="com.plexapp.agents.imdb_6c82d956244b96a8dc1822d88f6a71ac7db4abb3" sort_order="15" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/gxn6keWAeIJfWatxguuxSCSaoZU.jpg" preview="com.plexapp.agents.imdb_3cd5bb0c5c86b042a0750711b35c9ce0b350908b" sort_order="16" provider="com.plexapp.agents.imdb"/>
+  </art>
+  <banners/>
+  <chapters>
+    <item index="0">
+      <title>Chapter 1</title>
+      <end_time_offset>335000</end_time_offset>
+      <start_time_offset>0</start_time_offset>
+    </item>
+    <item index="1">
+      <title>Chapter 2</title>
+      <end_time_offset>558000</end_time_offset>
+      <start_time_offset>335000</start_time_offset>
+    </item>
+    <item index="2">
+      <title>Chapter 3</title>
+      <end_time_offset>701000</end_time_offset>
+      <start_time_offset>558000</start_time_offset>
+    </item>
+    <item index="3">
+      <title>Chapter 4</title>
+      <end_time_offset>983000</end_time_offset>
+      <start_time_offset>701000</start_time_offset>
+    </item>
+    <item index="4">
+      <title>Chapter 5</title>
+      <end_time_offset>1211000</end_time_offset>
+      <start_time_offset>983000</start_time_offset>
+    </item>
+    <item index="5">
+      <title>Chapter 6</title>
+      <end_time_offset>1466000</end_time_offset>
+      <start_time_offset>1211000</start_time_offset>
+    </item>
+    <item index="6">
+      <title>Chapter 7</title>
+      <end_time_offset>1571000</end_time_offset>
+      <start_time_offset>1466000</start_time_offset>
+    </item>
+    <item index="7">
+      <title>Chapter 8</title>
+      <end_time_offset>1813000</end_time_offset>
+      <start_time_offset>1571000</start_time_offset>
+    </item>
+    <item index="8">
+      <title>Chapter 9</title>
+      <end_time_offset>1919000</end_time_offset>
+      <start_time_offset>1813000</start_time_offset>
+    </item>
+    <item index="9">
+      <title>Chapter 10</title>
+      <end_time_offset>2096000</end_time_offset>
+      <start_time_offset>1919000</start_time_offset>
+    </item>
+    <item index="10">
+      <title>Chapter 11</title>
+      <end_time_offset>2393000</end_time_offset>
+      <start_time_offset>2096000</start_time_offset>
+    </item>
+    <item index="11">
+      <title>Chapter 12</title>
+      <end_time_offset>2575000</end_time_offset>
+      <start_time_offset>2393000</start_time_offset>
+    </item>
+    <item index="12">
+      <title>Chapter 13</title>
+      <end_time_offset>2703000</end_time_offset>
+      <start_time_offset>2575000</start_time_offset>
+    </item>
+    <item index="13">
+      <title>Chapter 14</title>
+      <end_time_offset>2873000</end_time_offset>
+      <start_time_offset>2703000</start_time_offset>
+    </item>
+    <item index="14">
+      <title>Chapter 15</title>
+      <end_time_offset>2979000</end_time_offset>
+      <start_time_offset>2873000</start_time_offset>
+    </item>
+    <item index="15">
+      <title>Chapter 16</title>
+      <end_time_offset>3134000</end_time_offset>
+      <start_time_offset>2979000</start_time_offset>
+    </item>
+    <item index="16">
+      <title>Chapter 17</title>
+      <end_time_offset>3270000</end_time_offset>
+      <start_time_offset>3134000</start_time_offset>
+    </item>
+    <item index="17">
+      <title>Chapter 18</title>
+      <end_time_offset>3464000</end_time_offset>
+      <start_time_offset>3270000</start_time_offset>
+    </item>
+    <item index="18">
+      <title>Chapter 19</title>
+      <end_time_offset>3610000</end_time_offset>
+      <start_time_offset>3464000</start_time_offset>
+    </item>
+    <item index="19">
+      <title>Chapter 20</title>
+      <end_time_offset>3833000</end_time_offset>
+      <start_time_offset>3610000</start_time_offset>
+    </item>
+    <item index="20">
+      <title>Chapter 21</title>
+      <end_time_offset>4015000</end_time_offset>
+      <start_time_offset>3833000</start_time_offset>
+    </item>
+    <item index="21">
+      <title>Chapter 22</title>
+      <end_time_offset>4194000</end_time_offset>
+      <start_time_offset>4015000</start_time_offset>
+    </item>
+    <item index="22">
+      <title>Chapter 23</title>
+      <end_time_offset>4395000</end_time_offset>
+      <start_time_offset>4194000</start_time_offset>
+    </item>
+    <item index="23">
+      <title>Chapter 24</title>
+      <end_time_offset>4723000</end_time_offset>
+      <start_time_offset>4395000</start_time_offset>
+    </item>
+    <item index="24">
+      <title>Chapter 25</title>
+      <end_time_offset>4910000</end_time_offset>
+      <start_time_offset>4723000</start_time_offset>
+    </item>
+    <item index="25">
+      <title>Chapter 26</title>
+      <end_time_offset>5152000</end_time_offset>
+      <start_time_offset>4910000</start_time_offset>
+    </item>
+    <item index="26">
+      <title>Chapter 27</title>
+      <end_time_offset>5318000</end_time_offset>
+      <start_time_offset>5152000</start_time_offset>
+    </item>
+    <item index="27">
+      <title>Chapter 28</title>
+      <end_time_offset>5561000</end_time_offset>
+      <start_time_offset>5318000</start_time_offset>
+    </item>
+    <item index="28">
+      <title>Chapter 29</title>
+      <end_time_offset>5729000</end_time_offset>
+      <start_time_offset>5561000</start_time_offset>
+    </item>
+    <item index="29">
+      <title>Chapter 30</title>
+      <end_time_offset>6063000</end_time_offset>
+      <start_time_offset>5729000</start_time_offset>
+    </item>
+    <item index="30">
+      <title>Chapter 31</title>
+      <end_time_offset>6219000</end_time_offset>
+      <start_time_offset>6063000</start_time_offset>
+    </item>
+    <item index="31">
+      <title>Chapter 32</title>
+      <end_time_offset>6578000</end_time_offset>
+      <start_time_offset>6219000</start_time_offset>
+    </item>
+    <item index="32">
+      <title>Chapter 33</title>
+      <end_time_offset>6860000</end_time_offset>
+      <start_time_offset>6578000</start_time_offset>
+    </item>
+    <item index="33">
+      <title>Chapter 34</title>
+      <end_time_offset>7020000</end_time_offset>
+      <start_time_offset>6860000</start_time_offset>
+    </item>
+    <item index="34">
+      <title>Chapter 35</title>
+      <end_time_offset>7160000</end_time_offset>
+      <start_time_offset>7020000</start_time_offset>
+    </item>
+    <item index="35">
+      <title>Chapter 36</title>
+      <end_time_offset>7274000</end_time_offset>
+      <start_time_offset>7160000</start_time_offset>
+    </item>
+    <item index="36">
+      <title>Chapter 37</title>
+      <end_time_offset>7509000</end_time_offset>
+      <start_time_offset>7274000</start_time_offset>
+    </item>
+    <item index="37">
+      <title>Chapter 38</title>
+      <end_time_offset>7600000</end_time_offset>
+      <start_time_offset>7509000</start_time_offset>
+    </item>
+    <item index="38">
+      <title>Chapter 39</title>
+      <end_time_offset>7867000</end_time_offset>
+      <start_time_offset>7600000</start_time_offset>
+    </item>
+    <item index="39">
+      <title>Chapter 40</title>
+      <end_time_offset>-1</end_time_offset>
+      <start_time_offset>7867000</start_time_offset>
+    </item>
+  </chapters>
+  <collections/>
+  <content_rating>R</content_rating>
+  <countries>
+    <item index="0">USA</item>
+  </countries>
+  <directors>
+    <item index="0">
+      <photo>http://image.tmdb.org/t/p/original/1gt0VmCyBHhQLKhaBDCEIwvRWe.jpg</photo>
+      <role/>
+      <name>James Mangold</name>
+    </item>
+  </directors>
+  <duration>8220000</duration>
+  <genres>
+    <item index="0">Action</item>
+    <item index="1">Drama</item>
+    <item index="2">Sci-Fi</item>
+    <item index="3">Thriller</item>
+  </genres>
+  <originally_available_at>2017-02-28</originally_available_at>
+  <posters>
+    <item external="True" url="http://image.tmdb.org/t/p/original/t6zkHwQ8nmU1N6X1OOouXIpyeYz.jpg" sort_order="1" provider="com.plexapp.agents.imdb" media="com.plexapp.agents.imdb_0bc27df2f48835f7cec67d15ab62b4ed02eb3c04"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/x75pHBRH3UdRQtP52k8MIOLryW8.jpg" preview="com.plexapp.agents.imdb_dcd448290e120276067add1ea8f27fcc36dbf94e" sort_order="2" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/bzWWn2sChkSTMJsQwOExX36AQkr.jpg" preview="com.plexapp.agents.imdb_c8bdcd0ed8757121067e82ee37256ee0f0c588e1" sort_order="3" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/45Y1G5FEgttPAwjTYic6czC9xCn.jpg" preview="com.plexapp.agents.imdb_6a37878cd20e3e276193c3f4339d4d98e3de6779" sort_order="4" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/hnzBfZ8v9uS59TTNHUOMNzLFcus.jpg" preview="com.plexapp.agents.imdb_9e3204379fa596a076f25c360b967a3e287e75e9" sort_order="5" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/bxTdsYKRMdGnrfP7ZkkUKEpYSyQ.jpg" preview="com.plexapp.agents.imdb_ce1b99aae9c7bf4cee995976bae9bfaedfb488ec" sort_order="6" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/kyuIe7ONuTzAlvpj2cvgPqofi5L.jpg" preview="com.plexapp.agents.imdb_10745d2f09d2d6a6b64a1f1b1a647cdfd68473c7" sort_order="7" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/e5ePYiCOVCJoZMGjR8eRiA07n1r.jpg" preview="com.plexapp.agents.imdb_3f2c5eb72da60b1c7aa894d9d1a9c3def8293c56" sort_order="8" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/pjxK8DrMaRkE2LDmFcqJgmJCTYQ.jpg" preview="com.plexapp.agents.imdb_0fa1517e0dc8b33d19ab6fad50e264a03f30b54f" sort_order="9" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/5dn8jT3ii2i5xP1EBah6g9kdUKJ.jpg" preview="com.plexapp.agents.imdb_b84a7ce18884fae0aa9371d4319921cd2e71395f" sort_order="10" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/nLK28m6QWeVG29n4U96OQ7Iqo3U.jpg" preview="com.plexapp.agents.imdb_eceb49b93e9a233edfdd50e29f1936ee7294a799" sort_order="11" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/8TiOxZuJv5hriG6b0Z9ulTkqj0g.jpg" preview="com.plexapp.agents.imdb_665b5def03d237d61c81efeb8035c58e70391111" sort_order="12" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/tftje6hCe1adyjtoY7Jg4dH5YeF.jpg" preview="com.plexapp.agents.imdb_91e01515331c154b363f2e0e6beb3d31f10e691e" sort_order="13" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/qd1dIaje2DhlwmvOzrRQDmhp4aF.jpg" preview="com.plexapp.agents.imdb_46126c726439e325f3d0872d7aa0de3849ab591d" sort_order="14" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/eBEoJ3BVvnZZYUuHLAA3mH4wsFz.jpg" preview="com.plexapp.agents.imdb_e8153fea1bf2a8a90627d6e7c59c7499008a892c" sort_order="15" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/csdMhINHCzSPOw2lFokDSH3b01R.jpg" preview="com.plexapp.agents.imdb_576362ef84f98a95cdd74d57bbc09bb8e14afc2f" sort_order="16" provider="com.plexapp.agents.imdb"/>
+  </posters>
+  <producers>
+    <item index="0">
+      <photo>http://image.tmdb.org/t/p/original/uwuWpT2xyhwlrfSCk6xTTvrRvEE.jpg</photo>
+      <role/>
+      <name>Lauren Shuler Donner</name>
+    </item>
+    <item index="1">
+      <photo>http://image.tmdb.org/t/p/original/yXlDADc2rLEMLTFZAw9irqXMq2J.jpg</photo>
+      <role/>
+      <name>Simon Kinberg</name>
+    </item>
+    <item index="2">
+      <photo/>
+      <role/>
+      <name>Hutch Parker</name>
+    </item>
+  </producers>
+  <rating>9.3</rating>
+  <rating_image>rottentomatoes://image.rating.ripe</rating_image>
+  <audience_rating>9.0</audience_rating>
+  <audience_rating_image>rottentomatoes://image.rating.upright</audience_rating_image>
+  <reviews>
+    <item index="0">
+      <text>Make no mistake, Logan earns its tears. If Jackman and Stewart are serious about this being their mutual X-Men swan song, they could not have crafted a more heartfelt valedictory.</text>
+      <source>Rolling Stone</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>http://www.rollingstone.com/movies/reviews/peter-travers-logan-movie-review-w469327</link>
+      <author>Peter Travers</author>
+    </item>
+    <item index="1">
+      <text>Jackman and Stewart are why Logan works-why the film doesn't feel like a cheap exercise in bloody violence, and its subversion of typical superhero-movie tropes feels organic.</text>
+      <source>The Atlantic</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>https://www.theatlantic.com/entertainment/archive/2017/03/logan-review-wolverine/518232/</link>
+      <author>David Sims</author>
+    </item>
+    <item index="2">
+      <text>Another expensive throwaway aimed at milking money out of people who still read comic books. Color it stupid.</text>
+      <source>New York Observer</source>
+      <image>rottentomatoes://image.review.rotten</image>
+      <link>http://observer.com/2017/03/logan-movie-review-hugh-jackman-patrick-stewart/</link>
+      <author>Rex Reed</author>
+    </item>
+    <item index="3">
+      <text>Strips away the spandex, the posse and the chaos, distilling the story down to the essence of the man, Logan. What's left is the agony and the ecstasy of mutanthood.</text>
+      <source>Tribune News Service</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>http://www.newsobserver.com/entertainment/movies-news-reviews/article135666183.html</link>
+      <author>Katie Walsh</author>
+    </item>
+    <item index="4">
+      <text>Jackman gives Logan a withering rage that seems heartfelt, not hammy; Stewart is touching in his enraged befuddlement; and Keen, who resembles here what Katie Holmes might look like if she were Carrie, has a feral intensity.</text>
+      <source>Christian Science Monitor</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>http://www.csmonitor.com/The-Culture/Movies/2017/0303/Logan-turns-into-a-free-for-all-bloodfest</link>
+      <author>Peter Rainer</author>
+    </item>
+    <item index="5">
+      <text>[Director] Mangold drags [Wolverine] - much older, if not much wiser - into a Western, and ends up with the best superhero movie in recent memory.</text>
+      <source>San Diego Reader</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>http://www.sandiegoreader.com/news/2017/mar/01/movie-review-wolfman-western/</link>
+      <author>Matthew Lickona</author>
+    </item>
+    <item index="6">
+      <text>Jackman twists the pain at the centre of the hero's struggle into remarkably uncomfortable places for a blockbuster.</text>
+      <source>Globe and Mail</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>http://www.theglobeandmail.com/arts/film/film-reviews/logan-wolverine-jackman-review/article34170987/</link>
+      <author>Barry Hertz</author>
+    </item>
+    <item index="7">
+      <text>Jackman's performance is Clint Eastwood-esque, and the lines in Jackman's face tell the story of his worn character; he plays Wolverine as a man at the end of his line, adding at least a decade to his 48 years.</text>
+      <source>Detroit News</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>http://www.detroitnews.com/story/entertainment/movies/2017/03/02/movie-review-logan-wolverines-blades-still-cut-deep/98666594/</link>
+      <author>Adam Graham</author>
+    </item>
+    <item index="8">
+      <text>Logan was written by Scott Frank, Mr. Mangold and Michael Green. Their script is the crucial ingredient of this impressive production, a model of ambition, complexity and old-fashioned showmanship that's matched by Mr. Mangold's direction.</text>
+      <source>Wall Street Journal</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>https://www.wsj.com/articles/logan-review-violence-and-drama-that-cut-deep-1488484276</link>
+      <author>Joe Morgenstern</author>
+    </item>
+    <item index="9">
+      <text>The only problem with calling it the boldest and most affecting superhero flick in many years is that it's barely a superhero movie at all.</text>
+      <source>NPR</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>http://www.npr.org/2017/03/02/517009491/logan-is-the-best-at-what-it-does-and-what-it-does-is-gritty</link>
+      <author>Chris Klimek</author>
+    </item>
+    <item index="10">
+      <text>The film celebrates the medium by taking itself seriously, with an added hint of apology for the genre's earlier sins. Best of all, there's an element of risk.</text>
+      <source>San Francisco Chronicle</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>http://www.sfgate.com/movies/article/Superb-Logan-unleashes-fury-on-comic-book-10955107.php</link>
+      <author>Peter Hartlaub</author>
+    </item>
+    <item index="11">
+      <text>Logan is a family drama, an action thriller and an epic superhero story. If this is indeed Jackman's last Wolverine film, he's going out in heartfelt, high-class style.</text>
+      <source>Associated Press</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>http://bigstory.ap.org/article/bb85b895615948f5aa9de5d0bf39b5ea/review-logan-satisfying-end-jackmans-wolverine</link>
+      <author>Sandy Cohen</author>
+    </item>
+    <item index="12">
+      <text>Logan is kind of a special superhero movie, in a good way, and if Jackman holds to his stated intention to make it his Wolverine swan song, he's going out not with a whimper but a bang.</text>
+      <source>Toronto Star</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>https://www.thestar.com/entertainment/movies/2017/03/02/logan-makes-a-run-for-the-border-and-its-worth-going-along-review.html</link>
+      <author>Peter Howell</author>
+    </item>
+    <item index="13">
+      <text>On its own terms, Logan is a crackerjack piece of work: The dialogue is crisp, the staging snappy, and the action scenes really pop.</text>
+      <source>New York Magazine/Vulture</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>http://www.vulture.com/2017/03/movie-review-logan-is-so-so-so-dark.html</link>
+      <author>David Edelstein</author>
+    </item>
+    <item index="14">
+      <text>Hugh Jackman sharpens his claws in every sense of the word and delivers killer work.</text>
+      <source>Chicago Sun-Times</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>http://chicago.suntimes.com/entertainment/in-logan-reinvented-wolverine-makes-a-deep-impression/</link>
+      <author>Richard Roeper</author>
+    </item>
+    <item index="15">
+      <text>Entertaining as they are, Marvel movies aren't expected to be this mature, this dark or this human. This is a bold, coherent story inspired by a comic book, not slavishly based on it.</text>
+      <source>Minneapolis Star Tribune</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>http://www.startribune.com/superhero-movies-grow-up-with-logan-the-brutal-finale-for-wolverine/415231824/</link>
+      <author>Colin Covert</author>
+    </item>
+    <item index="16">
+      <text>This is the collapse of the sprawling X-Men family that Wolverine only begrudgingly joined in the first place.</text>
+      <source>MTV</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>http://www.mtv.com/news/2988765/logan-brings-heart-and-horror-to-x-men/</link>
+      <author>Amy Nicholson</author>
+    </item>
+    <item index="17">
+      <text>Logan offers an element of completion, and an intriguingly different take on the material. It is also, along with the FX series Legion, a sign of the maturation of comics on screen, for better or worse.</text>
+      <source>CNN.com</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>http://www.cnn.com/2017/03/02/entertainment/logan-review/index.html</link>
+      <author>Brian Lowry</author>
+    </item>
+    <item index="18">
+      <text>Director James Mangold, returning after the second installment, The Wolverine, orchestrates several jaw-dropping action sequences, heightened by Jackman's and Keen's intense performances and by Marco Beltrami's taut and plunky score.</text>
+      <source>Chicago Reader</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>http://www.chicagoreader.com/chicago/logan-the-imax-2d-experience/MovieTimes?oid=25555969</link>
+      <author>Leah Pickett</author>
+    </item>
+    <item index="19">
+      <text>If this is indeed Jackman's final appearance as Logan, he's going out in style.</text>
+      <source>St. Louis Post-Dispatch</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>http://www.stltoday.com/entertainment/movies/reviews/logan-is-an-offbeat-superhero-flick/article_4d44f30c-9e74-56e3-bb31-1805cb60d685.html</link>
+      <author>Calvin Wilson</author>
+    </item>
+  </reviews>
+  <roles>
+    <item index="0">
+      <photo>http://image.tmdb.org/t/p/original/dFbNlPpiEPupTAlNVNh5vrxBU1h.jpg</photo>
+      <role>Logan Howlett / Wolverine / X-24</role>
+      <name>Hugh Jackman</name>
+    </item>
+    <item index="1">
+      <photo>http://image.tmdb.org/t/p/original/wEy5qSDT5jT3ZASc2hbwi59voPL.jpg</photo>
+      <role>Charles Xavier / Professor X</role>
+      <name>Patrick Stewart</name>
+    </item>
+    <item index="2">
+      <photo>http://image.tmdb.org/t/p/original/vohccdHmJHNZX9UIcRlmZ4Qwkj.jpg</photo>
+      <role>Laura Kinney / X-23</role>
+      <name>Dafne Keen</name>
+    </item>
+    <item index="3">
+      <photo>http://image.tmdb.org/t/p/original/531YOKa2usleWCA55t6Db4MZhT3.jpg</photo>
+      <role>Donald Pierce</role>
+      <name>Boyd Holbrook</name>
+    </item>
+    <item index="4">
+      <photo>http://image.tmdb.org/t/p/original/A70Gtg3kkTeCBgtFkSRPu9qfPQu.jpg</photo>
+      <role>Caliban</role>
+      <name>Stephen Merchant</name>
+    </item>
+    <item index="5">
+      <photo>http://image.tmdb.org/t/p/original/jMnSjjPQwCOAJ1kPRXLbh0WnsPa.jpg</photo>
+      <role>Dr. Zander Rice</role>
+      <name>Richard E. Grant</name>
+    </item>
+    <item index="6">
+      <photo/>
+      <role>Laura (double)</role>
+      <name>Sienna Novikov</name>
+    </item>
+    <item index="7">
+      <photo>http://image.tmdb.org/t/p/original/iUjzxU9h9omJ9OTVkXreu6Q7YsK.jpg</photo>
+      <role>Will Munson</role>
+      <name>Eriq La Salle</name>
+    </item>
+    <item index="8">
+      <photo>http://image.tmdb.org/t/p/original/6Z6LVIlaCVMWsRgOPFOA4NOXAQO.jpg</photo>
+      <role>Kathryn Munson</role>
+      <name>Elise Neal</name>
+    </item>
+    <item index="9">
+      <photo>http://image.tmdb.org/t/p/original/lwJXQ7DDRY9W4pdzQzJKdeKuCFl.jpg</photo>
+      <role>Gabriela Lopez</role>
+      <name>Elizabeth Rodriguez</name>
+    </item>
+    <item index="10">
+      <photo>http://image.tmdb.org/t/p/original/g2qQLzvqK0kRjlMjAQ56eDKjoUO.jpg</photo>
+      <role>Maria</role>
+      <name>Doris Morgado</name>
+    </item>
+    <item index="11">
+      <photo>http://image.tmdb.org/t/p/original/ezulXDH212W2KhWqQj6v3Q38ZQl.jpg</photo>
+      <role>Rhodes</role>
+      <name>David Kallaway</name>
+    </item>
+    <item index="12">
+      <photo>http://image.tmdb.org/t/p/original/yNeZnnkO7aux7uKRM7AoOxX3mbG.jpg</photo>
+      <role>Valet</role>
+      <name>Han Soto</name>
+    </item>
+    <item index="13">
+      <photo>http://image.tmdb.org/t/p/original/4n3nEr6XefYeNub1fUkO6sMnaPW.jpg</photo>
+      <role>Rictor</role>
+      <name>Jayson Genao</name>
+    </item>
+    <item index="14">
+      <photo>http://image.tmdb.org/t/p/original/cWJfFaL04KA7IcdNvxGhDStuLfQ.jpg</photo>
+      <role>Mohawk</role>
+      <name>Krzysztof Soszynski</name>
+    </item>
+    <item index="15">
+      <photo>http://image.tmdb.org/t/p/original/vU7Bu4z7PzqssfoemO7s9Wg1LU1.jpg</photo>
+      <role>Delilah</role>
+      <name>Alison Fernandez</name>
+    </item>
+    <item index="16">
+      <photo>http://image.tmdb.org/t/p/original/dhmAa34BkmKiPwvEthEYhOT4CSE.jpg</photo>
+      <role>Nate Munson</role>
+      <name>Quincy Fouse</name>
+    </item>
+    <item index="17">
+      <photo>http://image.tmdb.org/t/p/original/8Czp0vQJ7bRG28KfYkFbMeIZXTA.jpg</photo>
+      <role>Federale Commander</role>
+      <name>Al Coronel</name>
+    </item>
+    <item index="18">
+      <photo>http://image.tmdb.org/t/p/original/AaOZR6NXUHXReqOe8MZ480gdtd.jpg</photo>
+      <role>Federale Lieutenant</role>
+      <name>Frank Gallegos</name>
+    </item>
+    <item index="19">
+      <photo>http://image.tmdb.org/t/p/original/ozL9LFKeTpJhutxFSwjr45En1Az.jpg</photo>
+      <role>Federale</role>
+      <name>Anthony Escobar</name>
+    </item>
+    <item index="20">
+      <photo>http://image.tmdb.org/t/p/original/9Auh1zaVGGBTYSDwjBs5PRChju1.jpg</photo>
+      <role>Rey (as Rey Gallegos)</role>
+      <name>Reynaldo Gallegos</name>
+    </item>
+    <item index="21">
+      <photo>http://image.tmdb.org/t/p/original/l32OmMVCjNTsWzwjj5kEkeUTyMt.jpg</photo>
+      <role>Macon</role>
+      <name>Stephen Dunlevy</name>
+    </item>
+    <item index="22">
+      <photo>http://image.tmdb.org/t/p/original/xu8MSrkaP5PH2VlkOAfdRYF8wnB.jpg</photo>
+      <role>Bone Breaker</role>
+      <name>Daniel Bernhardt</name>
+    </item>
+    <item index="23">
+      <photo>http://image.tmdb.org/t/p/original/nnNltXQh04PgGM6UxbBabeHtsde.jpg</photo>
+      <role>Pretty Boy</role>
+      <name>Ryan Sturz</name>
+    </item>
+    <item index="24">
+      <photo/>
+      <role>Reaver</role>
+      <name>Brandon Melendy</name>
+    </item>
+    <item index="25">
+      <photo>http://image.tmdb.org/t/p/original/hxCm0WeU1NfEbfLxh2oy4s9nf0W.jpg</photo>
+      <role>Reaver</role>
+      <name>Luke Hawx</name>
+    </item>
+    <item index="26">
+      <photo>http://image.tmdb.org/t/p/original/yQvd4NVC5Zyy8MyfLKHrAxL0v6Q.jpg</photo>
+      <role>Reaver</role>
+      <name>Paul Andrew O'Connor</name>
+    </item>
+    <item index="27">
+      <photo>http://image.tmdb.org/t/p/original/uMfM8wjNawyrHSfQ1gsNaUjj95.jpg</photo>
+      <role>Reaver</role>
+      <name>Rocky Abou-Sakher</name>
+    </item>
+    <item index="28">
+      <photo>http://image.tmdb.org/t/p/original/qwWruzfs5vC4V5FCyNIEGJvupKm.jpg</photo>
+      <role>Reaver</role>
+      <name>Jean Claude Leuyer</name>
+    </item>
+    <item index="29">
+      <photo>http://image.tmdb.org/t/p/original/gxpIFkQI78Y4guHEy0MH9R79RWi.jpg</photo>
+      <role>Reaver</role>
+      <name>Jef Groff</name>
+    </item>
+    <item index="30">
+      <photo>http://image.tmdb.org/t/p/original/nfJWd3ebSDwCmSPSgSMEoYvUpUy.jpg</photo>
+      <role>Reaver</role>
+      <name>Jeremy Fitzgerald</name>
+    </item>
+    <item index="31">
+      <photo>http://image.tmdb.org/t/p/original/tt6esR3LjJ3XOVknYzCTXdHtpii.jpg</photo>
+      <role>Reaver</role>
+      <name>Chris Palermo</name>
+    </item>
+    <item index="32">
+      <photo/>
+      <role>Reaver</role>
+      <name>Clinton Roberts</name>
+    </item>
+    <item index="33">
+      <photo>http://image.tmdb.org/t/p/original/qlEPonH7fI7ZwUXo0Xyzj1gHqX.jpg</photo>
+      <role>Reaver</role>
+      <name>Keith Jardine</name>
+    </item>
+    <item index="34">
+      <photo>http://image.tmdb.org/t/p/original/8j6A1n7RlSKesgvfyT9kbfQOlaw.jpg</photo>
+      <role>Reaver</role>
+      <name>Andrew Arrabito</name>
+    </item>
+    <item index="35">
+      <photo/>
+      <role>Reaver</role>
+      <name>Sebastian James</name>
+    </item>
+    <item index="36">
+      <photo/>
+      <role>Reaver</role>
+      <name>Aaron Matthews</name>
+    </item>
+    <item index="37">
+      <photo/>
+      <role>Reaver</role>
+      <name>Garrett Hammond</name>
+    </item>
+    <item index="38">
+      <photo/>
+      <role>Reaver</role>
+      <name>Matt McClain</name>
+    </item>
+    <item index="39">
+      <photo>http://image.tmdb.org/t/p/original/iBs8vXydCSuxUzrUU1kNOx3yntb.jpg</photo>
+      <role>Motel Manager</role>
+      <name>Maureen Brennan</name>
+    </item>
+    <item index="40">
+      <photo>http://image.tmdb.org/t/p/original/1fB46rlEbnl0mIMAMZLahewHKE8.jpg</photo>
+      <role>Rebecca</role>
+      <name>Hannah Westerfield</name>
+    </item>
+    <item index="41">
+      <photo>http://image.tmdb.org/t/p/original/slWgavePanhEeEEfEuSunq7PWxx.jpg</photo>
+      <role>Bobby</role>
+      <name>Bryant Tardy</name>
+    </item>
+    <item index="42">
+      <photo>http://image.tmdb.org/t/p/original/hWKwhCoskfnUnM3ohMpGQEKmb8D.jpg</photo>
+      <role>Charlotte</role>
+      <name>Ashlyn Casalegno</name>
+    </item>
+    <item index="43">
+      <photo/>
+      <role>Lizard Boy</role>
+      <name>Parker Lovein</name>
+    </item>
+    <item index="44">
+      <photo>http://image.tmdb.org/t/p/original/xHKgZYPiteLS9hCvM1mL11d6bRe.jpg</photo>
+      <role>Mexican Staff Member</role>
+      <name>Jimmy Gonzales</name>
+    </item>
+    <item index="45">
+      <photo>http://image.tmdb.org/t/p/original/oqB0hQo98TCzNUe1m2uNQSscsJL.jpg</photo>
+      <role>Jackson</role>
+      <name>Lennie Loftin</name>
+    </item>
+    <item index="46">
+      <photo>http://image.tmdb.org/t/p/original/jWBtSHaP3iSmQJC7GTPca8GNPc1.jpg</photo>
+      <role>Bartender</role>
+      <name>Mark Ashworth</name>
+    </item>
+    <item index="47">
+      <photo>http://image.tmdb.org/t/p/original/vm0WQmuP8jEGgFTd3VCcJe7zpUi.jpg</photo>
+      <role>Old Doctor</role>
+      <name>James Handy</name>
+    </item>
+    <item index="48">
+      <photo>http://image.tmdb.org/t/p/original/leM5kfYAJ8hE7FG7KfyHbDXuwBt.jpg</photo>
+      <role>Prom Teen #1</role>
+      <name>Bryce Romero</name>
+    </item>
+    <item index="49">
+      <photo/>
+      <role>Prom Teen #2</role>
+      <name>Phi Vu</name>
+    </item>
+    <item index="50">
+      <photo>http://image.tmdb.org/t/p/original/34YpCnyxCgxlq5PYJqiro7losWy.jpg</photo>
+      <role>Prom Teen #3</role>
+      <name>Chester Rushing</name>
+    </item>
+    <item index="51">
+      <photo/>
+      <role>Prom Teen #4</role>
+      <name>David Simpson</name>
+    </item>
+    <item index="52">
+      <photo>http://image.tmdb.org/t/p/original/byfHp9XdyVgq8PG774bomACseci.jpg</photo>
+      <role>Bridesmaid</role>
+      <name>Lauren Gros</name>
+    </item>
+    <item index="53">
+      <photo/>
+      <role>Pastor</role>
+      <name>John Raymond</name>
+    </item>
+    <item index="54">
+      <photo>http://image.tmdb.org/t/p/original/A4NApJKbqw0DTsXWohI7oUi3ENJ.jpg</photo>
+      <role>Mourning Widow</role>
+      <name>Vanessa Cloke</name>
+    </item>
+    <item index="55">
+      <photo>http://image.tmdb.org/t/p/original/2JLpb90FgqeksVrrF13dN18zQM.jpg</photo>
+      <role>Infirmary Nurse</role>
+      <name>Katie Anne Mitchell</name>
+    </item>
+    <item index="56">
+      <photo>http://image.tmdb.org/t/p/original/aZarz4uBJ8chtvQAEiQIimVnkc7.jpg</photo>
+      <role>Car Dealer</role>
+      <name>Lara Grice</name>
+    </item>
+    <item index="57">
+      <photo>http://image.tmdb.org/t/p/original/sgZCJQ5l1O9vwifeFt9ssLCRJGP.jpg</photo>
+      <role>Major</role>
+      <name>James Moses Black</name>
+    </item>
+    <item index="58">
+      <photo>http://image.tmdb.org/t/p/original/6vPtf3XkJj1talFpdtH2zAwC3Hs.jpg</photo>
+      <role>Banger</role>
+      <name>Ned Yousef</name>
+    </item>
+    <item index="59">
+      <photo/>
+      <role>Banger</role>
+      <name>Baxter Humby</name>
+    </item>
+    <item index="60">
+      <photo/>
+      <role>Banger</role>
+      <name>Daniel Hernández</name>
+    </item>
+    <item index="61">
+      <photo/>
+      <role>Banger</role>
+      <name>Michael Lehr</name>
+    </item>
+    <item index="62">
+      <photo/>
+      <role>Banger</role>
+      <name>Bryan Sloyer</name>
+    </item>
+    <item index="63">
+      <photo>http://image.tmdb.org/t/p/original/s00K3WdMMuH4iEqsSdr3L7tKZFt.jpg</photo>
+      <role>Federale</role>
+      <name>John Bernecker</name>
+    </item>
+    <item index="64">
+      <photo/>
+      <role>Federale</role>
+      <name>Joe Williams</name>
+    </item>
+    <item index="65">
+      <photo>http://image.tmdb.org/t/p/original/A8yLtkCeY7wvVlfL6TakeiUSmEa.jpg</photo>
+      <role>Federale</role>
+      <name>Robert Wu</name>
+    </item>
+    <item index="66">
+      <photo/>
+      <role>Federale</role>
+      <name>Victor Winters-Junco</name>
+    </item>
+    <item index="67">
+      <photo>http://image.tmdb.org/t/p/original/mWittaEYFxIFCaskmYFE0m9bJr9.jpg</photo>
+      <role>Federale</role>
+      <name>Craig Henningsen</name>
+    </item>
+    <item index="68">
+      <photo/>
+      <role>Federale</role>
+      <name>Evan Dane Taylor</name>
+    </item>
+    <item index="69">
+      <photo/>
+      <role>Federale</role>
+      <name>Toby Holguin</name>
+    </item>
+    <item index="70">
+      <photo/>
+      <role>Federale</role>
+      <name>Panuvat Anthony Nanakornpanom</name>
+    </item>
+    <item index="71">
+      <photo>http://image.tmdb.org/t/p/original/hSSqPyfTJLmKsI5ncVSaxs7GT2T.jpg</photo>
+      <role>Federale</role>
+      <name>Eyad Elbitar</name>
+    </item>
+    <item index="72">
+      <photo>http://image.tmdb.org/t/p/original/fjXg5qNEEZZKcf8hjwla7urCQOF.jpg</photo>
+      <role>Pine Cone Girl</role>
+      <name>Rissa Rose Kilar</name>
+    </item>
+    <item index="73">
+      <photo>http://image.tmdb.org/t/p/original/3twVqmUYpqaEpAhB8KOjd8S4y9M.jpg</photo>
+      <role>Jonah</role>
+      <name>Salef Celiz</name>
+    </item>
+    <item index="74">
+      <photo>http://image.tmdb.org/t/p/original/dPMBlHWPzlJiBRf76VXoGluHYbN.jpg</photo>
+      <role>Mutant Child</role>
+      <name>Aidan Kennedy</name>
+    </item>
+    <item index="75">
+      <photo>http://image.tmdb.org/t/p/original/s1rcBBKzhuWCbXbOUSKSkiPElwm.jpg</photo>
+      <role>Mutant Child</role>
+      <name>Chase Cubia</name>
+    </item>
+    <item index="76">
+      <photo/>
+      <role>Mutant Child</role>
+      <name>Vincenzo Lucatorto</name>
+    </item>
+    <item index="77">
+      <photo>http://image.tmdb.org/t/p/original/fumUY4R3yz4SuE8bdIBNJfE5DIh.jpg</photo>
+      <role>Mutant Child</role>
+      <name>Haley Glass</name>
+    </item>
+    <item index="78">
+      <photo>http://image.tmdb.org/t/p/original/oxM1PtQtJ91ZeyREGsm83hsUGcY.jpg</photo>
+      <role>Mutant Child</role>
+      <name>Nayah Murphy</name>
+    </item>
+    <item index="79">
+      <photo>http://image.tmdb.org/t/p/original/aJCnhBnUmOZSVr2VPLBltNHGuE1.jpg</photo>
+      <role>Mutant Child</role>
+      <name>Emma Teo</name>
+    </item>
+    <item index="80">
+      <photo>http://image.tmdb.org/t/p/original/x6FAFfWSJyBbsOMDNVeswTNYdE2.jpg</photo>
+      <role>Mutant Child</role>
+      <name>Noell Jellison</name>
+    </item>
+    <item index="81">
+      <photo/>
+      <role>Mutant Child</role>
+      <name>Ella Rowbotham</name>
+    </item>
+    <item index="82">
+      <photo/>
+      <role>Mutant Child</role>
+      <name>Hudson Wright</name>
+    </item>
+    <item index="83">
+      <photo/>
+      <role>Mutant Child</role>
+      <name>Sebeon Jackson</name>
+    </item>
+    <item index="84">
+      <photo>http://image.tmdb.org/t/p/original/vcy3fLLcMfNkPIsDO5zoWpHOeo3.jpg</photo>
+      <role>Glowing Eyes Boy</role>
+      <name>Kelton DuMont</name>
+    </item>
+    <item index="85">
+      <photo>http://image.tmdb.org/t/p/original/4SQ1Zy48o3R9kk9vHQJZtpsVV6u.jpg</photo>
+      <role>Jackson's Henchman</role>
+      <name>Damon Carney</name>
+    </item>
+    <item index="86">
+      <photo/>
+      <role>Screaming Casino Woman</role>
+      <name>Cynthia Woods</name>
+    </item>
+    <item index="87">
+      <photo/>
+      <role>Bumpy Skinned Kid</role>
+      <name>Mali O'Connor</name>
+    </item>
+    <item index="88">
+      <photo/>
+      <role>Border Guard</role>
+      <name>Robert Vargas</name>
+    </item>
+    <item index="89">
+      <photo>http://image.tmdb.org/t/p/original/a67IKNrw1Q1BHPixmGXVHS3yRYI.jpg</photo>
+      <role>Helicopter Pilot</role>
+      <name>David Paris</name>
+    </item>
+    <item index="90">
+      <photo>http://image.tmdb.org/t/p/original/j3ZaVsHjlo1WbkkcQykmCK5Jn5j.jpg</photo>
+      <role>Laura's Grandpa (uncredited)</role>
+      <name>Ted Ferguson</name>
+    </item>
+    <item index="91">
+      <photo>http://image.tmdb.org/t/p/original/drwzIvBgEE5A4o5XanikZR5LfEO.jpg</photo>
+      <role>Homeless Guy (uncredited)</role>
+      <name>Juan Gaspard</name>
+    </item>
+    <item index="92">
+      <photo>http://image.tmdb.org/t/p/original/s1Gs5ywIcxmXoENa8bRbXGqfC9i.jpg</photo>
+      <role>Reaver (uncredited)</role>
+      <name>Christopher Heskey</name>
+    </item>
+    <item index="93">
+      <photo>http://image.tmdb.org/t/p/original/vbnJkoMu7GxZKjQIvGsPd3HyZBt.jpg</photo>
+      <role>Casino Patron (uncredited)</role>
+      <name>Julia Holt</name>
+    </item>
+    <item index="94">
+      <photo>http://image.tmdb.org/t/p/original/A8SC7sAcnx0KK61Kpn6jUJqrVx.jpg</photo>
+      <role>Club Goer (uncredited)</role>
+      <name>Natosha Humphrey</name>
+    </item>
+    <item index="95">
+      <photo>http://image.tmdb.org/t/p/original/xzL7Ceg3puhpxutp4k6cMNAPkS2.jpg</photo>
+      <role>Nurse (uncredited)</role>
+      <name>Lizeth Hutchings</name>
+    </item>
+    <item index="96">
+      <photo>http://image.tmdb.org/t/p/original/17yOoNTmRRqjWy6xTOWlrTFMeR9.jpg</photo>
+      <role>Clinic Visitor (uncredited)</role>
+      <name>Donald M. Krause</name>
+    </item>
+    <item index="97">
+      <photo>http://image.tmdb.org/t/p/original/vor2wh53mSTQemJrc9dC5e30P0z.jpg</photo>
+      <role>Reaver (uncredited)</role>
+      <name>Justin Lebrun</name>
+    </item>
+    <item index="98">
+      <photo>http://image.tmdb.org/t/p/original/oxDo8WRvKI6TTDC0fn2cDAEICR5.jpg</photo>
+      <role>Military Contractor (uncredited)</role>
+      <name>Gentry Lee</name>
+    </item>
+    <item index="99">
+      <photo>http://image.tmdb.org/t/p/original/ujtPkOgFVnsEGUrKWxD4q7NJEZC.jpg</photo>
+      <role>Special Forces (uncredited)</role>
+      <name>Gonzalo Robles</name>
+    </item>
+    <item index="100">
+      <photo/>
+      <role>Special Forces (uncredited)</role>
+      <name>Daymond C. Roman</name>
+    </item>
+    <item index="101">
+      <photo>http://image.tmdb.org/t/p/original/eC4VwbtBuPDHrIh7vUGhbR5pzds.jpg</photo>
+      <role>Bridesmaid (uncredited)</role>
+      <name>Mary Peyton Stewart</name>
+    </item>
+    <item index="102">
+      <photo>http://image.tmdb.org/t/p/original/5hcQFh8bNza8ZLsKxXijiXNJRZx.jpg</photo>
+      <role>FBI Agent (uncredited)</role>
+      <name>Michael Love Toliver</name>
+    </item>
+    <item index="103">
+      <photo>http://image.tmdb.org/t/p/original/nJYXBvM0GvmneYtc8Pol3FAWaz4.jpg</photo>
+      <role>FBI Agent (uncredited)</role>
+      <name>Gregory Paul Valdez</name>
+    </item>
+    <item index="104">
+      <photo>http://image.tmdb.org/t/p/original/9cPhpNYacn5Lc8bUIWX44Lj5K0z.jpg</photo>
+      <role>Convenience Store Clerk</role>
+      <name>Dave Davis</name>
+    </item>
+  </roles>
+  <similar>
+    <item index="0">Guardians of the Galaxy Vol. 2</item>
+    <item index="1">Doctor Strange</item>
+    <item index="2">X-Men: Apocalypse</item>
+    <item index="3">Wonder Woman</item>
+    <item index="4">Spider-Man: Homecoming</item>
+    <item index="5">Rogue One: A Star Wars Story</item>
+    <item index="6">Kong: Skull Island</item>
+    <item index="7">Captain America: Civil War</item>
+    <item index="8">Ghost in the Shell</item>
+    <item index="9">John Wick: Chapter 2</item>
+    <item index="10">Batman v Superman: Dawn of Justice</item>
+    <item index="11">X-Men: Days of Future Past</item>
+    <item index="12">Assassin's Creed</item>
+    <item index="13">Thor: Ragnarok</item>
+    <item index="14">Split</item>
+    <item index="15">Arrival</item>
+    <item index="16">Power Rangers</item>
+    <item index="17">Ant-Man</item>
+    <item index="18">Avengers: Age of Ultron</item>
+    <item index="19">Justice League</item>
+  </similar>
+  <studio>20th Century Fox</studio>
+  <summary>In the near future, a weary Logan cares for an ailing Professor X in a hideout on the Mexican border. But Logan's attempts to hide from the world and his legacy are upended when a young mutant arrives, pursued by dark forces.</summary>
+  <tagline>His time has come</tagline>
+  <tags/>
+  <themes/>
+  <title>Logan</title>
+  <writers>
+    <item index="0">
+      <photo>http://image.tmdb.org/t/p/original/oXmMv1vlJf2G9xWwCXBPrRY50EV.jpg</photo>
+      <role/>
+      <name>Michael Green</name>
+    </item>
+    <item index="1">
+      <photo>http://image.tmdb.org/t/p/original/hV0DEtOsiiQAMb7Oqo2VEII8o2l.jpg</photo>
+      <role/>
+      <name>Scott Frank</name>
+    </item>
+    <item index="2">
+      <photo>http://image.tmdb.org/t/p/original/1gt0VmCyBHhQLKhaBDCEIwvRWe.jpg</photo>
+      <role/>
+      <name>James Mangold</name>
+    </item>
+  </writers>
+  <year>2017</year>
+</Movie>

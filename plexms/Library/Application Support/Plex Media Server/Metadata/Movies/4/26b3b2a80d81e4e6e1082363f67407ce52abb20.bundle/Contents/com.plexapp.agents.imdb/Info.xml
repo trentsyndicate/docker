@@ -1,0 +1,632 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Movie id="tt5390504">
+  <rating>8.3</rating>
+  <title_sort/>
+  <art>
+    <item external="True" url="http://image.tmdb.org/t/p/original/3r6b7L7JniZuJQXqxBECsYZsp9Q.jpg" preview="a374b17cc33f8146b6c85ea66043b67f86ca7a8c" sort_order="1"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/6YgSDUHRA4memDCjyKiwBJS9cNv.jpg" preview="918e63e849653f0b987e964c30042a0885c31ca7" sort_order="2"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/5zHmyudY6CChjpUlkN3PDkt9TSa.jpg" preview="90562861291909296ea4d75b51b1a54a4f7cd851" sort_order="3"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/kEnLnpRnF3gL98j59TIY7rzOXui.jpg" preview="c78600465912a2d6c9aa4edc9c2d387b99470f96" sort_order="4"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/zpkWkIXEwSErbIgOlh1NkwQ6Pyj.jpg" preview="c29f7878630ef963d8ea33f3295bbbd5f6687e75" sort_order="5"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/hpbSsYLap4aLtXtkKrGemQ3SI4m.jpg" preview="e6aec66c0f7940ae1280383c1c88846e85a6b8c5" sort_order="6"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/lmDxEWoo31yqohmZTKBhddiyJHE.jpg" preview="36bc11d894aba6dd996dbef5e564306050902e0a" sort_order="7"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/kKRP7DZZyPgaCLf9kuaXV4lfzk1.jpg" preview="7a5e9ffb5fd37dfc63191f5d52994947f910d822" sort_order="8"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/u32yFebglvsz34MwwvDLsFg0aHi.jpg" preview="33996e5f30140cd1ca1422e9c5ea78506a5e36d8" sort_order="9"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/tBfcl4I90YlGi3k8bVjr3mqv2Dr.jpg" preview="ac7027fa03119f60f54f6606d6110393f8607b3f" sort_order="10"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/bLxUvvTev2fkhnirqEkJefdTPX7.jpg" preview="05742174999a347ec60cd86675dc86cc739f3290" sort_order="11"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/nl3j46NqyPZPQjRBOb1iprWFVQg.jpg" preview="573945e147b466a59c95ab2147ffcbfdc83af53f" sort_order="12"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/qN8AI3GlRj66Rvmj1zp6Q9pWCFL.jpg" preview="83ee9068b23d040412fd320879cc899ead7ce767" sort_order="13"/>
+  </art>
+  <writers>
+    <item index="0">
+      <photo>http://image.tmdb.org/t/p/original/4AmklANnzfpZDlfvYhIJvQY1QRY.jpg</photo>
+      <role/>
+      <name>Mark Boal</name>
+    </item>
+  </writers>
+  <chapters>
+    <item index="0">
+      <title>Chapter 1</title>
+      <end_time_offset>242000</end_time_offset>
+      <start_time_offset>0</start_time_offset>
+    </item>
+    <item index="1">
+      <title>Chapter 2</title>
+      <end_time_offset>548000</end_time_offset>
+      <start_time_offset>242000</start_time_offset>
+    </item>
+    <item index="2">
+      <title>Chapter 3</title>
+      <end_time_offset>903000</end_time_offset>
+      <start_time_offset>548000</start_time_offset>
+    </item>
+    <item index="3">
+      <title>Chapter 4</title>
+      <end_time_offset>1558000</end_time_offset>
+      <start_time_offset>903000</start_time_offset>
+    </item>
+    <item index="4">
+      <title>Chapter 5</title>
+      <end_time_offset>1941000</end_time_offset>
+      <start_time_offset>1558000</start_time_offset>
+    </item>
+    <item index="5">
+      <title>Chapter 6</title>
+      <end_time_offset>2166000</end_time_offset>
+      <start_time_offset>1941000</start_time_offset>
+    </item>
+    <item index="6">
+      <title>Chapter 7</title>
+      <end_time_offset>2461000</end_time_offset>
+      <start_time_offset>2166000</start_time_offset>
+    </item>
+    <item index="7">
+      <title>Chapter 8</title>
+      <end_time_offset>2994000</end_time_offset>
+      <start_time_offset>2461000</start_time_offset>
+    </item>
+    <item index="8">
+      <title>Chapter 9</title>
+      <end_time_offset>3324000</end_time_offset>
+      <start_time_offset>2994000</start_time_offset>
+    </item>
+    <item index="9">
+      <title>Chapter 10</title>
+      <end_time_offset>3536000</end_time_offset>
+      <start_time_offset>3324000</start_time_offset>
+    </item>
+    <item index="10">
+      <title>Chapter 11</title>
+      <end_time_offset>3966000</end_time_offset>
+      <start_time_offset>3536000</start_time_offset>
+    </item>
+    <item index="11">
+      <title>Chapter 12</title>
+      <end_time_offset>4242000</end_time_offset>
+      <start_time_offset>3966000</start_time_offset>
+    </item>
+    <item index="12">
+      <title>Chapter 13</title>
+      <end_time_offset>4456000</end_time_offset>
+      <start_time_offset>4242000</start_time_offset>
+    </item>
+    <item index="13">
+      <title>Chapter 14</title>
+      <end_time_offset>5102000</end_time_offset>
+      <start_time_offset>4456000</start_time_offset>
+    </item>
+    <item index="14">
+      <title>Chapter 15</title>
+      <end_time_offset>5326000</end_time_offset>
+      <start_time_offset>5102000</start_time_offset>
+    </item>
+    <item index="15">
+      <title>Chapter 16</title>
+      <end_time_offset>5577000</end_time_offset>
+      <start_time_offset>5326000</start_time_offset>
+    </item>
+    <item index="16">
+      <title>Chapter 17</title>
+      <end_time_offset>5977000</end_time_offset>
+      <start_time_offset>5577000</start_time_offset>
+    </item>
+    <item index="17">
+      <title>Chapter 18</title>
+      <end_time_offset>6533000</end_time_offset>
+      <start_time_offset>5977000</start_time_offset>
+    </item>
+    <item index="18">
+      <title>Chapter 19</title>
+      <end_time_offset>6730000</end_time_offset>
+      <start_time_offset>6533000</start_time_offset>
+    </item>
+    <item index="19">
+      <title>Chapter 20</title>
+      <end_time_offset>7155000</end_time_offset>
+      <start_time_offset>6730000</start_time_offset>
+    </item>
+    <item index="20">
+      <title>Chapter 21</title>
+      <end_time_offset>7485000</end_time_offset>
+      <start_time_offset>7155000</start_time_offset>
+    </item>
+    <item index="21">
+      <title>Chapter 22</title>
+      <end_time_offset>7813000</end_time_offset>
+      <start_time_offset>7485000</start_time_offset>
+    </item>
+    <item index="22">
+      <title>Chapter 23</title>
+      <end_time_offset>8093000</end_time_offset>
+      <start_time_offset>7813000</start_time_offset>
+    </item>
+    <item index="23">
+      <title>Chapter 24</title>
+      <end_time_offset>-1</end_time_offset>
+      <start_time_offset>8093000</start_time_offset>
+    </item>
+  </chapters>
+  <themes/>
+  <quotes/>
+  <year>2017</year>
+  <duration>8580000</duration>
+  <genres>
+    <item index="0">Crime</item>
+    <item index="1">Drama</item>
+    <item index="2">History</item>
+    <item index="3">Thriller</item>
+  </genres>
+  <title>Detroit</title>
+  <tagline>It's time we knew</tagline>
+  <content_rating_age/>
+  <rating_count/>
+  <collections/>
+  <trivia/>
+  <tags/>
+  <audience_rating_image>rottentomatoes://image.rating.upright</audience_rating_image>
+  <rating_image>rottentomatoes://image.rating.ripe</rating_image>
+  <producers>
+    <item index="0">
+      <photo>http://image.tmdb.org/t/p/original/7wiMnFR6WP9SK870AvNQ3LccLi7.jpg</photo>
+      <role/>
+      <name>Kathryn Bigelow</name>
+    </item>
+    <item index="1">
+      <photo>http://image.tmdb.org/t/p/original/4AmklANnzfpZDlfvYhIJvQY1QRY.jpg</photo>
+      <role/>
+      <name>Mark Boal</name>
+    </item>
+    <item index="2">
+      <photo/>
+      <role/>
+      <name>Matthew Budman</name>
+    </item>
+    <item index="3">
+      <photo>http://image.tmdb.org/t/p/original/eVsidxjtoSjb3zztDPWMLcccPqE.jpg</photo>
+      <role/>
+      <name>Megan Ellison</name>
+    </item>
+    <item index="4">
+      <photo/>
+      <role/>
+      <name>Colin Wilson</name>
+    </item>
+  </producers>
+  <audience_rating>7.9</audience_rating>
+  <studio>Annapurna Pictures</studio>
+  <posters>
+    <item external="True" url="http://image.tmdb.org/t/p/original/7APLVpsGzXPJw16ZuBtXICxq8B9.jpg" preview="7a5c57e27aea3a6ed4a5df21a84eb840b534ef6a" sort_order="1"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/tmCt2hy9QoFHft3UcHwpGX2Sihl.jpg" preview="15ea1150b725812021f44374f4996c8071afc7d0" sort_order="2"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/r0ldqSFASpqSM5xTrpcZGO6Ef2G.jpg" preview="619b07b593417392edbd9656f3cb7365324d5330" sort_order="3"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/7dkFHwJ4OXkm3tt1sNHOBPvcSNM.jpg" preview="de34558908ce5f501e4309d29361019d11116ee2" sort_order="4"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/8gjk2XkKdq8j9QdryNxcVDaOa0F.jpg" preview="221d25dcb6f6379e7048715dedfa8dbe9003496d" sort_order="5"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/rBbxKOJbv8hOoHoODlei8cqitr5.jpg" preview="7932c7edd6d65ebb190240e5a0ef557a46bb4961" sort_order="6"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/h2gCgQLIEnHHWCy2qai2J3fNSA7.jpg" preview="09cd0ee695bba48dd8df88d4d546f09404c58d5f" sort_order="7"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/hgoWdACgZM7yArppPeu8ZPPqd4H.jpg" preview="d7f4826efb0f5a72494e82be65b74b8230fc7258" sort_order="8"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/fNvtmEhEmrklaDMnAAqRCfcMNEw.jpg" preview="e9426229602c26c9245d6773b23c971fc1a020b7" sort_order="9"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/s2lN241HXYP3ZiergmxMvV5vEcu.jpg" preview="d62b8404bd6553d3da9368de49e25bb706fdc5fc" sort_order="10"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/i5eH7yvx6SvaKt02lXfSg4pDSHq.jpg" preview="6a070c1a3d1a27874cba2a974d344cdc49ffea8b" sort_order="11"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/vAb3xFVdqVTxkVqm4y7RGDb6VpG.jpg" preview="7d6d1014f5d7edc1372c67768edbf43e6006ac1e" sort_order="12"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/1b1dDV2pLSoFNUmvyYTEFgW3l56.jpg" preview="fa25ee8444b54839f53d067334bc889bd95aff5e" sort_order="13"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/tId81XVWTl5XDDn1yATuNZnl6lR.jpg" preview="9826f5918846dd54eb8bcb0c5824f06a94cb18f3" sort_order="14"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/uf7Z8MOiQuIXNyWZOxHF2XysOBr.jpg" preview="48207781138ffa23857fce057c9cdea21e8432c4" sort_order="15"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/iHjscg7mrXs3XSekKpH1v551flc.jpg" preview="1e021e833bb35275b36a278f72640d72b4f18638" sort_order="16"/>
+  </posters>
+  <originally_available_at>2017-07-28</originally_available_at>
+  <roles>
+    <item index="0">
+      <photo>http://image.tmdb.org/t/p/original/3153CfpgZQXTzCY0i74WpJumMQe.jpg</photo>
+      <role>Melvin Dismukes</role>
+      <name>John Boyega</name>
+    </item>
+    <item index="1">
+      <photo>http://image.tmdb.org/t/p/original/uzzt8okraVwvxSfoU4MJ39bdHwV.jpg</photo>
+      <role>Philip Krauss</role>
+      <name>Will Poulter</name>
+    </item>
+    <item index="2">
+      <photo>http://image.tmdb.org/t/p/original/nOWwdZURikW22qo6OUSGFCTukgc.jpg</photo>
+      <role>Attorney Auerbach</role>
+      <name>John Krasinski</name>
+    </item>
+    <item index="3">
+      <photo>http://image.tmdb.org/t/p/original/5VGGJ0Co8SC94iiedWb2o3C36T.jpg</photo>
+      <role>Greene</role>
+      <name>Anthony Mackie</name>
+    </item>
+    <item index="4">
+      <photo>http://image.tmdb.org/t/p/original/Ar0tYhSPg7QqRVFFR1MMMPo2cLm.jpg</photo>
+      <role>Larry Reed</role>
+      <name>Algee Smith</name>
+    </item>
+    <item index="5">
+      <photo>http://image.tmdb.org/t/p/original/eZBAmGqwG2q2bFWD3xLTLt69QAb.jpg</photo>
+      <role>Carl Cooper</role>
+      <name>Jason Mitchell</name>
+    </item>
+    <item index="6">
+      <photo>http://image.tmdb.org/t/p/original/9Qob0EzmUG8WuM5XmkD0mN2ZJUp.jpg</photo>
+      <role>Julie Ann</role>
+      <name>Hannah Murray</name>
+    </item>
+    <item index="7">
+      <photo>http://image.tmdb.org/t/p/original/dQ5cqeYLlYl3tZjIXJAPuuAwMOt.jpg</photo>
+      <role>Demens</role>
+      <name>Jack Reynor</name>
+    </item>
+    <item index="8">
+      <photo>http://image.tmdb.org/t/p/original/f9cCCp1PlRZo4sWdwppHTeOC8kZ.jpg</photo>
+      <role>Flynn</role>
+      <name>Ben O'Toole</name>
+    </item>
+    <item index="9">
+      <photo>http://image.tmdb.org/t/p/original/ncabL8QALGJpMkcmGDFuqBw4jsh.jpg</photo>
+      <role>Fred Temple</role>
+      <name>Jacob Latimore</name>
+    </item>
+    <item index="10">
+      <photo>http://image.tmdb.org/t/p/original/ybWdxglFyo38t2SHrhDxlVdsHzF.jpg</photo>
+      <role>Karen</role>
+      <name>Kaitlyn Dever</name>
+    </item>
+    <item index="11">
+      <photo>http://image.tmdb.org/t/p/original/VXgR1NWyLITIS0TEocGFiesfaz.jpg</photo>
+      <role>Morris</role>
+      <name>Joseph David-Jones</name>
+    </item>
+    <item index="12">
+      <photo/>
+      <role>Jimmy</role>
+      <name>Ephraim Sykes</name>
+    </item>
+    <item index="13">
+      <photo>http://image.tmdb.org/t/p/original/4fXgsZvoNIx0CsAREcLPHnuTUXx.jpg</photo>
+      <role>Darryl</role>
+      <name>Leon G. Thomas III</name>
+    </item>
+    <item index="14">
+      <photo>http://image.tmdb.org/t/p/original/sYQ2WJfvxFp7xMDjAMGN8Z1Jkqq.jpg</photo>
+      <role>Aubrey</role>
+      <name>Nathan Davis Jr.</name>
+    </item>
+    <item index="15">
+      <photo/>
+      <role>Lee</role>
+      <name>Peyton 'Alex' Smith</name>
+    </item>
+    <item index="16">
+      <photo>http://image.tmdb.org/t/p/original/rLnHnEyFmPxnS7FlALTBlEJv8tl.jpg</photo>
+      <role>Michael Clark</role>
+      <name>Malcolm David Kelley</name>
+    </item>
+    <item index="17">
+      <photo>http://image.tmdb.org/t/p/original/5zkJdpJWanImwO7pIlYbbdtKFOu.jpg</photo>
+      <role>Aubrey Pollard Sr.</role>
+      <name>Gbenga Akinnagbe</name>
+    </item>
+    <item index="18">
+      <photo>http://image.tmdb.org/t/p/original/q7YTLygWtmk6dKWmsL51hHzFGy7.jpg</photo>
+      <role>Officer Frank</role>
+      <name>Chris Chalk</name>
+    </item>
+    <item index="19">
+      <photo>http://image.tmdb.org/t/p/original/lZsU6KrXXkIVtcvJmlPKwPRtBkn.jpg</photo>
+      <role>Morgue Doctor</role>
+      <name>Jennifer Ehle</name>
+    </item>
+    <item index="20">
+      <photo>http://image.tmdb.org/t/p/original/3tgZpVUjqNwolUXX0FhFSCADi3y.jpg</photo>
+      <role>Attorney Lang</role>
+      <name>Jeremy Strong</name>
+    </item>
+    <item index="21">
+      <photo>http://image.tmdb.org/t/p/original/6zqlURffzAErl4g4d8kiUWYWmoz.jpg</photo>
+      <role>John Conyers Jr.</role>
+      <name>Laz Alonso</name>
+    </item>
+    <item index="22">
+      <photo>http://image.tmdb.org/t/p/original/knNYAZnXpSBwsYd9et4ui7wpiCI.jpg</photo>
+      <role>Warrant Officer Roberts</role>
+      <name>Austin Hébert</name>
+    </item>
+    <item index="23">
+      <photo>http://image.tmdb.org/t/p/original/m45A0hYcpnGckwxqs7j0I6Sp2Dj.jpg</photo>
+      <role>Vanessa</role>
+      <name>Samira Wiley</name>
+    </item>
+    <item index="24">
+      <photo>http://image.tmdb.org/t/p/original/AhP3h8PTolg7vsiz85wET0U99bE.jpg</photo>
+      <role>Leon</role>
+      <name>Tyler James Williams</name>
+    </item>
+    <item index="25">
+      <photo/>
+      <role>Malcolm</role>
+      <name>Miguel Pimentel</name>
+    </item>
+    <item index="26">
+      <photo/>
+      <role>Blind Pig Patron</role>
+      <name>Kristopher Davis</name>
+    </item>
+    <item index="27">
+      <photo>http://image.tmdb.org/t/p/original/cPMVT0AclKYbUvB3ZI8bTSVSoTK.jpg</photo>
+      <role>Homicide Detective Anderson</role>
+      <name>Glenn Fitzgerald</name>
+    </item>
+    <item index="28">
+      <photo>http://image.tmdb.org/t/p/original/5KeZEg1rRH8JZFItpBWRtSPxcNW.jpg</photo>
+      <role>Police Sergeant James</role>
+      <name>Mason Alban</name>
+    </item>
+    <item index="29">
+      <photo/>
+      <role>Police Officer Bill</role>
+      <name>Bennett Deady</name>
+    </item>
+    <item index="30">
+      <photo/>
+      <role>Dave</role>
+      <name>Tokunbo Joshua Olumide</name>
+    </item>
+    <item index="31">
+      <photo/>
+      <role>Nate Conyers</role>
+      <name>Benz Veal</name>
+    </item>
+    <item index="32">
+      <photo>http://image.tmdb.org/t/p/original/pTz5rD5UaTa0C7xp1vna9FBkIv8.jpg</photo>
+      <role>Detective Jones</role>
+      <name>Dennis Staroselsky</name>
+    </item>
+    <item index="33">
+      <photo>http://image.tmdb.org/t/p/original/cSY244Drv8JO0Kwgf0rMmo93dc9.jpg</photo>
+      <role>Detective Tanchuck</role>
+      <name>Darren Goldstein</name>
+    </item>
+    <item index="34">
+      <photo/>
+      <role>Martha</role>
+      <name>Zurin Villanueva</name>
+    </item>
+    <item index="35">
+      <photo/>
+      <role>Spencer</role>
+      <name>Ricardo Pitts-Wiley</name>
+    </item>
+    <item index="36">
+      <photo/>
+      <role>National Guardsman Mike</role>
+      <name>Joey Lawyer</name>
+    </item>
+    <item index="37">
+      <photo/>
+      <role>National Guardsman Matthew</role>
+      <name>Will Bouvier</name>
+    </item>
+    <item index="38">
+      <photo/>
+      <role>Linda Tucker</role>
+      <name>Morgan Rae</name>
+    </item>
+    <item index="39">
+      <photo/>
+      <role>Police Officer David</role>
+      <name>David A. Flannery</name>
+    </item>
+    <item index="40">
+      <photo>http://image.tmdb.org/t/p/original/fQ7VIw071hRRW82yiN2eJ62BVyZ.jpg</photo>
+      <role>Foreman Pete</role>
+      <name>Timothy John Smith</name>
+    </item>
+    <item index="41">
+      <photo/>
+      <role>Roberta Pollard</role>
+      <name>Kris Sidberry</name>
+    </item>
+    <item index="42">
+      <photo>http://image.tmdb.org/t/p/original/v2jMebmwbmmgc9kByJydR5r2SVW.jpg</photo>
+      <role>Ma Pollard</role>
+      <name>Lizan Mitchell</name>
+    </item>
+    <item index="43">
+      <photo>http://image.tmdb.org/t/p/original/lSjg8jeqZ4mEKfkMnpy25Di3ztR.jpg</photo>
+      <role>Detective Thomas</role>
+      <name>Chris Coy</name>
+    </item>
+    <item index="44">
+      <photo/>
+      <role>Eddie</role>
+      <name>Ato Blankson-Wood</name>
+    </item>
+    <item index="45">
+      <photo>http://image.tmdb.org/t/p/original/rcQuFJ8ih0YUhVx40NXzCzI4wL0.jpg</photo>
+      <role>George</role>
+      <name>Henry Frost III</name>
+    </item>
+    <item index="46">
+      <photo/>
+      <role>Philip</role>
+      <name>JJ Batteast</name>
+    </item>
+  </roles>
+  <countries>
+    <item index="0">USA</item>
+  </countries>
+  <content_rating>R</content_rating>
+  <original_title/>
+  <summary>A police raid in Detroit in 1967 results in one of the largest citizens' uprisings in the history of the United States.</summary>
+  <reviews>
+    <item index="0">
+      <text>[Detroit] is a film that, for all its emotional power, is strangely disengaged from the cultural and systemic forces that led to police brutality in 1967 and continue to do so today.</text>
+      <source>The Atlantic</source>
+      <image>rottentomatoes://image.review.rotten</image>
+      <link>https://www.theatlantic.com/entertainment/archive/2017/08/the-disappointments-of-detroit/535899/</link>
+      <author>Christopher Orr</author>
+    </item>
+    <item index="1">
+      <text>The violence in Detroit is gratuitous simply because there is so much of it and it is so profoundly repugnant.</text>
+      <source>The New Republic</source>
+      <image>rottentomatoes://image.review.rotten</image>
+      <link>https://newrepublic.com/article/144246/detroits-violence-gratuitous</link>
+      <author>Josephine Livingstone</author>
+    </item>
+    <item index="2">
+      <text>Bigelow doesn't have as original, as distinctive, as reflective a sense of cinematic drama as the extraordinary subject matter of "Detroit" requires.</text>
+      <source>New Yorker</source>
+      <image>rottentomatoes://image.review.rotten</image>
+      <link>http://www.newyorker.com/culture/richard-brody/the-immoral-artistry-of-kathryn-bigelows-detroit</link>
+      <author>Richard Brody</author>
+    </item>
+    <item index="3">
+      <text>Reteaming Bigelow and Boal, Detroit lacks the clarity of their previous collaborations but the ambitious period drama maintains their power to disturb, and question what it is to be an American.</text>
+      <source>New York Observer</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>http://observer.com/2017/08/</link>
+      <author>Thelma Adams</author>
+    </item>
+    <item index="4">
+      <text>This may be the point that racist violence reduces its victims to an atrocious nothingness. But the unrelenting atrocity, so lacking in dramatic or emotional modulation, becomes numbing.</text>
+      <source>Christian Science Monitor</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>https://www.csmonitor.com/The-Culture/Movies/2017/0804/In-Detroit-atrocity-becomes-numbing</link>
+      <author>Peter Rainer</author>
+    </item>
+    <item index="5">
+      <text>Somewhere between a Straw Dogs-style "survive the night" home invasion narrative, Milgram experiment moral problem play and racial torture porn.</text>
+      <source>Globe and Mail</source>
+      <image>rottentomatoes://image.review.rotten</image>
+      <link>https://beta.theglobeandmail.com/arts/film/film-reviews/review-detroit-devolves-into-an-exploitative-horror-film/article35871621/?ref=http://www.theglobeandmail.com&amp;</link>
+      <author>John Semley</author>
+    </item>
+    <item index="6">
+      <text>It's hard to overstate just how visceral and harrowing an experience it is. Detroit is a well-made and evocative film that is also numbingly brutal with little to no reprieve.</text>
+      <source>Associated Press</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>http://abcnews.go.com/Entertainment/wireStory/review-bigelow-explores-horrific-history-detroit-48872748</link>
+      <author>Lindsey Bahr</author>
+    </item>
+    <item index="7">
+      <text>Bigelow and Boal want to make a moral howl of a movie that burns with felt life, but they wind up with a failure of historical imagination that undermines a harrowing true story.</text>
+      <source>San Diego Reader</source>
+      <image>rottentomatoes://image.review.rotten</image>
+      <link>https://www.sandiegoreader.com/movies/detroit/</link>
+      <author>Matthew Lickona</author>
+    </item>
+    <item index="8">
+      <text>Maddeningly imperfect but still honorable.</text>
+      <source>NPR</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>http://www.npr.org/2017/08/03/540978399/in-harrowing-detroit-kathryn-bigelow-mixes-brutal-facts-with-fiction?utm_medium=RSS&amp;utm_campaign=movies</link>
+      <author>Chris Klimek</author>
+    </item>
+    <item index="9">
+      <text>Detroit is an imperfect but entirely gripping drama.</text>
+      <source>Toronto Sun</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>http://www.torontosun.com/2017/08/03/detroit-review-kathryn-bigelow-explores-horrific-history</link>
+      <author>Liz Braun</author>
+    </item>
+    <item index="10">
+      <text>Relentless in its storytelling, "Detroit" is a film of blistering impact.</text>
+      <source>St. Louis Post-Dispatch</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>http://www.stltoday.com/entertainment/movies/reviews/detroit-is-flawed-but-fearless/article_da12a968-ac31-5918-a265-e0db0c723fd7.html</link>
+      <author>Calvin Wilson</author>
+    </item>
+    <item index="11">
+      <text>The injustice and anger behind it all feels like current reality, even a half-century on, making Detroit urgent viewing regardless of its character-development flaws.</text>
+      <source>Toronto Star</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>https://www.thestar.com/entertainment/movies/2017/08/03/detroit-tells-a-potent-story-despite-thin-characters-review.html</link>
+      <author>Peter Howell</author>
+    </item>
+    <item index="12">
+      <text>The film is imperfect, but for anyone who still harbors delusions about systemic racism and police-community relations, "Detroit" is an important and effective wake-up call.</text>
+      <source>Minneapolis Star Tribune</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>http://www.startribune.com/oscar-winner-kathryn-bigelow-s-detroit-is-a-disquieting-look-at-a-disturbing-time/438348743/</link>
+      <author>Colin Covert</author>
+    </item>
+    <item index="13">
+      <text>Flaws and all, Detroit is still well worth seeing -- shedding a sobering light on an extreme case of criminality under the color of authority.</text>
+      <source>CNN.com</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>http://www.cnn.com/2017/08/03/entertainment/detroit-movie-review/index.html</link>
+      <author>Brian Lowry</author>
+    </item>
+    <item index="14">
+      <text>"Detroit" may be flawed in its bluntness and its inability to provide every character with an interior existence beyond villain and victim. But it remains inescapable in its conclusions ...</text>
+      <source>Boston Globe</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>https://www.bostonglobe.com/arts/movies/2017/08/02/powerful-detroit-brutality-outrage-and-blind-spots/nxUd0nbU0kn9IO5kywuReJ/story.html</link>
+      <author>Ty Burr</author>
+    </item>
+    <item index="15">
+      <text>"Detroit," as a movie, is all over the place, yet oddly that messiness is one of its strengths.</text>
+      <source>Arizona Republic</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>http://www.azcentral.com/story/entertainment/movies/billgoodykoontz/2017/08/03/detroit-review/528688001/</link>
+      <author>Bill Goodykoontz</author>
+    </item>
+    <item index="16">
+      <text>Bigelow has a way of making scripted drama feel like an utterly gripping newsreel.</text>
+      <source>Seattle Times</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>http://www.seattletimes.com/entertainment/movies/detroit-review-gripping-film-depicts-a-real-life-nightmare/?utm_source=RSS&amp;utm_medium=Referral&amp;utm_campaign=RSS_movies</link>
+      <author>Moira MacDonald</author>
+    </item>
+    <item index="17">
+      <text>Detroit is so effective at what it does and how it accomplishes its aims that it becomes almost unwatchable.</text>
+      <source>ReelViews</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>http://www.reelviews.net/reelviews/detroit</link>
+      <author>James Berardinelli</author>
+    </item>
+    <item index="18">
+      <text>This unreconciled and incomplete film does an unusually good job of terrifying and unsettling us, before sending us back out into a world that's more like 1967 than we'd care to admit.</text>
+      <source>Village Voice</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>https://www.villagevoice.com/2017/07/28/kathryn-bigelows-detroit-is-brazen-brutal-and-a-bit-of-a-mess/</link>
+      <author>Bilge Ebiri</author>
+    </item>
+    <item index="19">
+      <text>In some ways, "Detroit" is Bigelow's simplest work to date. Not that its methods are anything but agile and deft.</text>
+      <source>New Yorker</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>http://www.newyorker.com/magazine/2017/08/07/detroit-and-whose-streets</link>
+      <author>Anthony Lane</author>
+    </item>
+  </reviews>
+  <directors>
+    <item index="0">
+      <photo>http://image.tmdb.org/t/p/original/7wiMnFR6WP9SK870AvNQ3LccLi7.jpg</photo>
+      <role/>
+      <name>Kathryn Bigelow</name>
+    </item>
+  </directors>
+  <extras external="True" extension="xml"/>
+  <banners/>
+  <similar>
+    <item index="0">Good Time</item>
+    <item index="1">Wind River</item>
+    <item index="2">Logan Lucky</item>
+    <item index="3">American Made</item>
+    <item index="4">Suburbicon</item>
+    <item index="5">Molly's Game</item>
+    <item index="6">All the Money in the World</item>
+    <item index="7">Free Fire</item>
+    <item index="8">The Lost City of Z</item>
+    <item index="9">Hostiles</item>
+    <item index="10">Mudbound</item>
+    <item index="11">Battle of the Sexes</item>
+    <item index="12">Marshall</item>
+    <item index="13">You Were Never Really Here</item>
+    <item index="14">Last Flag Flying</item>
+    <item index="15">Miss Sloane</item>
+    <item index="16">Patti Cake$</item>
+    <item index="17">A Ghost Story</item>
+    <item index="18">Patriots Day</item>
+    <item index="19">It Comes at Night</item>
+  </similar>
+</Movie>

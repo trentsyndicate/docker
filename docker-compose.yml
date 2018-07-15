@@ -1,0 +1,171 @@
+version: "3.6"
+services:
+
+ GitLab:
+   image: 'gitlab/gitlab-ce:latest'
+   restart: always
+   hostname: 'gitlab.example.com'
+   environment:
+     GITLAB_OMNIBUS_CONFIG: |
+      external_url 'http://gitlab.example.com:10080'
+   ports:
+     - '10080:80'
+     - '10022:22'
+   volumes:
+     - '/srv/gitlab/config:/etc/gitlab'
+     - '/srv/gitlab/logs:/var/log/gitlab'
+     - '/srv/gitlab/data:/var/opt/gitlab'
+
+ homeassistant:
+   container_name: homeassistant
+   restart: always
+   image: homeassistant/home-assistant
+   devices:
+     - /dev/ttyUSB0:/dev/ttyUSB0
+     - /dev/ttyUSB1:/dev/ttyUSB1
+     - /dev/ttyACM0:/dev/ttyACM0
+   volumes:
+     - ${USERDIR}/docker/homeassistant:/config
+     - /etc/localtime:/etc/localtime:ro
+     - ${USERDIR}/docker/shared:/shared
+   ports:
+     - "8123:8123"
+   privileged: true
+   environment:
+     - PUID=${PUID}
+     - PGID=${PGID}
+     - TZ=${TZ}
+
+ portainer:
+   image: portainer/portainer
+   container_name: portainer
+   restart: always
+   command: --templates http://templates/templates.json
+   ports:
+     - "9000:9000"
+   volumes:
+     - /var/run/docker.sock:/var/run/docker.sock
+     - ${USERDIR}/docker/portainer/data:/data
+     - ${USERDIR}/docker/shared:/shared
+   environment:
+     - TZ=${TZ}
+
+ nzbget:
+   image: "linuxserver/nzbget"
+   container_name: "nzbget"
+   volumes:
+     - ${USERDIR}/docker/sabnzbd:/config
+     - ${USERDIR}/Downloads:/downloads
+     - ${USERDIR}/Downloads/incomplete:/incomplete-downloads
+     - ${USERDIR}/docker/shared:/shared
+   ports:
+     - "6789:6789"
+   restart: always
+   environment:
+     - PUID=${PUID}
+     - PGID=${PGID}
+     - TZ=${TZ}
+
+ redis:
+   restart: always
+   image: redis:3.0.7-alpine
+
+ radarr:
+   image: "linuxserver/radarr"
+   container_name: "radarr"
+   volumes:
+     - ${USERDIR}/docker/radarr:/config
+     - ${USERDIR}/Downloads/completed:/downloads
+     - /mnt/share/Movies:/movies
+     - "/etc/localtime:/etc/localtime:ro"
+     - ${USERDIR}/docker/shared:/shared
+   ports:
+     - "7878:7878"
+   restart: always
+   environment:
+     - PUID=${PUID}
+     - PGID=${PGID}
+     - TZ=${TZ}
+
+ mariadb:
+   image: "linuxserver/mariadb"
+   container_name: "mariadb"
+   hostname: mariadb
+   volumes:
+       - ${USERDIR}/docker/mariadb:/config
+   ports:
+     - target: 3306
+       published: 3306
+       protocol: tcp
+       mode: host
+   restart: always
+   environment:
+     - MYSQL_ROOT_PASSWORD=${MYSQL_ROOT_PASSWORD}
+     - PUID=${PUID}
+     - PGID=${PGID}
+     - TZ=${TZ}
+
+ organizr:
+   container_name: organizr
+   restart: always
+   image: lsiocommunity/organizr
+   volumes:
+     - ${USERDIR}/docker/organizr:/config
+     - ${USERDIR}/docker/shared:/shared
+   ports:
+     - "8081:80"
+   environment:
+     - PUID=${PUID}
+     - PGID=${PGID}
+     - TZ=${TZ}
+
+ phpmyadmin:
+   hostname: phpmyadmin
+   container_name: phpmyadmin
+   image: phpmyadmin/phpmyadmin
+   restart: always
+   links:
+     - mariadb:db
+   ports:
+     - 80:80
+   environment:
+     - PMA_HOST=mariadb
+     - MYSQL_ROOT_PASSWORD=${MYSQL_ROOT_PASSWORD}
+
+ plexms:
+   container_name: plexms
+   restart: always
+   network_mode: "host"
+   image: plexinc/pms-docker
+   volumes:
+     - ${USERDIR}/docker/plexms:/config
+     - ${USERDIR}/Downloads/plex_tmp:/transcode
+     - /mnt/share:/media
+     - /mnt/share/Movies:/movies
+     - /mnt/share/TV:/tv
+     - ${USERDIR}/docker/shared:/shared
+   ports:
+     - "32400:32400/tcp"
+     - "3005:3005/tcp"
+     - "8324:8324/tcp"
+     - "32469:32469/tcp"
+     - "1900:1900/udp"
+     - "32410:32410/udp"
+     - "32412:32412/udp"
+     - "32413:32413/udp"
+     - "32414:32414/udp"
+   environment:
+     - TZ=${TZ}
+     - HOSTNAME="Docker Plex"
+     - PLEX_CLAIM="claim-z1bXttpRpUrThpJameQ2"
+     - PLEX_UID=${PUID}
+     - PLEX_GID=${PGID}
+     - ADVERTISE_IP="http://192.168.1.203:32400/"
+
+ watchtower:
+   container_name: watchtower
+   restart: always
+   image: v2tec/watchtower
+   volumes:
+     - /var/run/docker.sock:/var/run/docker.sock
+   command: --schedule "0 0 4 * * *" --cleanup

@@ -1,0 +1,309 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Movie>
+  <art>
+    <item external="True" url="http://image.tmdb.org/t/p/original/sc128MIFIN8Adnggi9ZvmOmKFqt.jpg" sort_order="1" provider="com.plexapp.agents.imdb" media="com.plexapp.agents.imdb_cd52c140f0b97ee91df6e791589f718ec8982de3"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/i2KqVXm5tury4fAGgzDryiIjHw6.jpg" preview="com.plexapp.agents.imdb_b383d93b060c27d87b73196d3c9d3e56ee3d26f1" sort_order="2" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/jP3p4cwZaPkAWBBKyZNECp81fj1.jpg" preview="com.plexapp.agents.imdb_5f79a27b3961909195ae983c7ca8146410726861" sort_order="3" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/wYuT09ILns1R8CGbWO6gprRH027.jpg" preview="com.plexapp.agents.imdb_14502e8613531c09ef4168b58237841dc1bd1e1d" sort_order="4" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/8OXzxgpzHaO8KDZsyqsG8yt5hXp.jpg" preview="com.plexapp.agents.imdb_33866d2627247de46c8f31b6521dc69dda8db8d5" sort_order="5" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/2M78VjjjL0cDTgvj7M7RFawJtFf.jpg" preview="com.plexapp.agents.imdb_9e72709ff617495416b5878017bfb4a897f6fe1c" sort_order="6" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/abrmnBZgxbp47nsSdihafbIXbiK.jpg" preview="com.plexapp.agents.imdb_9886f7861c9da279ea411f28f4f78504c1772fee" sort_order="7" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/vgKqwh8bRPp6Y7Qs3T4mzCIAJrs.jpg" preview="com.plexapp.agents.imdb_8537bcfa02e6b46c86b4ec2b7e20142b3a355116" sort_order="8" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/hW9a7e9WOKNgPWCtAIRBkyGUy4P.jpg" preview="com.plexapp.agents.imdb_ab2e48234027b98d2d66241ac2f4ab9fc5dd56d1" sort_order="9" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/lY8ugMR0w5qHlQKMgjcRwCsk3oP.jpg" preview="com.plexapp.agents.imdb_bf209b6e3ddd9fbefe3b915a5f5375d2cce685c9" sort_order="10" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/wmY8orTD2odmUecSksshKyhfhCN.jpg" preview="com.plexapp.agents.imdb_d162361aae9b28ab6d1e1dae98b19c551b9d580b" sort_order="11" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/1iuV9Mk3CM1PL6t4ZgWAcscqxsD.jpg" preview="com.plexapp.agents.imdb_c5f6180e2512b9f910485ac4851ade5f2f4e0443" sort_order="12" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/JbA5QR1Fe1zhDYVeRRJxv8HLKf.jpg" preview="com.plexapp.agents.imdb_93d873a8940ee79a9501549bdec5b7f9f9880b43" sort_order="13" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/aFmTFszkMS6FUs8XYK3DDf7TBOw.jpg" preview="com.plexapp.agents.imdb_dd71431809af73b68e4deb9fe03f2a2d53e19c2a" sort_order="14" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/svaVFeXL03IYkKPKMjxma5TD406.jpg" preview="com.plexapp.agents.imdb_ef1ae907a18efc4800c5b38a08a0d7bb2fa2efb3" sort_order="15" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/tNdD9woWKc1LJFiRdMONDpSqQGi.jpg" preview="com.plexapp.agents.imdb_cec4d0637e858059ec1dd704c1f745203214e482" sort_order="16" provider="com.plexapp.agents.imdb"/>
+  </art>
+  <banners/>
+  <chapters/>
+  <collections/>
+  <content_rating>R</content_rating>
+  <countries>
+    <item index="0">USA</item>
+  </countries>
+  <directors>
+    <item index="0">
+      <photo>http://image.tmdb.org/t/p/original/zf3MHvbf2uKC4UbsuFHQYLz48g.jpg</photo>
+      <role/>
+      <name>Gavin O'Connor</name>
+    </item>
+  </directors>
+  <duration>5880000</duration>
+  <genres>
+    <item index="0">Action</item>
+    <item index="1">Drama</item>
+    <item index="2">Western</item>
+  </genres>
+  <originally_available_at>2015-12-31</originally_available_at>
+  <posters>
+    <item external="True" url="http://image.tmdb.org/t/p/original/4BffiEm4xkrC7de5KZ51kK3uNYJ.jpg" sort_order="1" provider="com.plexapp.agents.imdb" media="com.plexapp.agents.imdb_c8d501b841bf56687bf05f86b5cdffeea2f969a2"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/nkIy7P21LL6kWgBI4YfGrHAkans.jpg" preview="com.plexapp.agents.imdb_703091d90ec348b505cd9e320e09101634cd1540" sort_order="2" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/a9aHcVN09JNsibpiOhcoSfsumkZ.jpg" preview="com.plexapp.agents.imdb_a61930743bfa0a60e202b001d4788f3331b3fa32" sort_order="3" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/gwiLLzXXN0WzFNZ9gBrCY9OEebL.jpg" preview="com.plexapp.agents.imdb_9e3cb2433d6efbf0592f6045714800c598a520fb" sort_order="4" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/qVF4ECV1rigy563gdpKVSB0K5FB.jpg" preview="com.plexapp.agents.imdb_23695d25df6a38d1d6595a56aed563005b52b0c9" sort_order="5" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/cPaFXZXp2IAJKoUvHH5sO4eKD0B.jpg" preview="com.plexapp.agents.imdb_c2e2ed345e785cd658b7b74d8deccc4709429362" sort_order="6" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/kV7ORs37D6NVWUQphPtQmkllbV7.jpg" preview="com.plexapp.agents.imdb_4286b7f1375273d539de8f454a26b370f99b02b1" sort_order="7" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/xCwB0w01BhxAm9yGOrIrrjGJBw6.jpg" preview="com.plexapp.agents.imdb_96fa3bcd3b0b5e9b783ae81f1bb763338f7efbdc" sort_order="8" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/oTsLZE3LNryTR4kdwyVXT0b7TfT.jpg" preview="com.plexapp.agents.imdb_2a8affcef2410f5fbcb1fb1dc0c932fe57369319" sort_order="9" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/25Q3pgQ569Xx21Oq1KcNnJJ38vU.jpg" preview="com.plexapp.agents.imdb_a4a914a0f10275781b120aa96fbea96b90c6f550" sort_order="10" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/8Lmm6JElSWIPDyAp085Z1jucWys.jpg" preview="com.plexapp.agents.imdb_5b96937868d9dfd0e47fd471ab62a5708485fd39" sort_order="11" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/p17TWlphMdnAVGQO9lkAnj0dPy9.jpg" preview="com.plexapp.agents.imdb_7babf697250c310fce5cd5192c82512cc235ebea" sort_order="12" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/bYcKGfsmBOOk7DNT0WCqc7emaKj.jpg" preview="com.plexapp.agents.imdb_2897046fb43bc087c113ce31692180eca132697a" sort_order="13" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/lEzkD49SZSqv4gkfkv2CqLJ5hx9.jpg" preview="com.plexapp.agents.imdb_49a02371159569638660de1a705e30220437f9d9" sort_order="14" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/yWLl3lBAJDEiJNhzhbJIRCQX39Y.jpg" preview="com.plexapp.agents.imdb_21312a2771552f0123004c75b8f54b4bbf4dae9f" sort_order="15" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/7lCshbzE4EuLAPjplWu0NHVQwbF.jpg" preview="com.plexapp.agents.imdb_b573650a5d9367276223ba795681d768c8f1f8ba" sort_order="16" provider="com.plexapp.agents.imdb"/>
+  </posters>
+  <producers>
+    <item index="0">
+      <photo>http://image.tmdb.org/t/p/original/jJcRWku3e9OHrmRqytn6WcBjhvh.jpg</photo>
+      <role/>
+      <name>Natalie Portman</name>
+    </item>
+    <item index="1">
+      <photo>http://image.tmdb.org/t/p/original/mvTfKWoIBxZ2bBBTySlaXrJQCM2.jpg</photo>
+      <role/>
+      <name>Scott Steindorff</name>
+    </item>
+    <item index="2">
+      <photo/>
+      <role/>
+      <name>Scott LaStaiti</name>
+    </item>
+    <item index="3">
+      <photo/>
+      <role/>
+      <name>Aleen Keshishian</name>
+    </item>
+    <item index="4">
+      <photo/>
+      <role/>
+      <name>Terry Dougas</name>
+    </item>
+    <item index="5">
+      <photo/>
+      <role/>
+      <name>Chris Coen</name>
+    </item>
+    <item index="6">
+      <photo/>
+      <role/>
+      <name>Regency Boies</name>
+    </item>
+  </producers>
+  <rating>4.1</rating>
+  <rating_image>rottentomatoes://image.rating.rotten</rating_image>
+  <audience_rating>3.7</audience_rating>
+  <audience_rating_image>rottentomatoes://image.rating.spilled</audience_rating_image>
+  <reviews>
+    <item index="0">
+      <text>Feels as though everyone involved forced themselves to grit their teeth and get on with it.</text>
+      <source>Time Out</source>
+      <image>rottentomatoes://image.review.rotten</image>
+      <link>http://www.timeout.com/london/film/jane-got-a-gun</link>
+      <author>Tom Huddleston</author>
+    </item>
+    <item index="1">
+      <text>O'Connor's movie is too sentimental and self-serious to add much of note to the mythos, but Portman embodies her character's grief no less movingly than her forebears.</text>
+      <source>Village Voice</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>http://www.villagevoice.com/film/despite-a-tortured-production-process-jane-got-a-gun-is-worth-its-salt-8226982</link>
+      <author>Michael Nordine</author>
+    </item>
+    <item index="2">
+      <text>At times, Jane Got A Gun comes perilously close to staying passive-to becoming A Gun Was Gotten By Jane.</text>
+      <source>AV Club</source>
+      <image>rottentomatoes://image.review.rotten</image>
+      <link>http://www.avclub.com/review/movie-took-forever-come-out-jane-got-gun-feels-awf-231507</link>
+      <author>Jesse Hassenger</author>
+    </item>
+    <item index="3">
+      <text>As stripped-down, revisionist Westerns go, "Jane Got A Gun" may not have reinvented the wagon wheel, but it rolls out as a sturdy, well-crafted genre piece despite its rocky road to the screen.</text>
+      <source>Los Angeles Times</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>http://www.latimes.com/entertainment/movies/la-et-mn-jane-got-gun-review-20160129-story.html</link>
+      <author>Michael Rechtshaffen</author>
+    </item>
+    <item index="4">
+      <text>Whatever feminist angle the film might have once aspired to is lost in its listless shuffle.</text>
+      <source>New York Times</source>
+      <image>rottentomatoes://image.review.rotten</image>
+      <link>http://www.nytimes.com/2016/01/30/movies/natalie-portman-jane-got-a-gun-review.html?partner=rss&amp;emc=rss</link>
+      <author>Glenn Kenny</author>
+    </item>
+    <item index="5">
+      <text>A Western with potential for feminist table-turning and old-fashioned violence, "Jane Got a Gun" is a major letdown. Despite being co-produced by Portman, the movie sells her character short at nearly every turn.</text>
+      <source>Newsday</source>
+      <image>rottentomatoes://image.review.rotten</image>
+      <link>http://www.newsday.com/entertainment/movies/jane-got-a-gun-review-natalie-portman-misfires-1.11408713</link>
+      <author>Rafer Guzman</author>
+    </item>
+    <item index="6">
+      <text>The Weinstein Company may have unloaded this embattled Western without fanfare, but it should still appeal to genre fans.</text>
+      <source>Variety</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>http://variety.com/2016/film/reviews/jane-got-a-gun-film-review-1201692416/</link>
+      <author>Joe Leydon</author>
+    </item>
+    <item index="7">
+      <text>This scandal-plagued project overcame the odds to deliver an earnestly felt actioner. ... Thankfully, [it] isn't another historically revisionist, grim-dark bleak-a-thon like, say, "The Revenant" and "The Hateful Eight."</text>
+      <source>TheWrap</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>https://www.thewrap.com/jane-got-a-gun-review-natalie-portman-joel-edgerton-ewan-mcgregor/</link>
+      <author>Inkoo Kang</author>
+    </item>
+    <item index="8">
+      <text>Jane Got a Gun is a slow fuse of a film that burns to a whimper instead of an explosion.</text>
+      <source>Entertainment Weekly</source>
+      <image>rottentomatoes://image.review.rotten</image>
+      <link>http://www.ew.com/article/2016/01/29/jane-got-a-gun-review</link>
+      <author>Chris Nashawaty</author>
+    </item>
+    <item index="9">
+      <text>The problem with the film is that it never quite finds that final spark of inspiration that might have made it worth seeing, let alone producing in the first place, and it is further hampered by some clunkiness in the storytelling department.</text>
+      <source>RogerEbert.com</source>
+      <image>rottentomatoes://image.review.rotten</image>
+      <link>http://www.rogerebert.com/reviews/jane-got-a-gun-2016</link>
+      <author>Peter Sobczynski</author>
+    </item>
+    <item index="10">
+      <text>It's hard not to watch the somber Jane without thinking that this is one of those cases where the making-of could be better - and definitely more fun - than the final product.</text>
+      <source>Hollywood Reporter</source>
+      <image>rottentomatoes://image.review.rotten</image>
+      <link>http://www.hollywoodreporter.com/review/jane-got-a-gun-film-859290</link>
+      <author>Jordan Mintzer</author>
+    </item>
+    <item index="11">
+      <text>This poor little movie fires blanks.</text>
+      <source>New Yorker</source>
+      <image>rottentomatoes://image.review.rotten</image>
+      <link>http://www.newyorker.com/magazine/2016/02/01/tough-girls</link>
+      <author>Anthony Lane</author>
+    </item>
+  </reviews>
+  <roles>
+    <item index="0">
+      <photo>http://image.tmdb.org/t/p/original/jJcRWku3e9OHrmRqytn6WcBjhvh.jpg</photo>
+      <role>Jane Hammond</role>
+      <name>Natalie Portman</name>
+    </item>
+    <item index="1">
+      <photo>http://image.tmdb.org/t/p/original/i8oL6vQCM1zFeVQEa9zsZfa3i2t.jpg</photo>
+      <role>Dan Frost</role>
+      <name>Joel Edgerton</name>
+    </item>
+    <item index="2">
+      <photo>http://image.tmdb.org/t/p/original/pTyXmuOIcbzkwxstOKBqMoGStFg.jpg</photo>
+      <role>John Bishop</role>
+      <name>Ewan McGregor</name>
+    </item>
+    <item index="3">
+      <photo>http://image.tmdb.org/t/p/original/iTPoDQq2R5zU17hRwLtWkm2gCmK.jpg</photo>
+      <role>Bill Hammond</role>
+      <name>Noah Emmerich</name>
+    </item>
+    <item index="4">
+      <photo>http://image.tmdb.org/t/p/original/531YOKa2usleWCA55t6Db4MZhT3.jpg</photo>
+      <role>Vic Owen</role>
+      <name>Boyd Holbrook</name>
+    </item>
+    <item index="5">
+      <photo>http://image.tmdb.org/t/p/original/yI23sv0KbEz2WhSgzC1aMCi0qeT.jpg</photo>
+      <role>Fitchum</role>
+      <name>Rodrigo Santoro</name>
+    </item>
+    <item index="6">
+      <photo>http://image.tmdb.org/t/p/original/hnIIHAlPyqFMGbJCy0nY5xw7DyX.jpg</photo>
+      <role>Buck</role>
+      <name>Alex Manette</name>
+    </item>
+    <item index="7">
+      <photo>http://image.tmdb.org/t/p/original/ggwdShwfPVZ4pIhKECqpVObPRJe.jpg</photo>
+      <role>O'Dowd</role>
+      <name>Todd Stashwick</name>
+    </item>
+    <item index="8">
+      <photo>http://image.tmdb.org/t/p/original/1toVViS1Bu90vFKEqPO2QqRcFNG.jpg</photo>
+      <role>Cunny Charlie</role>
+      <name>James Burnett</name>
+    </item>
+    <item index="9">
+      <photo>http://image.tmdb.org/t/p/original/gvBfAw4Sluc4ZmA2aJJGjbFzvPd.jpg</photo>
+      <role>Slow Jeremiah</role>
+      <name>Sam Quinn</name>
+    </item>
+    <item index="10">
+      <photo/>
+      <role>Kid</role>
+      <name>River Shields</name>
+    </item>
+    <item index="11">
+      <photo>http://image.tmdb.org/t/p/original/lWTx0ARY5dCrlOSHWguA6gxWOV8.jpg</photo>
+      <role>Theodore</role>
+      <name>Chad Brummett</name>
+    </item>
+    <item index="12">
+      <photo/>
+      <role>Marshal</role>
+      <name>Boots Southerland</name>
+    </item>
+    <item index="13">
+      <photo>http://image.tmdb.org/t/p/original/y5MyHOKpqtSa2YLXjkWE1W4LOb4.jpg</photo>
+      <role>Fur Trader</role>
+      <name>Nash Edgerton</name>
+    </item>
+    <item index="14">
+      <photo/>
+      <role>Fiddler</role>
+      <name>Robb Janov</name>
+    </item>
+  </roles>
+  <similar>
+    <item index="0">Forsaken</item>
+    <item index="1">The Hollow Point</item>
+    <item index="2">Diablo</item>
+    <item index="3">The Salvation</item>
+    <item index="4">The Homesman</item>
+    <item index="5">Midnight Special</item>
+    <item index="6">Gridlocked</item>
+    <item index="7">American Hero</item>
+    <item index="8">Blood Father</item>
+    <item index="9">Cold in July</item>
+    <item index="10">The Whistleblower</item>
+    <item index="11">Mojave</item>
+    <item index="12">Lethal Hostage</item>
+    <item index="13">Hellgate</item>
+    <item index="14">Triple 9</item>
+    <item index="15">Criminal</item>
+    <item index="16">Marauders</item>
+    <item index="17">The Gunman</item>
+    <item index="18">Standoff</item>
+    <item index="19">How to Plan an Orgy in a Small Town</item>
+  </similar>
+  <studio>Handsomecharlie Films</studio>
+  <summary>After her outlaw husband returns home shot with eight bullets and barely alive, Jane reluctantly reaches out to an ex-lover who she hasn't seen in over ten years to help her defend her farm when the time comes that her husband's gang eventually tracks him down to finish the job.</summary>
+  <tags/>
+  <themes/>
+  <title>Jane Got a Gun</title>
+  <writers>
+    <item index="0">
+      <photo>http://image.tmdb.org/t/p/original/cZEtdfRrGTwoR13p2uKcn8hTixy.jpg</photo>
+      <role/>
+      <name>Anthony Tambakis</name>
+    </item>
+    <item index="1">
+      <photo/>
+      <role/>
+      <name>Brian Duffield</name>
+    </item>
+    <item index="2">
+      <photo>http://image.tmdb.org/t/p/original/i8oL6vQCM1zFeVQEa9zsZfa3i2t.jpg</photo>
+      <role/>
+      <name>Joel Edgerton</name>
+    </item>
+  </writers>
+  <year>2015</year>
+</Movie>

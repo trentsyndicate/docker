@@ -1,0 +1,343 @@
+<?xml version='1.0' encoding='utf-8'?>
+<MediaContainer size="17" identifier="com.plexapp.agents.imdb" mediaTagPrefix="/system/bundle/media/flags/" prefsKey="/:/plugins/com.plexapp.agents.imdb/prefs">
+  <Video url="iva://api.internetvideoarchive.com/2.0/DataService/VideoAssets(305547)?lang=en&amp;bitrates=80,212,450,750,1500,2500,5000,8000&amp;duration=100&amp;adaptive=1&amp;dts=0" key="/system/services/url/lookup?url=iva%3A%2F%2Fapi.internetvideoarchive.com%2F2.0%2FDataService%2FVideoAssets%28305547%29%3Flang%3Den%26bitrates%3D80%2C212%2C450%2C750%2C1500%2C2500%2C5000%2C8000%26duration%3D100%26adaptive%3D1%26dts%3D0" type="clip" relationType="trailer" year="2017" title="The Jungle Book (Clean Trailer)" originallyAvailableAt="2017-12-18" thumb="https://iva-images.plex.tv/content/hdphotos/11604/011604/011604_1280x720_305547_129.jpg" ratingKey="iva://api.internetvideoarchive.com/2.0/DataService/VideoAssets(305547)?lang=en&amp;bitrates=80,212,450,750,1500,2500,5000,8000&amp;duration=100&amp;adaptive=1&amp;dts=0">
+    <Media container="mp4" height="1080" width="1920" audioCodec="aac" duration="100000" videoCodec="h264" bitrate="2500">
+      <Part duration="100000" key="/services/iva/assets/305547/video.mp4?bitrate=2500" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="1080" width="1920" codec="h264" bitrate="2500" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+    <Media container="mp4" height="720" width="1280" audioCodec="aac" duration="100000" videoCodec="h264" bitrate="1500">
+      <Part duration="100000" key="/services/iva/assets/305547/video.mp4?bitrate=1500" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="720" width="1280" codec="h264" bitrate="1500" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+    <Media container="mp4" height="480" width="640" audioCodec="aac" duration="100000" videoCodec="h264" bitrate="450">
+      <Part duration="100000" key="/services/iva/assets/305547/video.mp4?bitrate=450" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="480" width="640" codec="h264" bitrate="450" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+  </Video>
+  <Video url="iva://api.internetvideoarchive.com/2.0/DataService/VideoAssets(773305)?lang=en&amp;bitrates=80,212,450,750,1500,2500,5000,8000&amp;duration=142&amp;adaptive=1&amp;dts=0" key="/system/services/url/lookup?url=iva%3A%2F%2Fapi.internetvideoarchive.com%2F2.0%2FDataService%2FVideoAssets%28773305%29%3Flang%3Den%26bitrates%3D80%2C212%2C450%2C750%2C1500%2C2500%2C5000%2C8000%26duration%3D142%26adaptive%3D1%26dts%3D0" type="clip" relationType="behindTheScenes" year="2016" title="The Jungle Book: Tech (Featurette)" originallyAvailableAt="2016-04-29" thumb="https://iva-images.plex.tv/content/hdphotos/10275/010275/010275_1280x720_773305_031.jpg" ratingKey="iva://api.internetvideoarchive.com/2.0/DataService/VideoAssets(773305)?lang=en&amp;bitrates=80,212,450,750,1500,2500,5000,8000&amp;duration=142&amp;adaptive=1&amp;dts=0">
+    <Media container="mp4" height="1080" width="1920" audioCodec="aac" duration="142000" videoCodec="h264" bitrate="2500">
+      <Part duration="142000" key="/services/iva/assets/773305/video.mp4?bitrate=2500" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="1080" width="1920" codec="h264" bitrate="2500" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+    <Media container="mp4" height="720" width="1280" audioCodec="aac" duration="142000" videoCodec="h264" bitrate="1500">
+      <Part duration="142000" key="/services/iva/assets/773305/video.mp4?bitrate=1500" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="720" width="1280" codec="h264" bitrate="1500" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+    <Media container="mp4" height="480" width="640" audioCodec="aac" duration="142000" videoCodec="h264" bitrate="450">
+      <Part duration="142000" key="/services/iva/assets/773305/video.mp4?bitrate=450" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="480" width="640" codec="h264" bitrate="450" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+  </Video>
+  <Video url="iva://api.internetvideoarchive.com/2.0/DataService/VideoAssets(871116)?lang=en&amp;bitrates=80,212,450,750,1500,2500,5000,8000&amp;duration=113&amp;adaptive=1&amp;dts=0" key="/system/services/url/lookup?url=iva%3A%2F%2Fapi.internetvideoarchive.com%2F2.0%2FDataService%2FVideoAssets%28871116%29%3Flang%3Den%26bitrates%3D80%2C212%2C450%2C750%2C1500%2C2500%2C5000%2C8000%26duration%3D113%26adaptive%3D1%26dts%3D0" type="clip" relationType="behindTheScenes" year="2016" title="The Jungle Book: Voices Of The Jungle (Featurette)" originallyAvailableAt="2016-04-06" thumb="https://iva-images.plex.tv/content/hdphotos/10196/010196/010196_1280x720_871116_097.jpg" ratingKey="iva://api.internetvideoarchive.com/2.0/DataService/VideoAssets(871116)?lang=en&amp;bitrates=80,212,450,750,1500,2500,5000,8000&amp;duration=113&amp;adaptive=1&amp;dts=0">
+    <Media container="mp4" height="1080" width="1920" audioCodec="aac" duration="113000" videoCodec="h264" bitrate="2500">
+      <Part duration="113000" key="/services/iva/assets/871116/video.mp4?bitrate=2500" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="1080" width="1920" codec="h264" bitrate="2500" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+    <Media container="mp4" height="720" width="1280" audioCodec="aac" duration="113000" videoCodec="h264" bitrate="1500">
+      <Part duration="113000" key="/services/iva/assets/871116/video.mp4?bitrate=1500" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="720" width="1280" codec="h264" bitrate="1500" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+    <Media container="mp4" height="480" width="640" audioCodec="aac" duration="113000" videoCodec="h264" bitrate="450">
+      <Part duration="113000" key="/services/iva/assets/871116/video.mp4?bitrate=450" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="480" width="640" codec="h264" bitrate="450" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+  </Video>
+  <Video url="iva://api.internetvideoarchive.com/2.0/DataService/VideoAssets(275627)?lang=en&amp;bitrates=80,212,450,750,1500,2500,5000,8000&amp;duration=213&amp;adaptive=1&amp;dts=0" key="/system/services/url/lookup?url=iva%3A%2F%2Fapi.internetvideoarchive.com%2F2.0%2FDataService%2FVideoAssets%28275627%29%3Flang%3Den%26bitrates%3D80%2C212%2C450%2C750%2C1500%2C2500%2C5000%2C8000%26duration%3D213%26adaptive%3D1%26dts%3D0" type="clip" relationType="behindTheScenes" year="2016" title="The Jungle Book: Imax Featurette" originallyAvailableAt="2016-04-05" thumb="https://iva-images.plex.tv/content/hdphotos/10189/010189/010189_1280x720_275627_019.jpg" ratingKey="iva://api.internetvideoarchive.com/2.0/DataService/VideoAssets(275627)?lang=en&amp;bitrates=80,212,450,750,1500,2500,5000,8000&amp;duration=213&amp;adaptive=1&amp;dts=0">
+    <Media container="mp4" height="1080" width="1920" audioCodec="aac" duration="213000" videoCodec="h264" bitrate="2500">
+      <Part duration="213000" key="/services/iva/assets/275627/video.mp4?bitrate=2500" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="1080" width="1920" codec="h264" bitrate="2500" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+    <Media container="mp4" height="720" width="1280" audioCodec="aac" duration="213000" videoCodec="h264" bitrate="1500">
+      <Part duration="213000" key="/services/iva/assets/275627/video.mp4?bitrate=1500" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="720" width="1280" codec="h264" bitrate="1500" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+    <Media container="mp4" height="480" width="640" audioCodec="aac" duration="213000" videoCodec="h264" bitrate="450">
+      <Part duration="213000" key="/services/iva/assets/275627/video.mp4?bitrate=450" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="480" width="640" codec="h264" bitrate="450" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+  </Video>
+  <Video url="iva://api.internetvideoarchive.com/2.0/DataService/VideoAssets(784993)?lang=en&amp;bitrates=80,212,450,750,1500,2500,5000,8000&amp;duration=16&amp;adaptive=1&amp;dts=0" key="/system/services/url/lookup?url=iva%3A%2F%2Fapi.internetvideoarchive.com%2F2.0%2FDataService%2FVideoAssets%28784993%29%3Flang%3Den%26bitrates%3D80%2C212%2C450%2C750%2C1500%2C2500%2C5000%2C8000%26duration%3D16%26adaptive%3D1%26dts%3D0" type="clip" relationType="behindTheScenes" year="2016" title="The Jungle Book: Brigham Taylor On The Tone Of The Film" originallyAvailableAt="2016-03-29" thumb="https://iva-images.plex.tv/content/hdphotos/10166/010166/010166_1280x720_784993_008.jpg" ratingKey="iva://api.internetvideoarchive.com/2.0/DataService/VideoAssets(784993)?lang=en&amp;bitrates=80,212,450,750,1500,2500,5000,8000&amp;duration=16&amp;adaptive=1&amp;dts=0">
+    <Media container="mp4" height="1080" width="1920" audioCodec="aac" duration="16000" videoCodec="h264" bitrate="2500">
+      <Part duration="16000" key="/services/iva/assets/784993/video.mp4?bitrate=2500" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="1080" width="1920" codec="h264" bitrate="2500" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+    <Media container="mp4" height="720" width="1280" audioCodec="aac" duration="16000" videoCodec="h264" bitrate="1500">
+      <Part duration="16000" key="/services/iva/assets/784993/video.mp4?bitrate=1500" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="720" width="1280" codec="h264" bitrate="1500" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+    <Media container="mp4" height="480" width="640" audioCodec="aac" duration="16000" videoCodec="h264" bitrate="450">
+      <Part duration="16000" key="/services/iva/assets/784993/video.mp4?bitrate=450" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="480" width="640" codec="h264" bitrate="450" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+  </Video>
+  <Video url="iva://api.internetvideoarchive.com/2.0/DataService/VideoAssets(688447)?lang=en&amp;bitrates=80,212,450,750,1500,2500,5000,8000&amp;duration=33&amp;adaptive=1&amp;dts=0" key="/system/services/url/lookup?url=iva%3A%2F%2Fapi.internetvideoarchive.com%2F2.0%2FDataService%2FVideoAssets%28688447%29%3Flang%3Den%26bitrates%3D80%2C212%2C450%2C750%2C1500%2C2500%2C5000%2C8000%26duration%3D33%26adaptive%3D1%26dts%3D0" type="clip" relationType="behindTheScenes" year="2016" title="The Jungle Book: John Debney On What Attracted Him To The Project" originallyAvailableAt="2016-03-29" thumb="https://iva-images.plex.tv/content/hdphotos/10166/010166/010166_1280x720_688447_008.jpg" ratingKey="iva://api.internetvideoarchive.com/2.0/DataService/VideoAssets(688447)?lang=en&amp;bitrates=80,212,450,750,1500,2500,5000,8000&amp;duration=33&amp;adaptive=1&amp;dts=0">
+    <Media container="mp4" height="1080" width="1920" audioCodec="aac" duration="33000" videoCodec="h264" bitrate="2500">
+      <Part duration="33000" key="/services/iva/assets/688447/video.mp4?bitrate=2500" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="1080" width="1920" codec="h264" bitrate="2500" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+    <Media container="mp4" height="720" width="1280" audioCodec="aac" duration="33000" videoCodec="h264" bitrate="1500">
+      <Part duration="33000" key="/services/iva/assets/688447/video.mp4?bitrate=1500" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="720" width="1280" codec="h264" bitrate="1500" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+    <Media container="mp4" height="480" width="640" audioCodec="aac" duration="33000" videoCodec="h264" bitrate="450">
+      <Part duration="33000" key="/services/iva/assets/688447/video.mp4?bitrate=450" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="480" width="640" codec="h264" bitrate="450" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+  </Video>
+  <Video url="iva://api.internetvideoarchive.com/2.0/DataService/VideoAssets(149390)?lang=en&amp;bitrates=80,212,450,750,1500,2500,5000,8000&amp;duration=42&amp;adaptive=1&amp;dts=0" key="/system/services/url/lookup?url=iva%3A%2F%2Fapi.internetvideoarchive.com%2F2.0%2FDataService%2FVideoAssets%28149390%29%3Flang%3Den%26bitrates%3D80%2C212%2C450%2C750%2C1500%2C2500%2C5000%2C8000%26duration%3D42%26adaptive%3D1%26dts%3D0" type="clip" relationType="behindTheScenes" year="2016" title="The Jungle Book: Neel Sethi On The Storyline" originallyAvailableAt="2016-03-29" thumb="https://iva-images.plex.tv/content/hdphotos/10166/010166/010166_1280x720_149390_010.jpg" ratingKey="iva://api.internetvideoarchive.com/2.0/DataService/VideoAssets(149390)?lang=en&amp;bitrates=80,212,450,750,1500,2500,5000,8000&amp;duration=42&amp;adaptive=1&amp;dts=0">
+    <Media container="mp4" height="1080" width="1920" audioCodec="aac" duration="42000" videoCodec="h264" bitrate="2500">
+      <Part duration="42000" key="/services/iva/assets/149390/video.mp4?bitrate=2500" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="1080" width="1920" codec="h264" bitrate="2500" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+    <Media container="mp4" height="720" width="1280" audioCodec="aac" duration="42000" videoCodec="h264" bitrate="1500">
+      <Part duration="42000" key="/services/iva/assets/149390/video.mp4?bitrate=1500" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="720" width="1280" codec="h264" bitrate="1500" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+    <Media container="mp4" height="480" width="640" audioCodec="aac" duration="42000" videoCodec="h264" bitrate="450">
+      <Part duration="42000" key="/services/iva/assets/149390/video.mp4?bitrate=450" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="480" width="640" codec="h264" bitrate="450" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+  </Video>
+  <Video url="iva://api.internetvideoarchive.com/2.0/DataService/VideoAssets(936211)?lang=en&amp;bitrates=80,212,450,750,1500,2500,5000,8000&amp;duration=37&amp;adaptive=1&amp;dts=0" key="/system/services/url/lookup?url=iva%3A%2F%2Fapi.internetvideoarchive.com%2F2.0%2FDataService%2FVideoAssets%28936211%29%3Flang%3Den%26bitrates%3D80%2C212%2C450%2C750%2C1500%2C2500%2C5000%2C8000%26duration%3D37%26adaptive%3D1%26dts%3D0" type="clip" relationType="behindTheScenes" year="2016" title="The Jungle Book: Robert Legato On What Attracted Him To The Project" originallyAvailableAt="2016-03-29" thumb="https://iva-images.plex.tv/content/hdphotos/10166/010166/010166_1280x720_936211_006.jpg" ratingKey="iva://api.internetvideoarchive.com/2.0/DataService/VideoAssets(936211)?lang=en&amp;bitrates=80,212,450,750,1500,2500,5000,8000&amp;duration=37&amp;adaptive=1&amp;dts=0">
+    <Media container="mp4" height="1080" width="1920" audioCodec="aac" duration="37000" videoCodec="h264" bitrate="2500">
+      <Part duration="37000" key="/services/iva/assets/936211/video.mp4?bitrate=2500" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="1080" width="1920" codec="h264" bitrate="2500" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+    <Media container="mp4" height="720" width="1280" audioCodec="aac" duration="37000" videoCodec="h264" bitrate="1500">
+      <Part duration="37000" key="/services/iva/assets/936211/video.mp4?bitrate=1500" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="720" width="1280" codec="h264" bitrate="1500" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+    <Media container="mp4" height="480" width="640" audioCodec="aac" duration="37000" videoCodec="h264" bitrate="450">
+      <Part duration="37000" key="/services/iva/assets/936211/video.mp4?bitrate=450" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="480" width="640" codec="h264" bitrate="450" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+  </Video>
+  <Video url="iva://api.internetvideoarchive.com/2.0/DataService/VideoAssets(204885)?lang=en&amp;bitrates=80,212,450,750,1500,2500,5000,8000&amp;duration=76&amp;adaptive=1&amp;dts=0" key="/system/services/url/lookup?url=iva%3A%2F%2Fapi.internetvideoarchive.com%2F2.0%2FDataService%2FVideoAssets%28204885%29%3Flang%3Den%26bitrates%3D80%2C212%2C450%2C750%2C1500%2C2500%2C5000%2C8000%26duration%3D76%26adaptive%3D1%26dts%3D0" type="clip" relationType="behindTheScenes" year="2016" title="The Jungle Book: Sir Ben Kingsley On His Exposure To The 1967 Film" originallyAvailableAt="2016-03-29" thumb="https://iva-images.plex.tv/content/hdphotos/10166/010166/010166_1259x708_204885_061.jpg" ratingKey="iva://api.internetvideoarchive.com/2.0/DataService/VideoAssets(204885)?lang=en&amp;bitrates=80,212,450,750,1500,2500,5000,8000&amp;duration=76&amp;adaptive=1&amp;dts=0">
+    <Media container="mp4" height="1080" width="1920" audioCodec="aac" duration="76000" videoCodec="h264" bitrate="2500">
+      <Part duration="76000" key="/services/iva/assets/204885/video.mp4?bitrate=2500" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="1080" width="1920" codec="h264" bitrate="2500" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+    <Media container="mp4" height="720" width="1280" audioCodec="aac" duration="76000" videoCodec="h264" bitrate="1500">
+      <Part duration="76000" key="/services/iva/assets/204885/video.mp4?bitrate=1500" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="720" width="1280" codec="h264" bitrate="1500" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+    <Media container="mp4" height="480" width="640" audioCodec="aac" duration="76000" videoCodec="h264" bitrate="450">
+      <Part duration="76000" key="/services/iva/assets/204885/video.mp4?bitrate=450" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="480" width="640" codec="h264" bitrate="450" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+  </Video>
+  <Video url="iva://api.internetvideoarchive.com/2.0/DataService/VideoAssets(524973)?lang=en&amp;bitrates=80,212,450,750,1500,2500,5000,8000&amp;duration=50&amp;adaptive=1&amp;dts=0" key="/system/services/url/lookup?url=iva%3A%2F%2Fapi.internetvideoarchive.com%2F2.0%2FDataService%2FVideoAssets%28524973%29%3Flang%3Den%26bitrates%3D80%2C212%2C450%2C750%2C1500%2C2500%2C5000%2C8000%26duration%3D50%26adaptive%3D1%26dts%3D0" type="clip" relationType="behindTheScenes" year="2016" title="The Jungle Book: Lupita Nyong'o On What Attracted Her To The Project" originallyAvailableAt="2016-03-29" thumb="https://iva-images.plex.tv/content/hdphotos/10166/010166/010166_1280x720_524973_009.jpg" ratingKey="iva://api.internetvideoarchive.com/2.0/DataService/VideoAssets(524973)?lang=en&amp;bitrates=80,212,450,750,1500,2500,5000,8000&amp;duration=50&amp;adaptive=1&amp;dts=0">
+    <Media container="mp4" height="1080" width="1920" audioCodec="aac" duration="50000" videoCodec="h264" bitrate="2500">
+      <Part duration="50000" key="/services/iva/assets/524973/video.mp4?bitrate=2500" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="1080" width="1920" codec="h264" bitrate="2500" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+    <Media container="mp4" height="720" width="1280" audioCodec="aac" duration="50000" videoCodec="h264" bitrate="1500">
+      <Part duration="50000" key="/services/iva/assets/524973/video.mp4?bitrate=1500" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="720" width="1280" codec="h264" bitrate="1500" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+    <Media container="mp4" height="480" width="640" audioCodec="aac" duration="50000" videoCodec="h264" bitrate="450">
+      <Part duration="50000" key="/services/iva/assets/524973/video.mp4?bitrate=450" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="480" width="640" codec="h264" bitrate="450" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+  </Video>
+  <Video url="iva://api.internetvideoarchive.com/2.0/DataService/VideoAssets(539007)?lang=en&amp;bitrates=80,212,450,750,1500,2500,5000,8000&amp;duration=78&amp;adaptive=1&amp;dts=0" key="/system/services/url/lookup?url=iva%3A%2F%2Fapi.internetvideoarchive.com%2F2.0%2FDataService%2FVideoAssets%28539007%29%3Flang%3Den%26bitrates%3D80%2C212%2C450%2C750%2C1500%2C2500%2C5000%2C8000%26duration%3D78%26adaptive%3D1%26dts%3D0" type="clip" relationType="behindTheScenes" year="2016" title="The Jungle Book: Jon Favreau On His Exposure To The 1967 Film" originallyAvailableAt="2016-03-29" thumb="https://iva-images.plex.tv/content/hdphotos/10166/010166/010166_1280x720_539007_063.jpg" ratingKey="iva://api.internetvideoarchive.com/2.0/DataService/VideoAssets(539007)?lang=en&amp;bitrates=80,212,450,750,1500,2500,5000,8000&amp;duration=78&amp;adaptive=1&amp;dts=0">
+    <Media container="mp4" height="1080" width="1920" audioCodec="aac" duration="78000" videoCodec="h264" bitrate="2500">
+      <Part duration="78000" key="/services/iva/assets/539007/video.mp4?bitrate=2500" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="1080" width="1920" codec="h264" bitrate="2500" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+    <Media container="mp4" height="720" width="1280" audioCodec="aac" duration="78000" videoCodec="h264" bitrate="1500">
+      <Part duration="78000" key="/services/iva/assets/539007/video.mp4?bitrate=1500" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="720" width="1280" codec="h264" bitrate="1500" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+    <Media container="mp4" height="480" width="640" audioCodec="aac" duration="78000" videoCodec="h264" bitrate="450">
+      <Part duration="78000" key="/services/iva/assets/539007/video.mp4?bitrate=450" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="480" width="640" codec="h264" bitrate="450" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+  </Video>
+  <Video url="iva://api.internetvideoarchive.com/2.0/DataService/VideoAssets(275625)?lang=en&amp;bitrates=80,212,450,750,1500,2500,5000,8000&amp;duration=87&amp;adaptive=1&amp;dts=0" key="/system/services/url/lookup?url=iva%3A%2F%2Fapi.internetvideoarchive.com%2F2.0%2FDataService%2FVideoAssets%28275625%29%3Flang%3Den%26bitrates%3D80%2C212%2C450%2C750%2C1500%2C2500%2C5000%2C8000%26duration%3D87%26adaptive%3D1%26dts%3D0" type="clip" relationType="behindTheScenes" year="2016" title="The Jungle Book: Giancarlo Esposito On His Exposure To The 1967 Film" originallyAvailableAt="2016-03-29" thumb="https://iva-images.plex.tv/content/hdphotos/10166/010166/010166_1280x720_275625_006.jpg" ratingKey="iva://api.internetvideoarchive.com/2.0/DataService/VideoAssets(275625)?lang=en&amp;bitrates=80,212,450,750,1500,2500,5000,8000&amp;duration=87&amp;adaptive=1&amp;dts=0">
+    <Media container="mp4" height="1080" width="1920" audioCodec="aac" duration="87000" videoCodec="h264" bitrate="2500">
+      <Part duration="87000" key="/services/iva/assets/275625/video.mp4?bitrate=2500" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="1080" width="1920" codec="h264" bitrate="2500" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+    <Media container="mp4" height="720" width="1280" audioCodec="aac" duration="87000" videoCodec="h264" bitrate="1500">
+      <Part duration="87000" key="/services/iva/assets/275625/video.mp4?bitrate=1500" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="720" width="1280" codec="h264" bitrate="1500" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+    <Media container="mp4" height="480" width="640" audioCodec="aac" duration="87000" videoCodec="h264" bitrate="450">
+      <Part duration="87000" key="/services/iva/assets/275625/video.mp4?bitrate=450" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="480" width="640" codec="h264" bitrate="450" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+  </Video>
+  <Video url="iva://api.internetvideoarchive.com/2.0/DataService/VideoAssets(769465)?lang=en&amp;bitrates=80,212,450,750,1500,2500,5000,8000&amp;duration=33&amp;adaptive=1&amp;dts=0" key="/system/services/url/lookup?url=iva%3A%2F%2Fapi.internetvideoarchive.com%2F2.0%2FDataService%2FVideoAssets%28769465%29%3Flang%3Den%26bitrates%3D80%2C212%2C450%2C750%2C1500%2C2500%2C5000%2C8000%26duration%3D33%26adaptive%3D1%26dts%3D0" type="clip" relationType="behindTheScenes" year="2016" title="The Jungle Book: Idris Elba On What Attracted Him To The Project" originallyAvailableAt="2016-03-29" thumb="https://iva-images.plex.tv/content/hdphotos/10166/010166/010166_1280x720_769465_027.jpg" ratingKey="iva://api.internetvideoarchive.com/2.0/DataService/VideoAssets(769465)?lang=en&amp;bitrates=80,212,450,750,1500,2500,5000,8000&amp;duration=33&amp;adaptive=1&amp;dts=0">
+    <Media container="mp4" height="1080" width="1920" audioCodec="aac" duration="33000" videoCodec="h264" bitrate="2500">
+      <Part duration="33000" key="/services/iva/assets/769465/video.mp4?bitrate=2500" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="1080" width="1920" codec="h264" bitrate="2500" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+    <Media container="mp4" height="720" width="1280" audioCodec="aac" duration="33000" videoCodec="h264" bitrate="1500">
+      <Part duration="33000" key="/services/iva/assets/769465/video.mp4?bitrate=1500" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="720" width="1280" codec="h264" bitrate="1500" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+    <Media container="mp4" height="480" width="640" audioCodec="aac" duration="33000" videoCodec="h264" bitrate="450">
+      <Part duration="33000" key="/services/iva/assets/769465/video.mp4?bitrate=450" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="480" width="640" codec="h264" bitrate="450" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+  </Video>
+  <Video url="iva://api.internetvideoarchive.com/2.0/DataService/VideoAssets(985180)?lang=en&amp;bitrates=80,212,450,750,1500,2500,5000,8000&amp;duration=27&amp;adaptive=1&amp;dts=0" key="/system/services/url/lookup?url=iva%3A%2F%2Fapi.internetvideoarchive.com%2F2.0%2FDataService%2FVideoAssets%28985180%29%3Flang%3Den%26bitrates%3D80%2C212%2C450%2C750%2C1500%2C2500%2C5000%2C8000%26duration%3D27%26adaptive%3D1%26dts%3D0" type="clip" relationType="behindTheScenes" year="2016" title="The Jungle Book: Scarlett Johansson On Her Exposure To The 1967 Film" originallyAvailableAt="2016-03-29" thumb="https://iva-images.plex.tv/content/hdphotos/10166/010166/010166_1280x720_985180_008.jpg" ratingKey="iva://api.internetvideoarchive.com/2.0/DataService/VideoAssets(985180)?lang=en&amp;bitrates=80,212,450,750,1500,2500,5000,8000&amp;duration=27&amp;adaptive=1&amp;dts=0">
+    <Media container="mp4" height="1080" width="1920" audioCodec="aac" duration="27000" videoCodec="h264" bitrate="2500">
+      <Part duration="27000" key="/services/iva/assets/985180/video.mp4?bitrate=2500" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="1080" width="1920" codec="h264" bitrate="2500" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+    <Media container="mp4" height="720" width="1280" audioCodec="aac" duration="27000" videoCodec="h264" bitrate="1500">
+      <Part duration="27000" key="/services/iva/assets/985180/video.mp4?bitrate=1500" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="720" width="1280" codec="h264" bitrate="1500" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+    <Media container="mp4" height="480" width="640" audioCodec="aac" duration="27000" videoCodec="h264" bitrate="450">
+      <Part duration="27000" key="/services/iva/assets/985180/video.mp4?bitrate=450" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="480" width="640" codec="h264" bitrate="450" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+  </Video>
+  <Video url="iva://api.internetvideoarchive.com/2.0/DataService/VideoAssets(411354)?lang=en&amp;bitrates=80,212,450,750,1500,2500,5000,8000&amp;duration=29&amp;adaptive=1&amp;dts=0" key="/system/services/url/lookup?url=iva%3A%2F%2Fapi.internetvideoarchive.com%2F2.0%2FDataService%2FVideoAssets%28411354%29%3Flang%3Den%26bitrates%3D80%2C212%2C450%2C750%2C1500%2C2500%2C5000%2C8000%26duration%3D29%26adaptive%3D1%26dts%3D0" type="clip" relationType="behindTheScenes" year="2016" title="The Jungle Book: Christopher Walken On What Attracted Him To The Project" originallyAvailableAt="2016-03-29" thumb="https://iva-images.plex.tv/content/hdphotos/10166/010166/010166_1280x720_411354_023.jpg" ratingKey="iva://api.internetvideoarchive.com/2.0/DataService/VideoAssets(411354)?lang=en&amp;bitrates=80,212,450,750,1500,2500,5000,8000&amp;duration=29&amp;adaptive=1&amp;dts=0">
+    <Media container="mp4" height="1080" width="1920" audioCodec="aac" duration="29000" videoCodec="h264" bitrate="2500">
+      <Part duration="29000" key="/services/iva/assets/411354/video.mp4?bitrate=2500" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="1080" width="1920" codec="h264" bitrate="2500" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+    <Media container="mp4" height="720" width="1280" audioCodec="aac" duration="29000" videoCodec="h264" bitrate="1500">
+      <Part duration="29000" key="/services/iva/assets/411354/video.mp4?bitrate=1500" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="720" width="1280" codec="h264" bitrate="1500" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+    <Media container="mp4" height="480" width="640" audioCodec="aac" duration="29000" videoCodec="h264" bitrate="450">
+      <Part duration="29000" key="/services/iva/assets/411354/video.mp4?bitrate=450" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="480" width="640" codec="h264" bitrate="450" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+  </Video>
+  <Video url="iva://api.internetvideoarchive.com/2.0/DataService/VideoAssets(237387)?lang=en&amp;bitrates=80,212,450,750,1500,2500,5000,8000&amp;duration=38&amp;adaptive=1&amp;dts=0" key="/system/services/url/lookup?url=iva%3A%2F%2Fapi.internetvideoarchive.com%2F2.0%2FDataService%2FVideoAssets%28237387%29%3Flang%3Den%26bitrates%3D80%2C212%2C450%2C750%2C1500%2C2500%2C5000%2C8000%26duration%3D38%26adaptive%3D1%26dts%3D0" type="clip" relationType="behindTheScenes" year="2016" title="The Jungle Book: Bill Murray On Being a Fan of the Original Book" originallyAvailableAt="2016-03-29" thumb="https://iva-images.plex.tv/content/hdphotos/10166/010166/010166_1280x720_237387_004.jpg" ratingKey="iva://api.internetvideoarchive.com/2.0/DataService/VideoAssets(237387)?lang=en&amp;bitrates=80,212,450,750,1500,2500,5000,8000&amp;duration=38&amp;adaptive=1&amp;dts=0">
+    <Media container="mp4" height="1080" width="1920" audioCodec="aac" duration="38000" videoCodec="h264" bitrate="2500">
+      <Part duration="38000" key="/services/iva/assets/237387/video.mp4?bitrate=2500" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="1080" width="1920" codec="h264" bitrate="2500" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+    <Media container="mp4" height="720" width="1280" audioCodec="aac" duration="38000" videoCodec="h264" bitrate="1500">
+      <Part duration="38000" key="/services/iva/assets/237387/video.mp4?bitrate=1500" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="720" width="1280" codec="h264" bitrate="1500" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+    <Media container="mp4" height="480" width="640" audioCodec="aac" duration="38000" videoCodec="h264" bitrate="450">
+      <Part duration="38000" key="/services/iva/assets/237387/video.mp4?bitrate=450" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="480" width="640" codec="h264" bitrate="450" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+  </Video>
+  <Video url="iva://api.internetvideoarchive.com/2.0/DataService/VideoAssets(328411)?lang=en&amp;bitrates=80,212,450,750,1500,2500,5000,8000&amp;duration=123&amp;adaptive=1&amp;dts=0" key="/system/services/url/lookup?url=iva%3A%2F%2Fapi.internetvideoarchive.com%2F2.0%2FDataService%2FVideoAssets%28328411%29%3Flang%3Den%26bitrates%3D80%2C212%2C450%2C750%2C1500%2C2500%2C5000%2C8000%26duration%3D123%26adaptive%3D1%26dts%3D0" type="clip" relationType="behindTheScenes" year="2016" title="The Jungle Book: Legacy Story (Featurette)" originallyAvailableAt="2016-03-28" thumb="https://iva-images.plex.tv/content/hdphotos/10161/010161/010161_1280x720_328411_037.jpg" ratingKey="iva://api.internetvideoarchive.com/2.0/DataService/VideoAssets(328411)?lang=en&amp;bitrates=80,212,450,750,1500,2500,5000,8000&amp;duration=123&amp;adaptive=1&amp;dts=0">
+    <Media container="mp4" height="1080" width="1920" audioCodec="aac" duration="123000" videoCodec="h264" bitrate="2500">
+      <Part duration="123000" key="/services/iva/assets/328411/video.mp4?bitrate=2500" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="1080" width="1920" codec="h264" bitrate="2500" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+    <Media container="mp4" height="720" width="1280" audioCodec="aac" duration="123000" videoCodec="h264" bitrate="1500">
+      <Part duration="123000" key="/services/iva/assets/328411/video.mp4?bitrate=1500" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="720" width="1280" codec="h264" bitrate="1500" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+    <Media container="mp4" height="480" width="640" audioCodec="aac" duration="123000" videoCodec="h264" bitrate="450">
+      <Part duration="123000" key="/services/iva/assets/328411/video.mp4?bitrate=450" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="480" width="640" codec="h264" bitrate="450" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+  </Video>
+</MediaContainer>

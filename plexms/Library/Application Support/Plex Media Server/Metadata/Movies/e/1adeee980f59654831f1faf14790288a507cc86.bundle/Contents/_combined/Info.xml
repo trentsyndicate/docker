@@ -1,0 +1,638 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Movie>
+  <art>
+    <item external="True" url="http://image.tmdb.org/t/p/original/sVkjgKq8cwKm95LCyfrLldLbQIG.jpg" sort_order="1" provider="com.plexapp.agents.imdb" media="com.plexapp.agents.imdb_cd81a33eb39662f2ffd85123a8a13e5ed479574f"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/22eFfWlar6MtXO5qG25TkjLphoj.jpg" preview="com.plexapp.agents.imdb_d035bc9ef7828263774ba0ff3ee889d920308a75" sort_order="2" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/cAsMYBzWI3FxLOSZJSlOX6EbxHJ.jpg" preview="com.plexapp.agents.imdb_c785ebf32dbe052f715c372360d0fd279c9a37b2" sort_order="3" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/rhs0spoLwcdF7ftXwBCHUVZQoQ4.jpg" preview="com.plexapp.agents.imdb_079283affb46ceb66797f3e2cb3a0085047e6fdf" sort_order="4" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/8BG1YPOa04O2s8C5v1ZeeYOZOAZ.jpg" preview="com.plexapp.agents.imdb_3e8878edbea2faefee9d4563ee333905cdf4d71e" sort_order="5" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/5GhvQpK4XO16NJVUPljK27KUQYp.jpg" preview="com.plexapp.agents.imdb_957b30937e3721e6ddfc5ac4e1d4a0c62e3f4fed" sort_order="6" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/rX81lqj7mcMwXmIWtOuJlKkTj84.jpg" preview="com.plexapp.agents.imdb_e144459dbafd3edd686c2a1ac1432a4b7e8777f2" sort_order="7" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/sSAcOEXdhS7PcVsGt5GptE0gBJz.jpg" preview="com.plexapp.agents.imdb_814607867734c376803f9cfd92443d6d9fb07f60" sort_order="8" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/veWRZGJxW5gFEZSCP7SSl4gl01U.jpg" preview="com.plexapp.agents.imdb_4e23b0db10d15a427a71e33f210bea2e91d3ae39" sort_order="9" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/5DWGhkHR7mp96bMpLyR5IWeUQDG.jpg" preview="com.plexapp.agents.imdb_c2adbf23cb08040c37d20708e7f71c69404dbd3a" sort_order="10" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/vQedHu7OClJPPGmruEZScRdUAgD.jpg" preview="com.plexapp.agents.imdb_a0f8521100ac9146ca68586cc5a97db7688cec96" sort_order="11" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/5gk13k2UaMkDKkhaVmU4EyovEoE.jpg" preview="com.plexapp.agents.imdb_198b457fbbf75d58273d67d0db7e2cb98e685563" sort_order="12" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/2Etkxdlk6YUBCYIWWMwerd2arY8.jpg" preview="com.plexapp.agents.imdb_4226f52ecfd556494e5763a2622444592788e171" sort_order="13" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/vd6bdp9B5UGbLC41KYZU5u85Z6F.jpg" preview="com.plexapp.agents.imdb_955ce262776f2c039a3923f8634df16715a52b39" sort_order="14" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/3T8Ld8l2EgfeYHKdZuanAKj9lEU.jpg" preview="com.plexapp.agents.imdb_4999d64ac03048166d6a7e59ac3f644c9db10752" sort_order="15" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/ecMs63AmhLOJm5MDpg2EC98tuSm.jpg" preview="com.plexapp.agents.imdb_622569b747742fe3bcf28f7fa5db6a220be903c6" sort_order="16" provider="com.plexapp.agents.imdb"/>
+  </art>
+  <banners/>
+  <chapters>
+    <item index="0">
+      <title>Chapter 1</title>
+      <end_time_offset>763000</end_time_offset>
+      <start_time_offset>0</start_time_offset>
+    </item>
+    <item index="1">
+      <title>Chapter 2</title>
+      <end_time_offset>1265000</end_time_offset>
+      <start_time_offset>763000</start_time_offset>
+    </item>
+    <item index="2">
+      <title>Chapter 3</title>
+      <end_time_offset>1952000</end_time_offset>
+      <start_time_offset>1265000</start_time_offset>
+    </item>
+    <item index="3">
+      <title>Chapter 4</title>
+      <end_time_offset>2589000</end_time_offset>
+      <start_time_offset>1952000</start_time_offset>
+    </item>
+    <item index="4">
+      <title>Chapter 5</title>
+      <end_time_offset>3407000</end_time_offset>
+      <start_time_offset>2589000</start_time_offset>
+    </item>
+    <item index="5">
+      <title>Chapter 6</title>
+      <end_time_offset>4008000</end_time_offset>
+      <start_time_offset>3407000</start_time_offset>
+    </item>
+    <item index="6">
+      <title>Chapter 7</title>
+      <end_time_offset>4453000</end_time_offset>
+      <start_time_offset>4008000</start_time_offset>
+    </item>
+    <item index="7">
+      <title>Chapter 8</title>
+      <end_time_offset>5024000</end_time_offset>
+      <start_time_offset>4453000</start_time_offset>
+    </item>
+    <item index="8">
+      <title>Chapter 9</title>
+      <end_time_offset>5796000</end_time_offset>
+      <start_time_offset>5024000</start_time_offset>
+    </item>
+    <item index="9">
+      <title>Chapter 10</title>
+      <end_time_offset>6417000</end_time_offset>
+      <start_time_offset>5796000</start_time_offset>
+    </item>
+    <item index="10">
+      <title>Chapter 11</title>
+      <end_time_offset>7138000</end_time_offset>
+      <start_time_offset>6417000</start_time_offset>
+    </item>
+    <item index="11">
+      <title>Chapter 12</title>
+      <end_time_offset>-1</end_time_offset>
+      <start_time_offset>7138000</start_time_offset>
+    </item>
+  </chapters>
+  <collections/>
+  <content_rating>PG-13</content_rating>
+  <countries>
+    <item index="0">USA</item>
+  </countries>
+  <directors>
+    <item index="0">
+      <photo>http://image.tmdb.org/t/p/original/uLpiixgcko2W5GLsqBEvSfluyEs.jpg</photo>
+      <role/>
+      <name>Guy Ritchie</name>
+    </item>
+  </directors>
+  <duration>7560000</duration>
+  <genres>
+    <item index="0">Action</item>
+    <item index="1">Adventure</item>
+    <item index="2">Drama</item>
+    <item index="3">Fantasy</item>
+  </genres>
+  <originally_available_at>2017-05-10</originally_available_at>
+  <posters>
+    <item external="True" url="http://image.tmdb.org/t/p/original/5qtySjfuJfOLvVrVXuwNo2BIVPH.jpg" sort_order="1" provider="com.plexapp.agents.imdb" media="com.plexapp.agents.imdb_acad3c56cb49eecf0925828277808bcb4bdf3ed8"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/gvSWdJN7peehxJYOugV9IwqiAFi.jpg" preview="com.plexapp.agents.imdb_09a303b959a77e3690c4eda8278766480dcd3caa" sort_order="2" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/qyXPqzlCWf3T9VEpBtquUQZwsgi.jpg" preview="com.plexapp.agents.imdb_83e8d81679e872271127564a9b527ec70b248ef7" sort_order="3" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/tXoN6NViRSg3pIy7a6ujlOcUUuE.jpg" preview="com.plexapp.agents.imdb_73c26bf621c0f8ff4e1ec7117a4720cb8b1b3f2e" sort_order="4" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/cKdOWPXacLGqWvNCOZ6G0LAX5zz.jpg" preview="com.plexapp.agents.imdb_e0f64745e9e56a0717aa0f2b05a1eeb13b2011c0" sort_order="5" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/ayqy1WrtviDpS3yQKrLK1PiPpi5.jpg" preview="com.plexapp.agents.imdb_259f81d0fb7d4b3aee6c63b87c1b02aff88e39b4" sort_order="6" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/p3Ey3xEixRmNF3MHYj4kqiATYT2.jpg" preview="com.plexapp.agents.imdb_3e7a4bce9f4656d4917445a0167cc03d7683be24" sort_order="7" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/aoyD1ec65rqz9bsEn9y2sYr5QDf.jpg" preview="com.plexapp.agents.imdb_461e5211f991e2f26b04b4ce6617348178f09294" sort_order="8" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/vwIq6vEbmr0HL2KfthKjiV9EFUo.jpg" preview="com.plexapp.agents.imdb_3a8529a945fee0284a85fecef809e33254b73229" sort_order="9" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/pR85kis7WJsk3yQ2TGHkyQQztWX.jpg" preview="com.plexapp.agents.imdb_8b3dffb4e4013c208c231d7d6e5a0bb2e326b4ef" sort_order="10" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/6cKTLAND1ydJ7lWBwsUQEtvweag.jpg" preview="com.plexapp.agents.imdb_b7906149b773decec56669524efbebcb49ae6784" sort_order="11" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/yGqWNqB3I9jRcCY7yUlkfMsyjnI.jpg" preview="com.plexapp.agents.imdb_5dead446a363717fe2f094e36a6b9f5f2b217b27" sort_order="12" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/3FmjGu4oNhbhBRXU7w4dnkHKmvZ.jpg" preview="com.plexapp.agents.imdb_70f5ea606ab868ebd03da4a00c0e1aa27f0c5641" sort_order="13" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/9kKXH6eJpzoFGhCbTN3FVwSQK3n.jpg" preview="com.plexapp.agents.imdb_aa8eb9dc61e0a2063b1f48af2b0a93c1628f6235" sort_order="14" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/iiUO5v3Nk4y5K7QgXmVksYDv6L2.jpg" preview="com.plexapp.agents.imdb_01ab5dca1e579e38aed4589b17fb8ff36423c7f4" sort_order="15" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/njaAoU3VsLPZWPBPdil19T2xW3p.jpg" preview="com.plexapp.agents.imdb_e569f9b5bb2a1648a4f6b8c18d1aec29aab2c0cf" sort_order="16" provider="com.plexapp.agents.imdb"/>
+  </posters>
+  <producers>
+    <item index="0">
+      <photo/>
+      <role/>
+      <name>Steve Clark-Hall</name>
+    </item>
+    <item index="1">
+      <photo>http://image.tmdb.org/t/p/original/smyKiXX4rAfehztrmg3lxgRAuZF.jpg</photo>
+      <role/>
+      <name>Akiva Goldsman</name>
+    </item>
+    <item index="2">
+      <photo>http://image.tmdb.org/t/p/original/bHlPziMdGj2GZk88HTVoVqS4N94.jpg</photo>
+      <role/>
+      <name>Joby Harold</name>
+    </item>
+    <item index="3">
+      <photo>http://image.tmdb.org/t/p/original/uLpiixgcko2W5GLsqBEvSfluyEs.jpg</photo>
+      <role/>
+      <name>Guy Ritchie</name>
+    </item>
+    <item index="4">
+      <photo>http://image.tmdb.org/t/p/original/hwJ5bRA307egY7XwpTdlwGHrR0w.jpg</photo>
+      <role/>
+      <name>Lionel Wigram</name>
+    </item>
+    <item index="5">
+      <photo/>
+      <role/>
+      <name>Tory Tunnell</name>
+    </item>
+  </producers>
+  <rating>3.0</rating>
+  <rating_image>rottentomatoes://image.rating.rotten</rating_image>
+  <audience_rating>6.9</audience_rating>
+  <audience_rating_image>rottentomatoes://image.rating.spilled</audience_rating_image>
+  <reviews>
+    <item index="0">
+      <text>Ritchie has reached into the medieval quiver of tales for material, but has not imposed the meta-narrative of Western history onto those stories. For this restraint medievalists should be thankful, and the critics should be a little more forgiving.</text>
+      <source>The New Republic</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>https://newrepublic.com/article/142759/king-arthur-legend-sword-gets-right-middle-ages</link>
+      <author>Josephine Livingstone</author>
+    </item>
+    <item index="1">
+      <text>That's one thing that Ritchie's Legend in the Sword shared with Excalibur-a vague idea that Britain is destined for transformation. In Legend of the Sword, unfortunately, that transformation is little more than a teaser.</text>
+      <source>The Atlantic</source>
+      <image>rottentomatoes://image.review.rotten</image>
+      <link>https://www.theatlantic.com/entertainment/archive/2017/05/hollywoods-history-of-arthurian-legend/526392/</link>
+      <author>David Sims</author>
+    </item>
+    <item index="2">
+      <text>To that hallowed list of great expensive follies - "John Carter," "Ishtar," "Heaven's Gate" - let us ceremonially add another name: "King Arthur: Legend of the Sword."</text>
+      <source>Salon.com</source>
+      <image>rottentomatoes://image.review.rotten</image>
+      <link>http://www.salon.com/2017/05/12/king-arthur-movie-review/</link>
+      <author>Nico Lang</author>
+    </item>
+    <item index="3">
+      <text>This is not your father's King Arthur legend. It may not be yours, either.</text>
+      <source>Christian Science Monitor</source>
+      <image>rottentomatoes://image.review.rotten</image>
+      <link>http://www.csmonitor.com/The-Culture/Movies/2017/0512/King-Arthur-Legend-of-the-Sword-lands-with-a-thud</link>
+      <author>Peter Rainer</author>
+    </item>
+    <item index="4">
+      <text>Director Guy Ritchie can turn London crime dramas into cinematic lightning, but apply his fast cuts and jagged pacing to the Arthurian legend and you get, well, a brutal, bleedin' mess.</text>
+      <source>Rolling Stone</source>
+      <image>rottentomatoes://image.review.rotten</image>
+      <link>http://www.rollingstone.com/movies/reviews/peter-travers-king-arthur-blockbuster-is-a-royal-screw-up-w479889</link>
+      <author>Peter Travers</author>
+    </item>
+    <item index="5">
+      <text>Oi! What's Guy Ritchie gone and done with King Arfur, then?</text>
+      <source>Toronto Star</source>
+      <image>rottentomatoes://image.review.rotten</image>
+      <link>https://www.thestar.com/entertainment/movies/2017/05/11/king-arthur-legend-of-the-sword-puts-an-accent-on-the-silly-review.html</link>
+      <author>Peter Howell</author>
+    </item>
+    <item index="6">
+      <text>Ritchie has gleefully set his timeworn characters in an environment where narrative logic has no purchase. One name for this environment is subconscious dreamscape. Another is mosh pit.</text>
+      <source>Slate</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>http://www.slate.com/articles/arts/movies/2017/05/king_arthur_legend_of_the_sword_reviewed.html</link>
+      <author>Katy Waldman</author>
+    </item>
+    <item index="7">
+      <text>An unsuccessful mix of saucy wit and portentous sorcery.</text>
+      <source>Newsday</source>
+      <image>rottentomatoes://image.review.rotten</image>
+      <link>http://www.newsday.com/entertainment/movies/king-arthur-legend-of-the-sword-review-guy-ritchie-film-lacks-focus-1.13611677</link>
+      <author>Rafer Guzman</author>
+    </item>
+    <item index="8">
+      <text>Ritchie, using a rollicking soundtrack and wild visual flourishes, is off his rocker here, enough so that he makes a familiar, stale tale seem fresh.</text>
+      <source>Detroit News</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>http://www.detroitnews.com/story/entertainment/movies/2017/05/11/movie-review-guy-ritchie-brings-boffo-king-arthur-tale/101571618/</link>
+      <author>Adam Graham</author>
+    </item>
+    <item index="9">
+      <text>Well, Guy Ritchie sure put his stamp on this bit of British mythology. Lock, stock and flaming arrow.</text>
+      <source>Globe and Mail</source>
+      <image>rottentomatoes://image.review.rotten</image>
+      <link>http://www.theglobeandmail.com/arts/film/film-reviews/review-king-arthur-legend-of-the-sword-is-an-unsubtle-brawl/article34957659/</link>
+      <author>Brad Wheeler</author>
+    </item>
+    <item index="10">
+      <text>Kinetic and attention-grabbing.</text>
+      <source>ReelViews</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>http://www.reelviews.net/reelviews/king-arthur-legend-of-the-sword</link>
+      <author>James Berardinelli</author>
+    </item>
+    <item index="11">
+      <text>It's a mess graced by a few terrific sequences, but a mess nonetheless.</text>
+      <source>Toronto Sun</source>
+      <image>rottentomatoes://image.review.rotten</image>
+      <link>http://www.torontosun.com/2017/05/10/charlie-hunnam-the-only-decent-thing-in-guy-ritchies-forgettable-trip-to-camelot</link>
+      <author>Liz Braun</author>
+    </item>
+    <item index="12">
+      <text>While making a hash of a national legend, Ritchie is at least enough of a patriot to have filmed King Arthur entirely in the U.K.</text>
+      <source>NPR</source>
+      <image>rottentomatoes://image.review.rotten</image>
+      <link>http://www.npr.org/2017/05/11/527046584/king-arthur-legend-of-the-sword-an-edgy-script-dulled-by-cgi?utm_medium=RSS&amp;utm_campaign=movies</link>
+      <author>Mark Jenkins</author>
+    </item>
+    <item index="13">
+      <text>A lot of shenanigans, detours and filler, some bad, some good and all of it disposable.</text>
+      <source>New York Times</source>
+      <image>rottentomatoes://image.review.rotten</image>
+      <link>https://www.nytimes.com/2017/05/11/movies/king-arthur-review-charlie-hunnam.html?rref=collection%2Fcollection%2Fmovie-guide</link>
+      <author>Manohla Dargis</author>
+    </item>
+    <item index="14">
+      <text>There are some first-rate performances in "King Arthur: Legend of the Sword," most of them delivered by computer-generated animals.</text>
+      <source>Los Angeles Times</source>
+      <image>rottentomatoes://image.review.rotten</image>
+      <link>http://www.latimes.com/entertainment/movies/la-et-mn-king-arthur-review-20170511-story.html</link>
+      <author>Justin Chang</author>
+    </item>
+    <item index="15">
+      <text>King Arthur works best when the focus is on the bonds forged between Arthur and his future knights, the battles between the rebel forces and the obligatory faceless henchmen, and even the slightly sexual tension.</text>
+      <source>Chicago Sun-Times</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>http://chicago.suntimes.com/entertainment/see-king-arthur-for-the-dauntless-men-not-the-dopey-monsters/</link>
+      <author>Richard Roeper</author>
+    </item>
+    <item index="16">
+      <text>Jude Law almost manages to chew his way through the CGI scenery and create a gloriously wicked villain, but in the end, even he succumbs to the dumb.</text>
+      <source>San Diego Reader</source>
+      <image>rottentomatoes://image.review.rotten</image>
+      <link>http://www.sandiegoreader.com/movies/king-arthur-legend-of-the-sword/</link>
+      <author>Matthew Lickona</author>
+    </item>
+    <item index="17">
+      <text>Unlike any other medieval warfare and sorcery movie ever committed to film, but that doesn't necessarily mean it's good. This King Arthur superhero origin story is strange, invigorating, often outright bad, confusing, and totally wild.</text>
+      <source>Tribune News Service</source>
+      <image>rottentomatoes://image.review.rotten</image>
+      <link>http://inland360.com/more-news/2017/05/movie-review-king-arthur-is-different-but-not-great/</link>
+      <author>Katie Walsh</author>
+    </item>
+    <item index="18">
+      <text>It's a mastodon of a movie, wrecking pleasure wherever it plods.</text>
+      <source>Wall Street Journal</source>
+      <image>rottentomatoes://image.review.rotten</image>
+      <link>https://www.wsj.com/articles/king-arthur-legend-of-the-sword-review-morte-on-arrival-1494525220</link>
+      <author>Joe Morgenstern</author>
+    </item>
+    <item index="19">
+      <text>After directing a number of British crime comedies, Guy Ritchie applied his rapid-fire wisecracks, gleeful violence, and flashy cutting and camera moves to the Sherlock Holmes franchise; that same method works well for this big-budget Arthurian legend.</text>
+      <source>Chicago Reader</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>http://www.chicagoreader.com/chicago/king-arthur-legend-of-the-sword/MovieTimes?oid=26325299</link>
+      <author>Andrea Gronvall</author>
+    </item>
+  </reviews>
+  <roles>
+    <item index="0">
+      <photo>http://image.tmdb.org/t/p/original/nmHtkCyaiVCzwFQe4nPucsVRcBX.jpg</photo>
+      <role>Arthur</role>
+      <name>Charlie Hunnam</name>
+    </item>
+    <item index="1">
+      <photo>http://image.tmdb.org/t/p/original/rMpf4DQ7rlQTKwrJFpYgefNI5j3.jpg</photo>
+      <role>The Mage</role>
+      <name>Astrid Bergès-Frisbey</name>
+    </item>
+    <item index="2">
+      <photo>http://image.tmdb.org/t/p/original/4077Cyuo1mw53u1gNjLyQkqeZN0.jpg</photo>
+      <role>Vortigern</role>
+      <name>Jude Law</name>
+    </item>
+    <item index="3">
+      <photo>http://image.tmdb.org/t/p/original/y22Pb0XAVqC0l7ukzKKtXzPEuHk.jpg</photo>
+      <role>Bedivere</role>
+      <name>Djimon Hounsou</name>
+    </item>
+    <item index="4">
+      <photo>http://image.tmdb.org/t/p/original/36As49OkTNvT96CzzjXNuKMeuyx.jpg</photo>
+      <role>Uther</role>
+      <name>Eric Bana</name>
+    </item>
+    <item index="5">
+      <photo>http://image.tmdb.org/t/p/original/w37z62Ex1kxqLTyI3SRySmiVsDB.jpg</photo>
+      <role>Bill</role>
+      <name>Aidan Gillen</name>
+    </item>
+    <item index="6">
+      <photo>http://image.tmdb.org/t/p/original/kOPYh0Jr8lAUTmbyDZiES9Lx1j8.jpg</photo>
+      <role>Rubio</role>
+      <name>Freddie Fox</name>
+    </item>
+    <item index="7">
+      <photo/>
+      <role>Percival</role>
+      <name>Craig McGinlay</name>
+    </item>
+    <item index="8">
+      <photo>http://image.tmdb.org/t/p/original/8J3I0PwBiLGevXYJn7BkBIZwCNL.jpg</photo>
+      <role>George</role>
+      <name>Tom Wu</name>
+    </item>
+    <item index="9">
+      <photo>http://image.tmdb.org/t/p/original/8VCXVzMQlqgfa9cOG03Rfemipk.jpg</photo>
+      <role>Wet Stick</role>
+      <name>Kingsley Ben-Adir</name>
+    </item>
+    <item index="10">
+      <photo>http://image.tmdb.org/t/p/original/12dDCWSE8GXrhnzHuaEWxNJFfrN.jpg</photo>
+      <role>Back Lack</role>
+      <name>Neil Maskell</name>
+    </item>
+    <item index="11">
+      <photo>http://image.tmdb.org/t/p/original/cJftGSBJndCcHUFsNUbFme5LnYd.jpg</photo>
+      <role>Maggie</role>
+      <name>Annabelle Wallis</name>
+    </item>
+    <item index="12">
+      <photo/>
+      <role>Young Arthur 2 Yrs</role>
+      <name>Zac Barker</name>
+    </item>
+    <item index="13">
+      <photo/>
+      <role>Young Arthur 2 Yrs</role>
+      <name>Oliver Barker</name>
+    </item>
+    <item index="14">
+      <photo>http://image.tmdb.org/t/p/original/1zWgEcKr25XSfHGuXdCuFLUvEoX.jpg</photo>
+      <role>Mischief John</role>
+      <name>Geoff Bell</name>
+    </item>
+    <item index="15">
+      <photo>http://image.tmdb.org/t/p/original/kevUVdb55KGWSwH1jg8Ye9cthQX.jpg</photo>
+      <role>Igraine</role>
+      <name>Poppy Delevingne</name>
+    </item>
+    <item index="16">
+      <photo>http://image.tmdb.org/t/p/original/7bQNkJHw4pr3Gau8qvSVPora8b.jpg</photo>
+      <role>Catia</role>
+      <name>Millie Brady</name>
+    </item>
+    <item index="17">
+      <photo/>
+      <role>Lucy</role>
+      <name>Nicola Wren</name>
+    </item>
+    <item index="18">
+      <photo/>
+      <role>Brother Blackleg</role>
+      <name>Wil Coban</name>
+    </item>
+    <item index="19">
+      <photo/>
+      <role>Blue</role>
+      <name>Bleu Landau</name>
+    </item>
+    <item index="20">
+      <photo>http://image.tmdb.org/t/p/original/7NvJ0FPMUFNlCOj10yd3quRxc5D.jpg</photo>
+      <role>Lady of the Lake</role>
+      <name>Jacqui Ainsley</name>
+    </item>
+    <item index="21">
+      <photo>http://image.tmdb.org/t/p/original/uvNuNZEI1fWV7dI7VMc5hN6fHt9.jpg</photo>
+      <role>Syren 1</role>
+      <name>Lorraine Bruce</name>
+    </item>
+    <item index="22">
+      <photo>http://image.tmdb.org/t/p/original/AwFvnApH8nxzfEw3inQw7Dvc0qq.jpg</photo>
+      <role>Kay</role>
+      <name>Georgina Campbell</name>
+    </item>
+    <item index="23">
+      <photo>http://image.tmdb.org/t/p/original/iNvzf0jWJ4WUJO5b4kbVTDuYQt2.jpg</photo>
+      <role>Mordred</role>
+      <name>Rob Knighton</name>
+    </item>
+    <item index="24">
+      <photo/>
+      <role>Mage King</role>
+      <name>Michael Hadley</name>
+    </item>
+    <item index="25">
+      <photo>http://image.tmdb.org/t/p/original/9MOY95jds58WtvEwUTYZgXlTVr0.jpg</photo>
+      <role>Trigger</role>
+      <name>David Beckham</name>
+    </item>
+    <item index="26">
+      <photo>http://image.tmdb.org/t/p/original/4fbRhTYZe6ts8t1uA659ypajcA3.jpg</photo>
+      <role>Elsa</role>
+      <name>Katie McGrath</name>
+    </item>
+    <item index="27">
+      <photo/>
+      <role>General 1</role>
+      <name>Alan Turkington</name>
+    </item>
+    <item index="28">
+      <photo>http://image.tmdb.org/t/p/original/eSxMkW04VuOkQqxG2HIPw0FMJKe.jpg</photo>
+      <role>Earl of Mercia</role>
+      <name>Peter Ferdinando</name>
+    </item>
+    <item index="29">
+      <photo>http://image.tmdb.org/t/p/original/yNwAo0LGS9fLd6Hathxt0wN6r9O.jpg</photo>
+      <role>Jack's Eye</role>
+      <name>Michael McElhatton</name>
+    </item>
+    <item index="30">
+      <photo>http://image.tmdb.org/t/p/original/gApm4OirfwRss9SNLyZLRHEIr4Y.jpg</photo>
+      <role>Greybeard</role>
+      <name>Mikael Persbrandt</name>
+    </item>
+    <item index="31">
+      <photo/>
+      <role>Axeman</role>
+      <name>Charlie Rawes</name>
+    </item>
+    <item index="32">
+      <photo/>
+      <role>Mike</role>
+      <name>James Warren</name>
+    </item>
+    <item index="33">
+      <photo/>
+      <role>Maria</role>
+      <name>Ellie Graham</name>
+    </item>
+    <item index="34">
+      <photo>http://image.tmdb.org/t/p/original/65ibJtD4piMDPLcB1deyeKYlDDy.jpg</photo>
+      <role>Syren 3</role>
+      <name>Hermione Corfield</name>
+    </item>
+    <item index="35">
+      <photo>http://image.tmdb.org/t/p/original/lYd4BVmgQofkLVzDPzKE7RJzjNC.jpg</photo>
+      <role>Merlin</role>
+      <name>Kamil Lemieszewski</name>
+    </item>
+    <item index="36">
+      <photo>http://image.tmdb.org/t/p/original/uSNpUtmn8HULtwuEPnb3ogx4jcx.jpg</photo>
+      <role>Syren 2</role>
+      <name>Eline Powell</name>
+    </item>
+    <item index="37">
+      <photo>http://image.tmdb.org/t/p/original/rxRSJqrnb29MnUeS48EytNd1VOB.jpg</photo>
+      <role>Viking</role>
+      <name>Kalle Hennie</name>
+    </item>
+    <item index="38">
+      <photo>http://image.tmdb.org/t/p/original/lIdWBWDD8bx9pFR9s6aKPjWIR2Y.jpg</photo>
+      <role>Baron 1</role>
+      <name>Peter Guinness</name>
+    </item>
+    <item index="39">
+      <photo>http://image.tmdb.org/t/p/original/hpZwHhZcGCBrl3irmrRAZxwEQca.jpg</photo>
+      <role>Baron 2</role>
+      <name>Mark Umbers</name>
+    </item>
+    <item index="40">
+      <photo>http://image.tmdb.org/t/p/original/q33VahfTq784dZaBt2qj4P5Xzu3.jpg</photo>
+      <role>Baron 3</role>
+      <name>Adrian Bouchet</name>
+    </item>
+    <item index="41">
+      <photo/>
+      <role>Woman 1</role>
+      <name>Florence Bell</name>
+    </item>
+    <item index="42">
+      <photo/>
+      <role>Woman 2</role>
+      <name>Anna Brooks Beckman</name>
+    </item>
+    <item index="43">
+      <photo>http://image.tmdb.org/t/p/original/qviaRSgrq4oW8Z3DsFQuaEJ5eiA.jpg</photo>
+      <role>Woman 3</role>
+      <name>Cordelia Bugeja</name>
+    </item>
+    <item index="44">
+      <photo>http://image.tmdb.org/t/p/original/ifz75sAvBE4552GZNmdxRrdygkK.jpg</photo>
+      <role>Maid 1</role>
+      <name>Rebecca Calder</name>
+    </item>
+    <item index="45">
+      <photo>http://image.tmdb.org/t/p/original/FdpH7xJhQgx09CnxcXe3PfauHE.jpg</photo>
+      <role>Dan Clan Mafia (uncredited)</role>
+      <name>Lee Nicholas Harris</name>
+    </item>
+    <item index="46">
+      <photo>http://image.tmdb.org/t/p/original/ucqzg2TRwwr5p8D8aktYQjGmSLT.jpg</photo>
+      <role>Noble (uncredited)</role>
+      <name>Gintare Beinoraviciute</name>
+    </item>
+    <item index="47">
+      <photo/>
+      <role>Noble Girl (uncredited)</role>
+      <name>Alice E. Mayer</name>
+    </item>
+    <item index="48">
+      <photo/>
+      <role>Noblewoman (uncredited)</role>
+      <name>Claira Watson Parr</name>
+    </item>
+    <item index="49">
+      <photo/>
+      <role>Slave Labourer (uncredited)</role>
+      <name>Alphonso Austin</name>
+    </item>
+    <item index="50">
+      <photo>http://image.tmdb.org/t/p/original/etz9D0PNTbmz63bqAoNoXPMKxHI.jpg</photo>
+      <role>Londinium Fighter (uncredited)</role>
+      <name>Rudy Barrow</name>
+    </item>
+    <item index="51">
+      <photo>http://image.tmdb.org/t/p/original/jhyIFfBnM5nLhHdpFiGIW6qk9x5.jpg</photo>
+      <role>SPAC / Londinum Fighter (uncredited)</role>
+      <name>Daniel Stisen</name>
+    </item>
+    <item index="52">
+      <photo/>
+      <role>Londinium Fighter (uncredited)</role>
+      <name>Joel Bryant</name>
+    </item>
+    <item index="53">
+      <photo>http://image.tmdb.org/t/p/original/faOJqMFFPmuxsthh1l58RIwtQno.jpg</photo>
+      <role>Fighter (uncredited)</role>
+      <name>Dacio Caballero</name>
+    </item>
+    <item index="54">
+      <photo>http://image.tmdb.org/t/p/original/6wrGhl4Gfj3d0jtmECk81xRJfQC.jpg</photo>
+      <role>Young Mother (uncredited)</role>
+      <name>Lucy Chappell</name>
+    </item>
+    <item index="55">
+      <photo>http://image.tmdb.org/t/p/original/4xgn4LoqwxAXBr3IrJ74EOOKJLf.jpg</photo>
+      <role>Knight (uncredited)</role>
+      <name>Jamie B. Chambers</name>
+    </item>
+    <item index="56">
+      <photo/>
+      <role>Vortigern's Guard (uncredited)</role>
+      <name>Pedro Caxade</name>
+    </item>
+    <item index="57">
+      <photo>http://image.tmdb.org/t/p/original/nPQ4DaTSBIm3I8fsJTeI04k2OJe.jpg</photo>
+      <role>Clan Head 1 (uncredited)</role>
+      <name>Nick Cornwall</name>
+    </item>
+  </roles>
+  <similar>
+    <item index="0">The Great Wall</item>
+    <item index="1">The Mummy</item>
+    <item index="2">Kong: Skull Island</item>
+    <item index="3">The Dark Tower</item>
+    <item index="4">Ghost in the Shell</item>
+    <item index="5">Assassin's Creed</item>
+    <item index="6">Pirates of the Caribbean: Dead Men Tell No Tales</item>
+    <item index="7">Warcraft</item>
+    <item index="8">The Hitman's Bodyguard</item>
+    <item index="9">Power Rangers</item>
+    <item index="10">Life</item>
+    <item index="11">Transformers: The Last Knight</item>
+    <item index="12">The Lost City of Z</item>
+    <item index="13">John Wick: Chapter 2</item>
+    <item index="14">Guardians of the Galaxy Vol. 2</item>
+    <item index="15">The Magnificent Seven</item>
+    <item index="16">Alien: Covenant</item>
+    <item index="17">Valerian and the City of a Thousand Planets</item>
+    <item index="18">Kingsman: The Golden Circle</item>
+    <item index="19">Atomic Blonde</item>
+  </similar>
+  <studio>Village Roadshow Pictures</studio>
+  <summary>When the child Arthur’s father is murdered, Vortigern, Arthur’s uncle, seizes the crown. Robbed of his birthright and with no idea who he truly is, Arthur comes up the hard way in the back alleys of the city. But once he pulls the sword Excalibur from the stone, his life is turned upside down and he is forced to acknowledge his true legacy... whether he likes it or not.</summary>
+  <tagline>From nothing comes a King</tagline>
+  <tags/>
+  <themes/>
+  <title>King Arthur: Legend of the Sword</title>
+  <writers>
+    <item index="0">
+      <photo>http://image.tmdb.org/t/p/original/bHlPziMdGj2GZk88HTVoVqS4N94.jpg</photo>
+      <role/>
+      <name>Joby Harold</name>
+    </item>
+    <item index="1">
+      <photo>http://image.tmdb.org/t/p/original/hwJ5bRA307egY7XwpTdlwGHrR0w.jpg</photo>
+      <role/>
+      <name>Lionel Wigram</name>
+    </item>
+    <item index="2">
+      <photo>http://image.tmdb.org/t/p/original/uLpiixgcko2W5GLsqBEvSfluyEs.jpg</photo>
+      <role/>
+      <name>Guy Ritchie</name>
+    </item>
+  </writers>
+  <year>2017</year>
+</Movie>

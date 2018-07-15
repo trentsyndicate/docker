@@ -1,0 +1,203 @@
+<?xml version='1.0' encoding='utf-8'?>
+<MediaContainer size="10" identifier="com.plexapp.agents.imdb" mediaTagPrefix="/system/bundle/media/flags/" prefsKey="/:/plugins/com.plexapp.agents.imdb/prefs">
+  <Video url="iva://api.internetvideoarchive.com/2.0/DataService/VideoAssets(243329)?lang=en&amp;bitrates=80,212,450,750,1500,2500,5000,8000&amp;duration=125&amp;adaptive=1&amp;dts=0" key="/system/services/url/lookup?url=iva%3A%2F%2Fapi.internetvideoarchive.com%2F2.0%2FDataService%2FVideoAssets%28243329%29%3Flang%3Den%26bitrates%3D80%2C212%2C450%2C750%2C1500%2C2500%2C5000%2C8000%26duration%3D125%26adaptive%3D1%26dts%3D0" type="clip" relationType="trailer" year="2016" title="Midnight Special (Blu-Ray/DVD Trailer)" originallyAvailableAt="2016-06-07" thumb="https://iva-images.plex.tv/content/hdphotos/10368/010368/010368_921x518_243329_136.jpg" ratingKey="iva://api.internetvideoarchive.com/2.0/DataService/VideoAssets(243329)?lang=en&amp;bitrates=80,212,450,750,1500,2500,5000,8000&amp;duration=125&amp;adaptive=1&amp;dts=0">
+    <Media container="mp4" height="1080" width="1920" audioCodec="aac" duration="125000" videoCodec="h264" bitrate="2500">
+      <Part duration="125000" key="/services/iva/assets/243329/video.mp4?bitrate=2500" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="1080" width="1920" codec="h264" bitrate="2500" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+    <Media container="mp4" height="720" width="1280" audioCodec="aac" duration="125000" videoCodec="h264" bitrate="1500">
+      <Part duration="125000" key="/services/iva/assets/243329/video.mp4?bitrate=1500" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="720" width="1280" codec="h264" bitrate="1500" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+    <Media container="mp4" height="480" width="640" audioCodec="aac" duration="125000" videoCodec="h264" bitrate="450">
+      <Part duration="125000" key="/services/iva/assets/243329/video.mp4?bitrate=450" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="480" width="640" codec="h264" bitrate="450" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+  </Video>
+  <Video url="iva://api.internetvideoarchive.com/2.0/DataService/VideoAssets(567623)?lang=en&amp;bitrates=80,212,450,750,1500,2500,8000&amp;duration=70&amp;adaptive=1&amp;dts=0" key="/system/services/url/lookup?url=iva%3A%2F%2Fapi.internetvideoarchive.com%2F2.0%2FDataService%2FVideoAssets%28567623%29%3Flang%3Den%26bitrates%3D80%2C212%2C450%2C750%2C1500%2C2500%2C8000%26duration%3D70%26adaptive%3D1%26dts%3D0" type="clip" relationType="behindTheScenes" year="2016" title="Midnight Special: Jeff Nichols On His Writing Process" originallyAvailableAt="2016-03-08" thumb="https://iva-images.plex.tv/content/hdphotos/10088/010088/010088_1280x720_567623_024.jpg" ratingKey="iva://api.internetvideoarchive.com/2.0/DataService/VideoAssets(567623)?lang=en&amp;bitrates=80,212,450,750,1500,2500,8000&amp;duration=70&amp;adaptive=1&amp;dts=0">
+    <Media container="mp4" height="1080" width="1920" audioCodec="aac" duration="70000" videoCodec="h264" bitrate="2500">
+      <Part duration="70000" key="/services/iva/assets/567623/video.mp4?bitrate=2500" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="1080" width="1920" codec="h264" bitrate="2500" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+    <Media container="mp4" height="720" width="1280" audioCodec="aac" duration="70000" videoCodec="h264" bitrate="1500">
+      <Part duration="70000" key="/services/iva/assets/567623/video.mp4?bitrate=1500" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="720" width="1280" codec="h264" bitrate="1500" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+    <Media container="mp4" height="480" width="640" audioCodec="aac" duration="70000" videoCodec="h264" bitrate="450">
+      <Part duration="70000" key="/services/iva/assets/567623/video.mp4?bitrate=450" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="480" width="640" codec="h264" bitrate="450" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+  </Video>
+  <Video url="iva://api.internetvideoarchive.com/2.0/DataService/VideoAssets(690531)?lang=en&amp;bitrates=80,212,450,750,1500,2500,8000&amp;duration=27&amp;adaptive=1&amp;dts=0" key="/system/services/url/lookup?url=iva%3A%2F%2Fapi.internetvideoarchive.com%2F2.0%2FDataService%2FVideoAssets%28690531%29%3Flang%3Den%26bitrates%3D80%2C212%2C450%2C750%2C1500%2C2500%2C8000%26duration%3D27%26adaptive%3D1%26dts%3D0" type="clip" relationType="behindTheScenes" year="2016" title="Midnight Special: Jaeden Lieberher On Reading The Script" originallyAvailableAt="2016-03-08" thumb="https://iva-images.plex.tv/content/hdphotos/10088/010088/010088_1280x720_690531_007.jpg" ratingKey="iva://api.internetvideoarchive.com/2.0/DataService/VideoAssets(690531)?lang=en&amp;bitrates=80,212,450,750,1500,2500,8000&amp;duration=27&amp;adaptive=1&amp;dts=0">
+    <Media container="mp4" height="1080" width="1920" audioCodec="aac" duration="27000" videoCodec="h264" bitrate="2500">
+      <Part duration="27000" key="/services/iva/assets/690531/video.mp4?bitrate=2500" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="1080" width="1920" codec="h264" bitrate="2500" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+    <Media container="mp4" height="720" width="1280" audioCodec="aac" duration="27000" videoCodec="h264" bitrate="1500">
+      <Part duration="27000" key="/services/iva/assets/690531/video.mp4?bitrate=1500" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="720" width="1280" codec="h264" bitrate="1500" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+    <Media container="mp4" height="480" width="640" audioCodec="aac" duration="27000" videoCodec="h264" bitrate="450">
+      <Part duration="27000" key="/services/iva/assets/690531/video.mp4?bitrate=450" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="480" width="640" codec="h264" bitrate="450" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+  </Video>
+  <Video url="iva://api.internetvideoarchive.com/2.0/DataService/VideoAssets(656475)?lang=en&amp;bitrates=80,212,450,750,1500,2500,8000&amp;duration=39&amp;adaptive=1&amp;dts=0" key="/system/services/url/lookup?url=iva%3A%2F%2Fapi.internetvideoarchive.com%2F2.0%2FDataService%2FVideoAssets%28656475%29%3Flang%3Den%26bitrates%3D80%2C212%2C450%2C750%2C1500%2C2500%2C8000%26duration%3D39%26adaptive%3D1%26dts%3D0" type="clip" relationType="behindTheScenes" year="2016" title="Midnight Special: Adam Driver On Becoming Involved With The Project" originallyAvailableAt="2016-03-08" thumb="https://iva-images.plex.tv/content/hdphotos/10088/010088/010088_1280x720_656475_002.jpg" ratingKey="iva://api.internetvideoarchive.com/2.0/DataService/VideoAssets(656475)?lang=en&amp;bitrates=80,212,450,750,1500,2500,8000&amp;duration=39&amp;adaptive=1&amp;dts=0">
+    <Media container="mp4" height="1080" width="1920" audioCodec="aac" duration="39000" videoCodec="h264" bitrate="2500">
+      <Part duration="39000" key="/services/iva/assets/656475/video.mp4?bitrate=2500" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="1080" width="1920" codec="h264" bitrate="2500" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+    <Media container="mp4" height="720" width="1280" audioCodec="aac" duration="39000" videoCodec="h264" bitrate="1500">
+      <Part duration="39000" key="/services/iva/assets/656475/video.mp4?bitrate=1500" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="720" width="1280" codec="h264" bitrate="1500" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+    <Media container="mp4" height="480" width="640" audioCodec="aac" duration="39000" videoCodec="h264" bitrate="450">
+      <Part duration="39000" key="/services/iva/assets/656475/video.mp4?bitrate=450" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="480" width="640" codec="h264" bitrate="450" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+  </Video>
+  <Video url="iva://api.internetvideoarchive.com/2.0/DataService/VideoAssets(180822)?lang=en&amp;bitrates=80,212,450,750,1500,2500,8000&amp;duration=34&amp;adaptive=1&amp;dts=0" key="/system/services/url/lookup?url=iva%3A%2F%2Fapi.internetvideoarchive.com%2F2.0%2FDataService%2FVideoAssets%28180822%29%3Flang%3Den%26bitrates%3D80%2C212%2C450%2C750%2C1500%2C2500%2C8000%26duration%3D34%26adaptive%3D1%26dts%3D0" type="clip" relationType="behindTheScenes" year="2016" title="Midnight Special: Brian Kavanaugh-Jones On First Hearing About The Project From Jeff Nichols" originallyAvailableAt="2016-03-08" thumb="https://iva-images.plex.tv/content/hdphotos/10088/010088/010088_1280x720_180822_017.jpg" ratingKey="iva://api.internetvideoarchive.com/2.0/DataService/VideoAssets(180822)?lang=en&amp;bitrates=80,212,450,750,1500,2500,8000&amp;duration=34&amp;adaptive=1&amp;dts=0">
+    <Media container="mp4" height="1080" width="1920" audioCodec="aac" duration="34000" videoCodec="h264" bitrate="2500">
+      <Part duration="34000" key="/services/iva/assets/180822/video.mp4?bitrate=2500" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="1080" width="1920" codec="h264" bitrate="2500" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+    <Media container="mp4" height="720" width="1280" audioCodec="aac" duration="34000" videoCodec="h264" bitrate="1500">
+      <Part duration="34000" key="/services/iva/assets/180822/video.mp4?bitrate=1500" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="720" width="1280" codec="h264" bitrate="1500" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+    <Media container="mp4" height="480" width="640" audioCodec="aac" duration="34000" videoCodec="h264" bitrate="450">
+      <Part duration="34000" key="/services/iva/assets/180822/video.mp4?bitrate=450" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="480" width="640" codec="h264" bitrate="450" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+  </Video>
+  <Video url="iva://api.internetvideoarchive.com/2.0/DataService/VideoAssets(97544)?lang=en&amp;bitrates=80,212,450,750,1500,2500,8000&amp;duration=40&amp;adaptive=1&amp;dts=0" key="/system/services/url/lookup?url=iva%3A%2F%2Fapi.internetvideoarchive.com%2F2.0%2FDataService%2FVideoAssets%2897544%29%3Flang%3Den%26bitrates%3D80%2C212%2C450%2C750%2C1500%2C2500%2C8000%26duration%3D40%26adaptive%3D1%26dts%3D0" type="clip" relationType="behindTheScenes" year="2016" title="Midnight Special: Joel Edgerton On His Character" originallyAvailableAt="2016-03-08" thumb="https://iva-images.plex.tv/content/hdphotos/10088/010088/010088_1280x720_97544_001.jpg" ratingKey="iva://api.internetvideoarchive.com/2.0/DataService/VideoAssets(97544)?lang=en&amp;bitrates=80,212,450,750,1500,2500,8000&amp;duration=40&amp;adaptive=1&amp;dts=0">
+    <Media container="mp4" height="1080" width="1920" audioCodec="aac" duration="40000" videoCodec="h264" bitrate="2500">
+      <Part duration="40000" key="/services/iva/assets/97544/video.mp4?bitrate=2500" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="1080" width="1920" codec="h264" bitrate="2500" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+    <Media container="mp4" height="720" width="1280" audioCodec="aac" duration="40000" videoCodec="h264" bitrate="1500">
+      <Part duration="40000" key="/services/iva/assets/97544/video.mp4?bitrate=1500" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="720" width="1280" codec="h264" bitrate="1500" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+    <Media container="mp4" height="480" width="640" audioCodec="aac" duration="40000" videoCodec="h264" bitrate="450">
+      <Part duration="40000" key="/services/iva/assets/97544/video.mp4?bitrate=450" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="480" width="640" codec="h264" bitrate="450" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+  </Video>
+  <Video url="iva://api.internetvideoarchive.com/2.0/DataService/VideoAssets(162405)?lang=en&amp;bitrates=80,212,450,750,1500,2500,8000&amp;duration=24&amp;adaptive=1&amp;dts=0" key="/system/services/url/lookup?url=iva%3A%2F%2Fapi.internetvideoarchive.com%2F2.0%2FDataService%2FVideoAssets%28162405%29%3Flang%3Den%26bitrates%3D80%2C212%2C450%2C750%2C1500%2C2500%2C8000%26duration%3D24%26adaptive%3D1%26dts%3D0" type="clip" relationType="behindTheScenes" year="2016" title="Midnight Special: Kirsten Dunst On Where We Find 'Sarah' In The Beginning Of The Story" originallyAvailableAt="2016-03-08" thumb="https://iva-images.plex.tv/content/hdphotos/10088/010088/010088_1280x720_162405_001.jpg" ratingKey="iva://api.internetvideoarchive.com/2.0/DataService/VideoAssets(162405)?lang=en&amp;bitrates=80,212,450,750,1500,2500,8000&amp;duration=24&amp;adaptive=1&amp;dts=0">
+    <Media container="mp4" height="1080" width="1920" audioCodec="aac" duration="24000" videoCodec="h264" bitrate="2500">
+      <Part duration="24000" key="/services/iva/assets/162405/video.mp4?bitrate=2500" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="1080" width="1920" codec="h264" bitrate="2500" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+    <Media container="mp4" height="720" width="1280" audioCodec="aac" duration="24000" videoCodec="h264" bitrate="1500">
+      <Part duration="24000" key="/services/iva/assets/162405/video.mp4?bitrate=1500" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="720" width="1280" codec="h264" bitrate="1500" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+    <Media container="mp4" height="480" width="640" audioCodec="aac" duration="24000" videoCodec="h264" bitrate="450">
+      <Part duration="24000" key="/services/iva/assets/162405/video.mp4?bitrate=450" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="480" width="640" codec="h264" bitrate="450" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+  </Video>
+  <Video url="iva://api.internetvideoarchive.com/2.0/DataService/VideoAssets(730934)?lang=en&amp;bitrates=80,212,450,750,1500,2500,8000&amp;duration=56&amp;adaptive=1&amp;dts=0" key="/system/services/url/lookup?url=iva%3A%2F%2Fapi.internetvideoarchive.com%2F2.0%2FDataService%2FVideoAssets%28730934%29%3Flang%3Den%26bitrates%3D80%2C212%2C450%2C750%2C1500%2C2500%2C8000%26duration%3D56%26adaptive%3D1%26dts%3D0" type="clip" relationType="behindTheScenes" year="2016" title="Midnight Special: Sarah Green On First Hearing About The Project From Jeff Nichols" originallyAvailableAt="2016-03-08" thumb="https://iva-images.plex.tv/content/hdphotos/10088/010088/010088_1280x720_730934_002.jpg" ratingKey="iva://api.internetvideoarchive.com/2.0/DataService/VideoAssets(730934)?lang=en&amp;bitrates=80,212,450,750,1500,2500,8000&amp;duration=56&amp;adaptive=1&amp;dts=0">
+    <Media container="mp4" height="1080" width="1920" audioCodec="aac" duration="56000" videoCodec="h264" bitrate="2500">
+      <Part duration="56000" key="/services/iva/assets/730934/video.mp4?bitrate=2500" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="1080" width="1920" codec="h264" bitrate="2500" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+    <Media container="mp4" height="720" width="1280" audioCodec="aac" duration="56000" videoCodec="h264" bitrate="1500">
+      <Part duration="56000" key="/services/iva/assets/730934/video.mp4?bitrate=1500" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="720" width="1280" codec="h264" bitrate="1500" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+    <Media container="mp4" height="480" width="640" audioCodec="aac" duration="56000" videoCodec="h264" bitrate="450">
+      <Part duration="56000" key="/services/iva/assets/730934/video.mp4?bitrate=450" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="480" width="640" codec="h264" bitrate="450" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+  </Video>
+  <Video url="iva://api.internetvideoarchive.com/2.0/DataService/VideoAssets(714383)?lang=en&amp;bitrates=80,212,450,750,1500,2500,8000&amp;duration=34&amp;adaptive=1&amp;dts=0" key="/system/services/url/lookup?url=iva%3A%2F%2Fapi.internetvideoarchive.com%2F2.0%2FDataService%2FVideoAssets%28714383%29%3Flang%3Den%26bitrates%3D80%2C212%2C450%2C750%2C1500%2C2500%2C8000%26duration%3D34%26adaptive%3D1%26dts%3D0" type="clip" relationType="behindTheScenes" year="2016" title="Midnight Special: Sam Shepard On The Film" originallyAvailableAt="2016-03-08" thumb="https://iva-images.plex.tv/content/hdphotos/10088/010088/010088_1280x720_714383_023.jpg" ratingKey="iva://api.internetvideoarchive.com/2.0/DataService/VideoAssets(714383)?lang=en&amp;bitrates=80,212,450,750,1500,2500,8000&amp;duration=34&amp;adaptive=1&amp;dts=0">
+    <Media container="mp4" height="1080" width="1920" audioCodec="aac" duration="34000" videoCodec="h264" bitrate="2500">
+      <Part duration="34000" key="/services/iva/assets/714383/video.mp4?bitrate=2500" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="1080" width="1920" codec="h264" bitrate="2500" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+    <Media container="mp4" height="720" width="1280" audioCodec="aac" duration="34000" videoCodec="h264" bitrate="1500">
+      <Part duration="34000" key="/services/iva/assets/714383/video.mp4?bitrate=1500" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="720" width="1280" codec="h264" bitrate="1500" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+    <Media container="mp4" height="480" width="640" audioCodec="aac" duration="34000" videoCodec="h264" bitrate="450">
+      <Part duration="34000" key="/services/iva/assets/714383/video.mp4?bitrate=450" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="480" width="640" codec="h264" bitrate="450" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+  </Video>
+  <Video url="iva://api.internetvideoarchive.com/2.0/DataService/VideoAssets(770510)?lang=en&amp;bitrates=80,212,450,750,1500,2500,8000&amp;duration=38&amp;adaptive=1&amp;dts=0" key="/system/services/url/lookup?url=iva%3A%2F%2Fapi.internetvideoarchive.com%2F2.0%2FDataService%2FVideoAssets%28770510%29%3Flang%3Den%26bitrates%3D80%2C212%2C450%2C750%2C1500%2C2500%2C8000%26duration%3D38%26adaptive%3D1%26dts%3D0" type="clip" relationType="behindTheScenes" year="2016" title="Midnight Special: Michael Shannon On His Character" originallyAvailableAt="2016-03-08" thumb="https://iva-images.plex.tv/content/hdphotos/10088/010088/010088_1280x720_770510_024.jpg" ratingKey="iva://api.internetvideoarchive.com/2.0/DataService/VideoAssets(770510)?lang=en&amp;bitrates=80,212,450,750,1500,2500,8000&amp;duration=38&amp;adaptive=1&amp;dts=0">
+    <Media container="mp4" height="1080" width="1920" audioCodec="aac" duration="38000" videoCodec="h264" bitrate="2500">
+      <Part duration="38000" key="/services/iva/assets/770510/video.mp4?bitrate=2500" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="1080" width="1920" codec="h264" bitrate="2500" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+    <Media container="mp4" height="720" width="1280" audioCodec="aac" duration="38000" videoCodec="h264" bitrate="1500">
+      <Part duration="38000" key="/services/iva/assets/770510/video.mp4?bitrate=1500" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="720" width="1280" codec="h264" bitrate="1500" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+    <Media container="mp4" height="480" width="640" audioCodec="aac" duration="38000" videoCodec="h264" bitrate="450">
+      <Part duration="38000" key="/services/iva/assets/770510/video.mp4?bitrate=450" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="480" width="640" codec="h264" bitrate="450" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+  </Video>
+</MediaContainer>

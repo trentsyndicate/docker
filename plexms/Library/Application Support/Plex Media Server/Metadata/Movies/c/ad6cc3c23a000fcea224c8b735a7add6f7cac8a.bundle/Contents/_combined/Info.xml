@@ -1,0 +1,493 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Movie>
+  <art>
+    <item external="True" url="http://image.tmdb.org/t/p/original/t8IQDMw1EJ5ftaj3k2d3a5YJDot.jpg" sort_order="1" provider="com.plexapp.agents.imdb" media="com.plexapp.agents.imdb_e40ffbc62d5e26925fdc845047d04111eb92dd5c"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/a6VvlnIRTJTPUnyf1tIV9kEJO27.jpg" preview="com.plexapp.agents.imdb_a91d27d0a8c7c167e1660cff501227301ff0322f" sort_order="2" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/3KRPbfYiK6IFOXM5nJj2KpoHlj7.jpg" preview="com.plexapp.agents.imdb_946ced23589f3725ba07676437fb6403e4723bac" sort_order="3" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/gmDNnMSAKBZAkkyWEj9pjoMm0Ew.jpg" preview="com.plexapp.agents.imdb_9ce827ab1b6cd174ddfc330361679678abe34967" sort_order="4" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/PR7c7ZexLYNjQqvio5oocDgEdB.jpg" preview="com.plexapp.agents.imdb_8e5fe294a7cc3ca41340b839de92843e4a273e2b" sort_order="5" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/AdX9BcJ77YNRfYs3oepePgI74xO.jpg" preview="com.plexapp.agents.imdb_f3b62a17efac682903065cfcc62127750505adf6" sort_order="6" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/cY545kn9YFfgXvftIckIuGRNkn6.jpg" preview="com.plexapp.agents.imdb_0d600b116381221e067973d2e9cd9a7146dab319" sort_order="7" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/6KuMXFFOYb8gLOnXMUYBMd3JJog.jpg" preview="com.plexapp.agents.imdb_d61593318e94e4c5ccbb88f00645fda595f9de31" sort_order="8" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/akuAB8RWTp07EDMaRrGbxoorBps.jpg" preview="com.plexapp.agents.imdb_ba07adabc5c375f2d11c605011d23b3ff85ba3be" sort_order="9" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/k5oijKnO20ar6EL9qwip132sQV6.jpg" preview="com.plexapp.agents.imdb_1bce7eb69806765d5f0a50c7a96b25a165b59a5b" sort_order="10" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/4u7Eo4sG7jQm8n8Zm8Po32LQshF.jpg" preview="com.plexapp.agents.imdb_cbb12576e2f7319acf1dd359b7a22fcabf1c450f" sort_order="11" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/gin2kuOmIUxNyFfGxs0yFkg7VKR.jpg" preview="com.plexapp.agents.imdb_7aa5ce2c59557e1c77c4700becb825f5efbf0aee" sort_order="12" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/2pk4HQi47StxvYrQtngwsBzKA5G.jpg" preview="com.plexapp.agents.imdb_954f0e84f94ae75e74e1d22d532cab3524c75b12" sort_order="13" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/sfPRyT4lLYeMuaZjgjrTUUyVkxd.jpg" preview="com.plexapp.agents.imdb_a867041b2d53b2055450ea0fc633a562e1535bf5" sort_order="14" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/aqm8ZP4HFhQGUFImlfoI1MNFeig.jpg" preview="com.plexapp.agents.imdb_b02036bbd7ae595d8ee936feb00189856e76183d" sort_order="15" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/bgOSs9PkAeOyujqBiOCJorbiM9l.jpg" preview="com.plexapp.agents.imdb_50fa701f39e2160479753b01912bc6a43d10e17a" sort_order="16" provider="com.plexapp.agents.imdb"/>
+  </art>
+  <banners/>
+  <chapters>
+    <item index="0">
+      <title>Chapter 1</title>
+      <end_time_offset>552000</end_time_offset>
+      <start_time_offset>0</start_time_offset>
+    </item>
+    <item index="1">
+      <title>Chapter 2</title>
+      <end_time_offset>860000</end_time_offset>
+      <start_time_offset>552000</start_time_offset>
+    </item>
+    <item index="2">
+      <title>Chapter 3</title>
+      <end_time_offset>1190000</end_time_offset>
+      <start_time_offset>860000</start_time_offset>
+    </item>
+    <item index="3">
+      <title>Chapter 4</title>
+      <end_time_offset>1374000</end_time_offset>
+      <start_time_offset>1190000</start_time_offset>
+    </item>
+    <item index="4">
+      <title>Chapter 5</title>
+      <end_time_offset>1711000</end_time_offset>
+      <start_time_offset>1374000</start_time_offset>
+    </item>
+    <item index="5">
+      <title>Chapter 6</title>
+      <end_time_offset>2042000</end_time_offset>
+      <start_time_offset>1711000</start_time_offset>
+    </item>
+    <item index="6">
+      <title>Chapter 7</title>
+      <end_time_offset>2216000</end_time_offset>
+      <start_time_offset>2042000</start_time_offset>
+    </item>
+    <item index="7">
+      <title>Chapter 8</title>
+      <end_time_offset>2567000</end_time_offset>
+      <start_time_offset>2216000</start_time_offset>
+    </item>
+    <item index="8">
+      <title>Chapter 9</title>
+      <end_time_offset>2697000</end_time_offset>
+      <start_time_offset>2567000</start_time_offset>
+    </item>
+    <item index="9">
+      <title>Chapter 10</title>
+      <end_time_offset>2815000</end_time_offset>
+      <start_time_offset>2697000</start_time_offset>
+    </item>
+    <item index="10">
+      <title>Chapter 11</title>
+      <end_time_offset>2920000</end_time_offset>
+      <start_time_offset>2815000</start_time_offset>
+    </item>
+    <item index="11">
+      <title>Chapter 12</title>
+      <end_time_offset>3008000</end_time_offset>
+      <start_time_offset>2920000</start_time_offset>
+    </item>
+    <item index="12">
+      <title>Chapter 13</title>
+      <end_time_offset>3349000</end_time_offset>
+      <start_time_offset>3008000</start_time_offset>
+    </item>
+    <item index="13">
+      <title>Chapter 14</title>
+      <end_time_offset>3883000</end_time_offset>
+      <start_time_offset>3349000</start_time_offset>
+    </item>
+    <item index="14">
+      <title>Chapter 15</title>
+      <end_time_offset>4133000</end_time_offset>
+      <start_time_offset>3883000</start_time_offset>
+    </item>
+    <item index="15">
+      <title>Chapter 16</title>
+      <end_time_offset>4293000</end_time_offset>
+      <start_time_offset>4133000</start_time_offset>
+    </item>
+    <item index="16">
+      <title>Chapter 17</title>
+      <end_time_offset>4571000</end_time_offset>
+      <start_time_offset>4293000</start_time_offset>
+    </item>
+    <item index="17">
+      <title>Chapter 18</title>
+      <end_time_offset>4824000</end_time_offset>
+      <start_time_offset>4571000</start_time_offset>
+    </item>
+    <item index="18">
+      <title>Chapter 19</title>
+      <end_time_offset>5604000</end_time_offset>
+      <start_time_offset>4824000</start_time_offset>
+    </item>
+    <item index="19">
+      <title>Chapter 20</title>
+      <end_time_offset>6140000</end_time_offset>
+      <start_time_offset>5604000</start_time_offset>
+    </item>
+    <item index="20">
+      <title>Chapter 21</title>
+      <end_time_offset>6572000</end_time_offset>
+      <start_time_offset>6140000</start_time_offset>
+    </item>
+    <item index="21">
+      <title>Chapter 22</title>
+      <end_time_offset>7031000</end_time_offset>
+      <start_time_offset>6572000</start_time_offset>
+    </item>
+    <item index="22">
+      <title>Chapter 23</title>
+      <end_time_offset>-1</end_time_offset>
+      <start_time_offset>7031000</start_time_offset>
+    </item>
+  </chapters>
+  <collections/>
+  <content_rating>PG-13</content_rating>
+  <countries>
+    <item index="0">USA</item>
+  </countries>
+  <directors>
+    <item index="0">
+      <photo>http://image.tmdb.org/t/p/original/yW10jwICM43dxAYQJ4Spq6ivhhh.jpg</photo>
+      <role/>
+      <name>Craig Gillespie</name>
+    </item>
+  </directors>
+  <duration>7020000</duration>
+  <genres>
+    <item index="0">Action</item>
+    <item index="1">Drama</item>
+    <item index="2">History</item>
+    <item index="3">Thriller</item>
+  </genres>
+  <originally_available_at>2016-01-25</originally_available_at>
+  <posters>
+    <item external="True" url="http://image.tmdb.org/t/p/original/hzJkckHKo6H2XJ8x0dAm5ggZ4t6.jpg" sort_order="1" provider="com.plexapp.agents.imdb" media="com.plexapp.agents.imdb_d3efb0f798852d3b0e017116200b3de30a0b6eed"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/kDU6iJx4PaGcl9WyRBg2vlbxet5.jpg" preview="com.plexapp.agents.imdb_82f82db0f2e3cfe338c992970a04cabdc61cc713" sort_order="2" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/my5dlplMoMZ8EdwWhM8SStCKktB.jpg" preview="com.plexapp.agents.imdb_22e271d716c2f1eb1b2062468b2d68c42153ef70" sort_order="3" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/ghx6h0RfzNheyLXlqkhOCt49s4q.jpg" preview="com.plexapp.agents.imdb_e4a105e6cf330a57070f031a840729b5dc19530e" sort_order="4" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/qMPGpLTF8kD90ih5rPUFffHHfeF.jpg" preview="com.plexapp.agents.imdb_3f1e8108cc4ad673e917bb5695d3e7155252817a" sort_order="5" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/w980XatL2ADdSoyIIm6pZKJXJFW.jpg" preview="com.plexapp.agents.imdb_69e38cc315c027e16d6b3f45864a11a98da9d515" sort_order="6" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/piGdJtU0Rw0AKrURvSWoODDPIcX.jpg" preview="com.plexapp.agents.imdb_b533cc3d8d7f9513a9c6108f69f218a4c36db93a" sort_order="7" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/tnExE2PiWgTruvh2krMZMqOF41X.jpg" preview="com.plexapp.agents.imdb_66fdad697a25ada0b8fdad02181bb92b2c31763f" sort_order="8" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/q2mpZF9Csv4PZ3Bfk05DvizfGXm.jpg" preview="com.plexapp.agents.imdb_d76c44487916a0cb419b5b3827416f126d76377c" sort_order="9" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/wAyKxGIiSl1RytGMjWcLoeTrqnZ.jpg" preview="com.plexapp.agents.imdb_95e9a9d2359d343042ddc84c6c4f3ddd6903ee28" sort_order="10" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/isa5AHKJvn8EkI41iasvgzdRk1G.jpg" preview="com.plexapp.agents.imdb_bc6720bd9c1ec1664b6d11d165d29ded05a9b7d1" sort_order="11" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/4619V7rmnqqBBvt3Lh4kbUn3vvP.jpg" preview="com.plexapp.agents.imdb_c8f7b7ce4fddd2030efc5bb671b5c1d5360d594c" sort_order="12" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/pclfnhsmVqfJIGXY6QnHsQVrd9f.jpg" preview="com.plexapp.agents.imdb_e3a50549b25bc05f6e39c0f41d46089fa5b8ca68" sort_order="13" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/lssfU1LbdgQyfCQgD6ziEUrcpTg.jpg" preview="com.plexapp.agents.imdb_2237a2603e2536892439bc09f080fabd081c2bdf" sort_order="14" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/rlM66vHVVaC8htq0ya2ZHacF5bh.jpg" preview="com.plexapp.agents.imdb_efe35e16a98146a1da2b483932eb9bc9c3f85307" sort_order="15" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/oQprNHqPRkOHhYEW1WfLwFYymHE.jpg" preview="com.plexapp.agents.imdb_473c65941cc1ed2c968474f930cc817066b5f2a3" sort_order="16" provider="com.plexapp.agents.imdb"/>
+  </posters>
+  <producers>
+    <item index="0">
+      <photo/>
+      <role/>
+      <name>Dorothy Aufiero</name>
+    </item>
+    <item index="1">
+      <photo/>
+      <role/>
+      <name>James Whitaker</name>
+    </item>
+  </producers>
+  <rating>6.4</rating>
+  <rating_image>rottentomatoes://image.rating.ripe</rating_image>
+  <audience_rating>6.6</audience_rating>
+  <audience_rating_image>rottentomatoes://image.rating.spilled</audience_rating_image>
+  <reviews>
+    <item index="0">
+      <text>I expected nothing special and wound up being thoroughly exhilarated.</text>
+      <source>New York Observer</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>http://observer.com/2016/02/the-finest-hours-is-a-fact-based-rescue-epic-in-3-d/</link>
+      <author>Rex Reed</author>
+    </item>
+    <item index="1">
+      <text>Too few of Hollywood's recent offerings can boast such a simple throughline and know when to wrap it up.</text>
+      <source>The Atlantic</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>http://www.theatlantic.com/entertainment/archive/2016/01/the-finest-hours-a-stoic-tale-of-a-daring-rescue/433911/</link>
+      <author>David Sims</author>
+    </item>
+    <item index="2">
+      <text>A remarkable tale, confusingly told. Impressive storm sequences and a very good Pine almost save the day.</text>
+      <source>Newsday</source>
+      <image>rottentomatoes://image.review.rotten</image>
+      <link>http://www.newsday.com/entertainment/movies/the-finest-hours-review-chris-pine-almost-saves-the-day-in-confusingly-told-true-rescue-story-1.11404348</link>
+      <author>Rafer Guzman</author>
+    </item>
+    <item index="3">
+      <text>Maybe it's just the History Channel junkie in me, but I would much rather be seeing a documentary about this mission than a trumped-up drama featuring brand-name actors and CGI squalls.</text>
+      <source>Christian Science Monitor</source>
+      <image>rottentomatoes://image.review.rotten</image>
+      <link>http://www.csmonitor.com/The-Culture/Movies/2016/0129/The-Finest-Hours-is-a-seafaring-story-that-s-resolutely-old-fashioned</link>
+      <author>Peter Rainer</author>
+    </item>
+    <item index="4">
+      <text>It feels like a parody of a prestige film, like one of the fake Oscar trailers in "Tropic Thunder."</text>
+      <source>Tribune News Service</source>
+      <image>rottentomatoes://image.review.rotten</image>
+      <link>http://www.duluthnewstribune.com/ae/movies/3934075-movie-review-not-enough-suspense-finest-hours</link>
+      <author>Katie Walsh</author>
+    </item>
+    <item index="5">
+      <text>A straight-up Boys' Own adventure yarn, set sincerely and squarely in early '50s New England but gussied up with plenty of 21st-century StormWave CGI.</text>
+      <source>San Diego Reader</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>http://www.sandiegoreader.com/movies/the-finest-hours/</link>
+      <author>Matthew Lickona</author>
+    </item>
+    <item index="6">
+      <text>The 3-D conversion is so murky that there are long stretches where it is almost impossible to discern what is going on up on the screen.</text>
+      <source>RogerEbert.com</source>
+      <image>rottentomatoes://image.review.rotten</image>
+      <link>http://www.rogerebert.com/reviews/the-finest-hours-2016</link>
+      <author>Peter Sobczynski</author>
+    </item>
+    <item index="7">
+      <text>This disaster flick manages to stay afloat largely thanks to the yeoman efforts of Casey Affleck.</text>
+      <source>New York Post</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>http://nypost.com/2016/01/28/casey-affleck-bails-out-true-ocean-rescue-saga-the-finest-hours/</link>
+      <author>Lou Lumenick</author>
+    </item>
+    <item index="8">
+      <text>There's nothing subtle about The Finest Hours, but much that is satisfying.</text>
+      <source>Globe and Mail</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>http://www.theglobeandmail.com/arts/film/film-reviews/the-finest-hours-coast-guard-heroism-film-rides-one-fierce-roller-after-another/article28438578/</link>
+      <author>Kate Taylor</author>
+    </item>
+    <item index="9">
+      <text>"The Finest Hours" tells a noble story of brave men who risked their lives to help others. Yet its good intentions are suffocated by its showboat style that favors effects over humanity.</text>
+      <source>Detroit News</source>
+      <image>rottentomatoes://image.review.rotten</image>
+      <link>http://www.detroitnews.com/story/entertainment/movies/2016/01/28/movie-review-coast-guard-tribute-finest-hours-lost-sea/79496424/</link>
+      <author>Adam Graham</author>
+    </item>
+    <item index="10">
+      <text>Gillespie (Million Dollar Arm) and his screenwriters laudably strive to keep true to the film's real-life account from 1952... But history often needs more than just the bare facts to make for a satisfying movie.</text>
+      <source>Toronto Star</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>http://www.thestar.com/entertainment/movies/2016/01/28/the-finest-hours-features-mild-men-wild-waves-review.html</link>
+      <author>Peter Howell</author>
+    </item>
+    <item index="11">
+      <text>The life-and-death moments keep it afloat.</text>
+      <source>Toronto Sun</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>http://www.torontosun.com/2016/01/28/the-finest-hours-review-life-and-death-moments-keep-high-seas-drama-afloat</link>
+      <author>Jim Slotek</author>
+    </item>
+    <item index="12">
+      <text>The heroism of that small-boat crew from 1952 deserves a special film. This is not it.</text>
+      <source>Chicago Sun-Times</source>
+      <image>rottentomatoes://image.review.rotten</image>
+      <link>http://entertainment.suntimes.com/entertainment/post/finest-hours-rescuers-heroic-script-wet/</link>
+      <author>Richard Roeper</author>
+    </item>
+    <item index="13">
+      <text>Before scoffers scoff, realize that this tale of nautical derring-do has several things going for it to counteract the inherent obviousness of the material.</text>
+      <source>Los Angeles Times</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>http://www.latimes.com/entertainment/movies/la-et-mn-finest-hours-review-20160129-column.html#nt=outfit</link>
+      <author>Kenneth Turan</author>
+    </item>
+    <item index="14">
+      <text>This thrilling adventure is periodically interrupted by a feeble romantic subplot.</text>
+      <source>Chicago Reader</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>http://www.chicagoreader.com/chicago/the-finest-hours/MovieTimes?oid=20756420</link>
+      <author>J. R. Jones</author>
+    </item>
+    <item index="15">
+      <text>The Finest Hours is all about action, suspense, and tension, and it rarely lets its audience down on any of those accounts.</text>
+      <source>ReelViews</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>http://www.reelviews.net/reelviews/finest-hours-the</link>
+      <author>James Berardinelli</author>
+    </item>
+    <item index="16">
+      <text>It's a movie made for the kind of audiences who feel that movies aren't made for them anymore - you know who you are. If you go, you might want to bring a raincoat.</text>
+      <source>Boston Globe</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>http://www.bostonglobe.com/arts/movies/2016/01/27/coast-guard-comes-rescue-finest-hours/s6GiSeymZL01T0bYt6dPjI/story.html</link>
+      <author>Ty Burr</author>
+    </item>
+    <item index="17">
+      <text>The drama is almost stillborn, thanks to a slow, deadly dull romantic preface, and it's subverted by incessant switching between spectacular struggles on the Atlantic and generic anxieties on shore.</text>
+      <source>Wall Street Journal</source>
+      <image>rottentomatoes://image.review.rotten</image>
+      <link>http://www.wsj.com/articles/the-finest-hours-review-an-imperfect-storm-1454000583</link>
+      <author>Joe Morgenstern</author>
+    </item>
+    <item index="18">
+      <text>"The Finest Hours" is set in the early '50s. But did it really need to feel like it was made during the Eisenhower era?</text>
+      <source>Arizona Republic</source>
+      <image>rottentomatoes://image.review.rotten</image>
+      <link>http://www.azcentral.com/story/entertainment/movies/2016/01/28/finest-hours-movie-review-chris-pine/79361490/</link>
+      <author>Randy Cordova</author>
+    </item>
+    <item index="19">
+      <text>The real reason they don't make them like this these days is that the creators of blockbusters have forgotten that the loss of life is a tragedy, and that seeing it saved is more edifying than seeing it snuffed.</text>
+      <source>Village Voice</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>http://www.villagevoice.com/film/the-finest-hours-is-square-all-right-but-also-exciting-and-humane-8196771</link>
+      <author>Alan Scherstuhl</author>
+    </item>
+  </reviews>
+  <roles>
+    <item index="0">
+      <photo>http://image.tmdb.org/t/p/original/vSe6sIsdtcoqBhuWRXynahFg8Vf.jpg</photo>
+      <role>Bernie Webber</role>
+      <name>Chris Pine</name>
+    </item>
+    <item index="1">
+      <photo>http://image.tmdb.org/t/p/original/kPNMpiZHsAzeQar4DiNsrekwHBU.jpg</photo>
+      <role>Ray Sybert</role>
+      <name>Casey Affleck</name>
+    </item>
+    <item index="2">
+      <photo>http://image.tmdb.org/t/p/original/kETVqU8PMDM44wM5mxPeegdGt2F.jpg</photo>
+      <role>Richard Livesey</role>
+      <name>Ben Foster</name>
+    </item>
+    <item index="3">
+      <photo>http://image.tmdb.org/t/p/original/36As49OkTNvT96CzzjXNuKMeuyx.jpg</photo>
+      <role>Daniel Cluff</role>
+      <name>Eric Bana</name>
+    </item>
+    <item index="4">
+      <photo>http://image.tmdb.org/t/p/original/6hIz4Tu4TojIW5gITv1dw1cRSA3.jpg</photo>
+      <role>Miriam Webber</role>
+      <name>Holliday Grainger</name>
+    </item>
+    <item index="5">
+      <photo>http://image.tmdb.org/t/p/original/6EXZm45aPUOERq2rCrUnkz3sGoc.jpg</photo>
+      <role>Wallace Quirey</role>
+      <name>John Ortiz</name>
+    </item>
+    <item index="6">
+      <photo>http://image.tmdb.org/t/p/original/itzNqPkp0LIyRLyLHEZFx8up0PQ.jpg</photo>
+      <role>Andy Fitzgerald</role>
+      <name>Kyle Gallner</name>
+    </item>
+    <item index="7">
+      <photo>http://image.tmdb.org/t/p/original/v1SUpbMcu46dRBACoTnzkdfBgIn.jpg</photo>
+      <role>Ervin Maske</role>
+      <name>John Magaro</name>
+    </item>
+    <item index="8">
+      <photo>http://image.tmdb.org/t/p/original/eqxR4TGXcY0vLLqR5RkfgVXBgrS.jpg</photo>
+      <role>Frank Fauteux</role>
+      <name>Graham McTavish</name>
+    </item>
+    <item index="9">
+      <photo>http://image.tmdb.org/t/p/original/35kiFPR1MhaoNbBJYg8wWi187TW.jpg</photo>
+      <role>D.A. Brown</role>
+      <name>Michael Raymond-James</name>
+    </item>
+    <item index="10">
+      <photo>http://image.tmdb.org/t/p/original/l7gVvAILEZch00Axn3u3joCPr85.jpg</photo>
+      <role>Mel Gouthro</role>
+      <name>Beau Knapp</name>
+    </item>
+    <item index="11">
+      <photo>http://image.tmdb.org/t/p/original/x9ZQibxASPwVWGeQn4Y5dcU2ZJG.jpg</photo>
+      <role>Tchuda Southerland</role>
+      <name>Josh Stewart</name>
+    </item>
+    <item index="12">
+      <photo>http://image.tmdb.org/t/p/original/f5o2JsFVIqi0kFbvgXVgriap9cA.jpg</photo>
+      <role>George 'Tiny' Myers</role>
+      <name>Abraham Benrubi</name>
+    </item>
+    <item index="13">
+      <photo>http://image.tmdb.org/t/p/original/d2APuABXn7sFUEThmlzPz3EyjUf.jpg</photo>
+      <role>Eldon Hanan</role>
+      <name>Keiynan Lonsdale</name>
+    </item>
+    <item index="14">
+      <photo>http://image.tmdb.org/t/p/original/ySfFf8MMfj2Unw0wBl1u2CMDVYV.jpg</photo>
+      <role>Bea Hansen</role>
+      <name>Rachel Brosnahan</name>
+    </item>
+    <item index="15">
+      <photo>http://image.tmdb.org/t/p/original/yiAiTL7p2x75KLTKGgLmNHJmgjG.jpg</photo>
+      <role>Donald Bangs</role>
+      <name>Benjamin Koldyke</name>
+    </item>
+    <item index="16">
+      <photo>http://image.tmdb.org/t/p/original/nO9Yhz7ERzATcHploljXgR4cAq.jpg</photo>
+      <role>Carl Nickerson</role>
+      <name>Matthew Maher</name>
+    </item>
+    <item index="17">
+      <photo/>
+      <role>Domingo Garcia</role>
+      <name>Jesse Gabbard</name>
+    </item>
+    <item index="18">
+      <photo>http://image.tmdb.org/t/p/original/8nWRyKqew5FN4uSJsZ8iA6GezJH.jpg</photo>
+      <role>John Stello</role>
+      <name>Alexander Cook</name>
+    </item>
+    <item index="19">
+      <photo/>
+      <role>Dave Ryder</role>
+      <name>Danny Connelly</name>
+    </item>
+    <item index="20">
+      <photo/>
+      <role>Catherine Paine</role>
+      <name>Angela Hope Smith</name>
+    </item>
+    <item index="21">
+      <photo>http://image.tmdb.org/t/p/original/3j3TU6CT87bnFTeVzLQNsGkyKCb.jpg</photo>
+      <role>Fisherman at Bar</role>
+      <name>John Franchi</name>
+    </item>
+  </roles>
+  <similar>
+    <item index="0">13 Hours: The Secret Soldiers of Benghazi</item>
+    <item index="1">Criminal</item>
+    <item index="2">In the Heart of the Sea</item>
+    <item index="3">The 33</item>
+    <item index="4">Deepwater Horizon</item>
+    <item index="5">Eye in the Sky</item>
+    <item index="6">Triple 9</item>
+    <item index="7">Blood Father</item>
+    <item index="8">Money Monster</item>
+    <item index="9">No Escape</item>
+    <item index="10">London Has Fallen</item>
+    <item index="11">Free State of Jones</item>
+    <item index="12">Patriots Day</item>
+    <item index="13">Midnight Special</item>
+    <item index="14">The Trust</item>
+    <item index="15">Eddie the Eagle</item>
+    <item index="16">The Wave</item>
+    <item index="17">Everest</item>
+    <item index="18">Whiskey Tango Foxtrot</item>
+    <item index="19">Bastille Day</item>
+  </similar>
+  <studio>Walt Disney Pictures</studio>
+  <summary>The Coast Guard makes a daring rescue attempt off the coast of Cape Cod after a pair of oil tankers are destroyed during a blizzard in 1952.</summary>
+  <tagline>32 survivors, room for 12.</tagline>
+  <tags/>
+  <themes/>
+  <title>The Finest Hours</title>
+  <writers>
+    <item index="0">
+      <photo>http://image.tmdb.org/t/p/original/vRblvymfxaMd7Lsqs4ypVAfnJK.jpg</photo>
+      <role/>
+      <name>Scott Silver</name>
+    </item>
+    <item index="1">
+      <photo/>
+      <role/>
+      <name>Eric Johnson</name>
+    </item>
+    <item index="2">
+      <photo/>
+      <role/>
+      <name>Paul Tamasy</name>
+    </item>
+  </writers>
+  <year>2016</year>
+</Movie>

@@ -1,0 +1,404 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Movie>
+  <art>
+    <item external="True" url="http://image.tmdb.org/t/p/original/nxgjBHFYz5r1y7q5xQbUOuTHoOg.jpg" sort_order="1" provider="com.plexapp.agents.imdb" media="com.plexapp.agents.imdb_3447201c276431852523ec4a8f90bfcc7f710422"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/l7D6BvLDgEsCFJsP5mjVSZg3cDb.jpg" preview="com.plexapp.agents.imdb_147b408948a62682c9890a0ae6cdc933c219ad95" sort_order="2" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/4jGzXBJD8EYL638Qg9BShnc6mHk.jpg" preview="com.plexapp.agents.imdb_4c9da806709fdc97ebc976b109b31a669e9898c5" sort_order="3" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/7zgpqEAM2EssMaJPYP1i4P7WNSo.jpg" preview="com.plexapp.agents.imdb_ef08d6e0b5d41ebae9260c66614b6f9af30f71eb" sort_order="4" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/9RS97cRcntzlAWlLwUNdUzDEDsA.jpg" preview="com.plexapp.agents.imdb_02ccfd68d7cec2c3af574c87ce18d7654680635c" sort_order="5" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/cXcPYkni9J8JsRfNVmepmyidMp9.jpg" preview="com.plexapp.agents.imdb_7bd900f58720d89b0e71d8718957d8523b662ede" sort_order="6" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/uNKMgNqdl0EFjk8dJmwmAqynuKP.jpg" preview="com.plexapp.agents.imdb_c3db339be088c315b398f5c1ef5e647bfbea4efd" sort_order="7" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/3ifVAlcCNLlMzySGzWEjWxGEsqO.jpg" preview="com.plexapp.agents.imdb_3c8409059dd3adaf72aa6964110ed7dcac97d618" sort_order="8" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/sRwTLSWgW2WAXrzFS7mgad6K8SA.jpg" preview="com.plexapp.agents.imdb_c25a13b9d4cd265e13511a476c5ca874a2c516a8" sort_order="9" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/1wOPbx8gjKi3gFRWvQrKwGhFLlP.jpg" preview="com.plexapp.agents.imdb_5673fb27e0e0262a143fc346da2714d13a4ca197" sort_order="10" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/bDlfQBLRXaj3v6TgbQq1vD5dgTp.jpg" preview="com.plexapp.agents.imdb_d0c4846d568d382ebf707b3784144895c5c1bde0" sort_order="11" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/vghWCt7h32mByzo8yZvgEBFtE72.jpg" preview="com.plexapp.agents.imdb_710f3896c48ff2f0a6893cb977536241bdb7fdde" sort_order="12" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/5VrfjbaqZ5Wt44DqBVgELZoAyxH.jpg" preview="com.plexapp.agents.imdb_08d0fc3160d21e90c0feb10bd2c0c2a595b0949f" sort_order="13" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/xvm4tUsPcuWqoOHqMvo2Y1TLgxJ.jpg" preview="com.plexapp.agents.imdb_60b0442f994d59073f404c96c3581ce2357fcbc7" sort_order="14" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/hqRDjt9XcrOvHjQFewx3ILUL0Do.jpg" preview="com.plexapp.agents.imdb_0fa6d43905f89c49ded338225f84b6030f44f63f" sort_order="15" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/fnpWUBY8WU76NdgBCKRBiMxQkw9.jpg" preview="com.plexapp.agents.imdb_df449f355bd1ddaf04c15b27182d1c55bf4ed7c0" sort_order="16" provider="com.plexapp.agents.imdb"/>
+  </art>
+  <banners/>
+  <chapters>
+    <item index="0">
+      <title>01.Open Credits</title>
+      <end_time_offset>135000</end_time_offset>
+      <start_time_offset>0</start_time_offset>
+    </item>
+    <item index="1">
+      <title>02.Los Angeles Island</title>
+      <end_time_offset>391000</end_time_offset>
+      <start_time_offset>135000</start_time_offset>
+    </item>
+    <item index="2">
+      <title>03."Call Me Snake"</title>
+      <end_time_offset>582000</end_time_offset>
+      <start_time_offset>391000</start_time_offset>
+    </item>
+    <item index="3">
+      <title>04.The Black Box</title>
+      <end_time_offset>824000</end_time_offset>
+      <start_time_offset>582000</start_time_offset>
+    </item>
+    <item index="4">
+      <title>05.The Plutoxin Seven Virus</title>
+      <end_time_offset>955000</end_time_offset>
+      <start_time_offset>824000</start_time_offset>
+    </item>
+    <item index="5">
+      <title>06."Bye-Bye, Snake"</title>
+      <end_time_offset>1174000</end_time_offset>
+      <start_time_offset>955000</start_time_offset>
+    </item>
+    <item index="6">
+      <title>07.Shark 3 Submarine</title>
+      <end_time_offset>1331000</end_time_offset>
+      <start_time_offset>1174000</start_time_offset>
+    </item>
+    <item index="7">
+      <title>08.Beach-Head at Cahuenga Pass</title>
+      <end_time_offset>1535000</end_time_offset>
+      <start_time_offset>1331000</start_time_offset>
+    </item>
+    <item index="8">
+      <title>09.The New Hollywood</title>
+      <end_time_offset>1736000</end_time_offset>
+      <start_time_offset>1535000</start_time_offset>
+    </item>
+    <item index="9">
+      <title>10."Watch the Parade"</title>
+      <end_time_offset>1936000</end_time_offset>
+      <start_time_offset>1736000</start_time_offset>
+    </item>
+    <item index="10">
+      <title>11.Bangkok Rules</title>
+      <end_time_offset>2099000</end_time_offset>
+      <start_time_offset>1936000</start_time_offset>
+    </item>
+    <item index="11">
+      <title>12.Map to the Stars Eddie</title>
+      <end_time_offset>2260000</end_time_offset>
+      <start_time_offset>2099000</start_time_offset>
+    </item>
+    <item index="12">
+      <title>13.Surgeon General of Beverly Hills</title>
+      <end_time_offset>2459000</end_time_offset>
+      <start_time_offset>2260000</start_time_offset>
+    </item>
+    <item index="13">
+      <title>14.Black Jihad Gunrunner</title>
+      <end_time_offset>2777000</end_time_offset>
+      <start_time_offset>2459000</start_time_offset>
+    </item>
+    <item index="14">
+      <title>15.Shot with the Fun Gun</title>
+      <end_time_offset>2866000</end_time_offset>
+      <start_time_offset>2777000</start_time_offset>
+    </item>
+    <item index="15">
+      <title>16.Sword of Damocles</title>
+      <end_time_offset>3139000</end_time_offset>
+      <start_time_offset>2866000</start_time_offset>
+    </item>
+    <item index="16">
+      <title>17."Basketball. Two Hoops. Full Court"</title>
+      <end_time_offset>3567000</end_time_offset>
+      <start_time_offset>3139000</start_time_offset>
+    </item>
+    <item index="17">
+      <title>18.Snake on the Loose</title>
+      <end_time_offset>3826000</end_time_offset>
+      <start_time_offset>3567000</start_time_offset>
+    </item>
+    <item index="18">
+      <title>19.Tsunami</title>
+      <end_time_offset>4069000</end_time_offset>
+      <start_time_offset>3826000</start_time_offset>
+    </item>
+    <item index="19">
+      <title>20.Hershe</title>
+      <end_time_offset>4318000</end_time_offset>
+      <start_time_offset>4069000</start_time_offset>
+    </item>
+    <item index="20">
+      <title>21.Night Wind</title>
+      <end_time_offset>4388000</end_time_offset>
+      <start_time_offset>4318000</start_time_offset>
+    </item>
+    <item index="21">
+      <title>22.The Happy Kingdom</title>
+      <end_time_offset>4644000</end_time_offset>
+      <start_time_offset>4388000</start_time_offset>
+    </item>
+    <item index="22">
+      <title>23.Death From Above</title>
+      <end_time_offset>4948000</end_time_offset>
+      <start_time_offset>4644000</start_time_offset>
+    </item>
+    <item index="23">
+      <title>24."Get the Antidote I'm Coming in"</title>
+      <end_time_offset>5206000</end_time_offset>
+      <start_time_offset>4948000</start_time_offset>
+    </item>
+    <item index="24">
+      <title>25.Worldwide Broadcast</title>
+      <end_time_offset>5353000</end_time_offset>
+      <start_time_offset>5206000</start_time_offset>
+    </item>
+    <item index="25">
+      <title>26."The Name's Plissken"</title>
+      <end_time_offset>5556000</end_time_offset>
+      <start_time_offset>5353000</start_time_offset>
+    </item>
+    <item index="26">
+      <title>27.End Credits</title>
+      <end_time_offset>-1</end_time_offset>
+      <start_time_offset>5556000</start_time_offset>
+    </item>
+  </chapters>
+  <collections/>
+  <content_rating>R</content_rating>
+  <countries>
+    <item index="0">USA</item>
+  </countries>
+  <directors>
+    <item index="0">
+      <photo>http://image.tmdb.org/t/p/original/jGprVNNSmlJzLNhm2tcdmjquLyL.jpg</photo>
+      <role/>
+      <name>John Carpenter</name>
+    </item>
+  </directors>
+  <duration>6060000</duration>
+  <genres>
+    <item index="0">Action</item>
+    <item index="1">Adventure</item>
+    <item index="2">Sci-Fi</item>
+    <item index="3">Thriller</item>
+  </genres>
+  <originally_available_at>1996-08-09</originally_available_at>
+  <posters>
+    <item external="True" url="http://image.tmdb.org/t/p/original/oR8E10bBEivuw4D946QKjwGhGxm.jpg" sort_order="1" provider="com.plexapp.agents.imdb" media="com.plexapp.agents.imdb_b58aa3b9e9b5418d572d077611e296293a7246e8"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/rAjz6XFC6Zs07oraJSnajbaAbG9.jpg" preview="com.plexapp.agents.imdb_65d436907544a0e8de34ce74187604d7636942ad" sort_order="2" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/kyps85aHua0TLbfLC9U1hfxlH4K.jpg" preview="com.plexapp.agents.imdb_82362cb238436fceceabb15b0f65fdf4a656bbe9" sort_order="3" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/dvuCAvEJaTPMHXdP0Td2NIV2Tv1.jpg" preview="com.plexapp.agents.imdb_d5bf7ce4a366f25d57a90734f7c47bba6dea931f" sort_order="4" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/iVmwWw2ddaHIbvkzaSl5lgH02MT.jpg" preview="com.plexapp.agents.imdb_eb1969df6d747c3457ec3aeee39fcacd9e62f6f6" sort_order="5" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/edJzJali1V5PS7dCMyLt8cPf3DG.jpg" preview="com.plexapp.agents.imdb_efe4b5d9cc4a0fff6a90a40513401005de95e74d" sort_order="6" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/uZSCazMYeimEccDRvSrT3K3J5LZ.jpg" preview="com.plexapp.agents.imdb_37bbc34b3c48ac01777e98c3fd5cf7b2382cbe6a" sort_order="7" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/du6C4KmA3w4WXRUsEcuFIdMjkRP.jpg" preview="com.plexapp.agents.imdb_9245c958a0bf764c3d92d9bce735e710b292c340" sort_order="8" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/1JwM4gritaWCoahB67lXweqeoYl.jpg" preview="com.plexapp.agents.imdb_6fdb0c1a17a14a2bf1f88b0793b33cb793430d56" sort_order="9" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/44aIcBNxrLcmQpD9A2Z9XoTDr7V.jpg" preview="com.plexapp.agents.imdb_44a8e3af0450acdd111f59c9c8078f24f8924b39" sort_order="10" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/sHWWG1IrVmiW7YlE3B63Th5UWNZ.jpg" preview="com.plexapp.agents.imdb_c2ab95ab8fc596059c31fbfd67efb6399df51394" sort_order="11" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/sBTiH0X83oNun8HXjTBJnUU8faU.jpg" preview="com.plexapp.agents.imdb_cf9399f300564a9b6290f749c4b27b7408c774b5" sort_order="12" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/96e1rOPLXtUlfyDOi0UHjwRi0Fw.jpg" preview="com.plexapp.agents.imdb_a9bff53732b3e33a23d343bc3f14e83f2f29c700" sort_order="13" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/uMT7Z4vzShq0wkiti85uPM7EeBZ.jpg" preview="com.plexapp.agents.imdb_8f0496db514022c8b3803838236c1cd604794530" sort_order="14" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/ylk8h4ia5jqVWggcUVB8QlsmIcZ.jpg" preview="com.plexapp.agents.imdb_97cad3e9211c9867b0ce892e71010b56e38d676c" sort_order="15" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/sbNHo7UhXVTAGExrWibnmRLNfKC.jpg" preview="com.plexapp.agents.imdb_e61bef5f8cf54f31d4d2f6db8903cef9104c1297" sort_order="16" provider="com.plexapp.agents.imdb"/>
+  </posters>
+  <producers>
+    <item index="0">
+      <photo/>
+      <role/>
+      <name>Debra Hill</name>
+    </item>
+    <item index="1">
+      <photo>http://image.tmdb.org/t/p/original/rlnFuNkisPpuypARI7QaGCmOY6V.jpg</photo>
+      <role/>
+      <name>Kurt Russell</name>
+    </item>
+  </producers>
+  <rating>5.2</rating>
+  <rating_image>rottentomatoes://image.rating.rotten</rating_image>
+  <audience_rating>3.9</audience_rating>
+  <audience_rating_image>rottentomatoes://image.rating.spilled</audience_rating_image>
+  <reviews>
+    <item index="0">
+      <text>Enjoyable in a playful way</text>
+      <source>Washington Post</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>http://www.washingtonpost.com/wp-srv/style/longterm/review96/escapefromlahowe.htm</link>
+      <author>Desson Thomson</author>
+    </item>
+    <item index="1">
+      <text>Dark, percussive and perversely fun.</text>
+      <source>San Francisco Chronicle</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>http://www.sfgate.com/cgi-bin/article.cgi?f=/c/a/1996/08/09/DD31214.DTL</link>
+      <author>Peter Stack</author>
+    </item>
+    <item index="2">
+      <text>Escape from L.A. is too preposterous to be a good film. But in keeping with its title, it does provide a couple of hours of entertaining escapism.</text>
+      <source>Globe and Mail</source>
+      <image>rottentomatoes://image.review.rotten</image>
+      <link>http://www.globeandmail.com/servlet/ArticleNews/movie/TVCONNECT/00010101/102530</link>
+      <author>Christopher Harris</author>
+    </item>
+    <item index="3">
+      <text>Buscemi, Fonda, Robertson, Grier and many others get to make vivid impressions, but of course it's Russell who must carry this swiftly paced picture. As rugged as ever and attractively weathered, he does so with ease.</text>
+      <source>Los Angeles Times</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>http://www.calendarlive.com/movies/reviews/cl-movie960809-4,0,6595972.story</link>
+      <author>Kevin Thomas</author>
+    </item>
+    <item index="4">
+      <text>A significant improvement over the first Snake Plisskin adventure.</text>
+      <source>ReelViews</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>http://www.reelviews.net/movies/e/escape_la.html</link>
+      <author>James Berardinelli</author>
+    </item>
+    <item index="5">
+      <text>A poetic pulp movie made with joy.</text>
+      <source>Chicago Reader</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>http://www.chireader.com/movies/archives/0896/08306.html</link>
+      <author>Jonathan Rosenbaum</author>
+    </item>
+    <item index="6">
+      <text>Tries but fails to be an action-hero flick or even a parody of one.</text>
+      <source>Washington Post</source>
+      <image>rottentomatoes://image.review.rotten</image>
+      <link>http://www.washingtonpost.com/wp-srv/style/longterm/review96/escapefromlaiverem.htm</link>
+      <author>Esther Iverem</author>
+    </item>
+    <item index="7">
+      <text>This is the kind of movie Independence Day could have been if it hadn't played it safe.</text>
+      <source>Chicago Sun-Times</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>http://www.rogerebert.com/reviews/escape-from-la-1996</link>
+      <author>Roger Ebert</author>
+    </item>
+  </reviews>
+  <roles>
+    <item index="0">
+      <photo>http://image.tmdb.org/t/p/original/rlnFuNkisPpuypARI7QaGCmOY6V.jpg</photo>
+      <role>Snake Plissken</role>
+      <name>Kurt Russell</name>
+    </item>
+    <item index="1">
+      <photo>http://image.tmdb.org/t/p/original/9G0urAVBBP9FRX1wrxkdZCj3VCW.jpg</photo>
+      <role>Malloy</role>
+      <name>Stacy Keach</name>
+    </item>
+    <item index="2">
+      <photo>http://image.tmdb.org/t/p/original/ieDyVKnQHo7eMGu1GOE7YYr2Fk4.jpg</photo>
+      <role>Eddie</role>
+      <name>Steve Buscemi</name>
+    </item>
+    <item index="3">
+      <photo>http://image.tmdb.org/t/p/original/k4oITsTAfhmYICLkFBvgotnEcpU.jpg</photo>
+      <role>Hershe Las Palamas</role>
+      <name>Pam Grier</name>
+    </item>
+    <item index="4">
+      <photo>http://image.tmdb.org/t/p/original/q8DvYrkVZ6GajgU2V771Y0dOGWy.jpg</photo>
+      <role>President</role>
+      <name>Cliff Robertson</name>
+    </item>
+    <item index="5">
+      <photo>http://image.tmdb.org/t/p/original/utHopC4vFaWuCTSBAiUghzyix0P.jpg</photo>
+      <role>Cuervo Jones</role>
+      <name>Georges Corraface</name>
+    </item>
+    <item index="6">
+      <photo>http://image.tmdb.org/t/p/original/6xjsXKZs23a1Vzdw4uSUiV64BFS.jpg</photo>
+      <role>Brazen</role>
+      <name>Michelle Forbes</name>
+    </item>
+    <item index="7">
+      <photo>http://image.tmdb.org/t/p/original/6UmnZGoZkmqMrkTY1roIkCzB4rn.jpg</photo>
+      <role>Taslima</role>
+      <name>Valeria Golino</name>
+    </item>
+    <item index="8">
+      <photo>http://image.tmdb.org/t/p/original/iA2AfnJZBDgZEcZrjryq7RwGjER.jpg</photo>
+      <role>Utopia</role>
+      <name>A. J. Langer</name>
+    </item>
+    <item index="9">
+      <photo>http://image.tmdb.org/t/p/original/dgorN06SQ9ZNL2NY3I7BNxg93lc.jpg</photo>
+      <role>Pipeline</role>
+      <name>Peter Fonda</name>
+    </item>
+    <item index="10">
+      <photo>http://image.tmdb.org/t/p/original/hZ2fW0gpPIBvXxT5suJzaPZQCz.jpg</photo>
+      <role>Surgeon General of Beverly Hills</role>
+      <name>Bruce Campbell</name>
+    </item>
+    <item index="11">
+      <photo>http://image.tmdb.org/t/p/original/2XnpH5LOE7Ln0JMhFTT73QscLQh.jpg</photo>
+      <role>Test Tube</role>
+      <name>Leland Orser</name>
+    </item>
+    <item index="12">
+      <photo/>
+      <role>Saigon Shadow</role>
+      <name>Jeff Imada</name>
+    </item>
+    <item index="13">
+      <photo>http://image.tmdb.org/t/p/original/imOF8DbaIQ7HENiSAZsNWEQ3MiY.jpg</photo>
+      <role>Hershe Gang Member</role>
+      <name>Al Leong</name>
+    </item>
+    <item index="14">
+      <photo>http://image.tmdb.org/t/p/original/9aB4RsUv0lKxtmBdWd3PH1JA6jY.jpg</photo>
+      <role>Hershe Gang Member</role>
+      <name>James Lew</name>
+    </item>
+    <item index="15">
+      <photo>http://image.tmdb.org/t/p/original/xhLfC2mjT6uarwkPPxcez0biG2B.jpg</photo>
+      <role>Mescalito (uncredited)</role>
+      <name>Julien Cesario</name>
+    </item>
+    <item index="16">
+      <photo>http://image.tmdb.org/t/p/original/7V3hXjmSJXApsuu2aGkEgFFAy03.jpg</photo>
+      <role>Surfer</role>
+      <name>Breckin Meyer</name>
+    </item>
+  </roles>
+  <similar>
+    <item index="0">Escape from New York</item>
+    <item index="1">Ghosts of Mars</item>
+    <item index="2">Vampires</item>
+    <item index="3">Conan the Destroyer</item>
+    <item index="4">Red Heat</item>
+    <item index="5">Timecop</item>
+    <item index="6">Fortress</item>
+    <item index="7">Hudson Hawk</item>
+    <item index="8">Big Trouble in Little China</item>
+    <item index="9">Soldier</item>
+    <item index="10">Johnny Mnemonic</item>
+    <item index="11">The Running Man</item>
+    <item index="12">Broken Arrow</item>
+    <item index="13">Judge Dredd</item>
+    <item index="14">Executive Decision</item>
+    <item index="15">Tango &amp; Cash</item>
+    <item index="16">Cop Land</item>
+    <item index="17">Universal Soldier</item>
+    <item index="18">Darkman</item>
+    <item index="19">Eraser</item>
+  </similar>
+  <studio>Paramount</studio>
+  <summary>This time, a cataclysmic temblor hits Los Angeles, turning it into an island. The president views the quake as a sign from above, expels Los Angeles from the country and makes it a penal colony for those found guilty of moral crimes. When his daughter, part of a resistance movement, steals the control unit for a doomsday weapon, Snake again gets tapped to save the day.</summary>
+  <tagline>Snake Is Back.</tagline>
+  <tags/>
+  <themes/>
+  <title>Escape from L.A.</title>
+  <writers>
+    <item index="0">
+      <photo>http://image.tmdb.org/t/p/original/jGprVNNSmlJzLNhm2tcdmjquLyL.jpg</photo>
+      <role/>
+      <name>John Carpenter</name>
+    </item>
+    <item index="1">
+      <photo/>
+      <role/>
+      <name>Debra Hill</name>
+    </item>
+    <item index="2">
+      <photo>http://image.tmdb.org/t/p/original/rlnFuNkisPpuypARI7QaGCmOY6V.jpg</photo>
+      <role/>
+      <name>Kurt Russell</name>
+    </item>
+  </writers>
+  <year>1996</year>
+</Movie>

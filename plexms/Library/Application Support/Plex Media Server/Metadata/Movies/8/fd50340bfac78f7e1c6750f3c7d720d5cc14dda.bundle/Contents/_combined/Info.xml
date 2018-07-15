@@ -1,0 +1,396 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Movie>
+  <art>
+    <item external="True" url="http://image.tmdb.org/t/p/original/xsdHLhCZgwLmMxW1kHenW1CYpVa.jpg" sort_order="1" provider="com.plexapp.agents.imdb" media="com.plexapp.agents.imdb_df199801c858f21687bdde6d555cd67335668cf1"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/bPeV65j50zoiPLoJy5vFZsqpPZm.jpg" preview="com.plexapp.agents.imdb_8a6e6cb749bedfdb17aa590c2bf9628c2adcea9f" sort_order="2" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/eQkaPwMpJARFoPvbbNz2Z0Kye4O.jpg" preview="com.plexapp.agents.imdb_f5455c7e9b5aace11dd10eec9d72c29bbb3a158b" sort_order="3" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/gfTQaH7h09IaSZw9ubZgP2c7syr.jpg" preview="com.plexapp.agents.imdb_f4912b67bcba530ce2a39f9d80d5d0c242152103" sort_order="4" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/sOtW9xB71EmuDqyzX5a8UAmmYmd.jpg" preview="com.plexapp.agents.imdb_4b5c9ec84385ef93ce5224b3af62a4aace5eaa1e" sort_order="5" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/zWPQ9eM9nEcv3rSAFqBnDjsjOuq.jpg" preview="com.plexapp.agents.imdb_81b3e3b6e8e02c8cd8bb9efcd308ac20552268c5" sort_order="6" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/ok0OrJwHWEBzQI2GGgEhQbc1QE1.jpg" preview="com.plexapp.agents.imdb_83b5edcb6a17105c929269bfbf40b12421896ddd" sort_order="7" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/5H0Ep2ZbuRomI19jUL2LbDj74w1.jpg" preview="com.plexapp.agents.imdb_9c134a4032e374f20449bb565a112a4d5583742b" sort_order="8" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/3kc5RW6Q6lwzmHlRmasAmXLEWT1.jpg" preview="com.plexapp.agents.imdb_c28a48208b005b54613d303a5277ea26990cc5c3" sort_order="9" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/u3K24iMA1CCtBD1efmvPDEwxpRl.jpg" preview="com.plexapp.agents.imdb_89a3eb1d1d12db343669dd3000e4dac30af85a3f" sort_order="10" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/sIdOKA499vfp6d666jOGDE1DixU.jpg" preview="com.plexapp.agents.imdb_b6b06078f1e7f711b9c6159369000ac5f735181d" sort_order="11" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/tONXTm7JOlnR1agdPz4V7esKOm1.jpg" preview="com.plexapp.agents.imdb_6a45077c9ffd06a3079150afe8dffde3e92b5e30" sort_order="12" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/rKchdKG6HGuGQcLgZWg5Jmsh9fj.jpg" preview="com.plexapp.agents.imdb_be23c9ad5a0ce3c61696e658f2f1f6b44c8d2d37" sort_order="13" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/sE47gPHfTSu0ah7TsMZo1drfpD0.jpg" preview="com.plexapp.agents.imdb_021d4bffb4f35b2df1689fd0aa2eaf01cd6549d8" sort_order="14" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/gUlJ45IjOcfXaOaM4wlM7N4Jgyf.jpg" preview="com.plexapp.agents.imdb_9f9b2144c0e3dd17a29b5f00197de075024ad875" sort_order="15" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/meld3BLnDABJbgQiDe5FrJUpX7X.jpg" preview="com.plexapp.agents.imdb_0ce0dcdd9acdd65ca5ebe5e27b94d0232f5b23e8" sort_order="16" provider="com.plexapp.agents.imdb"/>
+  </art>
+  <banners/>
+  <chapters>
+    <item index="0">
+      <title>Chapter 1</title>
+      <end_time_offset>420000</end_time_offset>
+      <start_time_offset>0</start_time_offset>
+    </item>
+    <item index="1">
+      <title>Chapter 2</title>
+      <end_time_offset>825000</end_time_offset>
+      <start_time_offset>420000</start_time_offset>
+    </item>
+    <item index="2">
+      <title>Chapter 3</title>
+      <end_time_offset>1137000</end_time_offset>
+      <start_time_offset>825000</start_time_offset>
+    </item>
+    <item index="3">
+      <title>Chapter 4</title>
+      <end_time_offset>1549000</end_time_offset>
+      <start_time_offset>1137000</start_time_offset>
+    </item>
+    <item index="4">
+      <title>Chapter 5</title>
+      <end_time_offset>1877000</end_time_offset>
+      <start_time_offset>1549000</start_time_offset>
+    </item>
+    <item index="5">
+      <title>Chapter 6</title>
+      <end_time_offset>2304000</end_time_offset>
+      <start_time_offset>1877000</start_time_offset>
+    </item>
+    <item index="6">
+      <title>Chapter 7</title>
+      <end_time_offset>3049000</end_time_offset>
+      <start_time_offset>2304000</start_time_offset>
+    </item>
+    <item index="7">
+      <title>Chapter 8</title>
+      <end_time_offset>3600000</end_time_offset>
+      <start_time_offset>3049000</start_time_offset>
+    </item>
+    <item index="8">
+      <title>Chapter 9</title>
+      <end_time_offset>4089000</end_time_offset>
+      <start_time_offset>3600000</start_time_offset>
+    </item>
+    <item index="9">
+      <title>Chapter 10</title>
+      <end_time_offset>4626000</end_time_offset>
+      <start_time_offset>4089000</start_time_offset>
+    </item>
+    <item index="10">
+      <title>Chapter 11</title>
+      <end_time_offset>5081000</end_time_offset>
+      <start_time_offset>4626000</start_time_offset>
+    </item>
+    <item index="11">
+      <title>Chapter 12</title>
+      <end_time_offset>5445000</end_time_offset>
+      <start_time_offset>5081000</start_time_offset>
+    </item>
+    <item index="12">
+      <title>Chapter 13</title>
+      <end_time_offset>5658000</end_time_offset>
+      <start_time_offset>5445000</start_time_offset>
+    </item>
+    <item index="13">
+      <title>Chapter 14</title>
+      <end_time_offset>6272000</end_time_offset>
+      <start_time_offset>5658000</start_time_offset>
+    </item>
+    <item index="14">
+      <title>Chapter 15</title>
+      <end_time_offset>6706000</end_time_offset>
+      <start_time_offset>6272000</start_time_offset>
+    </item>
+    <item index="15">
+      <title>Chapter 16</title>
+      <end_time_offset>-1</end_time_offset>
+      <start_time_offset>6706000</start_time_offset>
+    </item>
+  </chapters>
+  <collections/>
+  <content_rating>Pg-13</content_rating>
+  <countries>
+    <item index="0">USA</item>
+  </countries>
+  <directors>
+    <item index="0">
+      <photo/>
+      <role/>
+      <name>Dean Israelite</name>
+    </item>
+  </directors>
+  <duration>7440000</duration>
+  <genres>
+    <item index="0">Action</item>
+  </genres>
+  <originally_available_at>2017-03-23</originally_available_at>
+  <posters>
+    <item external="True" url="atom_coverart" media="com.plexapp.agents.localmedia_92206304aa517b8756d458b05f3ffaebda9d044f" provider="com.plexapp.agents.localmedia"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/iRAZIEgfB9N0BObV0QI61Nxh92h.jpg" preview="com.plexapp.agents.imdb_599cba4dd415c16f37cdd64427553e667cf685be" sort_order="1" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/fZ6EClXARG2sDBteE3b9oP1ekNG.jpg" preview="com.plexapp.agents.imdb_fdd7f74ab9c6b5a3f992c6ba07515f6b021ba6d4" sort_order="2" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/zV5rpeTzUJ7QpA3NC4iidlwXssU.jpg" preview="com.plexapp.agents.imdb_84c0a031824212c20fb7cb3acff347f5950ad163" sort_order="3" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/98baQTZXned1ddu2XOWQjnuPGQs.jpg" preview="com.plexapp.agents.imdb_a17538a411dba54bb7cef69dd69112da023cc7f8" sort_order="4" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/mgfqEc9LaQmIb5AX0ZQgB0WtaYx.jpg" preview="com.plexapp.agents.imdb_f998c4845d12848ab75bb099a870f6196b6c8365" sort_order="5" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/xsNPfaUyVVPAAHqYquqBKDzAndS.jpg" preview="com.plexapp.agents.imdb_2a33ee71669d138731f777ff6d8d647a66028507" sort_order="6" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/1bdNRMQnH7psIgFTz6vTp3qprx1.jpg" preview="com.plexapp.agents.imdb_84386294200729e238ba95a913e263fbe583609d" sort_order="7" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/ji4Au8ue7lAyLFWEpmGtusdfE2J.jpg" preview="com.plexapp.agents.imdb_2f471b3555e182eb755a07289f1623aaef232e68" sort_order="8" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/Aex1bdNMk15KhvZI6m06aIS1WL4.jpg" preview="com.plexapp.agents.imdb_e0c88eae0a62828986271dc6f2d3bfae28c42ce1" sort_order="9" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/2KwSzgkjZBKYS0U65lOGLiYCOqt.jpg" preview="com.plexapp.agents.imdb_9767a238bf220b9fb89e075cba3b537129b986b3" sort_order="10" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/74H3Y8cc2GA6tqHjdwsljHiHwYH.jpg" preview="com.plexapp.agents.imdb_ae0378f3c91656bb8653cafb41ae578f51e0a563" sort_order="11" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/9doHgZixKJPEwv4wyGT271GRnGZ.jpg" preview="com.plexapp.agents.imdb_42a592919d2754895312d4e623d430df1f7693d3" sort_order="12" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/8phZwiEvFaCnP5QYdhH0zyTPnHn.jpg" preview="com.plexapp.agents.imdb_756d51bc642562b49fd9e795aba3fa90d2f4da9f" sort_order="13" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/dtEa9iy7jpv6L78gAKBzp9SO26n.jpg" preview="com.plexapp.agents.imdb_60ee95fada7db293c2a9639fb74c26c8975c252b" sort_order="14" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/WpRE1o57G6INSPbFxrKtO3pf7u.jpg" preview="com.plexapp.agents.imdb_acb7237ab85abe46c6273d1ad9d65d296ee44c71" sort_order="15" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/5v83P3OYXSwgDSNQWaDlB3yHE9N.jpg" preview="com.plexapp.agents.imdb_844a3d29a59a76344cb6629691c35dde5cce3421" sort_order="16" provider="com.plexapp.agents.imdb"/>
+  </posters>
+  <producers>
+    <item index="0">
+      <photo/>
+      <role/>
+      <name>Brian Casentini</name>
+    </item>
+    <item index="1">
+      <photo>http://image.tmdb.org/t/p/original/tDfYa9L50WUTbJh4bmPcrKKj5Ku.jpg</photo>
+      <role/>
+      <name>Roberto Orci</name>
+    </item>
+    <item index="2">
+      <photo>http://image.tmdb.org/t/p/original/58tYA6knwdJzhEsVgavDtzby3Yp.jpg</photo>
+      <role/>
+      <name>Haim Saban</name>
+    </item>
+    <item index="3">
+      <photo/>
+      <role/>
+      <name>Wyck Godfrey</name>
+    </item>
+    <item index="4">
+      <photo/>
+      <role/>
+      <name>Marty Bowen</name>
+    </item>
+  </producers>
+  <rating>4.5</rating>
+  <rating_image>rottentomatoes://image.rating.rotten</rating_image>
+  <audience_rating>6.6</audience_rating>
+  <audience_rating_image>rottentomatoes://image.rating.spilled</audience_rating_image>
+  <reviews>
+    <item index="0">
+      <text>As cash grabs go, this one is delightfully unconcerned with coolness, neither shying away from its chintzy roots nor ironically embracing them.</text>
+      <source>New York Magazine/Vulture</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>http://www.vulture.com/2017/03/review-the-new-power-rangers-is-actually-pretty-great.html</link>
+      <author>Emily Yoshida</author>
+    </item>
+    <item index="1">
+      <text>What this Power Rangers does -- unlike the show -- is explore the complexities of our core team: They're imperfect but perfect enough to be selfless and save the world.</text>
+      <source>Time Out</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>https://www.timeout.com/us/film/power-rangers</link>
+      <author>Danny Yu</author>
+    </item>
+    <item index="2">
+      <text>A winning and cartoonish coming-of-age tale about supermodel-pretty misfit kids bonding in the belly of an alien spaceship.</text>
+      <source>The Atlantic</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>https://www.theatlantic.com/entertainment/archive/2017/03/go-go-power-rangers-its-morphin-time-review/520506/</link>
+      <author>David Sims</author>
+    </item>
+    <item index="3">
+      <text>Overall, "Power Rangers" is a sometimes funny but flawed movie full of the action that most people who want to see movies like this crave.</text>
+      <source>New York Daily News</source>
+      <image>rottentomatoes://image.review.rotten</image>
+      <link>http://www.nydailynews.com/entertainment/movies/power-rangers-zip-focus-movie-review-article-1.3007112</link>
+      <author>Amy Rowe</author>
+    </item>
+    <item index="4">
+      <text>A work of soulless indifference.</text>
+      <source>Globe and Mail</source>
+      <image>rottentomatoes://image.review.rotten</image>
+      <link>http://www.theglobeandmail.com/arts/film/film-reviews/power-rangers-just-as-cheap-and-irredeemably-dumb-as-the-original/article34385409/</link>
+      <author>Barry Hertz</author>
+    </item>
+    <item index="5">
+      <text>Ultimately, this is a kids'-property superhero movie about teens getting power from ancient aliens and battling someone named Rita Repulsa (Elizabeth Banks, taking large bites of the scenery). The filmmakers do not forget to have fun with it.</text>
+      <source>San Francisco Chronicle</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>http://www.sfgate.com/entertainment/movies-tv/article/Movie-review-Go-go-see-Power-Rangers-11023434.php</link>
+      <author>Michael Ordona</author>
+    </item>
+    <item index="6">
+      <text>Be warned. The movie is three quarters over before you see any Zords, Megazords or monsters. On the other hand, I rather liked what the filmmakers gave us instead. Power Rangers is almost literally The Breakfast Club with superpowers.</text>
+      <source>Toronto Sun</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>http://www.torontosun.com/2017/03/23/power-rangers-review-new-movie-like-the-breakfast-club-with-superpowers</link>
+      <author>Jim Slotek</author>
+    </item>
+    <item index="7">
+      <text>The five Power Rangers are appealing but bland, as if skimmed from a CW casting call, and Israelite stages the action sequences in a chaotic mass of swish-pans and rapid-fire edits, perhaps to hide the daytime special effects.</text>
+      <source>NPR</source>
+      <image>rottentomatoes://image.review.rotten</image>
+      <link>http://www.npr.org/2017/03/23/520412569/in-the-agreeably-schlocky-power-rangers-transformers-meets-the-breakfast-club?utm_medium=RSS&amp;utm_campaign=movies</link>
+      <author>Scott Tobias</author>
+    </item>
+    <item index="8">
+      <text>If the Rangers are on the CW, Banks is in a universe of her own, stalking about the small town of Angel Grove in hobo dominatrix gear, dramatically stage whispering, "GOLD," "CRYSTALS" and "KRISPY KREME" to no one in particular.</text>
+      <source>Tribune News Service</source>
+      <image>rottentomatoes://image.review.rotten</image>
+      <link>http://missoulian.com/entertainment/movies/movie-review-power-rangers-is-more-goofy-than-gritty/article_45abcd4a-1886-5a89-b039-53e487059863.html</link>
+      <author>Katie Walsh</author>
+    </item>
+    <item index="9">
+      <text>"Saban's Power Rangers" may surpass the original, but for what lesson? The value of teamwork? More likely, of a franchise payoff.</text>
+      <source>New York Times</source>
+      <image>rottentomatoes://image.review.rotten</image>
+      <link>https://www.nytimes.com/2017/03/23/movies/sabans-power-rangers-review.html?_r=0</link>
+      <author>Andy Webster</author>
+    </item>
+    <item index="10">
+      <text>Bring Advil, or something stronger. It's morphine time!</text>
+      <source>Los Angeles Times</source>
+      <image>rottentomatoes://image.review.rotten</image>
+      <link>http://www.latimes.com/entertainment/movies/la-et-mn-power-rangers-review-20170323-story.html#nt=oft03a-1la1</link>
+      <author>Justin Chang</author>
+    </item>
+    <item index="11">
+      <text>You can picture the pitch: if you sort-of liked Power Rangers when it was half recycled footage, wait until you see a version that costs over a hundred million dollars!</text>
+      <source>Toronto Star</source>
+      <image>rottentomatoes://image.review.rotten</image>
+      <link>https://www.thestar.com/entertainment/movies/2017/03/23/power-rangers-movie-should-just-power-off-review.html</link>
+      <author>Ryan Porter</author>
+    </item>
+    <item index="12">
+      <text>The plot and character developments never reach Marvel-levels of script writing, but they're above average for the B- or C-tier stuff you might expect from this movie.</text>
+      <source>Dallas Morning News</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>http://www.guidelive.com/movie-reviews/2017/03/23/power-rangers-reboot-saban</link>
+      <author>Britton Peele</author>
+    </item>
+    <item index="13">
+      <text>This is the conundrum of Power Rangers: The closer it gets to fantasy spectacle, the less imaginative it becomes.</text>
+      <source>AV Club</source>
+      <image>rottentomatoes://image.review.rotten</image>
+      <link>http://www.avclub.com/review/amusing-teen-fantasy-slowly-morphs-clunky-reboot-p-252576</link>
+      <author>Ignatiy Vishnevetsky</author>
+    </item>
+    <item index="14">
+      <text>At over two hours... the movie simply takes too long building up toward the inevitable showdown, which pretty quickly devolves into a lot of CGI-enhanced mayhem that has its moments but isn't quite stirring enough to justify the wait.</text>
+      <source>CNN.com</source>
+      <image>rottentomatoes://image.review.rotten</image>
+      <link>http://www.cnn.com/2017/03/23/entertainment/power-rangers-review/index.html</link>
+      <author>Brian Lowry</author>
+    </item>
+    <item index="15">
+      <text>Some reboots should be booted back where they came from.</text>
+      <source>Minneapolis Star Tribune</source>
+      <image>rottentomatoes://image.review.rotten</image>
+      <link>http://www.startribune.com/mini-reviews-of-raw-power-rangers-and-personal-shopper/416944784/</link>
+      <author>Colin Covert</author>
+    </item>
+    <item index="16">
+      <text>Power Rangers is earnest and it has a good heart. There should be more movies like it, only better-made.</text>
+      <source>RogerEbert.com</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>http://www.rogerebert.com/reviews/power-rangers-2017</link>
+      <author>Matt Zoller Seitz</author>
+    </item>
+    <item index="17">
+      <text>At its best "Power Rangers" plays a little like a low-rent "Breakfast Club." Unfortunately it's not always at its best, and when it's not, you get exactly what you'd expect: generic teen hero fare.</text>
+      <source>Arizona Republic</source>
+      <image>rottentomatoes://image.review.rotten</image>
+      <link>http://www.azcentral.com/story/entertainment/movies/billgoodykoontz/2017/03/23/power-rangers-movie-review-becky-g-elizabeth-banks/99450856/</link>
+      <author>Bill Goodykoontz</author>
+    </item>
+    <item index="18">
+      <text>[A] calculated, derivative attempt to turn a decades-old piece of junk culture into a new pile of box-office cash.</text>
+      <source>Newsday</source>
+      <image>rottentomatoes://image.review.rotten</image>
+      <link>http://www.newsday.com/entertainment/movies/power-rangers-review-misfit-teens-in-cheesy-version-of-90s-tv-show-1.13303740</link>
+      <author>Rafer Guzman</author>
+    </item>
+    <item index="19">
+      <text>Much like the teens at the center, Power Rangers goes through some awkward growing pains in real time trying to figure out what movie it wants to be or even should be.</text>
+      <source>Associated Press</source>
+      <image>rottentomatoes://image.review.rotten</image>
+      <link>http://www.thejakartapost.com/life/2017/03/22/review-so-so-power-rangers-reboot-is-cheesy-self-serious-.html</link>
+      <author>Lindsey Bahr</author>
+    </item>
+  </reviews>
+  <roles>
+    <item index="0">
+      <photo/>
+      <role/>
+      <name>Dacre Montgomery</name>
+    </item>
+    <item index="1">
+      <photo/>
+      <role/>
+      <name>Naomi Scott</name>
+    </item>
+    <item index="2">
+      <photo/>
+      <role/>
+      <name>RJ Cyler</name>
+    </item>
+    <item index="3">
+      <photo/>
+      <role/>
+      <name>Becky G</name>
+    </item>
+    <item index="4">
+      <photo/>
+      <role/>
+      <name>Ludi Lin</name>
+    </item>
+  </roles>
+  <similar>
+    <item index="0">Kong: Skull Island</item>
+    <item index="1">Transformers: The Last Knight</item>
+    <item index="2">Teenage Mutant Ninja Turtles: Out of the Shadows</item>
+    <item index="3">The Great Wall</item>
+    <item index="4">King Arthur: Legend of the Sword</item>
+    <item index="5">The Lego Batman Movie</item>
+    <item index="6">The Mummy</item>
+    <item index="7">Ghost in the Shell</item>
+    <item index="8">Assassin's Creed</item>
+    <item index="9">Guardians of the Galaxy Vol. 2</item>
+    <item index="10">Spider-Man: Homecoming</item>
+    <item index="11">Warcraft</item>
+    <item index="12">Life</item>
+    <item index="13">The Dark Tower</item>
+    <item index="14">Logan</item>
+    <item index="15">Valerian and the City of a Thousand Planets</item>
+    <item index="16">Fantastic Four</item>
+    <item index="17">Wonder Woman</item>
+    <item index="18">X-Men: Apocalypse</item>
+    <item index="19">xXx: Return of Xander Cage</item>
+  </similar>
+  <studio>Lionsgate</studio>
+  <summary>Saban's Power Rangers follows five ordinary teens who must become something extraordinary when they learn that their small town of Angel Grove — and the world — is on the verge of being obliterated by an alien threat. Chosen by destiny, our heroes quickly discover they are the only ones who can save the planet. But to do so, they will have to overcome their real-life issues and before it’s too late, band together as the Power Rangers.</summary>
+  <tagline>Together we are more</tagline>
+  <tags/>
+  <themes/>
+  <title>Power Rangers</title>
+  <writers>
+    <item index="0">
+      <photo/>
+      <role/>
+      <name>John Gatins</name>
+    </item>
+    <item index="1">
+      <photo/>
+      <role/>
+      <name>Matt Sazama</name>
+    </item>
+    <item index="2">
+      <photo/>
+      <role/>
+      <name>Burk Sharpless</name>
+    </item>
+    <item index="3">
+      <photo/>
+      <role/>
+      <name>Michele Mulroney</name>
+    </item>
+    <item index="4">
+      <photo/>
+      <role/>
+      <name>Kieran Mulroney</name>
+    </item>
+  </writers>
+  <year>2017</year>
+</Movie>

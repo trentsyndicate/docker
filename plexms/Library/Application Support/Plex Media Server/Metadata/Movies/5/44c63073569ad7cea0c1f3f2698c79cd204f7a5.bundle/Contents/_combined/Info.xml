@@ -1,0 +1,488 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Movie>
+  <art>
+    <item external="True" url="http://image.tmdb.org/t/p/original/9t5u26lnzdNW1kOpiVo3F6zip7H.jpg" sort_order="1" provider="com.plexapp.agents.imdb" media="com.plexapp.agents.imdb_9d8134b5f73f5226deb9971effc19edc09cc6d5e"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/75GFqrnHMKqkcNZ2wWefWXfqtMV.jpg" preview="com.plexapp.agents.imdb_44c59b859619214dc48ec23d9a8ed62a9067a07a" sort_order="2" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/d9H2nXfKslf6B1cm7UtPBKhtUgA.jpg" preview="com.plexapp.agents.imdb_69b0cc2dab26a795ebea8c131b110e6dce17aba1" sort_order="3" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/pWNBPN8ghaKtGLcQBMwNyM32Wbm.jpg" preview="com.plexapp.agents.imdb_40601cb013dd1a941314200966864bc25c3044b0" sort_order="4" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/pyJ8msc5jxfKoNKCZUWzlNOiw8Y.jpg" preview="com.plexapp.agents.imdb_3ebc3db463deaa34bc0b1d203d68c9a0f5c61875" sort_order="5" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/zKrOi8mTqXZeYuonC4cgMKAlL4R.jpg" preview="com.plexapp.agents.imdb_688280313fc0b899badc1d266722d7c11af80c84" sort_order="6" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/h5wSS4k3r2KFy7EBjjr9LYi8JBW.jpg" preview="com.plexapp.agents.imdb_704ed0fbad498c56dbf3266a8ceb0c22c4903474" sort_order="7" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/pjUHsjYyNTFAC8QKz0zfrPjPPs0.jpg" preview="com.plexapp.agents.imdb_4ed0c7bed315aa62ecb8e2599ce519210273ed71" sort_order="8" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/eXs0gkLkUijQsPCFM8d2quVXz9T.jpg" preview="com.plexapp.agents.imdb_d8e925a2414231ea188768eaafdae8a361c5abfe" sort_order="9" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/8NZN1h4beU26cm8RRhASAUjh6co.jpg" preview="com.plexapp.agents.imdb_fcd7a52e95ac5f661362282a47e910c6bcdeaed7" sort_order="10" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/9YHWR9ad4osgav7TgbM52kTFkap.jpg" preview="com.plexapp.agents.imdb_daa9d23eb868548181169fd1a3d9df210231a873" sort_order="11" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/bYhEgd3isLhmr4scvWEjcnJ4DFe.jpg" preview="com.plexapp.agents.imdb_c65f64bab1382a169cbc492251c6a9a25a4dd859" sort_order="12" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/FAzAoCk5JCkQSBPkl4RCsenFFH.jpg" preview="com.plexapp.agents.imdb_5946042d3bc03d45121ad30f1eabe079951d34da" sort_order="13" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/20MOyt65tnKv6xsummV6cwmnQrI.jpg" preview="com.plexapp.agents.imdb_2327f4a135a3dfee2c57e4b2b41f397efc63a95a" sort_order="14" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/5nuam0CxwMp9MNLhGnJcs3ylVEa.jpg" preview="com.plexapp.agents.imdb_99bb4b80d3782799065a4cff9c7f4c98d1208e29" sort_order="15" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/8OlOMHwVsaawuCm3klZqDbL7vWg.jpg" preview="com.plexapp.agents.imdb_78ddeeb1fc405eb88a64eebdff166da6b6d692f8" sort_order="16" provider="com.plexapp.agents.imdb"/>
+  </art>
+  <banners/>
+  <chapters>
+    <item index="0">
+      <title>Chapter 1</title>
+      <end_time_offset>656000</end_time_offset>
+      <start_time_offset>0</start_time_offset>
+    </item>
+    <item index="1">
+      <title>Chapter 2</title>
+      <end_time_offset>1247000</end_time_offset>
+      <start_time_offset>656000</start_time_offset>
+    </item>
+    <item index="2">
+      <title>Chapter 3</title>
+      <end_time_offset>1706000</end_time_offset>
+      <start_time_offset>1247000</start_time_offset>
+    </item>
+    <item index="3">
+      <title>Chapter 4</title>
+      <end_time_offset>2449000</end_time_offset>
+      <start_time_offset>1706000</start_time_offset>
+    </item>
+    <item index="4">
+      <title>Chapter 5</title>
+      <end_time_offset>3063000</end_time_offset>
+      <start_time_offset>2449000</start_time_offset>
+    </item>
+    <item index="5">
+      <title>Chapter 6</title>
+      <end_time_offset>3675000</end_time_offset>
+      <start_time_offset>3063000</start_time_offset>
+    </item>
+    <item index="6">
+      <title>Chapter 7</title>
+      <end_time_offset>4222000</end_time_offset>
+      <start_time_offset>3675000</start_time_offset>
+    </item>
+    <item index="7">
+      <title>Chapter 8</title>
+      <end_time_offset>4858000</end_time_offset>
+      <start_time_offset>4222000</start_time_offset>
+    </item>
+    <item index="8">
+      <title>Chapter 9</title>
+      <end_time_offset>5349000</end_time_offset>
+      <start_time_offset>4858000</start_time_offset>
+    </item>
+    <item index="9">
+      <title>Chapter 10</title>
+      <end_time_offset>6126000</end_time_offset>
+      <start_time_offset>5349000</start_time_offset>
+    </item>
+    <item index="10">
+      <title>Chapter 11</title>
+      <end_time_offset>-1</end_time_offset>
+      <start_time_offset>6126000</start_time_offset>
+    </item>
+  </chapters>
+  <collections/>
+  <content_rating>PG-13</content_rating>
+  <countries>
+    <item index="0">United Kingdom</item>
+  </countries>
+  <directors>
+    <item index="0">
+      <photo>http://image.tmdb.org/t/p/original/sCjOa6Yt5o4YeyB7t8LZwNVvtSw.jpg</photo>
+      <role/>
+      <name>David Yates</name>
+    </item>
+  </directors>
+  <duration>6540000</duration>
+  <genres>
+    <item index="0">Action</item>
+    <item index="1">Adventure</item>
+    <item index="2">Drama</item>
+    <item index="3">Fantasy</item>
+    <item index="4">Romance</item>
+  </genres>
+  <originally_available_at>2016-06-29</originally_available_at>
+  <posters>
+    <item external="True" url="http://image.tmdb.org/t/p/original/6FxOPJ9Ysilpq0IgkrMJ7PubFhq.jpg" sort_order="1" provider="com.plexapp.agents.imdb" media="com.plexapp.agents.imdb_7d301056523b3bb53ae28bfeaf174f004dfb130c"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/5WttbRKFmjkHiVLGFwUBPqd6rZt.jpg" preview="com.plexapp.agents.imdb_b78a088b114e1c79d18a903ff10b61a2c9387212" sort_order="2" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/r3FTz7ZZV0iVTzYGh8PJV4apja6.jpg" preview="com.plexapp.agents.imdb_47a1d1f7aa4c42e14534f0bfa7cb2bef2cf60f86" sort_order="3" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/qrH3L9HEpvxagMRKUUp6YWNberY.jpg" preview="com.plexapp.agents.imdb_487f6da0f26a61bfdab406881df7bc518dd140e1" sort_order="4" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/4Ihtz6GpMdyBiAtLsCODS4BdS7l.jpg" preview="com.plexapp.agents.imdb_00551bef56756e032caf6117b2b78d4bf30b19aa" sort_order="5" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/65J1My2sBR9hpbygGUeZOJ5kv5O.jpg" preview="com.plexapp.agents.imdb_bf47611112a2c61a0f4851022a77af1247bcabbb" sort_order="6" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/9PckwBesYMqhuSRxiUa6RQX2v55.jpg" preview="com.plexapp.agents.imdb_02fadd7d6801cbbe024666814f6676d8820b4768" sort_order="7" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/rOGvJtjkVdJOVPUVjaGNSuUm4Km.jpg" preview="com.plexapp.agents.imdb_c62a4fcbb0756065ad19a4388d31aa01a552ec36" sort_order="8" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/oOfcIFq3JtSYJqNO35eSMpmQXWW.jpg" preview="com.plexapp.agents.imdb_bce41f426aab3d33a3cf9c018413d641bb042276" sort_order="9" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/y4uElxQs6r5XxPpcq7NdfF0uLcG.jpg" preview="com.plexapp.agents.imdb_ed2dbd1973bc40f92691395a805ed82dcfb21f7e" sort_order="10" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/7QZt7czlN7iy5rKnuIEwkG7NMZM.jpg" preview="com.plexapp.agents.imdb_0e093ae073ade4d20b128c823615fcb6f4510215" sort_order="11" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/cWtAQYd2Hj3wwrQqz6XHtSYvNhr.jpg" preview="com.plexapp.agents.imdb_9b33ed9fdf3648f6c60f1961d55fc6cd0cb0b8db" sort_order="12" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/p7CNdeVL10BECbu5qd9CoDxYRQY.jpg" preview="com.plexapp.agents.imdb_7ddec5a2f2b4f444c6e4b16746361277490bd2fb" sort_order="13" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/95Dph4ctXOwmQW0hwcF6tNGQtqo.jpg" preview="com.plexapp.agents.imdb_57f5cf089fb9409b126109dc83c33ee665fad7a1" sort_order="14" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/eJOjHC7ocl5RyWHovjQedPJfezQ.jpg" preview="com.plexapp.agents.imdb_483f88b693e558eb05afba0b49a3c7db56bfe4f0" sort_order="15" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/kl5pN7txmwKIAbelrOSMEm88uaB.jpg" preview="com.plexapp.agents.imdb_0e5484ee57dfe77328445c155aece15ac5c228ab" sort_order="16" provider="com.plexapp.agents.imdb"/>
+  </posters>
+  <producers/>
+  <rating>3.7</rating>
+  <rating_image>rottentomatoes://image.rating.rotten</rating_image>
+  <audience_rating>5.9</audience_rating>
+  <audience_rating_image>rottentomatoes://image.rating.spilled</audience_rating_image>
+  <reviews>
+    <item index="0">
+      <text>You have to laugh a little at its audaciousness, but it's so completely irony-free that to deride it would only be cheap. Why not just enter its CGI-heavy bubble of wonder?</text>
+      <source>TIME Magazine</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>http://time.com/4389829/the-legend-of-tarzan-movie-review/</link>
+      <author>Stephanie Zacharek</author>
+    </item>
+    <item index="1">
+      <text>The plot of the classic adventure tale has been admirably reconfigured to meet modern sensibilities, but the resulting film is simplistic, condescending, and inert.</text>
+      <source>New Yorker</source>
+      <image>rottentomatoes://image.review.rotten</image>
+      <link>http://www.newyorker.com/goings-on-about-town/movies/the-legend-of-tarzan-2</link>
+      <author>Richard Brody</author>
+    </item>
+    <item index="2">
+      <text>[Jackson] seems to be in the film mostly to provide some well-needed comic relief.</text>
+      <source>Christian Science Monitor</source>
+      <image>rottentomatoes://image.review.rotten</image>
+      <link>http://www.csmonitor.com/The-Culture/Movies/2016/0701/In-The-Legend-of-Tarzan-Alexander-Skarsgaard-looks-at-home-in-the-jungle</link>
+      <author>Peter Rainer</author>
+    </item>
+    <item index="3">
+      <text>The Legend of Tarzan moves briskly and has the overall feel of one of Burroughs' more entertaining stories come to the screen.</text>
+      <source>ReelViews</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>http://www.reelviews.net/reelviews/legend-of-tarzan-the</link>
+      <author>James Berardinelli</author>
+    </item>
+    <item index="4">
+      <text>This Tarzan is a corrective, a vengeful Congo Unchained that reteams Jackson and Waltz. Yates mines Zirconium Tarantino, even letting Jackson cackle while blasting a machine gun</text>
+      <source>MTV</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>http://www.mtv.com/news/2900644/the-legend-of-tarzan-me-shirtless-hero-you-skeptical-modern-audience/</link>
+      <author>Amy Nicholson</author>
+    </item>
+    <item index="5">
+      <text>The Legend of Tarzan plays as if a dog ate part of the script.</text>
+      <source>New York Magazine/Vulture</source>
+      <image>rottentomatoes://image.review.rotten</image>
+      <link>http://www.vulture.com/2016/07/review-the-legend-of-tarzan-is-hardly-legendary.html?mid=full-rss-vulture</link>
+      <author>David Edelstein</author>
+    </item>
+    <item index="6">
+      <text>There seems little reason to resurrect Tarzan in 2016; his character, or at least his creator, the turn-of-the-century American schlockmeister Edgar Rice Burroughs, is racist and sexist by any contemporary standard.</text>
+      <source>Globe and Mail</source>
+      <image>rottentomatoes://image.review.rotten</image>
+      <link>http://www.theglobeandmail.com/arts/film/film-reviews/the-legend-of-tarzan-dodges-cultural-controversies-but-falls-flat-as-a-movie/article30709883/</link>
+      <author>Kate Taylor</author>
+    </item>
+    <item index="7">
+      <text>"The Legend of Tarzan" is no jungle boogie, but it's a decent swing.</text>
+      <source>Detroit News</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>http://www.detroitnews.com/story/entertainment/movies/2016/07/01/review-legend-tarzan-goes-serious-route/86573342/</link>
+      <author>Adam Graham</author>
+    </item>
+    <item index="8">
+      <text>Tarzan is still a story of a white man who has dominion over not just animals but also Africans, and it feels . . . icky. Kudos for trying and all.</text>
+      <source>Philadelphia Inquirer</source>
+      <image>rottentomatoes://image.review.rotten</image>
+      <link>http://www.philly.com/philly/entertainment/movies/20160701__The_Legend_of_Tarzan___Could_we_please_evolve_some_more_.html</link>
+      <author>Molly Eichel</author>
+    </item>
+    <item index="9">
+      <text>Strangely naive in the way it rewrites history... feels both misguided and slapdash, and the good parts aren't enough to muddle through this overly complicated and dull-as-dirt story.</text>
+      <source>Tribune News Service</source>
+      <image>rottentomatoes://image.review.rotten</image>
+      <link>http://www.twincities.com/2016/06/30/legend-of-tarzan-movie-review/</link>
+      <author>Katie Walsh</author>
+    </item>
+    <item index="10">
+      <text>Director Yates has got a knack for conveying the grandeur of Africa, the fierce power of the animals, the currents of straightforward emotion (love, rage, hate, grief, etc.), and the thrill of nature (human and otherwise) unleashed.</text>
+      <source>San Diego Reader</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>http://www.sandiegoreader.com/movies/the-legend-of-tarzan/</link>
+      <author>Matthew Lickona</author>
+    </item>
+    <item index="11">
+      <text>The film, searching for a purpose and some drama, doesn't deserve the grandeur Yates gives it.</text>
+      <source>Associated Press</source>
+      <image>rottentomatoes://image.review.rotten</image>
+      <link>http://staging.hosted.ap.org/dynamic/stories/U/US_FILM_REVIEW_TARZAN?SITE=AP&amp;SECTION=HOME&amp;TEMPLATE=DEFAULT&amp;CTIME=2016-06-29-11-55-09</link>
+      <author>Jake Coyle</author>
+    </item>
+    <item index="12">
+      <text>While The Legend of Tarzan is hardly going to become legendary, it is strong entertainment with an interesting socio-political background.</text>
+      <source>Toronto Sun</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>http://www.torontosun.com/entertainment/movies</link>
+      <author>Bruce Kirkland</author>
+    </item>
+    <item index="13">
+      <text>"The Legend of Tarzan" wants to be both modern and traditional, hip and classic. It's a tough balance to strike, and this film can't manage it.</text>
+      <source>Los Angeles Times</source>
+      <image>rottentomatoes://image.review.rotten</image>
+      <link>http://www.latimes.com/entertainment/movies/la-et-mn-legend-tarzan-review-20160627-snap-story.html</link>
+      <author>Kenneth Turan</author>
+    </item>
+    <item index="14">
+      <text>Are you jarred by the anachronistic acting? Troubled that the animals are all digital? Pissed that you've seen it all before? At least it's watchable. And Skarsgard brings his A-game - mind, heart and body beautiful</text>
+      <source>Rolling Stone</source>
+      <image>rottentomatoes://image.review.rotten</image>
+      <link>http://www.rollingstone.com/movies/reviews/the-legend-of-tarzan-20160629</link>
+      <author>Peter Travers</author>
+    </item>
+    <item index="15">
+      <text>The tale of the man raised by apes has been told ad nauseam, yet David Yates, who directed the last four Harry Potter movies, makes a strong case, visually and thematically, for reinvention.</text>
+      <source>Chicago Reader</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>http://www.chicagoreader.com/chicago/the-legend-of-tarzan-3d/MovieTimes?oid=22526484</link>
+      <author>Leah Pickett</author>
+    </item>
+    <item index="16">
+      <text>What makes it more enjoyable than other recycled stories of this type is that the filmmakers have given Tarzan a thoughtful, imperfect makeover.</text>
+      <source>New York Times</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>http://www.nytimes.com/2016/07/01/movies/the-legend-of-tarzan-review.html</link>
+      <author>Manohla Dargis</author>
+    </item>
+    <item index="17">
+      <text>Is "gleeless" a word? It's a good one to describe this film.</text>
+      <source>Wall Street Journal</source>
+      <image>rottentomatoes://image.review.rotten</image>
+      <link>http://www.wsj.com/articles/the-legend-of-tarzan-review-bungle-in-the-jungle-1467310559</link>
+      <author>Joe Morgenstern</author>
+    </item>
+    <item index="18">
+      <text>The saga doesn't tell a coherent story so much as juggle tropes, images and archetypes from earlier, more enjoyable adaptations.</text>
+      <source>Minneapolis Star Tribune</source>
+      <image>rottentomatoes://image.review.rotten</image>
+      <link>http://www.startribune.com/review-the-legend-of-tarzan-is-a-bungle-in-the-jungle/385051391/</link>
+      <author>Colin Covert</author>
+    </item>
+    <item index="19">
+      <text>Filmmakers, it's time to pack up Greystoke Manor. Tarzan is dead.</text>
+      <source>Boston Globe</source>
+      <image>rottentomatoes://image.review.rotten</image>
+      <link>http://www.bostonglobe.com/arts/movies/2016/06/29/legend-monkeys-around-with-tarzan-story/Bs4WXLUhiBg3rQDmtH6PAJ/story.html</link>
+      <author>Ty Burr</author>
+    </item>
+  </reviews>
+  <roles>
+    <item index="0">
+      <photo>http://image.tmdb.org/t/p/original/aVAPqwoElxk9O8QID96l6qG4x2E.jpg</photo>
+      <role>John Clayton / Tarzan</role>
+      <name>Alexander Skarsgård</name>
+    </item>
+    <item index="1">
+      <photo>http://image.tmdb.org/t/p/original/tN5jVaEYV52zNC8e5MJAXjvti3w.jpg</photo>
+      <role>Jane Porter</role>
+      <name>Margot Robbie</name>
+    </item>
+    <item index="2">
+      <photo>http://image.tmdb.org/t/p/original/2Hhztd4mUEV9Y25rfkXDwzL9QI9.jpg</photo>
+      <role>Captain Leon Rom</role>
+      <name>Christoph Waltz</name>
+    </item>
+    <item index="3">
+      <photo>http://image.tmdb.org/t/p/original/AvCReLikjzYEf9XjTQxbv3JWgKT.jpg</photo>
+      <role>George Washington Williams</role>
+      <name>Samuel L. Jackson</name>
+    </item>
+    <item index="4">
+      <photo>http://image.tmdb.org/t/p/original/y22Pb0XAVqC0l7ukzKKtXzPEuHk.jpg</photo>
+      <role>Chief Mbonga</role>
+      <name>Djimon Hounsou</name>
+    </item>
+    <item index="5">
+      <photo>http://image.tmdb.org/t/p/original/50TV6UKJKjmqdn1GQNuuCIYHLzP.jpg</photo>
+      <role>Prime Minister</role>
+      <name>Jim Broadbent</name>
+    </item>
+    <item index="6">
+      <photo>http://image.tmdb.org/t/p/original/p2SIl50AUSLlWKEwJlvI0LPbz0b.jpg</photo>
+      <role>Captain Kerchover</role>
+      <name>Casper Crump</name>
+    </item>
+    <item index="7">
+      <photo>http://image.tmdb.org/t/p/original/9Bdawwfwm5S71mPXV6lXGHPkL32.jpg</photo>
+      <role>Muviro</role>
+      <name>Yule Masiteng</name>
+    </item>
+    <item index="8">
+      <photo>http://image.tmdb.org/t/p/original/6isUJ1s5U1QfPgNDkK8nTEjlb5X.jpg</photo>
+      <role>Captain Moulle</role>
+      <name>Ben Chaplin</name>
+    </item>
+    <item index="9">
+      <photo/>
+      <role>Wasimbu</role>
+      <name>Sidney Ralitsoele</name>
+    </item>
+    <item index="10">
+      <photo>http://image.tmdb.org/t/p/original/sCWLiTESdpjNahOj2jy0H4IWbp9.jpg</photo>
+      <role>Mr. Frum</role>
+      <name>Simon Russell Beale</name>
+    </item>
+    <item index="11">
+      <photo>http://image.tmdb.org/t/p/original/xXG5aCvSUmnW3Fe0OyBnvjROaij.jpg</photo>
+      <role>Kwete</role>
+      <name>Osy Ikhile</name>
+    </item>
+    <item index="12">
+      <photo>http://image.tmdb.org/t/p/original/vhQItWQP3CgfExntxGhCHat2Tlq.jpg</photo>
+      <role>Kolo</role>
+      <name>Mens-Sana Tamakloe</name>
+    </item>
+    <item index="13">
+      <photo>http://image.tmdb.org/t/p/original/uJ1EzaslDWPuihRwbWJwTQDsxja.jpg</photo>
+      <role>Kanam</role>
+      <name>Antony Acheampong</name>
+    </item>
+    <item index="14">
+      <photo/>
+      <role>Kimanga</role>
+      <name>Edward Apeagyei</name>
+    </item>
+    <item index="15">
+      <photo>http://image.tmdb.org/t/p/original/qJOxpepww2FCk5mQmWjALyl83GM.jpg</photo>
+      <role>Kasai</role>
+      <name>Ashley Byam</name>
+    </item>
+    <item index="16">
+      <photo>http://image.tmdb.org/t/p/original/m8GGSJlgAnHymzcyXwtAA9v03CC.jpg</photo>
+      <role>Kulonga</role>
+      <name>Charles Babalola</name>
+    </item>
+    <item index="17">
+      <photo/>
+      <role>Kerchak</role>
+      <name>William Wollen</name>
+    </item>
+    <item index="18">
+      <photo>http://image.tmdb.org/t/p/original/kfwWaxcovzkahqDDhhJwPrGbnny.jpg</photo>
+      <role>Eshe</role>
+      <name>Mimi Ndiweni</name>
+    </item>
+    <item index="19">
+      <photo>http://image.tmdb.org/t/p/original/dnCkbEMCt5kW0ImLPW0UTO0jNkd.jpg</photo>
+      <role>Akut</role>
+      <name>Matt Cross</name>
+    </item>
+    <item index="20">
+      <photo>http://image.tmdb.org/t/p/original/ry4VtpQm7oAmW817LuoFm0LYgHJ.jpg</photo>
+      <role>Kala</role>
+      <name>Madeleine Worrall</name>
+    </item>
+    <item index="21">
+      <photo>http://image.tmdb.org/t/p/original/eLCQfQIuDrm4NXFGDiGMOuTJkCg.jpg</photo>
+      <role>Young Tarzan</role>
+      <name>Rory J. Saper</name>
+    </item>
+    <item index="22">
+      <photo>http://image.tmdb.org/t/p/original/vgjhUNCVq6oaQUIYURHf06oYDit.jpg</photo>
+      <role>John Clayton II</role>
+      <name>Hadley Fraser</name>
+    </item>
+    <item index="23">
+      <photo>http://image.tmdb.org/t/p/original/8NrrFxrGng88GU7lxwOyK3PZv05.jpg</photo>
+      <role>Alice Clayton</role>
+      <name>Genevieve O'Reilly</name>
+    </item>
+    <item index="24">
+      <photo/>
+      <role>Lord Stanhope</role>
+      <name>Paul Hamilton</name>
+    </item>
+    <item index="25">
+      <photo>http://image.tmdb.org/t/p/original/uUft7i7rpgZ6wmO0ZRpzA6kNrwG.jpg</photo>
+      <role>Lord Knutsford</role>
+      <name>Christopher Benjamin</name>
+    </item>
+    <item index="26">
+      <photo>http://image.tmdb.org/t/p/original/6z6m3Lgy09RULs4JfryyhsGs4hI.jpg</photo>
+      <role>Mbolongo Warrior</role>
+      <name>Bentley Kalu</name>
+    </item>
+    <item index="27">
+      <photo>http://image.tmdb.org/t/p/original/wrLHb9eDExBGncdskqSbBtU6TBI.jpg</photo>
+      <role>Kuba Villager</role>
+      <name>Abi Adeyemi</name>
+    </item>
+    <item index="28">
+      <photo>http://image.tmdb.org/t/p/original/dzWX6aZOidJU0uT7bpwcXiO46eg.jpg</photo>
+      <role>Kuba woman</role>
+      <name>Joy Isa</name>
+    </item>
+    <item index="29">
+      <photo>http://image.tmdb.org/t/p/original/bX65S7TJ3kZOW5sWcnuW8sOrjEx.jpg</photo>
+      <role>Force Publique</role>
+      <name>Alex Ferns</name>
+    </item>
+    <item index="30">
+      <photo>http://image.tmdb.org/t/p/original/jc3VWnMPe0zYx6uEQDkuuOtAD9h.jpg</photo>
+      <role>Carriage Passenger</role>
+      <name>Liv Hansen</name>
+    </item>
+    <item index="31">
+      <photo>http://image.tmdb.org/t/p/original/ekvK9ZfuKQl90UGUptEEtJuRhKV.jpg</photo>
+      <role>Carriage Rider</role>
+      <name>Alicia Woodhouse</name>
+    </item>
+    <item index="32">
+      <photo>http://image.tmdb.org/t/p/original/oAwLdyE519RGtg2bwvoKEZomMOM.jpg</photo>
+      <role>Belgian Conscript</role>
+      <name>Matt Townsend</name>
+    </item>
+    <item index="33">
+      <photo>http://image.tmdb.org/t/p/original/oBaR9wdTZTM5bF0QHVY28p00Nrf.jpg</photo>
+      <role>Mercenary</role>
+      <name>Lasco Atkins</name>
+    </item>
+  </roles>
+  <similar>
+    <item index="0">Warcraft</item>
+    <item index="1">The Huntsman: Winter's War</item>
+    <item index="2">The Jungle Book</item>
+    <item index="3">Teenage Mutant Ninja Turtles: Out of the Shadows</item>
+    <item index="4">Independence Day: Resurgence</item>
+    <item index="5">Central Intelligence</item>
+    <item index="6">Gods of Egypt</item>
+    <item index="7">In the Heart of the Sea</item>
+    <item index="8">London Has Fallen</item>
+    <item index="9">The Last Witch Hunter</item>
+    <item index="10">Hercules</item>
+    <item index="11">Now You See Me 2</item>
+    <item index="12">Criminal</item>
+    <item index="13">Jason Bourne</item>
+    <item index="14">X-Men: Apocalypse</item>
+    <item index="15">Star Trek Beyond</item>
+    <item index="16">The Great Wall</item>
+    <item index="17">Pete's Dragon</item>
+    <item index="18">Assassin's Creed</item>
+    <item index="19">The Shallows</item>
+  </similar>
+  <studio>Village Roadshow Pictures</studio>
+  <summary>Tarzan, having acclimated to life in London, is called back to his former home in the jungle to investigate the activities at a mining encampment.</summary>
+  <tagline>Human. Nature.</tagline>
+  <tags/>
+  <themes/>
+  <title>The Legend of Tarzan</title>
+  <writers>
+    <item index="0">
+      <photo>http://image.tmdb.org/t/p/original/5Hl1gqi2nte2C6mxs6IujHkXU6c.jpg</photo>
+      <role/>
+      <name>Stuart Beattie</name>
+    </item>
+    <item index="1">
+      <photo>http://image.tmdb.org/t/p/original/1F5Sjw9oAkKQOLaD2Bs3vrsIlMg.jpg</photo>
+      <role/>
+      <name>Craig Brewer</name>
+    </item>
+    <item index="2">
+      <photo/>
+      <role/>
+      <name>Adam Cozad</name>
+    </item>
+    <item index="3">
+      <photo/>
+      <role/>
+      <name>John Collee</name>
+    </item>
+  </writers>
+  <year>2016</year>
+</Movie>

@@ -1,0 +1,658 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Movie id="tt2294629">
+  <rating>9.0</rating>
+  <title_sort/>
+  <art>
+    <item external="True" url="http://image.tmdb.org/t/p/original/rlIXLdmmLBLSIpeK1P8QgULjnZw.jpg" preview="d7fbdee75d73fecad2eee724ebd02e3618710630" sort_order="1"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/vcASZNrCGsgAnTVc31AAtKXux60.jpg" preview="845fbc264c4e294f6a5c3a353e86d4b8dd4cd660" sort_order="2"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/8lztuyG7ExzbsvrDGnxNXKI6i5c.jpg" preview="319d8923802b0c61df79c7e30587399c940dc428" sort_order="3"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/oJZAn3gkFPlPThs6b3S7RaB8Yl1.jpg" preview="4915b5a727407301c3400794fec434fd0f7d5274" sort_order="4"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/wKe1NUklIlwW6HhlxatEz8BxAKJ.jpg" preview="2d2b9b6b7bd3bd6ee39e34bf59ae594cf35e9ed6" sort_order="5"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/ws1dxpFpOXMOBPkplThbNaUtxFp.jpg" preview="293a82be0abdc122938e42fffdddd1f6f30da366" sort_order="6"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/oP0PlCbj3J9M2sWQflyOenAwj35.jpg" preview="a8516a34ca0be4db5f84f7ce9a8efa155b4fb986" sort_order="7"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/18t5Zjrj7RBKgKZFPpx838QMEEa.jpg" preview="26399f0b7b22cf8e5ce69b0a8f7a1507896de9df" sort_order="8"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/xpbWfZMdW1KGaaTSgSP6ACAbVjV.jpg" preview="1bc187039dc83294fda44461ef7d269cf1a9343d" sort_order="9"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/irHmdlkdJphmk4HPfyAQfklKMbY.jpg" preview="f77ff835b2cf3dca23e96b9904da6d977efc2044" sort_order="10"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/cAhCDpAq80QCeQvHytY9JkBalpH.jpg" preview="4e7ed9a80a1701bf558d50c2f9fbd1f18edfeffb" sort_order="11"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/zfBw93TwOBOqzgc5b5OYBk51C8j.jpg" preview="4fd57cd5cfb3189aa38102072c25184015b2bf7f" sort_order="12"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/3WNf1FxcojScEbt9Ko4CTOrhvlc.jpg" preview="acaad94baa9d99a910e5d85dec7a2a55ca098f8a" sort_order="13"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/bEDRxq2QLnx6UiCgf02x7jPFY3D.jpg" preview="5367a722318de4ca3b54e5557e4772967b163fe3" sort_order="14"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/dw32EHPT3DJXc45nfiAF1jA0nnI.jpg" preview="de17165881a57f7c03d4fb0543af9d15e8bdacbb" sort_order="15"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/1dZksFA8rC1z6iPnRMVh3vaLvS7.jpg" preview="66f509f2ab8ea11b85d4d485839e746105ca15e8" sort_order="16"/>
+  </art>
+  <writers>
+    <item index="0">
+      <photo>http://image.tmdb.org/t/p/original/kdAShXqEeD4LV9oCtVkc570D7qF.jpg</photo>
+      <role/>
+      <name>Hans Christian Andersen</name>
+    </item>
+    <item index="1">
+      <photo>http://image.tmdb.org/t/p/original/9BkQnsppXFWcNSRGo4GJ6QNq313.jpg</photo>
+      <role/>
+      <name>Jennifer Lee</name>
+    </item>
+  </writers>
+  <chapters>
+    <item index="0">
+      <title>Opening Credits/Accident</title>
+      <end_time_offset>359000</end_time_offset>
+      <start_time_offset>0</start_time_offset>
+    </item>
+    <item index="1">
+      <title>Concealing Her Powers</title>
+      <end_time_offset>697000</end_time_offset>
+      <start_time_offset>359000</start_time_offset>
+    </item>
+    <item index="2">
+      <title>Coronation Day</title>
+      <end_time_offset>1193000</end_time_offset>
+      <start_time_offset>697000</start_time_offset>
+    </item>
+    <item index="3">
+      <title>Puppy Love</title>
+      <end_time_offset>1863000</end_time_offset>
+      <start_time_offset>1193000</start_time_offset>
+    </item>
+    <item index="4">
+      <title>The Search for Elsa</title>
+      <end_time_offset>2319000</end_time_offset>
+      <start_time_offset>1863000</start_time_offset>
+    </item>
+    <item index="5">
+      <title>A Ride</title>
+      <end_time_offset>2661000</end_time_offset>
+      <start_time_offset>2319000</start_time_offset>
+    </item>
+    <item index="6">
+      <title>Olaf</title>
+      <end_time_offset>3051000</end_time_offset>
+      <start_time_offset>2661000</start_time_offset>
+    </item>
+    <item index="7">
+      <title>Finding Elsa</title>
+      <end_time_offset>3468000</end_time_offset>
+      <start_time_offset>3051000</start_time_offset>
+    </item>
+    <item index="8">
+      <title>Snow Monster</title>
+      <end_time_offset>3777000</end_time_offset>
+      <start_time_offset>3468000</start_time_offset>
+    </item>
+    <item index="9">
+      <title>Family</title>
+      <end_time_offset>4176000</end_time_offset>
+      <start_time_offset>3777000</start_time_offset>
+    </item>
+    <item index="10">
+      <title>Discovered</title>
+      <end_time_offset>4414000</end_time_offset>
+      <start_time_offset>4176000</start_time_offset>
+    </item>
+    <item index="11">
+      <title>Betrayal</title>
+      <end_time_offset>4687000</end_time_offset>
+      <start_time_offset>4414000</start_time_offset>
+    </item>
+    <item index="12">
+      <title>What Is Love?</title>
+      <end_time_offset>4953000</end_time_offset>
+      <start_time_offset>4687000</start_time_offset>
+    </item>
+    <item index="13">
+      <title>An Act of Love</title>
+      <end_time_offset>5230000</end_time_offset>
+      <start_time_offset>4953000</start_time_offset>
+    </item>
+    <item index="14">
+      <title>Open Gates</title>
+      <end_time_offset>5553000</end_time_offset>
+      <start_time_offset>5230000</start_time_offset>
+    </item>
+    <item index="15">
+      <title>End Credits</title>
+      <end_time_offset>-1</end_time_offset>
+      <start_time_offset>5553000</start_time_offset>
+    </item>
+  </chapters>
+  <themes/>
+  <quotes/>
+  <year>2013</year>
+  <duration>6120000</duration>
+  <genres>
+    <item index="0">Animation</item>
+    <item index="1">Adventure</item>
+    <item index="2">Comedy</item>
+    <item index="3">Family</item>
+    <item index="4">Fantasy</item>
+    <item index="5">Musical</item>
+  </genres>
+  <title>Frozen</title>
+  <tagline>Only the act of true love will thaw a frozen heart.</tagline>
+  <content_rating_age/>
+  <rating_count/>
+  <collections/>
+  <trivia/>
+  <tags/>
+  <audience_rating_image>rottentomatoes://image.rating.upright</audience_rating_image>
+  <rating_image>rottentomatoes://image.rating.ripe</rating_image>
+  <producers>
+    <item index="0">
+      <photo/>
+      <role/>
+      <name>Peter Del Vecho</name>
+    </item>
+  </producers>
+  <audience_rating>8.5</audience_rating>
+  <studio>Walt Disney Pictures</studio>
+  <posters>
+    <item external="True" url="http://image.tmdb.org/t/p/original/jIjdFXKUNtdf1bwqMrhearpyjMj.jpg" preview="ec7135c245fba55d68e11890668acf6f0932eb5f" sort_order="1"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/xOVSMcqMeohzasmCIyLwUv0k7FJ.jpg" preview="6466440f815b6cdf9d0e75913a5850956e680655" sort_order="2"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/44a1esVlfFHstPoEUnCmTejZzli.jpg" preview="4892855be7521b98308ac6448f615f1293535ef9" sort_order="3"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/eKbhEGZVtNwktD5TqRASuT09dks.jpg" preview="ff984770ad07346248a1b1b725d6cfbbd8bfa504" sort_order="4"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/99NXuMhOeSiyK3n3r6wEejHc5Ac.jpg" preview="a3bc58da141719cb0dcdcd0f8f20eef671564238" sort_order="5"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/eFnGmj63QPUpK7QUWSOUhypIQOT.jpg" preview="caf0c67cdb039c1c0074fffe740ae8803869ffc7" sort_order="6"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/nLoiv8gCGga58Mu6zXXhl7G7I59.jpg" preview="89f95937f017aff4c60348b7a36a7aa2575173ba" sort_order="7"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/h2uN3MVsyCZjBS1CSqUpOrQ1XWb.jpg" preview="d35bed108d6e68aaf362a9b30a415f1a16403362" sort_order="8"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/xTmBx7JVac8m5gRVikXAPyt5KxU.jpg" preview="a688fbdc799aedec68280d7821ebd54fb4e43dee" sort_order="9"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/flo5eDQlVJj9tsI3Z9ggwL9WlQW.jpg" preview="5b8319054d0bd13b11a500acc2baf8682e49585f" sort_order="10"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/aKWCNeXgcgvIGWM5bZKCwLJpKvl.jpg" preview="c5dc966b4e671f00392b6df41c6d515b6a4b0659" sort_order="11"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/26G78WjvgZI8sMt8aBTCBHHChFA.jpg" preview="36756065553879115255417188e906c2a97f7ed2" sort_order="12"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/vvpMhjqKz3lI7kq6kZgPkaEzVTq.jpg" preview="e3ceddf6167b4610cf030ac9cd89fe661af4a1db" sort_order="13"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/cQf7L3OkQ7x982dCXvKlGQRYZZb.jpg" preview="f81b2f8eb1352f82e95005624f88dbb74a912c27" sort_order="14"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/xC3MNCOn2yM0OnCUxZzDDqOpBQ6.jpg" preview="cdcf7ab953c82a5c719faf23c672a7e92c80f536" sort_order="15"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/xYVunS2yloXIwq3ngQRhPFX2s7.jpg" preview="b4400821b735a6d53540019559edf01100c8773c" sort_order="16"/>
+  </posters>
+  <originally_available_at>2013-11-27</originally_available_at>
+  <roles>
+    <item index="0">
+      <photo>http://image.tmdb.org/t/p/original/9DoDVUkoXhT3O2R1RymPlOfUryl.jpg</photo>
+      <role>Anna (voice)</role>
+      <name>Kristen Bell</name>
+    </item>
+    <item index="1">
+      <photo>http://image.tmdb.org/t/p/original/h7xxQ7jVPBy5jjOsE89V3LSAkns.jpg</photo>
+      <role>Elsa (voice)</role>
+      <name>Idina Menzel</name>
+    </item>
+    <item index="2">
+      <photo>http://image.tmdb.org/t/p/original/xkFr1vd1pO2Ls2gQxxuMd1mgrfL.jpg</photo>
+      <role>Kristoff (voice)</role>
+      <name>Jonathan Groff</name>
+    </item>
+    <item index="3">
+      <photo>http://image.tmdb.org/t/p/original/6ctni3kK4lPteBAInd7kKZyCdZD.jpg</photo>
+      <role>Olaf (voice)</role>
+      <name>Josh Gad</name>
+    </item>
+    <item index="4">
+      <photo>http://image.tmdb.org/t/p/original/unQZPxiKxJt5TkOBRO6Retppc4i.jpg</photo>
+      <role>Hans (voice)</role>
+      <name>Santino Fontana</name>
+    </item>
+    <item index="5">
+      <photo>http://image.tmdb.org/t/p/original/6QuMtbD8kmhpwWhFKfNzEvHRLOu.jpg</photo>
+      <role>Duke (voice)</role>
+      <name>Alan Tudyk</name>
+    </item>
+    <item index="6">
+      <photo>http://image.tmdb.org/t/p/original/h5n8B12WoY1UAZjzSVEup4vsoBw.jpg</photo>
+      <role>Pabbie / Grandpa (voice)</role>
+      <name>Ciarán Hinds</name>
+    </item>
+    <item index="7">
+      <photo>http://image.tmdb.org/t/p/original/eE2NDdeKN1DC3XuV6L4xuEbVaS.jpg</photo>
+      <role>Oaken (voice)</role>
+      <name>Chris Williams</name>
+    </item>
+    <item index="8">
+      <photo>http://image.tmdb.org/t/p/original/pUIRHfqrlda6gQEwWtAFuoKbKYB.jpg</photo>
+      <role>Kai (voice)</role>
+      <name>Stephen J. Anderson</name>
+    </item>
+    <item index="9">
+      <photo>http://image.tmdb.org/t/p/original/cuHzXhPE61DtCtJZwixaSGuBYtO.jpg</photo>
+      <role>Bulda (voice)</role>
+      <name>Maia Wilson</name>
+    </item>
+    <item index="10">
+      <photo>http://image.tmdb.org/t/p/original/l8iHE1qnlCUlOs1Oq0LzGWO8T1D.jpg</photo>
+      <role>Gerda (voice)</role>
+      <name>Edie McClurg</name>
+    </item>
+    <item index="11">
+      <photo>http://image.tmdb.org/t/p/original/dZTRdcp57vdnCtxIp8vNYR6pOtp.jpg</photo>
+      <role>Bishop (voice)</role>
+      <name>Robert Pine</name>
+    </item>
+    <item index="12">
+      <photo>http://image.tmdb.org/t/p/original/zanuPXm0BYAsARbsrDMjLmct7Fq.jpg</photo>
+      <role>King (voice)</role>
+      <name>Maurice LaMarche</name>
+    </item>
+    <item index="13">
+      <photo>http://image.tmdb.org/t/p/original/wdpXRUthua2RB20ut32gT4HG4XA.jpg</photo>
+      <role>Young Anna (voice)</role>
+      <name>Livvy Stubenrauch</name>
+    </item>
+    <item index="14">
+      <photo>http://image.tmdb.org/t/p/original/lKDJgAVwWh8j8K0wk3r5V0axa9Y.jpg</photo>
+      <role>Young Elsa (voice)</role>
+      <name>Eva Bella</name>
+    </item>
+    <item index="15">
+      <photo/>
+      <role>Teen Elsa (voice)</role>
+      <name>Spencer Ganus</name>
+    </item>
+    <item index="16">
+      <photo>http://image.tmdb.org/t/p/original/kIK6BDTgMmNSAncCgZ7XQhFo5oZ.jpg</photo>
+      <role>Additional Voices (voice)</role>
+      <name>Ava Acres</name>
+    </item>
+    <item index="17">
+      <photo/>
+      <role>Additional Voices (voice)</role>
+      <name>Stephen Apostolina</name>
+    </item>
+    <item index="18">
+      <photo/>
+      <role>Additional Voices (voice)</role>
+      <name>Krik Baily</name>
+    </item>
+    <item index="19">
+      <photo>http://image.tmdb.org/t/p/original/4ewxttZW0bhlta27oc5Tjrxel3p.jpg</photo>
+      <role>Additional Voices (voice)</role>
+      <name>David Boat</name>
+    </item>
+    <item index="20">
+      <photo>http://image.tmdb.org/t/p/original/vccGfQWvG6nBaMD080uDS4Vaj26.jpg</photo>
+      <role>Additional Voices (voice)</role>
+      <name>Paul Briggs</name>
+    </item>
+    <item index="21">
+      <photo/>
+      <role>Additional Voices (voice)</role>
+      <name>Woody Buck</name>
+    </item>
+    <item index="22">
+      <photo/>
+      <role>Additional Voices (voice)</role>
+      <name>Lewis Cleale</name>
+    </item>
+    <item index="23">
+      <photo>http://image.tmdb.org/t/p/original/rslz2WoVtcFa1w1GsJIEIN8LhK6.jpg</photo>
+      <role>Additional Voices (voice)</role>
+      <name>Wendy Cutler</name>
+    </item>
+    <item index="24">
+      <photo>http://image.tmdb.org/t/p/original/lECiABogAKm5Zl8Je6niNAoqz5N.jpg</photo>
+      <role>Additional Voices (voice)</role>
+      <name>Terri Douglas</name>
+    </item>
+    <item index="25">
+      <photo>http://image.tmdb.org/t/p/original/AqhFDbBiLsYtQGeimiEzp1EEKCL.jpg</photo>
+      <role>Additional Voices (voice)</role>
+      <name>Eddie Frierson</name>
+    </item>
+    <item index="26">
+      <photo>http://image.tmdb.org/t/p/original/dkpoDDUApWLtgEjZYO9EmjLIqw8.jpg</photo>
+      <role>Additional Voices (voice)</role>
+      <name>Jean Gilpin</name>
+    </item>
+    <item index="27">
+      <photo/>
+      <role>Additional Voices (voice)</role>
+      <name>Jackie Gonneau</name>
+    </item>
+    <item index="28">
+      <photo>http://image.tmdb.org/t/p/original/ohlltWmy7xiyQ7CwEZhV6KnyeKO.jpg</photo>
+      <role>Additional Voices (voice)</role>
+      <name>Nicholas Guest</name>
+    </item>
+    <item index="29">
+      <photo>http://image.tmdb.org/t/p/original/jlPhkFXDUAgy2y9BMkf6RvHLhqV.jpg</photo>
+      <role>Additional Voices (voice)</role>
+      <name>Bridget Hoffman</name>
+    </item>
+    <item index="30">
+      <photo>http://image.tmdb.org/t/p/original/59b6x5nAJHStaktH1rd31nVOrog.jpg</photo>
+      <role>Additional Voices (voice)</role>
+      <name>Nick Jameson</name>
+    </item>
+    <item index="31">
+      <photo/>
+      <role>Additional Voices (voice)</role>
+      <name>Daniel Kaz</name>
+    </item>
+    <item index="32">
+      <photo/>
+      <role>Additional Voices (voice)</role>
+      <name>John Lavelle</name>
+    </item>
+    <item index="33">
+      <photo>http://image.tmdb.org/t/p/original/9BkQnsppXFWcNSRGo4GJ6QNq313.jpg</photo>
+      <role>Additional Voices (voice)</role>
+      <name>Jennifer Lee</name>
+    </item>
+    <item index="34">
+      <photo>http://image.tmdb.org/t/p/original/pmvKF32sInRUkrgLLMW7WLAg8sG.jpg</photo>
+      <role>Additional Voices (voice)</role>
+      <name>Patricia Lentz</name>
+    </item>
+    <item index="35">
+      <photo/>
+      <role>Additional Voices (voice)</role>
+      <name>Annie Lopez</name>
+    </item>
+    <item index="36">
+      <photo>http://image.tmdb.org/t/p/original/yn29ZcNXEyFewrrNtcCpyBfjXnR.jpg</photo>
+      <role>Additional Voices (voice)</role>
+      <name>Katie Lowes</name>
+    </item>
+    <item index="37">
+      <photo>http://image.tmdb.org/t/p/original/9BK7xa1tn6lPIuYOR2fPvUxP6fw.jpg</photo>
+      <role>Additional Voices (voice)</role>
+      <name>Mona Marshall</name>
+    </item>
+    <item index="38">
+      <photo/>
+      <role>Additional Voices (voice)</role>
+      <name>Dara McGarry</name>
+    </item>
+    <item index="39">
+      <photo>http://image.tmdb.org/t/p/original/otVTyLzkIRp8ovXL0pciJ1MnFtl.jpg</photo>
+      <role>Additional Voices (voice)</role>
+      <name>Scott Menville</name>
+    </item>
+    <item index="40">
+      <photo/>
+      <role>Additional Voices (voice)</role>
+      <name>Adam Overett</name>
+    </item>
+    <item index="41">
+      <photo/>
+      <role>Additional Voices (voice)</role>
+      <name>Paul Pape</name>
+    </item>
+    <item index="42">
+      <photo>http://image.tmdb.org/t/p/original/wKNMmbkkHT3buStUNNcgyCAveyc.jpg</photo>
+      <role>Additional Voices (voice)</role>
+      <name>Courtney Peldon</name>
+    </item>
+    <item index="43">
+      <photo/>
+      <role>Additional Voices (voice)</role>
+      <name>Jennifer Perry</name>
+    </item>
+    <item index="44">
+      <photo>http://image.tmdb.org/t/p/original/xvR6YZ6006VWM8BywRHh4nhpt3Z.jpg</photo>
+      <role>Additional Voices (voice)</role>
+      <name>Raymond S. Persi</name>
+    </item>
+    <item index="45">
+      <photo>http://image.tmdb.org/t/p/original/hUBf7t28fATtiBIsGhMpepN6Iu5.jpg</photo>
+      <role>Additional Voices (voice)</role>
+      <name>Jean-Michel Richaud</name>
+    </item>
+    <item index="46">
+      <photo/>
+      <role>Additional Voices (voice)</role>
+      <name>Lynwood Robinson</name>
+    </item>
+    <item index="47">
+      <photo/>
+      <role>Additional Voices (voice)</role>
+      <name>Carter Sand</name>
+    </item>
+    <item index="48">
+      <photo>http://image.tmdb.org/t/p/original/5cx74GpnHFTcQyxlCTxgCkVFLGN.jpg</photo>
+      <role>Additional Voices (voice)</role>
+      <name>Jadon Sand</name>
+    </item>
+    <item index="49">
+      <photo>http://image.tmdb.org/t/p/original/iWeuUdcvQtAmTuHClbPOb0nZh7U.jpg</photo>
+      <role>Additional Voices (voice)</role>
+      <name>Katie Silverman</name>
+    </item>
+    <item index="50">
+      <photo/>
+      <role>Additional Voices (voice)</role>
+      <name>Pepper Sweeney</name>
+    </item>
+    <item index="51">
+      <photo>http://image.tmdb.org/t/p/original/lNe4zn9fJ302GehQVaFk5BNcGGM.jpg</photo>
+      <role>Additional Voices (voice)</role>
+      <name>Fred Tatasciore</name>
+    </item>
+    <item index="52">
+      <photo>http://image.tmdb.org/t/p/original/2vPrUZaf1v1Y3X7MquMqlc80J4V.jpg</photo>
+      <role>Additional Voices (voice)</role>
+      <name>Annaleigh Ashford</name>
+    </item>
+    <item index="53">
+      <photo>http://image.tmdb.org/t/p/original/32LdxxZKs4eFLpxkxzd01LUob4Z.jpg</photo>
+      <role>Additional Voices (voice)</role>
+      <name>Jenica Bergere</name>
+    </item>
+    <item index="54">
+      <photo/>
+      <role>Young Kristoff / Additional Voices (voice)</role>
+      <name>Tyree Brown</name>
+    </item>
+    <item index="55">
+      <photo>http://image.tmdb.org/t/p/original/vGZHpHbd2mfTjBu7zO92iTSNo3K.jpg</photo>
+      <role>Elsa (french singing and VFF voice)</role>
+      <name>Anaïs Delva</name>
+    </item>
+    <item index="56">
+      <photo>http://image.tmdb.org/t/p/original/eiZnJIqQ6JTzusiMF1GnhDjVWdw.jpg</photo>
+      <role>Spanish Dignitary (voice)</role>
+      <name>Jesse Corti</name>
+    </item>
+    <item index="57">
+      <photo/>
+      <role>German Dignitary (voice)</role>
+      <name>Jeffrey Marcus</name>
+    </item>
+    <item index="58">
+      <photo/>
+      <role>Irish Dignitary (voice)</role>
+      <name>Tucker Gilmore</name>
+    </item>
+    <item index="59">
+      <photo/>
+      <role>Additional Voices (voice)</role>
+      <name>Kirk Baily</name>
+    </item>
+    <item index="60">
+      <photo>http://image.tmdb.org/t/p/original/fthSVfF0wOZiVFijMzoEUm0fWwJ.jpg</photo>
+      <role>Gothi - Troll Priest (voice) (uncredited)</role>
+      <name>Jack Whitehall</name>
+    </item>
+    <item index="61">
+      <photo>http://image.tmdb.org/t/p/original/m2XslSZC0U3C9V2AJN84UDQWRjc.jpg</photo>
+      <role>Singing Troll (voice) (uncredited)</role>
+      <name>Tommar Wilson</name>
+    </item>
+    <item index="62">
+      <photo>http://image.tmdb.org/t/p/original/b3gImArbw13mMKJIe9leFc9YYb7.jpg</photo>
+      <role>Animal Vocal Sounds (voice)</role>
+      <name>Frank Welker</name>
+    </item>
+    <item index="63">
+      <photo>http://image.tmdb.org/t/p/original/f2JzxHGRfS0TL6kysHfVfaAeruP.jpg</photo>
+      <role>Additional Voices (voice)</role>
+      <name>June Christopher</name>
+    </item>
+  </roles>
+  <countries>
+    <item index="0">USA</item>
+  </countries>
+  <content_rating>PG</content_rating>
+  <original_title/>
+  <summary>Young princess Anna of Arendelle dreams about finding true love at her sister Elsa’s coronation. Fate takes her on a dangerous journey in an attempt to end the eternal winter that has fallen over the kingdom. She's accompanied by ice delivery man Kristoff, his reindeer Sven, and snowman Olaf. On an adventure where she will find out what friendship, courage, family, and true love really means.</summary>
+  <reviews>
+    <item index="0">
+      <text>Disney has another hit in its repertoire with this heartfelt story of sisterly love and one of the few films released in 3-D this year that splendidly incorporates the technology into the plot line.</text>
+      <source>Fort Worth Star-Telegram/DFW.com</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>http://www.star-telegram.com/2013/11/26/5369054/movie-review-disneys-frozen-will.html</link>
+      <author>Maricar Estrella</author>
+    </item>
+    <item index="1">
+      <text>Frozen is a glacially stiff, perpetually unamusing animated musical with a talk-singing score that will leave one pining for the lifeless soundtrack to The Princess and the Frog.</text>
+      <source>San Diego Reader</source>
+      <image>rottentomatoes://image.review.rotten</image>
+      <link>http://www.sandiegoreader.com/movies/frozen/#</link>
+      <author>Scott Marks</author>
+    </item>
+    <item index="2">
+      <text>Frozen reminds you how many animated films rely more on inside jokes. It's modern without being hip, earnest with being sappy.</text>
+      <source>Grantland</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>http://grantland.com/hollywood-prospectus/runaway-hits-the-diametrically-opposed-pleasures-of-frozen-and-paranormal-activity-the-marked-ones/</link>
+      <author>Wesley Morris</author>
+    </item>
+    <item index="3">
+      <text>Extravagant care is taken with minutiae, and the directors, Chris Buck and Jennifer Lee, whistle through the first twenty minutes of the plot with a controlled giddiness that would leave many live-action adventures staggering in their tracks.</text>
+      <source>New Yorker</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>http://www.newyorker.com/arts/critics/cinema/2013/12/09/131209crci_cinema_lane</link>
+      <author>Anthony Lane</author>
+    </item>
+    <item index="4">
+      <text>Frozen' has both showtunes and darkness, but most satisfying is a formula-defying finale that successfully subverts the fairytale status quo.</text>
+      <source>Time Out</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>http://www.timeout.com/london/film/frozen-2013</link>
+      <author>Catherine Bray</author>
+    </item>
+    <item index="5">
+      <text>In a year of weak animated features, Frozen - loosely based on "The Snow Queen" - takes the lead by default.</text>
+      <source>Rolling Stone</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>http://www.rollingstone.com/movies/reviews/frozen-20131127</link>
+      <author>Peter Travers</author>
+    </item>
+    <item index="6">
+      <text>It's hard to generate a sense of warmth when the plot points all feel so coldly calculated, and it doesn't help that the musical numbers are so pedestrian.</text>
+      <source>Globe and Mail</source>
+      <image>rottentomatoes://image.review.rotten</image>
+      <link>http://www.theglobeandmail.com/arts/film/film-reviews/frozen-galumphing-but-still-adorable-for-a-family-flick/article15609695/</link>
+      <author>Adam Nayman</author>
+    </item>
+    <item index="7">
+      <text>Frozen is one of the few recent films to capture that classic Disney spirit.</text>
+      <source>New York Magazine/Vulture</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>http://www.vulture.com/2013/11/movie-review-frozen.html</link>
+      <author>Bilge Ebiri</author>
+    </item>
+    <item index="8">
+      <text>While the journey may seem overly familiar, the destination has some surprises in store.</text>
+      <source>RogerEbert.com</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>http://www.rogerebert.com/reviews/frozen-2013</link>
+      <author>Christy Lemire</author>
+    </item>
+    <item index="9">
+      <text>Make way for a new kind of fairy tale. These Frozen princesses are the kind we can definitely warm to.</text>
+      <source>Toronto Star</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>http://www.thestar.com/entertainment/movies/2013/11/27/animated_frozen_will_warm_your_heart_movie_review.html</link>
+      <author>Linda Barnard</author>
+    </item>
+    <item index="10">
+      <text>"Frozen" is a winter wonder of a family film, the sort of movie you hope for during the holiday season. Well, it's here, go see it.</text>
+      <source>Detroit News</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>http://www.detroitnews.com/article/20131127/ENT02/311270014</link>
+      <author>Tom Long</author>
+    </item>
+    <item index="11">
+      <text>For all its professionalism, I found it as cold as the ice rink at Rockefeller Center.</text>
+      <source>St. Louis Post-Dispatch</source>
+      <image>rottentomatoes://image.review.rotten</image>
+      <link>http://www.stltoday.com/entertainment/movies/reviews/frozen-is-pretty-but-pointless/article_8b6827ee-1598-5064-ad9f-c974a8b7ed8e.html</link>
+      <author>Joe Williams</author>
+    </item>
+    <item index="12">
+      <text>Disney claims this feature-length animation is based on Hans Christian Andersen's The Snow Queen, but it feels more like a Hollywood romcom.</text>
+      <source>Chicago Reader</source>
+      <image>rottentomatoes://image.review.rotten</image>
+      <link>www.chicagoreader.com/chicago/frozen/Film?oid=11440913</link>
+      <author>Ben Sachs</author>
+    </item>
+    <item index="13">
+      <text>Most importantly, this is a long-needed step in the right direction to a more varied depiction of female characters in Disney's canon.</text>
+      <source>AV Club</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>http://www.avclub.com/review/frozen-is-another-step-forward-for-disney-princess-106037</link>
+      <author>Kevin McFarland</author>
+    </item>
+    <item index="14">
+      <text>The splashy humor and dazzling set pieces of this erratic animated mélange compensate for putting a pallid female Mr. Freeze at the center of a paean to sisterly love.</text>
+      <source>Orange County Register</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>http://www.ocregister.com/articles/anna-539001-elsa-frozen.html</link>
+      <author>Michael Sragow</author>
+    </item>
+    <item index="15">
+      <text>The story-aside from a climax that plays like a too-knowing rebuke to Disney formula-goes tediously through the motions.</text>
+      <source>Time Out</source>
+      <image>rottentomatoes://image.review.rotten</image>
+      <link>http://www.timeout.com/us/film/frozen-movie-review</link>
+      <author>Keith Uhlich</author>
+    </item>
+    <item index="16">
+      <text>Unlike in many animated movies, the borrowings aren't so much in-jokey as structural. Homages, of a sort, and fun to spot.</text>
+      <source>NPR</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>http://www.npr.org/2013/11/26/247195259/solid-frozen-puts-a-fresh-sheen-on-an-old-story?ft=1&amp;f=1045</link>
+      <author>Bob Mondello</author>
+    </item>
+    <item index="17">
+      <text>Disney gets nearly everything right in this animated charmer: wit, warmth, a lovely voice cast and a real message of girl power.</text>
+      <source>Newsday</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>http://www.newsday.com/entertainment/movies/frozen-review-a-can-do-disney-princess-1.6499391</link>
+      <author>Rafer Guzman</author>
+    </item>
+  </reviews>
+  <directors>
+    <item index="0">
+      <photo>http://image.tmdb.org/t/p/original/aFzDfJIIOC0tkGgqpwsZoDHzqu0.jpg</photo>
+      <role/>
+      <name>Chris Buck</name>
+    </item>
+    <item index="1">
+      <photo>http://image.tmdb.org/t/p/original/9BkQnsppXFWcNSRGo4GJ6QNq313.jpg</photo>
+      <role/>
+      <name>Jennifer Lee</name>
+    </item>
+  </directors>
+  <extras external="True" extension="xml"/>
+  <banners/>
+  <similar>
+    <item index="0">Tangled</item>
+    <item index="1">Maleficent</item>
+    <item index="2">Brave</item>
+    <item index="3">Mulan</item>
+    <item index="4">Ice Age</item>
+    <item index="5">Beauty and the Beast</item>
+    <item index="6">How to Train Your Dragon 2</item>
+    <item index="7">The Little Mermaid</item>
+    <item index="8">Shrek 2</item>
+    <item index="9">Shrek</item>
+    <item index="10">Monsters University</item>
+    <item index="11">Aladdin</item>
+    <item index="12">Ratatouille</item>
+    <item index="13">The Princess and the Frog</item>
+    <item index="14">Cinderella</item>
+    <item index="15">Shrek the Third</item>
+    <item index="16">Despicable Me 2</item>
+    <item index="17">Snow White and the Seven Dwarfs</item>
+    <item index="18">Pocahontas</item>
+    <item index="19">Hercules</item>
+  </similar>
+</Movie>

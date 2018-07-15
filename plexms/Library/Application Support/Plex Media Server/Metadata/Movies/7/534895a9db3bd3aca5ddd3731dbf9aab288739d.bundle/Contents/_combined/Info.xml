@@ -1,0 +1,308 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Movie>
+  <art>
+    <item external="True" url="http://image.tmdb.org/t/p/original/pzy2weuGFUbYXJKs0IbeGaQwiy0.jpg" sort_order="1" provider="com.plexapp.agents.imdb" media="com.plexapp.agents.imdb_8a40b72e41fcfc562c638273b14d673389d2b37a"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/2Tksu4YRofpEk8uw3bB5TCKLflw.jpg" preview="com.plexapp.agents.imdb_dec90b68e7149b3928ce64a40e27fdfadc3aadd4" sort_order="2" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/7sbPAZh0z3Ev4VXc8sf3zB7d7td.jpg" preview="com.plexapp.agents.imdb_504cb699ef637d9b304fb88f874c9b895ae4041a" sort_order="3" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/51s63kZVe1OSYR2WLSdHirnq11h.jpg" preview="com.plexapp.agents.imdb_33dde5f3d7e7c8ad6aefee3664108c3298f0221b" sort_order="4" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/gFnEFzrgoV8x3KIZ7vZv5yWf9hU.jpg" preview="com.plexapp.agents.imdb_103e142100f33ef6a34f0abb6395f9d778c1dcf2" sort_order="5" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/hbYB5PM2usjHBQYRxqBTd4KmqO4.jpg" preview="com.plexapp.agents.imdb_ceed091944e405f21375a8081d3fbbdb163f6d7b" sort_order="6" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/1BR3PoqTZ5tLBiz36cn2qPxhyHE.jpg" preview="com.plexapp.agents.imdb_3a007e0d40c220395e82fd89a381d0efe6b9cd69" sort_order="7" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/606fJFeucsP9UEEEWrWR9dDl2oI.jpg" preview="com.plexapp.agents.imdb_14a9cfc83d522ec3882c9ffe3b6cad15283f64ed" sort_order="8" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/b7mAarzQc1oDBwpywe2do1zBClh.jpg" preview="com.plexapp.agents.imdb_b3371a129b1786c9ad2e723de331bb5c05862696" sort_order="9" provider="com.plexapp.agents.imdb"/>
+  </art>
+  <banners/>
+  <chapters>
+    <item index="0">
+      <title>Program Start</title>
+      <end_time_offset>369000</end_time_offset>
+      <start_time_offset>0</start_time_offset>
+    </item>
+    <item index="1">
+      <title>Musketeers Disbanded</title>
+      <end_time_offset>740000</end_time_offset>
+      <start_time_offset>369000</start_time_offset>
+    </item>
+    <item index="2">
+      <title>D'artagnan Meets Constance</title>
+      <end_time_offset>1051000</end_time_offset>
+      <start_time_offset>740000</start_time_offset>
+    </item>
+    <item index="3">
+      <title>Porthos Brings Down the House</title>
+      <end_time_offset>1432000</end_time_offset>
+      <start_time_offset>1051000</start_time_offset>
+    </item>
+    <item index="4">
+      <title>The Heart of a Musketeer</title>
+      <end_time_offset>1888000</end_time_offset>
+      <start_time_offset>1432000</start_time_offset>
+    </item>
+    <item index="5">
+      <title>Milady De Winter &amp; Richelieu</title>
+      <end_time_offset>2156000</end_time_offset>
+      <start_time_offset>1888000</start_time_offset>
+    </item>
+    <item index="6">
+      <title>In the Nick of Time</title>
+      <end_time_offset>2551000</end_time_offset>
+      <start_time_offset>2156000</start_time_offset>
+    </item>
+    <item index="7">
+      <title>The Manly Art of Wenching</title>
+      <end_time_offset>2824000</end_time_offset>
+      <start_time_offset>2551000</start_time_offset>
+    </item>
+    <item index="8">
+      <title>In Queen Anne's Chambers</title>
+      <end_time_offset>3197000</end_time_offset>
+      <start_time_offset>2824000</start_time_offset>
+    </item>
+    <item index="9">
+      <title>Troubling Rumors</title>
+      <end_time_offset>3554000</end_time_offset>
+      <start_time_offset>3197000</start_time_offset>
+    </item>
+    <item index="10">
+      <title>Seduction</title>
+      <end_time_offset>3880000</end_time_offset>
+      <start_time_offset>3554000</start_time_offset>
+    </item>
+    <item index="11">
+      <title>Sabine and Athos</title>
+      <end_time_offset>4113000</end_time_offset>
+      <start_time_offset>3880000</start_time_offset>
+    </item>
+    <item index="12">
+      <title>Forgiveness</title>
+      <end_time_offset>4464000</end_time_offset>
+      <start_time_offset>4113000</start_time_offset>
+    </item>
+    <item index="13">
+      <title>Assassin's Attempt</title>
+      <end_time_offset>4864000</end_time_offset>
+      <start_time_offset>4464000</start_time_offset>
+    </item>
+    <item index="14">
+      <title>Save the King</title>
+      <end_time_offset>5256000</end_time_offset>
+      <start_time_offset>4864000</start_time_offset>
+    </item>
+    <item index="15">
+      <title>Avenging His Father's Death</title>
+      <end_time_offset>5769000</end_time_offset>
+      <start_time_offset>5256000</start_time_offset>
+    </item>
+    <item index="16">
+      <title>A Surprise for Richelieu</title>
+      <end_time_offset>6147000</end_time_offset>
+      <start_time_offset>5769000</start_time_offset>
+    </item>
+    <item index="17">
+      <title>The Fourth Musketeer!</title>
+      <end_time_offset>6631000</end_time_offset>
+      <start_time_offset>6147000</start_time_offset>
+    </item>
+    <item index="18">
+      <title>End Credits</title>
+      <end_time_offset>-1</end_time_offset>
+      <start_time_offset>6631000</start_time_offset>
+    </item>
+  </chapters>
+  <collections/>
+  <content_rating>PG</content_rating>
+  <countries>
+    <item index="0">USA</item>
+  </countries>
+  <directors>
+    <item index="0">
+      <photo>http://image.tmdb.org/t/p/original/2H4PFCd4G8BLHK34lTsUs3cn2tM.jpg</photo>
+      <role/>
+      <name>Richard Lester</name>
+    </item>
+  </directors>
+  <duration>6360000</duration>
+  <genres>
+    <item index="0">Action</item>
+    <item index="1">Adventure</item>
+  </genres>
+  <originally_available_at>1973-12-11</originally_available_at>
+  <posters>
+    <item external="True" url="http://image.tmdb.org/t/p/original/eizFJltNUkfR8BjMTpc7ycR7FIg.jpg" sort_order="1" provider="com.plexapp.agents.imdb" media="com.plexapp.agents.imdb_6493f2ca02fb243f3f1441473d76af2021a90625"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/gDxGDpmY3Oo6gqYA848SVzNemmM.jpg" preview="com.plexapp.agents.imdb_d663174c2a3f0c7da349ecf15c857d351c4bb63e" sort_order="2" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/znePZAvf1dg2xbAg9P2Zn2IFhAw.jpg" preview="com.plexapp.agents.imdb_43252d29a5246c1d8da99265c1f968746fb47793" sort_order="3" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/6ah42PQJ9mZE6EZ7SLkVgnrX6VM.jpg" preview="com.plexapp.agents.imdb_ab9cc90c4b2bb297a9e87dee363074cc1bf1747a" sort_order="4" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/eLwRIh39ouGZ7xkIdzlNx1enoIL.jpg" preview="com.plexapp.agents.imdb_f1b7051a638d7b9c08f18e994d02082f9c210d21" sort_order="5" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/zysLY1DSmszBZwUdWY250rK1aJf.jpg" preview="com.plexapp.agents.imdb_14c6769d1696beae50bb15740fa4d1ec03050833" sort_order="6" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/6DBf0MhwjtHsFF9xqSZlez3flr8.jpg" preview="com.plexapp.agents.imdb_32f9531fd40907b1275cd27d1de96b2d7623cb0e" sort_order="7" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/iHDF9mRiDJQL97z0J2YIkFcUENC.jpg" preview="com.plexapp.agents.imdb_9dd98d1bbf69707a16b9ba2d5a5a9cbb186f3c72" sort_order="8" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/dKKaoIQdBjkwqdjvJqHOtFpq6yR.jpg" preview="com.plexapp.agents.imdb_0af36b4f0deaaf21e12657d3dad9a1b1aebc2187" sort_order="9" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/A2uTN3BLSa6x68UdaLqjlqPr4uM.jpg" preview="com.plexapp.agents.imdb_7c7823058f415e6c9072c38c9263ef08c0674ffd" sort_order="10" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/vVwTw9U7OWh88on0u35LSeikfNr.jpg" preview="com.plexapp.agents.imdb_90075bc6ca1e73656bb9ecf61005a4ca4b85483b" sort_order="11" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/6qjW1e31k2XhcWpzGz6lgHcRt5W.jpg" preview="com.plexapp.agents.imdb_92f3f6033561ddbda96c4128cb0ed8ced10dd8e8" sort_order="12" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/jqJPxBcQ7csZt5wCZInaLncnKa7.jpg" preview="com.plexapp.agents.imdb_c6596d7204026fbf6ee1a086c69ea1433923a283" sort_order="13" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/vpsXFBHFyyqFGijGi2I6f1JzHXw.jpg" preview="com.plexapp.agents.imdb_67e51734e38be3f071049babcb8a931e07023893" sort_order="14" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/2xHaLM5IWlHbMPi46F7pXMAvOBE.jpg" preview="com.plexapp.agents.imdb_6ca90f8651da1be94595effc06d3963be80d4b23" sort_order="15" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/oQHasyXf69EbxpjbJws63q3SMsg.jpg" preview="com.plexapp.agents.imdb_83c1bbf1244d3c68e74ce5ed81c78416ec279f11" sort_order="16" provider="com.plexapp.agents.imdb"/>
+  </posters>
+  <producers>
+    <item index="0">
+      <photo/>
+      <role/>
+      <name>Alexander Salkind</name>
+    </item>
+  </producers>
+  <rating>8.2</rating>
+  <rating_image>rottentomatoes://image.rating.ripe</rating_image>
+  <audience_rating>7.8</audience_rating>
+  <audience_rating_image>rottentomatoes://image.rating.upright</audience_rating_image>
+  <reviews/>
+  <roles>
+    <item index="0">
+      <photo>http://image.tmdb.org/t/p/original/hW0uWJtsKWsWAQ9k7EYq9sn5YCH.jpg</photo>
+      <role>D'Artagnan</role>
+      <name>Michael York</name>
+    </item>
+    <item index="1">
+      <photo>http://image.tmdb.org/t/p/original/we10IusqRV1NHRtA68ftyck2N33.jpg</photo>
+      <role>Athos</role>
+      <name>Oliver Reed</name>
+    </item>
+    <item index="2">
+      <photo>http://image.tmdb.org/t/p/original/1EkhXGn1Z3obHsOnJTA5SWEJicN.jpg</photo>
+      <role>Aramis</role>
+      <name>Richard Chamberlain</name>
+    </item>
+    <item index="3">
+      <photo>http://image.tmdb.org/t/p/original/rnWMfVFu1XQ5WS9hRr24jeZ9Ni1.jpg</photo>
+      <role>Porthos</role>
+      <name>Frank Finlay</name>
+    </item>
+    <item index="4">
+      <photo>http://image.tmdb.org/t/p/original/sq12RJZ1HTXHHI48y31YIS2qp87.jpg</photo>
+      <role>Lady de Winter</role>
+      <name>Faye Dunaway</name>
+    </item>
+    <item index="5">
+      <photo>http://image.tmdb.org/t/p/original/dEr7QkkgOqCwH1uc5VXzTxDveAv.jpg</photo>
+      <role>Constance de Bonancieux</role>
+      <name>Raquel Welch</name>
+    </item>
+    <item index="6">
+      <photo>http://image.tmdb.org/t/p/original/aVzp6zflzedmdKPLxaPqcZ05PDK.jpg</photo>
+      <role>Rochefort</role>
+      <name>Christopher Lee</name>
+    </item>
+    <item index="7">
+      <photo>http://image.tmdb.org/t/p/original/mnPoiJrhJjJArySW8wMpf84pCxu.jpg</photo>
+      <role>Anna of Austria</role>
+      <name>Geraldine Chaplin</name>
+    </item>
+    <item index="8">
+      <photo>http://image.tmdb.org/t/p/original/yWIAIvRdx0omV9ZOUwLINzHKois.jpg</photo>
+      <role>Louis XIII</role>
+      <name>Jean-Pierre Cassel</name>
+    </item>
+    <item index="9">
+      <photo>http://image.tmdb.org/t/p/original/gTKHCescSG0IZRG4tW7lFqgEOKU.jpg</photo>
+      <role>M. Bonancieux</role>
+      <name>Spike Milligan</name>
+    </item>
+    <item index="10">
+      <photo>http://image.tmdb.org/t/p/original/pXwJV9JlOCKOHSfEJdt2q61SZVq.jpg</photo>
+      <role>Cardinal Richelieu</role>
+      <name>Charlton Heston</name>
+    </item>
+    <item index="11">
+      <photo>http://image.tmdb.org/t/p/original/925VDC2NWk1ecPMeUOULeG7W29K.jpg</photo>
+      <role>Duke of Buckingham</role>
+      <name>Simon Ward</name>
+    </item>
+    <item index="12">
+      <photo>http://image.tmdb.org/t/p/original/t6CVZbtyzdoZOAy2SGQtBrCKUew.jpg</photo>
+      <role>Treville</role>
+      <name>Georges Wilson</name>
+    </item>
+    <item index="13">
+      <photo>http://image.tmdb.org/t/p/original/vPG07Lh06DuUlpcd8evvJjAGq8k.jpg</photo>
+      <role>Planchet</role>
+      <name>Roy Kinnear</name>
+    </item>
+    <item index="14">
+      <photo>http://image.tmdb.org/t/p/original/l7XyBslyU5slMUuO9zTjCRZKXex.jpg</photo>
+      <role>D'Artagnan's Father</role>
+      <name>Joss Ackland</name>
+    </item>
+    <item index="15">
+      <photo>http://image.tmdb.org/t/p/original/6WydVNd7JTYY0zbYtH2iwKGGo7k.jpg</photo>
+      <role>Eugenie</role>
+      <name>Sybil Danning</name>
+    </item>
+    <item index="16">
+      <photo>http://image.tmdb.org/t/p/original/rr5aL6UHeoPlAECSavzN6XEMlZT.jpg</photo>
+      <role>Felton</role>
+      <name>Michael Gothard</name>
+    </item>
+    <item index="17">
+      <photo>http://image.tmdb.org/t/p/original/oUc3K5aCaHDnbkeXGt0MYiFGKqL.jpg</photo>
+      <role>Kitty</role>
+      <name>Nicole Calfan</name>
+    </item>
+    <item index="18">
+      <photo/>
+      <role>Beatrice</role>
+      <name>Gitty Djamal</name>
+    </item>
+    <item index="19">
+      <photo>http://image.tmdb.org/t/p/original/npNdAhldYxaFX0WuqL0cydFznr2.jpg</photo>
+      <role>Jussac</role>
+      <name>Ángel del Pozo</name>
+    </item>
+    <item index="20">
+      <photo>http://image.tmdb.org/t/p/original/czEWLAVwjdTVggDGuNT51bO0LQQ.jpg</photo>
+      <role>Spy</role>
+      <name>Rodney Bewes</name>
+    </item>
+    <item index="21">
+      <photo/>
+      <role>D'Artagnan's Mother</role>
+      <name>Gretchen Franklin</name>
+    </item>
+  </roles>
+  <similar>
+    <item index="0">The Four Musketeers</item>
+    <item index="1">The Return of the Musketeers</item>
+    <item index="2">The Man in the Iron Mask</item>
+    <item index="3">The Boys from Brazil</item>
+    <item index="4">The Vikings</item>
+    <item index="5">Pennies from Heaven</item>
+    <item index="6">Knute Rockne All American</item>
+    <item index="7">The Crimson Pirate</item>
+    <item index="8">Tommy</item>
+    <item index="9">Married to the Mob</item>
+    <item index="10">All of Me</item>
+    <item index="11">Carry On... Up the Khyber</item>
+    <item index="12">The Mountain Men</item>
+    <item index="13">4 for Texas</item>
+    <item index="14">The Eagle Has Landed</item>
+    <item index="15">Carry On Doctor</item>
+    <item index="16">The Atomic Cafe</item>
+    <item index="17">The Wild Geese</item>
+    <item index="18">A Very Merry Cricket</item>
+    <item index="19">Octopus</item>
+  </similar>
+  <studio>Film Trust S.A.</studio>
+  <summary>The young D'Artagnan arrives in Paris with dreams of becoming a king's musketeer. He meets and quarrels with three men, Athos, Porthos, and Aramis, each of whom challenges him to a duel. D'Artagnan finds out they are musketeers and is invited to join them in their efforts to oppose Cardinal Richelieu, who wishes to increase his already considerable power over the king. D'Artagnan must also juggle affairs with the charming Constance Bonancieux and the passionate Lady De Winter, a secret agent for the cardinal.</summary>
+  <tagline>. . . One for All and All for Fun!</tagline>
+  <tags/>
+  <themes/>
+  <title>The Three Musketeers</title>
+  <writers>
+    <item index="0">
+      <photo/>
+      <role/>
+      <name>George MacDonald Fraser</name>
+    </item>
+  </writers>
+  <year>1973</year>
+</Movie>

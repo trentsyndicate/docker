@@ -1,0 +1,203 @@
+<?xml version='1.0' encoding='utf-8'?>
+<MediaContainer size="10" identifier="com.plexapp.agents.imdb" mediaTagPrefix="/system/bundle/media/flags/" prefsKey="/:/plugins/com.plexapp.agents.imdb/prefs">
+  <Video url="iva://api.internetvideoarchive.com/2.0/DataService/VideoAssets(291038)?lang=en&amp;bitrates=80,212,450,750,1500,2500,5000,8000&amp;duration=93&amp;adaptive=1&amp;dts=0" key="/system/services/url/lookup?url=iva%3A%2F%2Fapi.internetvideoarchive.com%2F2.0%2FDataService%2FVideoAssets%28291038%29%3Flang%3Den%26bitrates%3D80%2C212%2C450%2C750%2C1500%2C2500%2C5000%2C8000%26duration%3D93%26adaptive%3D1%26dts%3D0" type="clip" relationType="trailer" year="2018" title="Mechanic: Resurrection (Clean Trailer)" originallyAvailableAt="2018-02-20" thumb="https://iva-images.plex.tv/content/hdphotos/11693/011693/011693_1280x720_291038_037.jpg" ratingKey="iva://api.internetvideoarchive.com/2.0/DataService/VideoAssets(291038)?lang=en&amp;bitrates=80,212,450,750,1500,2500,5000,8000&amp;duration=93&amp;adaptive=1&amp;dts=0">
+    <Media container="mp4" height="1080" width="1920" audioCodec="aac" duration="93000" videoCodec="h264" bitrate="2500">
+      <Part duration="93000" key="/services/iva/assets/291038/video.mp4?bitrate=2500" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="1080" width="1920" codec="h264" bitrate="2500" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+    <Media container="mp4" height="720" width="1280" audioCodec="aac" duration="93000" videoCodec="h264" bitrate="1500">
+      <Part duration="93000" key="/services/iva/assets/291038/video.mp4?bitrate=1500" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="720" width="1280" codec="h264" bitrate="1500" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+    <Media container="mp4" height="480" width="640" audioCodec="aac" duration="93000" videoCodec="h264" bitrate="450">
+      <Part duration="93000" key="/services/iva/assets/291038/video.mp4?bitrate=450" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="480" width="640" codec="h264" bitrate="450" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+  </Video>
+  <Video url="iva://api.internetvideoarchive.com/2.0/DataService/VideoAssets(750801)?lang=en&amp;bitrates=80,212,450,750,1500,2500,5000,8000&amp;duration=11&amp;adaptive=1&amp;dts=0" key="/system/services/url/lookup?url=iva%3A%2F%2Fapi.internetvideoarchive.com%2F2.0%2FDataService%2FVideoAssets%28750801%29%3Flang%3Den%26bitrates%3D80%2C212%2C450%2C750%2C1500%2C2500%2C5000%2C8000%26duration%3D11%26adaptive%3D1%26dts%3D0" type="clip" relationType="behindTheScenes" year="2016" title="Mechanic: Resurrection: Jason Statham On What Made Him Come Back To The Role" originallyAvailableAt="2016-08-15" thumb="https://iva-images.plex.tv/content/hdphotos/10530/010530/010530_692x389_750801_009.jpg" ratingKey="iva://api.internetvideoarchive.com/2.0/DataService/VideoAssets(750801)?lang=en&amp;bitrates=80,212,450,750,1500,2500,5000,8000&amp;duration=11&amp;adaptive=1&amp;dts=0">
+    <Media container="mp4" height="1080" width="1920" audioCodec="aac" duration="11000" videoCodec="h264" bitrate="2500">
+      <Part duration="11000" key="/services/iva/assets/750801/video.mp4?bitrate=2500" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="1080" width="1920" codec="h264" bitrate="2500" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+    <Media container="mp4" height="720" width="1280" audioCodec="aac" duration="11000" videoCodec="h264" bitrate="1500">
+      <Part duration="11000" key="/services/iva/assets/750801/video.mp4?bitrate=1500" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="720" width="1280" codec="h264" bitrate="1500" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+    <Media container="mp4" height="480" width="640" audioCodec="aac" duration="11000" videoCodec="h264" bitrate="450">
+      <Part duration="11000" key="/services/iva/assets/750801/video.mp4?bitrate=450" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="480" width="640" codec="h264" bitrate="450" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+  </Video>
+  <Video url="iva://api.internetvideoarchive.com/2.0/DataService/VideoAssets(159898)?lang=en&amp;bitrates=80,212,450,750,1500,2500,5000,8000&amp;duration=29&amp;adaptive=1&amp;dts=0" key="/system/services/url/lookup?url=iva%3A%2F%2Fapi.internetvideoarchive.com%2F2.0%2FDataService%2FVideoAssets%28159898%29%3Flang%3Den%26bitrates%3D80%2C212%2C450%2C750%2C1500%2C2500%2C5000%2C8000%26duration%3D29%26adaptive%3D1%26dts%3D0" type="clip" relationType="behindTheScenes" year="2016" title="Mechanic: Resurrection: Vic Armstrong On The Fight Sequences" originallyAvailableAt="2016-08-15" thumb="https://iva-images.plex.tv/content/hdphotos/10530/010530/010530_1280x720_159898_004.jpg" ratingKey="iva://api.internetvideoarchive.com/2.0/DataService/VideoAssets(159898)?lang=en&amp;bitrates=80,212,450,750,1500,2500,5000,8000&amp;duration=29&amp;adaptive=1&amp;dts=0">
+    <Media container="mp4" height="1080" width="1920" audioCodec="aac" duration="29000" videoCodec="h264" bitrate="2500">
+      <Part duration="29000" key="/services/iva/assets/159898/video.mp4?bitrate=2500" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="1080" width="1920" codec="h264" bitrate="2500" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+    <Media container="mp4" height="720" width="1280" audioCodec="aac" duration="29000" videoCodec="h264" bitrate="1500">
+      <Part duration="29000" key="/services/iva/assets/159898/video.mp4?bitrate=1500" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="720" width="1280" codec="h264" bitrate="1500" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+    <Media container="mp4" height="480" width="640" audioCodec="aac" duration="29000" videoCodec="h264" bitrate="450">
+      <Part duration="29000" key="/services/iva/assets/159898/video.mp4?bitrate=450" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="480" width="640" codec="h264" bitrate="450" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+  </Video>
+  <Video url="iva://api.internetvideoarchive.com/2.0/DataService/VideoAssets(960982)?lang=en&amp;bitrates=80,212,450,750,1500,2500,5000,8000&amp;duration=22&amp;adaptive=1&amp;dts=0" key="/system/services/url/lookup?url=iva%3A%2F%2Fapi.internetvideoarchive.com%2F2.0%2FDataService%2FVideoAssets%28960982%29%3Flang%3Den%26bitrates%3D80%2C212%2C450%2C750%2C1500%2C2500%2C5000%2C8000%26duration%3D22%26adaptive%3D1%26dts%3D0" type="clip" relationType="behindTheScenes" year="2016" title="Mechanic: Resurrection: Tommy Lee Jones On The Story" originallyAvailableAt="2016-08-15" thumb="https://iva-images.plex.tv/content/hdphotos/10530/010530/010530_1280x720_960982_025.jpg" ratingKey="iva://api.internetvideoarchive.com/2.0/DataService/VideoAssets(960982)?lang=en&amp;bitrates=80,212,450,750,1500,2500,5000,8000&amp;duration=22&amp;adaptive=1&amp;dts=0">
+    <Media container="mp4" height="1080" width="1920" audioCodec="aac" duration="22000" videoCodec="h264" bitrate="2500">
+      <Part duration="22000" key="/services/iva/assets/960982/video.mp4?bitrate=2500" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="1080" width="1920" codec="h264" bitrate="2500" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+    <Media container="mp4" height="720" width="1280" audioCodec="aac" duration="22000" videoCodec="h264" bitrate="1500">
+      <Part duration="22000" key="/services/iva/assets/960982/video.mp4?bitrate=1500" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="720" width="1280" codec="h264" bitrate="1500" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+    <Media container="mp4" height="480" width="640" audioCodec="aac" duration="22000" videoCodec="h264" bitrate="450">
+      <Part duration="22000" key="/services/iva/assets/960982/video.mp4?bitrate=450" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="480" width="640" codec="h264" bitrate="450" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+  </Video>
+  <Video url="iva://api.internetvideoarchive.com/2.0/DataService/VideoAssets(128815)?lang=en&amp;bitrates=80,212,450,750,1500,2500,5000,8000&amp;duration=34&amp;adaptive=1&amp;dts=0" key="/system/services/url/lookup?url=iva%3A%2F%2Fapi.internetvideoarchive.com%2F2.0%2FDataService%2FVideoAssets%28128815%29%3Flang%3Den%26bitrates%3D80%2C212%2C450%2C750%2C1500%2C2500%2C5000%2C8000%26duration%3D34%26adaptive%3D1%26dts%3D0" type="clip" relationType="behindTheScenes" year="2016" title="Mechanic: Resurrection: Sam Hazeldine On His Character" originallyAvailableAt="2016-08-15" thumb="https://iva-images.plex.tv/content/hdphotos/10530/010530/010530_1280x720_128815_024.jpg" ratingKey="iva://api.internetvideoarchive.com/2.0/DataService/VideoAssets(128815)?lang=en&amp;bitrates=80,212,450,750,1500,2500,5000,8000&amp;duration=34&amp;adaptive=1&amp;dts=0">
+    <Media container="mp4" height="1080" width="1920" audioCodec="aac" duration="34000" videoCodec="h264" bitrate="2500">
+      <Part duration="34000" key="/services/iva/assets/128815/video.mp4?bitrate=2500" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="1080" width="1920" codec="h264" bitrate="2500" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+    <Media container="mp4" height="720" width="1280" audioCodec="aac" duration="34000" videoCodec="h264" bitrate="1500">
+      <Part duration="34000" key="/services/iva/assets/128815/video.mp4?bitrate=1500" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="720" width="1280" codec="h264" bitrate="1500" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+    <Media container="mp4" height="480" width="640" audioCodec="aac" duration="34000" videoCodec="h264" bitrate="450">
+      <Part duration="34000" key="/services/iva/assets/128815/video.mp4?bitrate=450" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="480" width="640" codec="h264" bitrate="450" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+  </Video>
+  <Video url="iva://api.internetvideoarchive.com/2.0/DataService/VideoAssets(15186)?lang=en&amp;bitrates=80,212,450,750,1500,2500,5000,8000&amp;duration=26&amp;adaptive=1&amp;dts=0" key="/system/services/url/lookup?url=iva%3A%2F%2Fapi.internetvideoarchive.com%2F2.0%2FDataService%2FVideoAssets%2815186%29%3Flang%3Den%26bitrates%3D80%2C212%2C450%2C750%2C1500%2C2500%2C5000%2C8000%26duration%3D26%26adaptive%3D1%26dts%3D0" type="clip" relationType="behindTheScenes" year="2016" title="Mechanic: Resurrection: Philip Shelby On The Character 'Arthur Bishop'" originallyAvailableAt="2016-08-15" thumb="https://iva-images.plex.tv/content/hdphotos/10530/010530/010530_1280x720_15186_009.jpg" ratingKey="iva://api.internetvideoarchive.com/2.0/DataService/VideoAssets(15186)?lang=en&amp;bitrates=80,212,450,750,1500,2500,5000,8000&amp;duration=26&amp;adaptive=1&amp;dts=0">
+    <Media container="mp4" height="1080" width="1920" audioCodec="aac" duration="26000" videoCodec="h264" bitrate="2500">
+      <Part duration="26000" key="/services/iva/assets/15186/video.mp4?bitrate=2500" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="1080" width="1920" codec="h264" bitrate="2500" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+    <Media container="mp4" height="720" width="1280" audioCodec="aac" duration="26000" videoCodec="h264" bitrate="1500">
+      <Part duration="26000" key="/services/iva/assets/15186/video.mp4?bitrate=1500" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="720" width="1280" codec="h264" bitrate="1500" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+    <Media container="mp4" height="480" width="640" audioCodec="aac" duration="26000" videoCodec="h264" bitrate="450">
+      <Part duration="26000" key="/services/iva/assets/15186/video.mp4?bitrate=450" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="480" width="640" codec="h264" bitrate="450" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+  </Video>
+  <Video url="iva://api.internetvideoarchive.com/2.0/DataService/VideoAssets(384974)?lang=en&amp;bitrates=80,212,450,750,1500,2500,5000,8000&amp;duration=33&amp;adaptive=1&amp;dts=0" key="/system/services/url/lookup?url=iva%3A%2F%2Fapi.internetvideoarchive.com%2F2.0%2FDataService%2FVideoAssets%28384974%29%3Flang%3Den%26bitrates%3D80%2C212%2C450%2C750%2C1500%2C2500%2C5000%2C8000%26duration%3D33%26adaptive%3D1%26dts%3D0" type="clip" relationType="behindTheScenes" year="2016" title="Mechanic: Resurrection: Michelle Yeoh On Her Character" originallyAvailableAt="2016-08-15" thumb="https://iva-images.plex.tv/content/hdphotos/10530/010530/010530_1280x720_384974_043.jpg" ratingKey="iva://api.internetvideoarchive.com/2.0/DataService/VideoAssets(384974)?lang=en&amp;bitrates=80,212,450,750,1500,2500,5000,8000&amp;duration=33&amp;adaptive=1&amp;dts=0">
+    <Media container="mp4" height="1080" width="1920" audioCodec="aac" duration="33000" videoCodec="h264" bitrate="2500">
+      <Part duration="33000" key="/services/iva/assets/384974/video.mp4?bitrate=2500" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="1080" width="1920" codec="h264" bitrate="2500" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+    <Media container="mp4" height="720" width="1280" audioCodec="aac" duration="33000" videoCodec="h264" bitrate="1500">
+      <Part duration="33000" key="/services/iva/assets/384974/video.mp4?bitrate=1500" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="720" width="1280" codec="h264" bitrate="1500" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+    <Media container="mp4" height="480" width="640" audioCodec="aac" duration="33000" videoCodec="h264" bitrate="450">
+      <Part duration="33000" key="/services/iva/assets/384974/video.mp4?bitrate=450" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="480" width="640" codec="h264" bitrate="450" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+  </Video>
+  <Video url="iva://api.internetvideoarchive.com/2.0/DataService/VideoAssets(106147)?lang=en&amp;bitrates=80,212,450,750,1500,2500,5000,8000&amp;duration=29&amp;adaptive=1&amp;dts=0" key="/system/services/url/lookup?url=iva%3A%2F%2Fapi.internetvideoarchive.com%2F2.0%2FDataService%2FVideoAssets%28106147%29%3Flang%3Den%26bitrates%3D80%2C212%2C450%2C750%2C1500%2C2500%2C5000%2C8000%26duration%3D29%26adaptive%3D1%26dts%3D0" type="clip" relationType="behindTheScenes" year="2016" title="Mechanic: Resurrection: Jessica Alba On Her Character" originallyAvailableAt="2016-08-15" thumb="https://iva-images.plex.tv/content/hdphotos/10530/010530/010530_1280x720_106147_045.jpg" ratingKey="iva://api.internetvideoarchive.com/2.0/DataService/VideoAssets(106147)?lang=en&amp;bitrates=80,212,450,750,1500,2500,5000,8000&amp;duration=29&amp;adaptive=1&amp;dts=0">
+    <Media container="mp4" height="1080" width="1920" audioCodec="aac" duration="29000" videoCodec="h264" bitrate="2500">
+      <Part duration="29000" key="/services/iva/assets/106147/video.mp4?bitrate=2500" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="1080" width="1920" codec="h264" bitrate="2500" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+    <Media container="mp4" height="720" width="1280" audioCodec="aac" duration="29000" videoCodec="h264" bitrate="1500">
+      <Part duration="29000" key="/services/iva/assets/106147/video.mp4?bitrate=1500" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="720" width="1280" codec="h264" bitrate="1500" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+    <Media container="mp4" height="480" width="640" audioCodec="aac" duration="29000" videoCodec="h264" bitrate="450">
+      <Part duration="29000" key="/services/iva/assets/106147/video.mp4?bitrate=450" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="480" width="640" codec="h264" bitrate="450" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+  </Video>
+  <Video url="iva://api.internetvideoarchive.com/2.0/DataService/VideoAssets(279456)?lang=en&amp;bitrates=80,212,450,750,1500,2500,5000,8000&amp;duration=56&amp;adaptive=1&amp;dts=0" key="/system/services/url/lookup?url=iva%3A%2F%2Fapi.internetvideoarchive.com%2F2.0%2FDataService%2FVideoAssets%28279456%29%3Flang%3Den%26bitrates%3D80%2C212%2C450%2C750%2C1500%2C2500%2C5000%2C8000%26duration%3D56%26adaptive%3D1%26dts%3D0" type="clip" relationType="behindTheScenes" year="2016" title="Mechanic: Resurrection: Frank Demartini On Locations" originallyAvailableAt="2016-08-15" thumb="https://iva-images.plex.tv/content/hdphotos/10530/010530/010530_1280x720_279456_006.jpg" ratingKey="iva://api.internetvideoarchive.com/2.0/DataService/VideoAssets(279456)?lang=en&amp;bitrates=80,212,450,750,1500,2500,5000,8000&amp;duration=56&amp;adaptive=1&amp;dts=0">
+    <Media container="mp4" height="1080" width="1920" audioCodec="aac" duration="56000" videoCodec="h264" bitrate="2500">
+      <Part duration="56000" key="/services/iva/assets/279456/video.mp4?bitrate=2500" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="1080" width="1920" codec="h264" bitrate="2500" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+    <Media container="mp4" height="720" width="1280" audioCodec="aac" duration="56000" videoCodec="h264" bitrate="1500">
+      <Part duration="56000" key="/services/iva/assets/279456/video.mp4?bitrate=1500" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="720" width="1280" codec="h264" bitrate="1500" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+    <Media container="mp4" height="480" width="640" audioCodec="aac" duration="56000" videoCodec="h264" bitrate="450">
+      <Part duration="56000" key="/services/iva/assets/279456/video.mp4?bitrate=450" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="480" width="640" codec="h264" bitrate="450" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+  </Video>
+  <Video url="iva://api.internetvideoarchive.com/2.0/DataService/VideoAssets(788143)?lang=en&amp;bitrates=80,212,450,750,1500,2500,5000,8000&amp;duration=42&amp;adaptive=1&amp;dts=0" key="/system/services/url/lookup?url=iva%3A%2F%2Fapi.internetvideoarchive.com%2F2.0%2FDataService%2FVideoAssets%28788143%29%3Flang%3Den%26bitrates%3D80%2C212%2C450%2C750%2C1500%2C2500%2C5000%2C8000%26duration%3D42%26adaptive%3D1%26dts%3D0" type="clip" relationType="behindTheScenes" year="2016" title="Mechanic: Resurrection: Dennis Gansel On The Character 'Arthur Bishop'" originallyAvailableAt="2016-08-15" thumb="https://iva-images.plex.tv/content/hdphotos/10530/010530/010530_1280x720_788143_012.jpg" ratingKey="iva://api.internetvideoarchive.com/2.0/DataService/VideoAssets(788143)?lang=en&amp;bitrates=80,212,450,750,1500,2500,5000,8000&amp;duration=42&amp;adaptive=1&amp;dts=0">
+    <Media container="mp4" height="1080" width="1920" audioCodec="aac" duration="42000" videoCodec="h264" bitrate="2500">
+      <Part duration="42000" key="/services/iva/assets/788143/video.mp4?bitrate=2500" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="1080" width="1920" codec="h264" bitrate="2500" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+    <Media container="mp4" height="720" width="1280" audioCodec="aac" duration="42000" videoCodec="h264" bitrate="1500">
+      <Part duration="42000" key="/services/iva/assets/788143/video.mp4?bitrate=1500" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="720" width="1280" codec="h264" bitrate="1500" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+    <Media container="mp4" height="480" width="640" audioCodec="aac" duration="42000" videoCodec="h264" bitrate="450">
+      <Part duration="42000" key="/services/iva/assets/788143/video.mp4?bitrate=450" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="480" width="640" codec="h264" bitrate="450" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+  </Video>
+</MediaContainer>

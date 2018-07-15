@@ -1,0 +1,579 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Movie>
+  <art>
+    <item external="True" url="http://image.tmdb.org/t/p/original/iKIqdg57IPFChuZioKUAZnreH1W.jpg" sort_order="1" provider="com.plexapp.agents.imdb" media="com.plexapp.agents.imdb_70407259147b070c6f4fa5963793536a49de8ec2"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/i95gn6UvUKqQRcqi1tXwuRAcvhr.jpg" preview="com.plexapp.agents.imdb_9ca2051e13b07896d2770c9916497651936bec39" sort_order="2" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/yXHtuIlUDoJ5niQ3wHz7kfWkNKE.jpg" preview="com.plexapp.agents.imdb_2fd5f8e13838cfc5d1026c45d0707c4c58b4beb4" sort_order="3" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/5vZw7ltCKI0JiOYTtRxaIC3DX0e.jpg" preview="com.plexapp.agents.imdb_3fa474a214d8ef8e1b3ea63a4a001531a05a833e" sort_order="4" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/33N3GgT58J8GIvYBBOUEttDS6dW.jpg" preview="com.plexapp.agents.imdb_9495ec61b5832e9b9a7a20ec31f2ce5e065286db" sort_order="5" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/sHg0lJLtfTuGQxUz3Yie5AGW4v0.jpg" preview="com.plexapp.agents.imdb_250b42ebd665449e769b2b3a7d86dc45763f618f" sort_order="6" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/tfhJDGI8uyMlUVjGQ61iW4WNnPb.jpg" preview="com.plexapp.agents.imdb_c920314e5d473f580c95b9776ce2b86318400b90" sort_order="7" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/jXtKhWFg3ykUMABl6iZuJs9B462.jpg" preview="com.plexapp.agents.imdb_82d170fb6881318e73d77bb9c593820f76b3af3e" sort_order="8" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/wDxBiR7d6h0reCWvxz2r5jdq9ec.jpg" preview="com.plexapp.agents.imdb_582cc29213dbd92fd6ebe7d592ef8cc1f2700a9b" sort_order="9" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/lzlmVfWybluyzhaH1kwQSx4WoYZ.jpg" preview="com.plexapp.agents.imdb_f70bdba52259eecdb5f6f82bc86483a6346a44ef" sort_order="10" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/rbv2zVEE4XsdXI4FNc7UpotPAGf.jpg" preview="com.plexapp.agents.imdb_fe15a9183552b0afbb9c0d4c42cfd2c6bcb8345d" sort_order="11" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/iE9dDQMnqLI5IgPBZMK4mIJ48Ly.jpg" preview="com.plexapp.agents.imdb_94e3e619b13a4bd6ce652a412cc8f15bef4aed6b" sort_order="12" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/om7Dt9pSF2cSBaAQ2QSI1GzcxrF.jpg" preview="com.plexapp.agents.imdb_dc6e4867202386c0458a57d0e7a0f43f65652092" sort_order="13" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/xluYR21Maa2me0QAPfMrPqieKJO.jpg" preview="com.plexapp.agents.imdb_880f4c37573aee70557738d3f06916490fabbfde" sort_order="14" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/kcypIQsAnR7SFyz1FI8vq9FTVmR.jpg" preview="com.plexapp.agents.imdb_d21629019dc805babaf9c559374833c1c3e69416" sort_order="15" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/tS6je8N3uwZTZsYRjeHXIi99SWQ.jpg" preview="com.plexapp.agents.imdb_1f5d1c89c18e33f5027e9aeef6696dc72bfa6e82" sort_order="16" provider="com.plexapp.agents.imdb"/>
+  </art>
+  <banners/>
+  <chapters>
+    <item index="0">
+      <title>Far From Home (Main Title)</title>
+      <end_time_offset>433000</end_time_offset>
+      <start_time_offset>0</start_time_offset>
+    </item>
+    <item index="1">
+      <title>Hell Unleashed</title>
+      <end_time_offset>770000</end_time_offset>
+      <start_time_offset>433000</start_time_offset>
+    </item>
+    <item index="2">
+      <title>You Have Missed the War</title>
+      <end_time_offset>1124000</end_time_offset>
+      <start_time_offset>770000</start_time_offset>
+    </item>
+    <item index="3">
+      <title>A Pleasant Fiction</title>
+      <end_time_offset>1409000</end_time_offset>
+      <start_time_offset>1124000</start_time_offset>
+    </item>
+    <item index="4">
+      <title>One More Duty</title>
+      <end_time_offset>1978000</end_time_offset>
+      <start_time_offset>1409000</start_time_offset>
+    </item>
+    <item index="5">
+      <title>You Will Not Be Emperor</title>
+      <end_time_offset>2254000</end_time_offset>
+      <start_time_offset>1978000</start_time_offset>
+    </item>
+    <item index="6">
+      <title>Hail Caesar</title>
+      <end_time_offset>2450000</end_time_offset>
+      <start_time_offset>2254000</start_time_offset>
+    </item>
+    <item index="7">
+      <title>A Soldier's Death</title>
+      <end_time_offset>2852000</end_time_offset>
+      <start_time_offset>2450000</start_time_offset>
+    </item>
+    <item index="8">
+      <title>Mark of the Legion</title>
+      <end_time_offset>3095000</end_time_offset>
+      <start_time_offset>2852000</start_time_offset>
+    </item>
+    <item index="9">
+      <title>Gladiators, I Salute You</title>
+      <end_time_offset>3344000</end_time_offset>
+      <start_time_offset>3095000</start_time_offset>
+    </item>
+    <item index="10">
+      <title>Battle in Chains</title>
+      <end_time_offset>3741000</end_time_offset>
+      <start_time_offset>3344000</start_time_offset>
+    </item>
+    <item index="11">
+      <title>The Greatness of Rome</title>
+      <end_time_offset>4196000</end_time_offset>
+      <start_time_offset>3741000</start_time_offset>
+    </item>
+    <item index="12">
+      <title>Win the Crowd</title>
+      <end_time_offset>4748000</end_time_offset>
+      <start_time_offset>4196000</start_time_offset>
+    </item>
+    <item index="13">
+      <title>I Shall Cheer for You</title>
+      <end_time_offset>5361000</end_time_offset>
+      <start_time_offset>4748000</start_time_offset>
+    </item>
+    <item index="14">
+      <title>The Battle of Carthage</title>
+      <end_time_offset>5831000</end_time_offset>
+      <start_time_offset>5361000</start_time_offset>
+    </item>
+    <item index="15">
+      <title>My Name Is Gladiator</title>
+      <end_time_offset>6095000</end_time_offset>
+      <start_time_offset>5831000</start_time_offset>
+    </item>
+    <item index="16">
+      <title>Terribly Vexed</title>
+      <end_time_offset>6718000</end_time_offset>
+      <start_time_offset>6095000</start_time_offset>
+    </item>
+    <item index="17">
+      <title>A Man for the People</title>
+      <end_time_offset>6996000</end_time_offset>
+      <start_time_offset>6718000</start_time_offset>
+    </item>
+    <item index="18">
+      <title>Maximus the Merciful</title>
+      <end_time_offset>7243000</end_time_offset>
+      <start_time_offset>6996000</start_time_offset>
+    </item>
+    <item index="19">
+      <title>You Simply Won't Die</title>
+      <end_time_offset>7482000</end_time_offset>
+      <start_time_offset>7243000</start_time_offset>
+    </item>
+    <item index="20">
+      <title>The Last Wish of a Dying Man</title>
+      <end_time_offset>7939000</end_time_offset>
+      <start_time_offset>7482000</start_time_offset>
+    </item>
+    <item index="21">
+      <title>I'm an Entertainer</title>
+      <end_time_offset>8012000</end_time_offset>
+      <start_time_offset>7939000</start_time_offset>
+    </item>
+    <item index="22">
+      <title>Busy Little Bee</title>
+      <end_time_offset>8655000</end_time_offset>
+      <start_time_offset>8012000</start_time_offset>
+    </item>
+    <item index="23">
+      <title>Shadows and Dust</title>
+      <end_time_offset>8928000</end_time_offset>
+      <start_time_offset>8655000</start_time_offset>
+    </item>
+    <item index="24">
+      <title>Am I Not Merciful</title>
+      <end_time_offset>9260000</end_time_offset>
+      <start_time_offset>8928000</start_time_offset>
+    </item>
+    <item index="25">
+      <title>Death Smiles at Us All</title>
+      <end_time_offset>9523000</end_time_offset>
+      <start_time_offset>9260000</start_time_offset>
+    </item>
+    <item index="26">
+      <title>Home Again</title>
+      <end_time_offset>9777000</end_time_offset>
+      <start_time_offset>9523000</start_time_offset>
+    </item>
+    <item index="27">
+      <title>Now We Are Free</title>
+      <end_time_offset>-1</end_time_offset>
+      <start_time_offset>9777000</start_time_offset>
+    </item>
+  </chapters>
+  <collections/>
+  <content_rating>R</content_rating>
+  <countries>
+    <item index="0">USA</item>
+  </countries>
+  <directors>
+    <item index="0">
+      <photo>http://image.tmdb.org/t/p/original/fB1ypzkwJKXEOVVAd4ymYRpBkdC.jpg</photo>
+      <role/>
+      <name>Ridley Scott</name>
+    </item>
+  </directors>
+  <duration>9300000</duration>
+  <genres>
+    <item index="0">Action</item>
+    <item index="1">Adventure</item>
+    <item index="2">Drama</item>
+  </genres>
+  <originally_available_at>2000-05-01</originally_available_at>
+  <posters>
+    <item external="True" url="http://image.tmdb.org/t/p/original/X62M0OmqJpDsTmTNBSEnb1Dpm2.jpg" sort_order="1" provider="com.plexapp.agents.imdb" media="com.plexapp.agents.imdb_b7fc21eccee8bb207d7994562366983936423816"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/6WBIzCgmDCYrqh64yDREGeDk9d3.jpg" preview="com.plexapp.agents.imdb_2e5bd7ea32ab6b93f415c78dd111995adc49500f" sort_order="2" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/kvXbWUN39JGvRu1ovrQiHMi80NI.jpg" preview="com.plexapp.agents.imdb_eebded2125adec8ad1bb7dcd42dd69305afa1805" sort_order="3" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/tD4ERa7I3YyQFnrFoFU3YXo4E1L.jpg" preview="com.plexapp.agents.imdb_23dbff23a5ff5db95cc92987a4b3405680e24241" sort_order="4" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/u8enWVNroJiwB1crXmaV2a3UXEn.jpg" preview="com.plexapp.agents.imdb_6d0666bca677f27b778a793d7ebbd88398cce39c" sort_order="5" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/5qoogeTKbptK6KBSGKNIKUfozyO.jpg" preview="com.plexapp.agents.imdb_10089ebe6a6cc922216da3f30d1b380f0aaefdad" sort_order="6" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/9HHuKIB3djq1tgUsPDdmDQhN5b5.jpg" preview="com.plexapp.agents.imdb_3333bc2e32fbebcfa54b5f1b875b846339f0f642" sort_order="7" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/eICL47Cz24HS17VAZRoqLNpVfgY.jpg" preview="com.plexapp.agents.imdb_cb7208fe5960e9fcfffc3d0d78b9159c860c5c2a" sort_order="8" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/ofDw0himYNpehWA69OkPWOzXOYK.jpg" preview="com.plexapp.agents.imdb_1490389c8acf5be242cba619b1c6030e739c0dd1" sort_order="9" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/hY0z0HghtolIKAy6wpRDEDkvWzL.jpg" preview="com.plexapp.agents.imdb_851e4f4db05a982b73b086f5a833287b60833f04" sort_order="10" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/kN5WZnPzQQeI6HEaWWyIh8U83oR.jpg" preview="com.plexapp.agents.imdb_10965530920cb53892cea7613e283b52cd80a069" sort_order="11" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/wlroezd0Wh8eYCr10x6txAeLY8U.jpg" preview="com.plexapp.agents.imdb_42719d626f3313b91872489446fe4f36492d3826" sort_order="12" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/uizIYdHeyrhOFMJvNC26Wuis1UM.jpg" preview="com.plexapp.agents.imdb_2e21053bdf2ef17037fb33923d3af024dcb0cc91" sort_order="13" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/hOMc3EXpq8vugWoMYhuDYTrUGKH.jpg" preview="com.plexapp.agents.imdb_209154213e08b8e2a5627ac32dc0ae033ced285f" sort_order="14" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/6NV71dmQqoiUJJsux2mvQASkYb2.jpg" preview="com.plexapp.agents.imdb_b6c6fd0ebabb881efbfbfdce9292c6ebaf8a3038" sort_order="15" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/6Q32NH0KzKW0CVrj88oZx2lDEiQ.jpg" preview="com.plexapp.agents.imdb_bfbcc49ff0ad6064b39f266250b0fd261cd228ae" sort_order="16" provider="com.plexapp.agents.imdb"/>
+  </posters>
+  <producers>
+    <item index="0">
+      <photo/>
+      <role/>
+      <name>David Franzoni</name>
+    </item>
+    <item index="1">
+      <photo/>
+      <role/>
+      <name>Branko Lustig</name>
+    </item>
+    <item index="2">
+      <photo/>
+      <role/>
+      <name>Douglas Wick</name>
+    </item>
+  </producers>
+  <rating>7.7</rating>
+  <rating_image>rottentomatoes://image.rating.ripe</rating_image>
+  <audience_rating>8.7</audience_rating>
+  <audience_rating_image>rottentomatoes://image.rating.upright</audience_rating_image>
+  <reviews>
+    <item index="0">
+      <text>Russell Crowe solidly anchors this epic-scale gladiator movie - the first in nearly four decades - by using his burly frame and expressive face to give dimension to what might otherwise have been comic book heroics.</text>
+      <source>Hollywood Reporter</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>https://www.hollywoodreporter.com/review/gladiator-review-2000-movie-1000492</link>
+      <author>Staff</author>
+    </item>
+    <item index="1">
+      <text>Gladiator is a triumph. On the surface, it's a terrific yarn with strong, rounded characters, agonizing suspense and visceral thrills. Look closer and you'll find rich historical themes, and a harrowing critique of violence as amusement.</text>
+      <source>Minneapolis Star Tribune</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>http://www.startribune.com/lifestyle/11487906.html</link>
+      <author>Colin Covert</author>
+    </item>
+    <item index="2">
+      <text>Gladiator is filled with brilliant filmmaking and features outstanding performances, but it's neither profound enough nor pop enough to be great -- it's mournful, serious, beautiful and, finally, pointless.</text>
+      <source>L.A. Weekly</source>
+      <image>rottentomatoes://image.review.rotten</image>
+      <link>http://www.laweekly.com/2000-05-11/film-tv/saving-general-maximus/</link>
+      <author>Manohla Dargis</author>
+    </item>
+    <item index="3">
+      <text>Ridley Scott thrusts us so close to the combat that all we see is a lot of whirling and thrashing, a sword thrust here and there, a spurt of blood, a limb severed. There's hardly a scene that is cleanly and coherently staged in open space.</text>
+      <source>New Yorker</source>
+      <image>rottentomatoes://image.review.rotten</image>
+      <link>http://www.newyorker.com/archive/2000/05/15/2000_05_15_105_TNY_LIBRY_000020855</link>
+      <author>David Denby</author>
+    </item>
+    <item index="4">
+      <text>If there's a soft spot in your heart for the sword-&amp;-sandal epic, then you'll swoon with giddy delight over Gladiator.</text>
+      <source>New York Daily News</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>http://www.nydailynews.com/archives/nydn-features/thumbs-gritty-epic-gladiator-russell-crowe-defines-tough-roman-hero-falls-grace-arena-article-1.869708</link>
+      <author>Jami Bernard</author>
+    </item>
+    <item index="5">
+      <text>Crowe doesn't use tricks in this role to court our approval. He earns it the old-fashioned way, by daring to be quiet, if not silent, and intensely, implacably strong.</text>
+      <source>Wall Street Journal</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>http://online.wsj.com/article/SB957485792293788701.html</link>
+      <author>Joe Morgenstern</author>
+    </item>
+    <item index="6">
+      <text>The fusion of the ancient and the modern -- even to the point of some sly echoes of our own sports-mad society -- is seamless. Gladiator does indeed deliver the glory that was Rome, but it also clinically dissects the assumptions on which it was built.</text>
+      <source>Philadelphia Inquirer</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>http://articles.philly.com/2000-05-05/entertainment/25618469_1_commodus-maximus-strength-and-honor</link>
+      <author>Desmond Ryan</author>
+    </item>
+    <item index="7">
+      <text>Gladiator's combination of grim sanctimony and drenching, Dolby-ized dismemberings left me appalled.</text>
+      <source>Slate</source>
+      <image>rottentomatoes://image.review.rotten</image>
+      <link>http://www.slate.com/articles/arts/movies/2000/05/crapus_maximus.html</link>
+      <author>David Edelstein</author>
+    </item>
+    <item index="8">
+      <text>Time for a little gladiatorial gore with your Milk Duds. Gladiator is here, and it's big, glorious and eminently dumb.</text>
+      <source>Associated Press</source>
+      <image>rottentomatoes://image.review.rotten</image>
+      <link>http://www.hurriyetdailynews.com/box-office-hit-gladiator-begins-in-turkey-as-well.aspx?pageID=438&amp;n=box-office-hit-gladiator-begins-in-turkey-as-well-2000-05-19</link>
+      <author>David Germain</author>
+    </item>
+    <item index="9">
+      <text>Ultimately, Gladiator is an honorable and inoffensive spectacle with nothing extraordinary to recommend it.</text>
+      <source>New York Observer</source>
+      <image>rottentomatoes://image.review.rotten</image>
+      <link>http://observer.com/2000/05/russell-crowe-in-a-toga-but-not-a-single-orgy/</link>
+      <author>Andrew Sarris</author>
+    </item>
+    <item index="10">
+      <text>Though the digital effects lack the weight and conviction of their equivalents in old Cecil B. De Mille movies, Ridley Scott's sword-and-sandal epic has some of the intensity of old Hollywood in terms of storytelling, spectacle, and violence.</text>
+      <source>Chicago Reader</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>http://onfilm.chicagoreader.com/movies/capsules/18868_GLADIATOR_SCOTT</link>
+      <author>Jonathan Rosenbaum</author>
+    </item>
+    <item index="11">
+      <text>The cast is strong (notably Nielsen as Commodus's vacillating sister, and the late Oliver Reed, unusually endearing as a gladiator owner), the pacing lively, and the sets, swordplay and Scud catapults impressive.</text>
+      <source>Time Out</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>http://www.timeout.com/film/reviews/70255/gladiator.html</link>
+      <author>Geoff Andrew</author>
+    </item>
+    <item index="12">
+      <text>The Roman costume drama, all dressed to the IX's, has taken a long holiday from the big screen.</text>
+      <source>Globe and Mail</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>http://www.theglobeandmail.com/arts/the-roman-empire-struts-back/article767655/</link>
+      <author>Rick Groen</author>
+    </item>
+    <item index="13">
+      <text>The most visually spectacular of all Roman Empire epics.</text>
+      <source>Chicago Tribune</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>http://articles.chicagotribune.com/2000-05-05/entertainment/0005050133_1_maximus-commodus-roman-empire-epics</link>
+      <author>Michael Wilmington</author>
+    </item>
+    <item index="14">
+      <text>A truly transporting trip back nearly 2,000 years.</text>
+      <source>Variety</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>http://variety.com/2000/film/reviews/gladiator-3-1200461595/</link>
+      <author>Todd McCarthy</author>
+    </item>
+    <item index="15">
+      <text>The film looks muddy, fuzzy and indistinct.</text>
+      <source>Chicago Sun-Times</source>
+      <image>rottentomatoes://image.review.rotten</image>
+      <link>http://www.rogerebert.com/reviews/gladiator-2000</link>
+      <author>Roger Ebert</author>
+    </item>
+  </reviews>
+  <roles>
+    <item index="0">
+      <photo>http://image.tmdb.org/t/p/original/ktuOAyUHM2u2YPPChH8gAArxJ7b.jpg</photo>
+      <role>Maximus</role>
+      <name>Russell Crowe</name>
+    </item>
+    <item index="1">
+      <photo>http://image.tmdb.org/t/p/original/cK0BTrAM1xcsto8kVvHhd9AV8dW.jpg</photo>
+      <role>Commodus</role>
+      <name>Joaquin Phoenix</name>
+    </item>
+    <item index="2">
+      <photo>http://image.tmdb.org/t/p/original/lvQypTfeH2Gn2PTbzq6XkT2PLmn.jpg</photo>
+      <role>Lucilla</role>
+      <name>Connie Nielsen</name>
+    </item>
+    <item index="3">
+      <photo>http://image.tmdb.org/t/p/original/we10IusqRV1NHRtA68ftyck2N33.jpg</photo>
+      <role>Proximo</role>
+      <name>Oliver Reed</name>
+    </item>
+    <item index="4">
+      <photo>http://image.tmdb.org/t/p/original/64jkJJtL5sins6nwGKOERduLSEA.jpg</photo>
+      <role>Marcus Aurelius</role>
+      <name>Richard Harris</name>
+    </item>
+    <item index="5">
+      <photo>http://image.tmdb.org/t/p/original/jJ4MkVS59gCfJhWMfLTbeHKjoyC.jpg</photo>
+      <role>Gracchus</role>
+      <name>Derek Jacobi</name>
+    </item>
+    <item index="6">
+      <photo>http://image.tmdb.org/t/p/original/y22Pb0XAVqC0l7ukzKKtXzPEuHk.jpg</photo>
+      <role>Juba</role>
+      <name>Djimon Hounsou</name>
+    </item>
+    <item index="7">
+      <photo>http://image.tmdb.org/t/p/original/fN64rPih5p4OdbrpX22QURjRUg7.jpg</photo>
+      <role>Falco</role>
+      <name>David Schofield</name>
+    </item>
+    <item index="8">
+      <photo>http://image.tmdb.org/t/p/original/nDIK01IoVNx7cfYOrKqGugItqO9.jpg</photo>
+      <role>Gaius</role>
+      <name>John Shrapnel</name>
+    </item>
+    <item index="9">
+      <photo>http://image.tmdb.org/t/p/original/sx8tDGA7e7d5oDYpQwaydmGcc93.jpg</photo>
+      <role>Quintus</role>
+      <name>Tomas Arana</name>
+    </item>
+    <item index="10">
+      <photo>http://image.tmdb.org/t/p/original/hkeBpMT7UAPTARD6fPsG10Ob5Cr.jpg</photo>
+      <role>Hagen</role>
+      <name>Ralf Moeller</name>
+    </item>
+    <item index="11">
+      <photo>http://image.tmdb.org/t/p/original/eVHvVN05wJSINFlkjxjwOwe6C3L.jpg</photo>
+      <role>Cicero</role>
+      <name>Tommy Flanagan</name>
+    </item>
+    <item index="12">
+      <photo>http://image.tmdb.org/t/p/original/y8SNxG3WuPDLZlZXCkuvdrNFvao.jpg</photo>
+      <role>Lucius</role>
+      <name>Spencer Treat Clark</name>
+    </item>
+    <item index="13">
+      <photo>http://image.tmdb.org/t/p/original/k2M6UrbkWYF8FewmKQm3TWu6KMX.jpg</photo>
+      <role>Cassius</role>
+      <name>David Hemmings</name>
+    </item>
+    <item index="14">
+      <photo>http://image.tmdb.org/t/p/original/vNjv3gk22eqihzOqXm2vz5yP58V.jpg</photo>
+      <role>Tigris</role>
+      <name>Sven-Ole Thorsen</name>
+    </item>
+    <item index="15">
+      <photo>http://image.tmdb.org/t/p/original/1S5raNCzDtTLERUftxr4Zgg80Bv.jpg</photo>
+      <role>Maximus' Wife</role>
+      <name>Giannina Facio</name>
+    </item>
+    <item index="16">
+      <photo>http://image.tmdb.org/t/p/original/7HOO5qPFBRAKCEgsqXZltaEyB4Z.jpg</photo>
+      <role>Praetorian Guard #1</role>
+      <name>Alun Raglan</name>
+    </item>
+    <item index="17">
+      <photo>http://image.tmdb.org/t/p/original/bsIi74EFmtElj00PcCzrao8271X.jpg</photo>
+      <role>Maximus' Son</role>
+      <name>Giorgio Cantarini</name>
+    </item>
+    <item index="18">
+      <photo>http://image.tmdb.org/t/p/original/iUKR4K7ftO6xj6ExewkIBlL9tYw.jpg</photo>
+      <role>Engineer</role>
+      <name>David Bailie</name>
+    </item>
+    <item index="19">
+      <photo>http://image.tmdb.org/t/p/original/2o8UqsQczH3NVW1HXBGCTibvOGF.jpg</photo>
+      <role>Slave Trader</role>
+      <name>Omid Djalili</name>
+    </item>
+    <item index="20">
+      <photo/>
+      <role>Praetorian Officer</role>
+      <name>Nicholas McGaughey</name>
+    </item>
+    <item index="21">
+      <photo>http://image.tmdb.org/t/p/original/IhqoydPOiP53AI6NeHTVwDcHTz.jpg</photo>
+      <role>Assassin #1</role>
+      <name>Tony Curran</name>
+    </item>
+    <item index="22">
+      <photo/>
+      <role>Assassin #2</role>
+      <name>Mark Lewis</name>
+    </item>
+    <item index="23">
+      <photo/>
+      <role>Valerius</role>
+      <name>John Quinn</name>
+    </item>
+    <item index="24">
+      <photo>http://image.tmdb.org/t/p/original/hUkcVLyvZrF3pDyEaOdwA9c3gOl.jpg</photo>
+      <role>Rome Trainer #1</role>
+      <name>Al Hunter Ashton</name>
+    </item>
+    <item index="25">
+      <photo>http://image.tmdb.org/t/p/original/2ojqtqJHgZS2Nzjfy27luskDunp.jpg</photo>
+      <role>Trainer 1</role>
+      <name>Allan Corduner</name>
+    </item>
+    <item index="26">
+      <photo>http://image.tmdb.org/t/p/original/t80JNwkQYB9zg9CA4YNndGpPio4.jpg</photo>
+      <role>Trainer 2</role>
+      <name>Michael Mellinger</name>
+    </item>
+    <item index="27">
+      <photo/>
+      <role>Proximo's Man</role>
+      <name>Said Amel</name>
+    </item>
+    <item index="28">
+      <photo>http://image.tmdb.org/t/p/original/kkIFpHOGRasjGYGTqx9RJEB7o2K.jpg</photo>
+      <role>Officer 1</role>
+      <name>Adam Levy</name>
+    </item>
+    <item index="29">
+      <photo>http://image.tmdb.org/t/p/original/pWzpiSr94vwhQMErfkamITKEhxx.jpg</photo>
+      <role>Officer 2</role>
+      <name>Gilly Gilchrist</name>
+    </item>
+    <item index="30">
+      <photo/>
+      <role>Giant Man</role>
+      <name>David Nicholls</name>
+    </item>
+    <item index="31">
+      <photo>http://image.tmdb.org/t/p/original/sEmLy5ELNlXh1fg1RXXydfL1GJ7.jpg</photo>
+      <role>Centurion (uncredited)</role>
+      <name>Malcolm Ellul</name>
+    </item>
+    <item index="32">
+      <photo>http://image.tmdb.org/t/p/original/srAPLc2L6Zjimk73ZWO9VCyX1N7.jpg</photo>
+      <role>Centurion (uncredited)</role>
+      <name>Ray Mangion</name>
+    </item>
+    <item index="33">
+      <photo>http://image.tmdb.org/t/p/original/8RYvhkfNCuWiZOeWrzl46QWTCSU.jpg</photo>
+      <role>Roman Soldier (uncredited)</role>
+      <name>James Fiddy</name>
+    </item>
+    <item index="34">
+      <photo>http://image.tmdb.org/t/p/original/xDnd4tnHZAgdMgmt443E4nG7Ko0.jpg</photo>
+      <role>Roman Soldier (uncredited)</role>
+      <name>João Costa Menezes</name>
+    </item>
+    <item index="35">
+      <photo>http://image.tmdb.org/t/p/original/9aX6U9EiAnEFGcjUdiYITVMsYTF.jpg</photo>
+      <role>Fighter (uncredited)</role>
+      <name>Mike Mitchell</name>
+    </item>
+    <item index="36">
+      <photo/>
+      <role>Sedan Chair Carrier (uncredited)</role>
+      <name>Norman Campbell Rees</name>
+    </item>
+    <item index="37">
+      <photo/>
+      <role>German Barbarian (uncredited)</role>
+      <name>Steve Saunders</name>
+    </item>
+    <item index="38">
+      <photo>http://image.tmdb.org/t/p/original/ujwNKhKJmYOtUhSAAEHwtzqRpRz.jpg</photo>
+      <role>Coliseum Gladiator (uncredited)</role>
+      <name>Brian Smyj</name>
+    </item>
+  </roles>
+  <similar>
+    <item index="0">Braveheart</item>
+    <item index="1">Saving Private Ryan</item>
+    <item index="2">300</item>
+    <item index="3">Raiders of the Lost Ark</item>
+    <item index="4">Indiana Jones and the Last Crusade</item>
+    <item index="5">The Matrix Reloaded</item>
+    <item index="6">Terminator 2: Judgment Day</item>
+    <item index="7">The Bourne Identity</item>
+    <item index="8">Troy</item>
+    <item index="9">Die Hard</item>
+    <item index="10">The Matrix Revolutions</item>
+    <item index="11">Armageddon</item>
+    <item index="12">Casino Royale</item>
+    <item index="13">Indiana Jones and the Temple of Doom</item>
+    <item index="14">The Departed</item>
+    <item index="15">Mission: Impossible</item>
+    <item index="16">Die Hard: With a Vengeance</item>
+    <item index="17">The Last Samurai</item>
+    <item index="18">Minority Report</item>
+    <item index="19">The Bourne Ultimatum</item>
+  </similar>
+  <studio>DreamWorks</studio>
+  <summary>In the year 180, the death of emperor Marcus Aurelius throws the Roman Empire into chaos.  Maximus is one of the Roman army's most capable and trusted generals and a key advisor to the emperor.  As Marcus' devious son Commodus ascends to the throne, Maximus is set to be executed.  He escapes, but is captured by slave traders.  Renamed Spaniard and forced to become a gladiator, Maximus must battle to the death with other men for the amusement of paying audiences.</summary>
+  <tagline>A Hero Will Rise.</tagline>
+  <tags/>
+  <themes/>
+  <title>Gladiator</title>
+  <writers>
+    <item index="0">
+      <photo/>
+      <role/>
+      <name>David Franzoni</name>
+    </item>
+    <item index="1">
+      <photo>http://image.tmdb.org/t/p/original/3yVu9Jda97tJlkijaL3wmSABWwo.jpg</photo>
+      <role/>
+      <name>John Logan</name>
+    </item>
+    <item index="2">
+      <photo>http://image.tmdb.org/t/p/original/kfAuyOIK4vBpwCRg7kVrV6cOX3f.jpg</photo>
+      <role/>
+      <name>William Nicholson</name>
+    </item>
+  </writers>
+  <year>2000</year>
+</Movie>

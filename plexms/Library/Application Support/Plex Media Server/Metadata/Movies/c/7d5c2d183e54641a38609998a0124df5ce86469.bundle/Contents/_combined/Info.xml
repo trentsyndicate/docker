@@ -1,0 +1,567 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Movie>
+  <art>
+    <item external="True" url="http://image.tmdb.org/t/p/original/p78F12JkDtnUAacDRCZlLFc2QgA.jpg" sort_order="1" provider="com.plexapp.agents.imdb" media="com.plexapp.agents.imdb_f7c3c85b0c11272fb67811d35adb5030225eed17"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/aKy3iVuxwPGMLYu4vpbDfZ8teqa.jpg" preview="com.plexapp.agents.imdb_387f6ee3058a86203d148be155385fb4e4f3feda" sort_order="2" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/eVHVwP71el20fofkCHo78ebQv7Q.jpg" preview="com.plexapp.agents.imdb_1abdfb591f7f6ca99a24a64124307a88680b5c66" sort_order="3" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/uExPmkOHJySrbJyJDJylHDqaT58.jpg" preview="com.plexapp.agents.imdb_0d21e3103bf3e8dc44a6336c50ba800b159f7cca" sort_order="4" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/tGtOpvzuJP8zQwOKL0980GF1qST.jpg" preview="com.plexapp.agents.imdb_15296f7408061b8ffd1f5afb07743575f07f1ec6" sort_order="5" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/hB05ziYFf1ZUbWdi19UCmTsYsf.jpg" preview="com.plexapp.agents.imdb_b5c7254ff4f6d24cbdbde3be7ca167074a7111a3" sort_order="6" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/4xyIi2kIQmJ9ABClRLvOnUVpWWt.jpg" preview="com.plexapp.agents.imdb_408a7ef0a8e02857366d5976070b9960580018d8" sort_order="7" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/kOKvYhFz9Zfayyv8vm15oOnaP0H.jpg" preview="com.plexapp.agents.imdb_b75ae56d4f7ed2a686b8e572a67da2c9105ed836" sort_order="8" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/vLsw44dKHp1LhGCmcv3Pv6LXgEH.jpg" preview="com.plexapp.agents.imdb_a18433252cd82656a874c5b5963da888146c3f50" sort_order="9" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/8eQrIUKFh1Sbpd5r3x2ZWlzqFsr.jpg" preview="com.plexapp.agents.imdb_8d16c061e974f53fbe83370241ced5abef495169" sort_order="10" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/xglhc5TZIbsghqCcIncFQ2lk2ZV.jpg" preview="com.plexapp.agents.imdb_e12fcfb2e49e129fdfe79d6f656445cd6e4c1191" sort_order="11" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/cEAZucWtCOm9yhZc6KNZwhAq5XK.jpg" preview="com.plexapp.agents.imdb_8617b8e800eec073b5ede45ca6822090c451ba95" sort_order="12" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/qYFh5Ge8nP5BCoNx2dDWqaUk23C.jpg" preview="com.plexapp.agents.imdb_e55c838622f61751432712662b056d8b448f6793" sort_order="13" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/5TOV9nKG6ICupAkBrcjI8cPVRJ1.jpg" preview="com.plexapp.agents.imdb_e9ba12274b3fe9424c43783b01524226bf5fd1e8" sort_order="14" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/j3LWMedW3taXdEId42CU6VzirJF.jpg" preview="com.plexapp.agents.imdb_3d098350bb17ba28736ee9de9ce7cb1ae190abf9" sort_order="15" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/A0gW5dZuJbO9hJH5DOPvzf3nBew.jpg" preview="com.plexapp.agents.imdb_ae17891c71eec1cb4cdde05e09ef365d3dfb2aca" sort_order="16" provider="com.plexapp.agents.imdb"/>
+  </art>
+  <banners/>
+  <chapters>
+    <item index="0">
+      <title>Chapter 1</title>
+      <end_time_offset>291000</end_time_offset>
+      <start_time_offset>0</start_time_offset>
+    </item>
+    <item index="1">
+      <title>Chapter 2</title>
+      <end_time_offset>579000</end_time_offset>
+      <start_time_offset>291000</start_time_offset>
+    </item>
+    <item index="2">
+      <title>Chapter 3</title>
+      <end_time_offset>816000</end_time_offset>
+      <start_time_offset>579000</start_time_offset>
+    </item>
+    <item index="3">
+      <title>Chapter 4</title>
+      <end_time_offset>1134000</end_time_offset>
+      <start_time_offset>816000</start_time_offset>
+    </item>
+    <item index="4">
+      <title>Chapter 5</title>
+      <end_time_offset>1497000</end_time_offset>
+      <start_time_offset>1134000</start_time_offset>
+    </item>
+    <item index="5">
+      <title>Chapter 6</title>
+      <end_time_offset>1723000</end_time_offset>
+      <start_time_offset>1497000</start_time_offset>
+    </item>
+    <item index="6">
+      <title>Chapter 7</title>
+      <end_time_offset>1972000</end_time_offset>
+      <start_time_offset>1723000</start_time_offset>
+    </item>
+    <item index="7">
+      <title>Chapter 8</title>
+      <end_time_offset>2358000</end_time_offset>
+      <start_time_offset>1972000</start_time_offset>
+    </item>
+    <item index="8">
+      <title>Chapter 9</title>
+      <end_time_offset>2601000</end_time_offset>
+      <start_time_offset>2358000</start_time_offset>
+    </item>
+    <item index="9">
+      <title>Chapter 10</title>
+      <end_time_offset>2906000</end_time_offset>
+      <start_time_offset>2601000</start_time_offset>
+    </item>
+    <item index="10">
+      <title>Chapter 11</title>
+      <end_time_offset>3234000</end_time_offset>
+      <start_time_offset>2906000</start_time_offset>
+    </item>
+    <item index="11">
+      <title>Chapter 12</title>
+      <end_time_offset>3511000</end_time_offset>
+      <start_time_offset>3234000</start_time_offset>
+    </item>
+    <item index="12">
+      <title>Chapter 13</title>
+      <end_time_offset>3904000</end_time_offset>
+      <start_time_offset>3511000</start_time_offset>
+    </item>
+    <item index="13">
+      <title>Chapter 14</title>
+      <end_time_offset>4192000</end_time_offset>
+      <start_time_offset>3904000</start_time_offset>
+    </item>
+    <item index="14">
+      <title>Chapter 15</title>
+      <end_time_offset>4414000</end_time_offset>
+      <start_time_offset>4192000</start_time_offset>
+    </item>
+    <item index="15">
+      <title>Chapter 16</title>
+      <end_time_offset>4781000</end_time_offset>
+      <start_time_offset>4414000</start_time_offset>
+    </item>
+    <item index="16">
+      <title>Chapter 17</title>
+      <end_time_offset>5025000</end_time_offset>
+      <start_time_offset>4781000</start_time_offset>
+    </item>
+    <item index="17">
+      <title>Chapter 18</title>
+      <end_time_offset>5335000</end_time_offset>
+      <start_time_offset>5025000</start_time_offset>
+    </item>
+    <item index="18">
+      <title>Chapter 19</title>
+      <end_time_offset>5605000</end_time_offset>
+      <start_time_offset>5335000</start_time_offset>
+    </item>
+    <item index="19">
+      <title>Chapter 20</title>
+      <end_time_offset>6014000</end_time_offset>
+      <start_time_offset>5605000</start_time_offset>
+    </item>
+    <item index="20">
+      <title>Chapter 21</title>
+      <end_time_offset>6303000</end_time_offset>
+      <start_time_offset>6014000</start_time_offset>
+    </item>
+    <item index="21">
+      <title>Chapter 22</title>
+      <end_time_offset>6578000</end_time_offset>
+      <start_time_offset>6303000</start_time_offset>
+    </item>
+    <item index="22">
+      <title>Chapter 23</title>
+      <end_time_offset>6915000</end_time_offset>
+      <start_time_offset>6578000</start_time_offset>
+    </item>
+    <item index="23">
+      <title>Chapter 24</title>
+      <end_time_offset>7300000</end_time_offset>
+      <start_time_offset>6915000</start_time_offset>
+    </item>
+    <item index="24">
+      <title>Chapter 25</title>
+      <end_time_offset>7544000</end_time_offset>
+      <start_time_offset>7300000</start_time_offset>
+    </item>
+    <item index="25">
+      <title>Chapter 26</title>
+      <end_time_offset>7956000</end_time_offset>
+      <start_time_offset>7544000</start_time_offset>
+    </item>
+    <item index="26">
+      <title>Chapter 27</title>
+      <end_time_offset>8115000</end_time_offset>
+      <start_time_offset>7956000</start_time_offset>
+    </item>
+    <item index="27">
+      <title>Chapter 28</title>
+      <end_time_offset>-1</end_time_offset>
+      <start_time_offset>8115000</start_time_offset>
+    </item>
+  </chapters>
+  <collections/>
+  <content_rating>R</content_rating>
+  <countries>
+    <item index="0">United Kingdom</item>
+  </countries>
+  <directors>
+    <item index="0">
+      <photo>http://image.tmdb.org/t/p/original/Dnbz3B7yy4u0abixuD5LakZgsy.jpg</photo>
+      <role/>
+      <name>Matthew Vaughn</name>
+    </item>
+  </directors>
+  <duration>8460000</duration>
+  <genres>
+    <item index="0">Action</item>
+    <item index="1">Adventure</item>
+    <item index="2">Comedy</item>
+  </genres>
+  <originally_available_at>2017-09-20</originally_available_at>
+  <posters>
+    <item external="True" url="http://image.tmdb.org/t/p/original/wrXdz7eFZ4l7Eu5bpI3AxkYKcMY.jpg" sort_order="1" provider="com.plexapp.agents.imdb" media="com.plexapp.agents.imdb_792b248a7f2f8233a0bb58615b69180a9f966e7b"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/pKESfn2Pdy0b7drvZHQb7UzgqoY.jpg" preview="com.plexapp.agents.imdb_26598601d408fc4702704ee2851deefb3a2ef194" sort_order="2" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/brRbTWsrUb0vAYnaWPPijaqD9qq.jpg" preview="com.plexapp.agents.imdb_71ade9072f97f344bd830a2b3f187ce48de02baa" sort_order="3" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/4tILCdweahgU7T64QKGoVWWyBO4.jpg" preview="com.plexapp.agents.imdb_39677d91c2ccc815ba45867cdbf97b6ef54b0f59" sort_order="4" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/osRbVbSxqbfKYrmLBa7ujIurk5Y.jpg" preview="com.plexapp.agents.imdb_dcfa6c53ca5e4b3c9b1e503cb845bd2bef9090c7" sort_order="5" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/7YGDCRosVlrxk3UokRUVqQZ4098.jpg" preview="com.plexapp.agents.imdb_5a5407282b54e7d745c1e9b1a82d68d1e08409bb" sort_order="6" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/34xBL6BXNYFqtHO9zhcgoakS4aP.jpg" preview="com.plexapp.agents.imdb_793d0c25a5ab462a09abfe3ec636169d0dfea3e2" sort_order="7" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/yOGf8Or1k78Y6OLdYmTTSGHW1dP.jpg" preview="com.plexapp.agents.imdb_2664ca53243a63ec41bdaa82ec5d437ff207dd19" sort_order="8" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/fj7yz3FUBKr3CXzBRFvGchoAt2X.jpg" preview="com.plexapp.agents.imdb_823f7ca0ddf4e1697fc0b976583c60b4f770eb6e" sort_order="9" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/4P1M9rRRQZnjami6lmvI33ovaK0.jpg" preview="com.plexapp.agents.imdb_6ff227e1789235171025f9e730eec94f9430a0f4" sort_order="10" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/tmp6OGErrhrlRnLZlYIEvA9Lb0M.jpg" preview="com.plexapp.agents.imdb_81c52ed20327bc3ceecccd00e9f60fa9b156840d" sort_order="11" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/tbB6wSX4UHVbnf72fSG2Pnn6Bry.jpg" preview="com.plexapp.agents.imdb_532a3416dda9ea302d783c93c6f4913c66b184d7" sort_order="12" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/a5baJbl0MJW6iTMDPLmPeSz5SG4.jpg" preview="com.plexapp.agents.imdb_cadee03fefb14c0439b0a896698ecc97648e44bd" sort_order="13" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/PqqUl51T1pr3TuiJ5BuKeFNDVs.jpg" preview="com.plexapp.agents.imdb_5de05669c8db124afcc0681f05c26c883cd99b13" sort_order="14" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/1oFTJ9U3LMG9XqYF1IUYwuCCsGi.jpg" preview="com.plexapp.agents.imdb_fe17bc5cd4298f67ec004a261cda571a78e5090a" sort_order="15" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/kSpYZC6A3PmQ2j0ziHe2C5WFAxI.jpg" preview="com.plexapp.agents.imdb_2dae55e43c3558bdfd90873a0a1b203126384e85" sort_order="16" provider="com.plexapp.agents.imdb"/>
+  </posters>
+  <producers>
+    <item index="0">
+      <photo/>
+      <role/>
+      <name>Adam Bohling</name>
+    </item>
+    <item index="1">
+      <photo/>
+      <role/>
+      <name>David Reid</name>
+    </item>
+    <item index="2">
+      <photo>http://image.tmdb.org/t/p/original/Dnbz3B7yy4u0abixuD5LakZgsy.jpg</photo>
+      <role/>
+      <name>Matthew Vaughn</name>
+    </item>
+  </producers>
+  <rating>5.2</rating>
+  <rating_image>rottentomatoes://image.rating.rotten</rating_image>
+  <audience_rating>6.5</audience_rating>
+  <audience_rating_image>rottentomatoes://image.rating.spilled</audience_rating_image>
+  <reviews>
+    <item index="0">
+      <text>What a mess it is.</text>
+      <source>New York Magazine/Vulture</source>
+      <image>rottentomatoes://image.review.rotten</image>
+      <link>http://www.vulture.com/2017/09/kingsman-the-golden-circle-is-bloated-campy-and-stupid.html</link>
+      <author>David Edelstein</author>
+    </item>
+    <item index="1">
+      <text>The movie is too long, too violent, too silly-too everything. Yet for those who enjoyed the original Kingsman, it is a more than adequate second act. To put it another way: First time satire, second time farce.</text>
+      <source>The Atlantic</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>https://www.theatlantic.com/entertainment/archive/2017/09/kingsman-the-golden-circle-is-more-farce-than-satire/540708/</link>
+      <author>Christopher Orr</author>
+    </item>
+    <item index="2">
+      <text>[Matthew] Vaughn hasn't only run out of things to say but people to hate, and without that underlying aggression, the movie feels like it's just going through the motions. Better luck next time, bruv.</text>
+      <source>Slate</source>
+      <image>rottentomatoes://image.review.rotten</image>
+      <link>https://slate.com/arts/2017/09/kingsman-the-golden-circle-reviewed.html</link>
+      <author>Sam Adams</author>
+    </item>
+    <item index="3">
+      <text>If the first played like a simultaneous homage to and parody of Sean Connery's Bond, the second feels like a straight riff on the Roger Moore era: bloated, self-conscious, and smug, with only the occasional flash of nasty wit to put the edge on.</text>
+      <source>San Diego Reader</source>
+      <image>rottentomatoes://image.review.rotten</image>
+      <link>https://www.sandiegoreader.com/movies/kingsman-the-golden-circle/</link>
+      <author>Matthew Lickona</author>
+    </item>
+    <item index="4">
+      <text>If the first Kingsman was a work of lol-nothing-matters provocation with a real mean streak, the second is a work of lol-nothing-matters laziness...</text>
+      <source>BuzzFeed News</source>
+      <image>rottentomatoes://image.review.rotten</image>
+      <link>https://www.buzzfeed.com/alisonwillmore/shame-its-not-scotch?utm_term=.xePweaykr#.iyDLkYRqm</link>
+      <author>Alison Willmore</author>
+    </item>
+    <item index="5">
+      <text>If you thought that the anal sex joke at the end of 'Kingsman: The Secret Service' was the funniest bit, you're in luck.</text>
+      <source>Time Out</source>
+      <image>rottentomatoes://image.review.rotten</image>
+      <link>https://www.timeout.com/london/film/kingsman-the-golden-circle</link>
+      <author>Anna Smith</author>
+    </item>
+    <item index="6">
+      <text>It's James Bond on laughing gas and too much of everything. Those who hated the first film will be double irritated. Screw 'em. True Kingsman fans will appreciate that the sequel lays on the violence, sex and politics three times thicker.</text>
+      <source>Rolling Stone</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>http://www.rollingstone.com/movies/reviews/peter-travers-kingsman-sequel-is-fun-more-violent-than-ever-w504187</link>
+      <author>Peter Travers</author>
+    </item>
+    <item index="7">
+      <text>110 minutes or so in the middle of this 141-minute hero sandwich ... are a guily, guilty, guilty-your-honor pleasure.</text>
+      <source>NPR</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>http://www.npr.org/2017/09/22/551310311/kingsman-sequel-this-time-a-flat-golden-circle?utm_medium=RSS&amp;utm_campaign=movies</link>
+      <author>Chris Klimek</author>
+    </item>
+    <item index="8">
+      <text>In almost every way, Vaughn's new Kingsman is an unwieldly inflation of the original, although not so much by single-minded design as if by studio committee.</text>
+      <source>Globe and Mail</source>
+      <image>rottentomatoes://image.review.rotten</image>
+      <link>https://beta.theglobeandmail.com/arts/film/film-reviews/review-kingsman-sequel-is-a-service-her-majesty-would-prefer-to-be-kept-secret/article36324777/</link>
+      <author>Barry Hertz</author>
+    </item>
+    <item index="9">
+      <text>For the most part, the movie is too busy with its ungainly, underwhelming plotting to be even stupidly fun.</text>
+      <source>AV Club</source>
+      <image>rottentomatoes://image.review.rotten</image>
+      <link>https://www.avclub.com/kingsman-gets-dumber-in-the-lurching-incoherent-golden-1818603089</link>
+      <author>Ignatiy Vishnevetsky</author>
+    </item>
+    <item index="10">
+      <text>Overstuffed, over-busy and overlong, "Kingsman: The Golden Circle" is an exhausting, patience-trying assault that doesn't know when to say when.</text>
+      <source>Detroit News</source>
+      <image>rottentomatoes://image.review.rotten</image>
+      <link>http://www.detroitnews.com/story/entertainment/movies/2017/09/21/movie-review-cluttered-kingsman-falls-self-parody/105857974/</link>
+      <author>Adam Graham</author>
+    </item>
+    <item index="11">
+      <text>The best moments are actually when it pays homage to the first film. The worst are when it takes itself too seriously, the trap of the very spy films it was designed to mock.</text>
+      <source>Associated Press</source>
+      <image>rottentomatoes://image.review.rotten</image>
+      <link>http://www.torontosun.com/2017/09/20/kingsman-the-golden-circle-review-sequel-lacks-punch-and-vibe-of-first-film</link>
+      <author>Mark Kennedy</author>
+    </item>
+    <item index="12">
+      <text>If a white towel had been handy as I screened the punishingly long and dreadful Kingsman: The Golden Circle, I would have thrown it at the screen and made a wish: Please make it stop.</text>
+      <source>Chicago Sun-Times</source>
+      <image>rottentomatoes://image.review.rotten</image>
+      <link>http://chicago.suntimes.com/entertainment/bigger-and-louder-isnt-better-for-kingsman-the-golden-circle/</link>
+      <author>Richard Roeper</author>
+    </item>
+    <item index="13">
+      <text>Exaggerated, cartoonish violence, deliberately cheesy CGI, and a buoyant pop soundtrack make this a stylish if overstuffed romp.</text>
+      <source>Chicago Reader</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>https://www.chicagoreader.com/chicago/kingsman-the-golden-circle/MovieTimes?oid=29914292</link>
+      <author>Andrea Gronvall</author>
+    </item>
+    <item index="14">
+      <text>It pulls off the impressive feat of feeling both hyperactive and lazy.</text>
+      <source>Los Angeles Times</source>
+      <image>rottentomatoes://image.review.rotten</image>
+      <link>http://www.latimes.com/entertainment/movies/la-et-mn-kingsman-golden-circle-review-20170921-story.html#nt=oft13a-2gp1</link>
+      <author>Justin Chang</author>
+    </item>
+    <item index="15">
+      <text>In this ultraviolent farce many innocent people suffer, especially in the audience.</text>
+      <source>Minneapolis Star Tribune</source>
+      <image>rottentomatoes://image.review.rotten</image>
+      <link>http://www.startribune.com/kingsman-sequel-turns-into-a-reign-of-boredom/446483763/</link>
+      <author>Colin Covert</author>
+    </item>
+    <item index="16">
+      <text>Kingsman: The Golden Circle ultimately delivers enough highlights along the way to merit the return engagement.</text>
+      <source>CNN.com</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>http://www.cnn.com/2017/09/21/entertainment/kingsman-the-golden-circle-review/index.html</link>
+      <author>Brian Lowry</author>
+    </item>
+    <item index="17">
+      <text>"Golden Circle" is too scattered and way overstuffed.</text>
+      <source>New York Post</source>
+      <image>rottentomatoes://image.review.rotten</image>
+      <link>http://nypost.com/2017/09/21/the-kingsman-movie-series-needs-to-go-to-rehab/</link>
+      <author>Johnny Oleksinski</author>
+    </item>
+    <item index="18">
+      <text>Bodaciously entertaining ...</text>
+      <source>TIME Magazine</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>http://time.com/4951189/kingsman-the-golden-circle-review/</link>
+      <author>Stephanie Zacharek</author>
+    </item>
+    <item index="19">
+      <text>"Kingsman" is essentially a live-action cartoon, one that aims for an audible reaction and little else. That may not be the world's loftiest goal, but whether it results in a gagging eww or a chuckle, it's a plan that usually succeeds.</text>
+      <source>Washington Post</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>https://www.washingtonpost.com/goingoutguide/movies/kingsman-the-golden-circle-delivers-a-second-dose-of-r-rated-action-and-comedy/2017/09/21/e82e09ba-9d44-11e7-8ea1-ed975285475e_story.html?utm_term=.4eaf99a84935</link>
+      <author>Stephanie Merry</author>
+    </item>
+  </reviews>
+  <roles>
+    <item index="0">
+      <photo>http://image.tmdb.org/t/p/original/4pj31PUxqpuJZrHChinub4gr2ul.jpg</photo>
+      <role>Harry Hart / Galahad</role>
+      <name>Colin Firth</name>
+    </item>
+    <item index="1">
+      <photo>http://image.tmdb.org/t/p/original/v2FcWGiiuvl6P7NV0966jNL09uh.jpg</photo>
+      <role>Poppy Adams</role>
+      <name>Julianne Moore</name>
+    </item>
+    <item index="2">
+      <photo>http://image.tmdb.org/t/p/original/uCaPhyKAQIfEzAWWCYIrO2004CB.jpg</photo>
+      <role>Gary 'Eggsy' Unwin / Galahad</role>
+      <name>Taron Egerton</name>
+    </item>
+    <item index="3">
+      <photo>http://image.tmdb.org/t/p/original/svq7VWJqKN4Fq8ZJK1Yd8W711rn.jpg</photo>
+      <role>Hamish Mycroft / Merlin</role>
+      <name>Mark Strong</name>
+    </item>
+    <item index="4">
+      <photo>http://image.tmdb.org/t/p/original/xms1RAY6q7Lzp7wNeRCB0kzhucn.jpg</photo>
+      <role>Champagne "Champ"</role>
+      <name>Jeff Bridges</name>
+    </item>
+    <item index="5">
+      <photo>http://image.tmdb.org/t/p/original/bFQvidUsrWfWo4ZI7oZgTnB8Zb6.jpg</photo>
+      <role>Elton John</role>
+      <name>Elton John</name>
+    </item>
+    <item index="6">
+      <photo>http://image.tmdb.org/t/p/original/w7HRZh4UhimZO2F6GywkYhjgAX3.jpg</photo>
+      <role>Ginger Ale</role>
+      <name>Halle Berry</name>
+    </item>
+    <item index="7">
+      <photo>http://image.tmdb.org/t/p/original/5L7BSYbzM8iizvIrS8EaaZoDrI3.jpg</photo>
+      <role>Tequila</role>
+      <name>Channing Tatum</name>
+    </item>
+    <item index="8">
+      <photo>http://image.tmdb.org/t/p/original/8HP2vzmDR4Q9tmciUwFmzQJoJzP.jpg</photo>
+      <role>Jack Daniels / Whiskey</role>
+      <name>Pedro Pascal</name>
+    </item>
+    <item index="9">
+      <photo>http://image.tmdb.org/t/p/original/7b6b5nrRYtMaIkX0gUu1BHSLOut.jpg</photo>
+      <role>Princess Tilde of Sweden</role>
+      <name>Hanna Alström</name>
+    </item>
+    <item index="10">
+      <photo>http://image.tmdb.org/t/p/original/4N6t492qfeeYDd15AFauPq7lU7s.jpg</photo>
+      <role>Charles 'Charlie' Hesketh</role>
+      <name>Edward Holcroft</name>
+    </item>
+    <item index="11">
+      <photo>http://image.tmdb.org/t/p/original/kevUVdb55KGWSwH1jg8Ye9cthQX.jpg</photo>
+      <role>Clara Von Gluckfberg</role>
+      <name>Poppy Delevingne</name>
+    </item>
+    <item index="12">
+      <photo>http://image.tmdb.org/t/p/original/his8sEwC8FLC4dAxVSu9GNicE6Z.jpg</photo>
+      <role>President of the United States</role>
+      <name>Bruce Greenwood</name>
+    </item>
+    <item index="13">
+      <photo>http://image.tmdb.org/t/p/original/jyIC8axLoCrbQoKGGjGFRU7hfNI.jpg</photo>
+      <role>Chief of Staff Fox</role>
+      <name>Emily Watson</name>
+    </item>
+    <item index="14">
+      <photo>http://image.tmdb.org/t/p/original/5uD97ej1SS9P4Pq1LmI0wnLckss.jpg</photo>
+      <role>Roxanne 'Roxy' Morton / Lancelot</role>
+      <name>Sophie Cookson</name>
+    </item>
+    <item index="15">
+      <photo>http://image.tmdb.org/t/p/original/k6VxRs7xcG6DLEVM1izjb3UWSyC.jpg</photo>
+      <role>Sir Giles / Arthur</role>
+      <name>Michael Gambon</name>
+    </item>
+    <item index="16">
+      <photo>http://image.tmdb.org/t/p/original/6h73ErjTRPLBFroGifUkvYuZA5L.jpg</photo>
+      <role>Jamal</role>
+      <name>Tobi Bakare</name>
+    </item>
+    <item index="17">
+      <photo>http://image.tmdb.org/t/p/original/vCbKZjAQ7f40GDwL23LSClkpXLt.jpg</photo>
+      <role>Ryan</role>
+      <name>Theo Barklem-Biggs</name>
+    </item>
+    <item index="18">
+      <photo>http://image.tmdb.org/t/p/original/kKqEMBx0imnQqUvDcORusz4xelz.jpg</photo>
+      <role>Liam</role>
+      <name>Thomas Turgoose</name>
+    </item>
+    <item index="19">
+      <photo/>
+      <role>Brandon</role>
+      <name>Calvin Demba</name>
+    </item>
+    <item index="20">
+      <photo>http://image.tmdb.org/t/p/original/meylSWBDezTf9sZ7DQv664imNp5.jpg</photo>
+      <role>Michelle Unwin</role>
+      <name>Samantha Womack</name>
+    </item>
+    <item index="21">
+      <photo>http://image.tmdb.org/t/p/original/1azvWtgKZ9u8oadJdsykij62X1z.jpg</photo>
+      <role>Charles</role>
+      <name>Keith Allen</name>
+    </item>
+    <item index="22">
+      <photo>http://image.tmdb.org/t/p/original/z2ez59LFrgPUqkOkQ06MjT7MWOs.jpg</photo>
+      <role>Angel</role>
+      <name>Tom Benedict Knight</name>
+    </item>
+    <item index="23">
+      <photo>http://image.tmdb.org/t/p/original/jXyf24Gg18cVzaAZE2KALANBnBW.jpg</photo>
+      <role>General McCoy</role>
+      <name>Mark Arnold</name>
+    </item>
+    <item index="24">
+      <photo>http://image.tmdb.org/t/p/original/vnAD5t7vyCP7GPicOa2bB3WXJxD.jpg</photo>
+      <role>The King of Sweden</role>
+      <name>Björn Granath</name>
+    </item>
+    <item index="25">
+      <photo>http://image.tmdb.org/t/p/original/AqDZhToc9r7tixhz2PQy6MWoIYr.jpg</photo>
+      <role>The Queen of Sweden</role>
+      <name>Lena Endre</name>
+    </item>
+    <item index="26">
+      <photo>http://image.tmdb.org/t/p/original/6nqd9L8vJMmMmTkf1WxJ4uPKDvp.jpg</photo>
+      <role>Kingsman's Taxi Driver</role>
+      <name>Gordon Alexander</name>
+    </item>
+    <item index="27">
+      <photo/>
+      <role>Poppy's Lawyer</role>
+      <name>Jeff Ricketts</name>
+    </item>
+    <item index="28">
+      <photo/>
+      <role>Harvard Professor</role>
+      <name>James Carroll Jordan</name>
+    </item>
+    <item index="29">
+      <photo>http://image.tmdb.org/t/p/original/I1SIvWqYALhFmm2fMDQjTlnI1Y.jpg</photo>
+      <role>Tour Guide</role>
+      <name>Samantha Coughlan</name>
+    </item>
+    <item index="30">
+      <photo/>
+      <role>Burly Guard</role>
+      <name>Mingus Johnston</name>
+    </item>
+    <item index="31">
+      <photo>http://image.tmdb.org/t/p/original/mvlAWWZjq9OISpv3T6xAZbumrV6.jpg</photo>
+      <role>Newscaster #2</role>
+      <name>Cristina Dohmen</name>
+    </item>
+  </roles>
+  <similar>
+    <item index="0">Kingsman: The Secret Service</item>
+    <item index="1">The Hitman's Bodyguard</item>
+    <item index="2">Baby Driver</item>
+    <item index="3">Thor: Ragnarok</item>
+    <item index="4">Justice League</item>
+    <item index="5">Spider-Man: Homecoming</item>
+    <item index="6">Valerian and the City of a Thousand Planets</item>
+    <item index="7">Guardians of the Galaxy Vol. 2</item>
+    <item index="8">Atomic Blonde</item>
+    <item index="9">Pirates of the Caribbean: Dead Men Tell No Tales</item>
+    <item index="10">American Made</item>
+    <item index="11">Blade Runner 2049</item>
+    <item index="12">Star Wars: The Last Jedi</item>
+    <item index="13">Wonder Woman</item>
+    <item index="14">The Dark Tower</item>
+    <item index="15">King Arthur: Legend of the Sword</item>
+    <item index="16">Bright</item>
+    <item index="17">War for the Planet of the Apes</item>
+    <item index="18">Murder on the Orient Express</item>
+    <item index="19">Logan Lucky</item>
+  </similar>
+  <studio>20th Century Fox</studio>
+  <summary>When an attack on the Kingsman headquarters takes place and a new villain rises, Eggsy and Merlin are forced to work together with the American agency known as the Statesman to save the world.</summary>
+  <tagline>Reports of my death have been greatly exaggerated.</tagline>
+  <tags/>
+  <themes/>
+  <title>Kingsman: The Golden Circle</title>
+  <writers>
+    <item index="0">
+      <photo>http://image.tmdb.org/t/p/original/Dnbz3B7yy4u0abixuD5LakZgsy.jpg</photo>
+      <role/>
+      <name>Matthew Vaughn</name>
+    </item>
+    <item index="1">
+      <photo>http://image.tmdb.org/t/p/original/4a1dXBKrPR3kLIcXvIbgS2eJb1Z.jpg</photo>
+      <role/>
+      <name>Jane Goldman</name>
+    </item>
+  </writers>
+  <year>2017</year>
+</Movie>

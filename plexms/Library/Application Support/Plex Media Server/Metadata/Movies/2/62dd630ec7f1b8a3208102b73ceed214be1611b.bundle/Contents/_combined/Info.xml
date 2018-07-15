@@ -1,0 +1,744 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Movie>
+  <art>
+    <item external="True" url="http://image.tmdb.org/t/p/original/5LshuyCryKGqhibRufVfgai8uGg.jpg" sort_order="1" provider="com.plexapp.agents.imdb" media="com.plexapp.agents.imdb_bbd7db7188c50362bdee68410d3583766f481692"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/aL5nA1vtn3KsUrNhWoRZTnP6Qeo.jpg" preview="com.plexapp.agents.imdb_c84ddbf9d0c2b619ea9b87870c4d6048938aa5bc" sort_order="2" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/uVRqZKIh3CkfsnXBC0VL61d5jbS.jpg" preview="com.plexapp.agents.imdb_716203306f99e258fa525746a388e656be847416" sort_order="3" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/ev8MNFIxFJm8ccSFCe8K28K4Ulu.jpg" preview="com.plexapp.agents.imdb_c7c84ac104e2e83d93302010861fdd06c71dc8e8" sort_order="4" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/7BhTIyySTmmqNaoguSPjZAVMoQG.jpg" preview="com.plexapp.agents.imdb_392a81695a7d16e2a45e1ae8a2824009c426c2e4" sort_order="5" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/oJNu8vS6Wf10Cv2996KO65jt4C0.jpg" preview="com.plexapp.agents.imdb_cc1909b5b02b8792b6a3244876244f98c895f875" sort_order="6" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/9eb23pW5JdAfgK6vp4XzUwmNtR0.jpg" preview="com.plexapp.agents.imdb_9ec6893b41e08e3bf1e7d219b6aa03b12707fb16" sort_order="7" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/yJn49okQyEmIhlEX4rbT0Hbgq3X.jpg" preview="com.plexapp.agents.imdb_02c2099f07b3d7608eb133771746fbe6bc04e002" sort_order="8" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/3JdmnY7CJIEI9EXFbTg7W08iZ1S.jpg" preview="com.plexapp.agents.imdb_ad213783aa6a4e76ee158ff40f99639aebddfb15" sort_order="9" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/fpDpUSsZEXzmIiFrWt0fwv4IVKH.jpg" preview="com.plexapp.agents.imdb_fc6da55f069a9092b7bcf0b00d4575d21cf6e174" sort_order="10" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/b4jafflukp4oG3Syq68Q9pAxC7k.jpg" preview="com.plexapp.agents.imdb_6718286ea54b58363044d41581ff900bfa38dc4d" sort_order="11" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/e7TlWbGecbe6u1FBvyLlNmvBFLl.jpg" preview="com.plexapp.agents.imdb_58a019cc1339912dd09a7a6dfbe05bbb3b4f6517" sort_order="12" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/57PYEE1iPzZfWKROK76zeQNAhhb.jpg" preview="com.plexapp.agents.imdb_7d58430ed79dd886c254861a3e634a80003d83d0" sort_order="13" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/gexoMNll3dwJdrxaVkyhyhwL9Pk.jpg" preview="com.plexapp.agents.imdb_588659d86b34c202265708467a7e9ff6a60a2371" sort_order="14" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/7Z7Fmh5IUE4NbJ37BE9unzpsKqF.jpg" preview="com.plexapp.agents.imdb_56d3f9237478e882576bd70df7541fc66ef68e67" sort_order="15" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/xbAYfqzMqeOybvHPXAHQ1fZhYzG.jpg" preview="com.plexapp.agents.imdb_5adcd428f721ecd109a68649cedd9e400b6e9e48" sort_order="16" provider="com.plexapp.agents.imdb"/>
+  </art>
+  <banners/>
+  <chapters>
+    <item index="0">
+      <title>Chapter 1</title>
+      <end_time_offset>615000</end_time_offset>
+      <start_time_offset>0</start_time_offset>
+    </item>
+    <item index="1">
+      <title>Chapter 2</title>
+      <end_time_offset>1136000</end_time_offset>
+      <start_time_offset>615000</start_time_offset>
+    </item>
+    <item index="2">
+      <title>Chapter 3</title>
+      <end_time_offset>1707000</end_time_offset>
+      <start_time_offset>1136000</start_time_offset>
+    </item>
+    <item index="3">
+      <title>Chapter 4</title>
+      <end_time_offset>2344000</end_time_offset>
+      <start_time_offset>1707000</start_time_offset>
+    </item>
+    <item index="4">
+      <title>Chapter 5</title>
+      <end_time_offset>3057000</end_time_offset>
+      <start_time_offset>2344000</start_time_offset>
+    </item>
+    <item index="5">
+      <title>Chapter 6</title>
+      <end_time_offset>3606000</end_time_offset>
+      <start_time_offset>3057000</start_time_offset>
+    </item>
+    <item index="6">
+      <title>Chapter 7</title>
+      <end_time_offset>4076000</end_time_offset>
+      <start_time_offset>3606000</start_time_offset>
+    </item>
+    <item index="7">
+      <title>Chapter 8</title>
+      <end_time_offset>5324000</end_time_offset>
+      <start_time_offset>4076000</start_time_offset>
+    </item>
+    <item index="8">
+      <title>Chapter 9</title>
+      <end_time_offset>5844000</end_time_offset>
+      <start_time_offset>5324000</start_time_offset>
+    </item>
+    <item index="9">
+      <title>Chapter 10</title>
+      <end_time_offset>6357000</end_time_offset>
+      <start_time_offset>5844000</start_time_offset>
+    </item>
+    <item index="10">
+      <title>Chapter 11</title>
+      <end_time_offset>6884000</end_time_offset>
+      <start_time_offset>6357000</start_time_offset>
+    </item>
+    <item index="11">
+      <title>Chapter 12</title>
+      <end_time_offset>7453000</end_time_offset>
+      <start_time_offset>6884000</start_time_offset>
+    </item>
+    <item index="12">
+      <title>Chapter 13</title>
+      <end_time_offset>-1</end_time_offset>
+      <start_time_offset>7453000</start_time_offset>
+    </item>
+  </chapters>
+  <collections/>
+  <content_rating>R</content_rating>
+  <countries>
+    <item index="0">USA</item>
+  </countries>
+  <directors>
+    <item index="0">
+      <photo>http://image.tmdb.org/t/p/original/n8h4ZHteFFXfmzUW6OEaPWanDnm.jpg</photo>
+      <role/>
+      <name>Clint Eastwood</name>
+    </item>
+  </directors>
+  <duration>7980000</duration>
+  <genres>
+    <item index="0">Action</item>
+    <item index="1">Biography</item>
+    <item index="2">Drama</item>
+    <item index="3">History</item>
+    <item index="4">Thriller</item>
+    <item index="5">War</item>
+  </genres>
+  <originally_available_at>2014-12-11</originally_available_at>
+  <posters>
+    <item external="True" url="http://image.tmdb.org/t/p/original/svPHnYE7N5NAGO49dBmRhq0vDQ3.jpg" sort_order="1" provider="com.plexapp.agents.imdb" media="com.plexapp.agents.imdb_3b2f93534293554a247b487691c32e2a8be59ff4"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/c36UJchuwPiVL5fsa9dhSj4QPgm.jpg" preview="com.plexapp.agents.imdb_1cdfae42a0c8173b61d5e63d9e5b0b471fd25455" sort_order="2" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/ooy5M7QXEWVpOTAZIRGMskBQbQ9.jpg" preview="com.plexapp.agents.imdb_e8ac2d6ddeab2529a555f5b690c79a5f83f4b290" sort_order="3" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/i1U46OwMc6vlm7OoSUKfqUH615e.jpg" preview="com.plexapp.agents.imdb_7b0c079a56c8f39a4e49f56e45e7ddd2ee5b69f5" sort_order="4" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/uKGtU63dgcvRqE3doMUYcRRIXsz.jpg" preview="com.plexapp.agents.imdb_a017e96efae7e0f6af81a79aa3c4ce5f79997464" sort_order="5" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/rjHWEd4Bp1pjRKNWxWdXHERMnJS.jpg" preview="com.plexapp.agents.imdb_8cef21fad4eb652f0ff097d7c19a6c61fe5af9ec" sort_order="6" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/zrdCrYUKu9j7MqK5cYKBajipsXR.jpg" preview="com.plexapp.agents.imdb_446daa948335b0757a9291ecd89810423dbe1dc2" sort_order="7" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/y1UzIs0VdetCt3VTM2g4Le6i19V.jpg" preview="com.plexapp.agents.imdb_4255b02be0420a325d1d3143b7c0c34b045ba0f9" sort_order="8" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/nGh1Src8HeUkDxSNKQH34ND0xSh.jpg" preview="com.plexapp.agents.imdb_667deca6cf21e01c8d9c460bd2028ccb6ef746e0" sort_order="9" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/hqg2fbanbM4rNP53izqi6h0WYR8.jpg" preview="com.plexapp.agents.imdb_c782834635739b03f9b96000ce22ba35e444165b" sort_order="10" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/ewykG3ud743TIiuSd2KEnj99t8h.jpg" preview="com.plexapp.agents.imdb_ea1ba86f3cb5c0c81cc12743dc2a2679cf18411f" sort_order="11" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/fWV0MchAh1ONaqkR5J4s2Agwx9N.jpg" preview="com.plexapp.agents.imdb_ce0bd02e80f8236330ae61fb29952a70e9659a47" sort_order="12" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/iKfcKB8yZLrEjGLVgQf6dWiONKs.jpg" preview="com.plexapp.agents.imdb_e917f5a5079cbd729d47b6ea9cfe410b1c530367" sort_order="13" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/rD1s2fIEzKiMJ0cFJ8BcpyAbV6R.jpg" preview="com.plexapp.agents.imdb_8baaee8763e0a909efca159af3c93c43e269fa41" sort_order="14" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/a7CP51HRjmJB3EQFXiJz5uvD5jl.jpg" preview="com.plexapp.agents.imdb_bbc0804f271179edf8847a52726610a78048ee28" sort_order="15" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/umHfQhJRicUXTAopV28thcRlqkf.jpg" preview="com.plexapp.agents.imdb_992c37cbb4473821392c3c46fb83404460623bef" sort_order="16" provider="com.plexapp.agents.imdb"/>
+  </posters>
+  <producers>
+    <item index="0">
+      <photo>http://image.tmdb.org/t/p/original/n8h4ZHteFFXfmzUW6OEaPWanDnm.jpg</photo>
+      <role/>
+      <name>Clint Eastwood</name>
+    </item>
+    <item index="1">
+      <photo>http://image.tmdb.org/t/p/original/tvDhilrjknm4uQZoOcUgRSd31uN.jpg</photo>
+      <role/>
+      <name>Robert Lorenz</name>
+    </item>
+    <item index="2">
+      <photo/>
+      <role/>
+      <name>Andrew Lazar</name>
+    </item>
+    <item index="3">
+      <photo>http://image.tmdb.org/t/p/original/6vQ9zsljjVGtz7smO9HErzarnCN.jpg</photo>
+      <role/>
+      <name>Bradley Cooper</name>
+    </item>
+    <item index="4">
+      <photo>http://image.tmdb.org/t/p/original/gxmjM2MQ2HmGPKHrbkqBrl1ZXaH.jpg</photo>
+      <role/>
+      <name>Peter Morgan</name>
+    </item>
+  </producers>
+  <rating>7.2</rating>
+  <rating_image>rottentomatoes://image.rating.ripe</rating_image>
+  <audience_rating>8.4</audience_rating>
+  <audience_rating_image>rottentomatoes://image.rating.upright</audience_rating_image>
+  <reviews>
+    <item index="0">
+      <text>American Sniper has a perspective that's recognizable from the classic Westerns Eastwood has long been associated with, both as an actor and a director. It's an existential critique of violent machismo that doubles as a celebration of violence.</text>
+      <source>Slate</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>http://www.slate.com/articles/arts/movies/2015/01/american_sniper_and_the_political_battle_over_chris_kyle.html</link>
+      <author>Dana Stevens</author>
+    </item>
+    <item index="1">
+      <text>Eastwood makes the moral stakes almost nonexistent.</text>
+      <source>New York Magazine/Vulture</source>
+      <image>rottentomatoes://image.review.rotten</image>
+      <link>http://www.vulture.com/2014/12/movie-review-american-sniper.html</link>
+      <author>David Edelstein</author>
+    </item>
+    <item index="2">
+      <text>Clint Eastwood's American Sniper is an often lazy and somewhat hazy propaganda film about American heroism and hell in the Iraq War.</text>
+      <source>Toronto Sun</source>
+      <image>rottentomatoes://image.review.rotten</image>
+      <link>http://www.torontosun.com/2015/01/12/review-clint-eastwoods-american-sniper-a-lazy-look-at-the-war-on-terror</link>
+      <author>Bruce Kirkland</author>
+    </item>
+    <item index="3">
+      <text>Director Clint Eastwood deftly shows the mental and physical toll of heroism in a way that will leave you gutted.</text>
+      <source>Us Weekly</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>http://www.usmagazine.com/entertainment/news/oscars-2015-5-nominated-films-to-catch-in-theaters-plus-reviews-2015151</link>
+      <author>Mara Reinstein</author>
+    </item>
+    <item index="4">
+      <text>Director Clint Eastwood continues his quiet critique of the moviegoer's deep delight in cinematic violence.</text>
+      <source>San Diego Reader</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>http://www.sandiegoreader.com/movies/american-sniper/</link>
+      <author>Matthew Lickona</author>
+    </item>
+    <item index="5">
+      <text>American Sniper romanticizes Kyle, whose bestselling memoir, which put him on talk-show appearances, included boastful stories of dubious authenticity. What remains is distilled and dramatized, a story of loss, the story of the universal soldier.</text>
+      <source>Globe and Mail</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>http://www.theglobeandmail.com/arts/film/film-reviews/american-sniper-dissecting-the-addiction-to-battle/article22465884/</link>
+      <author>Liam Lacey</author>
+    </item>
+    <item index="6">
+      <text>The fluidity and tension of the battle scenes is breathtaking, Eastwood at his cinematic best. But it's the ever-tightening knot inside of Kyle the director really wants to understand.</text>
+      <source>Detroit News</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>http://www.detroitnews.com/story/entertainment/movies/2015/01/15/american-sniper-follows-consequences-violence/21822507/</link>
+      <author>Tom Long</author>
+    </item>
+    <item index="7">
+      <text>If American Sniper fails at being a truly great film, it is no fault of its star.</text>
+      <source>Philadelphia Inquirer</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>http://www.philly.com/philly/entertainment/movies/20150116_Pinning_down_America_s_top_military_sniper.html</link>
+      <author>Steven Rea</author>
+    </item>
+    <item index="8">
+      <text>The film is, simply, a tragedy in which American certainty comes to grief against the rocks of the real world, and it views its central figure as a decent man doing indecent things for what he keeps telling himself is a greater good.</text>
+      <source>Boston Globe</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>http://www.bostonglobe.com/arts/movies/2015/01/15/bradley-cooper-stars-clint-eastwood-american-sniper/e1ZyR9HoVuguTb9eqJJ1AI/story.html</link>
+      <author>Ty Burr</author>
+    </item>
+    <item index="9">
+      <text>A movie that can't find a credible perspective on its subject, despite a winning performance from Bradley Cooper in the title role.</text>
+      <source>Chicago Reader</source>
+      <image>rottentomatoes://image.review.rotten</image>
+      <link>http://www.chicagoreader.com/chicago/american-sniper-bradley-cooper-chris-kyle-clint-eastwood/Content?oid=16192145</link>
+      <author>J. R. Jones</author>
+    </item>
+    <item index="10">
+      <text>Young volunteers have been at war for 14 futile years, and the next Chris Kyle deserves to be understood.</text>
+      <source>St. Louis Post-Dispatch</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>http://www.stltoday.com/entertainment/movies/reviews/eastwood-s-american-sniper-is-a-hit-and-miss-movie/article_74623217-1e3f-51cc-a214-be38e0736ce6.html</link>
+      <author>Joe Williams</author>
+    </item>
+    <item index="11">
+      <text>"Uneasy lies the head that wears a crown," Shakespeare wrote. But is that true when the coronet is no more than a backward ballcap balancing a pair of wraparound shades?</text>
+      <source>Washington Post</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>http://www.washingtonpost.com/goingoutguide/movies/american-sniper-movie-review-clint-eastwoods-by-the-book-interpretation-of-chris-kyles-story/2015/01/14/d36835aa-9a86-11e4-96cc-e858eba91ced_story.html</link>
+      <author>Michael O'Sullivan</author>
+    </item>
+    <item index="12">
+      <text>There's a difference between a film about a man reluctant to acknowledge the psychological toll of what he endured and a movie that basically doesn't want to talk about it or question it, or think about it, period.</text>
+      <source>Chicago Tribune</source>
+      <image>rottentomatoes://image.review.rotten</image>
+      <link>http://www.chicagotribune.com/entertainment/movies/ct-american-sniper-20150115-column.html#navtype=barker&amp;barkername=Barker%2006%20-%20In%20Case%20You%20Missed%20It</link>
+      <author>Michael Phillips</author>
+    </item>
+    <item index="13">
+      <text>A shrewd and very well-made picture.</text>
+      <source>San Francisco Chronicle</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>http://www.sfgate.com/movies/article/American-Sniper-review-A-sly-war-film-from-6016035.php</link>
+      <author>Mick LaSalle</author>
+    </item>
+    <item index="14">
+      <text>"American Sniper," Eastwood's 37th film as a director, is his darkest, tightest and most morally ambiguous drama since he shot the western dead with "Unforgiven."</text>
+      <source>Minneapolis Star Tribune</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>http://www.startribune.com/entertainment/movies/288722451.html</link>
+      <author>Colin Covert</author>
+    </item>
+    <item index="15">
+      <text>The message of American Sniper? There really isn't one, apart from Eastwood's career-long fascination with taciturn men called upon to do a dirty but necessary job well.</text>
+      <source>Toronto Star</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>http://www.thestar.com/entertainment/movies/2015/01/15/american-sniper-told-in-shades-of-red-white-and-blue-review.html</link>
+      <author>Peter Howell</author>
+    </item>
+    <item index="16">
+      <text>The movie reality created by Eastwood is powerful and intense, and "American Sniper" is arguably his best picture since "Unforgiven."</text>
+      <source>Seattle Times</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>http://seattletimes.com/html/entertainment/2025454076_americansniperxml.html?syndication=rss</link>
+      <author>Soren Anderson</author>
+    </item>
+  </reviews>
+  <roles>
+    <item index="0">
+      <photo>http://image.tmdb.org/t/p/original/6vQ9zsljjVGtz7smO9HErzarnCN.jpg</photo>
+      <role>Chris Kyle</role>
+      <name>Bradley Cooper</name>
+    </item>
+    <item index="1">
+      <photo>http://image.tmdb.org/t/p/original/4LqVTede09s7Dfb7LnK6qzsh4pD.jpg</photo>
+      <role>Taya Renae Kyle</role>
+      <name>Sienna Miller</name>
+    </item>
+    <item index="2">
+      <photo>http://image.tmdb.org/t/p/original/itzNqPkp0LIyRLyLHEZFx8up0PQ.jpg</photo>
+      <role>Goat - Winston</role>
+      <name>Kyle Gallner</name>
+    </item>
+    <item index="3">
+      <photo>http://image.tmdb.org/t/p/original/zMkviiPRNB2Y2hWaVhPN1SXqAvN.jpg</photo>
+      <role>Young Chris Kyle</role>
+      <name>Cole Konis</name>
+    </item>
+    <item index="4">
+      <photo>http://image.tmdb.org/t/p/original/jTBxaZcoJjn6GkFaD7wPSDs8VfA.jpg</photo>
+      <role>Wayne Kyle</role>
+      <name>Ben Reed</name>
+    </item>
+    <item index="5">
+      <photo>http://image.tmdb.org/t/p/original/w7utIIbBgjhA4Pel1FCKd6Pd4Lg.jpg</photo>
+      <role>Debbie Kyle</role>
+      <name>Elise Robertson</name>
+    </item>
+    <item index="6">
+      <photo>http://image.tmdb.org/t/p/original/aqtduAzhwRDEhdbY4B1X4ZiRjvO.jpg</photo>
+      <role>Young Jeff Kyle</role>
+      <name>Luke Sunshine</name>
+    </item>
+    <item index="7">
+      <photo>http://image.tmdb.org/t/p/original/A9xe6eB4Z3jYlbq9Vur355vz9ne.jpg</photo>
+      <role>Pastor</role>
+      <name>Troy Vincent</name>
+    </item>
+    <item index="8">
+      <photo>http://image.tmdb.org/t/p/original/dtVpqthO7Ln3q9hFq1DX9BHk6F2.jpg</photo>
+      <role>Bully</role>
+      <name>Brandon Salgado Telis</name>
+    </item>
+    <item index="9">
+      <photo>http://image.tmdb.org/t/p/original/hUfIviyweiBZk4JKoCIKyuo6HGH.jpg</photo>
+      <role>Lt. Col. Jones</role>
+      <name>Chance Kelly</name>
+    </item>
+    <item index="10">
+      <photo>http://image.tmdb.org/t/p/original/uGNKMREdVeNALjCFKjaPSgNIfNV.jpg</photo>
+      <role>Jeff Kyle</role>
+      <name>Keir O'Donnell</name>
+    </item>
+    <item index="11">
+      <photo>http://image.tmdb.org/t/p/original/tuVcwHuiWXF8KOqGD04y8BHuQuI.jpg</photo>
+      <role>Sarah</role>
+      <name>Marnette Patterson</name>
+    </item>
+    <item index="12">
+      <photo>http://image.tmdb.org/t/p/original/ttykLiGmbruIAedjWGWrw3AS35h.jpg</photo>
+      <role>Navy Recruiter</role>
+      <name>Billy Miller</name>
+    </item>
+    <item index="13">
+      <photo>http://image.tmdb.org/t/p/original/stLgqI31p8ULs3lDZg57KWpYL68.jpg</photo>
+      <role>Instructor Rolle</role>
+      <name>Leonard Roberts</name>
+    </item>
+    <item index="14">
+      <photo>http://image.tmdb.org/t/p/original/9Auh1zaVGGBTYSDwjBs5PRChju1.jpg</photo>
+      <role>Tony</role>
+      <name>Reynaldo Gallegos</name>
+    </item>
+    <item index="15">
+      <photo>http://image.tmdb.org/t/p/original/pC5eRbhV98XK7PwvonmQAOwoKrv.jpg</photo>
+      <role>Dauber</role>
+      <name>Kevin Lacz</name>
+    </item>
+    <item index="16">
+      <photo>http://image.tmdb.org/t/p/original/bgNT9JqepDtxP6ryfGVBAECvUgX.jpg</photo>
+      <role>Biggles</role>
+      <name>Jake McDorman</name>
+    </item>
+    <item index="17">
+      <photo>http://image.tmdb.org/t/p/original/kyDECJG3Y8nBAIGrtDvfJA5Cwwr.jpg</photo>
+      <role>"D" / Dandridge</role>
+      <name>Cory Hardrict</name>
+    </item>
+    <item index="18">
+      <photo>http://image.tmdb.org/t/p/original/jkQhi2rrGGSmIZyGo7IAsToeEL.jpg</photo>
+      <role>"Squirrel" / Case</role>
+      <name>Eric Ladin</name>
+    </item>
+    <item index="19">
+      <photo>http://image.tmdb.org/t/p/original/2FGegT5jzhD94616bMZ7k5ExyXT.jpg</photo>
+      <role>Dapper Navy Man</role>
+      <name>Brando Eaton</name>
+    </item>
+    <item index="20">
+      <photo>http://image.tmdb.org/t/p/original/ctHYDzTRTt5UHeopL4BJQqsLWEi.jpg</photo>
+      <role>PO Kaman</role>
+      <name>James Ryen</name>
+    </item>
+    <item index="21">
+      <photo>http://image.tmdb.org/t/p/original/exWEhmQhrUXl4zQ1lnBiSMUvOYF.jpg</photo>
+      <role>Marc Lee</role>
+      <name>Luke Grimes</name>
+    </item>
+    <item index="22">
+      <photo>http://image.tmdb.org/t/p/original/gQ67uMJsn8V8iSdC3XXFd4LjoCm.jpg</photo>
+      <role>Mustafa</role>
+      <name>Sammy Sheik</name>
+    </item>
+    <item index="23">
+      <photo>http://image.tmdb.org/t/p/original/eBiVP13iVzpcyLm9DlauPGjFCws.jpg</photo>
+      <role>Jag Officer #1</role>
+      <name>Evan Gamble</name>
+    </item>
+    <item index="24">
+      <photo>http://image.tmdb.org/t/p/original/hwGjdnFT8MAowE4oYsIGQovqUsD.jpg</photo>
+      <role>Colonel Gronski</role>
+      <name>Tim Griffin</name>
+    </item>
+    <item index="25">
+      <photo>http://image.tmdb.org/t/p/original/lQUr0PTOWKqmNYbqTmStu40WjiN.jpg</photo>
+      <role>Capt. Gillespie</role>
+      <name>Brian Hallisay</name>
+    </item>
+    <item index="26">
+      <photo>http://image.tmdb.org/t/p/original/qxp9X0SIA0FWts2qK60IcrmUhnF.jpg</photo>
+      <role>Sheikh Al-Obeidi</role>
+      <name>Navid Negahban</name>
+    </item>
+    <item index="27">
+      <photo>http://image.tmdb.org/t/p/original/wQgm2hX25orrPaZSpkC8rETHTMP.jpg</photo>
+      <role>Terp #1</role>
+      <name>Fehd Benchemsi</name>
+    </item>
+    <item index="28">
+      <photo>http://image.tmdb.org/t/p/original/oAl9UIuvDPgI36h58kEngnDeQhH.jpg</photo>
+      <role>DIA Agent Snead</role>
+      <name>Eric Close</name>
+    </item>
+    <item index="29">
+      <photo>http://image.tmdb.org/t/p/original/vewRMKCtxTL0x3HlG3bKZMm6KpU.jpg</photo>
+      <role>Contractor</role>
+      <name>Zack Duhame</name>
+    </item>
+    <item index="30">
+      <photo>http://image.tmdb.org/t/p/original/xfwMaSDFDtpNKUSxN9xdtvjPoHJ.jpg</photo>
+      <role>The Butcher</role>
+      <name>Mido Hamada</name>
+    </item>
+    <item index="31">
+      <photo>http://image.tmdb.org/t/p/original/s9zwHjudY1H3J4oluE3QruTZn3S.jpg</photo>
+      <role>Dr. Hallerman</role>
+      <name>Kathe Mazur</name>
+    </item>
+    <item index="32">
+      <photo>http://image.tmdb.org/t/p/original/yDNPaxx5G5TVgRC2GtcWhfuly9k.jpg</photo>
+      <role>Navy Seal Lt. Martin</role>
+      <name>Sam Jaeger</name>
+    </item>
+    <item index="33">
+      <photo>http://image.tmdb.org/t/p/original/oomyDwiJ6LxMH6CCx8oyzDC6kZZ.jpg</photo>
+      <role>Terp #2</role>
+      <name>Assaf Cohen</name>
+    </item>
+    <item index="34">
+      <photo>http://image.tmdb.org/t/p/original/ybLWM4LBYrsqZ3h2qgn2zOUiIX0.jpg</photo>
+      <role>Messianic Tribal Leader</role>
+      <name>Fahim Fazli</name>
+    </item>
+    <item index="35">
+      <photo>http://image.tmdb.org/t/p/original/lgTHObHhH88mMajRorexPUFV4ci.jpg</photo>
+      <role>PFC Alvarez</role>
+      <name>Hector Bucio</name>
+    </item>
+    <item index="36">
+      <photo>http://image.tmdb.org/t/p/original/xkFr1vd1pO2Ls2gQxxuMd1mgrfL.jpg</photo>
+      <role>Young Vet-Mads</role>
+      <name>Jonathan Groff</name>
+    </item>
+    <item index="37">
+      <photo>http://image.tmdb.org/t/p/original/qkvExPC4E2EUwaBWVal250Y3lA8.jpg</photo>
+      <role>Receptionist</role>
+      <name>Melissa Hayden</name>
+    </item>
+    <item index="38">
+      <photo>http://image.tmdb.org/t/p/original/zxYSNDmr6Pc7eCN09BsZ1tE4axc.jpg</photo>
+      <role>Marc Lee's Mom</role>
+      <name>Pamela Denise Weaver</name>
+    </item>
+    <item index="39">
+      <photo>http://image.tmdb.org/t/p/original/npGJyTO5Nq7loQ8s7lZhKZkDdKf.jpg</photo>
+      <role>Funeral Detail OIC</role>
+      <name>James D. Dever</name>
+    </item>
+    <item index="40">
+      <photo>http://image.tmdb.org/t/p/original/5ZyPXgyJF18zpOjwnvpWbSS8Bgr.jpg</photo>
+      <role>Ranger One</role>
+      <name>Owain Yeoman</name>
+    </item>
+    <item index="41">
+      <photo>http://image.tmdb.org/t/p/original/x0O5Rlp3dx5biN057TQb9Tao32L.jpg</photo>
+      <role>MRAP Gunner</role>
+      <name>Greg Duke</name>
+    </item>
+    <item index="42">
+      <photo>http://image.tmdb.org/t/p/original/bVYBMRg7rtVYXLCujthcRwMLUW7.jpg</photo>
+      <role>Colton</role>
+      <name>Max Charles</name>
+    </item>
+    <item index="43">
+      <photo>http://image.tmdb.org/t/p/original/m4poS8cn91Gz2uxSRqve5xrgkGI.jpg</photo>
+      <role>VA Doctor</role>
+      <name>Robert Clotworthy</name>
+    </item>
+    <item index="44">
+      <photo>http://image.tmdb.org/t/p/original/qW0GECEFRKVoPyIr45MtxbWd7Pn.jpg</photo>
+      <role>Veteran #2</role>
+      <name>Anthony Jennings</name>
+    </item>
+    <item index="45">
+      <photo>http://image.tmdb.org/t/p/original/vkgiq8RpmXX4YyRH8zW3A3Fetak.jpg</photo>
+      <role>Veteran at Truck</role>
+      <name>Vincent Selhorst-Jones</name>
+    </item>
+    <item index="46">
+      <photo>http://image.tmdb.org/t/p/original/gW6TNF1smdOXsiXe6xEM6tBZDWa.jpg</photo>
+      <role>Marine Sniper (uncredited)</role>
+      <name>Emerson Brooks</name>
+    </item>
+    <item index="47">
+      <photo>http://image.tmdb.org/t/p/original/vlX7G2ST0Gp8mZbObMLn2Rbndi8.jpg</photo>
+      <role>Carjacker #2 (uncredited)</role>
+      <name>E.R. Ruiz</name>
+    </item>
+    <item index="48">
+      <photo>http://image.tmdb.org/t/p/original/bArZVvdjCbZ7p1L6KBtt8Jq7bCI.jpg</photo>
+      <role>Drinking Buddy (uncredited)</role>
+      <name>Amber Alexander</name>
+    </item>
+    <item index="49">
+      <photo/>
+      <role>Cowboy</role>
+      <name>Jason Hall</name>
+    </item>
+    <item index="50">
+      <photo/>
+      <role>Instructor #2</role>
+      <name>Jason Walsh</name>
+    </item>
+    <item index="51">
+      <photo/>
+      <role>1st Marine #2</role>
+      <name>Jonathan Kowalsky</name>
+    </item>
+    <item index="52">
+      <photo/>
+      <role>1st Marine #1</role>
+      <name>Shane Habberstad</name>
+    </item>
+    <item index="53">
+      <photo/>
+      <role>Marine Viper #4</role>
+      <name>Kevin Ryan</name>
+    </item>
+    <item index="54">
+      <photo/>
+      <role>JAG Officer #2</role>
+      <name>Benjamin Mathes</name>
+    </item>
+    <item index="55">
+      <photo>http://image.tmdb.org/t/p/original/lEpr8RV2TUGiyRUZKDWVm2AHXPc.jpg</photo>
+      <role>Sanchez</role>
+      <name>Luis Jose Lopez</name>
+    </item>
+    <item index="56">
+      <photo/>
+      <role>Omar</role>
+      <name>Had Mhidi Senhaji</name>
+    </item>
+    <item index="57">
+      <photo/>
+      <role>Son</role>
+      <name>Ryan Sadaghiani</name>
+    </item>
+    <item index="58">
+      <photo>http://image.tmdb.org/t/p/original/Io9olOKthP3jjunMrjnh979AQT.jpg</photo>
+      <role>Father</role>
+      <name>Ayman Samman</name>
+    </item>
+    <item index="59">
+      <photo/>
+      <role>Angry Neighbor</role>
+      <name>Salah Salea</name>
+    </item>
+    <item index="60">
+      <photo>http://image.tmdb.org/t/p/original/alMVJXk8kSParwctJOwupAs6uXf.jpg</photo>
+      <role>Young Colton</role>
+      <name>Aidan McGraw</name>
+    </item>
+    <item index="61">
+      <photo>http://image.tmdb.org/t/p/original/vcbK8jF5sytGEhI23ZQ07X0ynVg.jpg</photo>
+      <role>Navy Doctor</role>
+      <name>Ferguson Reid</name>
+    </item>
+    <item index="62">
+      <photo/>
+      <role>Chaplain</role>
+      <name>Mark Thomason</name>
+    </item>
+    <item index="63">
+      <photo/>
+      <role>Marc Lee's Wife</role>
+      <name>Amie Farrell</name>
+    </item>
+    <item index="64">
+      <photo/>
+      <role>Firing Party NCO</role>
+      <name>Quay Terry</name>
+    </item>
+    <item index="65">
+      <photo/>
+      <role>Navy Nurse</role>
+      <name>Tami Goveia</name>
+    </item>
+    <item index="66">
+      <photo/>
+      <role>Marine Gate Guard #1</role>
+      <name>Leon Charles Farmer</name>
+    </item>
+    <item index="67">
+      <photo/>
+      <role>Marine Gate Guard #2</role>
+      <name>Paul Meixner</name>
+    </item>
+    <item index="68">
+      <photo/>
+      <role>Marine Gate Guard #3</role>
+      <name>Victoria Reina Sigloch</name>
+    </item>
+    <item index="69">
+      <photo/>
+      <role>Delta Sniper</role>
+      <name>Joel Lambert</name>
+    </item>
+    <item index="70">
+      <photo/>
+      <role>Recon Sniper</role>
+      <name>Tony Nevada</name>
+    </item>
+    <item index="71">
+      <photo>http://image.tmdb.org/t/p/original/kIodzyoNx4f1ALlxWzrgJYTLz2n.jpg</photo>
+      <role>Recon Gunner</role>
+      <name>Brett Edwards</name>
+    </item>
+    <item index="72">
+      <photo/>
+      <role>Navy Dispatch Officer</role>
+      <name>Nick Salter</name>
+    </item>
+    <item index="73">
+      <photo/>
+      <role>Cobra Pilot</role>
+      <name>Ricky Ryba</name>
+    </item>
+    <item index="74">
+      <photo>http://image.tmdb.org/t/p/original/kOQ5GxZPZQKxpb30c7TARd5fBs3.jpg</photo>
+      <role>Colton's Friend</role>
+      <name>Jet Jurgensmeyer</name>
+    </item>
+    <item index="75">
+      <photo>http://image.tmdb.org/t/p/original/wrnJbVuxcEzmsU5FukVnFmS54Xo.jpg</photo>
+      <role>McKenna</role>
+      <name>Madeleine McGraw</name>
+    </item>
+    <item index="76">
+      <photo/>
+      <role>Boy's Mom</role>
+      <name>Elizabeth Schmidt</name>
+    </item>
+    <item index="77">
+      <photo/>
+      <role>Wynn's Friend</role>
+      <name>Bryan Anderson</name>
+    </item>
+    <item index="78">
+      <photo/>
+      <role>Wynn</role>
+      <name>Jacob Schick</name>
+    </item>
+    <item index="79">
+      <photo/>
+      <role>Veteran #1</role>
+      <name>Wade White</name>
+    </item>
+    <item index="80">
+      <photo>http://image.tmdb.org/t/p/original/n8h4ZHteFFXfmzUW6OEaPWanDnm.jpg</photo>
+      <role>Church Goer</role>
+      <name>Clint Eastwood</name>
+    </item>
+    <item index="81">
+      <photo>http://image.tmdb.org/t/p/original/rZx7QfqyZ11nn6UaRLYTMDLpVeq.jpg</photo>
+      <role>Thompson</role>
+      <name>Erik Audé</name>
+    </item>
+  </roles>
+  <similar>
+    <item index="0">Fury</item>
+    <item index="1">Lone Survivor</item>
+    <item index="2">Unbroken</item>
+    <item index="3">Exodus: Gods and Kings</item>
+    <item index="4">Nightcrawler</item>
+    <item index="5">The Equalizer</item>
+    <item index="6">The Judge</item>
+    <item index="7">Taken 3</item>
+    <item index="8">American Hustle</item>
+    <item index="9">300: Rise of an Empire</item>
+    <item index="10">Captain Phillips</item>
+    <item index="11">Foxcatcher</item>
+    <item index="12">The Hurt Locker</item>
+    <item index="13">Focus</item>
+    <item index="14">Bridge of Spies</item>
+    <item index="15">The Interview</item>
+    <item index="16">Southpaw</item>
+    <item index="17">Rush</item>
+    <item index="18">Birdman</item>
+    <item index="19">Sicario</item>
+  </similar>
+  <studio>Village Roadshow Pictures</studio>
+  <summary>U.S. Navy SEAL Chris Kyle takes his sole mission—protect his comrades—to heart and becomes one of the most lethal snipers in American history. His pinpoint accuracy not only saves countless lives but also makes him a prime target of insurgents. Despite grave danger and his struggle to be a good husband and father to his family back in the States, Kyle serves four tours of duty in Iraq. However, when he finally returns home, he finds that he cannot leave the war behind.</summary>
+  <tagline>The most lethal sniper in U.S. history.</tagline>
+  <tags/>
+  <themes/>
+  <title>American Sniper</title>
+  <writers>
+    <item index="0">
+      <photo/>
+      <role/>
+      <name>Jason Hall</name>
+    </item>
+    <item index="1">
+      <photo/>
+      <role/>
+      <name>Scott McEwen</name>
+    </item>
+    <item index="2">
+      <photo/>
+      <role/>
+      <name>Chris Kyle</name>
+    </item>
+    <item index="3">
+      <photo/>
+      <role/>
+      <name>Jim DeFelice</name>
+    </item>
+  </writers>
+  <year>2014</year>
+</Movie>

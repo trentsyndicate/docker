@@ -1,0 +1,423 @@
+<?xml version='1.0' encoding='utf-8'?>
+<MediaContainer size="21" identifier="com.plexapp.agents.imdb" mediaTagPrefix="/system/bundle/media/flags/" prefsKey="/:/plugins/com.plexapp.agents.imdb/prefs">
+  <Video url="iva://api.internetvideoarchive.com/2.0/DataService/VideoAssets(881676)?lang=en&amp;bitrates=80,212,450,750,1500,2500,5000,8000&amp;duration=143&amp;adaptive=1&amp;dts=0" key="/system/services/url/lookup?url=iva%3A%2F%2Fapi.internetvideoarchive.com%2F2.0%2FDataService%2FVideoAssets%28881676%29%3Flang%3Den%26bitrates%3D80%2C212%2C450%2C750%2C1500%2C2500%2C5000%2C8000%26duration%3D143%26adaptive%3D1%26dts%3D0" type="clip" relationType="trailer" year="2017" title="Thor: The Dark World (Clean Trailer)" originallyAvailableAt="2017-12-08" thumb="https://iva-images.plex.tv/content/hdphotos/11584/011584/011584_1280x720_881676_043.jpg" ratingKey="iva://api.internetvideoarchive.com/2.0/DataService/VideoAssets(881676)?lang=en&amp;bitrates=80,212,450,750,1500,2500,5000,8000&amp;duration=143&amp;adaptive=1&amp;dts=0">
+    <Media container="mp4" height="1080" width="1920" audioCodec="aac" duration="143000" videoCodec="h264" bitrate="2500">
+      <Part duration="143000" key="/services/iva/assets/881676/video.mp4?bitrate=2500" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="1080" width="1920" codec="h264" bitrate="2500" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+    <Media container="mp4" height="720" width="1280" audioCodec="aac" duration="143000" videoCodec="h264" bitrate="1500">
+      <Part duration="143000" key="/services/iva/assets/881676/video.mp4?bitrate=1500" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="720" width="1280" codec="h264" bitrate="1500" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+    <Media container="mp4" height="480" width="640" audioCodec="aac" duration="143000" videoCodec="h264" bitrate="450">
+      <Part duration="143000" key="/services/iva/assets/881676/video.mp4?bitrate=450" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="480" width="640" codec="h264" bitrate="450" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+  </Video>
+  <Video url="iva://api.internetvideoarchive.com/2.0/DataService/VideoAssets(621685)?lang=en&amp;bitrates=80,212,450,750,1500,2500,5000,8000&amp;duration=75&amp;adaptive=1&amp;dts=0" key="/system/services/url/lookup?url=iva%3A%2F%2Fapi.internetvideoarchive.com%2F2.0%2FDataService%2FVideoAssets%28621685%29%3Flang%3Den%26bitrates%3D80%2C212%2C450%2C750%2C1500%2C2500%2C5000%2C8000%26duration%3D75%26adaptive%3D1%26dts%3D0" type="clip" relationType="behindTheScenes" year="2014" title="Thor: The Dark World: Bryan Tyler" originallyAvailableAt="2014-03-03" thumb="https://iva-images.plex.tv/content/hdphotos/8921/008921/008921_1280x720_621685_031.jpg" ratingKey="iva://api.internetvideoarchive.com/2.0/DataService/VideoAssets(621685)?lang=en&amp;bitrates=80,212,450,750,1500,2500,5000,8000&amp;duration=75&amp;adaptive=1&amp;dts=0">
+    <Media container="mp4" height="1080" width="1920" audioCodec="aac" duration="75000" videoCodec="h264" bitrate="2500">
+      <Part duration="75000" key="/services/iva/assets/621685/video.mp4?bitrate=2500" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="1080" width="1920" codec="h264" bitrate="2500" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+    <Media container="mp4" height="720" width="1280" audioCodec="aac" duration="75000" videoCodec="h264" bitrate="1500">
+      <Part duration="75000" key="/services/iva/assets/621685/video.mp4?bitrate=1500" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="720" width="1280" codec="h264" bitrate="1500" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+    <Media container="mp4" height="480" width="640" audioCodec="aac" duration="75000" videoCodec="h264" bitrate="450">
+      <Part duration="75000" key="/services/iva/assets/621685/video.mp4?bitrate=450" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="480" width="640" codec="h264" bitrate="450" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+  </Video>
+  <Video url="iva://api.internetvideoarchive.com/2.0/DataService/VideoAssets(965680)?lang=en&amp;bitrates=80,212,450,750,1500,2500,5000,8000&amp;duration=122&amp;adaptive=1&amp;dts=0" key="/system/services/url/lookup?url=iva%3A%2F%2Fapi.internetvideoarchive.com%2F2.0%2FDataService%2FVideoAssets%28965680%29%3Flang%3Den%26bitrates%3D80%2C212%2C450%2C750%2C1500%2C2500%2C5000%2C8000%26duration%3D122%26adaptive%3D1%26dts%3D0" type="clip" relationType="behindTheScenes" year="2013" title="Thor: The Dark World: Loki's Return (UK)" originallyAvailableAt="2013-11-07" thumb="https://iva-images.plex.tv/content/hdphotos/8548/008548/008548_1280x720_965680_024.jpg" ratingKey="iva://api.internetvideoarchive.com/2.0/DataService/VideoAssets(965680)?lang=en&amp;bitrates=80,212,450,750,1500,2500,5000,8000&amp;duration=122&amp;adaptive=1&amp;dts=0">
+    <Media container="mp4" height="1080" width="1920" audioCodec="aac" duration="122000" videoCodec="h264" bitrate="2500">
+      <Part duration="122000" key="/services/iva/assets/965680/video.mp4?bitrate=2500" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="1080" width="1920" codec="h264" bitrate="2500" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+    <Media container="mp4" height="720" width="1280" audioCodec="aac" duration="122000" videoCodec="h264" bitrate="1500">
+      <Part duration="122000" key="/services/iva/assets/965680/video.mp4?bitrate=1500" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="720" width="1280" codec="h264" bitrate="1500" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+    <Media container="mp4" height="480" width="640" audioCodec="aac" duration="122000" videoCodec="h264" bitrate="450">
+      <Part duration="122000" key="/services/iva/assets/965680/video.mp4?bitrate=450" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="480" width="640" codec="h264" bitrate="450" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+  </Video>
+  <Video url="iva://api.internetvideoarchive.com/2.0/DataService/VideoAssets(246650)?lang=en&amp;bitrates=80,212,450,750,1500,2500,5000,8000&amp;duration=92&amp;adaptive=1&amp;dts=0" key="/system/services/url/lookup?url=iva%3A%2F%2Fapi.internetvideoarchive.com%2F2.0%2FDataService%2FVideoAssets%28246650%29%3Flang%3Den%26bitrates%3D80%2C212%2C450%2C750%2C1500%2C2500%2C5000%2C8000%26duration%3D92%26adaptive%3D1%26dts%3D0" type="clip" relationType="behindTheScenes" year="2013" title="Thor: The Dark World: Beyond Realms (UK)" originallyAvailableAt="2013-11-07" thumb="https://iva-images.plex.tv/content/hdphotos/8548/008548/008548_1280x720_246650_008.jpg" ratingKey="iva://api.internetvideoarchive.com/2.0/DataService/VideoAssets(246650)?lang=en&amp;bitrates=80,212,450,750,1500,2500,5000,8000&amp;duration=92&amp;adaptive=1&amp;dts=0">
+    <Media container="mp4" height="1080" width="1920" audioCodec="aac" duration="92000" videoCodec="h264" bitrate="2500">
+      <Part duration="92000" key="/services/iva/assets/246650/video.mp4?bitrate=2500" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="1080" width="1920" codec="h264" bitrate="2500" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+    <Media container="mp4" height="720" width="1280" audioCodec="aac" duration="92000" videoCodec="h264" bitrate="1500">
+      <Part duration="92000" key="/services/iva/assets/246650/video.mp4?bitrate=1500" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="720" width="1280" codec="h264" bitrate="1500" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+    <Media container="mp4" height="480" width="640" audioCodec="aac" duration="92000" videoCodec="h264" bitrate="450">
+      <Part duration="92000" key="/services/iva/assets/246650/video.mp4?bitrate=450" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="480" width="640" codec="h264" bitrate="450" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+  </Video>
+  <Video url="iva://api.internetvideoarchive.com/2.0/DataService/VideoAssets(614995)?lang=en&amp;bitrates=80,212,450,750,1500,2500,5000,8000&amp;duration=66&amp;adaptive=1&amp;dts=0" key="/system/services/url/lookup?url=iva%3A%2F%2Fapi.internetvideoarchive.com%2F2.0%2FDataService%2FVideoAssets%28614995%29%3Flang%3Den%26bitrates%3D80%2C212%2C450%2C750%2C1500%2C2500%2C5000%2C8000%26duration%3D66%26adaptive%3D1%26dts%3D0" type="clip" relationType="behindTheScenes" year="2013" title="Thor: The Dark World: Villains (UK)" originallyAvailableAt="2013-11-05" thumb="https://iva-images.plex.tv/content/hdphotos/8543/008543/008543_1280x720_614995_020.jpg" ratingKey="iva://api.internetvideoarchive.com/2.0/DataService/VideoAssets(614995)?lang=en&amp;bitrates=80,212,450,750,1500,2500,5000,8000&amp;duration=66&amp;adaptive=1&amp;dts=0">
+    <Media container="mp4" height="1080" width="1920" audioCodec="aac" duration="66000" videoCodec="h264" bitrate="2500">
+      <Part duration="66000" key="/services/iva/assets/614995/video.mp4?bitrate=2500" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="1080" width="1920" codec="h264" bitrate="2500" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+    <Media container="mp4" height="720" width="1280" audioCodec="aac" duration="66000" videoCodec="h264" bitrate="1500">
+      <Part duration="66000" key="/services/iva/assets/614995/video.mp4?bitrate=1500" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="720" width="1280" codec="h264" bitrate="1500" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+    <Media container="mp4" height="480" width="640" audioCodec="aac" duration="66000" videoCodec="h264" bitrate="450">
+      <Part duration="66000" key="/services/iva/assets/614995/video.mp4?bitrate=450" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="480" width="640" codec="h264" bitrate="450" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+  </Video>
+  <Video url="iva://api.internetvideoarchive.com/2.0/DataService/VideoAssets(245857)?lang=en&amp;bitrates=80,212,450,750,1500,2500,5000,8000&amp;duration=92&amp;adaptive=1&amp;dts=0" key="/system/services/url/lookup?url=iva%3A%2F%2Fapi.internetvideoarchive.com%2F2.0%2FDataService%2FVideoAssets%28245857%29%3Flang%3Den%26bitrates%3D80%2C212%2C450%2C750%2C1500%2C2500%2C5000%2C8000%26duration%3D92%26adaptive%3D1%26dts%3D0" type="clip" relationType="behindTheScenes" year="2013" title="Thor: The Dark World: Story (UK)" originallyAvailableAt="2013-11-05" thumb="https://iva-images.plex.tv/content/hdphotos/8543/008543/008543_1280x720_245857_015.jpg" ratingKey="iva://api.internetvideoarchive.com/2.0/DataService/VideoAssets(245857)?lang=en&amp;bitrates=80,212,450,750,1500,2500,5000,8000&amp;duration=92&amp;adaptive=1&amp;dts=0">
+    <Media container="mp4" height="1080" width="1920" audioCodec="aac" duration="92000" videoCodec="h264" bitrate="2500">
+      <Part duration="92000" key="/services/iva/assets/245857/video.mp4?bitrate=2500" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="1080" width="1920" codec="h264" bitrate="2500" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+    <Media container="mp4" height="720" width="1280" audioCodec="aac" duration="92000" videoCodec="h264" bitrate="1500">
+      <Part duration="92000" key="/services/iva/assets/245857/video.mp4?bitrate=1500" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="720" width="1280" codec="h264" bitrate="1500" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+    <Media container="mp4" height="480" width="640" audioCodec="aac" duration="92000" videoCodec="h264" bitrate="450">
+      <Part duration="92000" key="/services/iva/assets/245857/video.mp4?bitrate=450" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="480" width="640" codec="h264" bitrate="450" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+  </Video>
+  <Video url="iva://api.internetvideoarchive.com/2.0/DataService/VideoAssets(223411)?lang=en&amp;bitrates=80,212,450,750,1500,2500,5000,8000&amp;duration=62&amp;adaptive=1&amp;dts=0" key="/system/services/url/lookup?url=iva%3A%2F%2Fapi.internetvideoarchive.com%2F2.0%2FDataService%2FVideoAssets%28223411%29%3Flang%3Den%26bitrates%3D80%2C212%2C450%2C750%2C1500%2C2500%2C5000%2C8000%26duration%3D62%26adaptive%3D1%26dts%3D0" type="clip" relationType="behindTheScenes" year="2013" title="Thor: The Dark World: Thor And Jane (Featurette)" originallyAvailableAt="2013-10-28" thumb="https://iva-images.plex.tv/content/hdphotos/8535/008535/008535_955x537_223411_005.jpg" ratingKey="iva://api.internetvideoarchive.com/2.0/DataService/VideoAssets(223411)?lang=en&amp;bitrates=80,212,450,750,1500,2500,5000,8000&amp;duration=62&amp;adaptive=1&amp;dts=0">
+    <Media container="mp4" height="1080" width="1920" audioCodec="aac" duration="62000" videoCodec="h264" bitrate="2500">
+      <Part duration="62000" key="/services/iva/assets/223411/video.mp4?bitrate=2500" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="1080" width="1920" codec="h264" bitrate="2500" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+    <Media container="mp4" height="720" width="1280" audioCodec="aac" duration="62000" videoCodec="h264" bitrate="1500">
+      <Part duration="62000" key="/services/iva/assets/223411/video.mp4?bitrate=1500" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="720" width="1280" codec="h264" bitrate="1500" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+    <Media container="mp4" height="480" width="640" audioCodec="aac" duration="62000" videoCodec="h264" bitrate="450">
+      <Part duration="62000" key="/services/iva/assets/223411/video.mp4?bitrate=450" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="480" width="640" codec="h264" bitrate="450" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+  </Video>
+  <Video url="iva://api.internetvideoarchive.com/2.0/DataService/VideoAssets(116857)?lang=en&amp;bitrates=80,212,450,750,1500,2500,5000,8000&amp;duration=92&amp;adaptive=1&amp;dts=0" key="/system/services/url/lookup?url=iva%3A%2F%2Fapi.internetvideoarchive.com%2F2.0%2FDataService%2FVideoAssets%28116857%29%3Flang%3Den%26bitrates%3D80%2C212%2C450%2C750%2C1500%2C2500%2C5000%2C8000%26duration%3D92%26adaptive%3D1%26dts%3D0" type="clip" relationType="behindTheScenes" year="2013" title="Thor: The Dark World: Story Pod (Featurette)" originallyAvailableAt="2013-10-21" thumb="https://iva-images.plex.tv/content/hdphotos/8527/008527/008527_1166x656_116857_050.jpg" ratingKey="iva://api.internetvideoarchive.com/2.0/DataService/VideoAssets(116857)?lang=en&amp;bitrates=80,212,450,750,1500,2500,5000,8000&amp;duration=92&amp;adaptive=1&amp;dts=0">
+    <Media container="mp4" height="1080" width="1920" audioCodec="aac" duration="92000" videoCodec="h264" bitrate="2500">
+      <Part duration="92000" key="/services/iva/assets/116857/video.mp4?bitrate=2500" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="1080" width="1920" codec="h264" bitrate="2500" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+    <Media container="mp4" height="720" width="1280" audioCodec="aac" duration="92000" videoCodec="h264" bitrate="1500">
+      <Part duration="92000" key="/services/iva/assets/116857/video.mp4?bitrate=1500" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="720" width="1280" codec="h264" bitrate="1500" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+    <Media container="mp4" height="480" width="640" audioCodec="aac" duration="92000" videoCodec="h264" bitrate="450">
+      <Part duration="92000" key="/services/iva/assets/116857/video.mp4?bitrate=450" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="480" width="640" codec="h264" bitrate="450" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+  </Video>
+  <Video url="iva://api.internetvideoarchive.com/2.0/DataService/VideoAssets(925692)?lang=en&amp;bitrates=80,212,450,750,1500,2500,5000,8000&amp;duration=22&amp;adaptive=1&amp;dts=0" key="/system/services/url/lookup?url=iva%3A%2F%2Fapi.internetvideoarchive.com%2F2.0%2FDataService%2FVideoAssets%28925692%29%3Flang%3Den%26bitrates%3D80%2C212%2C450%2C750%2C1500%2C2500%2C5000%2C8000%26duration%3D22%26adaptive%3D1%26dts%3D0" type="clip" relationType="behindTheScenes" year="2013" title="Thor: The Dark World: Ray Stevenson On Reprising The Role Of Volstagg" originallyAvailableAt="2013-10-18" thumb="https://iva-images.plex.tv/content/hdphotos/8527/008527/008527_1280x720_925692_005.jpg" ratingKey="iva://api.internetvideoarchive.com/2.0/DataService/VideoAssets(925692)?lang=en&amp;bitrates=80,212,450,750,1500,2500,5000,8000&amp;duration=22&amp;adaptive=1&amp;dts=0">
+    <Media container="mp4" height="1080" width="1920" audioCodec="aac" duration="22000" videoCodec="h264" bitrate="2500">
+      <Part duration="22000" key="/services/iva/assets/925692/video.mp4?bitrate=2500" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="1080" width="1920" codec="h264" bitrate="2500" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+    <Media container="mp4" height="720" width="1280" audioCodec="aac" duration="22000" videoCodec="h264" bitrate="1500">
+      <Part duration="22000" key="/services/iva/assets/925692/video.mp4?bitrate=1500" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="720" width="1280" codec="h264" bitrate="1500" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+    <Media container="mp4" height="480" width="640" audioCodec="aac" duration="22000" videoCodec="h264" bitrate="450">
+      <Part duration="22000" key="/services/iva/assets/925692/video.mp4?bitrate=450" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="480" width="640" codec="h264" bitrate="450" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+  </Video>
+  <Video url="iva://api.internetvideoarchive.com/2.0/DataService/VideoAssets(736584)?lang=en&amp;bitrates=80,212,450,750,1500,2500,5000,8000&amp;duration=32&amp;adaptive=1&amp;dts=0" key="/system/services/url/lookup?url=iva%3A%2F%2Fapi.internetvideoarchive.com%2F2.0%2FDataService%2FVideoAssets%28736584%29%3Flang%3Den%26bitrates%3D80%2C212%2C450%2C750%2C1500%2C2500%2C5000%2C8000%26duration%3D32%26adaptive%3D1%26dts%3D0" type="clip" relationType="behindTheScenes" year="2013" title="Thor: The Dark World: Kat Dennings On Where We Find Darcy In This Film" originallyAvailableAt="2013-10-18" thumb="https://iva-images.plex.tv/content/hdphotos/8527/008527/008527_1280x720_736584_008.jpg" ratingKey="iva://api.internetvideoarchive.com/2.0/DataService/VideoAssets(736584)?lang=en&amp;bitrates=80,212,450,750,1500,2500,5000,8000&amp;duration=32&amp;adaptive=1&amp;dts=0">
+    <Media container="mp4" height="1080" width="1920" audioCodec="aac" duration="32000" videoCodec="h264" bitrate="2500">
+      <Part duration="32000" key="/services/iva/assets/736584/video.mp4?bitrate=2500" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="1080" width="1920" codec="h264" bitrate="2500" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+    <Media container="mp4" height="720" width="1280" audioCodec="aac" duration="32000" videoCodec="h264" bitrate="1500">
+      <Part duration="32000" key="/services/iva/assets/736584/video.mp4?bitrate=1500" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="720" width="1280" codec="h264" bitrate="1500" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+    <Media container="mp4" height="480" width="640" audioCodec="aac" duration="32000" videoCodec="h264" bitrate="450">
+      <Part duration="32000" key="/services/iva/assets/736584/video.mp4?bitrate=450" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="480" width="640" codec="h264" bitrate="450" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+  </Video>
+  <Video url="iva://api.internetvideoarchive.com/2.0/DataService/VideoAssets(498708)?lang=en&amp;bitrates=80,212,450,750,1500,2500,5000,8000&amp;duration=37&amp;adaptive=1&amp;dts=0" key="/system/services/url/lookup?url=iva%3A%2F%2Fapi.internetvideoarchive.com%2F2.0%2FDataService%2FVideoAssets%28498708%29%3Flang%3Den%26bitrates%3D80%2C212%2C450%2C750%2C1500%2C2500%2C5000%2C8000%26duration%3D37%26adaptive%3D1%26dts%3D0" type="clip" relationType="behindTheScenes" year="2013" title="Thor: The Dark World: Zachary Levi On Reprising The Role Of Fandral" originallyAvailableAt="2013-10-18" thumb="https://iva-images.plex.tv/content/hdphotos/8527/008527/008527_1280x720_498708_008.jpg" ratingKey="iva://api.internetvideoarchive.com/2.0/DataService/VideoAssets(498708)?lang=en&amp;bitrates=80,212,450,750,1500,2500,5000,8000&amp;duration=37&amp;adaptive=1&amp;dts=0">
+    <Media container="mp4" height="1080" width="1920" audioCodec="aac" duration="37000" videoCodec="h264" bitrate="2500">
+      <Part duration="37000" key="/services/iva/assets/498708/video.mp4?bitrate=2500" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="1080" width="1920" codec="h264" bitrate="2500" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+    <Media container="mp4" height="720" width="1280" audioCodec="aac" duration="37000" videoCodec="h264" bitrate="1500">
+      <Part duration="37000" key="/services/iva/assets/498708/video.mp4?bitrate=1500" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="720" width="1280" codec="h264" bitrate="1500" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+    <Media container="mp4" height="480" width="640" audioCodec="aac" duration="37000" videoCodec="h264" bitrate="450">
+      <Part duration="37000" key="/services/iva/assets/498708/video.mp4?bitrate=450" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="480" width="640" codec="h264" bitrate="450" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+  </Video>
+  <Video url="iva://api.internetvideoarchive.com/2.0/DataService/VideoAssets(288407)?lang=en&amp;bitrates=80,212,450,750,1500,2500,5000,8000&amp;duration=23&amp;adaptive=1&amp;dts=0" key="/system/services/url/lookup?url=iva%3A%2F%2Fapi.internetvideoarchive.com%2F2.0%2FDataService%2FVideoAssets%28288407%29%3Flang%3Den%26bitrates%3D80%2C212%2C450%2C750%2C1500%2C2500%2C5000%2C8000%26duration%3D23%26adaptive%3D1%26dts%3D0" type="clip" relationType="behindTheScenes" year="2013" title="Thor: The Dark World: Natalie Portman On Reprising The Role Of Jane Foster" originallyAvailableAt="2013-10-18" thumb="https://iva-images.plex.tv/content/hdphotos/8527/008527/008527_1280x720_288407_004.jpg" ratingKey="iva://api.internetvideoarchive.com/2.0/DataService/VideoAssets(288407)?lang=en&amp;bitrates=80,212,450,750,1500,2500,5000,8000&amp;duration=23&amp;adaptive=1&amp;dts=0">
+    <Media container="mp4" height="1080" width="1920" audioCodec="aac" duration="23000" videoCodec="h264" bitrate="2500">
+      <Part duration="23000" key="/services/iva/assets/288407/video.mp4?bitrate=2500" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="1080" width="1920" codec="h264" bitrate="2500" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+    <Media container="mp4" height="720" width="1280" audioCodec="aac" duration="23000" videoCodec="h264" bitrate="1500">
+      <Part duration="23000" key="/services/iva/assets/288407/video.mp4?bitrate=1500" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="720" width="1280" codec="h264" bitrate="1500" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+    <Media container="mp4" height="480" width="640" audioCodec="aac" duration="23000" videoCodec="h264" bitrate="450">
+      <Part duration="23000" key="/services/iva/assets/288407/video.mp4?bitrate=450" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="480" width="640" codec="h264" bitrate="450" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+  </Video>
+  <Video url="iva://api.internetvideoarchive.com/2.0/DataService/VideoAssets(459765)?lang=en&amp;bitrates=80,212,450,750,1500,2500,5000,8000&amp;duration=84&amp;adaptive=1&amp;dts=0" key="/system/services/url/lookup?url=iva%3A%2F%2Fapi.internetvideoarchive.com%2F2.0%2FDataService%2FVideoAssets%28459765%29%3Flang%3Den%26bitrates%3D80%2C212%2C450%2C750%2C1500%2C2500%2C5000%2C8000%26duration%3D84%26adaptive%3D1%26dts%3D0" type="clip" relationType="behindTheScenes" year="2013" title="Thor: The Dark World: Tom Hiddleston On Reprising The Role Of Loki" originallyAvailableAt="2013-10-18" thumb="https://iva-images.plex.tv/content/hdphotos/8527/008527/008527_1280x720_459765_005.jpg" ratingKey="iva://api.internetvideoarchive.com/2.0/DataService/VideoAssets(459765)?lang=en&amp;bitrates=80,212,450,750,1500,2500,5000,8000&amp;duration=84&amp;adaptive=1&amp;dts=0">
+    <Media container="mp4" height="1080" width="1920" audioCodec="aac" duration="84000" videoCodec="h264" bitrate="2500">
+      <Part duration="84000" key="/services/iva/assets/459765/video.mp4?bitrate=2500" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="1080" width="1920" codec="h264" bitrate="2500" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+    <Media container="mp4" height="720" width="1280" audioCodec="aac" duration="84000" videoCodec="h264" bitrate="1500">
+      <Part duration="84000" key="/services/iva/assets/459765/video.mp4?bitrate=1500" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="720" width="1280" codec="h264" bitrate="1500" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+    <Media container="mp4" height="480" width="640" audioCodec="aac" duration="84000" videoCodec="h264" bitrate="450">
+      <Part duration="84000" key="/services/iva/assets/459765/video.mp4?bitrate=450" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="480" width="640" codec="h264" bitrate="450" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+  </Video>
+  <Video url="iva://api.internetvideoarchive.com/2.0/DataService/VideoAssets(412362)?lang=en&amp;bitrates=80,212,450,750,1500,2500,5000,8000&amp;duration=12&amp;adaptive=1&amp;dts=0" key="/system/services/url/lookup?url=iva%3A%2F%2Fapi.internetvideoarchive.com%2F2.0%2FDataService%2FVideoAssets%28412362%29%3Flang%3Den%26bitrates%3D80%2C212%2C450%2C750%2C1500%2C2500%2C5000%2C8000%26duration%3D12%26adaptive%3D1%26dts%3D0" type="clip" relationType="behindTheScenes" year="2013" title="Thor: The Dark World: Jaimie Alexander On Reprising The Role Of Sif" originallyAvailableAt="2013-10-18" thumb="https://iva-images.plex.tv/content/hdphotos/8527/008527/008527_1280x720_412362_005.jpg" ratingKey="iva://api.internetvideoarchive.com/2.0/DataService/VideoAssets(412362)?lang=en&amp;bitrates=80,212,450,750,1500,2500,5000,8000&amp;duration=12&amp;adaptive=1&amp;dts=0">
+    <Media container="mp4" height="1080" width="1920" audioCodec="aac" duration="12000" videoCodec="h264" bitrate="2500">
+      <Part duration="12000" key="/services/iva/assets/412362/video.mp4?bitrate=2500" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="1080" width="1920" codec="h264" bitrate="2500" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+    <Media container="mp4" height="720" width="1280" audioCodec="aac" duration="12000" videoCodec="h264" bitrate="1500">
+      <Part duration="12000" key="/services/iva/assets/412362/video.mp4?bitrate=1500" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="720" width="1280" codec="h264" bitrate="1500" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+    <Media container="mp4" height="480" width="640" audioCodec="aac" duration="12000" videoCodec="h264" bitrate="450">
+      <Part duration="12000" key="/services/iva/assets/412362/video.mp4?bitrate=450" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="480" width="640" codec="h264" bitrate="450" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+  </Video>
+  <Video url="iva://api.internetvideoarchive.com/2.0/DataService/VideoAssets(222886)?lang=en&amp;bitrates=80,212,450,750,1500,2500,5000,8000&amp;duration=53&amp;adaptive=1&amp;dts=0" key="/system/services/url/lookup?url=iva%3A%2F%2Fapi.internetvideoarchive.com%2F2.0%2FDataService%2FVideoAssets%28222886%29%3Flang%3Den%26bitrates%3D80%2C212%2C450%2C750%2C1500%2C2500%2C5000%2C8000%26duration%3D53%26adaptive%3D1%26dts%3D0" type="clip" relationType="behindTheScenes" year="2013" title="Thor: The Dark World: Christopher Eccleston On What Enticed Him To Take On The Project" originallyAvailableAt="2013-10-18" thumb="https://iva-images.plex.tv/content/hdphotos/8527/008527/008527_1280x720_222886_005.jpg" ratingKey="iva://api.internetvideoarchive.com/2.0/DataService/VideoAssets(222886)?lang=en&amp;bitrates=80,212,450,750,1500,2500,5000,8000&amp;duration=53&amp;adaptive=1&amp;dts=0">
+    <Media container="mp4" height="1080" width="1920" audioCodec="aac" duration="53000" videoCodec="h264" bitrate="2500">
+      <Part duration="53000" key="/services/iva/assets/222886/video.mp4?bitrate=2500" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="1080" width="1920" codec="h264" bitrate="2500" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+    <Media container="mp4" height="720" width="1280" audioCodec="aac" duration="53000" videoCodec="h264" bitrate="1500">
+      <Part duration="53000" key="/services/iva/assets/222886/video.mp4?bitrate=1500" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="720" width="1280" codec="h264" bitrate="1500" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+    <Media container="mp4" height="480" width="640" audioCodec="aac" duration="53000" videoCodec="h264" bitrate="450">
+      <Part duration="53000" key="/services/iva/assets/222886/video.mp4?bitrate=450" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="480" width="640" codec="h264" bitrate="450" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+  </Video>
+  <Video url="iva://api.internetvideoarchive.com/2.0/DataService/VideoAssets(270099)?lang=en&amp;bitrates=80,212,450,750,1500,2500,5000,8000&amp;duration=40&amp;adaptive=1&amp;dts=0" key="/system/services/url/lookup?url=iva%3A%2F%2Fapi.internetvideoarchive.com%2F2.0%2FDataService%2FVideoAssets%28270099%29%3Flang%3Den%26bitrates%3D80%2C212%2C450%2C750%2C1500%2C2500%2C5000%2C8000%26duration%3D40%26adaptive%3D1%26dts%3D0" type="clip" relationType="behindTheScenes" year="2013" title="Thor: The Dark World: Stellan Skarsgard On Reprising The Role Of Erik Selvig" originallyAvailableAt="2013-10-18" thumb="https://iva-images.plex.tv/content/hdphotos/8527/008527/008527_1280x720_270099_002.jpg" ratingKey="iva://api.internetvideoarchive.com/2.0/DataService/VideoAssets(270099)?lang=en&amp;bitrates=80,212,450,750,1500,2500,5000,8000&amp;duration=40&amp;adaptive=1&amp;dts=0">
+    <Media container="mp4" height="1080" width="1920" audioCodec="aac" duration="40000" videoCodec="h264" bitrate="2500">
+      <Part duration="40000" key="/services/iva/assets/270099/video.mp4?bitrate=2500" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="1080" width="1920" codec="h264" bitrate="2500" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+    <Media container="mp4" height="720" width="1280" audioCodec="aac" duration="40000" videoCodec="h264" bitrate="1500">
+      <Part duration="40000" key="/services/iva/assets/270099/video.mp4?bitrate=1500" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="720" width="1280" codec="h264" bitrate="1500" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+    <Media container="mp4" height="480" width="640" audioCodec="aac" duration="40000" videoCodec="h264" bitrate="450">
+      <Part duration="40000" key="/services/iva/assets/270099/video.mp4?bitrate=450" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="480" width="640" codec="h264" bitrate="450" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+  </Video>
+  <Video url="iva://api.internetvideoarchive.com/2.0/DataService/VideoAssets(83293)?lang=en&amp;bitrates=80,212,450,750,1500,2500,5000,8000&amp;duration=27&amp;adaptive=1&amp;dts=0" key="/system/services/url/lookup?url=iva%3A%2F%2Fapi.internetvideoarchive.com%2F2.0%2FDataService%2FVideoAssets%2883293%29%3Flang%3Den%26bitrates%3D80%2C212%2C450%2C750%2C1500%2C2500%2C5000%2C8000%26duration%3D27%26adaptive%3D1%26dts%3D0" type="clip" relationType="behindTheScenes" year="2013" title="Thor: The Dark World: Chris Hemsworth On Reprising The Role Of Thor" originallyAvailableAt="2013-10-18" thumb="https://iva-images.plex.tv/content/hdphotos/8527/008527/008527_1280x720_83293_008.jpg" ratingKey="iva://api.internetvideoarchive.com/2.0/DataService/VideoAssets(83293)?lang=en&amp;bitrates=80,212,450,750,1500,2500,5000,8000&amp;duration=27&amp;adaptive=1&amp;dts=0">
+    <Media container="mp4" height="1080" width="1920" audioCodec="aac" duration="27000" videoCodec="h264" bitrate="2500">
+      <Part duration="27000" key="/services/iva/assets/83293/video.mp4?bitrate=2500" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="1080" width="1920" codec="h264" bitrate="2500" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+    <Media container="mp4" height="720" width="1280" audioCodec="aac" duration="27000" videoCodec="h264" bitrate="1500">
+      <Part duration="27000" key="/services/iva/assets/83293/video.mp4?bitrate=1500" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="720" width="1280" codec="h264" bitrate="1500" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+    <Media container="mp4" height="480" width="640" audioCodec="aac" duration="27000" videoCodec="h264" bitrate="450">
+      <Part duration="27000" key="/services/iva/assets/83293/video.mp4?bitrate=450" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="480" width="640" codec="h264" bitrate="450" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+  </Video>
+  <Video url="iva://api.internetvideoarchive.com/2.0/DataService/VideoAssets(916559)?lang=en&amp;bitrates=80,212,450,750,1500,2500,5000,8000&amp;duration=47&amp;adaptive=1&amp;dts=0" key="/system/services/url/lookup?url=iva%3A%2F%2Fapi.internetvideoarchive.com%2F2.0%2FDataService%2FVideoAssets%28916559%29%3Flang%3Den%26bitrates%3D80%2C212%2C450%2C750%2C1500%2C2500%2C5000%2C8000%26duration%3D47%26adaptive%3D1%26dts%3D0" type="clip" relationType="behindTheScenes" year="2013" title="Thor: The Dark World: Adewale Akinnuoye On What Enticed Him To Take On The Project" originallyAvailableAt="2013-10-18" thumb="https://iva-images.plex.tv/content/hdphotos/8527/008527/008527_1280x720_916559_004.jpg" ratingKey="iva://api.internetvideoarchive.com/2.0/DataService/VideoAssets(916559)?lang=en&amp;bitrates=80,212,450,750,1500,2500,5000,8000&amp;duration=47&amp;adaptive=1&amp;dts=0">
+    <Media container="mp4" height="1080" width="1920" audioCodec="aac" duration="47000" videoCodec="h264" bitrate="2500">
+      <Part duration="47000" key="/services/iva/assets/916559/video.mp4?bitrate=2500" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="1080" width="1920" codec="h264" bitrate="2500" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+    <Media container="mp4" height="720" width="1280" audioCodec="aac" duration="47000" videoCodec="h264" bitrate="1500">
+      <Part duration="47000" key="/services/iva/assets/916559/video.mp4?bitrate=1500" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="720" width="1280" codec="h264" bitrate="1500" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+    <Media container="mp4" height="480" width="640" audioCodec="aac" duration="47000" videoCodec="h264" bitrate="450">
+      <Part duration="47000" key="/services/iva/assets/916559/video.mp4?bitrate=450" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="480" width="640" codec="h264" bitrate="450" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+  </Video>
+  <Video url="iva://api.internetvideoarchive.com/2.0/DataService/VideoAssets(763407)?lang=en&amp;bitrates=80,212,450,750,1500,2500,5000,8000&amp;duration=42&amp;adaptive=1&amp;dts=0" key="/system/services/url/lookup?url=iva%3A%2F%2Fapi.internetvideoarchive.com%2F2.0%2FDataService%2FVideoAssets%28763407%29%3Flang%3Den%26bitrates%3D80%2C212%2C450%2C750%2C1500%2C2500%2C5000%2C8000%26duration%3D42%26adaptive%3D1%26dts%3D0" type="clip" relationType="behindTheScenes" year="2013" title="Thor: The Dark World: Alan Taylor On What Enticed Him To Take On The Project" originallyAvailableAt="2013-10-18" thumb="https://iva-images.plex.tv/content/hdphotos/8526/008526/008526_1280x720_763407_002.jpg" ratingKey="iva://api.internetvideoarchive.com/2.0/DataService/VideoAssets(763407)?lang=en&amp;bitrates=80,212,450,750,1500,2500,5000,8000&amp;duration=42&amp;adaptive=1&amp;dts=0">
+    <Media container="mp4" height="1080" width="1920" audioCodec="aac" duration="42000" videoCodec="h264" bitrate="2500">
+      <Part duration="42000" key="/services/iva/assets/763407/video.mp4?bitrate=2500" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="1080" width="1920" codec="h264" bitrate="2500" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+    <Media container="mp4" height="720" width="1280" audioCodec="aac" duration="42000" videoCodec="h264" bitrate="1500">
+      <Part duration="42000" key="/services/iva/assets/763407/video.mp4?bitrate=1500" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="720" width="1280" codec="h264" bitrate="1500" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+    <Media container="mp4" height="480" width="640" audioCodec="aac" duration="42000" videoCodec="h264" bitrate="450">
+      <Part duration="42000" key="/services/iva/assets/763407/video.mp4?bitrate=450" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="480" width="640" codec="h264" bitrate="450" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+  </Video>
+  <Video url="iva://api.internetvideoarchive.com/2.0/DataService/VideoAssets(638004)?lang=en&amp;bitrates=80,212,450,750,1500,2500,5000,8000&amp;duration=13&amp;adaptive=1&amp;dts=0" key="/system/services/url/lookup?url=iva%3A%2F%2Fapi.internetvideoarchive.com%2F2.0%2FDataService%2FVideoAssets%28638004%29%3Flang%3Den%26bitrates%3D80%2C212%2C450%2C750%2C1500%2C2500%2C5000%2C8000%26duration%3D13%26adaptive%3D1%26dts%3D0" type="clip" relationType="behindTheScenes" year="2013" title="Thor: The Dark World: Anthony Hopkins On Reprising The Role Of Odin" originallyAvailableAt="2013-10-18" thumb="https://iva-images.plex.tv/content/hdphotos/8527/008527/008527_1280x720_638004_005.jpg" ratingKey="iva://api.internetvideoarchive.com/2.0/DataService/VideoAssets(638004)?lang=en&amp;bitrates=80,212,450,750,1500,2500,5000,8000&amp;duration=13&amp;adaptive=1&amp;dts=0">
+    <Media container="mp4" height="1080" width="1920" audioCodec="aac" duration="13000" videoCodec="h264" bitrate="2500">
+      <Part duration="13000" key="/services/iva/assets/638004/video.mp4?bitrate=2500" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="1080" width="1920" codec="h264" bitrate="2500" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+    <Media container="mp4" height="720" width="1280" audioCodec="aac" duration="13000" videoCodec="h264" bitrate="1500">
+      <Part duration="13000" key="/services/iva/assets/638004/video.mp4?bitrate=1500" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="720" width="1280" codec="h264" bitrate="1500" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+    <Media container="mp4" height="480" width="640" audioCodec="aac" duration="13000" videoCodec="h264" bitrate="450">
+      <Part duration="13000" key="/services/iva/assets/638004/video.mp4?bitrate=450" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="480" width="640" codec="h264" bitrate="450" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+  </Video>
+  <Video url="iva://api.internetvideoarchive.com/2.0/DataService/VideoAssets(476513)?lang=en&amp;bitrates=80,212,450,750,1500,2500,5000,8000&amp;duration=92&amp;adaptive=1&amp;dts=0" key="/system/services/url/lookup?url=iva%3A%2F%2Fapi.internetvideoarchive.com%2F2.0%2FDataService%2FVideoAssets%28476513%29%3Flang%3Den%26bitrates%3D80%2C212%2C450%2C750%2C1500%2C2500%2C5000%2C8000%26duration%3D92%26adaptive%3D1%26dts%3D0" type="clip" relationType="behindTheScenes" year="2013" title="Thor: The Dark World: Pedigree (UK)" originallyAvailableAt="2013-10-11" thumb="https://iva-images.plex.tv/content/hdphotos/8517/008517/008517_1280x720_476513_011.jpg" ratingKey="iva://api.internetvideoarchive.com/2.0/DataService/VideoAssets(476513)?lang=en&amp;bitrates=80,212,450,750,1500,2500,5000,8000&amp;duration=92&amp;adaptive=1&amp;dts=0">
+    <Media container="mp4" height="1080" width="1920" audioCodec="aac" duration="92000" videoCodec="h264" bitrate="2500">
+      <Part duration="92000" key="/services/iva/assets/476513/video.mp4?bitrate=2500" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="1080" width="1920" codec="h264" bitrate="2500" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+    <Media container="mp4" height="720" width="1280" audioCodec="aac" duration="92000" videoCodec="h264" bitrate="1500">
+      <Part duration="92000" key="/services/iva/assets/476513/video.mp4?bitrate=1500" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="720" width="1280" codec="h264" bitrate="1500" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+    <Media container="mp4" height="480" width="640" audioCodec="aac" duration="92000" videoCodec="h264" bitrate="450">
+      <Part duration="92000" key="/services/iva/assets/476513/video.mp4?bitrate=450" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="480" width="640" codec="h264" bitrate="450" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+  </Video>
+</MediaContainer>

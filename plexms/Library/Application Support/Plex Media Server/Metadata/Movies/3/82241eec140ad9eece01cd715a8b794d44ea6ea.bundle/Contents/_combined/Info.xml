@@ -1,0 +1,640 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Movie>
+  <art>
+    <item external="True" url="http://image.tmdb.org/t/p/original/mhdeE1yShHTaDbJVdWyTlzFvNkr.jpg" sort_order="1" provider="com.plexapp.agents.imdb" media="com.plexapp.agents.imdb_dab3438f9862ddce56269bc894a405ecd7c4a180"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/3HuUMZOTmFwMsoH3aCbVKgTGjXZ.jpg" preview="com.plexapp.agents.imdb_3c862005023167d6ad1d2623fa43898324739b9f" sort_order="2" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/bEY0XH2oTD9E1PcEKdjMKuKJomc.jpg" preview="com.plexapp.agents.imdb_e6ca378f18dd6ae0e06dd0ca4da8289158c0fe9f" sort_order="3" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/16JyrAnJRGorH513skOCjRu1crR.jpg" preview="com.plexapp.agents.imdb_6cf16a34d9073c16b9d04cd88c9b358ec0361adf" sort_order="4" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/9NkLfcdvtaKQglwtS2SQMdswNha.jpg" preview="com.plexapp.agents.imdb_10f7c273b544deaf9ac6a5e1407d285271b48af5" sort_order="5" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/rEiTfsLbve3z6duaS2bj16rvtQR.jpg" preview="com.plexapp.agents.imdb_51ae883fc43ead72706842fb497f4d27b18beee5" sort_order="6" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/g77AFOZZo87GHsUoiYtGYKxDd0b.jpg" preview="com.plexapp.agents.imdb_c3f03e70da22bdd5117e8570a6c1502d85ec2973" sort_order="7" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/umUVQ2CpzWsawd2qiAcT6NhhPJE.jpg" preview="com.plexapp.agents.imdb_13cb3b1d9b6137170c5f09c0bd9d143e8eb9d6fe" sort_order="8" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/cLehRWaLPVlARwcTO2PsdMVvlsf.jpg" preview="com.plexapp.agents.imdb_036133ea9523ca0f1cc12a3c1e0ae080b2ab722a" sort_order="9" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/xg9exRarwIkmWFiDh8cPRnZs0jo.jpg" preview="com.plexapp.agents.imdb_190294f9b39ff66e21e670d4242fd2d4c874ac2b" sort_order="10" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/mWILpe0qAzhbZReJfUsxz75ypyj.jpg" preview="com.plexapp.agents.imdb_dbdab526743e611222f7a7d1c000df243b91cace" sort_order="11" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/cz5B4KkjTGxZvMPQqXsg0VrYko5.jpg" preview="com.plexapp.agents.imdb_8fb9cfbf281d2f99c4c38e88d368361474acd7eb" sort_order="12" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/89HBIcHNlYCsLFGFMKOoSaxY79z.jpg" preview="com.plexapp.agents.imdb_bc6bef5a191e963b3377a425c02b3c219588da25" sort_order="13" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/yH7eQbt0E0c86iajrgSIkBtCtSI.jpg" preview="com.plexapp.agents.imdb_9ef56d919fc8cc0ac4fd735255828a3fba27476f" sort_order="14" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/34eSC2BGOeievZ8ESUbCOdwm62P.jpg" preview="com.plexapp.agents.imdb_965508ad046282daa1b7ac70e6eb8c784aa9f15f" sort_order="15" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/q0B4aqiz0GpO0DY7lpFL8mZHwxz.jpg" preview="com.plexapp.agents.imdb_df96e8bd0c5392abe9ea76b4c8079c858f770857" sort_order="16" provider="com.plexapp.agents.imdb"/>
+  </art>
+  <banners/>
+  <chapters>
+    <item index="0">
+      <title>Prologue</title>
+      <end_time_offset>59000</end_time_offset>
+      <start_time_offset>0</start_time_offset>
+    </item>
+    <item index="1">
+      <title>Gideon Grey</title>
+      <end_time_offset>350000</end_time_offset>
+      <start_time_offset>59000</start_time_offset>
+    </item>
+    <item index="2">
+      <title>The Police Academy</title>
+      <end_time_offset>605000</end_time_offset>
+      <start_time_offset>350000</start_time_offset>
+    </item>
+    <item index="3">
+      <title>Welcome to Zootopia</title>
+      <end_time_offset>871000</end_time_offset>
+      <start_time_offset>605000</start_time_offset>
+    </item>
+    <item index="4">
+      <title>Meter Maid Duty</title>
+      <end_time_offset>1104000</end_time_offset>
+      <start_time_offset>871000</start_time_offset>
+    </item>
+    <item index="5">
+      <title>Pawpsicles</title>
+      <end_time_offset>1563000</end_time_offset>
+      <start_time_offset>1104000</start_time_offset>
+    </item>
+    <item index="6">
+      <title>The Weasel Chase</title>
+      <end_time_offset>1857000</end_time_offset>
+      <start_time_offset>1563000</start_time_offset>
+    </item>
+    <item index="7">
+      <title>It's Called A Hustle</title>
+      <end_time_offset>2227000</end_time_offset>
+      <start_time_offset>1857000</start_time_offset>
+    </item>
+    <item index="8">
+      <title>The Naturalist Club</title>
+      <end_time_offset>2443000</end_time_offset>
+      <start_time_offset>2227000</start_time_offset>
+    </item>
+    <item index="9">
+      <title>Department Of 10</title>
+      <end_time_offset>2671000</end_time_offset>
+      <start_time_offset>2443000</start_time_offset>
+    </item>
+    <item index="10">
+      <title>Mr. Big</title>
+      <end_time_offset>3100000</end_time_offset>
+      <start_time_offset>2671000</start_time_offset>
+    </item>
+    <item index="11">
+      <title>Manchas Goes Savage</title>
+      <end_time_offset>3340000</end_time_offset>
+      <start_time_offset>3100000</start_time_offset>
+    </item>
+    <item index="12">
+      <title>The Gondola</title>
+      <end_time_offset>3648000</end_time_offset>
+      <start_time_offset>3340000</start_time_offset>
+    </item>
+    <item index="13">
+      <title>Help from Bellwether</title>
+      <end_time_offset>3817000</end_time_offset>
+      <start_time_offset>3648000</start_time_offset>
+    </item>
+    <item index="14">
+      <title>Cliffside Asylum</title>
+      <end_time_offset>4159000</end_time_offset>
+      <start_time_offset>3817000</start_time_offset>
+    </item>
+    <item index="15">
+      <title>We Cracked the Case</title>
+      <end_time_offset>4419000</end_time_offset>
+      <start_time_offset>4159000</start_time_offset>
+    </item>
+    <item index="16">
+      <title>Hopps Gives Up</title>
+      <end_time_offset>4627000</end_time_offset>
+      <start_time_offset>4419000</start_time_offset>
+    </item>
+    <item index="17">
+      <title>Hopps' Apology</title>
+      <end_time_offset>4912000</end_time_offset>
+      <start_time_offset>4627000</start_time_offset>
+    </item>
+    <item index="18">
+      <title>Doug's Laboratory</title>
+      <end_time_offset>5299000</end_time_offset>
+      <start_time_offset>4912000</start_time_offset>
+    </item>
+    <item index="19">
+      <title>The Natural History Museum</title>
+      <end_time_offset>5563000</end_time_offset>
+      <start_time_offset>5299000</start_time_offset>
+    </item>
+    <item index="20">
+      <title>Epilogue</title>
+      <end_time_offset>5772000</end_time_offset>
+      <start_time_offset>5563000</start_time_offset>
+    </item>
+    <item index="21">
+      <title>End Credits</title>
+      <end_time_offset>-1</end_time_offset>
+      <start_time_offset>5772000</start_time_offset>
+    </item>
+  </chapters>
+  <collections/>
+  <content_rating>PG</content_rating>
+  <countries>
+    <item index="0">USA</item>
+  </countries>
+  <directors>
+    <item index="0">
+      <photo>http://image.tmdb.org/t/p/original/fFV0pdhOWSxUnAsQDVkzEzhXCfy.jpg</photo>
+      <role/>
+      <name>Byron Howard</name>
+    </item>
+    <item index="1">
+      <photo>http://image.tmdb.org/t/p/original/9KfA5vZiSk3dBvXHlKAjDTnwlxc.jpg</photo>
+      <role/>
+      <name>Rich Moore</name>
+    </item>
+  </directors>
+  <duration>6480000</duration>
+  <genres>
+    <item index="0">Animation</item>
+    <item index="1">Adventure</item>
+    <item index="2">Comedy</item>
+    <item index="3">Crime</item>
+    <item index="4">Family</item>
+    <item index="5">Mystery</item>
+  </genres>
+  <originally_available_at>2016-02-11</originally_available_at>
+  <posters>
+    <item external="True" url="http://image.tmdb.org/t/p/original/pKop1BcfgHzaN26EnhqLmjVP6LQ.jpg" sort_order="1" provider="com.plexapp.agents.imdb" media="com.plexapp.agents.imdb_99a98814ec2a06c614310240c20d2c693db3f026"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/1YzLAWykXzZhydoGJCqoVQ0gVyC.jpg" preview="com.plexapp.agents.imdb_18cf91fa77f6f9a0c80b4f43e0dd97f9087ff4f1" sort_order="2" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/bHXf0mrnnRthdWI9MuAMlPftnZK.jpg" preview="com.plexapp.agents.imdb_e36b43765a5d3313091a8097505d38dd92708fc9" sort_order="3" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/yUo6zAVRBRN6u76AaODDGh6gweJ.jpg" preview="com.plexapp.agents.imdb_dccf512a4ce5089ec7e92dcacc0a2de544bb87cc" sort_order="4" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/sM33SANp9z6rXW8Itn7NnG1GOEs.jpg" preview="com.plexapp.agents.imdb_a31478afa8f973bba8c837994a14da56ca902bf1" sort_order="5" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/7heP6R1MhfMIPq37SrGIHc31mdm.jpg" preview="com.plexapp.agents.imdb_22cec474d9ceb795f869e6cf5dd14f628a6a7e70" sort_order="6" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/kyiEmCk6mOenJiL7s3LspVKkoZM.jpg" preview="com.plexapp.agents.imdb_5bc1f46db5893cd7860fa07fe706f16a3460ad1d" sort_order="7" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/8rNgRF23WzAbd8twn4AhzqLV3Wf.jpg" preview="com.plexapp.agents.imdb_2f1463809ee45779b82fb00fbd349b383f3cf636" sort_order="8" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/kNC3JGeMuTpz1FeXMCl49pvvsxB.jpg" preview="com.plexapp.agents.imdb_c7982f46bbe3618528eebe4bf1207883b12263d7" sort_order="9" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/rUDQKHrRrjUfRoyiYII9gVOVlRZ.jpg" preview="com.plexapp.agents.imdb_c9ba775bb8d14d223647946f5e69705d2c8d7ff8" sort_order="10" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/41ylKn1W9EBSr3ZneESz5tFDLbc.jpg" preview="com.plexapp.agents.imdb_65bf57dd2535c3f5ef9b29f4e9d878da07b38f65" sort_order="11" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/oVHm1xo1B12DvzOWR8K2cj6uQZe.jpg" preview="com.plexapp.agents.imdb_fea5d1503627e7a798fed75f45c74152d4f7abda" sort_order="12" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/r1gw1uXcSp3WpM6F778jmsj3MTC.jpg" preview="com.plexapp.agents.imdb_4071a9a8d3941958aa05288823142358fb43dfef" sort_order="13" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/duu5ydyEMIIuIOvQNatwmHuTbRm.jpg" preview="com.plexapp.agents.imdb_f7df157d1f3bb02a6416b07e52fcaddf5bcaaf4c" sort_order="14" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/nb4htkWHWngMNkxv2yYEkHLJ26l.jpg" preview="com.plexapp.agents.imdb_668ba5e3abd0cc0ff06f82b0940fcd7a7c9283f6" sort_order="15" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/uDxQY3M8YZCzIm4F6PtLy5gUesO.jpg" preview="com.plexapp.agents.imdb_8a3cf78866901319eb33dfeb8b9a485269ba4d2f" sort_order="16" provider="com.plexapp.agents.imdb"/>
+  </posters>
+  <producers>
+    <item index="0">
+      <photo/>
+      <role/>
+      <name>Clark Spencer</name>
+    </item>
+  </producers>
+  <rating>9.8</rating>
+  <rating_image>rottentomatoes://image.rating.ripe</rating_image>
+  <audience_rating>9.2</audience_rating>
+  <audience_rating_image>rottentomatoes://image.rating.upright</audience_rating_image>
+  <reviews>
+    <item index="0">
+      <text>There are enough under-the-radar subtleties, rendered with a refreshing lack of smart-aleckiness, to make Zootopia feel current and fresh. It's a modest, unassuming entertainment that's motored by a sly sensibility.</text>
+      <source>TIME Magazine</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>http://time.com/4247121/review-zootopia-teachable-moment/</link>
+      <author>Stephanie Zacharek</author>
+    </item>
+    <item index="1">
+      <text>Zootopia excels on so many levels that it stands with the finest of the Disney classics.</text>
+      <source>New York Post</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>http://nypost.com/2016/03/03/disneys-zootopia-is-as-good-as-the-best-pixar-movies/</link>
+      <author>Lou Lumenick</author>
+    </item>
+    <item index="2">
+      <text>"Zootopia," like its heroine, is zesty, bright, and breakneck, with chase scenes and well-tuned gags where you half expect songs to be.</text>
+      <source>New Yorker</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>http://www.newyorker.com/magazine/2016/03/14/knight-of-cups-and-zootopia-reviews</link>
+      <author>Anthony Lane</author>
+    </item>
+    <item index="3">
+      <text>There's a lot here for kids to like and nearly as much to keep parents from fidgeting.</text>
+      <source>ReelViews</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>http://www.reelviews.net/reelviews/zootopia</link>
+      <author>James Berardinelli</author>
+    </item>
+    <item index="4">
+      <text>In many ways a conventional movie, but it unfolds with so much wit, panache, and visual ingenuity that it outstrips many a more high-concept film.</text>
+      <source>The Atlantic</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>http://www.theatlantic.com/entertainment/archive/2016/03/disneys-zootopia-is-a-giddy-delight/472197/</link>
+      <author>Christopher Orr</author>
+    </item>
+    <item index="5">
+      <text>What saves this big-budget cartoon behemoth is its modest, old-fashioned storytelling.</text>
+      <source>New York Magazine/Vulture</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>http://www.vulture.com/2016/03/review-zootopia-surprises-with-a-clever-mystery.html</link>
+      <author>David Edelstein</author>
+    </item>
+    <item index="6">
+      <text>A funny, beautifully designed kids' film with a message that it restates at every turn.</text>
+      <source>RogerEbert.com</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>http://www.rogerebert.com/reviews/zootopia-2016</link>
+      <author>Matt Zoller Seitz</author>
+    </item>
+    <item index="7">
+      <text>Somehow, Disney has managed to pull off a hard-boiled police procedural thriller about political corruption starring an adorable, large-eyed bunny. As strange as this combination might seem, it works. Who knew bunnies could make such intrepid rookie cops?</text>
+      <source>Tribune News Service</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>http://www.chicagotribune.com/entertainment/movies/sc-zootopia-mov-rev-0302-20160302-story.html</link>
+      <author>Katie Walsh</author>
+    </item>
+    <item index="8">
+      <text>A buddy-cop comedy crossed with a political thriller and mashed up against a social drama. It's a credit to Disney's collaborative process that the whole thing manages to hold together as well as it does.</text>
+      <source>San Diego Reader</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>http://www.sandiegoreader.com/movies/zootopia/</link>
+      <author>Matthew Lickona</author>
+    </item>
+    <item index="9">
+      <text>If Zootopia becomes fortunate enough to fall into Frozen-style heavy rotation for kids of a certain age, its messages of rejecting prejudice and embracing the complicated nature of multiculturalism could do some good for the world.</text>
+      <source>NPR</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>http://www.npr.org/2016/03/04/468318485/zootopia-a-nimble-tale-of-animal-instincts-and-smart-bunnies?utm_medium=RSS&amp;utm_campaign=movies</link>
+      <author>Andrew Lapin</author>
+    </item>
+    <item index="10">
+      <text>Credit the Disney folks with making what could have been a lecture on stereotypes into one of the more amusing animated kidflicks of recent vintage.</text>
+      <source>NPR</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>http://www.npr.org/2016/03/04/468960475/zootopia-makes-a-pitch-for-a-more-paw-fect-union-without-being-preachy?utm_medium=RSS&amp;utm_campaign=movies</link>
+      <author>Bob Mondello</author>
+    </item>
+    <item index="11">
+      <text>"Zootopia" does have some important things to say about not judging people by what they look like, or what part of the world they come from. Kids will probably nod and embrace that as sensible advice. Now if we could only get some adults to listen, too.</text>
+      <source>Newark Star-Ledger</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>http://www.nj.com/entertainment/index.ssf/2016/03/zootopia_review_paw_and_order_special_disney_unit.html</link>
+      <author>Stephen Whitty</author>
+    </item>
+    <item index="12">
+      <text>Leaving aside amusing jokes about the wolves trying desperately to contain a group howl or sloths working as bureaucrats, animal behaviour is a troubling metaphor for cultural diversity.</text>
+      <source>Globe and Mail</source>
+      <image>rottentomatoes://image.review.rotten</image>
+      <link>http://www.theglobeandmail.com/arts/film/film-reviews/zootopia-fun-for-kids-but-adults-may-think-twice-about-movies-message/article29015450/</link>
+      <author>Kate Taylor</author>
+    </item>
+    <item index="13">
+      <text>"Zootopia" is a delight: It's cute and clever, smart and sophisticated, with plenty to offer children and adults.</text>
+      <source>Detroit News</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>http://www.detroitnews.com/story/opinion/columnists/adam-graham/2016/03/03/movie-review-animals-go-wild-fun-clever-zootopia/81300990/</link>
+      <author>Adam Graham</author>
+    </item>
+    <item index="14">
+      <text>An agreeable hodgepodge, at least, one that aims to be not just a breezy mystery, but also a race-and-ethnicity fable.</text>
+      <source>Boston Globe</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>http://www.bostonglobe.com/arts/movies/2016/03/02/zootopia-makes-agreeable-hodgepodge/laseXGVw8rvbJS5kr0cPjI/story.html</link>
+      <author>Tom Russo</author>
+    </item>
+    <item index="15">
+      <text>Zootopia is Yootopia if you're looking for jaunty fun.</text>
+      <source>Wall Street Journal</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>http://www.wsj.com/articles/zootopia-review-beauty-and-the-beasts-1457039488</link>
+      <author>Joe Morgenstern</author>
+    </item>
+    <item index="16">
+      <text>Bursting with a rich blend of timely themes, superb voice work, wonderful visuals and laugh-out-loud wit, Walt Disney Animation Studios' "Zootopia" is quite simply a great time at the movies.</text>
+      <source>Los Angeles Times</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>http://www.latimes.com/entertainment/movies/la-et-mn-zootopia-review-20160304-story.html</link>
+      <author>Gary Goldstein</author>
+    </item>
+    <item index="17">
+      <text>Apart from its anthropomorphic, allegorical angle, Zootopia is also a tale of female empowerment and a classic noir, too.</text>
+      <source>Philadelphia Inquirer</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>http://www.philly.com/philly/entertainment/movies/20160304__Zootopia___Disney_animated_tale_with_a_touch_of_allegory_and_female_empowerment.html</link>
+      <author>Steven Rea</author>
+    </item>
+    <item index="18">
+      <text>Ginnifer Goodwin and Jason Bateman lead an aces voice cast, playing good-cop bunny Judy Hopps and con-artist fox Nick Wilde, who must find common turf to solve a crime wave in the title metropolis. Call it fur noir.</text>
+      <source>Toronto Star</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>http://www.thestar.com/entertainment/movies/2016/03/03/zootopia-hops-with-life-review.html</link>
+      <author>Peter Howell</author>
+    </item>
+    <item index="19">
+      <text>The result is a slam-dunk candidate for best animated feature in next year's Oscars. But the pleasure now comes in appreciating the sumptuous artistry.</text>
+      <source>Toronto Sun</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>http://www.torontosun.com/2016/03/03/zootopia-review-disneys-latest-an-animated-classic-destined-for-oscar</link>
+      <author>Bruce Kirkland</author>
+    </item>
+  </reviews>
+  <roles>
+    <item index="0">
+      <photo>http://image.tmdb.org/t/p/original/vAH6j1A0L88R4UD9QX1nM9OLoYw.jpg</photo>
+      <role>Judy Hopps (voice)</role>
+      <name>Ginnifer Goodwin</name>
+    </item>
+    <item index="1">
+      <photo>http://image.tmdb.org/t/p/original/ttzLpjvcLkvXyyTBpjmZw11tjlr.jpg</photo>
+      <role>Nick Wilde (voice)</role>
+      <name>Jason Bateman</name>
+    </item>
+    <item index="2">
+      <photo>http://image.tmdb.org/t/p/original/lvpKTDdWUv61sty299uC8DQzVTX.jpg</photo>
+      <role>Gazelle (voice)</role>
+      <name>Shakira</name>
+    </item>
+    <item index="3">
+      <photo>http://image.tmdb.org/t/p/original/fBNfIzrfOqh1KFvQkSxrJoMNYXL.jpg</photo>
+      <role>Chief Bogo (voice)</role>
+      <name>Idris Elba</name>
+    </item>
+    <item index="4">
+      <photo>http://image.tmdb.org/t/p/original/4FEVru6fBFyJECqwqjHwlZdsL4c.jpg</photo>
+      <role>Mrs. Otterton (voice)</role>
+      <name>Octavia Spencer</name>
+    </item>
+    <item index="5">
+      <photo>http://image.tmdb.org/t/p/original/jYYnhWbNoCSufoYkvs1GBZIyIX.jpg</photo>
+      <role>Mayor Leodore Lionheart (voice)</role>
+      <name>J.K. Simmons</name>
+    </item>
+    <item index="6">
+      <photo>http://image.tmdb.org/t/p/original/6QuMtbD8kmhpwWhFKfNzEvHRLOu.jpg</photo>
+      <role>Duke Weaselton (voice)</role>
+      <name>Alan Tudyk</name>
+    </item>
+    <item index="7">
+      <photo>http://image.tmdb.org/t/p/original/aqH8MCnT3O5Od3OfZR8LClSP7UB.jpg</photo>
+      <role>Assistant Mayor Dawn Bellwether (voice)</role>
+      <name>Jenny Slate</name>
+    </item>
+    <item index="8">
+      <photo>http://image.tmdb.org/t/p/original/uKAfrFRZYnHFAxw53Jldbs8yIZO.jpg</photo>
+      <role>Bonnie Hopps (voice)</role>
+      <name>Bonnie Hunt</name>
+    </item>
+    <item index="9">
+      <photo>http://image.tmdb.org/t/p/original/zwm0HhAhxay84Co22rSkHwhJPBG.jpg</photo>
+      <role>Stu Hopps (voice)</role>
+      <name>Don Lake</name>
+    </item>
+    <item index="10">
+      <photo>http://image.tmdb.org/t/p/original/UY4xouwBs8p9QmcXbnP8iy2uYp.jpg</photo>
+      <role>Finnick (voice)</role>
+      <name>Tom Lister Jr.</name>
+    </item>
+    <item index="11">
+      <photo>http://image.tmdb.org/t/p/original/9wdlcc5JS36OYd05XBuo8r6F1aq.jpg</photo>
+      <role>Yax (voice)</role>
+      <name>Tommy Chong</name>
+    </item>
+    <item index="12">
+      <photo>http://image.tmdb.org/t/p/original/9DoDVUkoXhT3O2R1RymPlOfUryl.jpg</photo>
+      <role>Priscilla (voice)</role>
+      <name>Kristen Bell</name>
+    </item>
+    <item index="13">
+      <photo>http://image.tmdb.org/t/p/original/yn29ZcNXEyFewrrNtcCpyBfjXnR.jpg</photo>
+      <role>Dr. Madge Honey Badger (voice)</role>
+      <name>Katie Lowes</name>
+    </item>
+    <item index="14">
+      <photo>http://image.tmdb.org/t/p/original/hFXt3BwXEmK4ZIuzmImprzDyWLw.jpg</photo>
+      <role>Frantic Pig (voice)</role>
+      <name>Josh Dallas</name>
+    </item>
+    <item index="15">
+      <photo>http://image.tmdb.org/t/p/original/4gEy7tWkh95mgfsiHmTuFQkeRkx.jpg</photo>
+      <role>Jerry Jumbeaux Jr. (voice)</role>
+      <name>John DiMaggio</name>
+    </item>
+    <item index="16">
+      <photo>http://image.tmdb.org/t/p/original/5QGd623FEJPSVxvHr5uRHQkW1tA.jpg</photo>
+      <role>Officer Benjamin Clawhauser (voice)</role>
+      <name>Nate Torrence</name>
+    </item>
+    <item index="17">
+      <photo>http://image.tmdb.org/t/p/original/zanuPXm0BYAsARbsrDMjLmct7Fq.jpg</photo>
+      <role>Mr. Big (voice)</role>
+      <name>Maurice LaMarche</name>
+    </item>
+    <item index="18">
+      <photo>http://image.tmdb.org/t/p/original/urLkA155Yc19TKyeCUYGwzEt2PO.jpg</photo>
+      <role>Young Nick (voice)</role>
+      <name>Kath Soucie</name>
+    </item>
+    <item index="19">
+      <photo>http://image.tmdb.org/t/p/original/ghpZR17Z84Ck0HOmM3TrJCUInIx.jpg</photo>
+      <role>Officer McHorn (voice)</role>
+      <name>Mark Smith</name>
+    </item>
+    <item index="20">
+      <photo>http://image.tmdb.org/t/p/original/9KfA5vZiSk3dBvXHlKAjDTnwlxc.jpg</photo>
+      <role>Doug (voice)</role>
+      <name>Rich Moore</name>
+    </item>
+    <item index="21">
+      <photo>http://image.tmdb.org/t/p/original/fFV0pdhOWSxUnAsQDVkzEzhXCfy.jpg</photo>
+      <role>Bucky Oryx-Antlerson / Travis (voice)</role>
+      <name>Byron Howard</name>
+    </item>
+    <item index="22">
+      <photo>http://image.tmdb.org/t/p/original/2gIwj1cnqZIKWaFg0ihmZnuZypR.jpg</photo>
+      <role>Pronk Oryx-Antlerson (voice)</role>
+      <name>Jared Bush</name>
+    </item>
+    <item index="23">
+      <photo>http://image.tmdb.org/t/p/original/9T1aj0v2p5BxGWYEq8UkYKmww4w.jpg</photo>
+      <role>Young Hopps (voice)</role>
+      <name>Della Saba</name>
+    </item>
+    <item index="24">
+      <photo>http://image.tmdb.org/t/p/original/jCaUirgugytyigPpexIyUU1laLQ.jpg</photo>
+      <role>Gideon Grey (voice)</role>
+      <name>Phil Johnston</name>
+    </item>
+    <item index="25">
+      <photo>http://image.tmdb.org/t/p/original/3Sl1xjhVJW8lC3HRRYVCnPt0C4Z.jpg</photo>
+      <role>Nangi (voice)</role>
+      <name>Gita Reddy</name>
+    </item>
+    <item index="26">
+      <photo>http://image.tmdb.org/t/p/original/eiZnJIqQ6JTzusiMF1GnhDjVWdw.jpg</photo>
+      <role>Mr. Manchas (voice)</role>
+      <name>Jesse Corti</name>
+    </item>
+    <item index="27">
+      <photo/>
+      <role>Fru Fru (voice)</role>
+      <name>Leah Latham</name>
+    </item>
+    <item index="28">
+      <photo/>
+      <role>Peter Moosebridge (voice)</role>
+      <name>Peter Mansbridge</name>
+    </item>
+    <item index="29">
+      <photo>http://image.tmdb.org/t/p/original/rMwIL53SKwZJu7WFW1fcYIVTxhP.jpg</photo>
+      <role>Landlady (voice)</role>
+      <name>Josie Trinidad</name>
+    </item>
+    <item index="30">
+      <photo/>
+      <role>Mouse Foreman (voice)</role>
+      <name>John Lavelle</name>
+    </item>
+    <item index="31">
+      <photo/>
+      <role>Additional Voices (voice)</role>
+      <name>Evelyn Wilson Bresee</name>
+    </item>
+    <item index="32">
+      <photo/>
+      <role>Additional Voices (voice)</role>
+      <name>Hewitt Bush</name>
+    </item>
+    <item index="33">
+      <photo/>
+      <role>Additional Voices (voice)</role>
+      <name>Jill Cordes</name>
+    </item>
+    <item index="34">
+      <photo/>
+      <role>Sharla / Gareth / Hippo kid (voice)</role>
+      <name>Madeleine Curry</name>
+    </item>
+    <item index="35">
+      <photo>http://image.tmdb.org/t/p/original/lECiABogAKm5Zl8Je6niNAoqz5N.jpg</photo>
+      <role>Additional Voices (voice)</role>
+      <name>Terri Douglas</name>
+    </item>
+    <item index="36">
+      <photo/>
+      <role>Angry Mouse (voice)</role>
+      <name>Melissa Goodwin Shepherd</name>
+    </item>
+    <item index="37">
+      <photo/>
+      <role>Guard Wolf / Additional Voices (voice)</role>
+      <name>Zach King</name>
+    </item>
+    <item index="38">
+      <photo/>
+      <role>Additional Voices (voice)</role>
+      <name>Dave Kohut</name>
+    </item>
+    <item index="39">
+      <photo>http://image.tmdb.org/t/p/original/xvR6YZ6006VWM8BywRHh4nhpt3Z.jpg</photo>
+      <role>Flash (voice)</role>
+      <name>Raymond S. Persi</name>
+    </item>
+    <item index="40">
+      <photo/>
+      <role>Drill Sergeant (voice)</role>
+      <name>Fuschia!</name>
+    </item>
+    <item index="41">
+      <photo/>
+      <role>Additional Voices (voice)</role>
+      <name>Jeremy Milton</name>
+    </item>
+    <item index="42">
+      <photo/>
+      <role>Additional Voices (voice)</role>
+      <name>Pace Paulsen</name>
+    </item>
+    <item index="43">
+      <photo/>
+      <role>Additional Voices (voice)</role>
+      <name>Fabienne Rawley</name>
+    </item>
+    <item index="44">
+      <photo/>
+      <role>Additional Voices (voice)</role>
+      <name>Bradford Simonsen</name>
+    </item>
+    <item index="45">
+      <photo/>
+      <role>Additional Voices (voice)</role>
+      <name>Claire K. Smith</name>
+    </item>
+    <item index="46">
+      <photo/>
+      <role>Additional Voices (voice)</role>
+      <name>Jackson Stein</name>
+    </item>
+    <item index="47">
+      <photo/>
+      <role>Additional Voices (voice)</role>
+      <name>David A. Thibodeau</name>
+    </item>
+    <item index="48">
+      <photo/>
+      <role>Additional Voices (voice)</role>
+      <name>Hannah G. Williams</name>
+    </item>
+    <item index="49">
+      <photo/>
+      <role>Moosos Alexander (voice)</role>
+      <name>Vassos Alexander</name>
+    </item>
+    <item index="50">
+      <photo/>
+      <role>Boi Chá (voice)</role>
+      <name>Ricardo Boechat</name>
+    </item>
+    <item index="51">
+      <photo>http://image.tmdb.org/t/p/original/lNyU4xNXZ1Ws1kPy5MkbXv3Q1O4.jpg</photo>
+      <role>David Koalabell (voice)</role>
+      <name>David Campbell</name>
+    </item>
+    <item index="52">
+      <photo/>
+      <role>Michael Tanukiyama (voice)</role>
+      <name>Koura Kazumasa</name>
+    </item>
+  </roles>
+  <similar>
+    <item index="0">Inside Out</item>
+    <item index="1">Finding Dory</item>
+    <item index="2">The Jungle Book</item>
+    <item index="3">Kung Fu Panda 3</item>
+    <item index="4">Frozen</item>
+    <item index="5">Big Hero 6</item>
+    <item index="6">The Good Dinosaur</item>
+    <item index="7">The Secret Life of Pets</item>
+    <item index="8">Tangled</item>
+    <item index="9">How to Train Your Dragon 2</item>
+    <item index="10">Moana</item>
+    <item index="11">Hotel Transylvania 2</item>
+    <item index="12">Ratatouille</item>
+    <item index="13">Kung Fu Panda</item>
+    <item index="14">Monsters University</item>
+    <item index="15">Ice Age</item>
+    <item index="16">Shrek 2</item>
+    <item index="17">Shrek</item>
+    <item index="18">Mulan</item>
+    <item index="19">X-Men: Apocalypse</item>
+  </similar>
+  <studio>Walt Disney Pictures</studio>
+  <summary>Determined to prove herself, Officer Judy Hopps, the first bunny on Zootopia's police force, jumps at the chance to crack her first case - even if it means partnering with scam-artist fox Nick Wilde to solve the mystery.</summary>
+  <tagline>Welcome to the urban jungle.</tagline>
+  <tags/>
+  <themes/>
+  <title>Zootopia</title>
+  <writers>
+    <item index="0">
+      <photo>http://image.tmdb.org/t/p/original/2gIwj1cnqZIKWaFg0ihmZnuZypR.jpg</photo>
+      <role/>
+      <name>Jared Bush</name>
+    </item>
+    <item index="1">
+      <photo>http://image.tmdb.org/t/p/original/jCaUirgugytyigPpexIyUU1laLQ.jpg</photo>
+      <role/>
+      <name>Phil Johnston</name>
+    </item>
+  </writers>
+  <year>2016</year>
+</Movie>

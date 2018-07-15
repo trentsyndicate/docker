@@ -1,0 +1,123 @@
+<?xml version='1.0' encoding='utf-8'?>
+<MediaContainer size="6">
+  <Video url="iva://api.internetvideoarchive.com/2.0/DataService/VideoAssets(738511)?lang=en&amp;bitrates=80,212,450,750,1500,2500,5000,8000&amp;duration=146&amp;adaptive=1&amp;dts=0" key="/system/services/url/lookup?url=iva%3A%2F%2Fapi.internetvideoarchive.com%2F2.0%2FDataService%2FVideoAssets%28738511%29%3Flang%3Den%26bitrates%3D80%2C212%2C450%2C750%2C1500%2C2500%2C5000%2C8000%26duration%3D146%26adaptive%3D1%26dts%3D0" type="clip" relationType="trailer" year="2015" title="Home" originallyAvailableAt="2015-05-07" thumb="https://iva-images.plex.tv/content/hdphotos/9486/009486/009486_1280x720_738511_008.jpg" ratingKey="iva://api.internetvideoarchive.com/2.0/DataService/VideoAssets(738511)?lang=en&amp;bitrates=80,212,450,750,1500,2500,5000,8000&amp;duration=146&amp;adaptive=1&amp;dts=0">
+    <Media container="mp4" height="1080" width="1920" audioCodec="aac" duration="146000" videoCodec="h264" bitrate="2500">
+      <Part duration="146000" key="/services/iva/assets/738511/video.mp4?bitrate=2500" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="1080" width="1920" codec="h264" bitrate="2500" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+    <Media container="mp4" height="720" width="1280" audioCodec="aac" duration="146000" videoCodec="h264" bitrate="1500">
+      <Part duration="146000" key="/services/iva/assets/738511/video.mp4?bitrate=1500" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="720" width="1280" codec="h264" bitrate="1500" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+    <Media container="mp4" height="480" width="640" audioCodec="aac" duration="146000" videoCodec="h264" bitrate="450">
+      <Part duration="146000" key="/services/iva/assets/738511/video.mp4?bitrate=450" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="480" width="640" codec="h264" bitrate="450" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+  </Video>
+  <Video url="iva://api.internetvideoarchive.com/2.0/DataService/VideoAssets(125530)?lang=en&amp;bitrates=80,212,450,750,1500,2500,5000,8000&amp;duration=93&amp;adaptive=1&amp;dts=0" key="/system/services/url/lookup?url=iva%3A%2F%2Fapi.internetvideoarchive.com%2F2.0%2FDataService%2FVideoAssets%28125530%29%3Flang%3Den%26bitrates%3D80%2C212%2C450%2C750%2C1500%2C2500%2C5000%2C8000%26duration%3D93%26adaptive%3D1%26dts%3D0" type="clip" relationType="behindTheScenes" year="2015" title="Stars of Home (UK)" originallyAvailableAt="2015-03-26" thumb="https://iva-images.plex.tv/content/hdphotos/9504/009504/009504_1280x720_125530_004.jpg" ratingKey="iva://api.internetvideoarchive.com/2.0/DataService/VideoAssets(125530)?lang=en&amp;bitrates=80,212,450,750,1500,2500,5000,8000&amp;duration=93&amp;adaptive=1&amp;dts=0">
+    <Media container="mp4" height="1080" width="1920" audioCodec="aac" duration="93000" videoCodec="h264" bitrate="2500">
+      <Part duration="93000" key="/services/iva/assets/125530/video.mp4?bitrate=2500" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="1080" width="1920" codec="h264" bitrate="2500" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+    <Media container="mp4" height="720" width="1280" audioCodec="aac" duration="93000" videoCodec="h264" bitrate="1500">
+      <Part duration="93000" key="/services/iva/assets/125530/video.mp4?bitrate=1500" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="720" width="1280" codec="h264" bitrate="1500" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+    <Media container="mp4" height="480" width="640" audioCodec="aac" duration="93000" videoCodec="h264" bitrate="450">
+      <Part duration="93000" key="/services/iva/assets/125530/video.mp4?bitrate=450" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="480" width="640" codec="h264" bitrate="450" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+  </Video>
+  <Video url="iva://api.internetvideoarchive.com/2.0/DataService/VideoAssets(91490)?lang=en&amp;bitrates=80,212,450,750,1500,2500,5000,8000&amp;duration=26&amp;adaptive=1&amp;dts=0" key="/system/services/url/lookup?url=iva%3A%2F%2Fapi.internetvideoarchive.com%2F2.0%2FDataService%2FVideoAssets%2891490%29%3Flang%3Den%26bitrates%3D80%2C212%2C450%2C750%2C1500%2C2500%2C5000%2C8000%26duration%3D26%26adaptive%3D1%26dts%3D0" type="clip" relationType="behindTheScenes" year="2015" title="Tim Johnson On Making The Film" originallyAvailableAt="2015-03-16" thumb="https://iva-images.plex.tv/content/hdphotos/9485/009485/009485_1280x720_91490_001.jpg" ratingKey="iva://api.internetvideoarchive.com/2.0/DataService/VideoAssets(91490)?lang=en&amp;bitrates=80,212,450,750,1500,2500,5000,8000&amp;duration=26&amp;adaptive=1&amp;dts=0">
+    <Media container="mp4" height="1080" width="1920" audioCodec="aac" duration="26000" videoCodec="h264" bitrate="2500">
+      <Part duration="26000" key="/services/iva/assets/91490/video.mp4?bitrate=2500" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="1080" width="1920" codec="h264" bitrate="2500" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+    <Media container="mp4" height="720" width="1280" audioCodec="aac" duration="26000" videoCodec="h264" bitrate="1500">
+      <Part duration="26000" key="/services/iva/assets/91490/video.mp4?bitrate=1500" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="720" width="1280" codec="h264" bitrate="1500" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+    <Media container="mp4" height="480" width="640" audioCodec="aac" duration="26000" videoCodec="h264" bitrate="450">
+      <Part duration="26000" key="/services/iva/assets/91490/video.mp4?bitrate=450" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="480" width="640" codec="h264" bitrate="450" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+  </Video>
+  <Video url="iva://api.internetvideoarchive.com/2.0/DataService/VideoAssets(811776)?lang=en&amp;bitrates=80,212,450,750,1500,2500,5000,8000&amp;duration=26&amp;adaptive=1&amp;dts=0" key="/system/services/url/lookup?url=iva%3A%2F%2Fapi.internetvideoarchive.com%2F2.0%2FDataService%2FVideoAssets%28811776%29%3Flang%3Den%26bitrates%3D80%2C212%2C450%2C750%2C1500%2C2500%2C5000%2C8000%26duration%3D26%26adaptive%3D1%26dts%3D0" type="clip" relationType="behindTheScenes" year="2015" title="Steve Martin On The Boov" originallyAvailableAt="2015-03-16" thumb="https://iva-images.plex.tv/content/hdphotos/9485/009485/009485_1280x720_811776_004.jpg" ratingKey="iva://api.internetvideoarchive.com/2.0/DataService/VideoAssets(811776)?lang=en&amp;bitrates=80,212,450,750,1500,2500,5000,8000&amp;duration=26&amp;adaptive=1&amp;dts=0">
+    <Media container="mp4" height="1080" width="1920" audioCodec="aac" duration="26000" videoCodec="h264" bitrate="2500">
+      <Part duration="26000" key="/services/iva/assets/811776/video.mp4?bitrate=2500" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="1080" width="1920" codec="h264" bitrate="2500" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+    <Media container="mp4" height="720" width="1280" audioCodec="aac" duration="26000" videoCodec="h264" bitrate="1500">
+      <Part duration="26000" key="/services/iva/assets/811776/video.mp4?bitrate=1500" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="720" width="1280" codec="h264" bitrate="1500" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+    <Media container="mp4" height="480" width="640" audioCodec="aac" duration="26000" videoCodec="h264" bitrate="450">
+      <Part duration="26000" key="/services/iva/assets/811776/video.mp4?bitrate=450" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="480" width="640" codec="h264" bitrate="450" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+  </Video>
+  <Video url="iva://api.internetvideoarchive.com/2.0/DataService/VideoAssets(409510)?lang=en&amp;bitrates=80,212,450,750,1500,2500,5000,8000&amp;duration=51&amp;adaptive=1&amp;dts=0" key="/system/services/url/lookup?url=iva%3A%2F%2Fapi.internetvideoarchive.com%2F2.0%2FDataService%2FVideoAssets%28409510%29%3Flang%3Den%26bitrates%3D80%2C212%2C450%2C750%2C1500%2C2500%2C5000%2C8000%26duration%3D51%26adaptive%3D1%26dts%3D0" type="clip" relationType="behindTheScenes" year="2015" title="Jim Parsons On How He Got Involved With Home" originallyAvailableAt="2015-03-16" thumb="https://iva-images.plex.tv/content/hdphotos/9485/009485/009485_1090x613_409510_010.jpg" ratingKey="iva://api.internetvideoarchive.com/2.0/DataService/VideoAssets(409510)?lang=en&amp;bitrates=80,212,450,750,1500,2500,5000,8000&amp;duration=51&amp;adaptive=1&amp;dts=0">
+    <Media container="mp4" height="1080" width="1920" audioCodec="aac" duration="51000" videoCodec="h264" bitrate="2500">
+      <Part duration="51000" key="/services/iva/assets/409510/video.mp4?bitrate=2500" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="1080" width="1920" codec="h264" bitrate="2500" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+    <Media container="mp4" height="720" width="1280" audioCodec="aac" duration="51000" videoCodec="h264" bitrate="1500">
+      <Part duration="51000" key="/services/iva/assets/409510/video.mp4?bitrate=1500" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="720" width="1280" codec="h264" bitrate="1500" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+    <Media container="mp4" height="480" width="640" audioCodec="aac" duration="51000" videoCodec="h264" bitrate="450">
+      <Part duration="51000" key="/services/iva/assets/409510/video.mp4?bitrate=450" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="480" width="640" codec="h264" bitrate="450" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+  </Video>
+  <Video url="iva://api.internetvideoarchive.com/2.0/DataService/VideoAssets(265702)?lang=en&amp;bitrates=80,212,450,750,1500,2500,5000,8000&amp;duration=43&amp;adaptive=1&amp;dts=0" key="/system/services/url/lookup?url=iva%3A%2F%2Fapi.internetvideoarchive.com%2F2.0%2FDataService%2FVideoAssets%28265702%29%3Flang%3Den%26bitrates%3D80%2C212%2C450%2C750%2C1500%2C2500%2C5000%2C8000%26duration%3D43%26adaptive%3D1%26dts%3D0" type="clip" relationType="behindTheScenes" year="2015" title="Jennifer Lopez On Her Character" originallyAvailableAt="2015-03-16" thumb="https://iva-images.plex.tv/content/hdphotos/9485/009485/009485_1280x720_265702_001.jpg" ratingKey="iva://api.internetvideoarchive.com/2.0/DataService/VideoAssets(265702)?lang=en&amp;bitrates=80,212,450,750,1500,2500,5000,8000&amp;duration=43&amp;adaptive=1&amp;dts=0">
+    <Media container="mp4" height="1080" width="1920" audioCodec="aac" duration="43000" videoCodec="h264" bitrate="2500">
+      <Part duration="43000" key="/services/iva/assets/265702/video.mp4?bitrate=2500" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="1080" width="1920" codec="h264" bitrate="2500" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+    <Media container="mp4" height="720" width="1280" audioCodec="aac" duration="43000" videoCodec="h264" bitrate="1500">
+      <Part duration="43000" key="/services/iva/assets/265702/video.mp4?bitrate=1500" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="720" width="1280" codec="h264" bitrate="1500" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+    <Media container="mp4" height="480" width="640" audioCodec="aac" duration="43000" videoCodec="h264" bitrate="450">
+      <Part duration="43000" key="/services/iva/assets/265702/video.mp4?bitrate=450" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="480" width="640" codec="h264" bitrate="450" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+  </Video>
+</MediaContainer>

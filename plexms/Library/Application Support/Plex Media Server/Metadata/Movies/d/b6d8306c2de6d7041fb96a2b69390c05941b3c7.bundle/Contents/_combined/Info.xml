@@ -1,0 +1,698 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Movie>
+  <art>
+    <item external="True" url="http://image.tmdb.org/t/p/original/vDMH2cA0SugUkzVDOCXWpIgkALg.jpg" sort_order="1" provider="com.plexapp.agents.imdb" media="com.plexapp.agents.imdb_2c482aaca3cb414ad75db3f87954e5cb5513dd00"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/JrcP4Bi21fqhetuAiVNJiYx5Yd.jpg" preview="com.plexapp.agents.imdb_95d95145fda13530ec4714e6f927b838c9b886fe" sort_order="2" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/vBIZjbQCFV52YcEHf99Mamrfele.jpg" preview="com.plexapp.agents.imdb_30a7988b3423c349b5a1f2451608343c1eff79fc" sort_order="3" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/6PdkTG0OCElPufKcWRLK0BOgamM.jpg" preview="com.plexapp.agents.imdb_fbc668e0b6d4225b9d6a8fec7e16f91b87046b73" sort_order="4" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/43fnzmOMO5zOUFH3EzyuwSh87IS.jpg" preview="com.plexapp.agents.imdb_490a3d745b32ab1960ee556e3ea83a8267d232a4" sort_order="5" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/tnNPkzvTTiSdzpXCIyvG8oCYBQ5.jpg" preview="com.plexapp.agents.imdb_d759ecd273a4b0714f50c30cc16a594b43c58a3b" sort_order="6" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/ucfdRHmcApGJItOHOqWfDdoqkXd.jpg" preview="com.plexapp.agents.imdb_4b15ccdec0cb395bf7cad1f55c795306aedec264" sort_order="7" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/3ruexiChoctUhL51bWRt4IVJ5YG.jpg" preview="com.plexapp.agents.imdb_cd7cd782a0ba09940e9c56748fa7ef9420e337d9" sort_order="8" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/5qsZB7vvMV2NUMHjm65myRyo6Pk.jpg" preview="com.plexapp.agents.imdb_072d81fcc5f4ba95ff28334efb6b41478d0d417a" sort_order="9" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/uOKcNu3IQR7eA8sV9nN2SE3XbKK.jpg" preview="com.plexapp.agents.imdb_1a5e0271f04253bb14cb3916025a9c761d3942c8" sort_order="10" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/lO1U31UaMGT1iQGmNO1XQIHYK4u.jpg" preview="com.plexapp.agents.imdb_38a5c464902381030db147b0775dafc68d4d490f" sort_order="11" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/1CVJNieREGA6UlUpyrlQdhu0dLK.jpg" preview="com.plexapp.agents.imdb_a725d52aeacbad7489f273b5fab14e1c3d9713c6" sort_order="12" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/xHRX2cfzL6mUYezmJ7n3gCQhAqf.jpg" preview="com.plexapp.agents.imdb_3a8f6475b4dfdd9021944c716266ed8b672d4fdc" sort_order="13" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/6VBdfTtX5vdHK6Vg5ZNuGM6fqMR.jpg" preview="com.plexapp.agents.imdb_04e1460520630b51d35d805a8bb932cbb6672c8b" sort_order="14" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/pyI4zHjb8S1D7VVZoAxuuxPhkQd.jpg" preview="com.plexapp.agents.imdb_cf7525436979419781039f67abc81daa8967003d" sort_order="15" provider="com.plexapp.agents.imdb"/>
+  </art>
+  <banners/>
+  <chapters>
+    <item index="0">
+      <title>Chapter 1</title>
+      <end_time_offset>431000</end_time_offset>
+      <start_time_offset>0</start_time_offset>
+    </item>
+    <item index="1">
+      <title>Chapter 2</title>
+      <end_time_offset>994000</end_time_offset>
+      <start_time_offset>431000</start_time_offset>
+    </item>
+    <item index="2">
+      <title>Chapter 3</title>
+      <end_time_offset>1352000</end_time_offset>
+      <start_time_offset>994000</start_time_offset>
+    </item>
+    <item index="3">
+      <title>Chapter 4</title>
+      <end_time_offset>1714000</end_time_offset>
+      <start_time_offset>1352000</start_time_offset>
+    </item>
+    <item index="4">
+      <title>Chapter 5</title>
+      <end_time_offset>2180000</end_time_offset>
+      <start_time_offset>1714000</start_time_offset>
+    </item>
+    <item index="5">
+      <title>Chapter 6</title>
+      <end_time_offset>2596000</end_time_offset>
+      <start_time_offset>2180000</start_time_offset>
+    </item>
+    <item index="6">
+      <title>Chapter 7</title>
+      <end_time_offset>3114000</end_time_offset>
+      <start_time_offset>2596000</start_time_offset>
+    </item>
+    <item index="7">
+      <title>Chapter 8</title>
+      <end_time_offset>3648000</end_time_offset>
+      <start_time_offset>3114000</start_time_offset>
+    </item>
+    <item index="8">
+      <title>Chapter 9</title>
+      <end_time_offset>4028000</end_time_offset>
+      <start_time_offset>3648000</start_time_offset>
+    </item>
+    <item index="9">
+      <title>Chapter 10</title>
+      <end_time_offset>4384000</end_time_offset>
+      <start_time_offset>4028000</start_time_offset>
+    </item>
+    <item index="10">
+      <title>Chapter 11</title>
+      <end_time_offset>4843000</end_time_offset>
+      <start_time_offset>4384000</start_time_offset>
+    </item>
+    <item index="11">
+      <title>Chapter 12</title>
+      <end_time_offset>5103000</end_time_offset>
+      <start_time_offset>4843000</start_time_offset>
+    </item>
+    <item index="12">
+      <title>Chapter 13</title>
+      <end_time_offset>5634000</end_time_offset>
+      <start_time_offset>5103000</start_time_offset>
+    </item>
+    <item index="13">
+      <title>Chapter 14</title>
+      <end_time_offset>6013000</end_time_offset>
+      <start_time_offset>5634000</start_time_offset>
+    </item>
+    <item index="14">
+      <title>Chapter 15</title>
+      <end_time_offset>6618000</end_time_offset>
+      <start_time_offset>6013000</start_time_offset>
+    </item>
+    <item index="15">
+      <title>Chapter 16</title>
+      <end_time_offset>-1</end_time_offset>
+      <start_time_offset>6618000</start_time_offset>
+    </item>
+  </chapters>
+  <collections/>
+  <content_rating>R</content_rating>
+  <countries>
+    <item index="0">USA</item>
+  </countries>
+  <directors>
+    <item index="0">
+      <photo>http://image.tmdb.org/t/p/original/6aERBGHkLHpnd6V3pftvHoTvRvr.jpg</photo>
+      <role/>
+      <name>David O. Russell</name>
+    </item>
+  </directors>
+  <duration>6960000</duration>
+  <genres>
+    <item index="0">Biography</item>
+    <item index="1">Drama</item>
+    <item index="2">Sport</item>
+  </genres>
+  <originally_available_at>2010-12-17</originally_available_at>
+  <posters>
+    <item external="True" url="http://image.tmdb.org/t/p/original/f81GIoNQJQX92YCaTs8wjbT0h7b.jpg" sort_order="1" provider="com.plexapp.agents.imdb" media="com.plexapp.agents.imdb_022f1c2f61e27a6b8a2752305433a34814451143"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/ytGIpdxYyvXwch5QILfquSTMA9f.jpg" preview="com.plexapp.agents.imdb_83d219c24fe44132faef93fae072831724bf5ec0" sort_order="2" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/ei3MqA0gezQ6e8IavFGCGSgTL8P.jpg" preview="com.plexapp.agents.imdb_d791afa07e2a308e5ea881b0005c1e6502135eab" sort_order="3" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/w19rlKTfzPqWNrmlkOCrs9vF1Fl.jpg" preview="com.plexapp.agents.imdb_b4ba7deeeb27b08127244b947a79ac80c1725e32" sort_order="4" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/zIuCjwrmdi1koHGXHUZg8f42X57.jpg" preview="com.plexapp.agents.imdb_fbe7cb665715afd3fe607396990a9016ccf6fef8" sort_order="5" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/jcQYWWi2y1vNsGlJJ2jNcFq0y1n.jpg" preview="com.plexapp.agents.imdb_a2975aedcd7c334ff02a6518be06bcb4b95a453b" sort_order="6" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/voJe5gw9hBkPUKXWu7KITSTpmMk.jpg" preview="com.plexapp.agents.imdb_55771b12b60f3f2e99fcf3bbe633fd1cf5a8c2f1" sort_order="7" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/sAH3i7KvjxzLIOicxZB0aqMKUCN.jpg" preview="com.plexapp.agents.imdb_c64de9e3484db3343ea30fca4b2ad66933c58191" sort_order="8" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/2gfFhNilal7e3tRUKVUDy8yLcFp.jpg" preview="com.plexapp.agents.imdb_82682f4e4c153992f7cecf16351d01e6c8278163" sort_order="9" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/iiARCMdZbCaAw2LpH6YXg5sCG2j.jpg" preview="com.plexapp.agents.imdb_d9a466ffa8e03b3d3b54d2891de4212827c41cb6" sort_order="10" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/hJxms2gykhupbAXeoLvTJto7wL7.jpg" preview="com.plexapp.agents.imdb_94fbe10c446e96ad2f34863a8613e21246690eef" sort_order="11" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/xnAnyb7uA2W7l8IKFxG9VKUDZS8.jpg" preview="com.plexapp.agents.imdb_adde62f4f20df846840853ef87aef1764402756b" sort_order="12" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/ddoP1dqYCzw89Tno6UfYleetf5o.jpg" preview="com.plexapp.agents.imdb_d867d7247e5405a573775e0dbd0a9d1707d09f77" sort_order="13" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/2jmRZ6dT7EWCEqBe50Ul0xB6fZ0.jpg" preview="com.plexapp.agents.imdb_295f3bbed70004eb5de76253c07645bee36ead31" sort_order="14" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/hTCYtXNmny409Zne91bMQu83kvl.jpg" preview="com.plexapp.agents.imdb_58f9752b0db684fb6beeb2a2dbf80aeb741a239f" sort_order="15" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/kvEEtXXrqOzbT5luryZl13VOT1c.jpg" preview="com.plexapp.agents.imdb_0579334658b1a9af95621917c67ac8937921b04b" sort_order="16" provider="com.plexapp.agents.imdb"/>
+  </posters>
+  <producers>
+    <item index="0">
+      <photo/>
+      <role/>
+      <name>Dorothy Aufiero</name>
+    </item>
+    <item index="1">
+      <photo>http://image.tmdb.org/t/p/original/l63YjASljQOAB8ys4zR3DWUXltP.jpg</photo>
+      <role/>
+      <name>David Hoberman</name>
+    </item>
+    <item index="2">
+      <photo>http://image.tmdb.org/t/p/original/hHEZuaDeSXWWxaDzQp13AzeYSg5.jpg</photo>
+      <role/>
+      <name>Ryan Kavanaugh</name>
+    </item>
+    <item index="3">
+      <photo/>
+      <role/>
+      <name>Todd Lieberman</name>
+    </item>
+    <item index="4">
+      <photo/>
+      <role/>
+      <name>Paul Tamasy</name>
+    </item>
+    <item index="5">
+      <photo>http://image.tmdb.org/t/p/original/z2wJh5n7qZRUE1y9uB8UrivAV2b.jpg</photo>
+      <role/>
+      <name>Mark Wahlberg</name>
+    </item>
+  </producers>
+  <rating>9.0</rating>
+  <rating_image>rottentomatoes://image.rating.ripe</rating_image>
+  <audience_rating>8.9</audience_rating>
+  <audience_rating_image>rottentomatoes://image.rating.upright</audience_rating_image>
+  <reviews>
+    <item index="0">
+      <text>A flawed, frequently ludicrous but overwhelmingly likeable film, old-school to the core and none the worse for it.</text>
+      <source>Time Out</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>http://www.timeout.com/film/reviews/88576/the-fighter.html</link>
+      <author>Tom Huddleston</author>
+    </item>
+    <item index="1">
+      <text>Makes too many concessions to the Hollywood judges, pulls too many punches.</text>
+      <source>Globe and Mail</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>http://www.theglobeandmail.com/news/arts/movies/the-fighter-a-hard-hitting-boxing-story-that-scores-on-the-big-screen/article1841027/</link>
+      <author>Rick Groen</author>
+    </item>
+    <item index="2">
+      <text>A great boxing movie, a great film about family. Gritty, thrilling, inspirational. Deserves multiple Oscar nominations.</text>
+      <source>Richard Roeper.com</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>http://bit.ly/f0isBC</link>
+      <author>Richard Roeper</author>
+    </item>
+    <item index="3">
+      <text>It's audacious, it's fun, it's rowdy, and it's just twisted enough to always be interesting. Beyond that, it's one of the year's best acting showcases and likely to grab multiple Oscar nominations.</text>
+      <source>Detroit News</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>http://detroitnews.com/article/20101217/OPINION03/12170323/1034/ent02/Review--%E2%80%98The-Fighter%E2%80%99-packs-the-ring-with-superb-acting--a-surprise-plot-and-rowdy-fun</link>
+      <author>Tom Long</author>
+    </item>
+    <item index="4">
+      <text>Only Amy Adams, playing Micky's tough-tender girlfriend Charlene, manages to be convincingly working-class without seeming either dopey or rabid or strung-out.</text>
+      <source>Christian Science Monitor</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>http://www.csmonitor.com/The-Culture/Movies/2010/1210/Movie-review-The-Fighter-starring-Mark-Wahlberg-and-Christian-Bale</link>
+      <author>Peter Rainer</author>
+    </item>
+    <item index="5">
+      <text>A tough, bare-knuckled, compassionate meditation on every family's rope-a-dope between tribal bonds and self-definition. Both, it turns out, are worth going to the mat for.</text>
+      <source>Washington Post</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>http://www.washingtonpost.com/gog/movies/the-fighter,1173927/critic-review.html</link>
+      <author>Ann Hornaday</author>
+    </item>
+    <item index="6">
+      <text>"The Fighter" is entertaining from beginning to end and contains two brilliant and extreme supporting performances that are among the year's best.</text>
+      <source>San Francisco Chronicle</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>http://www.sfgate.com/cgi-bin/article.cgi?f=/c/a/2010/12/16/MVL81GQ453.DTL</link>
+      <author>Mick LaSalle</author>
+    </item>
+    <item index="7">
+      <text>It feels like it comes from real life as well as the movies.</text>
+      <source>Chicago Tribune</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>http://www.chicagotribune.com/entertainment/movies/sc-mov-1215-fighter-20101216,0,4246020.column</link>
+      <author>Michael Phillips</author>
+    </item>
+    <item index="8">
+      <text>You may not physically experience the punches that rain upon Mark Wahlberg's dogged pro boxer "Irish" Micky Ward, but it feels as if you do.</text>
+      <source>Toronto Star</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>http://www.thestar.com/entertainment/movies/article/908338--the-fighter-stellar-cast-and-great-story-make-for-one-two-punch</link>
+      <author>Peter Howell</author>
+    </item>
+    <item index="9">
+      <text>"The Fighter" is a great, gutsy boxing story, a knowingly detailed, compelling, often very funny look inside the lives of underdogs battling for respect.</text>
+      <source>Minneapolis Star Tribune</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>http://www.startribune.com/entertainment/movies/112017954.html?elr=KArksD:aDyaEP:kD:aUnc5PDiUiD3aPc:_Yyc:aULPQL7PQLanchO7DiUr</link>
+      <author>Colin Covert</author>
+    </item>
+    <item index="10">
+      <text>The Fighter is funny, ferocious, sad, sweet, pulpy, and violent. Sometimes, all in the same minute.</text>
+      <source>Philadelphia Inquirer</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>http://www.philly.com/philly/entertainment/movies/20101217__The_Fighter___Ferocity__angst__ambition_and_bonds.html</link>
+      <author>Steven Rea</author>
+    </item>
+    <item index="11">
+      <text>What really holds this together is Wahlberg's low-key, firmly internalized performance as a man torn between his loyalty to the clan and his responsibility to himself.</text>
+      <source>Chicago Reader</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>http://www.chicagoreader.com/chicago/MovieTimes?oid=2762917</link>
+      <author>J. R. Jones</author>
+    </item>
+    <item index="12">
+      <text>Because we aren't deeply invested in Micky, we don't care as much as we should, and the film ends on a note that should be triumph but feels more like simple conclusion.</text>
+      <source>Chicago Sun-Times</source>
+      <image>rottentomatoes://image.review.rotten</image>
+      <link>http://www.rogerebert.com/reviews/the-fighter-2010</link>
+      <author>Roger Ebert</author>
+    </item>
+    <item index="13">
+      <text>"The Fighter" easily could have slipped into boxing-film clichés, but Russell doesn't let that happen. Instead, it lands its hardest blows while chronicling the struggle of a family, which is a far more interesting fight.</text>
+      <source>Arizona Republic</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>http://www.azcentral.com/thingstodo/movies/articles/2010/12/15/20101215fighter-mark-wahlberg-review-goodykoontz.html</link>
+      <author>Bill Goodykoontz</author>
+    </item>
+    <item index="14">
+      <text>The movie has so much texture that once it gets you, you're good and got.</text>
+      <source>New York Magazine/Vulture</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>http://nymag.com/movies/reviews/70106/</link>
+      <author>David Edelstein</author>
+    </item>
+    <item index="15">
+      <text>By far the most rousing, expertly cast movie this year...</text>
+      <source>New York Daily News</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>http://www.nydailynews.com/entertainment/movies/2010/12/10/2010-12-10_fighter_review_christian_bale_floats_like_a_butterfly_stings_like_a_bee.html</link>
+      <author>Joe Neumaier</author>
+    </item>
+  </reviews>
+  <roles>
+    <item index="0">
+      <photo>http://image.tmdb.org/t/p/original/z2wJh5n7qZRUE1y9uB8UrivAV2b.jpg</photo>
+      <role>Micky Ward</role>
+      <name>Mark Wahlberg</name>
+    </item>
+    <item index="1">
+      <photo>http://image.tmdb.org/t/p/original/pPXnqoGD91znz4FwQ6aKuxi6Pcy.jpg</photo>
+      <role>Dick "Dicky" Eklund</role>
+      <name>Christian Bale</name>
+    </item>
+    <item index="2">
+      <photo>http://image.tmdb.org/t/p/original/yf3ReBCtCHo062JIqizXtzPd9GA.jpg</photo>
+      <role>Charlene Fleming</role>
+      <name>Amy Adams</name>
+    </item>
+    <item index="3">
+      <photo>http://image.tmdb.org/t/p/original/fcDdsUAyp7DZEi4UEzGXZEjXlUC.jpg</photo>
+      <role>Alice Eklund-Ward</role>
+      <name>Melissa Leo</name>
+    </item>
+    <item index="4">
+      <photo>http://image.tmdb.org/t/p/original/JV8c81AACrcjZDEv7PJPrEugxj.jpg</photo>
+      <role>Himself</role>
+      <name>Mickey O'Keefe</name>
+    </item>
+    <item index="5">
+      <photo>http://image.tmdb.org/t/p/original/mGFSoz0U4wkGGrt8ZFeEXnLOYr6.jpg</photo>
+      <role>Gail 'Red Dog' Eckland Carney</role>
+      <name>Dendrie Taylor</name>
+    </item>
+    <item index="6">
+      <photo>http://image.tmdb.org/t/p/original/jSl2RKRaJvtRoS3T5HSw4xeNdwy.jpg</photo>
+      <role>George Ward</role>
+      <name>Jack McGee</name>
+    </item>
+    <item index="7">
+      <photo>http://image.tmdb.org/t/p/original/77YgfsOsYFdW0ZBtXeQbY8AfYvs.jpg</photo>
+      <role>Cathy "Pork" Eklund</role>
+      <name>Bianca Hunter</name>
+    </item>
+    <item index="8">
+      <photo>http://image.tmdb.org/t/p/original/715Tt2EGYuN0f4ccso7t2prW7uu.jpg</photo>
+      <role>Cindy "Tar" Eklund</role>
+      <name>Erica McDermott</name>
+    </item>
+    <item index="9">
+      <photo>http://image.tmdb.org/t/p/original/jUOQXfJIxeE2Ug9PXpX9dFYpR58.jpg</photo>
+      <role>Sherri "The Baby" Ward</role>
+      <name>Jenna Lamia</name>
+    </item>
+    <item index="10">
+      <photo>http://image.tmdb.org/t/p/original/k1FMQM4IWFJE0l0Ven1U71zrx3H.jpg</photo>
+      <role>Kasie Ward</role>
+      <name>Caitlin Dwyer</name>
+    </item>
+    <item index="11">
+      <photo>http://image.tmdb.org/t/p/original/jRj1uUrPSsyQEzoTB4pHM6T8SVR.jpg</photo>
+      <role>Karen</role>
+      <name>Chanty Sok</name>
+    </item>
+    <item index="12">
+      <photo>http://image.tmdb.org/t/p/original/2sEyIlZFLIzAgBUcL5dovdwQOUa.jpg</photo>
+      <role>Little Dickie</role>
+      <name>Jackson Nicoll</name>
+    </item>
+    <item index="13">
+      <photo>http://image.tmdb.org/t/p/original/ycBIpIeOp1lk8F5J4BWGSLzsKdE.jpg</photo>
+      <role>Sal Lanano</role>
+      <name>Frank Renzulli</name>
+    </item>
+    <item index="14">
+      <photo>http://image.tmdb.org/t/p/original/60UrlxiWoaTjxPGI9OSUJ1c5vJf.jpg</photo>
+      <role>Himself</role>
+      <name>Sugar Ray Leonard</name>
+    </item>
+    <item index="15">
+      <photo>http://image.tmdb.org/t/p/original/hSJOW9chR657iSIJJy0JlG5dmOG.jpg</photo>
+      <role>'Little Alice' Eklund</role>
+      <name>Melissa McMeekin</name>
+    </item>
+    <item index="16">
+      <photo>http://image.tmdb.org/t/p/original/yhH1A13OWJIjow9cM8wNf8urWq.jpg</photo>
+      <role>Lou Gold</role>
+      <name>Ted Arcidi</name>
+    </item>
+    <item index="17">
+      <photo>http://image.tmdb.org/t/p/original/ae2v41llKdZo4ObkY8v0ybBhGOL.jpg</photo>
+      <role>Mike Toma</role>
+      <name>Ross Bickell</name>
+    </item>
+    <item index="18">
+      <photo/>
+      <role>Wolfie</role>
+      <name>Sean Malone</name>
+    </item>
+    <item index="19">
+      <photo/>
+      <role>HBO Cameraman</role>
+      <name>Matthew Muzio</name>
+    </item>
+    <item index="20">
+      <photo>http://image.tmdb.org/t/p/original/j4LkS9pycdpKECqZ4bCTqMtZrHA.jpg</photo>
+      <role>Laurie Carroll</role>
+      <name>Alison Folland</name>
+    </item>
+    <item index="21">
+      <photo/>
+      <role>Businessman</role>
+      <name>Thomas Benton</name>
+    </item>
+    <item index="22">
+      <photo>http://image.tmdb.org/t/p/original/8gYpS5FIllwi6hGB3opL0kREPgW.jpg</photo>
+      <role>Bald Businessman</role>
+      <name>Jeremiah Kissel</name>
+    </item>
+    <item index="23">
+      <photo/>
+      <role>Reporter</role>
+      <name>Kim Carrell</name>
+    </item>
+    <item index="24">
+      <photo>http://image.tmdb.org/t/p/original/aPBGgkwjSyTSc8Xmx67Uuw20rqW.jpg</photo>
+      <role>Referee Micky Vann</role>
+      <name>Dale Place</name>
+    </item>
+    <item index="25">
+      <photo>http://image.tmdb.org/t/p/original/iEtWuoXKx4ZKbIWwJp1V76Heavy.jpg</photo>
+      <role>Crackhead Bonnie</role>
+      <name>Bonnie Aarons</name>
+    </item>
+    <item index="26">
+      <photo/>
+      <role>Court Officer</role>
+      <name>Walter Driscoll</name>
+    </item>
+    <item index="27">
+      <photo>http://image.tmdb.org/t/p/original/4vbnRHUDDWkABhbpyLPpeoCz8fB.jpg</photo>
+      <role>Fight Spectator</role>
+      <name>Jerrell Lee Wesley</name>
+    </item>
+    <item index="28">
+      <photo>http://image.tmdb.org/t/p/original/yPYIjSrc1SLiVHAsBaB5RAOhINh.jpg</photo>
+      <role>Micky's Friend</role>
+      <name>Eric Weinstein</name>
+    </item>
+    <item index="29">
+      <photo>http://image.tmdb.org/t/p/original/3m3gjjfEQXvroS08SD3dAESgfkb.jpg</photo>
+      <role>Neary</role>
+      <name>Anthony Molinari</name>
+    </item>
+    <item index="30">
+      <photo/>
+      <role>Mike 'Machine Gun' Mungin</role>
+      <name>Peter Cunningham</name>
+    </item>
+    <item index="31">
+      <photo>http://image.tmdb.org/t/p/original/wdIASyG4raEPsYpdUZagnvutKuQ.jpg</photo>
+      <role>Drunk Guy</role>
+      <name>Brian Christensen</name>
+    </item>
+    <item index="32">
+      <photo>http://image.tmdb.org/t/p/original/eldqpfXTxspQmIr7LQ2qqnWwPYs.jpg</photo>
+      <role>Drunk Girl</role>
+      <name>Jen Weissenberg</name>
+    </item>
+    <item index="33">
+      <photo>http://image.tmdb.org/t/p/original/yOqMbIPkf6HtbVRBxu1o1RK7jZd.jpg</photo>
+      <role>Fight Announcer</role>
+      <name>Michael Buffer</name>
+    </item>
+    <item index="34">
+      <photo/>
+      <role>Fight Announcer</role>
+      <name>Larry Merchant</name>
+    </item>
+    <item index="35">
+      <photo>http://image.tmdb.org/t/p/original/nEpNh9xg1mWhH7FFitKhui8XgKp.jpg</photo>
+      <role>Fight Announcer</role>
+      <name>Jim Lampley</name>
+    </item>
+    <item index="36">
+      <photo/>
+      <role>Fight Announcer</role>
+      <name>Emanuel Steward</name>
+    </item>
+    <item index="37">
+      <photo>http://image.tmdb.org/t/p/original/fgsHZRBpMinLbRninT1RcApxEnA.jpg</photo>
+      <role>Fight Announcer</role>
+      <name>Roy Jones Jr.</name>
+    </item>
+    <item index="38">
+      <photo>http://image.tmdb.org/t/p/original/ixCINfQMnYBVDh2TN8rSTdDVIwB.jpg</photo>
+      <role>Fight Announcer</role>
+      <name>George Foreman</name>
+    </item>
+    <item index="39">
+      <photo>http://image.tmdb.org/t/p/original/9M6WaOhKq8H5ZxOqOVxRXKkAJLd.jpg</photo>
+      <role>Man on Street #4</role>
+      <name>Dicky Eklund Jr.</name>
+    </item>
+    <item index="40">
+      <photo>http://image.tmdb.org/t/p/original/6gk2g2HxT0pXzJSDIHFmZS0BXmb.jpg</photo>
+      <role>Movie Patron (uncredited)</role>
+      <name>Charlie Alejandro</name>
+    </item>
+    <item index="41">
+      <photo/>
+      <role>Inmate Prisoner (uncredited)</role>
+      <name>Joseph Basile</name>
+    </item>
+    <item index="42">
+      <photo/>
+      <role>Inmate (uncredited)</role>
+      <name>Jeffrey Corazzini</name>
+    </item>
+    <item index="43">
+      <photo/>
+      <role>Inmate (uncredited)</role>
+      <name>Conan Marchi</name>
+    </item>
+    <item index="44">
+      <photo/>
+      <role>Ringside Fan (uncredited)</role>
+      <name>Brina</name>
+    </item>
+    <item index="45">
+      <photo>http://image.tmdb.org/t/p/original/fCat2EkatFSQJGJoUBRpDzU4NTA.jpg</photo>
+      <role>Ring card girl (uncredited)</role>
+      <name>Luisa Diaz</name>
+    </item>
+    <item index="46">
+      <photo/>
+      <role>Ringside Reporter / Gym Fight Spectator / Courtroom Attendee / Pedestrian / Precision Driver (uncredited)</role>
+      <name>Shawn Fogarty</name>
+    </item>
+    <item index="47">
+      <photo>http://image.tmdb.org/t/p/original/693xPmSE5z9E5LUC45GurwpgGjl.jpg</photo>
+      <role>VIP Spectator (uncredited)</role>
+      <name>Jodie Brunelle</name>
+    </item>
+    <item index="48">
+      <photo>http://image.tmdb.org/t/p/original/3j3TU6CT87bnFTeVzLQNsGkyKCb.jpg</photo>
+      <role>VIP (uncredited)</role>
+      <name>John Franchi</name>
+    </item>
+    <item index="49">
+      <photo>http://image.tmdb.org/t/p/original/2uK2Srt5c3G6MhiiG0VU7J31qYq.jpg</photo>
+      <role>Lowell Neighbor (uncredited)</role>
+      <name>Gino Cafarelli</name>
+    </item>
+    <item index="50">
+      <photo/>
+      <role>Larry Merchant (uncredited)</role>
+      <name>Al Conti</name>
+    </item>
+    <item index="51">
+      <photo/>
+      <role>Road Crew Co Worker (uncredited)</role>
+      <name>Shawn Doherty</name>
+    </item>
+    <item index="52">
+      <photo>http://image.tmdb.org/t/p/original/wK5JIVWjoNZV1QUYjCLm6F1n26g.jpg</photo>
+      <role>Road Crew Co Worker (uncredited)</role>
+      <name>Henry Penzi</name>
+    </item>
+    <item index="53">
+      <photo>http://image.tmdb.org/t/p/original/pkkLYJQnpjfBJRJeFgkWd2uDDCF.jpg</photo>
+      <role>Extra (uncredited)</role>
+      <name>Ger Duany</name>
+    </item>
+    <item index="54">
+      <photo/>
+      <role>Fight Spectator (uncredited)</role>
+      <name>Alex East</name>
+    </item>
+    <item index="55">
+      <photo>http://image.tmdb.org/t/p/original/67ZKPilBOCRoeH1o5OJewiUJS4P.jpg</photo>
+      <role>Fight Spectator (uncredited)</role>
+      <name>Dan Marshall</name>
+    </item>
+    <item index="56">
+      <photo>http://image.tmdb.org/t/p/original/shm8bd1EAUuydopn0ACnr5Lk1fX.jpg</photo>
+      <role>Fight Spectator (uncredited)</role>
+      <name>Jeff Martineau</name>
+    </item>
+    <item index="57">
+      <photo>http://image.tmdb.org/t/p/original/20VHqPMLLh98c7Uk36FKudS28sd.jpg</photo>
+      <role>Fight Spectator (uncredited)</role>
+      <name>Anastasia Sanidopoulos Mousis</name>
+    </item>
+    <item index="58">
+      <photo>http://image.tmdb.org/t/p/original/l2mLa5OnrAmeYMKa04rbnQvr16W.jpg</photo>
+      <role>Fight Spectator (uncredited)</role>
+      <name>Briggon Snow</name>
+    </item>
+    <item index="59">
+      <photo/>
+      <role>Fight Photographer (uncredited)</role>
+      <name>Thomas Olson</name>
+    </item>
+    <item index="60">
+      <photo/>
+      <role>Fight Fan (uncredited)</role>
+      <name>Ron Shimshilashvili</name>
+    </item>
+    <item index="61">
+      <photo/>
+      <role>Press (uncredited)</role>
+      <name>Mark Falvo</name>
+    </item>
+    <item index="62">
+      <photo>http://image.tmdb.org/t/p/original/9SMKdbLZCB4RXcCK1Mzs6eOxZIG.jpg</photo>
+      <role>British Press Reporter (uncredited)</role>
+      <name>Susan Farese</name>
+    </item>
+    <item index="63">
+      <photo/>
+      <role>King, Ring Girl Escort (uncredited)</role>
+      <name>Dennis Jay Funny</name>
+    </item>
+    <item index="64">
+      <photo>http://image.tmdb.org/t/p/original/yMnItnDSkDCepAvINfUDAWLzei.jpg</photo>
+      <role>Casino Gambler (uncredited)</role>
+      <name>London Hall</name>
+    </item>
+    <item index="65">
+      <photo/>
+      <role>Casino Kid (uncredited)</role>
+      <name>Hunter Wilichoski</name>
+    </item>
+    <item index="66">
+      <photo/>
+      <role>Referee (uncredited)</role>
+      <name>Kimko</name>
+    </item>
+    <item index="67">
+      <photo/>
+      <role>Boxing Referee (uncredited)</role>
+      <name>Dennis Lauricella</name>
+    </item>
+    <item index="68">
+      <photo/>
+      <role>Boxing Ring Photographer (uncredited)</role>
+      <name>David Struffolino</name>
+    </item>
+    <item index="69">
+      <photo>http://image.tmdb.org/t/p/original/7YI7xWfUVMPXtERREgczUJdLHTq.jpg</photo>
+      <role>Background (uncredited)</role>
+      <name>Alicia Love</name>
+    </item>
+    <item index="70">
+      <photo>http://image.tmdb.org/t/p/original/nFJX5qWKlHyew7AHKUFE3EQnMO5.jpg</photo>
+      <role>Spectator (uncredited)</role>
+      <name>Joseph Oliveira</name>
+    </item>
+    <item index="71">
+      <photo/>
+      <role>Bodyguard (uncredited)</role>
+      <name>Joe Siriani</name>
+    </item>
+  </roles>
+  <similar>
+    <item index="0">Moneyball</item>
+    <item index="1">The Wrestler</item>
+    <item index="2">Warrior</item>
+    <item index="3">3:10 to Yuma</item>
+    <item index="4">The Town</item>
+    <item index="5">A History of Violence</item>
+    <item index="6">Cinderella Man</item>
+    <item index="7">American Gangster</item>
+    <item index="8">Crash</item>
+    <item index="9">True Grit</item>
+    <item index="10">The Hurt Locker</item>
+    <item index="11">Eastern Promises</item>
+    <item index="12">Michael Clayton</item>
+    <item index="13">Raging Bull</item>
+    <item index="14">Body of Lies</item>
+    <item index="15">Road to Perdition</item>
+    <item index="16">There Will Be Blood</item>
+    <item index="17">The Machinist</item>
+    <item index="18">L.A. Confidential</item>
+    <item index="19">25th Hour</item>
+  </similar>
+  <studio>Paramount</studio>
+  <summary>The Fighter, is a drama about boxer "Irish" Micky Ward's unlikely road to the world light welterweight title. His Rocky-like rise was shepherded by half-brother Dicky, a boxer-turned-trainer who rebounded in life after nearly being KO'd by drugs and crime.</summary>
+  <tagline>Every dream deserves a fighting chance.</tagline>
+  <tags/>
+  <themes/>
+  <title>The Fighter</title>
+  <writers>
+    <item index="0">
+      <photo>http://image.tmdb.org/t/p/original/vRblvymfxaMd7Lsqs4ypVAfnJK.jpg</photo>
+      <role/>
+      <name>Scott Silver</name>
+    </item>
+    <item index="1">
+      <photo/>
+      <role/>
+      <name>Paul Tamasy</name>
+    </item>
+    <item index="2">
+      <photo/>
+      <role/>
+      <name>Eric Johnson</name>
+    </item>
+  </writers>
+  <year>2010</year>
+</Movie>

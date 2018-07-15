@@ -1,0 +1,497 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Movie>
+  <art>
+    <item external="True" url="http://image.tmdb.org/t/p/original/kvhXp2VKmPzIQxb8zEDVElltNTh.jpg" sort_order="1" provider="com.plexapp.agents.imdb" media="com.plexapp.agents.imdb_d75fe098f268730087f5e6520873763249fdb976"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/ma5Ps40txofscTtWpjs39swMnwZ.jpg" preview="com.plexapp.agents.imdb_1ab0f0732d649ec034f7a4813eed9c3398ecb6c7" sort_order="2" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/nzH9nhwOAHgzbMjwTVxhYDzDuXe.jpg" preview="com.plexapp.agents.imdb_e951953a0ddfbb14fb87b807ab876d7c97c44979" sort_order="3" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/zybxTzAhzwdOtl0kDGUzSv4oRVg.jpg" preview="com.plexapp.agents.imdb_e37ef4ca80ab16ca4f33322c35e77b4332431d11" sort_order="4" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/jVKrZXKcNyzX9dnRFF5cUdlN3Zk.jpg" preview="com.plexapp.agents.imdb_eddf6f88043977b0d7484bd0b19cd6b5f84ee8d1" sort_order="5" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/cHoJ3VHALnPvAt1e8jBj17YmAnu.jpg" preview="com.plexapp.agents.imdb_1d946c314e458b5675266ac0971849fa9ab5c686" sort_order="6" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/4l4y5dQaCh3tl8XzIlOZqxhlMQG.jpg" preview="com.plexapp.agents.imdb_0bec4c5072c384453ea0e3ad4e26a30293e75040" sort_order="7" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/wcaEOQRNFskRFTZV9MhZym3Y9dZ.jpg" preview="com.plexapp.agents.imdb_baa2bfd77c9b5d14d3d2c7dc5feee2676d9cce1f" sort_order="8" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/fbsWO3KUQcnx6TYa4iPLhV0SwZX.jpg" preview="com.plexapp.agents.imdb_5ab7a2b5fc2f7dbb4dbebca4aaf408cdedebff5e" sort_order="9" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/dUpboC0SiRbPWz3LqTIx21BmBYU.jpg" preview="com.plexapp.agents.imdb_4ee76e538f8f53eccddab7894838fd0c4d2b6f11" sort_order="10" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/ujydnaOWvCYnWSAKCyAH7XO3ayh.jpg" preview="com.plexapp.agents.imdb_a4081521929c814f62df445c154e92103058833e" sort_order="11" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/4nI3FLAZVSfRSd0zzSlYTZB2UYS.jpg" preview="com.plexapp.agents.imdb_972fb414ca321e26d07de861f45d815c791c95b6" sort_order="12" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/q6BuMyh772JZVNSA9BaMyEEbRD1.jpg" preview="com.plexapp.agents.imdb_1beff5905403117494248243b36aa4b9746f1d91" sort_order="13" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/mQdFmvXoDsuOYY5ssuhBJ55QwR7.jpg" preview="com.plexapp.agents.imdb_2dd84ec8935734669b0874784773c4e090f3d657" sort_order="14" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/pjBnhWajaoS0LCrHsjsIR9TqKAT.jpg" preview="com.plexapp.agents.imdb_d4e4eb6bb43b5cca73d502f7461b3e24477cc8d5" sort_order="15" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/xUU08wJ07ue5APe2PFAJe3oxaIC.jpg" preview="com.plexapp.agents.imdb_64e965a948ccd6bfb009cca6ab1da9c0519590be" sort_order="16" provider="com.plexapp.agents.imdb"/>
+  </art>
+  <banners/>
+  <chapters>
+    <item index="0">
+      <title>Seaward Sacrifice</title>
+      <end_time_offset>339000</end_time_offset>
+      <start_time_offset>0</start_time_offset>
+    </item>
+    <item index="1">
+      <title>Zeus's Command</title>
+      <end_time_offset>607000</end_time_offset>
+      <start_time_offset>339000</start_time_offset>
+    </item>
+    <item index="2">
+      <title>Argos Destroyed</title>
+      <end_time_offset>865000</end_time_offset>
+      <start_time_offset>607000</start_time_offset>
+    </item>
+    <item index="3">
+      <title>As Calibos Suffers</title>
+      <end_time_offset>1258000</end_time_offset>
+      <start_time_offset>865000</start_time_offset>
+    </item>
+    <item index="4">
+      <title>Playwright Ammon</title>
+      <end_time_offset>1566000</end_time_offset>
+      <start_time_offset>1258000</start_time_offset>
+    </item>
+    <item index="5">
+      <title>By the Gods</title>
+      <end_time_offset>1917000</end_time_offset>
+      <start_time_offset>1566000</start_time_offset>
+    </item>
+    <item index="6">
+      <title>Inside Joppa</title>
+      <end_time_offset>2299000</end_time_offset>
+      <start_time_offset>1917000</start_time_offset>
+    </item>
+    <item index="7">
+      <title>Spirit of Andromeda</title>
+      <end_time_offset>2822000</end_time_offset>
+      <start_time_offset>2299000</start_time_offset>
+    </item>
+    <item index="8">
+      <title>Pegasus</title>
+      <end_time_offset>3165000</end_time_offset>
+      <start_time_offset>2822000</start_time_offset>
+    </item>
+    <item index="9">
+      <title>No Mercy</title>
+      <end_time_offset>3560000</end_time_offset>
+      <start_time_offset>3165000</start_time_offset>
+    </item>
+    <item index="10">
+      <title>Swamp Clash</title>
+      <end_time_offset>4022000</end_time_offset>
+      <start_time_offset>3560000</start_time_offset>
+    </item>
+    <item index="11">
+      <title>Riddle of the Ring</title>
+      <end_time_offset>4397000</end_time_offset>
+      <start_time_offset>4022000</start_time_offset>
+    </item>
+    <item index="12">
+      <title>Hate and Love Declared</title>
+      <end_time_offset>4777000</end_time_offset>
+      <start_time_offset>4397000</start_time_offset>
+    </item>
+    <item index="13">
+      <title>Thetis Demands</title>
+      <end_time_offset>5161000</end_time_offset>
+      <start_time_offset>4777000</start_time_offset>
+    </item>
+    <item index="14">
+      <title>Caught By Calibos</title>
+      <end_time_offset>5512000</end_time_offset>
+      <start_time_offset>5161000</start_time_offset>
+    </item>
+    <item index="15">
+      <title>Bubo the Owl</title>
+      <end_time_offset>5723000</end_time_offset>
+      <start_time_offset>5512000</start_time_offset>
+    </item>
+    <item index="16">
+      <title>Steep Climb</title>
+      <end_time_offset>-1</end_time_offset>
+      <start_time_offset>5723000</start_time_offset>
+    </item>
+  </chapters>
+  <collections/>
+  <content_rating>12</content_rating>
+  <countries>
+    <item index="0">USA</item>
+  </countries>
+  <directors>
+    <item index="0">
+      <photo>http://image.tmdb.org/t/p/original/54rsjgcmdZj2wymmKy3FPRgkrie.jpg</photo>
+      <role/>
+      <name>Louis Leterrier</name>
+    </item>
+  </directors>
+  <duration>6360000</duration>
+  <genres>
+    <item index="0">Action</item>
+    <item index="1">Adventure</item>
+    <item index="2">Fantasy</item>
+  </genres>
+  <originally_available_at>2010-04-01</originally_available_at>
+  <posters>
+    <item external="True" url="http://image.tmdb.org/t/p/original/n8W2Y72VzSi8Yz6IvYWwfoiMTS6.jpg" sort_order="1" provider="com.plexapp.agents.imdb" media="com.plexapp.agents.imdb_2c3f223d98516ab4662d5324a54364c511c32485"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/so46g8eLp8OQoB8k4qd4DpETY3A.jpg" preview="com.plexapp.agents.imdb_26b5461cea251dc963649ea2b38dc659e9eda7f0" sort_order="2" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/maDS5HcChPqtBxoVRRG9mR6aHnx.jpg" preview="com.plexapp.agents.imdb_bc0194db50cbfb20ee40715991307015d69792ca" sort_order="3" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/3rFJVXWMQarDUUb3ZlzVCNQWuN.jpg" preview="com.plexapp.agents.imdb_8d5dea3bb63850d5792bead4f0eaa1f322abe47a" sort_order="4" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/bJCr4lAsiM428zSxH5BjwjNczd8.jpg" preview="com.plexapp.agents.imdb_5eea1ff72bff2d363812695de275178bae66e382" sort_order="5" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/iRjnmgi0kcLEJ6h8kMn1kBJaCYh.jpg" preview="com.plexapp.agents.imdb_963abe816853ff5266c4c6df879ee8cb47917f82" sort_order="6" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/rRzQpokspbdhzaiEkPGPFnz6paN.jpg" preview="com.plexapp.agents.imdb_23cec3966acf5d7a54ef494691a21ccf29cfd9b6" sort_order="7" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/tGmOF7bfR2B4ueH1uqhG9Hm5dsG.jpg" preview="com.plexapp.agents.imdb_f31ab79f03145f6a6259cbd9c5abeddbfd66e174" sort_order="8" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/9u0BMTQH2aHerYOLksaHk0VK5mK.jpg" preview="com.plexapp.agents.imdb_812f1bedf4f28f282f552aa30782f8295cff9ba2" sort_order="9" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/btt2002Onv91vTk1WB5s7RGJnk1.jpg" preview="com.plexapp.agents.imdb_04ff089680ce6b9de743723e4efd887b520f5f13" sort_order="10" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/3S3OK1zF1JZmWK8Gaf6gMcXkcns.jpg" preview="com.plexapp.agents.imdb_6f7cf1a2ae7cd2418ef6ab385c6d5011a4185276" sort_order="11" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/iLbrZcOOg4yiHY4Yw1RWZHJL7UG.jpg" preview="com.plexapp.agents.imdb_e1df1b9e846f64da432b1fa20811b094283cd19d" sort_order="12" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/pVPcG7pUBgybF7c8zD8NTZejaJ6.jpg" preview="com.plexapp.agents.imdb_a3e7cea293910de8287c9b8a795471345f41d3cd" sort_order="13" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/pswS74pkJYl7TPlK3lfXHfPWmLb.jpg" preview="com.plexapp.agents.imdb_27850ca00c549a5a4da547ba0f7c0de1700cf122" sort_order="14" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/tKHQ2vnjC8oiRaEioRPf1fhzZKp.jpg" preview="com.plexapp.agents.imdb_07225bb0b2f96f5b500450f039e966bf31cba649" sort_order="15" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/93BBwaZ7rRQYjMR1Eixpc0P1wh0.jpg" preview="com.plexapp.agents.imdb_e98319cca17331ef42242dfa2880d7a846c19d37" sort_order="16" provider="com.plexapp.agents.imdb"/>
+  </posters>
+  <producers>
+    <item index="0">
+      <photo/>
+      <role/>
+      <name>Kevin De La Noy</name>
+    </item>
+    <item index="1">
+      <photo/>
+      <role/>
+      <name>Basil Iwanyk</name>
+    </item>
+    <item index="2">
+      <photo/>
+      <role/>
+      <name>Karl McMillan</name>
+    </item>
+  </producers>
+  <rating>2.8</rating>
+  <rating_image>rottentomatoes://image.rating.rotten</rating_image>
+  <audience_rating>3.9</audience_rating>
+  <audience_rating_image>rottentomatoes://image.rating.spilled</audience_rating_image>
+  <reviews>
+    <item index="0">
+      <text>The clashing titans in Clash of the Titans are a pretty sorry lot.</text>
+      <source>Christian Science Monitor</source>
+      <image>rottentomatoes://image.review.rotten</image>
+      <link>http://www.csmonitor.com/The-Culture/Movies/2010/0402/Clash-of-the-Titans-movie-review</link>
+      <author>Peter Rainer</author>
+    </item>
+    <item index="1">
+      <text>On July 10th, it will be released on Playstation 3 and Xbox 360, and only then, I feel, will it truly come into its own.</text>
+      <source>New Yorker</source>
+      <image>rottentomatoes://image.review.rotten</image>
+      <link>http://www.newyorker.com/arts/critics/cinema/2010/04/12/100412crci_cinema_lane</link>
+      <author>Anthony Lane</author>
+    </item>
+    <item index="2">
+      <text>It isn't a train wreck -- a train wreck would be memorable.</text>
+      <source>New York Magazine/Vulture</source>
+      <image>rottentomatoes://image.review.rotten</image>
+      <link>http://nymag.com/movies/reviews/65237/</link>
+      <author>David Edelstein</author>
+    </item>
+    <item index="3">
+      <text>Goofball clash with the actors providing plenty of ham to go with the cheesy story.</text>
+      <source>Richard Roeper.com</source>
+      <image>rottentomatoes://image.review.rotten</image>
+      <link>http://www.richardroeper.com/reviews/default.aspx</link>
+      <author>Richard Roeper</author>
+    </item>
+    <item index="4">
+      <text>There's little here to improve upon the stilted quality of the original, and it's even more cumbersomely plotted.</text>
+      <source>Globe and Mail</source>
+      <image>rottentomatoes://image.review.rotten</image>
+      <link>http://www.theglobeandmail.com/news/arts/movies/clash-of-the-titans-man-vs-gods-the-sequel/article1520441/</link>
+      <author>Liam Lacey</author>
+    </item>
+    <item index="5">
+      <text>There's not a lot of humor in this new Clash -- not intentional, anyway.</text>
+      <source>Houston Chronicle</source>
+      <image>rottentomatoes://image.review.rotten</image>
+      <link>http://www.chron.com/disp/story.mpl/ent/movies/mobile/6938314.html</link>
+      <author>Amy Biancolli</author>
+    </item>
+    <item index="6">
+      <text>Apparently the gods need better agents.</text>
+      <source>Detroit News</source>
+      <image>rottentomatoes://image.review.rotten</image>
+      <link>http://www.detnews.com/article/20100402/OPINION03/4020314/1034/ENT02/Review---Clash-of-the-Titans--deserves-wrath-of-Zeus</link>
+      <author>Tom Long</author>
+    </item>
+    <item index="7">
+      <text>The remake out this weekend largely does away with the stately Titans stuff, in favor of more clashing.</text>
+      <source>NPR</source>
+      <image>rottentomatoes://image.review.rotten</image>
+      <link>http://www.npr.org/templates/story/story.php?storyId=125348053</link>
+      <author>Bob Mondello</author>
+    </item>
+    <item index="8">
+      <text>The latest example of Hollywood's belief that any terrible script can be made palatable if you just throw enough money and British accents at it.</text>
+      <source>Washington Post</source>
+      <image>rottentomatoes://image.review.rotten</image>
+      <link>http://www.washingtonpost.com/gog/movies/clash-of-the-titans,1110681/critic-review.html</link>
+      <author>Dan Kois</author>
+    </item>
+    <item index="9">
+      <text>A roaring old-school action adventure for kids, with as many mythical beasts as a year at Hogwarts and a healthy dose of smiting without the crazed bloodlust of 300.</text>
+      <source>New York Post</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>http://www.nypost.com/p/entertainment/movies/titans_from_page_2tL3W3LX82UvY6PEJsilAP</link>
+      <author>Kyle Smith</author>
+    </item>
+    <item index="10">
+      <text>I liked it. This is a full-throttle action-adventure, played unapologetically straight.</text>
+      <source>TIME Magazine</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>http://www.time.com/time/arts/article/0,8599,1977333,00.html</link>
+      <author>Richard Corliss</author>
+    </item>
+    <item index="11">
+      <text>Clash of the Titans, which was directed by Louis Letterier, is strictly no-D.</text>
+      <source>Wall Street Journal</source>
+      <image>rottentomatoes://image.review.rotten</image>
+      <link>http://online.wsj.com/article/SB10001424052702304539404575157670137074944.html?mod=WSJ_ArtsEnt_LifestyleArtEnt_2</link>
+      <author>Joe Morgenstern</author>
+    </item>
+    <item index="12">
+      <text>If you're into Greek mythos, or action, or slightly cheesy (but knowing) humor, then this should prove an adequate source of entertainment.</text>
+      <source>Film.com</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>http://www.film.com/movies/clash-of-the-titans-remake/story/review-clash-titans-worthy-escape/32944517</link>
+      <author>Laremy Legel</author>
+    </item>
+    <item index="13">
+      <text>At the moment when Sam Worthington, trapped inside a giant scorpion, sword-hacked his way through the dorsal carapace and poked the upper half of his body through the opening as if it were a sunroof, I fell in love with Clash of the Titans.</text>
+      <source>Minneapolis Star Tribune</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>http://www.startribune.com/entertainment/movies/89706362.html?elr=KArksD:aDyaEP:kD:aUnc5PDiUiD3aPc:_Yyc:aULPQL7PQLanchO7DiUr</link>
+      <author>Colin Covert</author>
+    </item>
+    <item index="14">
+      <text>Avatar has taken a lot of heat for being weak on story and overly reliant on visual effects, but compared with this witless, chaotic mess of a movie, James Cameron's epic looks worthy of the ancient Greek authors...</text>
+      <source>Slate</source>
+      <image>rottentomatoes://image.review.rotten</image>
+      <link>http://www.slate.com/id/2249534/</link>
+      <author>Dana Stevens</author>
+    </item>
+  </reviews>
+  <roles>
+    <item index="0">
+      <photo>http://image.tmdb.org/t/p/original/9XzAE3ZnCnazub4xrSY8YBN7sNq.jpg</photo>
+      <role>Perseus</role>
+      <name>Sam Worthington</name>
+    </item>
+    <item index="1">
+      <photo>http://image.tmdb.org/t/p/original/9mdAohLsDu36WaXV2N3SQ388bvz.jpg</photo>
+      <role>Zeus</role>
+      <name>Liam Neeson</name>
+    </item>
+    <item index="2">
+      <photo>http://image.tmdb.org/t/p/original/d2vvUY7bzEbNRXInVVwuyHkN6Bz.jpg</photo>
+      <role>Hades</role>
+      <name>Ralph Fiennes</name>
+    </item>
+    <item index="3">
+      <photo>http://image.tmdb.org/t/p/original/54TEaa81gbWDBslZEq1M6oi1LGU.jpg</photo>
+      <role>Io</role>
+      <name>Gemma Arterton</name>
+    </item>
+    <item index="4">
+      <photo>http://image.tmdb.org/t/p/original/kzzQoiO3bbi2UeDJL9QtBT5jaQn.jpg</photo>
+      <role>Calibos / Acrisius</role>
+      <name>Jason Flemyng</name>
+    </item>
+    <item index="5">
+      <photo>http://image.tmdb.org/t/p/original/bJdj6tFQok9OEZ63lu7bSKJwqWm.jpg</photo>
+      <role>Andromeda</role>
+      <name>Alexa Davalos</name>
+    </item>
+    <item index="6">
+      <photo>http://image.tmdb.org/t/p/original/t9Q5Hwaeh8kbYapEGISrpZgVWks.jpg</photo>
+      <role>Danae</role>
+      <name>Tine Stapelfeldt</name>
+    </item>
+    <item index="7">
+      <photo>http://image.tmdb.org/t/p/original/8F1dY2rjZ1YDEKH0imDs21xdTDX.jpg</photo>
+      <role>Draco</role>
+      <name>Mads Mikkelsen</name>
+    </item>
+    <item index="8">
+      <photo>http://image.tmdb.org/t/p/original/1d31uDYub8TaLOPWfgX78OotduD.jpg</photo>
+      <role>Apollo</role>
+      <name>Luke Evans</name>
+    </item>
+    <item index="9">
+      <photo>http://image.tmdb.org/t/p/original/lprtuEFB96FaqfJSWkEvYO4AFm4.jpg</photo>
+      <role>Athena</role>
+      <name>Izabella Miko</name>
+    </item>
+    <item index="10">
+      <photo>http://image.tmdb.org/t/p/original/8RMX0M8AEaldVAC6WUJIViUdDkm.jpg</photo>
+      <role>Solon</role>
+      <name>Liam Cunningham</name>
+    </item>
+    <item index="11">
+      <photo>http://image.tmdb.org/t/p/original/hisJxdkxE6IslbAOJc7ptHt0teQ.jpg</photo>
+      <role>Ixas</role>
+      <name>Hans Matheson</name>
+    </item>
+    <item index="12">
+      <photo>http://image.tmdb.org/t/p/original/oqu4Ra8jfKvKoeOtVZiWoNvfvji.jpg</photo>
+      <role>Ozal</role>
+      <name>Ashraf Barhom</name>
+    </item>
+    <item index="13">
+      <photo>http://image.tmdb.org/t/p/original/oNsblO8sTFRuQ5pR8kgVYjEPovr.jpg</photo>
+      <role>Kucuk</role>
+      <name>Mouloud Achour</name>
+    </item>
+    <item index="14">
+      <photo>http://image.tmdb.org/t/p/original/6mRY7hTtHfDTGuTLmZmODOu9buF.jpg</photo>
+      <role>Sheikh Sulieman</role>
+      <name>Ian Whyte</name>
+    </item>
+    <item index="15">
+      <photo>http://image.tmdb.org/t/p/original/tiyjPHwmX8dMMfx0F8HUpXyLHeY.jpg</photo>
+      <role>Kepheus</role>
+      <name>Vincent Regan</name>
+    </item>
+    <item index="16">
+      <photo>http://image.tmdb.org/t/p/original/nUYl7W4QcO9ud2ig6qvLQ2qs0HZ.jpg</photo>
+      <role>Cassiopeia</role>
+      <name>Polly Walker</name>
+    </item>
+    <item index="17">
+      <photo>http://image.tmdb.org/t/p/original/TitiF5bdbrj9sn3vHve8XcfO8j.jpg</photo>
+      <role>Prokopion</role>
+      <name>Luke Treadaway</name>
+    </item>
+    <item index="18">
+      <photo>http://image.tmdb.org/t/p/original/5nbSzrwyDcLhC15buncGdrQqJ8e.jpg</photo>
+      <role>Spyros</role>
+      <name>Pete Postlethwaite</name>
+    </item>
+    <item index="19">
+      <photo>http://image.tmdb.org/t/p/original/egt1d836NcYDTeiokz5Im8gHU4r.jpg</photo>
+      <role>Marmara</role>
+      <name>Elizabeth McGovern</name>
+    </item>
+    <item index="20">
+      <photo>http://image.tmdb.org/t/p/original/zYNJIN6fEXAkLz2APQduYxvGxI1.jpg</photo>
+      <role>Bello</role>
+      <name>Rory McCann</name>
+    </item>
+    <item index="21">
+      <photo>http://image.tmdb.org/t/p/original/qoc3rrvD6Xzbpl7WhMv3ZqmCBKx.jpg</photo>
+      <role>Peshet</role>
+      <name>Kaya Scodelario</name>
+    </item>
+    <item index="22">
+      <photo>http://image.tmdb.org/t/p/original/1jkAlWAdki5dJQa2LEyOhtHLwtM.jpg</photo>
+      <role>Hermes</role>
+      <name>Alexander Siddig</name>
+    </item>
+    <item index="23">
+      <photo>http://image.tmdb.org/t/p/original/jc1eGtCShQ2ZkzqWApiWbA1lbTF.jpg</photo>
+      <role>Poseidon</role>
+      <name>Danny Huston</name>
+    </item>
+    <item index="24">
+      <photo>http://image.tmdb.org/t/p/original/un0VvhovoBZrj4uDGRjVkHAzNWL.jpg</photo>
+      <role>Harbourmaster</role>
+      <name>Phil McKee</name>
+    </item>
+    <item index="25">
+      <photo>http://image.tmdb.org/t/p/original/A629zp0dSA0p7Hh1wasoi2y0t54.jpg</photo>
+      <role>Citizen (Argos)</role>
+      <name>Laura Kachergus</name>
+    </item>
+    <item index="26">
+      <photo>http://image.tmdb.org/t/p/original/refiQ4V3hLc9xzBwCbemVrXXpNB.jpg</photo>
+      <role>Kepheus' General</role>
+      <name>David Kennedy</name>
+    </item>
+    <item index="27">
+      <photo>http://image.tmdb.org/t/p/original/mD25b2UmlSNyW5q5yz5BCXEY9u.jpg</photo>
+      <role>Hera</role>
+      <name>Nina Young</name>
+    </item>
+    <item index="28">
+      <photo>http://image.tmdb.org/t/p/original/9x1Mtvsj3QvA8yVhYN7tzdSp5oM.jpg</photo>
+      <role>Hestia</role>
+      <name>Jane March</name>
+    </item>
+    <item index="29">
+      <photo>http://image.tmdb.org/t/p/original/mJQhHBYjVEScwyyhrV0byiox6AQ.jpg</photo>
+      <role>Artemis</role>
+      <name>Nathalie Cox</name>
+    </item>
+    <item index="30">
+      <photo>http://image.tmdb.org/t/p/original/7c3mQs3cfEhgrcYZBrIIGbJZ21V.jpg</photo>
+      <role>Aphrodite</role>
+      <name>Agyness Deyn</name>
+    </item>
+    <item index="31">
+      <photo>http://image.tmdb.org/t/p/original/o2uc6m5JQemqsQQQpavuueR0Bex.jpg</photo>
+      <role>Medusa</role>
+      <name>Natalia Vodianova</name>
+    </item>
+    <item index="32">
+      <photo>http://image.tmdb.org/t/p/original/iRFnlBIqJC0UqV7rhWykrrXN5H.jpg</photo>
+      <role>Demeter</role>
+      <name>Charlotte Comer</name>
+    </item>
+    <item index="33">
+      <photo>http://image.tmdb.org/t/p/original/27NbnWKzco1CCDHtR2AVVab8Dli.jpg</photo>
+      <role>Eusebios</role>
+      <name>Nicholas Hoult</name>
+    </item>
+    <item index="34">
+      <photo>http://image.tmdb.org/t/p/original/r21cSJD3FeGsCjosFyY4vKMvKPS.jpg</photo>
+      <role>Aged Cassiopeia</role>
+      <name>Katherine Loeppky</name>
+    </item>
+  </roles>
+  <similar>
+    <item index="0">Wrath of the Titans</item>
+    <item index="1">Prince of Persia: The Sands of Time</item>
+    <item index="2">G.I. Joe: The Rise of Cobra</item>
+    <item index="3">Fantastic 4: Rise of the Silver Surfer</item>
+    <item index="4">John Carter</item>
+    <item index="5">Immortals</item>
+    <item index="6">The Mummy: Tomb of the Dragon Emperor</item>
+    <item index="7">Transformers: Revenge of the Fallen</item>
+    <item index="8">Underworld: Evolution</item>
+    <item index="9">Battleship</item>
+    <item index="10">The Mummy Returns</item>
+    <item index="11">The A-Team</item>
+    <item index="12">Transformers: Dark of the Moon</item>
+    <item index="13">Underworld: Rise of the Lycans</item>
+    <item index="14">Van Helsing</item>
+    <item index="15">Terminator Salvation</item>
+    <item index="16">Hellboy II: The Golden Army</item>
+    <item index="17">Battle: Los Angeles</item>
+    <item index="18">Ghost Rider</item>
+    <item index="19">The Expendables</item>
+  </similar>
+  <studio>The Zanuck Company</studio>
+  <summary>Born of a god but raised as a man, Perseus is helpless to save his family from Hades, vengeful god of the underworld. With nothing to lose, Perseus volunteers to lead a dangerous mission to defeat Hades before he can seize power from Zeus and unleash hell on earth. Battling unholy demons and fearsome beasts, Perseus and his warriors will only survive if Perseus accepts his power as a god, defies fate and creates his own destiny.</summary>
+  <tagline>Titans will clash.</tagline>
+  <tags/>
+  <themes/>
+  <title>Clash of the Titans</title>
+  <writers>
+    <item index="0">
+      <photo>http://image.tmdb.org/t/p/original/hhqDtKmn46Cho8Wy7mJBzjCqxAf.jpg</photo>
+      <role/>
+      <name>Travis Beacham</name>
+    </item>
+    <item index="1">
+      <photo/>
+      <role/>
+      <name>Phil Hay</name>
+    </item>
+    <item index="2">
+      <photo/>
+      <role/>
+      <name>Matt Manfredi</name>
+    </item>
+  </writers>
+  <year>2010</year>
+</Movie>

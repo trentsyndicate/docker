@@ -1,0 +1,611 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Movie id="tt0048028">
+  <rating>8.6</rating>
+  <title_sort/>
+  <art>
+    <item external="True" url="http://image.tmdb.org/t/p/original/u7i1XtbOubq0xwRy2Zbgmox6g9W.jpg" preview="37d9db617e19de1ce43d79d476de3d31d92977a1" sort_order="1"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/4woQ3uW96RzfJT4ozJTV8s6t6PQ.jpg" preview="bfecdfe48a341ff8a1f9550b96b5665b865f148a" sort_order="2"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/zsyeRF96SQO1eup5oYFlzyg3vMc.jpg" preview="0776e2be2f7a3a1e50ce179933d3efc425c336a5" sort_order="3"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/sbfxykfUAmq9FjJXOhPPQRkMdkI.jpg" preview="07d4a49aeae6d542c653ac9ee5dad398833174bc" sort_order="4"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/ogL3cNMaj61ToePxxWtHvsXXSlr.jpg" preview="69635218ebea58f62b525120eda2e8a5f271397a" sort_order="5"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/mfDuURGdxMuc1QQNCurJNKcxJSy.jpg" preview="aafb7f57378fb5bcea6a7e45c3e0eaf2d10c9c69" sort_order="6"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/x2FsdYPCbKSA3wlch23isutxWYu.jpg" preview="7290d6482941cf1e2230cc16a7c00e1a8e44f28b" sort_order="7"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/aTvKv3SkWCjfcUyNISWtbRBcEHk.jpg" preview="002dfbe3a71d44294087f1c08c2b6aebbbe75ef6" sort_order="8"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/96ldgB7nEiRU3sIz3FytJgBkv2p.jpg" preview="b1a73ac527f54c3809aa28ebce78744adc79fd5c" sort_order="9"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/fsxxDy1xCWqGH1leSfcwuz3wGlH.jpg" preview="01cfa04e82276aa4175a2cd31e3287a808fd54e6" sort_order="10"/>
+  </art>
+  <writers>
+    <item index="0">
+      <photo>http://image.tmdb.org/t/p/original/mhzi6DAOsdFcqlED59NV0T2KHAG.jpg</photo>
+      <role/>
+      <name>John Steinbeck</name>
+    </item>
+    <item index="1">
+      <photo/>
+      <role/>
+      <name>Paul Osborn</name>
+    </item>
+  </writers>
+  <chapters>
+    <item index="0">
+      <title>Overture</title>
+      <end_time_offset>182000</end_time_offset>
+      <start_time_offset>0</start_time_offset>
+    </item>
+    <item index="1">
+      <title>Credits and Forward</title>
+      <end_time_offset>292000</end_time_offset>
+      <start_time_offset>182000</start_time_offset>
+    </item>
+    <item index="2">
+      <title>Kate's Follower</title>
+      <end_time_offset>662000</end_time_offset>
+      <start_time_offset>292000</start_time_offset>
+    </item>
+    <item index="3">
+      <title>Not Interested</title>
+      <end_time_offset>957000</end_time_offset>
+      <start_time_offset>662000</start_time_offset>
+    </item>
+    <item index="4">
+      <title>The icehouse</title>
+      <end_time_offset>1143000</end_time_offset>
+      <start_time_offset>957000</start_time_offset>
+    </item>
+    <item index="5">
+      <title>Talk to me, father</title>
+      <end_time_offset>1495000</end_time_offset>
+      <start_time_offset>1143000</start_time_offset>
+    </item>
+    <item index="6">
+      <title>Kate's place</title>
+      <end_time_offset>1738000</end_time_offset>
+      <start_time_offset>1495000</start_time_offset>
+    </item>
+    <item index="7">
+      <title>Talk to me, mother</title>
+      <end_time_offset>1864000</end_time_offset>
+      <start_time_offset>1738000</start_time_offset>
+    </item>
+    <item index="8">
+      <title>Parental backstory</title>
+      <end_time_offset>2191000</end_time_offset>
+      <start_time_offset>1864000</start_time_offset>
+    </item>
+    <item index="9">
+      <title>The lettuce fields</title>
+      <end_time_offset>2700000</end_time_offset>
+      <start_time_offset>2191000</start_time_offset>
+    </item>
+    <item index="10">
+      <title>Hard lessons</title>
+      <end_time_offset>2951000</end_time_offset>
+      <start_time_offset>2700000</start_time_offset>
+    </item>
+    <item index="11">
+      <title>Full of beans</title>
+      <end_time_offset>3168000</end_time_offset>
+      <start_time_offset>2951000</start_time_offset>
+    </item>
+    <item index="12">
+      <title>Business proposition</title>
+      <end_time_offset>3578000</end_time_offset>
+      <start_time_offset>3168000</start_time_offset>
+    </item>
+    <item index="13">
+      <title>"He tried to hold me!"</title>
+      <end_time_offset>3823000</end_time_offset>
+      <start_time_offset>3578000</start_time_offset>
+    </item>
+    <item index="14">
+      <title>Enlist parade</title>
+      <end_time_offset>4010000</end_time_offset>
+      <start_time_offset>3823000</start_time_offset>
+    </item>
+    <item index="15">
+      <title>Warring and waiting</title>
+      <end_time_offset>4162000</end_time_offset>
+      <start_time_offset>4010000</start_time_offset>
+    </item>
+    <item index="16">
+      <title>The carnival</title>
+      <end_time_offset>4398000</end_time_offset>
+      <start_time_offset>4162000</start_time_offset>
+    </item>
+    <item index="17">
+      <title>Ferris wheel confession</title>
+      <end_time_offset>4642000</end_time_offset>
+      <start_time_offset>4398000</start_time_offset>
+    </item>
+    <item index="18">
+      <title>Anti-German hysteria</title>
+      <end_time_offset>4882000</end_time_offset>
+      <start_time_offset>4642000</start_time_offset>
+    </item>
+    <item index="19">
+      <title>Brothers at odds</title>
+      <end_time_offset>5083000</end_time_offset>
+      <start_time_offset>4882000</start_time_offset>
+    </item>
+    <item index="20">
+      <title>Calling in the night</title>
+      <end_time_offset>5350000</end_time_offset>
+      <start_time_offset>5083000</start_time_offset>
+    </item>
+    <item index="21">
+      <title>Birthday presents</title>
+      <end_time_offset>5795000</end_time_offset>
+      <start_time_offset>5350000</start_time_offset>
+    </item>
+    <item index="22">
+      <title>Look at the truth</title>
+      <end_time_offset>5988000</end_time_offset>
+      <start_time_offset>5795000</start_time_offset>
+    </item>
+    <item index="23">
+      <title>Hello to your mother</title>
+      <end_time_offset>6110000</end_time_offset>
+      <start_time_offset>5988000</start_time_offset>
+    </item>
+    <item index="24">
+      <title>No more forgiveness</title>
+      <end_time_offset>6276000</end_time_offset>
+      <start_time_offset>6110000</start_time_offset>
+    </item>
+    <item index="25">
+      <title>Aron's farewell</title>
+      <end_time_offset>6373000</end_time_offset>
+      <start_time_offset>6276000</start_time_offset>
+    </item>
+    <item index="26">
+      <title>Prognosis</title>
+      <end_time_offset>6511000</end_time_offset>
+      <start_time_offset>6373000</start_time_offset>
+    </item>
+    <item index="27">
+      <title>Abra's plea</title>
+      <end_time_offset>6754000</end_time_offset>
+      <start_time_offset>6511000</start_time_offset>
+    </item>
+    <item index="28">
+      <title>Take care of me</title>
+      <end_time_offset>-1</end_time_offset>
+      <start_time_offset>6754000</start_time_offset>
+    </item>
+  </chapters>
+  <themes/>
+  <quotes/>
+  <year>1955</year>
+  <duration>7080000</duration>
+  <genres>
+    <item index="0">Drama</item>
+  </genres>
+  <title>East of Eden</title>
+  <tagline>Of what a girl did . . . what a boy did ... of ecstasy and revenge!</tagline>
+  <content_rating_age/>
+  <rating_count/>
+  <collections/>
+  <trivia/>
+  <tags/>
+  <audience_rating_image>rottentomatoes://image.rating.upright</audience_rating_image>
+  <rating_image>rottentomatoes://image.rating.ripe</rating_image>
+  <producers>
+    <item index="0">
+      <photo>http://image.tmdb.org/t/p/original/tA1PtsKswBEL5bPLcKeToDIRm8K.jpg</photo>
+      <role/>
+      <name>Elia Kazan</name>
+    </item>
+  </producers>
+  <audience_rating>9.0</audience_rating>
+  <studio>Warner Bros. Pictures</studio>
+  <posters>
+    <item external="True" url="http://image.tmdb.org/t/p/original/hjH1uLOySpzgBdm1UQYjTV5yLav.jpg" preview="0e41b318e39b08e5948ef759a8b243aebc2b2eca" sort_order="1"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/z88iozVyx0O5tnjUla9Wv0TZXdv.jpg" preview="f967590b007ccd6ed6c56f162a30ca0c86bdf71b" sort_order="2"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/bqjzEaFznzLimhRtq3v51f3aFjq.jpg" preview="87e207dbaead7a8d521d4bf9ddda318c781e3525" sort_order="3"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/yBRJw6XjJE4Q7d6Fj4teHlU1f7u.jpg" preview="4eb197fdb02963d9271289d11033933787aaa857" sort_order="4"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/bt3uOmUSUSPe4gJOcaBjRLjyPNI.jpg" preview="b83ea47749a0cf18a47be857f947e221cf4c23fb" sort_order="5"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/4MXfPlVS5aY6FJlJ5Y0qXsPnNcy.jpg" preview="7483b46a488f181d98ed701b13951d35497dcebb" sort_order="6"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/AfeOMtaG3NqxDkvhLYmWydmODzp.jpg" preview="8f7181ac53fae0d7b17d37adb9c2bec131cce032" sort_order="7"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/qMHkzfmp9CLGbtjRf3M47cmEaZ6.jpg" preview="fa6b58983c3b3d6d9ead495ab77985ee0f24fd3a" sort_order="8"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/hyBElsEAHe8i9rDhbRPsu7fvlsK.jpg" preview="fcfcfbf9acf37d96a17008355cb01e603512d8c7" sort_order="9"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/fiJIhC6Lqh33dQLBmIw0jS9BYu4.jpg" preview="fb8a321fd99722c24b24ad3fe034543f490ead85" sort_order="10"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/zxIg3VHx8z0c5fyBsxQrCRNbUi4.jpg" preview="3c23ae33c5e9f0ab4aa4a082c4a2e683060c5797" sort_order="11"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/kq4r3HvE6TCDX0CA1sTXxfV1sM6.jpg" preview="3cddbc24a04675ec7a3d7f08a2834a8fb096de20" sort_order="12"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/9ddclOJ6ZVFB6s332PXjQOFno9z.jpg" preview="f5d4bda6d3b6cb1cd61dbb57566afc9d197c11da" sort_order="13"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/pugBgeSruFHtnfvn8BdWmPN7zJQ.jpg" preview="b32f579d764ecaebe80ef394febaa3e903b3e466" sort_order="14"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/d1bZokuL9e08Kqp0LkgOAPntzBA.jpg" preview="226a277d7b13c579f92fd64c78fca5c904041c01" sort_order="15"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/sjGjC6p2sjI4HhTbDQzMilnlTd7.jpg" preview="ad19e1bf472f19ed20562972d2cd080684812053" sort_order="16"/>
+  </posters>
+  <originally_available_at>1955-03-09</originally_available_at>
+  <roles>
+    <item index="0">
+      <photo>http://image.tmdb.org/t/p/original/aXH6h7YIEtMOE5SZQmr79nJguQt.jpg</photo>
+      <role>Caleb Trask</role>
+      <name>James Dean</name>
+    </item>
+    <item index="1">
+      <photo>http://image.tmdb.org/t/p/original/6NMUZcW1lwSgxaPnANIsmEuYLiF.jpg</photo>
+      <role>Abra Bacon</role>
+      <name>Julie Harris</name>
+    </item>
+    <item index="2">
+      <photo>http://image.tmdb.org/t/p/original/hGum9pfA0NOSD1CYXyG4TYc3upQ.jpg</photo>
+      <role>Adam Trask</role>
+      <name>Raymond Massey</name>
+    </item>
+    <item index="3">
+      <photo>http://image.tmdb.org/t/p/original/fQxCuObBh1hQ3CyTGerDHfshYFM.jpg</photo>
+      <role>Aron Trask</role>
+      <name>Richard Davalos</name>
+    </item>
+    <item index="4">
+      <photo>http://image.tmdb.org/t/p/original/ten759vBLpScDUP4FUSMBwQMWeE.jpg</photo>
+      <role>Kate Trask</role>
+      <name>Jo Van Fleet</name>
+    </item>
+    <item index="5">
+      <photo>http://image.tmdb.org/t/p/original/fx4W7qSBI5392uQL5Cv5a7lSuF4.jpg</photo>
+      <role>Sam the Sheriff</role>
+      <name>Burl Ives</name>
+    </item>
+    <item index="6">
+      <photo>http://image.tmdb.org/t/p/original/l6uhlP7tbyb3OVGUi3M6NceagBt.jpg</photo>
+      <role>Will Hamilton</role>
+      <name>Albert Dekker</name>
+    </item>
+    <item index="7">
+      <photo>http://image.tmdb.org/t/p/original/hYZx3vQ1KICO3Db5Cm89yT3pxZo.jpg</photo>
+      <role>Anne</role>
+      <name>Lois Smith</name>
+    </item>
+    <item index="8">
+      <photo/>
+      <role>Gustav Albrecht</role>
+      <name>Harold Gordon</name>
+    </item>
+    <item index="9">
+      <photo>http://image.tmdb.org/t/p/original/1iSpJEBq8lIWTBKCvgig08KkPmO.jpg</photo>
+      <role>Rantani</role>
+      <name>Nick Dennis</name>
+    </item>
+    <item index="10">
+      <photo>http://image.tmdb.org/t/p/original/6wTL7aAjJflARVwR9giIIQSJhLs.jpg</photo>
+      <role>Joe</role>
+      <name>Timothy Carey</name>
+    </item>
+    <item index="11">
+      <photo/>
+      <role>Townsman at Carnival (uncredited)</role>
+      <name>Abdullah Abbas</name>
+    </item>
+    <item index="12">
+      <photo>http://image.tmdb.org/t/p/original/fSYn9ESiVpuJtEuS67ttAGceEQW.jpg</photo>
+      <role>Townsman (uncredited)</role>
+      <name>Frank Baker</name>
+    </item>
+    <item index="13">
+      <photo>http://image.tmdb.org/t/p/original/l3oAuHTCEUghflItpS89sfsz8gL.jpg</photo>
+      <role>Townsman (uncredited)</role>
+      <name>Scott Seaton</name>
+    </item>
+    <item index="14">
+      <photo>http://image.tmdb.org/t/p/original/b3fdCrXnI20ZOuzTnvLc99EoudY.jpg</photo>
+      <role>Nurse (uncredited)</role>
+      <name>Barbara Baxley</name>
+    </item>
+    <item index="15">
+      <photo/>
+      <role>Coalman at Lettuce Field (uncredited)</role>
+      <name>John Beradino</name>
+    </item>
+    <item index="16">
+      <photo/>
+      <role>Townsman at Carnival (uncredited)</role>
+      <name>Joe Brooks</name>
+    </item>
+    <item index="17">
+      <photo/>
+      <role>Charlie - Townsman at Carnival (uncredited)</role>
+      <name>Jack Carr</name>
+    </item>
+    <item index="18">
+      <photo/>
+      <role>Townsman at Carnival (uncredited)</role>
+      <name>Wheaton Chambers</name>
+    </item>
+    <item index="19">
+      <photo/>
+      <role>Townsman at Carnival (uncredited)</role>
+      <name>Roger Creed</name>
+    </item>
+    <item index="20">
+      <photo/>
+      <role>Townsman at Carnival (uncredited)</role>
+      <name>Joe Dougherty</name>
+    </item>
+    <item index="21">
+      <photo>http://image.tmdb.org/t/p/original/zS52s740nZ2WA7kWIVMIy9N5uEl.jpg</photo>
+      <role>Townsman at Carnival (uncredited)</role>
+      <name>Franklyn Farnum</name>
+    </item>
+    <item index="22">
+      <photo/>
+      <role>Townsman at Carnival (uncredited)</role>
+      <name>Al Ferguson</name>
+    </item>
+    <item index="23">
+      <photo/>
+      <role>Townsman at Carnival (uncredited)</role>
+      <name>Robert Gardett</name>
+    </item>
+    <item index="24">
+      <photo/>
+      <role>Townsman at Carnival (uncredited)</role>
+      <name>Chief Leonard George</name>
+    </item>
+    <item index="25">
+      <photo>http://image.tmdb.org/t/p/original/gEhNTzAQ2EoZzpAQWMYQuOVkSpF.jpg</photo>
+      <role>Townsman at Carnival (uncredited)</role>
+      <name>John George</name>
+    </item>
+    <item index="26">
+      <photo/>
+      <role>Townswoman at Carnival (uncredited)</role>
+      <name>Effie Laird</name>
+    </item>
+    <item index="27">
+      <photo/>
+      <role>Townsman at Carnival (uncredited)</role>
+      <name>Billy Mahan</name>
+    </item>
+    <item index="28">
+      <photo>http://image.tmdb.org/t/p/original/gxc2CcFQybOwLeKFyJLav3GxeDP.jpg</photo>
+      <role>Rose - Townswoman at Carnival (uncredited)</role>
+      <name>Rose Plumer</name>
+    </item>
+    <item index="29">
+      <photo/>
+      <role>Townswoman at Carnival (uncredited)</role>
+      <name>Lillian West</name>
+    </item>
+    <item index="30">
+      <photo/>
+      <role>Townsman at Carnival (uncredited)</role>
+      <name>Chalky Williams</name>
+    </item>
+    <item index="31">
+      <photo>http://image.tmdb.org/t/p/original/pEhqjNb17zbPavYrY49gVhOis4E.jpg</photo>
+      <role>Roy Turner - Automobile Mechanic (uncredited)</role>
+      <name>Lonny Chapman</name>
+    </item>
+    <item index="32">
+      <photo/>
+      <role>Draft Board Member (uncredited)</role>
+      <name>Edward Clark</name>
+    </item>
+    <item index="33">
+      <photo>http://image.tmdb.org/t/p/original/gvWWu40cDWcRbhIwDjx7tyfsgJK.jpg</photo>
+      <role>Bouncer (uncredited)</role>
+      <name>Harry Cording</name>
+    </item>
+    <item index="34">
+      <photo>http://image.tmdb.org/t/p/original/l6iPmfBJvMLyTTcZkJZ4MNx1WaJ.jpg</photo>
+      <role>City Official at Parade (uncredited)</role>
+      <name>Lester Dorr</name>
+    </item>
+    <item index="35">
+      <photo/>
+      <role>Student (uncredited)</role>
+      <name>Cliff Fields</name>
+    </item>
+    <item index="36">
+      <photo>http://image.tmdb.org/t/p/original/fTMu94Uc70yYA8TT62L1CbJRCHi.jpg</photo>
+      <role>Student (uncredited)</role>
+      <name>Gail Kobe</name>
+    </item>
+    <item index="37">
+      <photo/>
+      <role>Student (uncredited)</role>
+      <name>Frank Mazzola</name>
+    </item>
+    <item index="38">
+      <photo/>
+      <role>Student (uncredited)</role>
+      <name>Ken Miller</name>
+    </item>
+    <item index="39">
+      <photo/>
+      <role>Student (uncredited)</role>
+      <name>Patricia Prest</name>
+    </item>
+    <item index="40">
+      <photo/>
+      <role>Student (uncredited)</role>
+      <name>Mickey Roth</name>
+    </item>
+    <item index="41">
+      <photo>http://image.tmdb.org/t/p/original/pKTK3aa34Xp1J6uQK3bLnAIjPoc.jpg</photo>
+      <role>Man at Boxcar (uncredited)</role>
+      <name>Robert Foulk</name>
+    </item>
+    <item index="42">
+      <photo>http://image.tmdb.org/t/p/original/8bFHKjb0VR6X3UhW2fyP27Khx9H.jpg</photo>
+      <role>Dr. Edwards (uncredited)</role>
+      <name>Richard Garrick</name>
+    </item>
+    <item index="43">
+      <photo/>
+      <role>City Official at Parade (uncredited)</role>
+      <name>John Halloran</name>
+    </item>
+    <item index="44">
+      <photo/>
+      <role>City Official at Parade (uncredited)</role>
+      <name>Charles Anthony Hughes</name>
+    </item>
+    <item index="45">
+      <photo/>
+      <role>City Official at Parade (uncredited)</role>
+      <name>Hal Taggart</name>
+    </item>
+    <item index="46">
+      <photo>http://image.tmdb.org/t/p/original/jKyiDmjWRz3PEIiyBG1PdZXbN07.jpg</photo>
+      <role>Piscora's Son (uncredited)</role>
+      <name>Jonathan Haze</name>
+    </item>
+    <item index="47">
+      <photo>http://image.tmdb.org/t/p/original/li4cu5zNbaHfjCMxukvIBwaTy2L.jpg</photo>
+      <role>English Officer (uncredited)</role>
+      <name>Ramsay Hill</name>
+    </item>
+    <item index="48">
+      <photo>http://image.tmdb.org/t/p/original/mKeL2o5SEu0DQHb94mTlVPibcFM.jpg</photo>
+      <role>Shooting Gallery Concessionaire (uncredited)</role>
+      <name>Earle Hodgins</name>
+    </item>
+    <item index="49">
+      <photo/>
+      <role>Trailer Narrator (voice) (uncredited)</role>
+      <name>Lou Marcelle</name>
+    </item>
+    <item index="50">
+      <photo/>
+      <role>Soldier (uncredited)</role>
+      <name>Edward McNally</name>
+    </item>
+    <item index="51">
+      <photo>http://image.tmdb.org/t/p/original/7c4i1XqGWrIV1DMNR7zkkBhvPkM.jpg</photo>
+      <role>Lettuce Truck Worker (uncredited)</role>
+      <name>Gil Perkins</name>
+    </item>
+    <item index="52">
+      <photo>http://image.tmdb.org/t/p/original/h6SbVyfLWte99zUZtwhxHELMYDk.jpg</photo>
+      <role>Coalman at Lettuce Fields / Man at Exercise Class (uncredited)</role>
+      <name>William 'Bill' Phillips</name>
+    </item>
+    <item index="53">
+      <photo>http://image.tmdb.org/t/p/original/lYFhu9W0Z1Sqjg417zXJtfXNEOR.jpg</photo>
+      <role>Prisoner (uncredited)</role>
+      <name>Julian Rivero</name>
+    </item>
+    <item index="54">
+      <photo/>
+      <role>Helper at Boxcar (uncredited)</role>
+      <name>Henry Rowland</name>
+    </item>
+    <item index="55">
+      <photo>http://image.tmdb.org/t/p/original/9grMCbCJKbfyLgFQK6XqkWOhZ12.jpg</photo>
+      <role>Milk Bottle Concessionaire at Carnival (uncredited)</role>
+      <name>Charles Sherlock</name>
+    </item>
+    <item index="56">
+      <photo/>
+      <role>Mr. Piscora (uncredited)</role>
+      <name>Mario Siletti</name>
+    </item>
+    <item index="57">
+      <photo/>
+      <role>Townsman in Parade / Townsman at Carnival (uncredited)</role>
+      <name>Sailor Vincent</name>
+    </item>
+    <item index="58">
+      <photo>http://image.tmdb.org/t/p/original/jGqPcA3iqvM9Qg9nMYm3f6ir5Db.jpg</photo>
+      <role>Workman (uncredited)</role>
+      <name>Max Wagner</name>
+    </item>
+    <item index="59">
+      <photo/>
+      <role>Official at Parade (uncredited)</role>
+      <name>Sam Harris</name>
+    </item>
+    <item index="60">
+      <photo>http://image.tmdb.org/t/p/original/ax2d7RI6kcHIzV6PBnoE7hafNbs.jpg</photo>
+      <role>Soldier in Train (uncredited)</role>
+      <name>Ralph Moratz</name>
+    </item>
+    <item index="61">
+      <photo/>
+      <role>Townsman at Carnival (uncredited)</role>
+      <name>Sid Troy</name>
+    </item>
+    <item index="62">
+      <photo/>
+      <role>Townsman (uncredited)</role>
+      <name>Tex Holden</name>
+    </item>
+  </roles>
+  <countries>
+    <item index="0">USA</item>
+  </countries>
+  <content_rating>PG</content_rating>
+  <original_title/>
+  <summary>In the Salinas Valley, in and around World War I, Cal Trask feels he must compete against overwhelming odds with his brother Aron for the love of their father Adam. Cal is frustrated at every turn, from his reaction to the war, to how to get ahead in business and in life, to how to relate to estranged mother.</summary>
+  <reviews>
+    <item index="0">
+      <text>It's far from a dull movie, but it's certainly a very strange one; it's an enshrinement of the mixed-up kid.</text>
+      <source>New Yorker</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>https://www.newyorker.com/goings-on-about-town/movies/east-of-eden</link>
+      <author>Pauline Kael</author>
+    </item>
+    <item index="1">
+      <text>John Steinbeck's painful biblical allegory -- Genesis replayed in Monterey, California, circa 1917 -- is more palatable on the screen, thanks to the down-to-earth performances of James Dean as Cal/Cain and Richard Davalos as Aron/Abel.</text>
+      <source>Chicago Reader</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>http://onfilm.chicagoreader.com/movies/capsules/2985_EAST_OF_EDEN</link>
+      <author>Dave Kehr</author>
+    </item>
+    <item index="2">
+      <text>It's a film of great performances, atmospheric photography, and a sure sense of period and place.</text>
+      <source>Time Out</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>http://www.timeout.com/film/reviews/63668/east_of_eden.html</link>
+      <author>Geoff Andrew</author>
+    </item>
+    <item index="3">
+      <text>Not only one of Kazan's richest films and Dean's first significant role, it is also arguably the actor's best performance.</text>
+      <source>Los Angeles Times</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>http://www.calendarlive.com/movies/turan/cl-et-deancapsules10jun10,0,15195.story</link>
+      <author>Kenneth Turan</author>
+    </item>
+    <item index="4">
+      <text>In short, there is energy and intensity but little clarity and emotion in this film. It is like a great, green iceberg: mammoth and imposing but very cold.</text>
+      <source>New York Times</source>
+      <image>rottentomatoes://image.review.rotten</image>
+      <link>http://movies.nytimes.com/movie/review?res=9C0DEFD6143EE53ABC4852DFB566838E649EDE&amp;partner=Rotten+Tomatoes</link>
+      <author>Bosley Crowther</author>
+    </item>
+  </reviews>
+  <directors>
+    <item index="0">
+      <photo>http://image.tmdb.org/t/p/original/tA1PtsKswBEL5bPLcKeToDIRm8K.jpg</photo>
+      <role/>
+      <name>Elia Kazan</name>
+    </item>
+  </directors>
+  <extras external="True" extension="xml"/>
+  <banners/>
+  <similar>
+    <item index="0">Giant</item>
+    <item index="1">Rebel Without a Cause</item>
+    <item index="2">Cat on a Hot Tin Roof</item>
+    <item index="3">Who's Afraid of Virginia Woolf?</item>
+    <item index="4">From Here to Eternity</item>
+    <item index="5">A Streetcar Named Desire</item>
+    <item index="6">A Place in the Sun</item>
+    <item index="7">To Have and Have Not</item>
+    <item index="8">On the Waterfront</item>
+    <item index="9">Splendor in the Grass</item>
+    <item index="10">The Grapes of Wrath</item>
+    <item index="11">The Philadelphia Story</item>
+    <item index="12">The Big Sleep</item>
+    <item index="13">Mr. Smith Goes to Washington</item>
+    <item index="14">The Best Years of Our Lives</item>
+    <item index="15">It Happened One Night</item>
+    <item index="16">Witness for the Prosecution</item>
+    <item index="17">The Lost Weekend</item>
+    <item index="18">The Last Picture Show</item>
+    <item index="19">The African Queen</item>
+  </similar>
+</Movie>

@@ -1,0 +1,480 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Movie>
+  <art>
+    <item external="True" url="http://image.tmdb.org/t/p/original/a7eSkK4bkLwKCXYDdYIqLxrqT2n.jpg" sort_order="1" provider="com.plexapp.agents.imdb" media="com.plexapp.agents.imdb_e63690c4b47a90827d57bb5599671e9cd44a8916"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/ojVpmX1G7S77Bu784341KssV4ws.jpg" preview="com.plexapp.agents.imdb_3a28af297646fef0bb92603515dc6db863aaf9bb" sort_order="2" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/yDvSnnGqkhEhbS6zUSTPRcbqepP.jpg" preview="com.plexapp.agents.imdb_888f4da76fe0270638213031f49f184a066d77b8" sort_order="3" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/iFspytXIGudh6OMIMeQxKM1zyUM.jpg" preview="com.plexapp.agents.imdb_241b0c8b23dd40d164d0a84bfee94a8c106ce514" sort_order="4" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/yNXDsJ5eNpBpGauQXJW2ral6qGj.jpg" preview="com.plexapp.agents.imdb_bc3e7b22a4f24ea2f288bf6380e287cbb34b8ed6" sort_order="5" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/i7cfiBGnOZNQcT4zRHqQx1XGVT8.jpg" preview="com.plexapp.agents.imdb_e1d6eadab5b386e121e2d63003d58bb157e8b64e" sort_order="6" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/lgANrCloNkDK5NFsD8JWbBuZ2Jw.jpg" preview="com.plexapp.agents.imdb_7b4d6f856f0c9fb861c81920d02399d727d4c1f8" sort_order="7" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/q8qalUykt2AOOlwMOk9t7QeP9RJ.jpg" preview="com.plexapp.agents.imdb_8a17e1d3560dc9779a66ec9b738d9b004038c08c" sort_order="8" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/8GwMVfq8Hsq1EFbw2MYJgSCAckb.jpg" preview="com.plexapp.agents.imdb_0e29822058846b9cbd45d55cdac8577972523b03" sort_order="9" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/xz0obFhpUCApn3fFdCSRKxogFGx.jpg" preview="com.plexapp.agents.imdb_c53d1d4618ddcedd1a90018475c1ca60b17ce5d0" sort_order="10" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/rvXLZOxirBiN8Iy6RmyNYcB5rtw.jpg" preview="com.plexapp.agents.imdb_477fc936429eece2e0f9e5090b0f6d827517c02e" sort_order="11" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/i9rKGuTRT94ypMtLD31jxV6ks76.jpg" preview="com.plexapp.agents.imdb_f23e827cf2e02ae587b984a5ef26cd384fac13ff" sort_order="12" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/hmp0cRktWbclnTBWeh2kURfA8Jh.jpg" preview="com.plexapp.agents.imdb_80c866e3dff71e816579ec6f5488fa249fa3067f" sort_order="13" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/WADvFcUbYGn6ZCjcnC1qcu3hro.jpg" preview="com.plexapp.agents.imdb_73e6e2c088e9499528959f1dccae7a456bbc4035" sort_order="14" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/wGeew3WKX7LlkhQghwS1eM4saP4.jpg" preview="com.plexapp.agents.imdb_bcb07a1ef7e79e249085bfde1c508bf16aecef8f" sort_order="15" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/ySlNP31Ba1gd7sEpYyS3LxexbuU.jpg" preview="com.plexapp.agents.imdb_3244ab862baa23a40522fe1aef1a142ec11e71a5" sort_order="16" provider="com.plexapp.agents.imdb"/>
+  </art>
+  <banners/>
+  <chapters>
+    <item index="0">
+      <title>Chapter 1</title>
+      <end_time_offset>641000</end_time_offset>
+      <start_time_offset>0</start_time_offset>
+    </item>
+    <item index="1">
+      <title>Chapter 2</title>
+      <end_time_offset>1267000</end_time_offset>
+      <start_time_offset>641000</start_time_offset>
+    </item>
+    <item index="2">
+      <title>Chapter 3</title>
+      <end_time_offset>1752000</end_time_offset>
+      <start_time_offset>1267000</start_time_offset>
+    </item>
+    <item index="3">
+      <title>Chapter 4</title>
+      <end_time_offset>2412000</end_time_offset>
+      <start_time_offset>1752000</start_time_offset>
+    </item>
+    <item index="4">
+      <title>Chapter 5</title>
+      <end_time_offset>3050000</end_time_offset>
+      <start_time_offset>2412000</start_time_offset>
+    </item>
+    <item index="5">
+      <title>Chapter 6</title>
+      <end_time_offset>3662000</end_time_offset>
+      <start_time_offset>3050000</start_time_offset>
+    </item>
+    <item index="6">
+      <title>Chapter 7</title>
+      <end_time_offset>4215000</end_time_offset>
+      <start_time_offset>3662000</start_time_offset>
+    </item>
+    <item index="7">
+      <title>Chapter 8</title>
+      <end_time_offset>4799000</end_time_offset>
+      <start_time_offset>4215000</start_time_offset>
+    </item>
+    <item index="8">
+      <title>Chapter 9</title>
+      <end_time_offset>5380000</end_time_offset>
+      <start_time_offset>4799000</start_time_offset>
+    </item>
+    <item index="9">
+      <title>Chapter 10</title>
+      <end_time_offset>6010000</end_time_offset>
+      <start_time_offset>5380000</start_time_offset>
+    </item>
+    <item index="10">
+      <title>Chapter 11</title>
+      <end_time_offset>6515000</end_time_offset>
+      <start_time_offset>6010000</start_time_offset>
+    </item>
+    <item index="11">
+      <title>Chapter 12</title>
+      <end_time_offset>6649000</end_time_offset>
+      <start_time_offset>6515000</start_time_offset>
+    </item>
+    <item index="12">
+      <title>Chapter 13</title>
+      <end_time_offset>-1</end_time_offset>
+      <start_time_offset>6649000</start_time_offset>
+    </item>
+  </chapters>
+  <collections/>
+  <content_rating>R</content_rating>
+  <countries>
+    <item index="0">USA</item>
+  </countries>
+  <directors>
+    <item index="0">
+      <photo>http://image.tmdb.org/t/p/original/lEyKmYizNVNLsOEgeaPFwX9MZoA.jpg</photo>
+      <role/>
+      <name>Shane Black</name>
+    </item>
+  </directors>
+  <duration>6960000</duration>
+  <genres>
+    <item index="0">Action</item>
+    <item index="1">Comedy</item>
+    <item index="2">Crime</item>
+    <item index="3">Drama</item>
+    <item index="4">Mystery</item>
+    <item index="5">Thriller</item>
+  </genres>
+  <originally_available_at>2016-05-15</originally_available_at>
+  <posters>
+    <item external="True" url="http://image.tmdb.org/t/p/original/vNCeqxbKyDHL9LUza03V2Im16wB.jpg" sort_order="1" provider="com.plexapp.agents.imdb" media="com.plexapp.agents.imdb_b6dadefd5283ce65439c0b4f0a8e825ce886c9e8"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/pbJ1vNwK9X6ZQm2vxarxcLJ0aGn.jpg" preview="com.plexapp.agents.imdb_b9a81f0d37ab272ddcdd338dde1834485f1b4cd4" sort_order="2" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/2o0EvhUiUvzNbrZgbZvXBen9TcL.jpg" preview="com.plexapp.agents.imdb_a787aa7c1c3a42ebabb67f7639782bbc09c8cfeb" sort_order="3" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/clq4So9spa9cXk3MZy2iMdqkxP2.jpg" preview="com.plexapp.agents.imdb_04a763bd737af1bf2e6fe94af27caf1414de044e" sort_order="4" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/heRpVAy5yhBd11GRyiI6DbdZMxc.jpg" preview="com.plexapp.agents.imdb_e2b82d454e860ee8b1fadd02fbcab7cbd586f7f8" sort_order="5" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/numY4SqGUmNrPB558Gzscmm4KXE.jpg" preview="com.plexapp.agents.imdb_e7634e62a62b81a43fe1da193506d1da90e5b7b7" sort_order="6" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/aeQIqfmO25nqBagvyersex0Kr3O.jpg" preview="com.plexapp.agents.imdb_70c96cba852f8cd6bdc69db26dbab3d3eb139e39" sort_order="7" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/nJf6UjoPn82xMs8E18WGM0jbTV3.jpg" preview="com.plexapp.agents.imdb_f4f8240f1be588cbc5699d5c3fd56bbc0d2892e9" sort_order="8" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/taQzpqQs1jDloTKYEFe2f7kP9Q9.jpg" preview="com.plexapp.agents.imdb_eeb418c41581c63c43ab14aa2f3cdce4e1cdadc6" sort_order="9" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/qKoz79FbH2zeLfbDPopXUdiQQa9.jpg" preview="com.plexapp.agents.imdb_d78b2c0e32d7a2acc6e4038bbccea690ee068aac" sort_order="10" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/5kRMtrsqqfTouiFl87xyoYq2qsO.jpg" preview="com.plexapp.agents.imdb_1c8eaacbd4e9d2f9d8870a904064b5c3c542d638" sort_order="11" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/3OIkW25vnzCryjzgcpDtfb1UEoh.jpg" preview="com.plexapp.agents.imdb_fb8b06c6760c17c2ab177a4af2bc98713fe95ade" sort_order="12" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/xWMLXxm739pUGxO05HcOtYkuw34.jpg" preview="com.plexapp.agents.imdb_f8e9241c3d89775c0b4228389d2f10944670b583" sort_order="13" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/ecD35nDfjsxvDW5BtmK6YAaIkzF.jpg" preview="com.plexapp.agents.imdb_dc7aca5365c757ab35f3351a80afefd3d7c5e5c0" sort_order="14" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/763mFMZx635G7nr1BzC0Ymwdddg.jpg" preview="com.plexapp.agents.imdb_3f410d1ecda47719b7355d98ad2042860ec39482" sort_order="15" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/t8uPJphHSKNTB9mcSZar9RDAWGg.jpg" preview="com.plexapp.agents.imdb_5fab716ea753ffb2093d709fa60acb63f5f10042" sort_order="16" provider="com.plexapp.agents.imdb"/>
+  </posters>
+  <producers>
+    <item index="0">
+      <photo>http://image.tmdb.org/t/p/original/9BUSlPpIAEQYtRdzVrSXaivld04.jpg</photo>
+      <role/>
+      <name>Joel Silver</name>
+    </item>
+  </producers>
+  <rating>9.2</rating>
+  <rating_image>rottentomatoes://image.rating.ripe</rating_image>
+  <audience_rating>7.9</audience_rating>
+  <audience_rating_image>rottentomatoes://image.rating.upright</audience_rating_image>
+  <reviews>
+    <item index="0">
+      <text>For those attuned to its amiably sleazy vibe and sudden alternations between violence and slapstick, it offers a guiltily pleasurable way to pass an evening.</text>
+      <source>The Atlantic</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>http://www.theatlantic.com/entertainment/archive/2016/05/the-nice-guys-review/483605/</link>
+      <author>Christopher Orr</author>
+    </item>
+    <item index="1">
+      <text>The Nice Guys has a nice feel: just slick enough to keep from falling apart, just brutal enough to keep from seeming inconsequential.</text>
+      <source>New York Magazine/Vulture</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>http://www.vulture.com/2016/05/movie-review-the-nice-guys.html</link>
+      <author>David Edelstein</author>
+    </item>
+    <item index="2">
+      <text>Why see this film? Partly because of the leading men, but mainly because of a girl.</text>
+      <source>New Yorker</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>http://www.newyorker.com/magazine/2016/05/23/the-nice-guys-and-love-and-friendship</link>
+      <author>Anthony Lane</author>
+    </item>
+    <item index="3">
+      <text>It has the byzantine plot of an L.A. noir, but races through it with the breathless energy of Black's other work.</text>
+      <source>NPR</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>http://www.npr.org/2016/05/19/478676009/crowe-and-gosling-bumble-appealingly-through-the-nice-guys</link>
+      <author>Scott Tobias</author>
+    </item>
+    <item index="4">
+      <text>You won't see Captain America and Iron Man squaring off at an airport, but you do get Russell Crowe breaking Ryan Gosling's arm and then cheerfully downing a Yoo-hoo.</text>
+      <source>Us Weekly</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>http://www.usmagazine.com/entertainment/news/the-nice-guys-review-ryan-goslings-comedy-is-a-clever-potboiler-w207133</link>
+      <author>Mara Reinstein</author>
+    </item>
+    <item index="5">
+      <text>It's all delightfully fizzy, bloody fun - even if there's the teeniest, tiniest hint of sequel ambitions.</text>
+      <source>Globe and Mail</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>http://www.theglobeandmail.com/arts/film/film-reviews/its-all-delightfully-fizzy-bloody-fun-in-the-nice-guys/article30096159/</link>
+      <author>Barry Hertz</author>
+    </item>
+    <item index="6">
+      <text>"The Nice Guys" flies high on the chemistry between Gosling and Crowe, and Black gives them plenty to chew on. It's a gourmet summer treat. Nice, guys.</text>
+      <source>Detroit News</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>http://www.detroitnews.com/story/entertainment/movies/2016/05/19/movie-review-gosling-crowe-chemistry-makes-nice-guys-soar/84636402/</link>
+      <author>Adam Graham</author>
+    </item>
+    <item index="7">
+      <text>It creates great on-screen chemistry between Gosling and Crowe - as brute adversaries who partner up as private eyes to solve a criminal conspiracy. And it blows your mind with its sense of absurdity - even while making the crime caper count.</text>
+      <source>Toronto Sun</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>http://www.torontosun.com/2016/05/19/the-nice-guys-review-gosling-crowe-bromance-hits-comedic-jackpot</link>
+      <author>Bruce Kirkland</author>
+    </item>
+    <item index="8">
+      <text>Because this is set in Los Angeles in the 1970s, we're supposed to think back to Chinatown and The Long Goodbye and excuse the opaque plot, around which Black's eccentric gags float like seasoned croutons in bland soup.</text>
+      <source>Chicago Reader</source>
+      <image>rottentomatoes://image.review.rotten</image>
+      <link>http://www.chicagoreader.com/chicago/the-nice-guys/MovieTimes?oid=21956752</link>
+      <author>J. R. Jones</author>
+    </item>
+    <item index="9">
+      <text>For a movie predicated on slapstick forward momentum, we spend an awful lot of time driving backward.</text>
+      <source>Boston Globe</source>
+      <image>rottentomatoes://image.review.rotten</image>
+      <link>http://www.bostonglobe.com/arts/movies/2016/05/18/ryan-gosling-and-russell-crowe-are-double-team-doubleknit-the-nice-guys/xcplF47cwEaK7DRZP4fQPI/story.html</link>
+      <author>Ty Burr</author>
+    </item>
+    <item index="10">
+      <text>Though the plot here may be a confusing, multi-threaded mess ... it's occasionally offset by the exuberance with which Black blends splatter and slapstick, and the leeway he grants his two very game leads.</text>
+      <source>Los Angeles Times</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>http://www.latimes.com/entertainment/movies/la-et-mn-nice-guys-review-20160515-snap-story.html</link>
+      <author>Justin Chang</author>
+    </item>
+    <item index="11">
+      <text>It freshens the odd-couple formula with some nice period and father-daughter twists.</text>
+      <source>New York Post</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>http://nypost.com/2016/05/19/crowe-and-gosling-have-unlikely-chemistry-in-nice-guys/</link>
+      <author>Lou Lumenick</author>
+    </item>
+    <item index="12">
+      <text>Everything has its own illogic in "The Nice Guys," a consistently entertaining, frequently violent and generally slapdash action comedy directed by Shane Black.</text>
+      <source>Wall Street Journal</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>http://www.wsj.com/articles/the-nice-guys-review-mystery-and-mismatched-sleuths-1463681491</link>
+      <author>Joe Morgenstern</author>
+    </item>
+    <item index="13">
+      <text>Gosling and Crowe do have chemistry, and an obvious sense of humor which gets them far. They'd have gotten farther, though, if the movie, while at times hilarious, didn't have such an uneven feel.</text>
+      <source>Associated Press</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>http://hosted.ap.org/dynamic/stories/U/US_FILM_REVIEW_THE_NICE_GUYS?SITE=AP&amp;SECTION=HOME&amp;TEMPLATE=DEFAULT</link>
+      <author>Jocelyn Noveck</author>
+    </item>
+    <item index="14">
+      <text>The best thing The Nice Guys has going for it are two laid-back, easygoing, deeply likable performances by its stars.</text>
+      <source>The New Republic</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>https://newrepublic.com/article/133619/nice-guys-back-to-basics-buddy-cop-movie</link>
+      <author>Will Leitch</author>
+    </item>
+    <item index="15">
+      <text>Perhaps unfocused and off-balance at times, but conveying a sense of buoyancy that's as cheerfully contagious as it is freewheeling.</text>
+      <source>Washington Post</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>https://www.washingtonpost.com/goingoutguide/movies/ryan-gosling-proves-his-comic-chops-in-the-uneven-often-funny-the-nice-guys/2016/05/19/0718d1c8-1b52-11e6-b6e0-c53b7ef63b45_story.html</link>
+      <author>Ann Hornaday</author>
+    </item>
+    <item index="16">
+      <text>From my point of view it's not a great or especially fine movie, but a good near-miss.</text>
+      <source>Minneapolis Star Tribune</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>http://www.startribune.com/review-the-nice-guys-is-a-worthy-buddy-cop-farce-but-it-s-no-lethal-weapon/380128231/</link>
+      <author>Colin Covert</author>
+    </item>
+    <item index="17">
+      <text>Does it include scenes that some may find painful to watch? You bet. Will you be entertained? Thoroughly.</text>
+      <source>St. Louis Post-Dispatch</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>http://www.stltoday.com/entertainment/movies/reviews/article_3bf35cd7-49b3-5152-8e7a-c6492f8261a7.html</link>
+      <author>Calvin Wilson</author>
+    </item>
+    <item index="18">
+      <text>The Nice Guys borrows from noir traditions and pulp fiction, throwing a fresh coat of smart-alecky comedy over the whole thing.</text>
+      <source>Philadelphia Inquirer</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>http://www.philly.com/philly/entertainment/movies/20160520__The_Nice_Guys___Gosling_and_Crowe_find_a_cool_groove_in_smart-alecky_noir_buddy_pic.html</link>
+      <author>Steven Rea</author>
+    </item>
+    <item index="19">
+      <text>There's no reason why it shouldn't be both great fun and warmly human, but alas, it just isn't either.</text>
+      <source>San Diego Reader</source>
+      <image>rottentomatoes://image.review.rotten</image>
+      <link>http://www.sandiegoreader.com/movies/the-nice-guys/</link>
+      <author>Matthew Lickona</author>
+    </item>
+  </reviews>
+  <roles>
+    <item index="0">
+      <photo>http://image.tmdb.org/t/p/original/ktuOAyUHM2u2YPPChH8gAArxJ7b.jpg</photo>
+      <role>Jackson Healy</role>
+      <name>Russell Crowe</name>
+    </item>
+    <item index="1">
+      <photo>http://image.tmdb.org/t/p/original/5rOcicCrTCWye0O2S3dnbnWaCr1.jpg</photo>
+      <role>Holland March</role>
+      <name>Ryan Gosling</name>
+    </item>
+    <item index="2">
+      <photo>http://image.tmdb.org/t/p/original/5zf2Cr4p7KQEcSv7ZPSLfT2R7mR.jpg</photo>
+      <role>Holly March</role>
+      <name>Angourie Rice</name>
+    </item>
+    <item index="3">
+      <photo>http://image.tmdb.org/t/p/original/jvYzsP08M9H76eHu0k1ALdmNnoM.jpg</photo>
+      <role>John Boy</role>
+      <name>Matt Bomer</name>
+    </item>
+    <item index="4">
+      <photo>http://image.tmdb.org/t/p/original/mcjZQfO8yh4HltiyiSrrRqhOLzz.jpg</photo>
+      <role>Amelia Kuttner</role>
+      <name>Margaret Qualley</name>
+    </item>
+    <item index="5">
+      <photo>http://image.tmdb.org/t/p/original/4wsDc5bNsU7CNolFraPGTRdJfQR.jpg</photo>
+      <role>Tally</role>
+      <name>Yaya DaCosta</name>
+    </item>
+    <item index="6">
+      <photo>http://image.tmdb.org/t/p/original/nwAC9TgwRkj0Ritq93O8GeublyL.jpg</photo>
+      <role>Older Guy</role>
+      <name>Keith David</name>
+    </item>
+    <item index="7">
+      <photo>http://image.tmdb.org/t/p/original/xpv6NgpY0mDr5QSWjZLXy5KlFn9.jpg</photo>
+      <role>Judith Kuttner</role>
+      <name>Kim Basinger</name>
+    </item>
+    <item index="8">
+      <photo>http://image.tmdb.org/t/p/original/l7gVvAILEZch00Axn3u3joCPr85.jpg</photo>
+      <role>Blueface</role>
+      <name>Beau Knapp</name>
+    </item>
+    <item index="9">
+      <photo>http://image.tmdb.org/t/p/original/hYZx3vQ1KICO3Db5Cm89yT3pxZo.jpg</photo>
+      <role>Mrs. Glenn</role>
+      <name>Lois Smith</name>
+    </item>
+    <item index="10">
+      <photo>http://image.tmdb.org/t/p/original/1J4aJ4XgykTp2JrLS4JxDRua0KO.jpg</photo>
+      <role>Chet</role>
+      <name>Jack Kilmer</name>
+    </item>
+    <item index="11">
+      <photo>http://image.tmdb.org/t/p/original/oQUol6auzfA27GUELILGjK1C4TN.jpg</photo>
+      <role>Misty Mountains</role>
+      <name>Murielle Telio</name>
+    </item>
+    <item index="12">
+      <photo>http://image.tmdb.org/t/p/original/uZlp8AxdOlP2zU5hdTi3AlDZ92B.jpg</photo>
+      <role>Bergen Paulsen</role>
+      <name>Gil Gerard</name>
+    </item>
+    <item index="13">
+      <photo>http://image.tmdb.org/t/p/original/tcu4J8a6cpefCa55eZ9OWl8W4wG.jpg</photo>
+      <role>Jessica</role>
+      <name>Daisy Tahan</name>
+    </item>
+    <item index="14">
+      <photo/>
+      <role>Kid on Bike</role>
+      <name>Lance Valentine Butler</name>
+    </item>
+    <item index="15">
+      <photo>http://image.tmdb.org/t/p/original/zkjGHGH47wm8iNpnoyKBRW2LDV6.jpg</photo>
+      <role>Bobby</role>
+      <name>Ty Simpkins</name>
+    </item>
+    <item index="16">
+      <photo>http://image.tmdb.org/t/p/original/diJUQc3FWB0ol1MCBZQJsMZpMoK.jpg</photo>
+      <role>Bumble</role>
+      <name>Hannibal Buress</name>
+    </item>
+    <item index="17">
+      <photo>http://image.tmdb.org/t/p/original/dWA4Hsq8kkFXlmWERCoAh1OqK5M.jpg</photo>
+      <role>Red Thompson</role>
+      <name>Yvonne Zima</name>
+    </item>
+    <item index="18">
+      <photo>http://image.tmdb.org/t/p/original/eZNvAf6RaRs0bYrc6lzTzXXuBSC.jpg</photo>
+      <role>Officer McMillan</role>
+      <name>Gary Weeks</name>
+    </item>
+    <item index="19">
+      <photo>http://image.tmdb.org/t/p/original/x0SQaiiCwP0soHB39FNCTyMiyO6.jpg</photo>
+      <role>Pocahontas</role>
+      <name>Lexi Johnson</name>
+    </item>
+    <item index="20">
+      <photo>http://image.tmdb.org/t/p/original/2HypVqxIkpoNhLHxoMYBiDvvml7.jpg</photo>
+      <role>Perry the Lawyer</role>
+      <name>Steve Wilder</name>
+    </item>
+    <item index="21">
+      <photo>http://image.tmdb.org/t/p/original/7XBNY9kuWq1raAiKer66JHxmg54.jpg</photo>
+      <role>Tally-in-Porn</role>
+      <name>Karrueche Tran</name>
+    </item>
+    <item index="22">
+      <photo>http://image.tmdb.org/t/p/original/2bV5QPa1S6QOfB8weddVl2fRIQS.jpg</photo>
+      <role>Healy's Ex Wife</role>
+      <name>Joanne Spracklen</name>
+    </item>
+    <item index="23">
+      <photo>http://image.tmdb.org/t/p/original/g2XoDRTEA04IYWtUIPYiygDmkD.jpg</photo>
+      <role>Young Beauty</role>
+      <name>Cayla Brady</name>
+    </item>
+    <item index="24">
+      <photo>http://image.tmdb.org/t/p/original/kRqzMEY0ciy3dwtvyv9GKUvUCUd.jpg</photo>
+      <role>Reporter</role>
+      <name>Tammi Arender</name>
+    </item>
+    <item index="25">
+      <photo/>
+      <role>Fred's Widow</role>
+      <name>Rebecca Dalton Rusk</name>
+    </item>
+    <item index="26">
+      <photo>http://image.tmdb.org/t/p/original/7UR6TjMxxflajE0ormhoReccoNR.jpg</photo>
+      <role>Bourbon Bartender</role>
+      <name>Terence Rosemore</name>
+    </item>
+    <item index="27">
+      <photo>http://image.tmdb.org/t/p/original/udOX6K2ajXasSviz2ch0vySzzxH.jpg</photo>
+      <role>Stand Up Comic</role>
+      <name>Greg Lindsay</name>
+    </item>
+    <item index="28">
+      <photo/>
+      <role>Janet</role>
+      <name>Maddie Compton</name>
+    </item>
+    <item index="29">
+      <photo>http://image.tmdb.org/t/p/original/1YjdSym1jTG7xjHSI0yGGWEsw5i.jpg</photo>
+      <role>Sid Shattuck (uncredited)</role>
+      <name>Robert Downey Jr.</name>
+    </item>
+    <item index="30">
+      <photo>http://image.tmdb.org/t/p/original/cO6LUWV5gdDnnhFnHTK5d8WOOj6.jpg</photo>
+      <role>Bodyguard</role>
+      <name>Sala Baker</name>
+    </item>
+  </roles>
+  <similar>
+    <item index="0">The Big Short</item>
+    <item index="1">Sicario</item>
+    <item index="2">Hell or High Water</item>
+    <item index="3">Hail, Caesar!</item>
+    <item index="4">War Dogs</item>
+    <item index="5">10 Cloverfield Lane</item>
+    <item index="6">The Man from U.N.C.L.E.</item>
+    <item index="7">Midnight Special</item>
+    <item index="8">Popstar: Never Stop Never Stopping</item>
+    <item index="9">Keanu</item>
+    <item index="10">Spotlight</item>
+    <item index="11">Green Room</item>
+    <item index="12">Swiss Army Man</item>
+    <item index="13">Eddie the Eagle</item>
+    <item index="14">Legend</item>
+    <item index="15">The Accountant</item>
+    <item index="16">Money Monster</item>
+    <item index="17">Bridge of Spies</item>
+    <item index="18">Hunt for the Wilderpeople</item>
+    <item index="19">The Lobster</item>
+  </similar>
+  <studio>Warner Bros. Pictures</studio>
+  <summary>A private eye investigates the apparent suicide of a fading porn star in 1970s Los Angeles and uncovers a conspiracy.</summary>
+  <tagline>Private dicks</tagline>
+  <tags/>
+  <themes/>
+  <title>The Nice Guys</title>
+  <writers>
+    <item index="0">
+      <photo>http://image.tmdb.org/t/p/original/lEyKmYizNVNLsOEgeaPFwX9MZoA.jpg</photo>
+      <role/>
+      <name>Shane Black</name>
+    </item>
+    <item index="1">
+      <photo>http://image.tmdb.org/t/p/original/o0BEo7XZlTV9bKcEnM6KHDp4x5D.jpg</photo>
+      <role/>
+      <name>Anthony Bagarozzi</name>
+    </item>
+  </writers>
+  <year>2016</year>
+</Movie>

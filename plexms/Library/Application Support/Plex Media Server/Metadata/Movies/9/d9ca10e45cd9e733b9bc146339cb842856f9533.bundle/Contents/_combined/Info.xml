@@ -1,0 +1,810 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Movie>
+  <art>
+    <item external="True" url="http://image.tmdb.org/t/p/original/7Rnt2EOMiNGZzrDzImdckOTOsEr.jpg" sort_order="1" provider="com.plexapp.agents.imdb" media="com.plexapp.agents.imdb_d6ca93702ca2c9b6c11850095e6c1567491bdec4"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/hmmeABwz4MWH3eelrMpq97dU6Bw.jpg" preview="com.plexapp.agents.imdb_c9212e1959cd84f9a3eb4284f727686f9046abf7" sort_order="2" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/qHryw7hcO1Gcd7xQmJfDYPTgNLX.jpg" preview="com.plexapp.agents.imdb_08e2a9592feaa1600b23c0167e46d9637d45f4d6" sort_order="3" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/t02nGkipwMtUi6icNuyH9f3nAQP.jpg" preview="com.plexapp.agents.imdb_f2723fd5cf3d1359b72984fe806136e594796008" sort_order="4" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/i2FuF6PdZFKBi82Jd2k5K9oEdmP.jpg" preview="com.plexapp.agents.imdb_623aae780e20161f62ff21b804c4cdac98e6e163" sort_order="5" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/j4VshsIKhXdFdhvF9tLbpMB4r62.jpg" preview="com.plexapp.agents.imdb_b24e033271026ef3f50c6e451495db1f12135ccb" sort_order="6" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/8keBWXcI7cbQf1WeBBWxkIQhdky.jpg" preview="com.plexapp.agents.imdb_3442c0e1659dbac86ada77037a5d9b8c28d36f69" sort_order="7" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/y6l8wZ0k4QOoIGqGJ9t78ZdsQcr.jpg" preview="com.plexapp.agents.imdb_b990f2d5342078ab29d6ca930fdfbb39f1f2335f" sort_order="8" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/bUmUGc7uROjYqSpPdpiJb75GCI4.jpg" preview="com.plexapp.agents.imdb_94bb6f7b980359f4c6359ea55f07fd09b330e41e" sort_order="9" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/pWQVcPHkrZjaLE8dRm2haWaiJ1h.jpg" preview="com.plexapp.agents.imdb_1f328816c90b9ee279e54bc823849427f5498a42" sort_order="10" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/lClm97pR01mBTmmJpouyZvgNUuJ.jpg" preview="com.plexapp.agents.imdb_c7ab9860e7760df7d777b1b35444699a2008db7d" sort_order="11" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/2jQbbuYHBgeJUedXkEejOxBw1Sa.jpg" preview="com.plexapp.agents.imdb_5fe98f2662cddca13b06f54490936736de28bdce" sort_order="12" provider="com.plexapp.agents.imdb"/>
+  </art>
+  <banners/>
+  <chapters>
+    <item index="0">
+      <title>Logo / Prologue / Title</title>
+      <end_time_offset>347000</end_time_offset>
+      <start_time_offset>0</start_time_offset>
+    </item>
+    <item index="1">
+      <title>German Army H.Q.</title>
+      <end_time_offset>665000</end_time_offset>
+      <start_time_offset>347000</start_time_offset>
+    </item>
+    <item index="2">
+      <title>Browning's H.Q.</title>
+      <end_time_offset>1078000</end_time_offset>
+      <start_time_offset>665000</start_time_offset>
+    </item>
+    <item index="3">
+      <title>8 Miles From Arnhem</title>
+      <end_time_offset>1686000</end_time_offset>
+      <start_time_offset>1078000</start_time_offset>
+    </item>
+    <item index="4">
+      <title>Poor Projection</title>
+      <end_time_offset>2222000</end_time_offset>
+      <start_time_offset>1686000</start_time_offset>
+    </item>
+    <item index="5">
+      <title>"the Cavalry"</title>
+      <end_time_offset>2612000</end_time_offset>
+      <start_time_offset>2222000</start_time_offset>
+    </item>
+    <item index="6">
+      <title>Gurarantees</title>
+      <end_time_offset>2853000</end_time_offset>
+      <start_time_offset>2612000</start_time_offset>
+    </item>
+    <item index="7">
+      <title>Airborne</title>
+      <end_time_offset>3273000</end_time_offset>
+      <start_time_offset>2853000</start_time_offset>
+    </item>
+    <item index="8">
+      <title>Rod to Success?</title>
+      <end_time_offset>3817000</end_time_offset>
+      <start_time_offset>3273000</start_time_offset>
+    </item>
+    <item index="9">
+      <title>The Drop</title>
+      <end_time_offset>4065000</end_time_offset>
+      <start_time_offset>3817000</start_time_offset>
+    </item>
+    <item index="10">
+      <title>First Shots / Lunatics</title>
+      <end_time_offset>4366000</end_time_offset>
+      <start_time_offset>4065000</start_time_offset>
+    </item>
+    <item index="11">
+      <title>Further Frustrations</title>
+      <end_time_offset>4824000</end_time_offset>
+      <start_time_offset>4366000</start_time_offset>
+    </item>
+    <item index="12">
+      <title>The Son Bridge</title>
+      <end_time_offset>5186000</end_time_offset>
+      <start_time_offset>4824000</start_time_offset>
+    </item>
+    <item index="13">
+      <title>The Bridge at Arnhem</title>
+      <end_time_offset>5585000</end_time_offset>
+      <start_time_offset>5186000</start_time_offset>
+    </item>
+    <item index="14">
+      <title>Another Try at Dark</title>
+      <end_time_offset>6175000</end_time_offset>
+      <start_time_offset>5585000</start_time_offset>
+    </item>
+    <item index="15">
+      <title>Enem,Y Reinforcements</title>
+      <end_time_offset>6513000</end_time_offset>
+      <start_time_offset>6175000</start_time_offset>
+    </item>
+    <item index="16">
+      <title>Urquhart's Risk</title>
+      <end_time_offset>6776000</end_time_offset>
+      <start_time_offset>6513000</start_time_offset>
+    </item>
+    <item index="17">
+      <title>Fulfilling a Promise</title>
+      <end_time_offset>7019000</end_time_offset>
+      <start_time_offset>6776000</start_time_offset>
+    </item>
+    <item index="18">
+      <title>Bridge Building</title>
+      <end_time_offset>7364000</end_time_offset>
+      <start_time_offset>7019000</start_time_offset>
+    </item>
+    <item index="19">
+      <title>Battle at Arnhem</title>
+      <end_time_offset>7619000</end_time_offset>
+      <start_time_offset>7364000</start_time_offset>
+    </item>
+    <item index="20">
+      <title>The Supply Drop</title>
+      <end_time_offset>8157000</end_time_offset>
+      <start_time_offset>7619000</start_time_offset>
+    </item>
+    <item index="21">
+      <title>Kate / the Un-Surrender</title>
+      <end_time_offset>8389000</end_time_offset>
+      <start_time_offset>8157000</start_time_offset>
+    </item>
+    <item index="22">
+      <title>Julian Cook</title>
+      <end_time_offset>8956000</end_time_offset>
+      <start_time_offset>8389000</start_time_offset>
+    </item>
+    <item index="23">
+      <title>Rough Crossing</title>
+      <end_time_offset>9229000</end_time_offset>
+      <start_time_offset>8956000</start_time_offset>
+    </item>
+    <item index="24">
+      <title>Bridge Warfare</title>
+      <end_time_offset>9462000</end_time_offset>
+      <start_time_offset>9229000</start_time_offset>
+    </item>
+    <item index="25">
+      <title>Frost's Last Stand</title>
+      <end_time_offset>9639000</end_time_offset>
+      <start_time_offset>9462000</start_time_offset>
+    </item>
+    <item index="26">
+      <title>Germans on the Bridge</title>
+      <end_time_offset>9981000</end_time_offset>
+      <start_time_offset>9639000</start_time_offset>
+    </item>
+    <item index="27">
+      <title>Kate's Kindness</title>
+      <end_time_offset>-1</end_time_offset>
+      <start_time_offset>9981000</start_time_offset>
+    </item>
+  </chapters>
+  <collections/>
+  <content_rating>PG</content_rating>
+  <countries>
+    <item index="0">USA</item>
+  </countries>
+  <directors>
+    <item index="0">
+      <photo>http://image.tmdb.org/t/p/original/Abo8fAcdruACs344ut6PNSKH7N4.jpg</photo>
+      <role/>
+      <name>Richard Attenborough</name>
+    </item>
+  </directors>
+  <duration>10500000</duration>
+  <genres>
+    <item index="0">Drama</item>
+    <item index="1">History</item>
+    <item index="2">War</item>
+  </genres>
+  <originally_available_at>1977-06-15</originally_available_at>
+  <posters>
+    <item external="True" url="http://image.tmdb.org/t/p/original/ormdFwSHGVgsWdrzP5pRPaA6nme.jpg" sort_order="1" provider="com.plexapp.agents.imdb" media="com.plexapp.agents.imdb_ccc2f3f2763d4d1eeae00d8314a9fd5dac1ae0df"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/ko5wQFd7hG0v8xI47V681hTv1Hp.jpg" preview="com.plexapp.agents.imdb_aa5a54a34fedf961937fda2419ab879be36f1005" sort_order="2" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/zhfP6LW15r47haet6POpS7DIoo.jpg" preview="com.plexapp.agents.imdb_4f13ff7989968794cbbd452176bd4a757947c9be" sort_order="3" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/54u9ODV40bB0dcEQJvpylUBnNJV.jpg" preview="com.plexapp.agents.imdb_d9c35a6b871aa9dbf72df474dc70e6c6a0b0ddf5" sort_order="4" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/xpmtGgs4bkJtDpa1RigGmGVVQGu.jpg" preview="com.plexapp.agents.imdb_c4874bd9d8bf2de1463bbcbaafb225bd4227f607" sort_order="5" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/j4yNVhrw4BSBRypnryMusbefFpB.jpg" preview="com.plexapp.agents.imdb_46c636b2707c839b076d879c28f32774b140aa8b" sort_order="6" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/lszOk3Xmh7qpLaM9J4K9E6ADLk1.jpg" preview="com.plexapp.agents.imdb_a7d16425fb04f4ca263e7db1ce41cc39e4fd13cd" sort_order="7" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/zuEnbEoMNaelcmlFkBrsgEZS4ol.jpg" preview="com.plexapp.agents.imdb_632af1ecbd5c445901b1ae9af096be6a43a748f4" sort_order="8" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/wO8hvOe7SkLOBF4w79hr0LDMycz.jpg" preview="com.plexapp.agents.imdb_3680c9563f31b40e24299ee5791272417c32f8f5" sort_order="9" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/sWI20d1P5j3fnoJeQbL4VsOAG7U.jpg" preview="com.plexapp.agents.imdb_55d43c1f2da583d867c58a07c2284d74ddd8b213" sort_order="10" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/6lz7yf7w5SvWo9NJV8keopOcpn2.jpg" preview="com.plexapp.agents.imdb_d9b5dae533e027c0a3a65fef5421eaa574d59713" sort_order="11" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/dLNwoLTuAXBfne1YdBczcUxDRN.jpg" preview="com.plexapp.agents.imdb_1f002e41b5f0b2f11a6fed8f086c0f7c9228f5fc" sort_order="12" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/vBqPN7otG0B4kBDQi3IGBLHmrQY.jpg" preview="com.plexapp.agents.imdb_96441fbdf97f5d8c0198ff506c463859851ab38e" sort_order="13" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/2oNzkVe5PURwU7oQfRUTOWwbwb0.jpg" preview="com.plexapp.agents.imdb_474637f0753eec03efaee98b93cb3a623c3bcf96" sort_order="14" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/pG12dH1CvdDxjRvRwqtyaFU8GHZ.jpg" preview="com.plexapp.agents.imdb_1101377f831b3b1162158649370c08b6d65d3f5f" sort_order="15" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/rmKSBLH6eOUoyg97tNI8eOdBYG.jpg" preview="com.plexapp.agents.imdb_cc201188d7f962961f2fbe35d5a5cd9fd5946e01" sort_order="16" provider="com.plexapp.agents.imdb"/>
+  </posters>
+  <producers>
+    <item index="0">
+      <photo/>
+      <role/>
+      <name>Joseph E. Levine</name>
+    </item>
+    <item index="1">
+      <photo/>
+      <role/>
+      <name>Richard P. Levine</name>
+    </item>
+    <item index="2">
+      <photo/>
+      <role/>
+      <name>Michael Stanley-Evans</name>
+    </item>
+  </producers>
+  <rating>5.9</rating>
+  <rating_image>rottentomatoes://image.rating.rotten</rating_image>
+  <audience_rating>8.6</audience_rating>
+  <audience_rating_image>rottentomatoes://image.rating.upright</audience_rating_image>
+  <reviews>
+    <item index="0">
+      <text>The movie's big and expensive and filled with stars, but it's not an epic. It's the longest B-grade war movie ever made.</text>
+      <source>Chicago Sun-Times</source>
+      <image>rottentomatoes://image.review.rotten</image>
+      <link>https://www.rogerebert.com/reviews/a-bridge-too-far-1977</link>
+      <author>Roger Ebert</author>
+    </item>
+    <item index="1">
+      <text>It would seem impossible to go wrong with such an incredible, all-star cast - which makes A Bridge Too Far such a frustrating misfire (no pun intended).</text>
+      <source>ChristyLemire.com</source>
+      <image>rottentomatoes://image.review.rotten</image>
+      <link>http://christylemire.com/christy-by-request-a-bridge-too-far/</link>
+      <author>Christy Lemire</author>
+    </item>
+    <item index="2">
+      <text>Such an exercise in wretched excess, such a mindless series of routine scenes, such a boringly violent indulgence in blood and guts and moans.</text>
+      <source>RogerEbert.com</source>
+      <image>rottentomatoes://image.review.rotten</image>
+      <link>http://www.rogerebert.com/reviews/a-bridge-too-far-1977</link>
+      <author>Roger Ebert</author>
+    </item>
+    <item index="3">
+      <text>Futility and frustration are the overriding emotional elements in A Bridge Too Far, Joseph E. Levine's sprawling Second World War production.</text>
+      <source>Variety</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>http://variety.com/1976/film/reviews/a-bridge-too-far-1200424051/</link>
+      <author/>
+    </item>
+    <item index="4">
+      <text>An overworked, very old and very tired warhorse. Glossy, ponderous, predictable.</text>
+      <source>Time Out</source>
+      <image>rottentomatoes://image.review.rotten</image>
+      <link>https://www.timeout.com/london/film/a-bridge-too-far</link>
+      <author/>
+    </item>
+    <item index="5">
+      <text>Massive, shapeless, often unexpectedly moving, confusing, sad, vivid and very, very long.</text>
+      <source>New York Times</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>http://www.nytimes.com/movie/review?res=9C0DE7DC113FE334BC4E52DFB066838C669EDE</link>
+      <author>Vincent Canby</author>
+    </item>
+  </reviews>
+  <roles>
+    <item index="0">
+      <photo>http://image.tmdb.org/t/p/original/rIoedSTXnSooIh4zZV3K4M48gBh.jpg</photo>
+      <role>Lt. Gen. Frederick Browning</role>
+      <name>Dirk Bogarde</name>
+    </item>
+    <item index="1">
+      <photo>http://image.tmdb.org/t/p/original/lDUG4hn0H4vzmSbmLHZcVrAgWF1.jpg</photo>
+      <role>Sgt. Eddie Dohun</role>
+      <name>James Caan</name>
+    </item>
+    <item index="2">
+      <photo>http://image.tmdb.org/t/p/original/vvj0JMSFpOajXCE46Hy4dyqSP2U.jpg</photo>
+      <role>Lt. Col. John O.E. Vandeleur</role>
+      <name>Michael Caine</name>
+    </item>
+    <item index="3">
+      <photo>http://image.tmdb.org/t/p/original/ce84udJZ9QRSR44jxwK2apM3DM8.jpg</photo>
+      <role>Maj. Gen. Robert E. Urquhart</role>
+      <name>Sean Connery</name>
+    </item>
+    <item index="4">
+      <photo>http://image.tmdb.org/t/p/original/iNk3GvWMWm37PjsidHY9M6Unmwm.jpg</photo>
+      <role>Lt. Gen. Brian G. Horrocks</role>
+      <name>Edward Fox</name>
+    </item>
+    <item index="5">
+      <photo>http://image.tmdb.org/t/p/original/bo5jSwWyFRsKVAkELT9n7AKQqMk.jpg</photo>
+      <role>Col. Robert Stout</role>
+      <name>Elliott Gould</name>
+    </item>
+    <item index="6">
+      <photo>http://image.tmdb.org/t/p/original/oNlqdUXWzi8WdrG2ox7QJjGD7sA.jpg</photo>
+      <role>Maj. Gen. Stanislaw F. Sosabowski</role>
+      <name>Gene Hackman</name>
+    </item>
+    <item index="7">
+      <photo>http://image.tmdb.org/t/p/original/9ukJS2QWTJ22HcwR1ktMmoJ6RSL.jpg</photo>
+      <role>Lt. Col. John D. Frost</role>
+      <name>Anthony Hopkins</name>
+    </item>
+    <item index="8">
+      <photo>http://image.tmdb.org/t/p/original/3RhjxJ4ZzIzEzF6lP1HOVV3VT6z.jpg</photo>
+      <role>Generalmajor der Waffen-SS Karl Ludwig</role>
+      <name>Hardy Krüger</name>
+    </item>
+    <item index="9">
+      <photo>http://image.tmdb.org/t/p/original/n8jDSq91O95HSbtCJLRsM367kKx.jpg</photo>
+      <role>Dr. Jan Spaander</role>
+      <name>Laurence Olivier</name>
+    </item>
+    <item index="10">
+      <photo>http://image.tmdb.org/t/p/original/fTqIq5voXV1hQd3Ol4VtnUWy7j2.jpg</photo>
+      <role>Brig. Gen. James M. Gavin</role>
+      <name>Ryan O'Neal</name>
+    </item>
+    <item index="11">
+      <photo>http://image.tmdb.org/t/p/original/b4mJIBWvEyzB8yyZWbmvfzwrdtp.jpg</photo>
+      <role>Maj. Julian Cook</role>
+      <name>Robert Redford</name>
+    </item>
+    <item index="12">
+      <photo>http://image.tmdb.org/t/p/original/1KqKnArTDYz6L6M8h9nN4RLP8YE.jpg</photo>
+      <role>General der Waffen-SS Wilhelm Bittrich</role>
+      <name>Maximilian Schell</name>
+    </item>
+    <item index="13">
+      <photo>http://image.tmdb.org/t/p/original/5u8fikv8ANDx5FJhLtvhZmBZtRa.jpg</photo>
+      <role>Kate ter Horst - "the Angel of Arnhem"</role>
+      <name>Liv Ullmann</name>
+    </item>
+    <item index="14">
+      <photo>http://image.tmdb.org/t/p/original/sCpEAKjb1mIo5jRfvcWYYzgwTQL.jpg</photo>
+      <role>Sergeant Clegg</role>
+      <name>John Judd</name>
+    </item>
+    <item index="15">
+      <photo>http://image.tmdb.org/t/p/original/oR6GnGecov6Mjg0cLasCawyz3mF.jpg</photo>
+      <role>RAF meteorologist officer</role>
+      <name>Denholm Elliott</name>
+    </item>
+    <item index="16">
+      <photo>http://image.tmdb.org/t/p/original/9IxFAtzRvSwLXeUslPvglP7AJgb.jpg</photo>
+      <role>R.A.F. Briefing Officer</role>
+      <name>Jeremy Kemp</name>
+    </item>
+    <item index="17">
+      <photo>http://image.tmdb.org/t/p/original/vZotpPKrfDhjeU2CwxPlNnRCXCY.jpg</photo>
+      <role>Field Marshal Karl R.G. Von Rundstedt</role>
+      <name>Wolfgang Preiss</name>
+    </item>
+    <item index="18">
+      <photo>http://image.tmdb.org/t/p/original/ouloEb5g56mz9SyIx8hD68gbwhR.jpg</photo>
+      <role>Capt. Glass</role>
+      <name>Nicholas Campbell</name>
+    </item>
+    <item index="19">
+      <photo>http://image.tmdb.org/t/p/original/h19BfuFuE7FBmdtTD7n3z4JTg5q.jpg</photo>
+      <role>Cpl. Hancock</role>
+      <name>Colin Farrell</name>
+    </item>
+    <item index="20">
+      <photo/>
+      <role>Field Marshal Walter Model</role>
+      <name>Walter Kohut</name>
+    </item>
+    <item index="21">
+      <photo>http://image.tmdb.org/t/p/original/bndjwAJEebKYUGmLLgGD8VfP9N4.jpg</photo>
+      <role>Cpl. Davies</role>
+      <name>Alun Armstrong</name>
+    </item>
+    <item index="22">
+      <photo>http://image.tmdb.org/t/p/original/itPzViAARSQTj9Ze0VI6kxC51S8.jpg</photo>
+      <role>Gen. Günther Blumentritt</role>
+      <name>Hans von Borsody</name>
+    </item>
+    <item index="23">
+      <photo/>
+      <role>German Sentry</role>
+      <name>Hartmut Becker</name>
+    </item>
+    <item index="24">
+      <photo>http://image.tmdb.org/t/p/original/rmgL88xFEk0iBOcCr7d9V6WfaOi.jpg</photo>
+      <role>Lt. Col. Giles A.M. Vandeleur</role>
+      <name>Michael Byrne</name>
+    </item>
+    <item index="25">
+      <photo>http://image.tmdb.org/t/p/original/lZYitsCPzlwevNuHzqaSZMQiuUa.jpg</photo>
+      <role>Lt. Rafferty</role>
+      <name>Garrick Hagon</name>
+    </item>
+    <item index="26">
+      <photo>http://image.tmdb.org/t/p/original/yGechiKWL6TJDfVE2KPSJYqdMsY.jpg</photo>
+      <role>U.S. Lieutenant</role>
+      <name>John Ratzenberger</name>
+    </item>
+    <item index="27">
+      <photo>http://image.tmdb.org/t/p/original/7smXq91kZxvmMke3CVDn4qrR4Mq.jpg</photo>
+      <role>Capt. Grabner</role>
+      <name>Fred Williams</name>
+    </item>
+    <item index="28">
+      <photo>http://image.tmdb.org/t/p/original/oSGwl0y9ZQOKDYXbrEd2zeid1Bq.jpg</photo>
+      <role>Trooper Binns</role>
+      <name>Ben Cross</name>
+    </item>
+    <item index="29">
+      <photo>http://image.tmdb.org/t/p/original/hY0HsScC0LyWkJgkWr0NK5kVMDz.jpg</photo>
+      <role>U.S. Medical Colonel</role>
+      <name>Arthur Hill</name>
+    </item>
+    <item index="30">
+      <photo/>
+      <role>Pvt. Archer</role>
+      <name>Edward Kalinski</name>
+    </item>
+    <item index="31">
+      <photo>http://image.tmdb.org/t/p/original/6z8s5BZmzzEt0bIKuVzrHjqJOBs.jpg</photo>
+      <role>Sergeant Towns</role>
+      <name>Ben Howard</name>
+    </item>
+    <item index="32">
+      <photo>http://image.tmdb.org/t/p/original/3flM8zvrwgr3gMHNXTkEjj9jRal.jpg</photo>
+      <role>Brig. Gen. Gerald Lathbury</role>
+      <name>Donald Douglas</name>
+    </item>
+    <item index="33">
+      <photo>http://image.tmdb.org/t/p/original/xQxvnIaoYGSubUza3P4QoWUu60Z.jpg</photo>
+      <role>Jan Ter Horst</role>
+      <name>Tom van Beek</name>
+    </item>
+    <item index="34">
+      <photo/>
+      <role>Underground Leader</role>
+      <name>Siem Vroom</name>
+    </item>
+    <item index="35">
+      <photo/>
+      <role>Underground Leader's Wife</role>
+      <name>Marlies van Alcmaer</name>
+    </item>
+    <item index="36">
+      <photo/>
+      <role>Underground Leader's Son</role>
+      <name>Erik van 't Wout</name>
+    </item>
+    <item index="37">
+      <photo>http://image.tmdb.org/t/p/original/fHyY40aK36BoOa4MvWif12KOlDh.jpg</photo>
+      <role>Lt. Col. Mackenzie</role>
+      <name>Donald Pickering</name>
+    </item>
+    <item index="38">
+      <photo/>
+      <role>Maj. Fuller</role>
+      <name>Frank Grimes</name>
+    </item>
+    <item index="39">
+      <photo>http://image.tmdb.org/t/p/original/ePgtcFEkkndWAcKY8DsE641xoCi.jpg</photo>
+      <role>Maj. Steele</role>
+      <name>Stephen Moore</name>
+    </item>
+    <item index="40">
+      <photo/>
+      <role>Lt. Cole</role>
+      <name>Peter Settelen</name>
+    </item>
+    <item index="41">
+      <photo>http://image.tmdb.org/t/p/original/9kmgoUxf2pWSTPkPUz8U7Uz6fFy.jpg</photo>
+      <role>Pvt. Wicks</role>
+      <name>Paul Copley</name>
+    </item>
+    <item index="42">
+      <photo/>
+      <role>Col. Sims</role>
+      <name>Gerald Sim</name>
+    </item>
+    <item index="43">
+      <photo/>
+      <role>US Private</role>
+      <name>Harry Ditson</name>
+    </item>
+    <item index="44">
+      <photo/>
+      <role>RSM</role>
+      <name>Stanley Lebor</name>
+    </item>
+    <item index="45">
+      <photo/>
+      <role>Maj. Carlyle</role>
+      <name>Christopher Good</name>
+    </item>
+    <item index="46">
+      <photo>http://image.tmdb.org/t/p/original/lrk2i6W21RNNZu7jMLXvvaPHjWq.jpg</photo>
+      <role>Pvt. Dodds</role>
+      <name>Anthony Milner</name>
+    </item>
+    <item index="47">
+      <photo/>
+      <role>Pvt. Morgan</role>
+      <name>Norman Gregory</name>
+    </item>
+    <item index="48">
+      <photo>http://image.tmdb.org/t/p/original/BIW8heUznCoyWzCmNcKdqJ2KFc.jpg</photo>
+      <role>Pvt. Clark</role>
+      <name>Barry McCarthy</name>
+    </item>
+    <item index="49">
+      <photo>http://image.tmdb.org/t/p/original/1kPoSIEfKw6SghlTyeMio4NpvQT.jpg</photo>
+      <role>Sgt. Matthias</role>
+      <name>Lex van Delden</name>
+    </item>
+    <item index="50">
+      <photo/>
+      <role>Field Marshal Model's Aide</role>
+      <name>Michael Wolf</name>
+    </item>
+    <item index="51">
+      <photo/>
+      <role>Vicar</role>
+      <name>Brian Hawksley</name>
+    </item>
+    <item index="52">
+      <photo>http://image.tmdb.org/t/p/original/1gkXm40CztFaFyU52zL1okLhU9V.jpg</photo>
+      <role>Church Organist</role>
+      <name>Erik Chitty</name>
+    </item>
+    <item index="53">
+      <photo/>
+      <role>British Radio Operator</role>
+      <name>Geoffrey Hinsliff</name>
+    </item>
+    <item index="54">
+      <photo/>
+      <role>Irish Guards Officer</role>
+      <name>Sean Mathias</name>
+    </item>
+    <item index="55">
+      <photo/>
+      <role>German Private</role>
+      <name>Tim Beekman</name>
+    </item>
+    <item index="56">
+      <photo>http://image.tmdb.org/t/p/original/tsuej0MBmh4q6TbXiBIj2sRplwK.jpg</photo>
+      <role>British Medical Officer</role>
+      <name>Hilary Minster</name>
+    </item>
+    <item index="57">
+      <photo/>
+      <role>Pvt. Andrews</role>
+      <name>David English</name>
+    </item>
+    <item index="58">
+      <photo/>
+      <role>Capt. Cleminson</role>
+      <name>Michael Graham Cox</name>
+    </item>
+    <item index="59">
+      <photo/>
+      <role>British Corporal</role>
+      <name>Timothy Morand</name>
+    </item>
+    <item index="60">
+      <photo/>
+      <role>Pvt. Gibbs</role>
+      <name>James Wardroper</name>
+    </item>
+    <item index="61">
+      <photo/>
+      <role>Grenadier Guards Officer</role>
+      <name>Stephen Rayment</name>
+    </item>
+    <item index="62">
+      <photo/>
+      <role>US Sergeant</role>
+      <name>Peter Gordon</name>
+    </item>
+    <item index="63">
+      <photo/>
+      <role>US Engineer</role>
+      <name>Brian Gwaspari</name>
+    </item>
+    <item index="64">
+      <photo/>
+      <role>Col. Barker</role>
+      <name>Neil Kennedy</name>
+    </item>
+    <item index="65">
+      <photo/>
+      <role>Pvt. 'Ginger' Marsh</role>
+      <name>John Salthouse</name>
+    </item>
+    <item index="66">
+      <photo/>
+      <role>Pvt. Vincent</role>
+      <name>Jack Galloway</name>
+    </item>
+    <item index="67">
+      <photo/>
+      <role>Pvt. Long</role>
+      <name>Milton Cadman</name>
+    </item>
+    <item index="68">
+      <photo/>
+      <role>'Taffy' Brace</role>
+      <name>David Auker</name>
+    </item>
+    <item index="69">
+      <photo/>
+      <role>Glider Pilot</role>
+      <name>Jonathan Hackett</name>
+    </item>
+    <item index="70">
+      <photo>http://image.tmdb.org/t/p/original/jWz0njCCixFipF7XdUwOoNzVjGc.jpg</photo>
+      <role>German Lieutenant</role>
+      <name>Patrick Ryecart</name>
+    </item>
+    <item index="71">
+      <photo/>
+      <role>Col. Weaver</role>
+      <name>Richard Kane</name>
+    </item>
+    <item index="72">
+      <photo/>
+      <role>Pvt. Stephenson</role>
+      <name>Toby Salaman</name>
+    </item>
+    <item index="73">
+      <photo/>
+      <role>US Captain</role>
+      <name>Anthony Pullen Shaw</name>
+    </item>
+    <item index="74">
+      <photo/>
+      <role>US Padre</role>
+      <name>John Morton</name>
+    </item>
+    <item index="75">
+      <photo/>
+      <role>British Padre</role>
+      <name>Edward Seckerson</name>
+    </item>
+    <item index="76">
+      <photo/>
+      <role>British Staff Colonel</role>
+      <name>Michael Bangerter</name>
+    </item>
+    <item index="77">
+      <photo/>
+      <role>Capt. Krafft</role>
+      <name>Dick Rienstra</name>
+    </item>
+    <item index="78">
+      <photo>http://image.tmdb.org/t/p/original/k6jCo3N5kFJ7PBybJRRR4b0ngKV.jpg</photo>
+      <role>Sgt. Whitney</role>
+      <name>Ian Liston</name>
+    </item>
+    <item index="79">
+      <photo>http://image.tmdb.org/t/p/original/rNnPiexWfTnNtbcAw1UpkKH7a7I.jpg</photo>
+      <role>Sgt. Macdonald</role>
+      <name>George Innes</name>
+    </item>
+    <item index="80">
+      <photo>http://image.tmdb.org/t/p/original/j30wLavbX35RxxtjvMvCNK8Exsw.jpg</photo>
+      <role>Pvt. Simmonds</role>
+      <name>Simon Chandler</name>
+    </item>
+    <item index="81">
+      <photo/>
+      <role>Pvt. Sheridan</role>
+      <name>Paul Rattee</name>
+    </item>
+    <item index="82">
+      <photo/>
+      <role>Pvt. Gordon</role>
+      <name>Paul Rattee</name>
+    </item>
+    <item index="83">
+      <photo/>
+      <role>Sgt. Tomblin</role>
+      <name>Mark Sheridan</name>
+    </item>
+    <item index="84">
+      <photo>http://image.tmdb.org/t/p/original/k4vFNgHiSrDdyNawOcBQXK2Fsgy.jpg</photo>
+      <role>Grenadier Guards Major</role>
+      <name>John Stride</name>
+    </item>
+    <item index="85">
+      <photo/>
+      <role>Medical Orderly</role>
+      <name>Niall Padden</name>
+    </item>
+    <item index="86">
+      <photo/>
+      <role>Cpl. Robbins</role>
+      <name>Shaun Curry</name>
+    </item>
+    <item index="87">
+      <photo/>
+      <role>Sgt. Treadwell</role>
+      <name>Sebastian Abineri</name>
+    </item>
+    <item index="88">
+      <photo/>
+      <role>Young Dutch Couple</role>
+      <name>Pieter Groenier</name>
+    </item>
+    <item index="89">
+      <photo/>
+      <role>Young Dutch Couple</role>
+      <name>Adrienne Kleiweg</name>
+    </item>
+    <item index="90">
+      <photo/>
+      <role>Old Dutch Couple</role>
+      <name>Georgette Reyevski</name>
+    </item>
+    <item index="91">
+      <photo/>
+      <role>Old Dutch Couple</role>
+      <name>Johan te Slaa</name>
+    </item>
+    <item index="92">
+      <photo/>
+      <role>Old Dutch Lady</role>
+      <name>Mary Smithuysen</name>
+    </item>
+    <item index="93">
+      <photo/>
+      <role>Hans - Old Dutch Lady's Son</role>
+      <name>Hans Croiset</name>
+    </item>
+    <item index="94">
+      <photo/>
+      <role>Dutch Villager</role>
+      <name>Henny Alma</name>
+    </item>
+    <item index="95">
+      <photo/>
+      <role>Dutch Villager</role>
+      <name>Bertus Botterman</name>
+    </item>
+    <item index="96">
+      <photo/>
+      <role>Cafe Waitress</role>
+      <name>Josephine Peeper</name>
+    </item>
+    <item index="97">
+      <photo/>
+      <role>Boat Truck Driver</role>
+      <name>Myles Reithermann</name>
+    </item>
+    <item index="98">
+      <photo/>
+      <role>Flute Player</role>
+      <name>Andrew Branch</name>
+    </item>
+    <item index="99">
+      <photo/>
+      <role>US Radio Operator</role>
+      <name>Ray Jewers</name>
+    </item>
+    <item index="100">
+      <photo/>
+      <role>Lt. Cornish</role>
+      <name>Keith Drinkel</name>
+    </item>
+    <item index="101">
+      <photo/>
+      <role>British Soldier</role>
+      <name>Stephen Churchett</name>
+    </item>
+  </roles>
+  <similar>
+    <item index="0">Battle of Britain</item>
+    <item index="1">The Longest Day</item>
+    <item index="2">Force 10 from Navarone</item>
+    <item index="3">Where Eagles Dare</item>
+    <item index="4">The Man Who Would Be King</item>
+    <item index="5">The Guns of Navarone</item>
+    <item index="6">Midway</item>
+    <item index="7">Zulu</item>
+    <item index="8">The Eagle Has Landed</item>
+    <item index="9">Kelly's Heroes</item>
+    <item index="10">Cross of Iron</item>
+    <item index="11">Memphis Belle</item>
+    <item index="12">The Day of the Jackal</item>
+    <item index="13">Tora! Tora! Tora!</item>
+    <item index="14">The Dogs of War</item>
+    <item index="15">The Big Red One</item>
+    <item index="16">Patton</item>
+    <item index="17">Every Which Way but Loose</item>
+    <item index="18">The Train</item>
+    <item index="19">The Bridge on the River Kwai</item>
+  </similar>
+  <studio>United Artists</studio>
+  <summary>A Bridge Too Far tells the story of Operation Market Garden, the failed attempt by the allies to end the war quickly by securing three bridges in Holland and allowing access over the Rhine into Germany. A combination of poor allied intelligence and the presence of two crack German Panzer divisions meant that the final part of this operation (the bridge in Arnhem over the Rhine, the titular 'bridge too far') was doomed to failure.</summary>
+  <tagline>Out of the sky comes the screen's most incredible spectacle of men and war!</tagline>
+  <tags/>
+  <themes/>
+  <title>A Bridge Too Far</title>
+  <writers>
+    <item index="0">
+      <photo>http://image.tmdb.org/t/p/original/7eBlS4cj4WAGzI38ef3EXAIKmOg.jpg</photo>
+      <role/>
+      <name>William Goldman</name>
+    </item>
+  </writers>
+  <year>1977</year>
+</Movie>

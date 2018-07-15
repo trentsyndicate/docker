@@ -1,0 +1,565 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Movie>
+  <art>
+    <item external="True" url="http://image.tmdb.org/t/p/original/U3wkpucmT1HkZBjPO9yoHie5Wa.jpg" sort_order="1" provider="com.plexapp.agents.imdb" media="com.plexapp.agents.imdb_e2ec54cb83fe79a15d5307d955d17a2fcb6f0279"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/wYdFAUyCApeUbfWWP0YMsu6b4hs.jpg" preview="com.plexapp.agents.imdb_fa64963d49e2ae12b01d5cc0e1fc3f18c79e7455" sort_order="2" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/gSWNmISfhJztAFlSg2dqw3hA19f.jpg" preview="com.plexapp.agents.imdb_ece6e63a0ca7fbcf0f2f7c5edb0c5f58c3306980" sort_order="3" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/jaJS0IAlVEXV9CXNPOkHcUej4Hv.jpg" preview="com.plexapp.agents.imdb_d75287bf27656b32f159a2bea97b987f4dec569a" sort_order="4" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/gx835pzg9adhv9HXVZc0K397wRw.jpg" preview="com.plexapp.agents.imdb_a04f9dd100aa15014fcfbbae16571dbba50281cc" sort_order="5" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/3FweBee0xZoY77uO1bhUOlQorNH.jpg" preview="com.plexapp.agents.imdb_98cdbbff7eec096f8f0b1c470cb5d14309d9dfb8" sort_order="6" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/nEyQyVqjF13ToMxMHUzfro8b4U1.jpg" preview="com.plexapp.agents.imdb_4bae6306e178b3db95309be342dcc82582660648" sort_order="7" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/90seuFwm25GWNbF1ydkaPa4DrdO.jpg" preview="com.plexapp.agents.imdb_b3d6ec3d2cf43e382f02528043c5d165a2f03245" sort_order="8" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/bXBrS7gSuBz8e4svaGDXG9GDgnK.jpg" preview="com.plexapp.agents.imdb_8a56fbfee92d8de460efed3e8e4cbde782bf91fa" sort_order="9" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/aiMqL70o4KZHaw59gnJatrv74d2.jpg" preview="com.plexapp.agents.imdb_3a228440382662ace4067902af67f0dc30ea8115" sort_order="10" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/AfBMIRqhC8MlDBHchHc77fgmNU7.jpg" preview="com.plexapp.agents.imdb_af85b9a4291e0f0abfcaf4c64b8a5ed40706e2fc" sort_order="11" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/7VszaN5PTpxdRVhOOKkwQixRYzN.jpg" preview="com.plexapp.agents.imdb_0b43b971257735de24e09319390b675ae4b3f86a" sort_order="12" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/3GGezmYBpGylyN7uAWLMxSFziFq.jpg" preview="com.plexapp.agents.imdb_160d6ac7f436e6ddad8f3ef33c9d01dc7f84b742" sort_order="13" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/tbP0d7aZXiCzSpwBYNe38UW93Yy.jpg" preview="com.plexapp.agents.imdb_c2aaecc91f2bdac0559d3a3c4390246d681a4939" sort_order="14" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/mJTpSLLE9nw30fKzxdI0SKMfCc0.jpg" preview="com.plexapp.agents.imdb_c1b4c358887fe8da65ab2a5569a54c870bfcd184" sort_order="15" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/l7tMyezC2euNrNY0KlCPqnpGfpi.jpg" preview="com.plexapp.agents.imdb_b89d66e31c3de2d6bb0a22169deb299ac0333bf1" sort_order="16" provider="com.plexapp.agents.imdb"/>
+  </art>
+  <banners/>
+  <chapters>
+    <item index="0">
+      <title>Prologue</title>
+      <end_time_offset>374000</end_time_offset>
+      <start_time_offset>0</start_time_offset>
+    </item>
+    <item index="1">
+      <title>The Nine Realms At Peace</title>
+      <end_time_offset>786000</end_time_offset>
+      <start_time_offset>374000</start_time_offset>
+    </item>
+    <item index="2">
+      <title>Strange Happenings In London</title>
+      <end_time_offset>1121000</end_time_offset>
+      <start_time_offset>786000</start_time_offset>
+    </item>
+    <item index="3">
+      <title>The Aether Awakens</title>
+      <end_time_offset>1497000</end_time_offset>
+      <start_time_offset>1121000</start_time_offset>
+    </item>
+    <item index="4">
+      <title>Welcome To Asgard</title>
+      <end_time_offset>1748000</end_time_offset>
+      <start_time_offset>1497000</start_time_offset>
+    </item>
+    <item index="5">
+      <title>The Last Of The Kursed</title>
+      <end_time_offset>2494000</end_time_offset>
+      <start_time_offset>1748000</start_time_offset>
+    </item>
+    <item index="6">
+      <title>Attack On Asgard</title>
+      <end_time_offset>2981000</end_time_offset>
+      <start_time_offset>2494000</start_time_offset>
+    </item>
+    <item index="7">
+      <title>We Are Not Immortal</title>
+      <end_time_offset>3356000</end_time_offset>
+      <start_time_offset>2981000</start_time_offset>
+    </item>
+    <item index="8">
+      <title>Desperate Times</title>
+      <end_time_offset>3609000</end_time_offset>
+      <start_time_offset>3356000</start_time_offset>
+    </item>
+    <item index="9">
+      <title>Escape From Asgard</title>
+      <end_time_offset>4093000</end_time_offset>
+      <start_time_offset>3609000</start_time_offset>
+    </item>
+    <item index="10">
+      <title>Brothers In Arms</title>
+      <end_time_offset>4360000</end_time_offset>
+      <start_time_offset>4093000</start_time_offset>
+    </item>
+    <item index="11">
+      <title>Return To The Dark World</title>
+      <end_time_offset>4895000</end_time_offset>
+      <start_time_offset>4360000</start_time_offset>
+    </item>
+    <item index="12">
+      <title>Follow The Signs</title>
+      <end_time_offset>5182000</end_time_offset>
+      <start_time_offset>4895000</start_time_offset>
+    </item>
+    <item index="13">
+      <title>Thor vs. Malekith vs. The Convergence</title>
+      <end_time_offset>5639000</end_time_offset>
+      <start_time_offset>5182000</start_time_offset>
+    </item>
+    <item index="14">
+      <title>The Aether Unleashed</title>
+      <end_time_offset>5912000</end_time_offset>
+      <start_time_offset>5639000</start_time_offset>
+    </item>
+    <item index="15">
+      <title>Born To Be A King</title>
+      <end_time_offset>6110000</end_time_offset>
+      <start_time_offset>5912000</start_time_offset>
+    </item>
+    <item index="16">
+      <title>End Credits</title>
+      <end_time_offset>-1</end_time_offset>
+      <start_time_offset>6110000</start_time_offset>
+    </item>
+  </chapters>
+  <collections/>
+  <content_rating>PG-13</content_rating>
+  <countries>
+    <item index="0">USA</item>
+  </countries>
+  <directors>
+    <item index="0">
+      <photo>http://image.tmdb.org/t/p/original/f8hPlHuaRw1py22wp2qqNRfVDMw.jpg</photo>
+      <role/>
+      <name>Alan Taylor</name>
+    </item>
+  </directors>
+  <duration>6720000</duration>
+  <genres>
+    <item index="0">Action</item>
+    <item index="1">Adventure</item>
+    <item index="2">Sci-Fi</item>
+  </genres>
+  <originally_available_at>2013-10-29</originally_available_at>
+  <posters>
+    <item external="True" url="http://image.tmdb.org/t/p/original/6t3KOEUtrIPmmtu1czzt6p2XxJy.jpg" sort_order="1" provider="com.plexapp.agents.imdb" media="com.plexapp.agents.imdb_53468f1434fa958af2effa943102b34dcae8a40c"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/aROh4ZwLfv9tmtOAsrnkYTbpujA.jpg" preview="com.plexapp.agents.imdb_cd695856a2eeda5f84f494524ad771c80e99c60e" sort_order="2" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/bnX5PqAdQZRXSw3aX3DutDcdso5.jpg" preview="com.plexapp.agents.imdb_58e6b37d6a22180b25157b76656905ba4db6c3fb" sort_order="3" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/54s3EKPVP4uIvKX4hj5X23ZbNYB.jpg" preview="com.plexapp.agents.imdb_f8f8c3a7096ee127cfe0db8d3452efbf730ce6da" sort_order="4" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/8hXkZlerQB0tC8UxptlADF18Ds4.jpg" preview="com.plexapp.agents.imdb_b9a297030f567f5e5f8db90147de4c78123ba10d" sort_order="5" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/f3f5Cjc4HoS5RT5VdQOpjVnEx1m.jpg" preview="com.plexapp.agents.imdb_d0153c5faca455a8227663209c1898d9a0d612c0" sort_order="6" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/okfek9tFsXCoBvGXbrtZGmJmIYk.jpg" preview="com.plexapp.agents.imdb_6bd0edf497fccc4cb37f9d00f31ada9758df328f" sort_order="7" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/aG3ihACFebmLegybOSGly0d3ZV2.jpg" preview="com.plexapp.agents.imdb_60819d9508c9f39225107d9fd45000f78b2ae876" sort_order="8" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/vHbfUwNWlOuYpY2iFnTBitoEyXz.jpg" preview="com.plexapp.agents.imdb_9475b15eaac34ac94b508242bec2be7165b0a0c2" sort_order="9" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/rFrhShlwnQq9L8C8voUq88mbN94.jpg" preview="com.plexapp.agents.imdb_27f464444b7adbc7eae7018c6388408331e17caa" sort_order="10" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/rNd0CkQG3C6nCMSqsrniLfFCanG.jpg" preview="com.plexapp.agents.imdb_bc645dfb8c640154cb677b73a16d99c401d6b52f" sort_order="11" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/ge5Wl3OMFxIJpYgGUnLdI8LrSU7.jpg" preview="com.plexapp.agents.imdb_a107b7ab5823d974b2f3ff69e68dc0913633fddb" sort_order="12" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/W9Co81tVwd4R7tWMfHNFXcKev1.jpg" preview="com.plexapp.agents.imdb_926297a3505b425ba60bb38af45ed7372d6e6b04" sort_order="13" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/hy43AjVyY0WP3M1xdHfwKiILytw.jpg" preview="com.plexapp.agents.imdb_cfd53517a6990bf1b2402da665343583b9899be0" sort_order="14" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/hArQK00MhF88ZNZ7F9foY6wXDia.jpg" preview="com.plexapp.agents.imdb_ad99420248f001bbb54196bcee50c08583605c76" sort_order="15" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/20jixAqPFhYvAc7XZSImx2JRvgE.jpg" preview="com.plexapp.agents.imdb_7d35dabd259b2a373d732dc63d9f4819fa068b70" sort_order="16" provider="com.plexapp.agents.imdb"/>
+  </posters>
+  <producers>
+    <item index="0">
+      <photo>http://image.tmdb.org/t/p/original/AewbqQQT0FbcE358rcbopZ3zgDV.jpg</photo>
+      <role/>
+      <name>Kevin Feige</name>
+    </item>
+    <item index="1">
+      <photo>http://image.tmdb.org/t/p/original/bmpGjbqvAVNOK3ggiuET2Jl96tZ.jpg</photo>
+      <role/>
+      <name>Kenneth Branagh</name>
+    </item>
+  </producers>
+  <rating>6.6</rating>
+  <rating_image>rottentomatoes://image.rating.ripe</rating_image>
+  <audience_rating>7.7</audience_rating>
+  <audience_rating_image>rottentomatoes://image.rating.upright</audience_rating_image>
+  <reviews>
+    <item index="0">
+      <text>Thor: The Dark World is a good model of how superheroes can save the world without forced gravitas, and have fun doing it.</text>
+      <source>Globe and Mail</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>http://www.theglobeandmail.com/arts/film/film-reviews/thor-the-dark-world-this-superhero-has-fun-while-saving-the-world/article15298034/</link>
+      <author>Dave McGinn</author>
+    </item>
+    <item index="1">
+      <text>Enough with the appetite-whetting experiments. Just wake me when The Avengers: Age of Ultron is here.</text>
+      <source>Grantland</source>
+      <image>rottentomatoes://image.review.rotten</image>
+      <link>http://www.grantland.com/blog/hollywood-prospectus/post/_/id/91904/thor-2-hammer-of-the-plods</link>
+      <author>Wesley Morris</author>
+    </item>
+    <item index="2">
+      <text>A wildly uneven but entertaining sequel to one of Marvel Comics' most enduring franchises.</text>
+      <source>New Yorker</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>http://www.newyorker.com/arts/reviews/film/thor_the_dark_world_taylor</link>
+      <author>Bruce Diones</author>
+    </item>
+    <item index="3">
+      <text>The Crocodile Dundee II of superhero films-in a good way!</text>
+      <source>Slate</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>http://www.slate.com/articles/arts/movies/2013/11/thor_the_dark_world_starring_chris_hemsworth_and_natalie_portman_reviewed.html</link>
+      <author>David Weigel</author>
+    </item>
+    <item index="4">
+      <text>The ambitious Game of Thrones-esque mythology can't mask the fact that this superhero entry is just another piece of mildly satisfying, disposable entertainment.</text>
+      <source>Us Weekly</source>
+      <image>rottentomatoes://image.review.rotten</image>
+      <link>http://www.usmagazine.com/entertainment/news/thor-the-dark-world-movie-review-sequel-is-disposable-entertainment-2013811</link>
+      <author>Mara Reinstein</author>
+    </item>
+    <item index="5">
+      <text>Though hardly a must-see, Thor: The Dark World is better than the original: a looser, loopier hybrid of science fiction and fantasy powered by a pair of magnetic performances and leavened with a number of truly witty moments.</text>
+      <source>The Atlantic</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>http://www.theatlantic.com/entertainment/archive/2013/11/the-lightweight-charm-of-em-thor-the-dark-world-em/281270/#disqus_thread</link>
+      <author>Christopher Orr</author>
+    </item>
+    <item index="6">
+      <text>Like so many comic book epics these days, Alan Taylor's 3-D Thor: The Dark World is both monumental and generic.</text>
+      <source>Christian Science Monitor</source>
+      <image>rottentomatoes://image.review.rotten</image>
+      <link>http://www.csmonitor.com/The-Culture/Movies/2013/1108/Thor-The-Dark-World-has-lost-the-spark-of-the-original</link>
+      <author>Peter Rainer</author>
+    </item>
+    <item index="7">
+      <text>Thor is essentially Marvel's answer to Superman and, as with The Man of Steel, it can be difficult to craft a tale around a hero who is essentially invincible.</text>
+      <source>ReelViews</source>
+      <image>rottentomatoes://image.review.rotten</image>
+      <link>http://www.reelviews.net/php_review_template.php?identifier=2687</link>
+      <author>James Berardinelli</author>
+    </item>
+    <item index="8">
+      <text>True, this sequel gets better as it goes along, but that's a very steep climb just to arrive at not bad.</text>
+      <source>San Francisco Chronicle</source>
+      <image>rottentomatoes://image.review.rotten</image>
+      <link>http://www.sfgate.com/movies/article/Nordic-downhill-Ponderous-Dark-World-lacks-4965629.php</link>
+      <author>Mick LaSalle</author>
+    </item>
+    <item index="9">
+      <text>Can we please cease and desist with movies where not just the fate of a person, or a family, or a city, or even a world but where THE FATE OF ALL EXISTENCE is at stake? Wouldn't it be nice to see a superhero simply rescue a puppy sometime?</text>
+      <source>Detroit News</source>
+      <image>rottentomatoes://image.review.rotten</image>
+      <link>http://www.detroitnews.com/article/20131108/ENT02/311080028</link>
+      <author>Tom Long</author>
+    </item>
+    <item index="10">
+      <text>Its monsters and angry armies and visual effects are interchangeable with Peter Jackson's Tolkien pics, with Clash of the Titans, with The Avengers, with Man of Steel, and on and on.</text>
+      <source>Philadelphia Inquirer</source>
+      <image>rottentomatoes://image.review.rotten</image>
+      <link>http://www.philly.com/philly/entertainment/movies/20131108_Thor_s_back__more_generic_than_ever.html</link>
+      <author>Steven Rea</author>
+    </item>
+    <item index="11">
+      <text>There's just enough tension and humor in "Thor: The Dark World" to make the film's otherwise listless proceedings worth watching, but only just.</text>
+      <source>RogerEbert.com</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>http://www.rogerebert.com/reviews/thor-the-dark-world-2013</link>
+      <author>Simon Abrams</author>
+    </item>
+    <item index="12">
+      <text>When the battles kicked in, semi-yawn. We've seen it all before.</text>
+      <source>Richard Roeper.com</source>
+      <image>rottentomatoes://image.review.rotten</image>
+      <link>http://www.richardroeper.com/reviews/thordarkworld.aspx</link>
+      <author>Richard Roeper</author>
+    </item>
+    <item index="13">
+      <text>If I'm spending that much time studying Odin's grooming, there's something wrong with the story, which is kind of slow to get going and features too many undeveloped threads.</text>
+      <source>Washington Post</source>
+      <image>rottentomatoes://image.review.rotten</image>
+      <link>http://www.washingtonpost.com/goingoutguide/movies/thor-the-dark-world-movie-review/2013/11/06/d18d290a-4638-11e3-bf0c-cebf37c6f484_story.html</link>
+      <author>Michael O'Sullivan</author>
+    </item>
+    <item index="14">
+      <text>Dancing above a leaden plot and lumpy dialogue, Mr. Hiddleston moves his fine-boned features and graceful body, as if what he were doing matters; he seems imported from a quite different movie.</text>
+      <source>New York Times</source>
+      <image>rottentomatoes://image.review.rotten</image>
+      <link>http://www.nytimes.com/2013/11/08/movies/thor-the-dark-world-brings-back-marvels-alien-superhero.html?partner=rss&amp;emc=rss</link>
+      <author>Jeannette Catsoulis</author>
+    </item>
+    <item index="15">
+      <text>Dimensions collide, and Taylor allows the film to hurtle with the force of Thor's hammer into pure popcorn-spectacle territory.</text>
+      <source>NPR</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>http://www.npr.org/2013/11/07/242984509/turns-out-one-does-simply-walk-into-more-thor?ft=1&amp;f=1045</link>
+      <author>Ian Buckwalter</author>
+    </item>
+    <item index="16">
+      <text>The latest chapter in Marvel's never-ending story takes a while to find its narrative momentum, but its later, better scenes have a loony oomph that drowns out your misgivings.</text>
+      <source>Minneapolis Star Tribune</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>http://www.startribune.com/entertainment/movies/231034781.html</link>
+      <author>Colin Covert</author>
+    </item>
+    <item index="17">
+      <text>Abundant laughter saves the picture from thudding like the Thunder God's hammer.</text>
+      <source>Toronto Star</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>http://www.thestar.com/entertainment/movies/2013/11/07/thor_hammers_home_the_jokes_the_dark_world_review.html</link>
+      <author>Peter Howell</author>
+    </item>
+    <item index="18">
+      <text>"Thor: The Dark World," unfortunately, makes good on its portentous title.</text>
+      <source>Newsday</source>
+      <image>rottentomatoes://image.review.rotten</image>
+      <link>http://www.newsday.com/entertainment/movies/thor-the-dark-world-review-try-smiling-big-guy-1.6393975</link>
+      <author>Rafer Guzman</author>
+    </item>
+  </reviews>
+  <roles>
+    <item index="0">
+      <photo>http://image.tmdb.org/t/p/original/lrhth7yK9p3vy6p7AabDUM1THKl.jpg</photo>
+      <role>Thor Odinson</role>
+      <name>Chris Hemsworth</name>
+    </item>
+    <item index="1">
+      <photo>http://image.tmdb.org/t/p/original/jJcRWku3e9OHrmRqytn6WcBjhvh.jpg</photo>
+      <role>Jane Foster</role>
+      <name>Natalie Portman</name>
+    </item>
+    <item index="2">
+      <photo>http://image.tmdb.org/t/p/original/qB1lHPFBPIzw6I7EvsciZ5wyUNS.jpg</photo>
+      <role>Loki</role>
+      <name>Tom Hiddleston</name>
+    </item>
+    <item index="3">
+      <photo>http://image.tmdb.org/t/p/original/9ukJS2QWTJ22HcwR1ktMmoJ6RSL.jpg</photo>
+      <role>Odin</role>
+      <name>Anthony Hopkins</name>
+    </item>
+    <item index="4">
+      <photo>http://image.tmdb.org/t/p/original/zSCU2agleLtJEvzj98jEesVhBxa.jpg</photo>
+      <role>Erik Selvig</role>
+      <name>Stellan Skarsgård</name>
+    </item>
+    <item index="5">
+      <photo>http://image.tmdb.org/t/p/original/fBNfIzrfOqh1KFvQkSxrJoMNYXL.jpg</photo>
+      <role>Heimdall</role>
+      <name>Idris Elba</name>
+    </item>
+    <item index="6">
+      <photo>http://image.tmdb.org/t/p/original/9zI0Ed8aGxLPdTQeV0He9Rl0eSX.jpg</photo>
+      <role>Malekith</role>
+      <name>Christopher Eccleston</name>
+    </item>
+    <item index="7">
+      <photo>http://image.tmdb.org/t/p/original/lnFcwjgNDNRzQ8yC1HPDIBRBwBh.jpg</photo>
+      <role>Algrim / Kurse</role>
+      <name>Adewale Akinnuoye-Agbaje</name>
+    </item>
+    <item index="8">
+      <photo>http://image.tmdb.org/t/p/original/axPn5eI5mlZtlZJWrvYRq1hCcUh.jpg</photo>
+      <role>Darcy Lewis</role>
+      <name>Kat Dennings</name>
+    </item>
+    <item index="9">
+      <photo>http://image.tmdb.org/t/p/original/bcd9uqwfCVYsu7rduZnPVYUkyfU.jpg</photo>
+      <role>Volstagg</role>
+      <name>Ray Stevenson</name>
+    </item>
+    <item index="10">
+      <photo>http://image.tmdb.org/t/p/original/zlZsST8s1Apm6D6bCyYeWrCKZCy.jpg</photo>
+      <role>Hogun</role>
+      <name>Tadanobu Asano</name>
+    </item>
+    <item index="11">
+      <photo>http://image.tmdb.org/t/p/original/gAXGlrS9RlNA1sxJqi9C8gVsnUB.jpg</photo>
+      <role>Fandral</role>
+      <name>Zachary Levi</name>
+    </item>
+    <item index="12">
+      <photo>http://image.tmdb.org/t/p/original/vPXy9FBK272nqrJDlQX9zU57vmj.jpg</photo>
+      <role>Sif</role>
+      <name>Jaimie Alexander</name>
+    </item>
+    <item index="13">
+      <photo>http://image.tmdb.org/t/p/original/aaPzuXRHdyxamPMXqu70okPaqvB.jpg</photo>
+      <role>Frigga</role>
+      <name>Rene Russo</name>
+    </item>
+    <item index="14">
+      <photo>http://image.tmdb.org/t/p/original/xhfgliN8DInDVBliPq7JDeKNCvz.jpg</photo>
+      <role>Richard</role>
+      <name>Chris O'Dowd</name>
+    </item>
+    <item index="15">
+      <photo>http://image.tmdb.org/t/p/original/kUuVEsfZNxXdlK2JQdTEGcfkoY3.jpg</photo>
+      <role>Eir</role>
+      <name>Alice Krige</name>
+    </item>
+    <item index="16">
+      <photo>http://image.tmdb.org/t/p/original/tQHHmna3gp74flis6MxsnYXsbgm.jpg</photo>
+      <role>Ian Boothby</role>
+      <name>Jonathan Howard</name>
+    </item>
+    <item index="17">
+      <photo>http://image.tmdb.org/t/p/original/5TlC56RMfTeeBxhI6myQe4SDEEo.jpg</photo>
+      <role>Taneleer Tivan / The Collector (uncredited)</role>
+      <name>Benicio del Toro</name>
+    </item>
+    <item index="18">
+      <photo>http://image.tmdb.org/t/p/original/wewyxidwQYHZxemnZdlYL7lQdOs.jpg</photo>
+      <role>Carina (uncredited)</role>
+      <name>Ophelia Lovibond</name>
+    </item>
+    <item index="19">
+      <photo>http://image.tmdb.org/t/p/original/IhqoydPOiP53AI6NeHTVwDcHTz.jpg</photo>
+      <role>Bor (uncredited)</role>
+      <name>Tony Curran</name>
+    </item>
+    <item index="20">
+      <photo>http://image.tmdb.org/t/p/original/3dkiAdWPMPiPRqwi5MVBFOSD9Xo.jpg</photo>
+      <role>Tyr</role>
+      <name>Clive Russell</name>
+    </item>
+    <item index="21">
+      <photo>http://image.tmdb.org/t/p/original/4cmswB0RoDLWrGywP3ZQ7LxU3Bd.jpg</photo>
+      <role>Einherjar Lieutenant</role>
+      <name>Richard Brake</name>
+    </item>
+    <item index="22">
+      <photo>http://image.tmdb.org/t/p/original/kRlx7PxXkom7Daj8Z2HmcbPQB1o.jpg</photo>
+      <role>Loki as Captain America (uncredited)</role>
+      <name>Chris Evans</name>
+    </item>
+    <item index="23">
+      <photo>http://image.tmdb.org/t/p/original/dTr2gJPL7jELKVkcjtoNx80uVKR.jpg</photo>
+      <role>Himself</role>
+      <name>Stan Lee</name>
+    </item>
+    <item index="24">
+      <photo>http://image.tmdb.org/t/p/original/c1km2kqasJT9GTISMbBZpp3jbuR.jpg</photo>
+      <role>Jane Foster stand-in</role>
+      <name>Elsa Pataky</name>
+    </item>
+    <item index="25">
+      <photo/>
+      <role>John</role>
+      <name>Ramone Morgan</name>
+    </item>
+    <item index="26">
+      <photo/>
+      <role>Navid</role>
+      <name>Obada Alassadi</name>
+    </item>
+    <item index="27">
+      <photo/>
+      <role>Maddie</role>
+      <name>Imaan Chentouf</name>
+    </item>
+    <item index="28">
+      <photo/>
+      <role>Volstagg's Wife</role>
+      <name>Claire Brown</name>
+    </item>
+    <item index="29">
+      <photo/>
+      <role>Volstagg's Child #1</role>
+      <name>Henry Calcutt</name>
+    </item>
+    <item index="30">
+      <photo/>
+      <role>Volstagg's Child #2</role>
+      <name>Ava Caton</name>
+    </item>
+    <item index="31">
+      <photo/>
+      <role>Volstagg's Child #3</role>
+      <name>Abbie McCann</name>
+    </item>
+    <item index="32">
+      <photo>http://image.tmdb.org/t/p/original/5sRg7Cl4keWD8ol08i0jOrT4k8w.jpg</photo>
+      <role>Desk Officer</role>
+      <name>Thomas Arnold</name>
+    </item>
+    <item index="33">
+      <photo/>
+      <role>Stonehenge TV News Reporter</role>
+      <name>Sam Swainsbury</name>
+    </item>
+    <item index="34">
+      <photo/>
+      <role>Sad Child</role>
+      <name>Connor Donaghey</name>
+    </item>
+    <item index="35">
+      <photo>http://image.tmdb.org/t/p/original/fbXFTgCjXAnMgClQaPTfjgKy54v.jpg</photo>
+      <role>Student</role>
+      <name>Royce Pierreson</name>
+    </item>
+    <item index="36">
+      <photo/>
+      <role>Woman on Platform</role>
+      <name>Annabel Norbury</name>
+    </item>
+    <item index="37">
+      <photo/>
+      <role>Wench #1</role>
+      <name>Sophie Cosson</name>
+    </item>
+    <item index="38">
+      <photo>http://image.tmdb.org/t/p/original/3RKWxwIQ3OYfmlUcTpyRxQHm9M0.jpg</photo>
+      <role>Police Officer #1</role>
+      <name>Justin Edwards</name>
+    </item>
+    <item index="39">
+      <photo>http://image.tmdb.org/t/p/original/p7vTiX2TKxS3ovAsZo2b1WfFBQD.jpg</photo>
+      <role>Police Officer #2</role>
+      <name>Gruffudd Glyn</name>
+    </item>
+    <item index="40">
+      <photo/>
+      <role>Himself</role>
+      <name>Steve Scott</name>
+    </item>
+    <item index="41">
+      <photo>http://image.tmdb.org/t/p/original/3POV4S1qr6tNdNBmlmZs7RyLNTR.jpg</photo>
+      <role>Einherjar Guard</role>
+      <name>Brett Tucker</name>
+    </item>
+    <item index="42">
+      <photo>http://image.tmdb.org/t/p/original/gkRWhxAli7JaMPX2MFeObrHTJkX.jpg</photo>
+      <role>Nurse</role>
+      <name>Talulah Riley</name>
+    </item>
+    <item index="43">
+      <photo>http://image.tmdb.org/t/p/original/hklENMg9f6pAbTHafbbOZpUbZUN.jpg</photo>
+      <role>Asylum Patient</role>
+      <name>Richard Wharton</name>
+    </item>
+  </roles>
+  <similar>
+    <item index="0">Thor</item>
+    <item index="1">Captain America: The Winter Soldier</item>
+    <item index="2">Avengers: Age of Ultron</item>
+    <item index="3">X-Men: Days of Future Past</item>
+    <item index="4">The Amazing Spider-Man 2</item>
+    <item index="5">Captain America: The First Avenger</item>
+    <item index="6">Iron Man 2</item>
+    <item index="7">The Incredible Hulk</item>
+    <item index="8">The Wolverine</item>
+    <item index="9">The Hobbit: The Desolation of Smaug</item>
+    <item index="10">Iron Man 3</item>
+    <item index="11">Ant-Man</item>
+    <item index="12">Man of Steel</item>
+    <item index="13">Spider-Man 3</item>
+    <item index="14">Transformers: Age of Extinction</item>
+    <item index="15">X2</item>
+    <item index="16">Fantastic Four</item>
+    <item index="17">Fantastic 4: Rise of the Silver Surfer</item>
+    <item index="18">Green Lantern</item>
+    <item index="19">X-Men: The Last Stand</item>
+  </similar>
+  <studio>Marvel Studios</studio>
+  <summary>Thor fights to restore order across the cosmos… but an ancient race led by the vengeful Malekith returns to plunge the universe back into darkness. Faced with an enemy that even Odin and Asgard cannot withstand, Thor must embark on his most perilous and personal journey yet, one that will reunite him with Jane Foster and force him to sacrifice everything to save us all.</summary>
+  <tagline>Delve into the darkness</tagline>
+  <tags/>
+  <themes/>
+  <title>Thor: The Dark World</title>
+  <writers>
+    <item index="0">
+      <photo>http://image.tmdb.org/t/p/original/tyeKi52yruPdxOkEMKhBKCnkp5V.jpg</photo>
+      <role/>
+      <name>Christopher Markus</name>
+    </item>
+    <item index="1">
+      <photo>http://image.tmdb.org/t/p/original/fa8DAGpANcBTTXO4bbNMrCFufmV.jpg</photo>
+      <role/>
+      <name>Stephen McFeely</name>
+    </item>
+    <item index="2">
+      <photo>http://image.tmdb.org/t/p/original/6v1wkHdEAuwD8M8i0yWa3LYvoxS.jpg</photo>
+      <role/>
+      <name>Christopher Yost</name>
+    </item>
+  </writers>
+  <year>2013</year>
+</Movie>

@@ -1,0 +1,397 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Movie>
+  <art>
+    <item external="True" url="http://image.tmdb.org/t/p/original/3o9c39IxsS3FDF1BsFoe6VUdgXn.jpg" sort_order="1" provider="com.plexapp.agents.imdb" media="com.plexapp.agents.imdb_8d5828b7f548f6c16dec24bc3d9d50cac0d034cb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/lEkHdk4g0nAKtMcHBtSmC1ON3O1.jpg" preview="com.plexapp.agents.imdb_10f05750cf4f60c8619eb61898d9893ff1101a43" sort_order="2" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/u7Zt0zUGp2O8tKk4VEBxmCBr1q0.jpg" preview="com.plexapp.agents.imdb_9542962c4dc41325a2e5a78f5ca4168120532919" sort_order="3" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/gYspJFYWLbuqyDQ5sekL7GjlYvM.jpg" preview="com.plexapp.agents.imdb_8a436109d42ef58a5dea3cec474d7ba08d662f2c" sort_order="4" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/mxN4Trw5D9xyq0XZvqHoYDZAUAU.jpg" preview="com.plexapp.agents.imdb_1c7916b5f7ec4ed2a8189617a7a2d553d9f83afb" sort_order="5" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/1DWiAzQcjGqlaIGIJgCeWOXFUDr.jpg" preview="com.plexapp.agents.imdb_139bc82504fce7f33a2761925d8dcc892b55af69" sort_order="6" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/rCaVB8wg9ocWIS4WDUHWMRTKLP8.jpg" preview="com.plexapp.agents.imdb_9c5217402710d4d9f1cd75a6a9d0b3cd9a275b97" sort_order="7" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/jbrkNmBUUx7PW7mQSkgnu9AJBYY.jpg" preview="com.plexapp.agents.imdb_864df4f627b7a70e8c74332d607f76c11d6619d5" sort_order="8" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/ygHTO8DoxUVanIkUbQsP5g7sNdP.jpg" preview="com.plexapp.agents.imdb_63a45e6f922300b69fe6c8962d812a15ba695370" sort_order="9" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/43LlquudPDyyAyGFhCdw1HxDeEU.jpg" preview="com.plexapp.agents.imdb_d20acd86c6e265d98a0168437486c8df90d18387" sort_order="10" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/eVoGaeOowCYQQQOEAIz4Ya4I6Jp.jpg" preview="com.plexapp.agents.imdb_b531cb84a0fcb9892ecbd60fc8ed9ce61ad3ff78" sort_order="11" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/fMFfYklMthP9LPAMEiCrnjAw5jd.jpg" preview="com.plexapp.agents.imdb_1c41db77d18ac6649d35a97bb99c790212d815ba" sort_order="12" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/3FZOpzUwTyAaHPfZoGyyg93nYnn.jpg" preview="com.plexapp.agents.imdb_0131f987a700ea905177ab34ad0a2b68a378e642" sort_order="13" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/nfJWWDbw9NgJSiKO1SZGOXoZlJs.jpg" preview="com.plexapp.agents.imdb_332b59e69a9da726d457b6449691f9049382385b" sort_order="14" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/qXOhTlPLWz1vLTtw8Mbh1xfOUbV.jpg" preview="com.plexapp.agents.imdb_dbb9e46479ac3258ae82fec5e9afad8f19f9f26d" sort_order="15" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/orBHOmZfmRqTRkNEsLYQ4i9pV0p.jpg" preview="com.plexapp.agents.imdb_ee0c6c75ac50b5460e2df46901465a43fb29f34d" sort_order="16" provider="com.plexapp.agents.imdb"/>
+  </art>
+  <banners/>
+  <chapters>
+    <item index="0">
+      <title>Chapter 1</title>
+      <end_time_offset>489000</end_time_offset>
+      <start_time_offset>0</start_time_offset>
+    </item>
+    <item index="1">
+      <title>Chapter 2</title>
+      <end_time_offset>910000</end_time_offset>
+      <start_time_offset>489000</start_time_offset>
+    </item>
+    <item index="2">
+      <title>Chapter 3</title>
+      <end_time_offset>1231000</end_time_offset>
+      <start_time_offset>910000</start_time_offset>
+    </item>
+    <item index="3">
+      <title>Chapter 4</title>
+      <end_time_offset>1545000</end_time_offset>
+      <start_time_offset>1231000</start_time_offset>
+    </item>
+    <item index="4">
+      <title>Chapter 5</title>
+      <end_time_offset>1807000</end_time_offset>
+      <start_time_offset>1545000</start_time_offset>
+    </item>
+    <item index="5">
+      <title>Chapter 6</title>
+      <end_time_offset>2164000</end_time_offset>
+      <start_time_offset>1807000</start_time_offset>
+    </item>
+    <item index="6">
+      <title>Chapter 7</title>
+      <end_time_offset>2439000</end_time_offset>
+      <start_time_offset>2164000</start_time_offset>
+    </item>
+    <item index="7">
+      <title>Chapter 8</title>
+      <end_time_offset>2741000</end_time_offset>
+      <start_time_offset>2439000</start_time_offset>
+    </item>
+    <item index="8">
+      <title>Chapter 9</title>
+      <end_time_offset>2972000</end_time_offset>
+      <start_time_offset>2741000</start_time_offset>
+    </item>
+    <item index="9">
+      <title>Chapter 10</title>
+      <end_time_offset>3357000</end_time_offset>
+      <start_time_offset>2972000</start_time_offset>
+    </item>
+    <item index="10">
+      <title>Chapter 11</title>
+      <end_time_offset>3681000</end_time_offset>
+      <start_time_offset>3357000</start_time_offset>
+    </item>
+    <item index="11">
+      <title>Chapter 12</title>
+      <end_time_offset>3982000</end_time_offset>
+      <start_time_offset>3681000</start_time_offset>
+    </item>
+    <item index="12">
+      <title>Chapter 13</title>
+      <end_time_offset>4197000</end_time_offset>
+      <start_time_offset>3982000</start_time_offset>
+    </item>
+    <item index="13">
+      <title>Chapter 14</title>
+      <end_time_offset>4418000</end_time_offset>
+      <start_time_offset>4197000</start_time_offset>
+    </item>
+    <item index="14">
+      <title>Chapter 15</title>
+      <end_time_offset>4741000</end_time_offset>
+      <start_time_offset>4418000</start_time_offset>
+    </item>
+    <item index="15">
+      <title>Chapter 16</title>
+      <end_time_offset>-1</end_time_offset>
+      <start_time_offset>4741000</start_time_offset>
+    </item>
+  </chapters>
+  <collections/>
+  <content_rating>PG-13</content_rating>
+  <countries>
+    <item index="0">USA</item>
+  </countries>
+  <directors>
+    <item index="0">
+      <photo>http://image.tmdb.org/t/p/original/z7jv5RF9RVZnv32QuMn8YxFgdIg.jpg</photo>
+      <role/>
+      <name>Jaume Collet-Serra</name>
+    </item>
+  </directors>
+  <duration>5160000</duration>
+  <genres>
+    <item index="0">Drama</item>
+    <item index="1">Horror</item>
+    <item index="2">Thriller</item>
+  </genres>
+  <originally_available_at>2016-06-24</originally_available_at>
+  <posters>
+    <item external="True" url="http://image.tmdb.org/t/p/original/6vuxwCfBejPfUjMxrPgk0ANmVFq.jpg" sort_order="1" provider="com.plexapp.agents.imdb" media="com.plexapp.agents.imdb_86476ef04b01a57b85b4b747b3bf934d095e6f1f"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/wIrDzrOFrxzqxLg6c3FLj2xYCZM.jpg" preview="com.plexapp.agents.imdb_dae23d2b6c1bc85c33a6a609dffc7534e06f62a6" sort_order="2" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/42HlPJmiE6rQdtT2lYzPPMQYvqG.jpg" preview="com.plexapp.agents.imdb_fb2be8252c2302ba3710a51648a4c8ec20d89fd4" sort_order="3" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/r4zHyd19Ync7o5G9uFh4J7KIFnx.jpg" preview="com.plexapp.agents.imdb_d0d1d249cd9dbe97ebeb2d2cc0513187a9984ae1" sort_order="4" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/kxtDPG4fEssmD3z9Brv3lXgTh6C.jpg" preview="com.plexapp.agents.imdb_41b6e0a9b67931b2caebe8de9d877961f3e2b0a3" sort_order="5" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/1MMirsKWLydIARoYcIXi8bNjEKU.jpg" preview="com.plexapp.agents.imdb_4a2354eb03ddb0de3f037e29d41e919d41f8a9ff" sort_order="6" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/pAIoiKIDjxboTECFX7aWrJqGQg7.jpg" preview="com.plexapp.agents.imdb_a2acd24063d0134ebf6f0f3bd77d5d1b9e5baea7" sort_order="7" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/xQDOltObuBpMJTs8FTOSQuDD3Lr.jpg" preview="com.plexapp.agents.imdb_a63df6cb322afa12e62539fa7be50d3870dbb425" sort_order="8" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/6rPFxGF4qCO2wGIbru6hft8VvTK.jpg" preview="com.plexapp.agents.imdb_99a27add37564a7363e70e2c5b423138398e80cf" sort_order="9" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/roNFzbeqlA0hbdRSgNYyOqLIQD7.jpg" preview="com.plexapp.agents.imdb_4eccbce51c5d751a3e8b59e707e40d4f09490862" sort_order="10" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/gnXWrLJ1TWEuAk04P0NOGo9VNNY.jpg" preview="com.plexapp.agents.imdb_9d790d354d26e3178643bb03b99daafdfbadc313" sort_order="11" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/fQC0E2UgDYskNIcimEn9b26COkS.jpg" preview="com.plexapp.agents.imdb_dd76c9629b0f3d43ebcea844aa2aff94db46409c" sort_order="12" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/qwvoL6JeXLzVIw2PEKs8fuSorU.jpg" preview="com.plexapp.agents.imdb_5036a51736b50792a0a6564632feff6b42cc5620" sort_order="13" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/kATyXEa4hdCRKH2qWhzvkncdjsL.jpg" preview="com.plexapp.agents.imdb_6272e276a861d118407ee242596bdf34de3b150b" sort_order="14" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/l5Qw0pnKclpAdWmaK2GlMqE4dDE.jpg" preview="com.plexapp.agents.imdb_3ff2b0c2afc668155618dfb4aa7196bf62d0979e" sort_order="15" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/kNdwyuPmBx75TojpKPYsaTcT1nJ.jpg" preview="com.plexapp.agents.imdb_580f9ee273d9788fbb993e77de291d6715543fb4" sort_order="16" provider="com.plexapp.agents.imdb"/>
+  </posters>
+  <producers>
+    <item index="0">
+      <photo/>
+      <role/>
+      <name>Lynn Harris</name>
+    </item>
+    <item index="1">
+      <photo/>
+      <role/>
+      <name>Matti Leshem</name>
+    </item>
+  </producers>
+  <rating>7.8</rating>
+  <rating_image>rottentomatoes://image.rating.ripe</rating_image>
+  <audience_rating>5.9</audience_rating>
+  <audience_rating_image>rottentomatoes://image.rating.spilled</audience_rating_image>
+  <reviews>
+    <item index="0">
+      <text>Lively's melodramatic power remains untapped.</text>
+      <source>New Yorker</source>
+      <image>rottentomatoes://image.review.rotten</image>
+      <link>http://www.newyorker.com/goings-on-about-town/movies/the-shallows-2</link>
+      <author>Richard Brody</author>
+    </item>
+    <item index="1">
+      <text>The Shallows is almost a good movie.</text>
+      <source>ReelViews</source>
+      <image>rottentomatoes://image.review.rotten</image>
+      <link>http://www.reelviews.net/reelviews/shallows-the</link>
+      <author>James Berardinelli</author>
+    </item>
+    <item index="2">
+      <text>You're gonna need a bigger Blake (and you're going to get one) in Lively's enjoyably trashy shark-survival movie, the definition of summer fun.</text>
+      <source>Time Out</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>http://www.timeout.com/us/film/the-shallows</link>
+      <author>Joshua Rothkopf</author>
+    </item>
+    <item index="3">
+      <text>A splash of fresh seawater in the face of a rather dismal summer movie season. It's very cheesy, which is how escapist summer cinema should be, and part of its charm is that it's not self-reflective enough to be aware of its own cheesiness.</text>
+      <source>Tribune News Service</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>http://www.bendbulletin.com/entertainment/4450428-151/the-shallows?related=1</link>
+      <author>Katie Walsh</author>
+    </item>
+    <item index="4">
+      <text>Is "The Shallows" a thriller for the ages? No, but it's decent popcorn fare.</text>
+      <source>Washington Post</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>https://www.washingtonpost.com/lifestyle/style/the-shallows-pits-blake-lively-against-a-shark--and-is-better-than-that-sounds/2016/06/23/11631504-394c-11e6-9ccd-d6005beac8b3_story.html</link>
+      <author>Michael O'Sullivan</author>
+    </item>
+    <item index="5">
+      <text>School's out, schlock's in - no lessons here.</text>
+      <source>Globe and Mail</source>
+      <image>rottentomatoes://image.review.rotten</image>
+      <link>http://www.theglobeandmail.com/arts/film/film-reviews/the-shallows-is-this-years-surf-and-shark-shocker-with-no-deeper-lesson/article30585494/</link>
+      <author>Brad Wheeler</author>
+    </item>
+    <item index="6">
+      <text>For what it is, "The Shallows" works.</text>
+      <source>Detroit News</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>http://www.detroitnews.com/story/entertainment/movies/2016/06/23/movie-review-shark-thriller-shallows-stays-afloat/86317676/</link>
+      <author>Adam Graham</author>
+    </item>
+    <item index="7">
+      <text>It's all patently ridiculous. But Blake Lively, director Collet-Serra and a digital shark show no mercy in hooking us with the B-movie tension. And we bite.</text>
+      <source>Rolling Stone</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>http://www.rollingstone.com/movies/reviews/the-shallows-20160623</link>
+      <author>Peter Travers</author>
+    </item>
+    <item index="8">
+      <text>The Shallows is a great-looking film, peppered with overhead long shots of the amazingly clear water, and some terrific underwater photography as well.</text>
+      <source>Chicago Sun-Times</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>http://chicago.suntimes.com/entertainment/as-the-shallows-shark-snack-blake-lively-a-seasoned-pro/</link>
+      <author>Richard Roeper</author>
+    </item>
+    <item index="9">
+      <text>[Lively] acquits herself well here, especially in the vulnerable-to-shark-attack department.</text>
+      <source>New York Times</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>http://www.nytimes.com/2016/06/24/movies/the-shallows-review-blake-lively.html</link>
+      <author>Glenn Kenny</author>
+    </item>
+    <item index="10">
+      <text>A fitfully entertaining mix of offscreen gore and Maxim-esque T&amp;A.</text>
+      <source>AV Club</source>
+      <image>rottentomatoes://image.review.rotten</image>
+      <link>http://www.avclub.com/review/gimmicky-survival-thriller-shallows-out-its-depth-238656</link>
+      <author>Ignatiy Vishnevetsky</author>
+    </item>
+    <item index="11">
+      <text>The Shallows is a thoroughly mediocre specimen of the externalized-grief survival flick, distinguished by a strong performance from Gossip Girl alumnus Lively.</text>
+      <source>NPR</source>
+      <image>rottentomatoes://image.review.rotten</image>
+      <link>http://www.npr.org/2016/06/23/482788831/shark-weak-the-shallows-strands-blake-lively-at-sea</link>
+      <author>Chris Klimek</author>
+    </item>
+    <item index="12">
+      <text>A snack-size thriller that isn't quite enough to satisfy.</text>
+      <source>Newsday</source>
+      <image>rottentomatoes://image.review.rotten</image>
+      <link>http://www.newsday.com/entertainment/movies/the-shallows-review-blake-lively-shark-standoff-in-unsatisfying-thriller-1.11953460</link>
+      <author>Rafer Guzman</author>
+    </item>
+    <item index="13">
+      <text>The progression from personal drama to surf film to (wo)man vs. nature story to full-on creature feature is smooth, even expert, and always managed with handsome panache.</text>
+      <source>San Diego Reader</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>http://www.sandiegoreader.com/movies/the-shallows/</link>
+      <author>Matthew Lickona</author>
+    </item>
+    <item index="14">
+      <text>The Shallows is brisk and engaging, and a great vehicle for Lively. The film has the sort of breathtaking cinematography that will inspire you to visit the ocean. And a story that may stop you from ever going into the water again.</text>
+      <source>Toronto Sun</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>http://www.torontosun.com/2016/06/23/the-shallows-review-blake-lively-as-a-bikini-clad-shark-fighter-a-thing-of-beauty</link>
+      <author>Liz Braun</author>
+    </item>
+    <item index="15">
+      <text>This is silly stuff but often genuinely scary, with excellent aerial and undersea photography and some persuasive special effects.</text>
+      <source>Chicago Reader</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>http://www.chicagoreader.com/chicago/the-shallows/MovieTimes?oid=22456704</link>
+      <author>Andrea Gronvall</author>
+    </item>
+    <item index="16">
+      <text>If you're looking for a quick and satisfying summer thrill - a reminder that all you really need to make a movie is a girl and a flare gun - then the aptly titled Blake Lively-vs.-shark thriller "The Shallows" should serve you nicely.</text>
+      <source>Los Angeles Times</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>http://www.latimes.com/entertainment/movies/la-et-mn-shallows-review-20160620-snap-story.html</link>
+      <author>Justin Chang</author>
+    </item>
+    <item index="17">
+      <text>The Shallows pushes the buttons it's supposed to push for a summerthriller, even if the outcome is as deflating as it dumb.</text>
+      <source>Toronto Star</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>https://www.thestar.com/entertainment/movies/2016/06/23/my-what-big-teeth-you-have-the-shallows-review.html</link>
+      <author>Peter Howell</author>
+    </item>
+    <item index="18">
+      <text>Yes, there's shameless bikini ogling, but what could have been throwaway exploitation is instead a frequently gripping portrait of dire-straits resourcefulness.</text>
+      <source>Boston Globe</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>http://www.bostonglobe.com/arts/movies/2016/06/23/star-director-put-some-teeth-into-shark-movie-the-shallows/eScusIuCy9dRZZqSKukkaM/story.html</link>
+      <author>Tom Russo</author>
+    </item>
+    <item index="19">
+      <text>The girl kept talking and strategizing as heavy string music played on the soundtrack.</text>
+      <source>New York Post</source>
+      <image>rottentomatoes://image.review.rotten</image>
+      <link>http://nypost.com/2016/06/23/shark-is-more-interesting-than-blake-lively-in-the-shallows/</link>
+      <author>Kyle Smith</author>
+    </item>
+  </reviews>
+  <roles>
+    <item index="0">
+      <photo>http://image.tmdb.org/t/p/original/3ac8khocFw9Hc87vuNW9RvVq4yc.jpg</photo>
+      <role>Nancy Adams</role>
+      <name>Blake Lively</name>
+    </item>
+    <item index="1">
+      <photo>http://image.tmdb.org/t/p/original/aOv6MLlApilNn21kyJhs66Lx3Ac.jpg</photo>
+      <role>Carlos</role>
+      <name>Óscar Jaenada</name>
+    </item>
+    <item index="2">
+      <photo>http://image.tmdb.org/t/p/original/oJxlDirlBvi2h8wyLyuo5T2JJuQ.jpg</photo>
+      <role>Surfer 1</role>
+      <name>Angelo Josue Lozano Corzo</name>
+    </item>
+    <item index="3">
+      <photo>http://image.tmdb.org/t/p/original/12CNJRWGqjdjEydlj173dMGOMYx.jpg</photo>
+      <role>Surfer 2</role>
+      <name>José Manuel Trujillo Salas</name>
+    </item>
+    <item index="4">
+      <photo>http://image.tmdb.org/t/p/original/dSucCeOCUJy8nDjUjxmWguu3W1D.jpg</photo>
+      <role>Father</role>
+      <name>Brett Cullen</name>
+    </item>
+    <item index="5">
+      <photo>http://image.tmdb.org/t/p/original/cCspVNXINfPio6mLsqFxKkQuvqr.jpg</photo>
+      <role>Chloe Adams</role>
+      <name>Sedona Legge</name>
+    </item>
+    <item index="6">
+      <photo/>
+      <role>Carlo's Son</role>
+      <name>Pablo Calva</name>
+    </item>
+    <item index="7">
+      <photo/>
+      <role>Intoxicated Man</role>
+      <name>Diego Espejel</name>
+    </item>
+    <item index="8">
+      <photo>http://image.tmdb.org/t/p/original/d6QIgtoHKaYVGs0X9kVAITG3jaB.jpg</photo>
+      <role>Mother</role>
+      <name>Janelle Bailey</name>
+    </item>
+    <item index="9">
+      <photo/>
+      <role>Young Nancy</role>
+      <name>Ava Dean</name>
+    </item>
+    <item index="10">
+      <photo>http://image.tmdb.org/t/p/original/lSisQLcPZed7kt0LWX7RUIU5hgV.jpg</photo>
+      <role>Young Mom</role>
+      <name>Chelsea Moody</name>
+    </item>
+    <item index="11">
+      <photo/>
+      <role>Steven Seagull</role>
+      <name>Sully Seagull</name>
+    </item>
+  </roles>
+  <similar>
+    <item index="0">Don't Breathe</item>
+    <item index="1">Lights Out</item>
+    <item index="2">The Boy</item>
+    <item index="3">Ouija: Origin of Evil</item>
+    <item index="4">Blair Witch</item>
+    <item index="5">The Purge: Election Year</item>
+    <item index="6">The Conjuring 2</item>
+    <item index="7">10 Cloverfield Lane</item>
+    <item index="8">Green Room</item>
+    <item index="9">The Visit</item>
+    <item index="10">Money Monster</item>
+    <item index="11">The Witch</item>
+    <item index="12">The Gift</item>
+    <item index="13">Hush</item>
+    <item index="14">The Forest</item>
+    <item index="15">Blood Father</item>
+    <item index="16">Deepwater Horizon</item>
+    <item index="17">No Escape</item>
+    <item index="18">The Finest Hours</item>
+    <item index="19">Friend Request</item>
+  </similar>
+  <studio>Columbia Pictures</studio>
+  <summary>An injured surfer stranded on a buoy needs to get back to shore, but the great white shark stalking her might have other ideas.</summary>
+  <tagline>What was once in the deep is now in the shallows.</tagline>
+  <tags/>
+  <themes/>
+  <title>The Shallows</title>
+  <writers>
+    <item index="0">
+      <photo/>
+      <role/>
+      <name>Anthony Jaswinski</name>
+    </item>
+  </writers>
+  <year>2016</year>
+</Movie>

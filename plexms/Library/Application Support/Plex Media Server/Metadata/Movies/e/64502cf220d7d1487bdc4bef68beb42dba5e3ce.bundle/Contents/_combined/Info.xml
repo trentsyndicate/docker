@@ -1,0 +1,602 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Movie>
+  <art>
+    <item external="True" url="http://image.tmdb.org/t/p/original/pPFbXcONHBntJIAsEn8TaIPPCpZ.jpg" sort_order="1" provider="com.plexapp.agents.imdb" media="com.plexapp.agents.imdb_dba8de644b65dfd4faa101f5551689dfa38b57e8"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/fIrPM2gOvmMA0HLSmuIzw5FiOVJ.jpg" preview="com.plexapp.agents.imdb_625fcb9b9c8ba19590b97a25af74c7bfe22e60b6" sort_order="2" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/dhlP6M48enFrlNugxvZ00af8PUt.jpg" preview="com.plexapp.agents.imdb_7bc8b1584e1062b91b0c36d03b871d056a5d8506" sort_order="3" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/900lhEMTwK4FoULIES1xd1TqoWf.jpg" preview="com.plexapp.agents.imdb_675bede6099c9b0762729c1d949f53e49c5e72da" sort_order="4" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/vmrnxaYx1xlG5jhuFUs51dd3VPA.jpg" preview="com.plexapp.agents.imdb_0a00d138507c1f87fa1c1072dbf588818a49456d" sort_order="5" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/krkkgbtWHlMXVLbPGdIxzxKJERM.jpg" preview="com.plexapp.agents.imdb_ff1c712b7cb01d6dbf8d8dfed7c14c23166863f0" sort_order="6" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/pjuq4N7tKsJPofRXDxxiLBka6po.jpg" preview="com.plexapp.agents.imdb_d5332621a28be2e9a0503b7757ca83328b0eabe4" sort_order="7" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/izYCpovyAIKLI2i3gmhSKxlR8Pk.jpg" preview="com.plexapp.agents.imdb_e03f809c1cebe31a62d3a53031b90a23342aa855" sort_order="8" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/uWLhdh8C5gMKu2DnPDyUIr7Z5np.jpg" preview="com.plexapp.agents.imdb_61a9f640e849063045de5af6559b542a0ad85c85" sort_order="9" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/etoKFDfjME8rVlkivUtyscjSan6.jpg" preview="com.plexapp.agents.imdb_aeba25ddf09aaf03a30af8e95c3806f66b7c31de" sort_order="10" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/jwCypxoLwdp1TtKbGd2T5GHmDGI.jpg" preview="com.plexapp.agents.imdb_fb827f9d340382e73449556d31baeaccb88a18ee" sort_order="11" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/mmL2TYdf4rSni5QYYEVKJRSevdw.jpg" preview="com.plexapp.agents.imdb_6b82882bd9751b2aa29986eb2c10310233652d79" sort_order="12" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/lfmsyUVuWhYuoKA0GO1awugTyew.jpg" preview="com.plexapp.agents.imdb_d378dd4c1d5992c9060e97fd9a4e0d7da38618d1" sort_order="13" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/9puGKrF3MMZ6Ua4OJZcmrIlILWG.jpg" preview="com.plexapp.agents.imdb_e0dba7f6699657ec560f3ce87411bd7d88b5f764" sort_order="14" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/ywGGAeuHjUDqMFheSDCiRBURMNJ.jpg" preview="com.plexapp.agents.imdb_f7f048fa3528b7e198728d562556d68e51edee72" sort_order="15" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/aNeQ5AoOJtujcusajrW11aLTvci.jpg" preview="com.plexapp.agents.imdb_332341a0945f11d9b892652115e8af4686ac257e" sort_order="16" provider="com.plexapp.agents.imdb"/>
+  </art>
+  <banners/>
+  <chapters>
+    <item index="0">
+      <title>Chapter 1</title>
+      <end_time_offset>359000</end_time_offset>
+      <start_time_offset>0</start_time_offset>
+    </item>
+    <item index="1">
+      <title>Chapter 2</title>
+      <end_time_offset>599000</end_time_offset>
+      <start_time_offset>359000</start_time_offset>
+    </item>
+    <item index="2">
+      <title>Chapter 3</title>
+      <end_time_offset>1038000</end_time_offset>
+      <start_time_offset>599000</start_time_offset>
+    </item>
+    <item index="3">
+      <title>Chapter 4</title>
+      <end_time_offset>1459000</end_time_offset>
+      <start_time_offset>1038000</start_time_offset>
+    </item>
+    <item index="4">
+      <title>Chapter 5</title>
+      <end_time_offset>2000000</end_time_offset>
+      <start_time_offset>1459000</start_time_offset>
+    </item>
+    <item index="5">
+      <title>Chapter 6</title>
+      <end_time_offset>2749000</end_time_offset>
+      <start_time_offset>2000000</start_time_offset>
+    </item>
+    <item index="6">
+      <title>Chapter 7</title>
+      <end_time_offset>3186000</end_time_offset>
+      <start_time_offset>2749000</start_time_offset>
+    </item>
+    <item index="7">
+      <title>Chapter 8</title>
+      <end_time_offset>3714000</end_time_offset>
+      <start_time_offset>3186000</start_time_offset>
+    </item>
+    <item index="8">
+      <title>Chapter 9</title>
+      <end_time_offset>4158000</end_time_offset>
+      <start_time_offset>3714000</start_time_offset>
+    </item>
+    <item index="9">
+      <title>Chapter 10</title>
+      <end_time_offset>4567000</end_time_offset>
+      <start_time_offset>4158000</start_time_offset>
+    </item>
+    <item index="10">
+      <title>Chapter 11</title>
+      <end_time_offset>4944000</end_time_offset>
+      <start_time_offset>4567000</start_time_offset>
+    </item>
+    <item index="11">
+      <title>Chapter 12</title>
+      <end_time_offset>5330000</end_time_offset>
+      <start_time_offset>4944000</start_time_offset>
+    </item>
+    <item index="12">
+      <title>Chapter 13</title>
+      <end_time_offset>5806000</end_time_offset>
+      <start_time_offset>5330000</start_time_offset>
+    </item>
+    <item index="13">
+      <title>Chapter 14</title>
+      <end_time_offset>6225000</end_time_offset>
+      <start_time_offset>5806000</start_time_offset>
+    </item>
+    <item index="14">
+      <title>Chapter 15</title>
+      <end_time_offset>6733000</end_time_offset>
+      <start_time_offset>6225000</start_time_offset>
+    </item>
+    <item index="15">
+      <title>Chapter 16</title>
+      <end_time_offset>-1</end_time_offset>
+      <start_time_offset>6733000</start_time_offset>
+    </item>
+  </chapters>
+  <collections/>
+  <content_rating>R</content_rating>
+  <countries>
+    <item index="0">USA</item>
+  </countries>
+  <directors>
+    <item index="0">
+      <photo>http://image.tmdb.org/t/p/original/1pR16H0zqRG49ns8cYykYpodgGF.jpg</photo>
+      <role/>
+      <name>Peter Berg</name>
+    </item>
+  </directors>
+  <duration>7260000</duration>
+  <genres>
+    <item index="0">Action</item>
+    <item index="1">Biography</item>
+    <item index="2">Drama</item>
+    <item index="3">Thriller</item>
+    <item index="4">War</item>
+  </genres>
+  <originally_available_at>2013-12-24</originally_available_at>
+  <posters>
+    <item external="True" url="http://image.tmdb.org/t/p/original/1bt5bqIyD6nEADWpuESgxMnh8DZ.jpg" sort_order="1" provider="com.plexapp.agents.imdb" media="com.plexapp.agents.imdb_efdc6e45b06c0a6a3c3fa7608cc0a16efa4a46b6"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/8ST6iVp3fkUSbUpXRAc2Q96YQRk.jpg" preview="com.plexapp.agents.imdb_2d319509993cfd6ead4956d0cd5134e52bca8921" sort_order="2" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/c7Sqof18FgkoNcA0r5BFUcPLER1.jpg" preview="com.plexapp.agents.imdb_967a21a42681f349129328a7b75563bb52346557" sort_order="3" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/sBCMBaT2J63l9R7twgnzZxuOP87.jpg" preview="com.plexapp.agents.imdb_0d636b9dc76070620232b737510956492449e950" sort_order="4" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/nxX8horlRBSrMafmhYnSwnQKwtl.jpg" preview="com.plexapp.agents.imdb_3f7c604f148f178afb8790c12ea4870f45db05cf" sort_order="5" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/wss9pEiHbQYNwmwVwXpmxG9pF3Z.jpg" preview="com.plexapp.agents.imdb_acb5e424d018d730fad400b0c78db2d4818fdbb0" sort_order="6" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/1nZrX4HTSZPAnw4IjQ41tq8wUGf.jpg" preview="com.plexapp.agents.imdb_4f9dc39cc922791c2766594bc223d039a5770aa1" sort_order="7" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/bAf068rE72hrwCNWFub3fGW6euM.jpg" preview="com.plexapp.agents.imdb_77b42dc07e295ee85b822606ca20b6339e457a3e" sort_order="8" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/5gsneGI5dWoHv8cP5Nddharn7Ib.jpg" preview="com.plexapp.agents.imdb_e79dd0263feacf93bc1c8fc7dc9f47ff7dd1c288" sort_order="9" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/t82XYYSlyckHWfhKXhjwyhqe4e7.jpg" preview="com.plexapp.agents.imdb_f68a10e8fcd7084cf1bf15355c6c3fd59b8b24d6" sort_order="10" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/vtL0USrpoL7Yht0hqShEIQXNjrv.jpg" preview="com.plexapp.agents.imdb_9db2eb0e63d12065a4a415198b954d3bb49fe2fd" sort_order="11" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/5Br1jkNgc9SVXlXhsebA0XBSfAM.jpg" preview="com.plexapp.agents.imdb_1421640a77cbc13ad8f1708d7e86826c4c595bcf" sort_order="12" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/tVq4EVixCwSDiPojlbafoHfTsU4.jpg" preview="com.plexapp.agents.imdb_aac5668e2bbbf3c8f9aa7d4c5c1853331439ae07" sort_order="13" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/iQapaQ9dR4Mtv99asch6HHxgeFR.jpg" preview="com.plexapp.agents.imdb_510a870960a1a36b2a70c618845b1f496c6ce036" sort_order="14" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/ztgbgJ2ilNnAdZil2Wm6L0G0WkX.jpg" preview="com.plexapp.agents.imdb_b66fbfdf187b40133445c3150441ad7ffc0d5b44" sort_order="15" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/8bqTGcerHiWmwAsPm1CPg1Q34I4.jpg" preview="com.plexapp.agents.imdb_82f1203e5ae30308b4d823efe6cbb0abeacba0f3" sort_order="16" provider="com.plexapp.agents.imdb"/>
+  </posters>
+  <producers>
+    <item index="0">
+      <photo>http://image.tmdb.org/t/p/original/iconL2emSmMqL5RhXxJC2XtQrb1.jpg</photo>
+      <role/>
+      <name>Sarah Aubrey</name>
+    </item>
+    <item index="1">
+      <photo/>
+      <role/>
+      <name>Randall Emmett</name>
+    </item>
+    <item index="2">
+      <photo>http://image.tmdb.org/t/p/original/smyKiXX4rAfehztrmg3lxgRAuZF.jpg</photo>
+      <role/>
+      <name>Akiva Goldsman</name>
+    </item>
+    <item index="3">
+      <photo/>
+      <role/>
+      <name>Norton Herrick</name>
+    </item>
+    <item index="4">
+      <photo/>
+      <role/>
+      <name>Barry Spikings</name>
+    </item>
+    <item index="5">
+      <photo>http://image.tmdb.org/t/p/original/z2wJh5n7qZRUE1y9uB8UrivAV2b.jpg</photo>
+      <role/>
+      <name>Mark Wahlberg</name>
+    </item>
+    <item index="6">
+      <photo/>
+      <role/>
+      <name>Stephen Levinson</name>
+    </item>
+    <item index="7">
+      <photo/>
+      <role/>
+      <name>Vitaly Grigoriants</name>
+    </item>
+    <item index="8">
+      <photo>http://image.tmdb.org/t/p/original/1pR16H0zqRG49ns8cYykYpodgGF.jpg</photo>
+      <role/>
+      <name>Peter Berg</name>
+    </item>
+  </producers>
+  <rating>7.6</rating>
+  <rating_image>rottentomatoes://image.rating.ripe</rating_image>
+  <audience_rating>8.7</audience_rating>
+  <audience_rating_image>rottentomatoes://image.rating.upright</audience_rating_image>
+  <reviews>
+    <item index="0">
+      <text>Lone Survivor isn't always sophisticated ... But there's moral complexity and a climax in an Afghan village which is tense and surprisingly moving.</text>
+      <source>Time Out</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>http://www.timeout.com/london/film/lone-survivor</link>
+      <author>Ashley Clark</author>
+    </item>
+    <item index="1">
+      <text>Lone Survivor' hits home and hits hard.</text>
+      <source>Richard Roeper.com</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>http://www.richardroeper.com/reviews/lonesurvivor.aspx</link>
+      <author>Richard Roeper</author>
+    </item>
+    <item index="2">
+      <text>There's a gruesome, you-are-there authenticity to the action as the heroes spill their blood and guts on the battlefield.</text>
+      <source>Us Weekly</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>http://www.usmagazine.com/entertainment/news/oscars-2014-the-5-must-see-films-2014111</link>
+      <author>Mara Reinstein</author>
+    </item>
+    <item index="3">
+      <text>The film effectively assaults its audience almost as aggressively as its subjects.</text>
+      <source>Film.com</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>http://www.film.com/movies/lone-survivor-review</link>
+      <author>William Goss</author>
+    </item>
+    <item index="4">
+      <text>The film's director, Peter Berg, wants to immerse you so deeply that you feel as if your bones are breaking, too. There's a price, of course, for that kind of immersion: It becomes tough to see the movie for the drum-beating.</text>
+      <source>Grantland</source>
+      <image>rottentomatoes://image.review.rotten</image>
+      <link>http://www.grantland.com/story/_/id/10269556/mark-wahlberg-peter-berg-lone-survivor</link>
+      <author>Wesley Morris</author>
+    </item>
+    <item index="5">
+      <text>Lone Survivor is a brutally effective movie, made by people who think that they're serving their country. But they're just making us coarser and more self-centered.</text>
+      <source>New York Magazine/Vulture</source>
+      <image>rottentomatoes://image.review.rotten</image>
+      <link>http://www.vulture.com/2014/01/lone-survivor-movie-review-david-edelstein.html</link>
+      <author>David Edelstein</author>
+    </item>
+    <item index="6">
+      <text>Berg's fine achievement is in relaying that sense of abject danger even as he and his actors honor the utter connection of the men who lost their lives that day.</text>
+      <source>Denver Post</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>http://www.denverpost.com/movies/ci_24872411/review-harrowing-lone-survivor-captures-dietzs-story-and</link>
+      <author>Lisa Kennedy</author>
+    </item>
+    <item index="7">
+      <text>The sensation of being pinned down and shot apart is so harrowingly conveyed by Peter Berg's fact-based war movie Lone Survivor that one almost forgives the movie's failure to be quite as persuasive in almost every other respect.</text>
+      <source>Globe and Mail</source>
+      <image>rottentomatoes://image.review.rotten</image>
+      <link>http://www.theglobeandmail.com/arts/film/film-reviews/lone-survivor-combat-without-the-context/article16254318/</link>
+      <author>Geoff Pevere</author>
+    </item>
+    <item index="8">
+      <text>It's hard to be all that you can be when you're a corpse. In essence, the film admires the team but exposes the game. And the game is ugly indeed.</text>
+      <source>Detroit News</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>http://www.detroitnews.com/article/20140110/ENT02/301100024</link>
+      <author>Tom Long</author>
+    </item>
+    <item index="9">
+      <text>A step-by-fateful-step study of human endurance, of desperation, of resolve, and resignation.</text>
+      <source>Philadelphia Inquirer</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>http://www.philly.com/philly/entertainment/movies/20140110__Lone_Survivor___Invincible_men_who_bleed_and_break.html</link>
+      <author>Steven Rea</author>
+    </item>
+    <item index="10">
+      <text>Lone Survivor comes on like a raised fist.</text>
+      <source>Toronto Star</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>http://www.thestar.com/entertainment/movies/2014/01/09/lone_survivor_is_more_than_a_war_movie_review.html</link>
+      <author>Peter Howell</author>
+    </item>
+    <item index="11">
+      <text>Berg gives us a movingly bullet-chipped plaque of a drama that's good as far as it goes. But it doesn't go far enough anymore.</text>
+      <source>Boston Globe</source>
+      <image>rottentomatoes://image.review.rotten</image>
+      <link>http://www.boston.com/ae/movies/2014/01/09/movie-review-lone-survivor/7mvoEpwSMY7nN15qKuCwCJ/story.html</link>
+      <author>Ty Burr</author>
+    </item>
+    <item index="12">
+      <text>We might look through the movie toward appreciating what the actual men went through, but that alone can't turn "Lone Survivor" into a satisfying movie experience.</text>
+      <source>San Francisco Chronicle</source>
+      <image>rottentomatoes://image.review.rotten</image>
+      <link>http://www.sfgate.com/entertainment/article/Lone-Survivor-review-War-film-s-title-tells-us-5127983.php</link>
+      <author>Mick LaSalle</author>
+    </item>
+    <item index="13">
+      <text>What's missing here is something, or rather, someone, to care about.</text>
+      <source>Washington Post</source>
+      <image>rottentomatoes://image.review.rotten</image>
+      <link>http://www.washingtonpost.com/goingoutguide/movies/lone-survivor-movie-review-missing-a-chance-to-make-a-connection/2014/01/08/b72ffd9e-73d3-11e3-8def-a33011492df2_story.html</link>
+      <author>Michael O'Sullivan</author>
+    </item>
+    <item index="14">
+      <text>Gripping, unrelenting, brutally proficient moviemaking, a just-the-facts war movie about four Navy SEALS on an Afghan mission gone fatally wrong.</text>
+      <source>Minneapolis Star Tribune</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>http://www.startribune.com/entertainment/movies/239470211.html</link>
+      <author>Colin Covert</author>
+    </item>
+    <item index="15">
+      <text>This has relatively little to say about why the U.S. armed forces invaded Afghanistan in the first place, but it's effective as genre filmmaking and surprisingly respectful in its depiction of non-Taliban Afghans.</text>
+      <source>Chicago Reader</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>http://www.chicagoreader.com/chicago/lone-survivor/Film?oid=11874957</link>
+      <author>Ben Sachs</author>
+    </item>
+    <item index="16">
+      <text>A virtuoso, brutal rendering of a SEAL team's fight for life in a forbidding patch of Afghanistan.</text>
+      <source>Orange County Register</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>http://www.ocregister.com/articles/berg-596546-seals-taliban.html</link>
+      <author>Michael Sragow</author>
+    </item>
+    <item index="17">
+      <text>Wahlberg remains one of our most reliable and least actorly of movie stars, innately macho but vulnerable enough to seem like a human being caught in an inhuman situation.</text>
+      <source>Chicago Tribune</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>http://www.chicagotribune.com/entertainment/movies/chi-lone-survivor-0110-20140109,0,7204353.column</link>
+      <author>Michael Phillips</author>
+    </item>
+    <item index="18">
+      <text>Not since 2001's "Black Hawk Down" has the bloody chaos of war been so graphically portrayed in a Hollywood feature.</text>
+      <source>Seattle Times</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>http://seattletimes.com/html/entertainment/2022625578_lonesurvivorxml.html?syndication=rss</link>
+      <author>Soren Anderson</author>
+    </item>
+  </reviews>
+  <roles>
+    <item index="0">
+      <photo>http://image.tmdb.org/t/p/original/z2wJh5n7qZRUE1y9uB8UrivAV2b.jpg</photo>
+      <role>Petty Officer First Class Marcus Luttrell</role>
+      <name>Mark Wahlberg</name>
+    </item>
+    <item index="1">
+      <photo>http://image.tmdb.org/t/p/original/pSl4peDN0veZx89ClhFXKSIOQJH.jpg</photo>
+      <role>Lieutenant Michael "Mike" Murphy</role>
+      <name>Taylor Kitsch</name>
+    </item>
+    <item index="2">
+      <photo>http://image.tmdb.org/t/p/original/jAYar4EGc0nvGIYOhlMG4wjmCfb.jpg</photo>
+      <role>Petty Officer Second Class Danny Dietz</role>
+      <name>Emile Hirsch</name>
+    </item>
+    <item index="3">
+      <photo>http://image.tmdb.org/t/p/original/kETVqU8PMDM44wM5mxPeegdGt2F.jpg</photo>
+      <role>Petty Officer Second Class Matthew "Axe" Axelson</role>
+      <name>Ben Foster</name>
+    </item>
+    <item index="4">
+      <photo>http://image.tmdb.org/t/p/original/36As49OkTNvT96CzzjXNuKMeuyx.jpg</photo>
+      <role>Lieutenant Commander Erik Kristensen</role>
+      <name>Eric Bana</name>
+    </item>
+    <item index="5">
+      <photo>http://image.tmdb.org/t/p/original/orQk2ePFL6er4TrdhD0jZ9my3E3.jpg</photo>
+      <role>Mohammad Gulab</role>
+      <name>Ali Suliman</name>
+    </item>
+    <item index="6">
+      <photo>http://image.tmdb.org/t/p/original/oqhDHWdyD5ZSkZnulVQc9e24KE4.jpg</photo>
+      <role>Petty Officer Second Class Shane Patton</role>
+      <name>Alexander Ludwig</name>
+    </item>
+    <item index="7">
+      <photo>http://image.tmdb.org/t/p/original/lEB2ryIlwygt5msLv4ICxPKBYxX.jpg</photo>
+      <role>Shah</role>
+      <name>Yousuf Azami</name>
+    </item>
+    <item index="8">
+      <photo>http://image.tmdb.org/t/p/original/gQ67uMJsn8V8iSdC3XXFd4LjoCm.jpg</photo>
+      <role>Taraq</role>
+      <name>Sammy Sheik</name>
+    </item>
+    <item index="9">
+      <photo>http://image.tmdb.org/t/p/original/2yerUuH9NAEOr02vSJk19C8gTeb.jpg</photo>
+      <role>James Suh</role>
+      <name>Rich Ting</name>
+    </item>
+    <item index="10">
+      <photo>http://image.tmdb.org/t/p/original/xNvGQiUfsJh6vXGJiyreQ8aHhMO.jpg</photo>
+      <role>Healy</role>
+      <name>Dan Bilzerian</name>
+    </item>
+    <item index="11">
+      <photo>http://image.tmdb.org/t/p/original/sjYRLct4yHiRDQWM0nOvhDr2yAP.jpg</photo>
+      <role>Hasslert</role>
+      <name>Jerry Ferrara</name>
+    </item>
+    <item index="12">
+      <photo>http://image.tmdb.org/t/p/original/Pan48d8UfvPB3LDr9gIfJ1fite.jpg</photo>
+      <role>Crew Chief</role>
+      <name>Rick Vargas</name>
+    </item>
+    <item index="13">
+      <photo>http://image.tmdb.org/t/p/original/vQDfUsMwMKvfuHrAKTIckC5Ihbx.jpg</photo>
+      <role>QRF SEAL</role>
+      <name>Scott Elrod</name>
+    </item>
+    <item index="14">
+      <photo>http://image.tmdb.org/t/p/original/66rzcJYED4S5lzOYKRnTJnIWUV7.jpg</photo>
+      <role>Chinook Pilot #1</role>
+      <name>Gregory Rockwood</name>
+    </item>
+    <item index="15">
+      <photo/>
+      <role>Chinook Pilot #2</role>
+      <name>Ryan Kay</name>
+    </item>
+    <item index="16">
+      <photo/>
+      <role>Chinook Co-Pilot</role>
+      <name>Patrick Griffin</name>
+    </item>
+    <item index="17">
+      <photo>http://image.tmdb.org/t/p/original/urXSysxyuVeE4OCKGInIhT9IqyR.jpg</photo>
+      <role>Communication SEAL</role>
+      <name>Josh Berry</name>
+    </item>
+    <item index="18">
+      <photo>http://image.tmdb.org/t/p/original/3efAfmvUn1ea5f6qGUczkuvfa4w.jpg</photo>
+      <role>SEAL Lieutenant</role>
+      <name>Eric Steinig</name>
+    </item>
+    <item index="19">
+      <photo/>
+      <role>CJSOTF Commander</role>
+      <name>David Shepard</name>
+    </item>
+    <item index="20">
+      <photo>http://image.tmdb.org/t/p/original/8WyRV4ogNwoG64pHsEGdGiacYfT.jpg</photo>
+      <role>CJSOTF Marine</role>
+      <name>Justin Tade</name>
+    </item>
+    <item index="21">
+      <photo>http://image.tmdb.org/t/p/original/aZ1Y9MITLHgeK23ne3FnoVlhaCV.jpg</photo>
+      <role>Bagram Comms Guy</role>
+      <name>Sterling Jones</name>
+    </item>
+    <item index="22">
+      <photo/>
+      <role>50 Cal Gunner</role>
+      <name>Jason Riggins</name>
+    </item>
+    <item index="23">
+      <photo>http://image.tmdb.org/t/p/original/nTAAP1s4Y0e6bW1Vyq9MqzCG95y.jpg</photo>
+      <role>Army Intel Guy</role>
+      <name>Matthew Page</name>
+    </item>
+    <item index="24">
+      <photo>http://image.tmdb.org/t/p/original/ehWCGx9g6T2JxMRI5CbeHapQWD6.jpg</photo>
+      <role>Goat Boy</role>
+      <name>Nicholas Patel</name>
+    </item>
+    <item index="25">
+      <photo/>
+      <role>Teenage Goat Boy</role>
+      <name>Daniel Arroyo</name>
+    </item>
+    <item index="26">
+      <photo/>
+      <role>Goat Man</role>
+      <name>Zarin Rahimi</name>
+    </item>
+    <item index="27">
+      <photo>http://image.tmdb.org/t/p/original/6lTLuGmxXUmGZ2hN1Obz1alc1rt.jpg</photo>
+      <role>Gulab's Young Son</role>
+      <name>Rohan Chand</name>
+    </item>
+    <item index="28">
+      <photo/>
+      <role>TOC Senior Air Officer</role>
+      <name>Anthony McKenzie</name>
+    </item>
+    <item index="29">
+      <photo/>
+      <role>TOC SEAL</role>
+      <name>Brian Call</name>
+    </item>
+    <item index="30">
+      <photo/>
+      <role>Doctor</role>
+      <name>Ishmael Antonio</name>
+    </item>
+    <item index="31">
+      <photo>http://image.tmdb.org/t/p/original/qoBpIOrR1pLSPM5I5MJEsqBhQn2.jpg</photo>
+      <role>JAG</role>
+      <name>Samuel J. Cloud</name>
+    </item>
+    <item index="32">
+      <photo/>
+      <role>Communication SEAL Perry</role>
+      <name>Perparim "Peter" Bici</name>
+    </item>
+    <item index="33">
+      <photo>http://image.tmdb.org/t/p/original/wK5JIVWjoNZV1QUYjCLm6F1n26g.jpg</photo>
+      <role>Penzi</role>
+      <name>Henry Penzi</name>
+    </item>
+    <item index="34">
+      <photo/>
+      <role>Captain Jacoby</role>
+      <name>Robert Loerke</name>
+    </item>
+    <item index="35">
+      <photo/>
+      <role>Captain Lovas</role>
+      <name>Kurt Carlson</name>
+    </item>
+    <item index="36">
+      <photo/>
+      <role>Lieutenant Andrews</role>
+      <name>Daniel Fulcoly</name>
+    </item>
+    <item index="37">
+      <photo/>
+      <role>Wallace</role>
+      <name>Michael P. Herrmann</name>
+    </item>
+    <item index="38">
+      <photo/>
+      <role>"EOD" Paul</role>
+      <name>Paul Craig</name>
+    </item>
+    <item index="39">
+      <photo>http://image.tmdb.org/t/p/original/8PIge1GnMukN6zDd0JXqMkkfhwX.jpg</photo>
+      <role>Zabi</role>
+      <name>Zabiullah Mirzai</name>
+    </item>
+    <item index="40">
+      <photo/>
+      <role>Hocker</role>
+      <name>John Hocker</name>
+    </item>
+    <item index="41">
+      <photo/>
+      <role>Village Elder</role>
+      <name>Robert H. Doudell</name>
+    </item>
+    <item index="42">
+      <photo/>
+      <role>Angry Villager</role>
+      <name>Hillel Michael Shamam</name>
+    </item>
+    <item index="43">
+      <photo/>
+      <role>PJ #1</role>
+      <name>Edmund Blanchet</name>
+    </item>
+    <item index="44">
+      <photo/>
+      <role>PJ #2</role>
+      <name>Jim Cusic</name>
+    </item>
+    <item index="45">
+      <photo>http://image.tmdb.org/t/p/original/a5fUescZlSJ8xbMdSk2BQ7a1onU.jpg</photo>
+      <role>SEAL Captain Kenney (uncredited)</role>
+      <name>Corey Large</name>
+    </item>
+    <item index="46">
+      <photo>http://image.tmdb.org/t/p/original/1pR16H0zqRG49ns8cYykYpodgGF.jpg</photo>
+      <role>Soldier (uncredited)</role>
+      <name>Peter Berg</name>
+    </item>
+  </roles>
+  <similar>
+    <item index="0">Shooter</item>
+    <item index="1">Captain Phillips</item>
+    <item index="2">Homefront</item>
+    <item index="3">2 Guns</item>
+    <item index="4">Non-Stop</item>
+    <item index="5">Jack Ryan: Shadow Recruit</item>
+    <item index="6">Out of the Furnace</item>
+    <item index="7">Pain &amp; Gain</item>
+    <item index="8">Sabotage</item>
+    <item index="9">The Hurt Locker</item>
+    <item index="10">Green Zone</item>
+    <item index="11">Contraband</item>
+    <item index="12">End of Watch</item>
+    <item index="13">Black Hawk Down</item>
+    <item index="14">3 Days to Kill</item>
+    <item index="15">Escape Plan</item>
+    <item index="16">White House Down</item>
+    <item index="17">Defiance</item>
+    <item index="18">Body of Lies</item>
+    <item index="19">Jarhead</item>
+  </similar>
+  <studio>Herrick Entertainment</studio>
+  <summary>Four Navy SEALs on a covert mission to neutralize a high-level al-Qaeda operative must make an impossible moral decision in the mountains of Afghanistan that leads them into an enemy ambush. As they confront unthinkable odds, the SEALs must find reserves of strength and resilience to fight to the finish.</summary>
+  <tagline>Based on true acts of courage</tagline>
+  <tags/>
+  <themes/>
+  <title>Lone Survivor</title>
+  <writers>
+    <item index="0">
+      <photo>http://image.tmdb.org/t/p/original/1pR16H0zqRG49ns8cYykYpodgGF.jpg</photo>
+      <role/>
+      <name>Peter Berg</name>
+    </item>
+  </writers>
+  <year>2013</year>
+</Movie>

@@ -1,0 +1,323 @@
+<?xml version='1.0' encoding='utf-8'?>
+<MediaContainer size="16" identifier="com.plexapp.agents.imdb" mediaTagPrefix="/system/bundle/media/flags/" prefsKey="/:/plugins/com.plexapp.agents.imdb/prefs">
+  <Video url="iva://api.internetvideoarchive.com/2.0/DataService/VideoAssets(340156)?lang=en&amp;bitrates=80,212,450,750,1500,2500,5000,8000&amp;duration=144&amp;adaptive=1&amp;dts=0" key="/system/services/url/lookup?url=iva%3A%2F%2Fapi.internetvideoarchive.com%2F2.0%2FDataService%2FVideoAssets%28340156%29%3Flang%3Den%26bitrates%3D80%2C212%2C450%2C750%2C1500%2C2500%2C5000%2C8000%26duration%3D144%26adaptive%3D1%26dts%3D0" type="clip" relationType="trailer" year="2017" title="The Great Wall (Clean Trailer)" originallyAvailableAt="2017-12-18" thumb="https://iva-images.plex.tv/content/hdphotos/11604/011604/011604_1280x720_340156_021.jpg" ratingKey="iva://api.internetvideoarchive.com/2.0/DataService/VideoAssets(340156)?lang=en&amp;bitrates=80,212,450,750,1500,2500,5000,8000&amp;duration=144&amp;adaptive=1&amp;dts=0">
+    <Media container="mp4" height="1080" width="1920" audioCodec="aac" duration="144000" videoCodec="h264" bitrate="2500">
+      <Part duration="144000" key="/services/iva/assets/340156/video.mp4?bitrate=2500" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="1080" width="1920" codec="h264" bitrate="2500" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+    <Media container="mp4" height="720" width="1280" audioCodec="aac" duration="144000" videoCodec="h264" bitrate="1500">
+      <Part duration="144000" key="/services/iva/assets/340156/video.mp4?bitrate=1500" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="720" width="1280" codec="h264" bitrate="1500" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+    <Media container="mp4" height="480" width="640" audioCodec="aac" duration="144000" videoCodec="h264" bitrate="450">
+      <Part duration="144000" key="/services/iva/assets/340156/video.mp4?bitrate=450" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="480" width="640" codec="h264" bitrate="450" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+  </Video>
+  <Video url="iva://api.internetvideoarchive.com/2.0/DataService/VideoAssets(381773)?lang=en&amp;bitrates=80,212,450,750,1500,2500,5000,8000&amp;duration=95&amp;adaptive=1&amp;dts=0" key="/system/services/url/lookup?url=iva%3A%2F%2Fapi.internetvideoarchive.com%2F2.0%2FDataService%2FVideoAssets%28381773%29%3Flang%3Den%26bitrates%3D80%2C212%2C450%2C750%2C1500%2C2500%2C5000%2C8000%26duration%3D95%26adaptive%3D1%26dts%3D0" type="clip" relationType="behindTheScenes" year="2017" title="The Great Wall: Zhang Yimou-China's Great Director (Featurette)" originallyAvailableAt="2017-02-20" thumb="https://iva-images.plex.tv/content/hdphotos/10930/010930/010930_1280x720_381773_045.jpg" ratingKey="iva://api.internetvideoarchive.com/2.0/DataService/VideoAssets(381773)?lang=en&amp;bitrates=80,212,450,750,1500,2500,5000,8000&amp;duration=95&amp;adaptive=1&amp;dts=0">
+    <Media container="mp4" height="1080" width="1920" audioCodec="aac" duration="95000" videoCodec="h264" bitrate="2500">
+      <Part duration="95000" key="/services/iva/assets/381773/video.mp4?bitrate=2500" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="1080" width="1920" codec="h264" bitrate="2500" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+    <Media container="mp4" height="720" width="1280" audioCodec="aac" duration="95000" videoCodec="h264" bitrate="1500">
+      <Part duration="95000" key="/services/iva/assets/381773/video.mp4?bitrate=1500" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="720" width="1280" codec="h264" bitrate="1500" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+    <Media container="mp4" height="480" width="640" audioCodec="aac" duration="95000" videoCodec="h264" bitrate="450">
+      <Part duration="95000" key="/services/iva/assets/381773/video.mp4?bitrate=450" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="480" width="640" codec="h264" bitrate="450" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+  </Video>
+  <Video url="iva://api.internetvideoarchive.com/2.0/DataService/VideoAssets(865444)?lang=en&amp;bitrates=80,212,450,750,1500,2500,5000,8000&amp;duration=83&amp;adaptive=1&amp;dts=0" key="/system/services/url/lookup?url=iva%3A%2F%2Fapi.internetvideoarchive.com%2F2.0%2FDataService%2FVideoAssets%28865444%29%3Flang%3Den%26bitrates%3D80%2C212%2C450%2C750%2C1500%2C2500%2C5000%2C8000%26duration%3D83%26adaptive%3D1%26dts%3D0" type="clip" relationType="behindTheScenes" year="2017" title="The Great Wall: Character Piece: Tovar/Pedro Pascal (Featurette)" originallyAvailableAt="2017-02-16" thumb="https://iva-images.plex.tv/content/hdphotos/10921/010921/010921_1280x720_865444_084.jpg" ratingKey="iva://api.internetvideoarchive.com/2.0/DataService/VideoAssets(865444)?lang=en&amp;bitrates=80,212,450,750,1500,2500,5000,8000&amp;duration=83&amp;adaptive=1&amp;dts=0">
+    <Media container="mp4" height="1080" width="1920" audioCodec="aac" duration="83000" videoCodec="h264" bitrate="2500">
+      <Part duration="83000" key="/services/iva/assets/865444/video.mp4?bitrate=2500" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="1080" width="1920" codec="h264" bitrate="2500" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+    <Media container="mp4" height="720" width="1280" audioCodec="aac" duration="83000" videoCodec="h264" bitrate="1500">
+      <Part duration="83000" key="/services/iva/assets/865444/video.mp4?bitrate=1500" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="720" width="1280" codec="h264" bitrate="1500" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+    <Media container="mp4" height="480" width="640" audioCodec="aac" duration="83000" videoCodec="h264" bitrate="450">
+      <Part duration="83000" key="/services/iva/assets/865444/video.mp4?bitrate=450" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="480" width="640" codec="h264" bitrate="450" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+  </Video>
+  <Video url="iva://api.internetvideoarchive.com/2.0/DataService/VideoAssets(679203)?lang=en&amp;bitrates=80,212,450,750,1500,2500,5000,8000&amp;duration=161&amp;adaptive=1&amp;dts=0" key="/system/services/url/lookup?url=iva%3A%2F%2Fapi.internetvideoarchive.com%2F2.0%2FDataService%2FVideoAssets%28679203%29%3Flang%3Den%26bitrates%3D80%2C212%2C450%2C750%2C1500%2C2500%2C5000%2C8000%26duration%3D161%26adaptive%3D1%26dts%3D0" type="clip" relationType="behindTheScenes" year="2017" title="The Great Wall: Shooting In China (Featurette)" originallyAvailableAt="2017-02-14" thumb="https://iva-images.plex.tv/content/hdphotos/10917/010917/010917_1280x720_679203_203.jpg" ratingKey="iva://api.internetvideoarchive.com/2.0/DataService/VideoAssets(679203)?lang=en&amp;bitrates=80,212,450,750,1500,2500,5000,8000&amp;duration=161&amp;adaptive=1&amp;dts=0">
+    <Media container="mp4" height="1080" width="1920" audioCodec="aac" duration="161000" videoCodec="h264" bitrate="2500">
+      <Part duration="161000" key="/services/iva/assets/679203/video.mp4?bitrate=2500" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="1080" width="1920" codec="h264" bitrate="2500" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+    <Media container="mp4" height="720" width="1280" audioCodec="aac" duration="161000" videoCodec="h264" bitrate="1500">
+      <Part duration="161000" key="/services/iva/assets/679203/video.mp4?bitrate=1500" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="720" width="1280" codec="h264" bitrate="1500" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+    <Media container="mp4" height="480" width="640" audioCodec="aac" duration="161000" videoCodec="h264" bitrate="450">
+      <Part duration="161000" key="/services/iva/assets/679203/video.mp4?bitrate=450" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="480" width="640" codec="h264" bitrate="450" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+  </Video>
+  <Video url="iva://api.internetvideoarchive.com/2.0/DataService/VideoAssets(73448)?lang=zh&amp;bitrates=80,212,450,750,1500,2500,5000,8000&amp;duration=44&amp;adaptive=1&amp;dts=0" key="/system/services/url/lookup?url=iva%3A%2F%2Fapi.internetvideoarchive.com%2F2.0%2FDataService%2FVideoAssets%2873448%29%3Flang%3Dzh%26bitrates%3D80%2C212%2C450%2C750%2C1500%2C2500%2C5000%2C8000%26duration%3D44%26adaptive%3D1%26dts%3D0" type="clip" relationType="behindTheScenes" year="2017" title="The Great Wall: Zhang Yimou On The Film Being Different Than A Typical Hollywood Film" originallyAvailableAt="2017-02-09" thumb="https://iva-images.plex.tv/content/hdphotos/10907/010907/010907_1280x720_73448_017.jpg" ratingKey="iva://api.internetvideoarchive.com/2.0/DataService/VideoAssets(73448)?lang=zh&amp;bitrates=80,212,450,750,1500,2500,5000,8000&amp;duration=44&amp;adaptive=1&amp;dts=0">
+    <Media container="mp4" height="1080" width="1920" audioCodec="aac" duration="44000" videoCodec="h264" bitrate="2500">
+      <Part duration="44000" key="/services/iva/assets/73448/video.mp4?bitrate=2500" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="1080" width="1920" codec="h264" bitrate="2500" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="zh" id="2"/>
+      </Part>
+    </Media>
+    <Media container="mp4" height="720" width="1280" audioCodec="aac" duration="44000" videoCodec="h264" bitrate="1500">
+      <Part duration="44000" key="/services/iva/assets/73448/video.mp4?bitrate=1500" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="720" width="1280" codec="h264" bitrate="1500" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="zh" id="2"/>
+      </Part>
+    </Media>
+    <Media container="mp4" height="480" width="640" audioCodec="aac" duration="44000" videoCodec="h264" bitrate="450">
+      <Part duration="44000" key="/services/iva/assets/73448/video.mp4?bitrate=450" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="480" width="640" codec="h264" bitrate="450" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="zh" id="2"/>
+      </Part>
+    </Media>
+  </Video>
+  <Video url="iva://api.internetvideoarchive.com/2.0/DataService/VideoAssets(8648)?lang=en&amp;bitrates=80,212,450,750,1500,2500,5000,8000&amp;duration=52&amp;adaptive=1&amp;dts=0" key="/system/services/url/lookup?url=iva%3A%2F%2Fapi.internetvideoarchive.com%2F2.0%2FDataService%2FVideoAssets%288648%29%3Flang%3Den%26bitrates%3D80%2C212%2C450%2C750%2C1500%2C2500%2C5000%2C8000%26duration%3D52%26adaptive%3D1%26dts%3D0" type="clip" relationType="behindTheScenes" year="2017" title="The Great Wall: Willem Dafoe On His Character" originallyAvailableAt="2017-02-09" thumb="https://iva-images.plex.tv/content/hdphotos/10907/010907/010907_1280x720_8648_009.jpg" ratingKey="iva://api.internetvideoarchive.com/2.0/DataService/VideoAssets(8648)?lang=en&amp;bitrates=80,212,450,750,1500,2500,5000,8000&amp;duration=52&amp;adaptive=1&amp;dts=0">
+    <Media container="mp4" height="1080" width="1920" audioCodec="aac" duration="52000" videoCodec="h264" bitrate="2500">
+      <Part duration="52000" key="/services/iva/assets/8648/video.mp4?bitrate=2500" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="1080" width="1920" codec="h264" bitrate="2500" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+    <Media container="mp4" height="720" width="1280" audioCodec="aac" duration="52000" videoCodec="h264" bitrate="1500">
+      <Part duration="52000" key="/services/iva/assets/8648/video.mp4?bitrate=1500" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="720" width="1280" codec="h264" bitrate="1500" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+    <Media container="mp4" height="480" width="640" audioCodec="aac" duration="52000" videoCodec="h264" bitrate="450">
+      <Part duration="52000" key="/services/iva/assets/8648/video.mp4?bitrate=450" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="480" width="640" codec="h264" bitrate="450" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+  </Video>
+  <Video url="iva://api.internetvideoarchive.com/2.0/DataService/VideoAssets(921342)?lang=en&amp;bitrates=80,212,450,750,1500,2500,5000,8000&amp;duration=80&amp;adaptive=1&amp;dts=0" key="/system/services/url/lookup?url=iva%3A%2F%2Fapi.internetvideoarchive.com%2F2.0%2FDataService%2FVideoAssets%28921342%29%3Flang%3Den%26bitrates%3D80%2C212%2C450%2C750%2C1500%2C2500%2C5000%2C8000%26duration%3D80%26adaptive%3D1%26dts%3D0" type="clip" relationType="behindTheScenes" year="2017" title="The Great Wall: Peter Loehr On Zhang Yimou" originallyAvailableAt="2017-02-09" thumb="https://iva-images.plex.tv/content/hdphotos/10907/010907/010907_1280x720_921342_009.jpg" ratingKey="iva://api.internetvideoarchive.com/2.0/DataService/VideoAssets(921342)?lang=en&amp;bitrates=80,212,450,750,1500,2500,5000,8000&amp;duration=80&amp;adaptive=1&amp;dts=0">
+    <Media container="mp4" height="1080" width="1920" audioCodec="aac" duration="80000" videoCodec="h264" bitrate="2500">
+      <Part duration="80000" key="/services/iva/assets/921342/video.mp4?bitrate=2500" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="1080" width="1920" codec="h264" bitrate="2500" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+    <Media container="mp4" height="720" width="1280" audioCodec="aac" duration="80000" videoCodec="h264" bitrate="1500">
+      <Part duration="80000" key="/services/iva/assets/921342/video.mp4?bitrate=1500" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="720" width="1280" codec="h264" bitrate="1500" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+    <Media container="mp4" height="480" width="640" audioCodec="aac" duration="80000" videoCodec="h264" bitrate="450">
+      <Part duration="80000" key="/services/iva/assets/921342/video.mp4?bitrate=450" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="480" width="640" codec="h264" bitrate="450" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+  </Video>
+  <Video url="iva://api.internetvideoarchive.com/2.0/DataService/VideoAssets(130607)?lang=en&amp;bitrates=80,212,450,750,1500,2500,5000,8000&amp;duration=17&amp;adaptive=1&amp;dts=0" key="/system/services/url/lookup?url=iva%3A%2F%2Fapi.internetvideoarchive.com%2F2.0%2FDataService%2FVideoAssets%28130607%29%3Flang%3Den%26bitrates%3D80%2C212%2C450%2C750%2C1500%2C2500%2C5000%2C8000%26duration%3D17%26adaptive%3D1%26dts%3D0" type="clip" relationType="behindTheScenes" year="2017" title="The Great Wall: Pedro Pascal On His Character" originallyAvailableAt="2017-02-09" thumb="https://iva-images.plex.tv/content/hdphotos/10907/010907/010907_1280x720_130607_008.jpg" ratingKey="iva://api.internetvideoarchive.com/2.0/DataService/VideoAssets(130607)?lang=en&amp;bitrates=80,212,450,750,1500,2500,5000,8000&amp;duration=17&amp;adaptive=1&amp;dts=0">
+    <Media container="mp4" height="1080" width="1920" audioCodec="aac" duration="17000" videoCodec="h264" bitrate="2500">
+      <Part duration="17000" key="/services/iva/assets/130607/video.mp4?bitrate=2500" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="1080" width="1920" codec="h264" bitrate="2500" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+    <Media container="mp4" height="720" width="1280" audioCodec="aac" duration="17000" videoCodec="h264" bitrate="1500">
+      <Part duration="17000" key="/services/iva/assets/130607/video.mp4?bitrate=1500" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="720" width="1280" codec="h264" bitrate="1500" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+    <Media container="mp4" height="480" width="640" audioCodec="aac" duration="17000" videoCodec="h264" bitrate="450">
+      <Part duration="17000" key="/services/iva/assets/130607/video.mp4?bitrate=450" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="480" width="640" codec="h264" bitrate="450" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+  </Video>
+  <Video url="iva://api.internetvideoarchive.com/2.0/DataService/VideoAssets(650418)?lang=en&amp;bitrates=80,212,450,750,1500,2500,5000,8000&amp;duration=16&amp;adaptive=1&amp;dts=0" key="/system/services/url/lookup?url=iva%3A%2F%2Fapi.internetvideoarchive.com%2F2.0%2FDataService%2FVideoAssets%28650418%29%3Flang%3Den%26bitrates%3D80%2C212%2C450%2C750%2C1500%2C2500%2C5000%2C8000%26duration%3D16%26adaptive%3D1%26dts%3D0" type="clip" relationType="behindTheScenes" year="2017" title="The Great Wall: Matt Damon On How The Western Characters Get Swept Up In The Story" originallyAvailableAt="2017-02-09" thumb="https://iva-images.plex.tv/content/hdphotos/10907/010907/010907_1280x720_650418_020.jpg" ratingKey="iva://api.internetvideoarchive.com/2.0/DataService/VideoAssets(650418)?lang=en&amp;bitrates=80,212,450,750,1500,2500,5000,8000&amp;duration=16&amp;adaptive=1&amp;dts=0">
+    <Media container="mp4" height="1080" width="1920" audioCodec="aac" duration="16000" videoCodec="h264" bitrate="2500">
+      <Part duration="16000" key="/services/iva/assets/650418/video.mp4?bitrate=2500" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="1080" width="1920" codec="h264" bitrate="2500" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+    <Media container="mp4" height="720" width="1280" audioCodec="aac" duration="16000" videoCodec="h264" bitrate="1500">
+      <Part duration="16000" key="/services/iva/assets/650418/video.mp4?bitrate=1500" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="720" width="1280" codec="h264" bitrate="1500" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+    <Media container="mp4" height="480" width="640" audioCodec="aac" duration="16000" videoCodec="h264" bitrate="450">
+      <Part duration="16000" key="/services/iva/assets/650418/video.mp4?bitrate=450" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="480" width="640" codec="h264" bitrate="450" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+  </Video>
+  <Video url="iva://api.internetvideoarchive.com/2.0/DataService/VideoAssets(886683)?lang=en&amp;bitrates=80,212,450,750,1500,2500,5000,8000&amp;duration=14&amp;adaptive=1&amp;dts=0" key="/system/services/url/lookup?url=iva%3A%2F%2Fapi.internetvideoarchive.com%2F2.0%2FDataService%2FVideoAssets%28886683%29%3Flang%3Den%26bitrates%3D80%2C212%2C450%2C750%2C1500%2C2500%2C5000%2C8000%26duration%3D14%26adaptive%3D1%26dts%3D0" type="clip" relationType="behindTheScenes" year="2017" title="The Great Wall: Jon Jashni On Zhang Yimou's Film Style" originallyAvailableAt="2017-02-09" thumb="https://iva-images.plex.tv/content/hdphotos/10907/010907/010907_1280x720_886683_021.jpg" ratingKey="iva://api.internetvideoarchive.com/2.0/DataService/VideoAssets(886683)?lang=en&amp;bitrates=80,212,450,750,1500,2500,5000,8000&amp;duration=14&amp;adaptive=1&amp;dts=0">
+    <Media container="mp4" height="1080" width="1920" audioCodec="aac" duration="14000" videoCodec="h264" bitrate="2500">
+      <Part duration="14000" key="/services/iva/assets/886683/video.mp4?bitrate=2500" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="1080" width="1920" codec="h264" bitrate="2500" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+    <Media container="mp4" height="720" width="1280" audioCodec="aac" duration="14000" videoCodec="h264" bitrate="1500">
+      <Part duration="14000" key="/services/iva/assets/886683/video.mp4?bitrate=1500" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="720" width="1280" codec="h264" bitrate="1500" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+    <Media container="mp4" height="480" width="640" audioCodec="aac" duration="14000" videoCodec="h264" bitrate="450">
+      <Part duration="14000" key="/services/iva/assets/886683/video.mp4?bitrate=450" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="480" width="640" codec="h264" bitrate="450" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+  </Video>
+  <Video url="iva://api.internetvideoarchive.com/2.0/DataService/VideoAssets(427300)?lang=en&amp;bitrates=80,212,450,750,1500,2500,5000,8000&amp;duration=16&amp;adaptive=1&amp;dts=0" key="/system/services/url/lookup?url=iva%3A%2F%2Fapi.internetvideoarchive.com%2F2.0%2FDataService%2FVideoAssets%28427300%29%3Flang%3Den%26bitrates%3D80%2C212%2C450%2C750%2C1500%2C2500%2C5000%2C8000%26duration%3D16%26adaptive%3D1%26dts%3D0" type="clip" relationType="behindTheScenes" year="2017" title="The Great Wall: Jing Tian On Her Character" originallyAvailableAt="2017-02-09" thumb="https://iva-images.plex.tv/content/hdphotos/10907/010907/010907_1280x720_427300_006.jpg" ratingKey="iva://api.internetvideoarchive.com/2.0/DataService/VideoAssets(427300)?lang=en&amp;bitrates=80,212,450,750,1500,2500,5000,8000&amp;duration=16&amp;adaptive=1&amp;dts=0">
+    <Media container="mp4" height="1080" width="1920" audioCodec="aac" duration="16000" videoCodec="h264" bitrate="2500">
+      <Part duration="16000" key="/services/iva/assets/427300/video.mp4?bitrate=2500" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="1080" width="1920" codec="h264" bitrate="2500" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+    <Media container="mp4" height="720" width="1280" audioCodec="aac" duration="16000" videoCodec="h264" bitrate="1500">
+      <Part duration="16000" key="/services/iva/assets/427300/video.mp4?bitrate=1500" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="720" width="1280" codec="h264" bitrate="1500" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+    <Media container="mp4" height="480" width="640" audioCodec="aac" duration="16000" videoCodec="h264" bitrate="450">
+      <Part duration="16000" key="/services/iva/assets/427300/video.mp4?bitrate=450" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="480" width="640" codec="h264" bitrate="450" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+  </Video>
+  <Video url="iva://api.internetvideoarchive.com/2.0/DataService/VideoAssets(85524)?lang=en&amp;bitrates=80,212,450,750,1500,2500,5000,8000&amp;duration=24&amp;adaptive=1&amp;dts=0" key="/system/services/url/lookup?url=iva%3A%2F%2Fapi.internetvideoarchive.com%2F2.0%2FDataService%2FVideoAssets%2885524%29%3Flang%3Den%26bitrates%3D80%2C212%2C450%2C750%2C1500%2C2500%2C5000%2C8000%26duration%3D24%26adaptive%3D1%26dts%3D0" type="clip" relationType="behindTheScenes" year="2017" title="The Great Wall: Charles Roven On How William And Tovar End Up At The Great Wall" originallyAvailableAt="2017-02-09" thumb="https://iva-images.plex.tv/content/hdphotos/10907/010907/010907_1280x720_85524_013.jpg" ratingKey="iva://api.internetvideoarchive.com/2.0/DataService/VideoAssets(85524)?lang=en&amp;bitrates=80,212,450,750,1500,2500,5000,8000&amp;duration=24&amp;adaptive=1&amp;dts=0">
+    <Media container="mp4" height="1080" width="1920" audioCodec="aac" duration="24000" videoCodec="h264" bitrate="2500">
+      <Part duration="24000" key="/services/iva/assets/85524/video.mp4?bitrate=2500" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="1080" width="1920" codec="h264" bitrate="2500" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+    <Media container="mp4" height="720" width="1280" audioCodec="aac" duration="24000" videoCodec="h264" bitrate="1500">
+      <Part duration="24000" key="/services/iva/assets/85524/video.mp4?bitrate=1500" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="720" width="1280" codec="h264" bitrate="1500" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+    <Media container="mp4" height="480" width="640" audioCodec="aac" duration="24000" videoCodec="h264" bitrate="450">
+      <Part duration="24000" key="/services/iva/assets/85524/video.mp4?bitrate=450" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="480" width="640" codec="h264" bitrate="450" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+  </Video>
+  <Video url="iva://api.internetvideoarchive.com/2.0/DataService/VideoAssets(745415)?lang=en&amp;bitrates=80,212,450,750,1500,2500,5000,8000&amp;duration=37&amp;adaptive=1&amp;dts=0" key="/system/services/url/lookup?url=iva%3A%2F%2Fapi.internetvideoarchive.com%2F2.0%2FDataService%2FVideoAssets%28745415%29%3Flang%3Den%26bitrates%3D80%2C212%2C450%2C750%2C1500%2C2500%2C5000%2C8000%26duration%3D37%26adaptive%3D1%26dts%3D0" type="clip" relationType="behindTheScenes" year="2017" title="The Great Wall: Andy Lau On Zhang Yimou Finding A Balance Between Chinese And Western Films" originallyAvailableAt="2017-02-09" thumb="https://iva-images.plex.tv/content/hdphotos/10907/010907/010907_1280x720_745415_004.jpg" ratingKey="iva://api.internetvideoarchive.com/2.0/DataService/VideoAssets(745415)?lang=en&amp;bitrates=80,212,450,750,1500,2500,5000,8000&amp;duration=37&amp;adaptive=1&amp;dts=0">
+    <Media container="mp4" height="1080" width="1920" audioCodec="aac" duration="37000" videoCodec="h264" bitrate="2500">
+      <Part duration="37000" key="/services/iva/assets/745415/video.mp4?bitrate=2500" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="1080" width="1920" codec="h264" bitrate="2500" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+    <Media container="mp4" height="720" width="1280" audioCodec="aac" duration="37000" videoCodec="h264" bitrate="1500">
+      <Part duration="37000" key="/services/iva/assets/745415/video.mp4?bitrate=1500" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="720" width="1280" codec="h264" bitrate="1500" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+    <Media container="mp4" height="480" width="640" audioCodec="aac" duration="37000" videoCodec="h264" bitrate="450">
+      <Part duration="37000" key="/services/iva/assets/745415/video.mp4?bitrate=450" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="480" width="640" codec="h264" bitrate="450" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+  </Video>
+  <Video url="iva://api.internetvideoarchive.com/2.0/DataService/VideoAssets(964978)?lang=en&amp;bitrates=80,212,450,750,1500,2500,5000,8000&amp;duration=145&amp;adaptive=1&amp;dts=0" key="/system/services/url/lookup?url=iva%3A%2F%2Fapi.internetvideoarchive.com%2F2.0%2FDataService%2FVideoAssets%28964978%29%3Flang%3Den%26bitrates%3D80%2C212%2C450%2C750%2C1500%2C2500%2C5000%2C8000%26duration%3D145%26adaptive%3D1%26dts%3D0" type="clip" relationType="behindTheScenes" year="2017" title="The Great Wall: Costume Designer Mayes Rubeo (Featurette)" originallyAvailableAt="2017-02-09" thumb="https://iva-images.plex.tv/content/hdphotos/10906/010906/010906_1280x720_964978_026.jpg" ratingKey="iva://api.internetvideoarchive.com/2.0/DataService/VideoAssets(964978)?lang=en&amp;bitrates=80,212,450,750,1500,2500,5000,8000&amp;duration=145&amp;adaptive=1&amp;dts=0">
+    <Media container="mp4" height="1080" width="1920" audioCodec="aac" duration="145000" videoCodec="h264" bitrate="2500">
+      <Part duration="145000" key="/services/iva/assets/964978/video.mp4?bitrate=2500" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="1080" width="1920" codec="h264" bitrate="2500" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+    <Media container="mp4" height="720" width="1280" audioCodec="aac" duration="145000" videoCodec="h264" bitrate="1500">
+      <Part duration="145000" key="/services/iva/assets/964978/video.mp4?bitrate=1500" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="720" width="1280" codec="h264" bitrate="1500" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+    <Media container="mp4" height="480" width="640" audioCodec="aac" duration="145000" videoCodec="h264" bitrate="450">
+      <Part duration="145000" key="/services/iva/assets/964978/video.mp4?bitrate=450" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="480" width="640" codec="h264" bitrate="450" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+  </Video>
+  <Video url="iva://api.internetvideoarchive.com/2.0/DataService/VideoAssets(536389)?lang=en&amp;bitrates=80,212,450,750,1500,2500,5000,8000&amp;duration=134&amp;adaptive=1&amp;dts=0" key="/system/services/url/lookup?url=iva%3A%2F%2Fapi.internetvideoarchive.com%2F2.0%2FDataService%2FVideoAssets%28536389%29%3Flang%3Den%26bitrates%3D80%2C212%2C450%2C750%2C1500%2C2500%2C5000%2C8000%26duration%3D134%26adaptive%3D1%26dts%3D0" type="clip" relationType="behindTheScenes" year="2017" title="The Great Wall: A Look Inside (Featurette)" originallyAvailableAt="2017-02-09" thumb="https://iva-images.plex.tv/content/hdphotos/10906/010906/010906_1280x720_536389_124.jpg" ratingKey="iva://api.internetvideoarchive.com/2.0/DataService/VideoAssets(536389)?lang=en&amp;bitrates=80,212,450,750,1500,2500,5000,8000&amp;duration=134&amp;adaptive=1&amp;dts=0">
+    <Media container="mp4" height="1080" width="1920" audioCodec="aac" duration="134000" videoCodec="h264" bitrate="2500">
+      <Part duration="134000" key="/services/iva/assets/536389/video.mp4?bitrate=2500" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="1080" width="1920" codec="h264" bitrate="2500" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+    <Media container="mp4" height="720" width="1280" audioCodec="aac" duration="134000" videoCodec="h264" bitrate="1500">
+      <Part duration="134000" key="/services/iva/assets/536389/video.mp4?bitrate=1500" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="720" width="1280" codec="h264" bitrate="1500" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+    <Media container="mp4" height="480" width="640" audioCodec="aac" duration="134000" videoCodec="h264" bitrate="450">
+      <Part duration="134000" key="/services/iva/assets/536389/video.mp4?bitrate=450" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="480" width="640" codec="h264" bitrate="450" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+  </Video>
+  <Video url="iva://api.internetvideoarchive.com/2.0/DataService/VideoAssets(936188)?lang=en&amp;bitrates=80,212,450,750,1500,2500,5000,8000&amp;duration=109&amp;adaptive=1&amp;dts=0" key="/system/services/url/lookup?url=iva%3A%2F%2Fapi.internetvideoarchive.com%2F2.0%2FDataService%2FVideoAssets%28936188%29%3Flang%3Den%26bitrates%3D80%2C212%2C450%2C750%2C1500%2C2500%2C5000%2C8000%26duration%3D109%26adaptive%3D1%26dts%3D0" type="clip" relationType="behindTheScenes" year="2017" title="The Great Wall: Character Piece: William Garrin/Matt Damon (Featurette)" originallyAvailableAt="2017-02-08" thumb="https://iva-images.plex.tv/content/hdphotos/10902/010902/010902_1280x720_936188_120.jpg" ratingKey="iva://api.internetvideoarchive.com/2.0/DataService/VideoAssets(936188)?lang=en&amp;bitrates=80,212,450,750,1500,2500,5000,8000&amp;duration=109&amp;adaptive=1&amp;dts=0">
+    <Media container="mp4" height="1080" width="1920" audioCodec="aac" duration="109000" videoCodec="h264" bitrate="2500">
+      <Part duration="109000" key="/services/iva/assets/936188/video.mp4?bitrate=2500" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="1080" width="1920" codec="h264" bitrate="2500" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+    <Media container="mp4" height="720" width="1280" audioCodec="aac" duration="109000" videoCodec="h264" bitrate="1500">
+      <Part duration="109000" key="/services/iva/assets/936188/video.mp4?bitrate=1500" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="720" width="1280" codec="h264" bitrate="1500" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+    <Media container="mp4" height="480" width="640" audioCodec="aac" duration="109000" videoCodec="h264" bitrate="450">
+      <Part duration="109000" key="/services/iva/assets/936188/video.mp4?bitrate=450" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="480" width="640" codec="h264" bitrate="450" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+  </Video>
+</MediaContainer>

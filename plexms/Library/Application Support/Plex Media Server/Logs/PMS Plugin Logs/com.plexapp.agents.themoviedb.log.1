@@ -1,0 +1,246 @@
+2018-07-13 19:42:42,240 (7f4c145b5700) :  INFO (core:349) - Starting framework core - Version: 2.6.3, Build: fd05be3 (Fri Jun 08 17:33:50 UTC 2018)
+2018-07-13 19:42:42,240 (7f4c145b5700) :  DEBUG (core:361) - Using the elevated policy
+2018-07-13 19:42:42,241 (7f4c145b5700) :  DEBUG (core:450) - Starting runtime component.
+2018-07-13 19:42:42,243 (7f4c145b5700) :  DEBUG (core:450) - Starting caching component.
+2018-07-13 19:42:42,243 (7f4c145b5700) :  DEBUG (core:450) - Starting data component.
+2018-07-13 19:42:42,243 (7f4c145b5700) :  DEBUG (core:450) - Starting networking component.
+2018-07-13 19:42:42,243 (7f4c145b5700) :  DEBUG (networking:284) - Loaded HTTP cookies
+2018-07-13 19:42:42,245 (7f4c145b5700) :  DEBUG (networking:452) - Setting the default network timeout to 20.0
+2018-07-13 19:42:42,245 (7f4c145b5700) :  DEBUG (core:450) - Starting localization component.
+2018-07-13 19:42:42,245 (7f4c145b5700) :  INFO (localization:409) - Setting the default locale to en-us
+2018-07-13 19:42:42,245 (7f4c145b5700) :  DEBUG (core:450) - Starting messaging component.
+2018-07-13 19:42:42,246 (7f4c145b5700) :  DEBUG (core:450) - Starting debugging component.
+2018-07-13 19:42:42,246 (7f4c145b5700) :  DEBUG (core:450) - Starting services component.
+2018-07-13 19:42:42,246 (7f4be7fff700) :  DEBUG (networking:166) - Requesting 'http://127.0.0.1:32400/system/messaging/clear_events/com.plexapp.agents.themoviedb'
+2018-07-13 19:42:42,246 (7f4c145b5700) :  DEBUG (core:450) - Starting myplex component.
+2018-07-13 19:42:42,247 (7f4c145b5700) :  DEBUG (core:450) - Starting notifications component.
+2018-07-13 19:42:42,327 (7f4c145b5700) :  DEBUG (accessor:68) - Creating a new model access point for provider com.plexapp.agents.themoviedb in namespace 'metadata'
+2018-07-13 19:42:42,331 (7f4c145b5700) :  DEBUG (networking:166) - Requesting 'http://127.0.0.1:32400/:/plugins/com.plexapp.system/resourceHashes'
+2018-07-13 19:42:42,344 (7f4be7fff700) :  DEBUG (services:265) - Plug-in is not daemonized - loading services from system
+2018-07-13 19:42:42,345 (7f4c145b5700) :  DEBUG (runtime:1117) - Created a thread named 'load_all_services'
+2018-07-13 19:42:42,345 (7f4be7fff700) :  DEBUG (networking:166) - Requesting 'http://127.0.0.1:32400/:/plugins/com.plexapp.system/messaging/function/X0J1bmRsZVNlcnZpY2U6QWxsU2VydmljZXM_/Y2VyZWFsMQoxCmxpc3QKMApyMAo_/Y2VyZWFsMQoxCmRpY3QKMApyMAo_'
+2018-07-13 19:42:42,347 (7f4c145b5700) :  DEBUG (runtime:1117) - Created a thread named 'get_server_info'
+2018-07-13 19:42:42,348 (7f4c145b5700) :  DEBUG (core:150) - Finished starting framework core
+2018-07-13 19:42:42,348 (7f4c145b5700) :  DEBUG (core:560) - Loading plug-in code
+2018-07-13 19:42:42,348 (7f4be6ffd700) :  DEBUG (networking:166) - Requesting 'http://127.0.0.1:32400'
+2018-07-13 19:42:42,351 (7f4be6ffd700) :  DEBUG (core:538) - Machine identifier is 3ed2b02a097ae0dbd8131e18952f0fd286cb9cf6
+2018-07-13 19:42:42,351 (7f4be6ffd700) :  DEBUG (core:539) - Server version is 1.13.2.5154-fd05be322
+2018-07-13 19:42:42,632 (7f4be7fff700) :  DEBUG (services:362) - Loaded services
+2018-07-13 19:42:42,639 (7f4be77fe700) :  DEBUG (services:438) - No shared code to load
+2018-07-13 19:42:42,760 (7f4c145b5700) :  DEBUG (core:566) - Finished loading plug-in code
+2018-07-13 19:42:42,760 (7f4c145b5700) :  DEBUG (messaging:69) - Exposing function GetImdbId for remote access
+2018-07-13 19:42:42,760 (7f4c145b5700) :  DEBUG (messaging:69) - Exposing function GetTvdbId for remote access
+2018-07-13 19:42:42,761 (7f4c145b5700) :  DEBUG (messaging:69) - Exposing function GetTvRageId for remote access
+2018-07-13 19:42:42,761 (7f4c145b5700) :  DEBUG (messaging:69) - Exposing function GetTMDbSearchResults for remote access
+2018-07-13 19:42:42,761 (7f4c145b5700) :  DEBUG (messaging:69) - Exposing function GetTMDbMetadata for remote access
+2018-07-13 19:42:42,761 (7f4c145b5700) :  DEBUG (agentkit:1115) - Creating new agent class called TMDbAgent
+2018-07-13 19:42:42,761 (7f4c145b5700) :  DEBUG (agentkit:933) - Updating agent information: [{'media_types': ['Movie'], 'accepts_from': ['com.plexapp.agents.localmedia'], 'fallback_agent': None, 'contributes_to': None, 'languages': ['en', 'cs', 'da', 'de', 'el', 'es', 'fi', 'fr', 'he', 'hr', 'hu', 'it', 'lv', 'lt', 'nl', 'no', 'pl', 'pt', 'ru', 'sk', 'sv', 'th', 'tr', 'vi', 'zh', 'ko'], 'persist_stored_files': True, 'version': 0, 'primary_provider': True, 'prefs': True, 'name': 'The Movie Database'}]
+2018-07-13 19:42:42,762 (7f4c145b5700) :  DEBUG (networking:166) - Requesting 'http://127.0.0.1:32400/:/plugins/com.plexapp.system/messaging/function/X0FnZW50U2VydmljZTpVcGRhdGVJbmZv/Y2VyZWFsMQoxCmxpc3QKMApyMAo_/Y2VyZWFsMQo2CmRpY3QKbGlzdApkaWN0Cmxpc3QKbGlzdApsaXN0CjIKczI5CmNvbS5wbGV4YXBwLmFnZW50cy50aGVtb3ZpZWRiczEwCmlkZW50aWZpZXJyMQpzMTAKYWdlbnRfaW5mbzEKcjIKMTAKcjMKczExCm1lZGlhX3R5cGVzcjQKczEyCmFjY2VwdHNfZnJvbW5zMTQKZmFsbGJhY2tfYWdlbnRuczE0CmNvbnRyaWJ1dGVzX3RvcjUKczkKbGFuZ3VhZ2VzYjFzMjAKcGVyc2lzdF9zdG9yZWRfZmlsZXNpMApzNwp2ZXJzaW9uYjFzMTYKcHJpbWFyeV9wcm92aWRlcmIxczUKcHJlZnNzMTgKVGhlIE1vdmllIERhdGFiYXNlczQKbmFtZTEKczUKTW92aWUxCnMyOQpjb20ucGxleGFwcC5hZ2VudHMubG9jYWxtZWRpYTI2CnMyCmVuczIKY3NzMgpkYXMyCmRlczIKZWxzMgplc3MyCmZpczIKZnJzMgpoZXMyCmhyczIKaHVzMgppdHMyCmx2czIKbHRzMgpubHMyCm5vczIKcGxzMgpwdHMyCnJ1czIKc2tzMgpzdnMyCnRoczIKdHJzMgp2aXMyCnpoczIKa29yMAo_'
+2018-07-13 19:42:42,770 (7f4c145b5700) :  DEBUG (agentkit:1115) - Creating new agent class called TMDbAgent
+2018-07-13 19:42:42,771 (7f4c145b5700) :  DEBUG (agentkit:933) - Updating agent information: [{'media_types': ['Movie'], 'accepts_from': ['com.plexapp.agents.localmedia'], 'fallback_agent': None, 'contributes_to': None, 'languages': ['en', 'cs', 'da', 'de', 'el', 'es', 'fi', 'fr', 'he', 'hr', 'hu', 'it', 'lv', 'lt', 'nl', 'no', 'pl', 'pt', 'ru', 'sk', 'sv', 'th', 'tr', 'vi', 'zh', 'ko'], 'persist_stored_files': True, 'version': 0, 'primary_provider': True, 'prefs': True, 'name': 'The Movie Database'}, {'media_types': ['TV_Show'], 'accepts_from': ['com.plexapp.agents.localmedia', 'com.plexapp.agents.thetvdb'], 'fallback_agent': None, 'contributes_to': ['com.plexapp.agents.thetvdb'], 'languages': ['en', 'cs', 'da', 'de', 'el', 'es', 'fi', 'fr', 'he', 'hr', 'hu', 'it', 'lv', 'lt', 'nl', 'no', 'pl', 'pt', 'ru', 'sk', 'sv', 'th', 'tr', 'vi', 'zh', 'ko'], 'persist_stored_files': True, 'version': 0, 'primary_provider': True, 'prefs': True, 'name': 'The Movie Database'}]
+2018-07-13 19:42:42,772 (7f4c145b5700) :  DEBUG (networking:166) - Requesting 'http://127.0.0.1:32400/:/plugins/com.plexapp.system/messaging/function/X0FnZW50U2VydmljZTpVcGRhdGVJbmZv/Y2VyZWFsMQoxCmxpc3QKMApyMAo_/Y2VyZWFsMQoxMApkaWN0Cmxpc3QKZGljdApsaXN0Cmxpc3QKbGlzdApkaWN0Cmxpc3QKbGlzdApsaXN0CjIKczI5CmNvbS5wbGV4YXBwLmFnZW50cy50aGVtb3ZpZWRiczEwCmlkZW50aWZpZXJyMQpzMTAKYWdlbnRfaW5mbzIKcjIKcjYKMTAKcjMKczExCm1lZGlhX3R5cGVzcjQKczEyCmFjY2VwdHNfZnJvbW5zMTQKZmFsbGJhY2tfYWdlbnRuczE0CmNvbnRyaWJ1dGVzX3RvcjUKczkKbGFuZ3VhZ2VzYjFzMjAKcGVyc2lzdF9zdG9yZWRfZmlsZXNpMApzNwp2ZXJzaW9uYjFzMTYKcHJpbWFyeV9wcm92aWRlcmIxczUKcHJlZnNzMTgKVGhlIE1vdmllIERhdGFiYXNlczQKbmFtZTEKczUKTW92aWUxCnMyOQpjb20ucGxleGFwcC5hZ2VudHMubG9jYWxtZWRpYTI2CnMyCmVuczIKY3NzMgpkYXMyCmRlczIKZWxzMgplc3MyCmZpczIKZnJzMgpoZXMyCmhyczIKaHVzMgppdHMyCmx2czIKbHRzMgpubHMyCm5vczIKcGxzMgpwdHMyCnJ1czIKc2tzMgpzdnMyCnRoczIKdHJzMgp2aXMyCnpoczIKa28xMApyNwpzMTEKbWVkaWFfdHlwZXNyOApzMTIKYWNjZXB0c19mcm9tbnMxNApmYWxsYmFja19hZ2VudHI5CnMxNApjb250cmlidXRlc190b3I1CnM5Cmxhbmd1YWdlc2IxczIwCnBlcnNpc3Rfc3RvcmVkX2ZpbGVzaTAKczcKdmVyc2lvbmIxczE2CnByaW1hcnlfcHJvdmlkZXJiMXM1CnByZWZzczE4ClRoZSBNb3ZpZSBEYXRhYmFzZXM0Cm5hbWUxCnM3ClRWX1Nob3cyCnMyOQpjb20ucGxleGFwcC5hZ2VudHMubG9jYWxtZWRpYXMyNgpjb20ucGxleGFwcC5hZ2VudHMudGhldHZkYjEKczI2CmNvbS5wbGV4YXBwLmFnZW50cy50aGV0dmRicjAK'
+2018-07-13 19:42:42,778 (7f4c145b5700) :  INFO (core:611) - Started plug-in
+2018-07-13 19:42:42,778 (7f4c145b5700) :  DEBUG (socketinterface:160) - Starting socket server
+2018-07-13 19:42:42,779 (7f4c145b5700) :  DEBUG (runtime:1117) - Created a thread named 'start'
+2018-07-13 19:42:42,779 (7f4c145b5700) :  INFO (socketinterface:184) - Socket server started on port 34969
+2018-07-13 19:42:42,779 (7f4c145b5700) :  INFO (pipeinterface:25) - Entering run loop
+2018-07-13 19:42:42,779 (7f4c145b5700) :  DEBUG (runtime:717) - Handling request GET /:/prefixes
+2018-07-13 19:42:42,780 (7f4c145b5700) :  DEBUG (runtime:814) - Found route matching /:/prefixes
+2018-07-13 19:42:42,781 (7f4c145b5700) :  DEBUG (runtime:924) - Response: [200] MediaContainer, 154 bytes
+2018-07-13 19:42:42,805 (7f4be7fff700) :  DEBUG (runtime:717) - Handling request GET /:/plugins/com.plexapp.agents.themoviedb/messaging/function/TWVzc2FnZUtpdDpHZXRJbWRiSWQ_/Y2VyZWFsMQoxCmxpc3QKMApyMAo_/Y2VyZWFsMQoxCmRpY3QKMQpzNgoyODQwNTRzNwp0bWRiX2lkcjAK
+2018-07-13 19:42:42,812 (7f4be7fff700) :  DEBUG (runtime:814) - Found route matching /:/plugins/com.plexapp.agents.themoviedb/messaging/function/TWVzc2FnZUtpdDpHZXRJbWRiSWQ_/Y2VyZWFsMQoxCmxpc3QKMApyMAo_/Y2VyZWFsMQoxCmRpY3QKMQpzNgoyODQwNTRzNwp0bWRiX2lkcjAK
+2018-07-13 19:42:42,815 (7f4be7fff700) :  DEBUG (networking:161) - Fetching 'http://127.0.0.1:32400/services/tmdb?uri=%2Fmovie%2F284054%3Fappend_to_response%3Dreleases%2Ccredits%26language%3Den' from the HTTP cache
+2018-07-13 19:42:42,817 (7f4be7fff700) :  DEBUG (runtime:88) - Sending packed state data (110 bytes)
+2018-07-13 19:42:42,817 (7f4be7fff700) :  DEBUG (runtime:924) - Response: [200] str, 32 bytes
+2018-07-13 19:42:42,823 (7f4be7fff700) :  DEBUG (runtime:717) - Handling request GET /:/plugins/com.plexapp.agents.themoviedb/messaging/function/TWVzc2FnZUtpdDpHZXRJbWRiSWQ_/Y2VyZWFsMQoxCmxpc3QKMApyMAo_/Y2VyZWFsMQoxCmRpY3QKMQpzNgo1MjgyMjJzNwp0bWRiX2lkcjAK
+2018-07-13 19:42:42,823 (7f4be7fff700) :  DEBUG (runtime:49) - Received packed state data (80 bytes)
+2018-07-13 19:42:42,824 (7f4be7fff700) :  DEBUG (runtime:814) - Found route matching /:/plugins/com.plexapp.agents.themoviedb/messaging/function/TWVzc2FnZUtpdDpHZXRJbWRiSWQ_/Y2VyZWFsMQoxCmxpc3QKMApyMAo_/Y2VyZWFsMQoxCmRpY3QKMQpzNgo1MjgyMjJzNwp0bWRiX2lkcjAK
+2018-07-13 19:42:42,827 (7f4be7fff700) :  DEBUG (networking:161) - Fetching 'http://127.0.0.1:32400/services/tmdb?uri=%2Fmovie%2F528222%3Fappend_to_response%3Dreleases%2Ccredits%26language%3Den' from the HTTP cache
+2018-07-13 19:42:42,832 (7f4be7fff700) :  DEBUG (runtime:88) - Sending packed state data (110 bytes)
+2018-07-13 19:42:42,832 (7f4be7fff700) :  DEBUG (runtime:924) - Response: [200] str, 32 bytes
+2018-07-13 19:43:04,171 (7f4be7fff700) :  DEBUG (runtime:717) - Handling request GET /:/plugins/com.plexapp.agents.themoviedb/messaging/function/TWVzc2FnZUtpdDpHZXRJbWRiSWQ_/Y2VyZWFsMQoxCmxpc3QKMApyMAo_/Y2VyZWFsMQoxCmRpY3QKMQpzNgo0MjkzNTFzNwp0bWRiX2lkcjAK
+2018-07-13 19:43:04,173 (7f4be7fff700) :  DEBUG (runtime:49) - Received packed state data (80 bytes)
+2018-07-13 19:43:04,174 (7f4be7fff700) :  DEBUG (runtime:814) - Found route matching /:/plugins/com.plexapp.agents.themoviedb/messaging/function/TWVzc2FnZUtpdDpHZXRJbWRiSWQ_/Y2VyZWFsMQoxCmxpc3QKMApyMAo_/Y2VyZWFsMQoxCmRpY3QKMQpzNgo0MjkzNTFzNwp0bWRiX2lkcjAK
+2018-07-13 19:43:04,179 (7f4be7fff700) :  DEBUG (networking:161) - Fetching 'http://127.0.0.1:32400/services/tmdb?uri=%2Fmovie%2F429351%3Fappend_to_response%3Dreleases%2Ccredits%26language%3Den' from the HTTP cache
+2018-07-13 19:43:04,183 (7f4be7fff700) :  DEBUG (runtime:88) - Sending packed state data (110 bytes)
+2018-07-13 19:43:04,184 (7f4be7fff700) :  DEBUG (runtime:924) - Response: [200] str, 32 bytes
+2018-07-13 19:43:11,527 (7f4be7fff700) :  DEBUG (runtime:717) - Handling request GET /:/plugins/com.plexapp.agents.themoviedb/messaging/function/TWVzc2FnZUtpdDpHZXRJbWRiSWQ_/Y2VyZWFsMQoxCmxpc3QKMApyMAo_/Y2VyZWFsMQoxCmRpY3QKMQpzNgo0MzA0NDdzNwp0bWRiX2lkcjAK
+2018-07-13 19:43:11,527 (7f4be7fff700) :  DEBUG (runtime:49) - Received packed state data (80 bytes)
+2018-07-13 19:43:11,528 (7f4be7fff700) :  DEBUG (runtime:814) - Found route matching /:/plugins/com.plexapp.agents.themoviedb/messaging/function/TWVzc2FnZUtpdDpHZXRJbWRiSWQ_/Y2VyZWFsMQoxCmxpc3QKMApyMAo_/Y2VyZWFsMQoxCmRpY3QKMQpzNgo0MzA0NDdzNwp0bWRiX2lkcjAK
+2018-07-13 19:43:11,530 (7f4be7fff700) :  DEBUG (networking:161) - Fetching 'http://127.0.0.1:32400/services/tmdb?uri=%2Fmovie%2F430447%3Fappend_to_response%3Dreleases%2Ccredits%26language%3Den' from the HTTP cache
+2018-07-13 19:43:11,532 (7f4be7fff700) :  DEBUG (runtime:88) - Sending packed state data (110 bytes)
+2018-07-13 19:43:11,532 (7f4be7fff700) :  DEBUG (runtime:924) - Response: [200] str, 32 bytes
+2018-07-13 19:43:17,421 (7f4be7fff700) :  DEBUG (runtime:717) - Handling request GET /:/plugins/com.plexapp.agents.themoviedb/messaging/function/TWVzc2FnZUtpdDpHZXRJbWRiSWQ_/Y2VyZWFsMQoxCmxpc3QKMApyMAo_/Y2VyZWFsMQoxCmRpY3QKMQpzNgoyODQwNTNzNwp0bWRiX2lkcjAK
+2018-07-13 19:43:17,421 (7f4be7fff700) :  DEBUG (runtime:49) - Received packed state data (80 bytes)
+2018-07-13 19:43:17,422 (7f4be7fff700) :  DEBUG (runtime:814) - Found route matching /:/plugins/com.plexapp.agents.themoviedb/messaging/function/TWVzc2FnZUtpdDpHZXRJbWRiSWQ_/Y2VyZWFsMQoxCmxpc3QKMApyMAo_/Y2VyZWFsMQoxCmRpY3QKMQpzNgoyODQwNTNzNwp0bWRiX2lkcjAK
+2018-07-13 19:43:17,425 (7f4be7fff700) :  DEBUG (networking:161) - Fetching 'http://127.0.0.1:32400/services/tmdb?uri=%2Fmovie%2F284053%3Fappend_to_response%3Dreleases%2Ccredits%26language%3Den' from the HTTP cache
+2018-07-13 19:43:17,427 (7f4be7fff700) :  DEBUG (runtime:88) - Sending packed state data (110 bytes)
+2018-07-13 19:43:17,428 (7f4be7fff700) :  DEBUG (runtime:924) - Response: [200] str, 32 bytes
+2018-07-13 19:43:33,285 (7f4be7fff700) :  DEBUG (runtime:717) - Handling request GET /:/plugins/com.plexapp.agents.themoviedb/messaging/function/TWVzc2FnZUtpdDpHZXRJbWRiSWQ_/Y2VyZWFsMQoxCmxpc3QKMApyMAo_/Y2VyZWFsMQoxCmRpY3QKMQpzNgo0MjYyODRzNwp0bWRiX2lkcjAK
+2018-07-13 19:43:33,286 (7f4be7fff700) :  DEBUG (runtime:49) - Received packed state data (80 bytes)
+2018-07-13 19:43:33,286 (7f4be7fff700) :  DEBUG (runtime:814) - Found route matching /:/plugins/com.plexapp.agents.themoviedb/messaging/function/TWVzc2FnZUtpdDpHZXRJbWRiSWQ_/Y2VyZWFsMQoxCmxpc3QKMApyMAo_/Y2VyZWFsMQoxCmRpY3QKMQpzNgo0MjYyODRzNwp0bWRiX2lkcjAK
+2018-07-13 19:43:33,288 (7f4be7fff700) :  DEBUG (networking:161) - Fetching 'http://127.0.0.1:32400/services/tmdb?uri=%2Fmovie%2F426284%3Fappend_to_response%3Dreleases%2Ccredits%26language%3Den' from the HTTP cache
+2018-07-13 19:43:33,290 (7f4be7fff700) :  DEBUG (runtime:88) - Sending packed state data (110 bytes)
+2018-07-13 19:43:33,290 (7f4be7fff700) :  DEBUG (runtime:924) - Response: [200] str, 32 bytes
+2018-07-13 19:43:55,681 (7f4be7fff700) :  DEBUG (runtime:717) - Handling request GET /:/plugins/com.plexapp.agents.themoviedb/messaging/function/TWVzc2FnZUtpdDpHZXRJbWRiSWQ_/Y2VyZWFsMQoxCmxpc3QKMApyMAo_/Y2VyZWFsMQoxCmRpY3QKMQpzNgoxNDEwNTJzNwp0bWRiX2lkcjAK
+2018-07-13 19:43:55,682 (7f4be7fff700) :  DEBUG (runtime:49) - Received packed state data (80 bytes)
+2018-07-13 19:43:55,683 (7f4be7fff700) :  DEBUG (runtime:814) - Found route matching /:/plugins/com.plexapp.agents.themoviedb/messaging/function/TWVzc2FnZUtpdDpHZXRJbWRiSWQ_/Y2VyZWFsMQoxCmxpc3QKMApyMAo_/Y2VyZWFsMQoxCmRpY3QKMQpzNgoxNDEwNTJzNwp0bWRiX2lkcjAK
+2018-07-13 19:43:55,686 (7f4be7fff700) :  DEBUG (networking:161) - Fetching 'http://127.0.0.1:32400/services/tmdb?uri=%2Fmovie%2F141052%3Fappend_to_response%3Dreleases%2Ccredits%26language%3Den' from the HTTP cache
+2018-07-13 19:43:55,688 (7f4be7fff700) :  DEBUG (runtime:88) - Sending packed state data (110 bytes)
+2018-07-13 19:43:55,688 (7f4be7fff700) :  DEBUG (runtime:924) - Response: [200] str, 32 bytes
+2018-07-13 19:43:55,694 (7f4be7fff700) :  DEBUG (runtime:717) - Handling request GET /:/plugins/com.plexapp.agents.themoviedb/messaging/function/TWVzc2FnZUtpdDpHZXRJbWRiSWQ_/Y2VyZWFsMQoxCmxpc3QKMApyMAo_/Y2VyZWFsMQoxCmRpY3QKMQpzNgo0MDgyMjBzNwp0bWRiX2lkcjAK
+2018-07-13 19:43:55,695 (7f4be7fff700) :  DEBUG (runtime:49) - Received packed state data (80 bytes)
+2018-07-13 19:43:55,696 (7f4be7fff700) :  DEBUG (runtime:814) - Found route matching /:/plugins/com.plexapp.agents.themoviedb/messaging/function/TWVzc2FnZUtpdDpHZXRJbWRiSWQ_/Y2VyZWFsMQoxCmxpc3QKMApyMAo_/Y2VyZWFsMQoxCmRpY3QKMQpzNgo0MDgyMjBzNwp0bWRiX2lkcjAK
+2018-07-13 19:43:55,698 (7f4be7fff700) :  DEBUG (networking:161) - Fetching 'http://127.0.0.1:32400/services/tmdb?uri=%2Fmovie%2F408220%3Fappend_to_response%3Dreleases%2Ccredits%26language%3Den' from the HTTP cache
+2018-07-13 19:43:55,699 (7f4be7fff700) :  DEBUG (runtime:88) - Sending packed state data (110 bytes)
+2018-07-13 19:43:55,699 (7f4be7fff700) :  DEBUG (runtime:924) - Response: [200] str, 32 bytes
+2018-07-13 19:43:55,704 (7f4be7fff700) :  DEBUG (runtime:717) - Handling request GET /:/plugins/com.plexapp.agents.themoviedb/messaging/function/TWVzc2FnZUtpdDpHZXRJbWRiSWQ_/Y2VyZWFsMQoxCmxpc3QKMApyMAo_/Y2VyZWFsMQoxCmRpY3QKMQpzNgozMDA0MjRzNwp0bWRiX2lkcjAK
+2018-07-13 19:43:55,705 (7f4be7fff700) :  DEBUG (runtime:49) - Received packed state data (80 bytes)
+2018-07-13 19:43:55,705 (7f4be7fff700) :  DEBUG (runtime:814) - Found route matching /:/plugins/com.plexapp.agents.themoviedb/messaging/function/TWVzc2FnZUtpdDpHZXRJbWRiSWQ_/Y2VyZWFsMQoxCmxpc3QKMApyMAo_/Y2VyZWFsMQoxCmRpY3QKMQpzNgozMDA0MjRzNwp0bWRiX2lkcjAK
+2018-07-13 19:43:55,708 (7f4be7fff700) :  DEBUG (networking:161) - Fetching 'http://127.0.0.1:32400/services/tmdb?uri=%2Fmovie%2F300424%3Fappend_to_response%3Dreleases%2Ccredits%26language%3Den' from the HTTP cache
+2018-07-13 19:43:55,709 (7f4be7fff700) :  DEBUG (runtime:88) - Sending packed state data (110 bytes)
+2018-07-13 19:43:55,709 (7f4be7fff700) :  DEBUG (runtime:924) - Response: [200] str, 32 bytes
+2018-07-13 19:43:55,717 (7f4be7fff700) :  DEBUG (runtime:717) - Handling request GET /:/plugins/com.plexapp.agents.themoviedb/messaging/function/TWVzc2FnZUtpdDpHZXRJbWRiSWQ_/Y2VyZWFsMQoxCmxpc3QKMApyMAo_/Y2VyZWFsMQoxCmRpY3QKMQpzNgo0ODQ4NTVzNwp0bWRiX2lkcjAK
+2018-07-13 19:43:55,717 (7f4be7fff700) :  DEBUG (runtime:49) - Received packed state data (80 bytes)
+2018-07-13 19:43:55,719 (7f4be7fff700) :  DEBUG (runtime:814) - Found route matching /:/plugins/com.plexapp.agents.themoviedb/messaging/function/TWVzc2FnZUtpdDpHZXRJbWRiSWQ_/Y2VyZWFsMQoxCmxpc3QKMApyMAo_/Y2VyZWFsMQoxCmRpY3QKMQpzNgo0ODQ4NTVzNwp0bWRiX2lkcjAK
+2018-07-13 19:43:55,721 (7f4be7fff700) :  DEBUG (networking:161) - Fetching 'http://127.0.0.1:32400/services/tmdb?uri=%2Fmovie%2F484855%3Fappend_to_response%3Dreleases%2Ccredits%26language%3Den' from the HTTP cache
+2018-07-13 19:43:55,722 (7f4be7fff700) :  DEBUG (runtime:88) - Sending packed state data (110 bytes)
+2018-07-13 19:43:55,722 (7f4be7fff700) :  DEBUG (runtime:924) - Response: [200] str, 32 bytes
+2018-07-13 19:44:48,207 (7f4be7fff700) :  DEBUG (runtime:717) - Handling request GET /:/plugins/com.plexapp.agents.themoviedb/messaging/function/TWVzc2FnZUtpdDpHZXRJbWRiSWQ_/Y2VyZWFsMQoxCmxpc3QKMApyMAo_/Y2VyZWFsMQoxCmRpY3QKMQpzNQo4MjY5MHM3CnRtZGJfaWRyMAo_
+2018-07-13 19:44:48,209 (7f4be7fff700) :  DEBUG (runtime:49) - Received packed state data (80 bytes)
+2018-07-13 19:44:48,210 (7f4be7fff700) :  DEBUG (runtime:814) - Found route matching /:/plugins/com.plexapp.agents.themoviedb/messaging/function/TWVzc2FnZUtpdDpHZXRJbWRiSWQ_/Y2VyZWFsMQoxCmxpc3QKMApyMAo_/Y2VyZWFsMQoxCmRpY3QKMQpzNQo4MjY5MHM3CnRtZGJfaWRyMAo_
+2018-07-13 19:44:48,216 (7f4be7fff700) :  DEBUG (networking:161) - Fetching 'http://127.0.0.1:32400/services/tmdb?uri=%2Fmovie%2F82690%3Fappend_to_response%3Dreleases%2Ccredits%26language%3Den' from the HTTP cache
+2018-07-13 19:44:48,218 (7f4be7fff700) :  DEBUG (runtime:88) - Sending packed state data (110 bytes)
+2018-07-13 19:44:48,218 (7f4be7fff700) :  DEBUG (runtime:924) - Response: [200] str, 32 bytes
+2018-07-13 19:45:48,209 (7f4be7fff700) :  DEBUG (runtime:717) - Handling request GET /:/plugins/com.plexapp.agents.themoviedb/messaging/function/TWVzc2FnZUtpdDpHZXRJbWRiSWQ_/Y2VyZWFsMQoxCmxpc3QKMApyMAo_/Y2VyZWFsMQoxCmRpY3QKMQpzNgozNDg4OTNzNwp0bWRiX2lkcjAK
+2018-07-13 19:45:48,211 (7f4be7fff700) :  DEBUG (runtime:49) - Received packed state data (80 bytes)
+2018-07-13 19:45:48,213 (7f4be7fff700) :  DEBUG (runtime:814) - Found route matching /:/plugins/com.plexapp.agents.themoviedb/messaging/function/TWVzc2FnZUtpdDpHZXRJbWRiSWQ_/Y2VyZWFsMQoxCmxpc3QKMApyMAo_/Y2VyZWFsMQoxCmRpY3QKMQpzNgozNDg4OTNzNwp0bWRiX2lkcjAK
+2018-07-13 19:45:48,218 (7f4be7fff700) :  DEBUG (networking:161) - Fetching 'http://127.0.0.1:32400/services/tmdb?uri=%2Fmovie%2F348893%3Fappend_to_response%3Dreleases%2Ccredits%26language%3Den' from the HTTP cache
+2018-07-13 19:45:48,221 (7f4be7fff700) :  DEBUG (runtime:88) - Sending packed state data (110 bytes)
+2018-07-13 19:45:48,221 (7f4be7fff700) :  DEBUG (runtime:924) - Response: [200] str, 32 bytes
+2018-07-13 19:46:11,452 (7f4be7fff700) :  DEBUG (runtime:717) - Handling request GET /:/plugins/com.plexapp.agents.themoviedb/messaging/function/TWVzc2FnZUtpdDpHZXRJbWRiSWQ_/Y2VyZWFsMQoxCmxpc3QKMApyMAo_/Y2VyZWFsMQoxCmRpY3QKMQpzNgozMzk5MzRzNwp0bWRiX2lkcjAK
+2018-07-13 19:46:11,453 (7f4be7fff700) :  DEBUG (runtime:49) - Received packed state data (80 bytes)
+2018-07-13 19:46:11,453 (7f4be7fff700) :  DEBUG (runtime:814) - Found route matching /:/plugins/com.plexapp.agents.themoviedb/messaging/function/TWVzc2FnZUtpdDpHZXRJbWRiSWQ_/Y2VyZWFsMQoxCmxpc3QKMApyMAo_/Y2VyZWFsMQoxCmRpY3QKMQpzNgozMzk5MzRzNwp0bWRiX2lkcjAK
+2018-07-13 19:46:11,455 (7f4be7fff700) :  DEBUG (networking:161) - Fetching 'http://127.0.0.1:32400/services/tmdb?uri=%2Fmovie%2F339934%3Fappend_to_response%3Dreleases%2Ccredits%26language%3Den' from the HTTP cache
+2018-07-13 19:46:11,457 (7f4be7fff700) :  DEBUG (runtime:88) - Sending packed state data (110 bytes)
+2018-07-13 19:46:11,457 (7f4be7fff700) :  DEBUG (runtime:924) - Response: [200] str, 32 bytes
+2018-07-13 19:49:08,647 (7f4be7fff700) :  DEBUG (runtime:717) - Handling request GET /:/plugins/com.plexapp.agents.themoviedb/messaging/function/TWVzc2FnZUtpdDpHZXRJbWRiSWQ_/Y2VyZWFsMQoxCmxpc3QKMApyMAo_/Y2VyZWFsMQoxCmRpY3QKMQpzNgoxMzcwOTRzNwp0bWRiX2lkcjAK
+2018-07-13 19:49:08,817 (7f4be7fff700) :  DEBUG (runtime:49) - Received packed state data (80 bytes)
+2018-07-13 19:49:08,818 (7f4be7fff700) :  DEBUG (runtime:814) - Found route matching /:/plugins/com.plexapp.agents.themoviedb/messaging/function/TWVzc2FnZUtpdDpHZXRJbWRiSWQ_/Y2VyZWFsMQoxCmxpc3QKMApyMAo_/Y2VyZWFsMQoxCmRpY3QKMQpzNgoxMzcwOTRzNwp0bWRiX2lkcjAK
+2018-07-13 19:49:08,819 (7f4be7fff700) :  DEBUG (networking:166) - Requesting 'http://127.0.0.1:32400/services/tmdb?uri=%2Fmovie%2F137094%3Fappend_to_response%3Dreleases%2Ccredits%26language%3Den'
+2018-07-13 19:49:10,882 (7f4be7fff700) :  DEBUG (runtime:88) - Sending packed state data (110 bytes)
+2018-07-13 19:49:10,883 (7f4be7fff700) :  DEBUG (runtime:924) - Response: [200] str, 32 bytes
+2018-07-13 19:49:56,277 (7f4be7fff700) :  DEBUG (runtime:717) - Handling request GET /:/plugins/com.plexapp.agents.themoviedb/messaging/function/TWVzc2FnZUtpdDpHZXRJbWRiSWQ_/Y2VyZWFsMQoxCmxpc3QKMApyMAo_/Y2VyZWFsMQoxCmRpY3QKMQpzNgoyNTY1OTFzNwp0bWRiX2lkcjAK
+2018-07-13 19:49:56,278 (7f4be7fff700) :  DEBUG (runtime:49) - Received packed state data (80 bytes)
+2018-07-13 19:49:56,279 (7f4be7fff700) :  DEBUG (runtime:814) - Found route matching /:/plugins/com.plexapp.agents.themoviedb/messaging/function/TWVzc2FnZUtpdDpHZXRJbWRiSWQ_/Y2VyZWFsMQoxCmxpc3QKMApyMAo_/Y2VyZWFsMQoxCmRpY3QKMQpzNgoyNTY1OTFzNwp0bWRiX2lkcjAK
+2018-07-13 19:49:57,698 (7f4be7fff700) :  DEBUG (networking:161) - Fetching 'http://127.0.0.1:32400/services/tmdb?uri=%2Fmovie%2F256591%3Fappend_to_response%3Dreleases%2Ccredits%26language%3Den' from the HTTP cache
+2018-07-13 19:49:57,700 (7f4be7fff700) :  DEBUG (runtime:88) - Sending packed state data (110 bytes)
+2018-07-13 19:49:57,701 (7f4be7fff700) :  DEBUG (runtime:924) - Response: [200] str, 32 bytes
+2018-07-13 19:50:47,148 (7f4be7fff700) :  DEBUG (runtime:717) - Handling request GET /:/plugins/com.plexapp.agents.themoviedb/messaging/function/TWVzc2FnZUtpdDpHZXRJbWRiSWQ_/Y2VyZWFsMQoxCmxpc3QKMApyMAo_/Y2VyZWFsMQoxCmRpY3QKMQpzNgoyMjI4OTlzNwp0bWRiX2lkcjAK
+2018-07-13 19:50:47,149 (7f4be7fff700) :  DEBUG (runtime:49) - Received packed state data (80 bytes)
+2018-07-13 19:50:47,150 (7f4be7fff700) :  DEBUG (runtime:814) - Found route matching /:/plugins/com.plexapp.agents.themoviedb/messaging/function/TWVzc2FnZUtpdDpHZXRJbWRiSWQ_/Y2VyZWFsMQoxCmxpc3QKMApyMAo_/Y2VyZWFsMQoxCmRpY3QKMQpzNgoyMjI4OTlzNwp0bWRiX2lkcjAK
+2018-07-13 19:50:47,980 (7f4be7fff700) :  DEBUG (networking:161) - Fetching 'http://127.0.0.1:32400/services/tmdb?uri=%2Fmovie%2F222899%3Fappend_to_response%3Dreleases%2Ccredits%26language%3Den' from the HTTP cache
+2018-07-13 19:50:47,982 (7f4be7fff700) :  DEBUG (runtime:88) - Sending packed state data (110 bytes)
+2018-07-13 19:50:47,982 (7f4be7fff700) :  DEBUG (runtime:924) - Response: [200] str, 32 bytes
+2018-07-13 19:51:39,616 (7f4be7fff700) :  DEBUG (runtime:717) - Handling request GET /:/plugins/com.plexapp.agents.themoviedb/messaging/function/TWVzc2FnZUtpdDpHZXRJbWRiSWQ_/Y2VyZWFsMQoxCmxpc3QKMApyMAo_/Y2VyZWFsMQoxCmRpY3QKMQpzNgo0MDg2NDdzNwp0bWRiX2lkcjAK
+2018-07-13 19:51:39,617 (7f4be7fff700) :  DEBUG (runtime:49) - Received packed state data (80 bytes)
+2018-07-13 19:51:39,617 (7f4be7fff700) :  DEBUG (runtime:814) - Found route matching /:/plugins/com.plexapp.agents.themoviedb/messaging/function/TWVzc2FnZUtpdDpHZXRJbWRiSWQ_/Y2VyZWFsMQoxCmxpc3QKMApyMAo_/Y2VyZWFsMQoxCmRpY3QKMQpzNgo0MDg2NDdzNwp0bWRiX2lkcjAK
+2018-07-13 19:51:39,618 (7f4be7fff700) :  DEBUG (networking:166) - Requesting 'http://127.0.0.1:32400/services/tmdb?uri=%2Fmovie%2F408647%3Fappend_to_response%3Dreleases%2Ccredits%26language%3Den'
+2018-07-13 19:51:41,722 (7f4be7fff700) :  DEBUG (runtime:88) - Sending packed state data (110 bytes)
+2018-07-13 19:51:41,722 (7f4be7fff700) :  DEBUG (runtime:924) - Response: [200] str, 32 bytes
+2018-07-13 19:52:06,563 (7f4be7fff700) :  DEBUG (runtime:717) - Handling request GET /:/plugins/com.plexapp.agents.themoviedb/messaging/function/TWVzc2FnZUtpdDpHZXRJbWRiSWQ_/Y2VyZWFsMQoxCmxpc3QKMApyMAo_/Y2VyZWFsMQoxCmRpY3QKMQpzNAoxODMwczcKdG1kYl9pZHIwCg__
+2018-07-13 19:52:06,563 (7f4be7fff700) :  DEBUG (runtime:49) - Received packed state data (80 bytes)
+2018-07-13 19:52:06,565 (7f4be7fff700) :  DEBUG (runtime:814) - Found route matching /:/plugins/com.plexapp.agents.themoviedb/messaging/function/TWVzc2FnZUtpdDpHZXRJbWRiSWQ_/Y2VyZWFsMQoxCmxpc3QKMApyMAo_/Y2VyZWFsMQoxCmRpY3QKMQpzNAoxODMwczcKdG1kYl9pZHIwCg__
+2018-07-13 19:52:06,971 (7f4be7fff700) :  DEBUG (networking:161) - Fetching 'http://127.0.0.1:32400/services/tmdb?uri=%2Fmovie%2F1830%3Fappend_to_response%3Dreleases%2Ccredits%26language%3Den' from the HTTP cache
+2018-07-13 19:52:06,973 (7f4be7fff700) :  DEBUG (runtime:88) - Sending packed state data (110 bytes)
+2018-07-13 19:52:06,973 (7f4be7fff700) :  DEBUG (runtime:924) - Response: [200] str, 32 bytes
+2018-07-13 19:52:11,516 (7f4be7fff700) :  DEBUG (runtime:717) - Handling request GET /:/plugins/com.plexapp.agents.themoviedb/messaging/function/TWVzc2FnZUtpdDpHZXRJbWRiSWQ_/Y2VyZWFsMQoxCmxpc3QKMApyMAo_/Y2VyZWFsMQoxCmRpY3QKMQpzNgo0Mzg3NDdzNwp0bWRiX2lkcjAK
+2018-07-13 19:52:11,517 (7f4be7fff700) :  DEBUG (runtime:49) - Received packed state data (80 bytes)
+2018-07-13 19:52:11,518 (7f4be7fff700) :  DEBUG (runtime:814) - Found route matching /:/plugins/com.plexapp.agents.themoviedb/messaging/function/TWVzc2FnZUtpdDpHZXRJbWRiSWQ_/Y2VyZWFsMQoxCmxpc3QKMApyMAo_/Y2VyZWFsMQoxCmRpY3QKMQpzNgo0Mzg3NDdzNwp0bWRiX2lkcjAK
+2018-07-13 19:52:11,521 (7f4be7fff700) :  DEBUG (networking:161) - Fetching 'http://127.0.0.1:32400/services/tmdb?uri=%2Fmovie%2F438747%3Fappend_to_response%3Dreleases%2Ccredits%26language%3Den' from the HTTP cache
+2018-07-13 19:52:11,522 (7f4be7fff700) :  DEBUG (runtime:88) - Sending packed state data (110 bytes)
+2018-07-13 19:52:11,522 (7f4be7fff700) :  DEBUG (runtime:924) - Response: [200] str, 32 bytes
+2018-07-13 19:55:13,717 (7f4be7fff700) :  DEBUG (runtime:717) - Handling request GET /:/plugins/com.plexapp.agents.themoviedb/messaging/function/TWVzc2FnZUtpdDpHZXRJbWRiSWQ_/Y2VyZWFsMQoxCmxpc3QKMApyMAo_/Y2VyZWFsMQoxCmRpY3QKMQpzNgoyNzQ4NTRzNwp0bWRiX2lkcjAK
+2018-07-13 19:55:13,717 (7f4be7fff700) :  DEBUG (runtime:49) - Received packed state data (80 bytes)
+2018-07-13 19:55:13,719 (7f4be7fff700) :  DEBUG (runtime:814) - Found route matching /:/plugins/com.plexapp.agents.themoviedb/messaging/function/TWVzc2FnZUtpdDpHZXRJbWRiSWQ_/Y2VyZWFsMQoxCmxpc3QKMApyMAo_/Y2VyZWFsMQoxCmRpY3QKMQpzNgoyNzQ4NTRzNwp0bWRiX2lkcjAK
+2018-07-13 19:55:13,719 (7f4be7fff700) :  DEBUG (networking:166) - Requesting 'http://127.0.0.1:32400/services/tmdb?uri=%2Fmovie%2F274854%3Fappend_to_response%3Dreleases%2Ccredits%26language%3Den'
+2018-07-13 19:55:15,782 (7f4be7fff700) :  DEBUG (runtime:88) - Sending packed state data (110 bytes)
+2018-07-13 19:55:15,782 (7f4be7fff700) :  DEBUG (runtime:924) - Response: [200] str, 32 bytes
+2018-07-13 19:55:16,368 (7f4be7fff700) :  DEBUG (runtime:717) - Handling request GET /:/plugins/com.plexapp.agents.themoviedb/messaging/function/TWVzc2FnZUtpdDpHZXRJbWRiSWQ_/Y2VyZWFsMQoxCmxpc3QKMApyMAo_/Y2VyZWFsMQoxCmRpY3QKMQpzNgozMTAxMzFzNwp0bWRiX2lkcjAK
+2018-07-13 19:55:16,369 (7f4be7fff700) :  DEBUG (runtime:49) - Received packed state data (80 bytes)
+2018-07-13 19:55:16,369 (7f4be7fff700) :  DEBUG (runtime:814) - Found route matching /:/plugins/com.plexapp.agents.themoviedb/messaging/function/TWVzc2FnZUtpdDpHZXRJbWRiSWQ_/Y2VyZWFsMQoxCmxpc3QKMApyMAo_/Y2VyZWFsMQoxCmRpY3QKMQpzNgozMTAxMzFzNwp0bWRiX2lkcjAK
+2018-07-13 19:55:16,370 (7f4be7fff700) :  DEBUG (networking:166) - Requesting 'http://127.0.0.1:32400/services/tmdb?uri=%2Fmovie%2F310131%3Fappend_to_response%3Dreleases%2Ccredits%26language%3Den'
+2018-07-13 19:55:18,437 (7f4be7fff700) :  DEBUG (runtime:88) - Sending packed state data (110 bytes)
+2018-07-13 19:55:18,437 (7f4be7fff700) :  DEBUG (runtime:924) - Response: [200] str, 32 bytes
+2018-07-13 19:55:18,442 (7f4be7fff700) :  DEBUG (runtime:717) - Handling request GET /:/plugins/com.plexapp.agents.themoviedb/messaging/function/TWVzc2FnZUtpdDpHZXRJbWRiSWQ_/Y2VyZWFsMQoxCmxpc3QKMApyMAo_/Y2VyZWFsMQoxCmRpY3QKMQpzNQo2MTAwNXM3CnRtZGJfaWRyMAo_
+2018-07-13 19:55:18,442 (7f4be7fff700) :  DEBUG (runtime:49) - Received packed state data (80 bytes)
+2018-07-13 19:55:18,443 (7f4be7fff700) :  DEBUG (runtime:814) - Found route matching /:/plugins/com.plexapp.agents.themoviedb/messaging/function/TWVzc2FnZUtpdDpHZXRJbWRiSWQ_/Y2VyZWFsMQoxCmxpc3QKMApyMAo_/Y2VyZWFsMQoxCmRpY3QKMQpzNQo2MTAwNXM3CnRtZGJfaWRyMAo_
+2018-07-13 19:55:18,443 (7f4be7fff700) :  DEBUG (networking:166) - Requesting 'http://127.0.0.1:32400/services/tmdb?uri=%2Fmovie%2F61005%3Fappend_to_response%3Dreleases%2Ccredits%26language%3Den'
+2018-07-13 19:55:20,510 (7f4be7fff700) :  DEBUG (runtime:88) - Sending packed state data (110 bytes)
+2018-07-13 19:55:20,510 (7f4be7fff700) :  DEBUG (runtime:924) - Response: [200] str, 32 bytes
+2018-07-13 19:55:20,696 (7f4be7fff700) :  DEBUG (runtime:717) - Handling request GET /:/plugins/com.plexapp.agents.themoviedb/messaging/function/TWVzc2FnZUtpdDpHZXRJbWRiSWQ_/Y2VyZWFsMQoxCmxpc3QKMApyMAo_/Y2VyZWFsMQoxCmRpY3QKMQpzNgozNDc0MTNzNwp0bWRiX2lkcjAK
+2018-07-13 19:55:20,699 (7f4be7fff700) :  DEBUG (runtime:49) - Received packed state data (80 bytes)
+2018-07-13 19:55:20,701 (7f4be7fff700) :  DEBUG (runtime:814) - Found route matching /:/plugins/com.plexapp.agents.themoviedb/messaging/function/TWVzc2FnZUtpdDpHZXRJbWRiSWQ_/Y2VyZWFsMQoxCmxpc3QKMApyMAo_/Y2VyZWFsMQoxCmRpY3QKMQpzNgozNDc0MTNzNwp0bWRiX2lkcjAK
+2018-07-13 19:55:20,703 (7f4be7fff700) :  DEBUG (networking:166) - Requesting 'http://127.0.0.1:32400/services/tmdb?uri=%2Fmovie%2F347413%3Fappend_to_response%3Dreleases%2Ccredits%26language%3Den'
+2018-07-13 19:55:22,785 (7f4be7fff700) :  DEBUG (runtime:88) - Sending packed state data (110 bytes)
+2018-07-13 19:55:22,785 (7f4be7fff700) :  DEBUG (runtime:924) - Response: [200] str, 32 bytes
+2018-07-13 19:55:22,790 (7f4be7fff700) :  DEBUG (runtime:717) - Handling request GET /:/plugins/com.plexapp.agents.themoviedb/messaging/function/TWVzc2FnZUtpdDpHZXRJbWRiSWQ_/Y2VyZWFsMQoxCmxpc3QKMApyMAo_/Y2VyZWFsMQoxCmRpY3QKMQpzNgoxNDg2NTZzNwp0bWRiX2lkcjAK
+2018-07-13 19:55:22,790 (7f4be7fff700) :  DEBUG (runtime:49) - Received packed state data (80 bytes)
+2018-07-13 19:55:22,790 (7f4be7fff700) :  DEBUG (runtime:814) - Found route matching /:/plugins/com.plexapp.agents.themoviedb/messaging/function/TWVzc2FnZUtpdDpHZXRJbWRiSWQ_/Y2VyZWFsMQoxCmxpc3QKMApyMAo_/Y2VyZWFsMQoxCmRpY3QKMQpzNgoxNDg2NTZzNwp0bWRiX2lkcjAK
+2018-07-13 19:55:22,791 (7f4be7fff700) :  DEBUG (networking:166) - Requesting 'http://127.0.0.1:32400/services/tmdb?uri=%2Fmovie%2F148656%3Fappend_to_response%3Dreleases%2Ccredits%26language%3Den'
+2018-07-13 19:55:24,867 (7f4be7fff700) :  DEBUG (runtime:88) - Sending packed state data (110 bytes)
+2018-07-13 19:55:24,867 (7f4be7fff700) :  DEBUG (runtime:924) - Response: [200] str, 32 bytes
+2018-07-13 19:55:24,873 (7f4be7fff700) :  DEBUG (runtime:717) - Handling request GET /:/plugins/com.plexapp.agents.themoviedb/messaging/function/TWVzc2FnZUtpdDpHZXRJbWRiSWQ_/Y2VyZWFsMQoxCmxpc3QKMApyMAo_/Y2VyZWFsMQoxCmRpY3QKMQpzNgozMzQwODhzNwp0bWRiX2lkcjAK
+2018-07-13 19:55:24,874 (7f4be7fff700) :  DEBUG (runtime:49) - Received packed state data (80 bytes)
+2018-07-13 19:55:24,874 (7f4be7fff700) :  DEBUG (runtime:814) - Found route matching /:/plugins/com.plexapp.agents.themoviedb/messaging/function/TWVzc2FnZUtpdDpHZXRJbWRiSWQ_/Y2VyZWFsMQoxCmxpc3QKMApyMAo_/Y2VyZWFsMQoxCmRpY3QKMQpzNgozMzQwODhzNwp0bWRiX2lkcjAK
+2018-07-13 19:55:24,875 (7f4be7fff700) :  DEBUG (networking:166) - Requesting 'http://127.0.0.1:32400/services/tmdb?uri=%2Fmovie%2F334088%3Fappend_to_response%3Dreleases%2Ccredits%26language%3Den'
+2018-07-13 19:55:27,041 (7f4be7fff700) :  DEBUG (runtime:88) - Sending packed state data (110 bytes)
+2018-07-13 19:55:27,042 (7f4be7fff700) :  DEBUG (runtime:924) - Response: [200] str, 32 bytes
+2018-07-13 19:55:27,046 (7f4be7fff700) :  DEBUG (runtime:717) - Handling request GET /:/plugins/com.plexapp.agents.themoviedb/messaging/function/TWVzc2FnZUtpdDpHZXRJbWRiSWQ_/Y2VyZWFsMQoxCmxpc3QKMApyMAo_/Y2VyZWFsMQoxCmRpY3QKMQpzNgo0OTA4NjNzNwp0bWRiX2lkcjAK
+2018-07-13 19:55:27,046 (7f4be7fff700) :  DEBUG (runtime:49) - Received packed state data (80 bytes)
+2018-07-13 19:55:27,047 (7f4be7fff700) :  DEBUG (runtime:814) - Found route matching /:/plugins/com.plexapp.agents.themoviedb/messaging/function/TWVzc2FnZUtpdDpHZXRJbWRiSWQ_/Y2VyZWFsMQoxCmxpc3QKMApyMAo_/Y2VyZWFsMQoxCmRpY3QKMQpzNgo0OTA4NjNzNwp0bWRiX2lkcjAK
+2018-07-13 19:55:27,048 (7f4be7fff700) :  DEBUG (networking:166) - Requesting 'http://127.0.0.1:32400/services/tmdb?uri=%2Fmovie%2F490863%3Fappend_to_response%3Dreleases%2Ccredits%26language%3Den'
+2018-07-13 19:55:29,125 (7f4be7fff700) :  DEBUG (runtime:88) - Sending packed state data (110 bytes)
+2018-07-13 19:55:29,126 (7f4be7fff700) :  DEBUG (runtime:924) - Response: [200] str, 32 bytes
+2018-07-13 19:55:29,130 (7f4be7fff700) :  DEBUG (runtime:717) - Handling request GET /:/plugins/com.plexapp.agents.themoviedb/messaging/function/TWVzc2FnZUtpdDpHZXRJbWRiSWQ_/Y2VyZWFsMQoxCmxpc3QKMApyMAo_/Y2VyZWFsMQoxCmRpY3QKMQpzNgozNjUxMThzNwp0bWRiX2lkcjAK
+2018-07-13 19:55:29,131 (7f4be7fff700) :  DEBUG (runtime:49) - Received packed state data (80 bytes)
+2018-07-13 19:55:29,132 (7f4be7fff700) :  DEBUG (runtime:814) - Found route matching /:/plugins/com.plexapp.agents.themoviedb/messaging/function/TWVzc2FnZUtpdDpHZXRJbWRiSWQ_/Y2VyZWFsMQoxCmxpc3QKMApyMAo_/Y2VyZWFsMQoxCmRpY3QKMQpzNgozNjUxMThzNwp0bWRiX2lkcjAK
+2018-07-13 19:55:29,133 (7f4be7fff700) :  DEBUG (networking:166) - Requesting 'http://127.0.0.1:32400/services/tmdb?uri=%2Fmovie%2F365118%3Fappend_to_response%3Dreleases%2Ccredits%26language%3Den'
+2018-07-13 19:55:31,185 (7f4be7fff700) :  DEBUG (runtime:88) - Sending packed state data (110 bytes)
+2018-07-13 19:55:31,186 (7f4be7fff700) :  DEBUG (runtime:924) - Response: [200] str, 32 bytes
+2018-07-13 19:55:31,190 (7f4be7fff700) :  DEBUG (runtime:717) - Handling request GET /:/plugins/com.plexapp.agents.themoviedb/messaging/function/TWVzc2FnZUtpdDpHZXRJbWRiSWQ_/Y2VyZWFsMQoxCmxpc3QKMApyMAo_/Y2VyZWFsMQoxCmRpY3QKMQpzNgozNjU4NDJzNwp0bWRiX2lkcjAK
+2018-07-13 19:55:31,191 (7f4be7fff700) :  DEBUG (runtime:49) - Received packed state data (80 bytes)
+2018-07-13 19:55:31,192 (7f4be7fff700) :  DEBUG (runtime:814) - Found route matching /:/plugins/com.plexapp.agents.themoviedb/messaging/function/TWVzc2FnZUtpdDpHZXRJbWRiSWQ_/Y2VyZWFsMQoxCmxpc3QKMApyMAo_/Y2VyZWFsMQoxCmRpY3QKMQpzNgozNjU4NDJzNwp0bWRiX2lkcjAK
+2018-07-13 19:55:31,192 (7f4be7fff700) :  DEBUG (networking:166) - Requesting 'http://127.0.0.1:32400/services/tmdb?uri=%2Fmovie%2F365842%3Fappend_to_response%3Dreleases%2Ccredits%26language%3Den'
+2018-07-13 19:55:33,251 (7f4be7fff700) :  DEBUG (runtime:88) - Sending packed state data (110 bytes)
+2018-07-13 19:55:33,251 (7f4be7fff700) :  DEBUG (runtime:924) - Response: [200] str, 32 bytes
+2018-07-13 19:55:33,256 (7f4be7fff700) :  DEBUG (runtime:717) - Handling request GET /:/plugins/com.plexapp.agents.themoviedb/messaging/function/TWVzc2FnZUtpdDpHZXRJbWRiSWQ_/Y2VyZWFsMQoxCmxpc3QKMApyMAo_/Y2VyZWFsMQoxCmRpY3QKMQpzNgozODU1MThzNwp0bWRiX2lkcjAK
+2018-07-13 19:55:33,257 (7f4be7fff700) :  DEBUG (runtime:49) - Received packed state data (80 bytes)
+2018-07-13 19:55:33,257 (7f4be7fff700) :  DEBUG (runtime:814) - Found route matching /:/plugins/com.plexapp.agents.themoviedb/messaging/function/TWVzc2FnZUtpdDpHZXRJbWRiSWQ_/Y2VyZWFsMQoxCmxpc3QKMApyMAo_/Y2VyZWFsMQoxCmRpY3QKMQpzNgozODU1MThzNwp0bWRiX2lkcjAK
+2018-07-13 19:55:33,258 (7f4be7fff700) :  DEBUG (networking:166) - Requesting 'http://127.0.0.1:32400/services/tmdb?uri=%2Fmovie%2F385518%3Fappend_to_response%3Dreleases%2Ccredits%26language%3Den'
+2018-07-13 19:55:35,312 (7f4be7fff700) :  DEBUG (runtime:88) - Sending packed state data (110 bytes)
+2018-07-13 19:55:35,313 (7f4be7fff700) :  DEBUG (runtime:924) - Response: [200] str, 16 bytes
+2018-07-13 19:56:44,123 (7f4be7fff700) :  DEBUG (runtime:717) - Handling request GET /:/plugins/com.plexapp.agents.themoviedb/messaging/function/TWVzc2FnZUtpdDpHZXRJbWRiSWQ_/Y2VyZWFsMQoxCmxpc3QKMApyMAo_/Y2VyZWFsMQoxCmRpY3QKMQpzNgozMDA2NzNzNwp0bWRiX2lkcjAK
+2018-07-13 19:56:44,123 (7f4be7fff700) :  DEBUG (runtime:49) - Received packed state data (80 bytes)
+2018-07-13 19:56:44,124 (7f4be7fff700) :  DEBUG (runtime:814) - Found route matching /:/plugins/com.plexapp.agents.themoviedb/messaging/function/TWVzc2FnZUtpdDpHZXRJbWRiSWQ_/Y2VyZWFsMQoxCmxpc3QKMApyMAo_/Y2VyZWFsMQoxCmRpY3QKMQpzNgozMDA2NzNzNwp0bWRiX2lkcjAK
+2018-07-13 19:56:44,128 (7f4be7fff700) :  DEBUG (networking:161) - Fetching 'http://127.0.0.1:32400/services/tmdb?uri=%2Fmovie%2F300673%3Fappend_to_response%3Dreleases%2Ccredits%26language%3Den' from the HTTP cache
+2018-07-13 19:56:44,129 (7f4be7fff700) :  DEBUG (runtime:88) - Sending packed state data (110 bytes)
+2018-07-13 19:56:44,129 (7f4be7fff700) :  DEBUG (runtime:924) - Response: [200] str, 32 bytes
+2018-07-13 19:58:58,039 (7f4be7fff700) :  DEBUG (runtime:717) - Handling request GET /:/plugins/com.plexapp.agents.themoviedb/messaging/function/TWVzc2FnZUtpdDpHZXRJbWRiSWQ_/Y2VyZWFsMQoxCmxpc3QKMApyMAo_/Y2VyZWFsMQoxCmRpY3QKMQpzNgoyNTcwODhzNwp0bWRiX2lkcjAK
+2018-07-13 19:58:58,040 (7f4be7fff700) :  DEBUG (runtime:49) - Received packed state data (80 bytes)
+2018-07-13 19:58:58,041 (7f4be7fff700) :  DEBUG (runtime:814) - Found route matching /:/plugins/com.plexapp.agents.themoviedb/messaging/function/TWVzc2FnZUtpdDpHZXRJbWRiSWQ_/Y2VyZWFsMQoxCmxpc3QKMApyMAo_/Y2VyZWFsMQoxCmRpY3QKMQpzNgoyNTcwODhzNwp0bWRiX2lkcjAK
+2018-07-13 19:58:58,044 (7f4be7fff700) :  DEBUG (networking:161) - Fetching 'http://127.0.0.1:32400/services/tmdb?uri=%2Fmovie%2F257088%3Fappend_to_response%3Dreleases%2Ccredits%26language%3Den' from the HTTP cache
+2018-07-13 19:58:58,045 (7f4be7fff700) :  DEBUG (runtime:88) - Sending packed state data (110 bytes)
+2018-07-13 19:58:58,045 (7f4be7fff700) :  DEBUG (runtime:924) - Response: [200] str, 32 bytes
+2018-07-13 20:01:42,967 (7f4be7fff700) :  DEBUG (runtime:717) - Handling request GET /:/plugins/com.plexapp.agents.themoviedb/messaging/function/TWVzc2FnZUtpdDpHZXRJbWRiSWQ_/Y2VyZWFsMQoxCmxpc3QKMApyMAo_/Y2VyZWFsMQoxCmRpY3QKMQpzNgozMDgzMzVzNwp0bWRiX2lkcjAK
+2018-07-13 20:01:42,968 (7f4be7fff700) :  DEBUG (runtime:49) - Received packed state data (80 bytes)
+2018-07-13 20:01:42,969 (7f4be7fff700) :  DEBUG (runtime:814) - Found route matching /:/plugins/com.plexapp.agents.themoviedb/messaging/function/TWVzc2FnZUtpdDpHZXRJbWRiSWQ_/Y2VyZWFsMQoxCmxpc3QKMApyMAo_/Y2VyZWFsMQoxCmRpY3QKMQpzNgozMDgzMzVzNwp0bWRiX2lkcjAK
+2018-07-13 20:01:42,971 (7f4be7fff700) :  DEBUG (networking:161) - Fetching 'http://127.0.0.1:32400/services/tmdb?uri=%2Fmovie%2F308335%3Fappend_to_response%3Dreleases%2Ccredits%26language%3Den' from the HTTP cache
+2018-07-13 20:01:42,973 (7f4be7fff700) :  DEBUG (runtime:88) - Sending packed state data (110 bytes)
+2018-07-13 20:01:42,973 (7f4be7fff700) :  DEBUG (runtime:924) - Response: [200] str, 32 bytes
+2018-07-13 20:02:47,733 (7f4be7fff700) :  DEBUG (runtime:717) - Handling request GET /:/plugins/com.plexapp.agents.themoviedb/messaging/function/TWVzc2FnZUtpdDpHZXRJbWRiSWQ_/Y2VyZWFsMQoxCmxpc3QKMApyMAo_/Y2VyZWFsMQoxCmRpY3QKMQpzNQoxMDEzNXM3CnRtZGJfaWRyMAo_
+2018-07-13 20:02:47,733 (7f4be7fff700) :  DEBUG (runtime:49) - Received packed state data (80 bytes)
+2018-07-13 20:02:47,735 (7f4be7fff700) :  DEBUG (runtime:814) - Found route matching /:/plugins/com.plexapp.agents.themoviedb/messaging/function/TWVzc2FnZUtpdDpHZXRJbWRiSWQ_/Y2VyZWFsMQoxCmxpc3QKMApyMAo_/Y2VyZWFsMQoxCmRpY3QKMQpzNQoxMDEzNXM3CnRtZGJfaWRyMAo_
+2018-07-13 20:02:47,739 (7f4be7fff700) :  DEBUG (networking:161) - Fetching 'http://127.0.0.1:32400/services/tmdb?uri=%2Fmovie%2F10135%3Fappend_to_response%3Dreleases%2Ccredits%26language%3Den' from the HTTP cache
+2018-07-13 20:02:47,740 (7f4be7fff700) :  DEBUG (runtime:88) - Sending packed state data (110 bytes)
+2018-07-13 20:02:47,740 (7f4be7fff700) :  DEBUG (runtime:924) - Response: [200] str, 32 bytes

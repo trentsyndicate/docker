@@ -1,0 +1,546 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Movie>
+  <art>
+    <item external="True" url="http://image.tmdb.org/t/p/original/jTjulfacbRjRjliAN5X6CAJOOpG.jpg" sort_order="1" provider="com.plexapp.agents.imdb" media="com.plexapp.agents.imdb_6c15a0d82edb18e5f4853c010e6052938ec582ae"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/cjwMqiUiJIuQkQOhCnKnSsHyNGr.jpg" preview="com.plexapp.agents.imdb_fbb0202a6cc161a4e69cfcad9685ae5a2bad814f" sort_order="2" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/1ZIvXq6XZETllYnWjpyl1llzCSv.jpg" preview="com.plexapp.agents.imdb_a3ca0b540de1aa8fe46a4cd85930260e7f49d824" sort_order="3" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/dTUH9xO3w6vQjcN2ictxgpnAhKm.jpg" preview="com.plexapp.agents.imdb_37dad8f0883dcc8717a4afdd1bbcd4e3161048ac" sort_order="4" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/7r6SrcZTux3bIqg6WHM5A76A2kb.jpg" preview="com.plexapp.agents.imdb_b5a37bb46e73994ab076f85a76519a1e6e24c1d6" sort_order="5" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/2ZvlPPur1ApxQnyvxaUKArlopPQ.jpg" preview="com.plexapp.agents.imdb_580f491757b187c8c4b51b19e37e56508204b491" sort_order="6" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/8mX6FV59T2dSeln4Vc3KLM133aZ.jpg" preview="com.plexapp.agents.imdb_4e50c08794ffbbd462bd4cca55657ad2e6c1dbd8" sort_order="7" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/g51zX3QHyoQwyqbwZ8vRdnrnBPr.jpg" preview="com.plexapp.agents.imdb_f91058116e3a8428b9d1d94bf544dcab9832bbd9" sort_order="8" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/iMODWu7RLw7xdD212edrOTsc2hG.jpg" preview="com.plexapp.agents.imdb_01df4f3a5655025373fa08d3f34429db30264dab" sort_order="9" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/13TAiJ1qNSdJcZv1ziok8wbGBbJ.jpg" preview="com.plexapp.agents.imdb_427ae75d8c6e54c4c777871e4051b272936c6c05" sort_order="10" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/9X8uWyLHgzVaXEp81xrmcgNlJOE.jpg" preview="com.plexapp.agents.imdb_a5d0d6c5a3d7499a5c7575b65955be24945de0af" sort_order="11" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/8s2xcLZwgATt8dIoDKCSfn3Ajc7.jpg" preview="com.plexapp.agents.imdb_4a46692d7a840e21dfef861eeb636d9dd9e99cd7" sort_order="12" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/zc7Q7IS7bv1bi83Hu34jF0hQudy.jpg" preview="com.plexapp.agents.imdb_a56b5dde549903cc201d5a70a476d5e470b76e21" sort_order="13" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/4t7PMXl2t31tBZCtdbIIDQvsL2N.jpg" preview="com.plexapp.agents.imdb_45c6a168bcf6dd4a517739505702100402155405" sort_order="14" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/1WcgEQLuVgyqVCwjlKdQeh6DIig.jpg" preview="com.plexapp.agents.imdb_9ee0e823c2af9b21b07bdb1797c0ddc436519a03" sort_order="15" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/tdS2JKwUAbQ0FbhBpbDmHv92Mgi.jpg" preview="com.plexapp.agents.imdb_9dd8f352374d3012ba50c0d1a158b1dcdd23eb55" sort_order="16" provider="com.plexapp.agents.imdb"/>
+  </art>
+  <banners/>
+  <chapters>
+    <item index="0">
+      <title>Start</title>
+      <end_time_offset>42000</end_time_offset>
+      <start_time_offset>0</start_time_offset>
+    </item>
+    <item index="1">
+      <title>A New Producer</title>
+      <end_time_offset>262000</end_time_offset>
+      <start_time_offset>42000</start_time_offset>
+    </item>
+    <item index="2">
+      <title>Punxsutawney</title>
+      <end_time_offset>425000</end_time_offset>
+      <start_time_offset>262000</start_time_offset>
+    </item>
+    <item index="3">
+      <title>Groundhog Day</title>
+      <end_time_offset>626000</end_time_offset>
+      <start_time_offset>425000</start_time_offset>
+    </item>
+    <item index="4">
+      <title>Gobbler's Knob 1</title>
+      <end_time_offset>826000</end_time_offset>
+      <start_time_offset>626000</start_time_offset>
+    </item>
+    <item index="5">
+      <title>Storm Warning</title>
+      <end_time_offset>1168000</end_time_offset>
+      <start_time_offset>826000</start_time_offset>
+    </item>
+    <item index="6">
+      <title>Groundhog Day 2</title>
+      <end_time_offset>1455000</end_time_offset>
+      <start_time_offset>1168000</start_time_offset>
+    </item>
+    <item index="7">
+      <title>Gobbler's Knog 2</title>
+      <end_time_offset>1568000</end_time_offset>
+      <start_time_offset>1455000</start_time_offset>
+    </item>
+    <item index="8">
+      <title>Groundhog Day 3</title>
+      <end_time_offset>1609000</end_time_offset>
+      <start_time_offset>1568000</start_time_offset>
+    </item>
+    <item index="9">
+      <title>Gobbler's Knob 3</title>
+      <end_time_offset>1788000</end_time_offset>
+      <start_time_offset>1609000</start_time_offset>
+    </item>
+    <item index="10">
+      <title>Phil Seeks Help</title>
+      <end_time_offset>2206000</end_time_offset>
+      <start_time_offset>1788000</start_time_offset>
+    </item>
+    <item index="11">
+      <title>Groundhog Day 4</title>
+      <end_time_offset>2329000</end_time_offset>
+      <start_time_offset>2206000</start_time_offset>
+    </item>
+    <item index="12">
+      <title>No More Worries</title>
+      <end_time_offset>2524000</end_time_offset>
+      <start_time_offset>2329000</start_time_offset>
+    </item>
+    <item index="13">
+      <title>Phil Meets Nancy</title>
+      <end_time_offset>2920000</end_time_offset>
+      <start_time_offset>2524000</start_time_offset>
+    </item>
+    <item index="14">
+      <title>Groundhog Day 5</title>
+      <end_time_offset>3023000</end_time_offset>
+      <start_time_offset>2920000</start_time_offset>
+    </item>
+    <item index="15">
+      <title>Heist</title>
+      <end_time_offset>3082000</end_time_offset>
+      <start_time_offset>3023000</start_time_offset>
+    </item>
+    <item index="16">
+      <title>Groundhog Day 6</title>
+      <end_time_offset>3227000</end_time_offset>
+      <start_time_offset>3082000</start_time_offset>
+    </item>
+    <item index="17">
+      <title>Perfect Guy</title>
+      <end_time_offset>3383000</end_time_offset>
+      <start_time_offset>3227000</start_time_offset>
+    </item>
+    <item index="18">
+      <title>Gobbler Knob ?</title>
+      <end_time_offset>3657000</end_time_offset>
+      <start_time_offset>3383000</start_time_offset>
+    </item>
+    <item index="19">
+      <title>Day By Day</title>
+      <end_time_offset>3739000</end_time_offset>
+      <start_time_offset>3657000</start_time_offset>
+    </item>
+    <item index="20">
+      <title>Phil Kidnpas Phil</title>
+      <end_time_offset>3972000</end_time_offset>
+      <start_time_offset>3739000</start_time_offset>
+    </item>
+    <item index="21">
+      <title>Convincing Rita</title>
+      <end_time_offset>4186000</end_time_offset>
+      <start_time_offset>3972000</start_time_offset>
+    </item>
+    <item index="22">
+      <title>Phil's New Image</title>
+      <end_time_offset>4526000</end_time_offset>
+      <start_time_offset>4186000</start_time_offset>
+    </item>
+    <item index="23">
+      <title>Literature &amp; Music</title>
+      <end_time_offset>4742000</end_time_offset>
+      <start_time_offset>4526000</start_time_offset>
+    </item>
+    <item index="24">
+      <title>Old Man Saga</title>
+      <end_time_offset>4762000</end_time_offset>
+      <start_time_offset>4742000</start_time_offset>
+    </item>
+    <item index="25">
+      <title>A Long Winter</title>
+      <end_time_offset>4866000</end_time_offset>
+      <start_time_offset>4762000</start_time_offset>
+    </item>
+    <item index="26">
+      <title>Guardian Angel</title>
+      <end_time_offset>5296000</end_time_offset>
+      <start_time_offset>4866000</start_time_offset>
+    </item>
+    <item index="27">
+      <title>Groundhog Dinner</title>
+      <end_time_offset>5471000</end_time_offset>
+      <start_time_offset>5296000</start_time_offset>
+    </item>
+    <item index="28">
+      <title>Rock-Maninoff</title>
+      <end_time_offset>5721000</end_time_offset>
+      <start_time_offset>5471000</start_time_offset>
+    </item>
+    <item index="29">
+      <title>Bidding for Phil</title>
+      <end_time_offset>5879000</end_time_offset>
+      <start_time_offset>5721000</start_time_offset>
+    </item>
+    <item index="30">
+      <title>A Warm Face</title>
+      <end_time_offset>-1</end_time_offset>
+      <start_time_offset>5879000</start_time_offset>
+    </item>
+  </chapters>
+  <collections/>
+  <content_rating>PG</content_rating>
+  <countries>
+    <item index="0">USA</item>
+  </countries>
+  <directors>
+    <item index="0">
+      <photo>http://image.tmdb.org/t/p/original/dFERLL9HGBw9xGMwDQRuhUgAneI.jpg</photo>
+      <role/>
+      <name>Harold Ramis</name>
+    </item>
+  </directors>
+  <duration>6060000</duration>
+  <genres>
+    <item index="0">Comedy</item>
+    <item index="1">Fantasy</item>
+    <item index="2">Romance</item>
+  </genres>
+  <originally_available_at>1993-02-11</originally_available_at>
+  <posters>
+    <item external="True" url="http://image.tmdb.org/t/p/original/vXjVd0Vu0MXRZnga7wEnHIIhO5B.jpg" sort_order="1" provider="com.plexapp.agents.imdb" media="com.plexapp.agents.imdb_5cbf3c78ebea97c12eee432f730d180adf0e3f96"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/tYuStVleFgqqEc8vPeYMv7g2kyL.jpg" preview="com.plexapp.agents.imdb_a23dc65367963f0c107b101d4c564a196b61f8fa" sort_order="2" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/nHT9oyhPAxI92tqlYFHdVvxHf5u.jpg" preview="com.plexapp.agents.imdb_1c5323e228f47e26e4de3da2d1b45292c099eff9" sort_order="3" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/qIwyDf5k0eNsrfQjd0HCkeraNGD.jpg" preview="com.plexapp.agents.imdb_e544062cdf58fc2f7fc7b9d9c4482b2781fd3829" sort_order="4" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/waxmHzeCJub5gffrkLRox89BL7u.jpg" preview="com.plexapp.agents.imdb_1a23c65d1ecfec6f60ba50878564235618f15846" sort_order="5" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/jlb1cxHdeiz89z6pk7gasES5wqi.jpg" preview="com.plexapp.agents.imdb_b80a63f24ac2ff358466c2253e5575515bdc716b" sort_order="6" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/xdsPvl4YEhPkP9HYlViz1abyPJ.jpg" preview="com.plexapp.agents.imdb_b5d00b0807f65105996074cc5ad303e891f90f10" sort_order="7" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/rBA9kHLC77KULfRfCOG1u0F1ylN.jpg" preview="com.plexapp.agents.imdb_9788ab75b86a862a8470da37c1ecdec48ea34dc4" sort_order="8" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/7uRNToEd2VFFJD1rADos9c2wVaW.jpg" preview="com.plexapp.agents.imdb_6c00d0a05c05293c6e40b5a084faedfe6bca42ca" sort_order="9" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/93bfjljdO2uVWaaTzIXv5xVvWu3.jpg" preview="com.plexapp.agents.imdb_1b2a1e66a03eac10f1d00c0a8f3f8e39ee33d07e" sort_order="10" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/w0DAbnBLhaYigdSjC2EJXlagL9r.jpg" preview="com.plexapp.agents.imdb_aa6a527f8c1d1fc49743f538818c2498fafeb371" sort_order="11" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/xRiabbDgQYCLgqxszZadopfmGJP.jpg" preview="com.plexapp.agents.imdb_9a0becc4314a8f732550d0e272c98afbfd5fd5cf" sort_order="12" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/73Tmjnpp7ACcaN9oAg2sW9b8KRN.jpg" preview="com.plexapp.agents.imdb_c73c2eb524fdab3af9153ab3e323bf7bfe16c9eb" sort_order="13" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/dqr08bBeF3ofwuyy5jhBsKixkH7.jpg" preview="com.plexapp.agents.imdb_48866af441422105f8f4b7acc391c546f8f23296" sort_order="14" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/lcTr17pdIGdnBjMj8Hzaqqq8fea.jpg" preview="com.plexapp.agents.imdb_1386f312070653ee265b85748b1e588aad66bbae" sort_order="15" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/xBN9HV1oZ96bO8TwwQbcnokmwoC.jpg" preview="com.plexapp.agents.imdb_029971c62b06c3f607d6dde66d2a41aa1bb9ea18" sort_order="16" provider="com.plexapp.agents.imdb"/>
+  </posters>
+  <producers>
+    <item index="0">
+      <photo/>
+      <role/>
+      <name>Trevor Albert</name>
+    </item>
+    <item index="1">
+      <photo>http://image.tmdb.org/t/p/original/dFERLL9HGBw9xGMwDQRuhUgAneI.jpg</photo>
+      <role/>
+      <name>Harold Ramis</name>
+    </item>
+  </producers>
+  <rating>9.6</rating>
+  <rating_image>rottentomatoes://image.rating.ripe</rating_image>
+  <audience_rating>8.8</audience_rating>
+  <audience_rating_image>rottentomatoes://image.rating.upright</audience_rating_image>
+  <reviews>
+    <item index="0">
+      <text>Murray, more often than not, is pretty unbearable; but here, playing a man who is unbearable, Murray begins convincingly, amusingly, and gets even more amusing as he metamorphoses.</text>
+      <source>The New Republic</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>https://newrepublic.com/article/128992/fantasy-fandom</link>
+      <author>Stanley Kauffmann</author>
+    </item>
+    <item index="1">
+      <text>While Murray's deadpan putdowns and dry dismissals of provincial peccadilloes are the comic highlights, Groundhog Day is no supercilious rip of small-town U.S.A.</text>
+      <source>Hollywood Reporter</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>http://www.hollywoodreporter.com/news/groundhog-day-read-thrs-1993-769136</link>
+      <author>Duane Byrge</author>
+    </item>
+    <item index="2">
+      <text>Groundhog Day may not be the funniest collaboration between Bill Murray and director Harold Ramis... Yet this gentle, small-scale effort is easily the most endearing film of both men's careers, a sweet and amusing surprise package.</text>
+      <source>Los Angeles Times</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>http://articles.latimes.com/1993-02-12/entertainment/ca-1227_1_groundhog-day</link>
+      <author>Kenneth Turan</author>
+    </item>
+    <item index="3">
+      <text>Murray hasn't made a comedy this winningly dumb and smart and -- yes -- sweet in a long time. If, indeed, he ever has.</text>
+      <source>Philadelphia Inquirer</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>http://articles.philly.com/1993-02-12/entertainment/25953873_1_phil-connors-groundhog-day-danny-rubin</link>
+      <author>Steven Rea</author>
+    </item>
+    <item index="4">
+      <text>A movie that continually replays a single day could quickly become tedious but, strangely enough, Groundhog Day never does.</text>
+      <source>Orlando Sentinel</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>http://articles.orlandosentinel.com/2000-01-30/entertainment/0001270405_1_groundhog-day-bill-murray-punxsutawney</link>
+      <author>Jay Boyar</author>
+    </item>
+    <item index="5">
+      <text>Murray's wiseacre persona is perfect for what could be saccharine material in other hands.</text>
+      <source>Chicago Tribune</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>http://articles.chicagotribune.com/1993-02-12/entertainment/9303180540_1_groundhog-day-andie-macdowell-star</link>
+      <author>Gene Siskel</author>
+    </item>
+    <item index="6">
+      <text>Bill Murray is the one veteran of the Saturday Night Live/SCTV axis who still knows how to enter into a giddy conspiracy with his audience.</text>
+      <source>Entertainment Weekly</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>http://www.ew.com/ew/article/0,,305524,00.html</link>
+      <author>Owen Gleiberman</author>
+    </item>
+    <item index="7">
+      <text>Considering that none of the characters is fresh or interesting, it's a commendable achievement that the quality of the storytelling alone keeps the movie watchable and likable.</text>
+      <source>Chicago Reader</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>http://onfilm.chicagoreader.com/movies/capsules/4282_GROUNDHOG_DAY</link>
+      <author>Jonathan Rosenbaum</author>
+    </item>
+    <item index="8">
+      <text>[Murray] carries Groundhog Day with his uniquely frittery nonchalance and makes the movie a comic time warp anyone should be happy to get stuck in.</text>
+      <source>TIME Magazine</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>http://www.time.com/time/magazine/article/0,9171,977709,00.html</link>
+      <author>Richard Corliss</author>
+    </item>
+    <item index="9">
+      <text>Ramis' direction is often too cool and restrained. He wisely avoids playing into the tale's underlying sentimentality.</text>
+      <source>Variety</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>http://www.variety.com/review/VE1117791398.html?categoryid=31&amp;cs=1</link>
+      <author>Richard Natale</author>
+    </item>
+    <item index="10">
+      <text>Since arriving as a mild success in 1993, Groundhog Day has gradually achieved the status of beloved. The American Film Institute rates it No.34 on its list of all-time funniest movies, and it's a story that bears frequent repeat viewings.</text>
+      <source>Denver Post</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>http://www.denverpost.com/movies/ci_6613317</link>
+      <author>Michael Booth</author>
+    </item>
+    <item index="11">
+      <text>Ramis directs this surreal suburban fantasy with an admirably light touch, revelling in its absurd repetitions, surprising us with narrative ellipses, and allowing Murray ample space to indulge his special mix of sarcasm and smarm.</text>
+      <source>Time Out</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>http://www.timeout.com/film/reviews/70604/groundhog_day.html</link>
+      <author>Geoff Andrew</author>
+    </item>
+    <item index="12">
+      <text>Mr. Murray is back in top form with a clever, varied role that draws upon the full range of his talents.</text>
+      <source>New York Times</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>http://movies.nytimes.com/movie/review?res=9F0CEED6123EF931A25751C0A965958260</link>
+      <author>Janet Maslin</author>
+    </item>
+    <item index="13">
+      <text>Groundhog will never be designated a national film treasure by the Library of Congress. But, in terms of vehicle selection, this is one of the better ones Murray has hitched himself to.</text>
+      <source>Washington Post</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>http://www.washingtonpost.com/wp-srv/style/longterm/movies/videos/groundhogdaypghowe_a0af6c.htm</link>
+      <author>Desson Thomson</author>
+    </item>
+    <item index="14">
+      <text>The film is lovable and sweet.</text>
+      <source>Chicago Sun-Times</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>http://www.rogerebert.com/reviews/groundhog-day-1993</link>
+      <author>Roger Ebert</author>
+    </item>
+    <item index="15">
+      <text>This movie has all the qualities necessary to be a crowd-pleaser: likable characters, charismatic performers, a strong, capably-executed premise, and lots of laughs.</text>
+      <source>ReelViews</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>http://www.reelviews.net/php_review_template.php?identifier=998</link>
+      <author>James Berardinelli</author>
+    </item>
+    <item index="16">
+      <text>... brilliantly imaginative ...</text>
+      <source>Washington Post</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>http://www.washingtonpost.com/wp-srv/style/longterm/movies/videos/groundhogdaypghinson_a0a7e9.htm</link>
+      <author>Hal Hinson</author>
+    </item>
+  </reviews>
+  <roles>
+    <item index="0">
+      <photo>http://image.tmdb.org/t/p/original/7BOoOAIA1CnSzFSVSJP7saniQaB.jpg</photo>
+      <role>Phil Connors</role>
+      <name>Bill Murray</name>
+    </item>
+    <item index="1">
+      <photo>http://image.tmdb.org/t/p/original/znSR45ZcNNlb1sNP1gYmVACYI2a.jpg</photo>
+      <role>Rita</role>
+      <name>Andie MacDowell</name>
+    </item>
+    <item index="2">
+      <photo>http://image.tmdb.org/t/p/original/rDbqt5F2x7MDeRdCV6prRdmShnI.jpg</photo>
+      <role>Larry</role>
+      <name>Chris Elliott</name>
+    </item>
+    <item index="3">
+      <photo>http://image.tmdb.org/t/p/original/fUodC7wMUZLAXnm4ONCxF5haCtC.jpg</photo>
+      <role>Ned Ryerson</role>
+      <name>Stephen Tobolowsky</name>
+    </item>
+    <item index="4">
+      <photo>http://image.tmdb.org/t/p/original/fRLFXdb8UQvJs4euZ2sE6CpjbXn.jpg</photo>
+      <role>Buster Green</role>
+      <name>Brian Doyle-Murray</name>
+    </item>
+    <item index="5">
+      <photo>http://image.tmdb.org/t/p/original/eJZpJyEuMT4mQ8d8tbU0addZ1kD.jpg</photo>
+      <role>Mrs. Lancaster</role>
+      <name>Angela Paton</name>
+    </item>
+    <item index="6">
+      <photo>http://image.tmdb.org/t/p/original/reHrybVr1GjF4pGXhtN9EUxS0zD.jpg</photo>
+      <role>Gus</role>
+      <name>Rick Ducommun</name>
+    </item>
+    <item index="7">
+      <photo>http://image.tmdb.org/t/p/original/584g2eLl6ZmZ71ikvGw5tyqEv1p.jpg</photo>
+      <role>Ralph</role>
+      <name>Rick Overton</name>
+    </item>
+    <item index="8">
+      <photo>http://image.tmdb.org/t/p/original/40Jb4K4fkgwZJYy3mu55WBjAprZ.jpg</photo>
+      <role>Doris, the Waitress</role>
+      <name>Robin Duke</name>
+    </item>
+    <item index="9">
+      <photo>http://image.tmdb.org/t/p/original/xZ09uKkIMIRWDNqmyhb1AeEOo71.jpg</photo>
+      <role>Kenny</role>
+      <name>Willie Garson</name>
+    </item>
+    <item index="10">
+      <photo>http://image.tmdb.org/t/p/original/lN9e975UkER6sRu9tKpeL2XyU5D.jpg</photo>
+      <role>Man in Hallway</role>
+      <name>Ken Hudson Campbell</name>
+    </item>
+    <item index="11">
+      <photo>http://image.tmdb.org/t/p/original/5yGCJ6znHM96zTfW2LNP6uPPDCZ.jpg</photo>
+      <role>Fred</role>
+      <name>Michael Shannon</name>
+    </item>
+    <item index="12">
+      <photo>http://image.tmdb.org/t/p/original/dFERLL9HGBw9xGMwDQRuhUgAneI.jpg</photo>
+      <role>Neurologist</role>
+      <name>Harold Ramis</name>
+    </item>
+    <item index="13">
+      <photo>http://image.tmdb.org/t/p/original/8BojqqNS3vt0zkZj4ctQztjhdcv.jpg</photo>
+      <role>Nancy</role>
+      <name>Marita Geraghty</name>
+    </item>
+    <item index="14">
+      <photo/>
+      <role>Old Man</role>
+      <name>Les Podewell</name>
+    </item>
+    <item index="15">
+      <photo>http://image.tmdb.org/t/p/original/bNcfBPnNYeB7HIW6bnwj3VZ3lq1.jpg</photo>
+      <role>State Trooper</role>
+      <name>Tom Milanovich</name>
+    </item>
+    <item index="16">
+      <photo/>
+      <role>Piano Teacher</role>
+      <name>Peggy Roeder</name>
+    </item>
+    <item index="17">
+      <photo>http://image.tmdb.org/t/p/original/gdmc0k64Tz1s7mJRVIWKjJJSn1M.jpg</photo>
+      <role>Psychiatrist</role>
+      <name>David Pasquesi</name>
+    </item>
+    <item index="18">
+      <photo/>
+      <role>Cop</role>
+      <name>Lee R. Sellars</name>
+    </item>
+    <item index="19">
+      <photo>http://image.tmdb.org/t/p/original/1d9C9Nu7YNtGllVewitNgjzq4RW.jpg</photo>
+      <role>Bank Guard Herman</role>
+      <name>C.O. Erickson</name>
+    </item>
+    <item index="20">
+      <photo/>
+      <role>Phil's Movie Date</role>
+      <name>Sandy Maschmeyer</name>
+    </item>
+    <item index="21">
+      <photo>http://image.tmdb.org/t/p/original/gCHMyVwt2vlQt3AYPfoknVmklXI.jpg</photo>
+      <role>Debbie</role>
+      <name>Hynden Walch</name>
+    </item>
+    <item index="22">
+      <photo/>
+      <role>Flat Tire Lady</role>
+      <name>Barbara Ann Grimes</name>
+    </item>
+    <item index="23">
+      <photo/>
+      <role>Flat Tire Lady</role>
+      <name>Lucina Paquet</name>
+    </item>
+    <item index="24">
+      <photo/>
+      <role>Buster's Wife</role>
+      <name>Brenda Pickleman</name>
+    </item>
+    <item index="25">
+      <photo>http://image.tmdb.org/t/p/original/b3abFUbsJwmAduTRPPfEN5GALVy.jpg</photo>
+      <role>Buster's Son</role>
+      <name>Eric Saiet</name>
+    </item>
+    <item index="26">
+      <photo/>
+      <role>D.J. (voice)</role>
+      <name>Rob Riley</name>
+    </item>
+    <item index="27">
+      <photo/>
+      <role>Reporter (uncredited)</role>
+      <name>Tony DeGuide</name>
+    </item>
+    <item index="28">
+      <photo/>
+      <role>Bit (uncredited)</role>
+      <name>Robert Minkoff</name>
+    </item>
+    <item index="29">
+      <photo>http://image.tmdb.org/t/p/original/g0rBvqX0nJEuMcQ9QtVXP3P8ReG.jpg</photo>
+      <role>State Trooper (voice) (uncredited)</role>
+      <name>Reni Santoni</name>
+    </item>
+  </roles>
+  <similar>
+    <item index="0">Office Space</item>
+    <item index="1">Ghostbusters</item>
+    <item index="2">RoboCop</item>
+    <item index="3">Total Recall</item>
+    <item index="4">Monty Python and the Holy Grail</item>
+    <item index="5">Airplane!</item>
+    <item index="6">The Fugitive</item>
+    <item index="7">Wayne's World</item>
+    <item index="8">Big</item>
+    <item index="9">Starship Troopers</item>
+    <item index="10">True Lies</item>
+    <item index="11">Life of Brian</item>
+    <item index="12">Galaxy Quest</item>
+    <item index="13">Speed</item>
+    <item index="14">Dumb and Dumber</item>
+    <item index="15">Contact</item>
+    <item index="16">Planes, Trains and Automobiles</item>
+    <item index="17">Twelve Monkeys</item>
+    <item index="18">Ferris Bueller's Day Off</item>
+    <item index="19">Being John Malkovich</item>
+  </similar>
+  <studio>Columbia Pictures</studio>
+  <summary>A narcissistic TV weatherman, along with his attractive-but-distant producer and mawkish cameraman, is sent to report on Groundhog Day in the small town of Punxsutawney, where he finds himself repeating the same day over and over.</summary>
+  <tagline>He's having the worst day of his life... over, and over...</tagline>
+  <tags/>
+  <themes/>
+  <title>Groundhog Day</title>
+  <writers>
+    <item index="0">
+      <photo/>
+      <role/>
+      <name>Danny Rubin</name>
+    </item>
+    <item index="1">
+      <photo>http://image.tmdb.org/t/p/original/dFERLL9HGBw9xGMwDQRuhUgAneI.jpg</photo>
+      <role/>
+      <name>Harold Ramis</name>
+    </item>
+  </writers>
+  <year>1993</year>
+</Movie>

@@ -1,0 +1,532 @@
+Jul 14, 2018 03:08:54.113 [0x7ff5a5fff700] INFO - Plex Media Scanner v1.13.2.5154-fd05be322 - ubuntu docker x86_64 - build: linux-ubuntu-x86_64 - GMT -04:00
+Jul 14, 2018 03:08:54.114 [0x7ff5a5fff700] INFO - Linux version: 4.15.0-24-generic (#26-Ubuntu SMP Wed Jun 13 08:44:47 UTC 2018), language: C
+Jul 14, 2018 03:08:54.114 [0x7ff5a5fff700] INFO - Processor Intel(R) Core(TM) i7-4770R CPU @ 3.20GHz
+Jul 14, 2018 03:08:54.114 [0x7ff5a5fff700] INFO - /usr/lib/plexmediaserver/Plex Media Scanner --analyze --item 5128,5090,4792,4823,4789,4996,4923,4812,4851,4818 --log-file-suffix  Analysis
+Jul 14, 2018 03:08:54.116 [0x7ff5b189d800] DEBUG - Opening 20 database sessions to library (com.plexapp.plugins.library), SQLite 3.13.0, threadsafe=1
+Jul 14, 2018 03:08:54.288 [0x7ff5b189d800] DEBUG - Analyzing media parts for item 5128 (Heist): 9582
+Jul 14, 2018 03:08:54.288 [0x7ff5b189d800] DEBUG - [ID 9598] Media part analysis: /movies/Heist.2015.720p.BluRay.x264-VeDeTT-Obfuscated/TRDIv6QtxjxgxB3TgpXp1bS9fdLDHnvwdvKneNhcjq.mkv
+Jul 14, 2018 03:08:54.289 [0x7ff5b189d800] DEBUG - [MI] Opening input file: "/movies/Heist.2015.720p.BluRay.x264-VeDeTT-Obfuscated/TRDIv6QtxjxgxB3TgpXp1bS9fdLDHnvwdvKneNhcjq.mkv"
+Jul 14, 2018 03:08:54.289 [0x7ff5b189d800] DEBUG - [FFMPEG] - Opening '/movies/Heist.2015.720p.BluRay.x264-VeDeTT-Obfuscated/TRDIv6QtxjxgxB3TgpXp1bS9fdLDHnvwdvKneNhcjq.mkv' for reading
+Jul 14, 2018 03:08:54.289 [0x7ff5b189d800] DEBUG - [FFMPEG] - Setting default whitelist 'file,crypto'
+Jul 14, 2018 03:08:54.345 [0x7ff5b189d800] DEBUG - [FFMPEG] - Format matroska,webm probed with size=2048 and score=100
+Jul 14, 2018 03:08:54.346 [0x7ff5b189d800] DEBUG - [FFMPEG] - st:0 removing common factor 1000000 from timebase
+Jul 14, 2018 03:08:54.346 [0x7ff5b189d800] DEBUG - [FFMPEG] - st:1 removing common factor 1000000 from timebase
+Jul 14, 2018 03:08:54.346 [0x7ff5b189d800] DEBUG - [FFMPEG] - Before avformat_find_stream_info() pos: 6295 bytes read:33629 seeks:2 nb_streams:2
+Jul 14, 2018 03:08:54.347 [0x7ff5b189d800] DEBUG - [FFMPEG] - nal_unit_type: 7, nal_ref_idc: 3
+Jul 14, 2018 03:08:54.347 [0x7ff5b189d800] DEBUG - [FFMPEG] - nal_unit_type: 8, nal_ref_idc: 3
+Jul 14, 2018 03:08:54.347 [0x7ff5b189d800] DEBUG - [FFMPEG] - nal_unit_type: 7, nal_ref_idc: 3
+Jul 14, 2018 03:08:54.347 [0x7ff5b189d800] DEBUG - [FFMPEG] - nal_unit_type: 8, nal_ref_idc: 3
+Jul 14, 2018 03:08:54.348 [0x7ff5b189d800] DEBUG - [FFMPEG] - nal_unit_type: 6, nal_ref_idc: 0
+Jul 14, 2018 03:08:54.348 [0x7ff5b189d800] DEBUG - [FFMPEG] - nal_unit_type: 5, nal_ref_idc: 3
+Jul 14, 2018 03:08:54.348 [0x7ff5b189d800] DEBUG - [FFMPEG] - Format yuv420p chosen by get_format().
+Jul 14, 2018 03:08:54.348 [0x7ff5b189d800] DEBUG - [FFMPEG] - no picture 
+Jul 14, 2018 03:08:54.349 [0x7ff5b189d800] DEBUG - [FFMPEG] - nal_unit_type: 1, nal_ref_idc: 2
+Jul 14, 2018 03:08:54.350 [0x7ff5b189d800] DEBUG - [FFMPEG] - no picture 
+Jul 14, 2018 03:08:54.350 [0x7ff5b189d800] DEBUG - [FFMPEG] - nal_unit_type: 1, nal_ref_idc: 2
+Jul 14, 2018 03:08:54.351 [0x7ff5b189d800] DEBUG - [FFMPEG] - nal_unit_type: 1, nal_ref_idc: 0
+Jul 14, 2018 03:08:54.352 [0x7ff5b189d800] DEBUG - [FFMPEG] - nal_unit_type: 1, nal_ref_idc: 0
+Jul 14, 2018 03:08:54.353 [0x7ff5b189d800] DEBUG - [FFMPEG] - nal_unit_type: 1, nal_ref_idc: 2
+Jul 14, 2018 03:08:54.354 [0x7ff5b189d800] DEBUG - [FFMPEG] - nal_unit_type: 1, nal_ref_idc: 2
+Jul 14, 2018 03:08:54.354 [0x7ff5b189d800] DEBUG - [FFMPEG] - nal_unit_type: 1, nal_ref_idc: 0
+Jul 14, 2018 03:08:54.355 [0x7ff5b189d800] DEBUG - [FFMPEG] - nal_unit_type: 1, nal_ref_idc: 0
+Jul 14, 2018 03:08:54.356 [0x7ff5b189d800] DEBUG - [FFMPEG] - All info found
+Jul 14, 2018 03:08:54.356 [0x7ff5b189d800] DEBUG - [FFMPEG] - After avformat_find_stream_info() pos: 104199 bytes read:131933 seeks:2 frames:58
+Jul 14, 2018 03:08:54.357 [0x7ff5b189d800] DEBUG - [MI]  * 4b7d177ff76434f5ff85c2983a88632759c75ece [mkv h264/dca] Duration: 5538998ms, 1280x536 (2.388060) 23.976fps, bitrate=6780kbps, audio channels=6, optimizedForStreaming=0 (/movies/Heist.2015.720p.BluRay.x264-VeDeTT-Obfuscated/TRDIv6QtxjxgxB3TgpXp1bS9fdLDHnvwdvKneNhcjq.mkv)
+Jul 14, 2018 03:08:54.357 [0x7ff5b189d800] DEBUG - [MI] Importing 12 media chapters.
+Jul 14, 2018 03:08:54.357 [0x7ff5b189d800] DEBUG - [MI] Chapters had generic titles, clearing.
+Jul 14, 2018 03:08:54.358 [0x7ff5b189d800] DEBUG - [MI] Closing input file: /movies/Heist.2015.720p.BluRay.x264-VeDeTT-Obfuscated/TRDIv6QtxjxgxB3TgpXp1bS9fdLDHnvwdvKneNhcjq.mkv
+Jul 14, 2018 03:08:54.359 [0x7ff5b189d800] DEBUG - [FFMPEG] - Statistics: 131933 bytes read, 2 seeks
+Jul 14, 2018 03:08:54.360 [0x7ff5b189d800] DEBUG - Streams didn't change in analysis, not saving.
+Jul 14, 2018 03:08:54.360 [0x7ff5b189d800] DEBUG - Updating media item 9582, size=4694963570, metadata_item_id=5128
+Jul 14, 2018 03:08:54.360 [0x7ff5b189d800] DEBUG - Updating part with ID=9598 [/movies/Heist.2015.720p.BluRay.x264-VeDeTT-Obfuscated/TRDIv6QtxjxgxB3TgpXp1bS9fdLDHnvwdvKneNhcjq.mkv]
+Jul 14, 2018 03:08:54.707 [0x7ff5a2bff700] DEBUG - HTTP requesting GET http://127.0.0.1:32400/:/metadata/notify/changeItemState?librarySectionID=1&metadataItemID=5128&metadataType=1&state=-1&mediaState=analyzing
+Jul 14, 2018 03:08:54.709 [0x7ff5a2bff700] DEBUG - HTTP 200 response from GET http://127.0.0.1:32400/:/metadata/notify/changeItemState?librarySectionID=1&metadataItemID=5128&metadataType=1&state=-1&mediaState=analyzing
+Jul 14, 2018 03:08:54.709 [0x7ff5a2bff700] DEBUG - HTTP requesting GET http://127.0.0.1:32400/:/metadata/notify/changeItemState?librarySectionID=1&metadataItemID=5128&metadataType=1&state=-1&mediaState=thumbnailing
+Jul 14, 2018 03:08:54.710 [0x7ff5a2bff700] DEBUG - HTTP 200 response from GET http://127.0.0.1:32400/:/metadata/notify/changeItemState?librarySectionID=1&metadataItemID=5128&metadataType=1&state=-1&mediaState=thumbnailing
+Jul 14, 2018 03:08:54.710 [0x7ff5a2bff700] DEBUG - HTTP requesting GET http://127.0.0.1:32400/:/metadata/notify/changeItemState?librarySectionID=1&metadataItemID=5128&metadataType=1&state=-1&mediaState=idle
+Jul 14, 2018 03:08:54.711 [0x7ff5a2bff700] DEBUG - HTTP 200 response from GET http://127.0.0.1:32400/:/metadata/notify/changeItemState?librarySectionID=1&metadataItemID=5128&metadataType=1&state=-1&mediaState=idle
+Jul 14, 2018 03:08:54.757 [0x7ff5b189d800] DEBUG - It took 0.000000 ms to retrieve 193 items.
+Jul 14, 2018 03:08:54.806 [0x7ff5b189d800] DEBUG - Analyzing media parts for item 5090 (The Dark Knight Rises): 9542
+Jul 14, 2018 03:08:54.806 [0x7ff5b189d800] DEBUG - [ID 9558] Media part analysis: /movies/The.Dark.Knight.Rises.2012.720p.BluRay.DTS.x264-CROM-Obfuscated/UxTEY9c7ifIZLwLu2p8chtr5gKkBccupk05atpezxRS.mkv
+Jul 14, 2018 03:08:54.807 [0x7ff5b189d800] DEBUG - [MI] Opening input file: "/movies/The.Dark.Knight.Rises.2012.720p.BluRay.DTS.x264-CROM-Obfuscated/UxTEY9c7ifIZLwLu2p8chtr5gKkBccupk05atpezxRS.mkv"
+Jul 14, 2018 03:08:54.807 [0x7ff5b189d800] DEBUG - [FFMPEG] - Opening '/movies/The.Dark.Knight.Rises.2012.720p.BluRay.DTS.x264-CROM-Obfuscated/UxTEY9c7ifIZLwLu2p8chtr5gKkBccupk05atpezxRS.mkv' for reading
+Jul 14, 2018 03:08:54.807 [0x7ff5b189d800] DEBUG - [FFMPEG] - Setting default whitelist 'file,crypto'
+Jul 14, 2018 03:08:54.862 [0x7ff5b189d800] DEBUG - [FFMPEG] - Format matroska,webm probed with size=2048 and score=100
+Jul 14, 2018 03:08:54.862 [0x7ff5b189d800] DEBUG - [FFMPEG] - st:0 removing common factor 1000000 from timebase
+Jul 14, 2018 03:08:54.862 [0x7ff5b189d800] DEBUG - [FFMPEG] - st:1 removing common factor 1000000 from timebase
+Jul 14, 2018 03:08:54.862 [0x7ff5b189d800] DEBUG - [FFMPEG] - st:2 removing common factor 1000000 from timebase
+Jul 14, 2018 03:08:54.862 [0x7ff5b189d800] DEBUG - [FFMPEG] - Before avformat_find_stream_info() pos: 6932 bytes read:32768 seeks:0 nb_streams:3
+Jul 14, 2018 03:08:54.862 [0x7ff5b189d800] DEBUG - [FFMPEG] - nal_unit_type: 7, nal_ref_idc: 3
+Jul 14, 2018 03:08:54.862 [0x7ff5b189d800] DEBUG - [FFMPEG] - nal_unit_type: 8, nal_ref_idc: 3
+Jul 14, 2018 03:08:54.863 [0x7ff5b189d800] DEBUG - [FFMPEG] - palette:
+Jul 14, 2018 03:08:54.863 [0x7ff5b189d800] DEBUG - [FFMPEG] -  0x000000
+Jul 14, 2018 03:08:54.863 [0x7ff5b189d800] DEBUG - [FFMPEG] -  0xf0f0f0
+Jul 14, 2018 03:08:54.863 [0x7ff5b189d800] DEBUG - [FFMPEG] -  0xcccccc
+Jul 14, 2018 03:08:54.863 [0x7ff5b189d800] DEBUG - [FFMPEG] -  0x999999
+Jul 14, 2018 03:08:54.863 [0x7ff5b189d800] DEBUG - [FFMPEG] -  0x3333fa
+Jul 14, 2018 03:08:54.863 [0x7ff5b189d800] DEBUG - [FFMPEG] -  0x1111bb
+Jul 14, 2018 03:08:54.863 [0x7ff5b189d800] DEBUG - [FFMPEG] -  0xfa3333
+Jul 14, 2018 03:08:54.863 [0x7ff5b189d800] DEBUG - [FFMPEG] -  0xbb1111
+Jul 14, 2018 03:08:54.863 [0x7ff5b189d800] DEBUG - [FFMPEG] -  0x33fa33
+Jul 14, 2018 03:08:54.863 [0x7ff5b189d800] DEBUG - [FFMPEG] -  0x11bb11
+Jul 14, 2018 03:08:54.863 [0x7ff5b189d800] DEBUG - [FFMPEG] -  0xfafa33
+Jul 14, 2018 03:08:54.863 [0x7ff5b189d800] DEBUG - [FFMPEG] -  0xbbbb11
+Jul 14, 2018 03:08:54.863 [0x7ff5b189d800] DEBUG - [FFMPEG] -  0xfa33fa
+Jul 14, 2018 03:08:54.863 [0x7ff5b189d800] DEBUG - [FFMPEG] -  0xbb11bb
+Jul 14, 2018 03:08:54.863 [0x7ff5b189d800] DEBUG - [FFMPEG] -  0x33fafa
+Jul 14, 2018 03:08:54.863 [0x7ff5b189d800] DEBUG - [FFMPEG] -  0x11bbbb
+Jul 14, 2018 03:08:54.863 [0x7ff5b189d800] DEBUG - [FFMPEG] - 
+Jul 14, 2018 03:08:54.863 [0x7ff5b189d800] DEBUG - [FFMPEG] - nal_unit_type: 7, nal_ref_idc: 3
+Jul 14, 2018 03:08:54.863 [0x7ff5b189d800] DEBUG - [FFMPEG] - nal_unit_type: 8, nal_ref_idc: 3
+Jul 14, 2018 03:08:54.863 [0x7ff5b189d800] DEBUG - [FFMPEG] - nal_unit_type: 7, nal_ref_idc: 3
+Jul 14, 2018 03:08:54.863 [0x7ff5b189d800] DEBUG - [FFMPEG] - nal_unit_type: 8, nal_ref_idc: 3
+Jul 14, 2018 03:08:54.863 [0x7ff5b189d800] DEBUG - [FFMPEG] - nal_unit_type: 6, nal_ref_idc: 0
+Jul 14, 2018 03:08:54.863 [0x7ff5b189d800] DEBUG - [FFMPEG] - nal_unit_type: 5, nal_ref_idc: 3
+Jul 14, 2018 03:08:54.863 [0x7ff5b189d800] DEBUG - [FFMPEG] - Format yuv420p chosen by get_format().
+Jul 14, 2018 03:08:54.864 [0x7ff5b189d800] DEBUG - [FFMPEG] - no picture 
+Jul 14, 2018 03:08:54.865 [0x7ff5b189d800] DEBUG - [FFMPEG] - nal_unit_type: 1, nal_ref_idc: 2
+Jul 14, 2018 03:08:54.866 [0x7ff5b189d800] DEBUG - [FFMPEG] - no picture 
+Jul 14, 2018 03:08:54.867 [0x7ff5b189d800] DEBUG - [FFMPEG] - nal_unit_type: 1, nal_ref_idc: 2
+Jul 14, 2018 03:08:54.868 [0x7ff5b189d800] DEBUG - [FFMPEG] - nal_unit_type: 1, nal_ref_idc: 0
+Jul 14, 2018 03:08:54.870 [0x7ff5b189d800] DEBUG - [FFMPEG] - nal_unit_type: 1, nal_ref_idc: 0
+Jul 14, 2018 03:08:54.872 [0x7ff5b189d800] DEBUG - [FFMPEG] - nal_unit_type: 1, nal_ref_idc: 2
+Jul 14, 2018 03:08:54.873 [0x7ff5b189d800] DEBUG - [FFMPEG] - nal_unit_type: 1, nal_ref_idc: 2
+Jul 14, 2018 03:08:54.874 [0x7ff5b189d800] DEBUG - [FFMPEG] - nal_unit_type: 1, nal_ref_idc: 0
+Jul 14, 2018 03:08:54.874 [0x7ff5b189d800] DEBUG - [FFMPEG] - nal_unit_type: 1, nal_ref_idc: 0
+Jul 14, 2018 03:08:54.876 [0x7ff5b189d800] DEBUG - [FFMPEG] - All info found
+Jul 14, 2018 03:08:54.876 [0x7ff5b189d800] DEBUG - [FFMPEG] - After avformat_find_stream_info() pos: 105031 bytes read:131072 seeks:0 frames:58
+Jul 14, 2018 03:08:54.876 [0x7ff5b189d800] DEBUG - [MI]  * 2f836d716e715a914737a711df5487eaabf3b934 [mkv h264/dca] Duration: 9873867ms, 1280x720 (1.777778) 23.976fps, bitrate=6966kbps, audio channels=6, optimizedForStreaming=0 (/movies/The.Dark.Knight.Rises.2012.720p.BluRay.DTS.x264-CROM-Obfuscated/UxTEY9c7ifIZLwLu2p8chtr5gKkBccupk05atpezxRS.mkv)
+Jul 14, 2018 03:08:54.877 [0x7ff5b189d800] DEBUG - [MI] Importing 17 media chapters.
+Jul 14, 2018 03:08:54.877 [0x7ff5b189d800] DEBUG - [MI] Chapters had generic titles, clearing.
+Jul 14, 2018 03:08:54.878 [0x7ff5b189d800] DEBUG - Downloading document http://127.0.0.1:32400/library/changestamp
+Jul 14, 2018 03:08:54.878 [0x7ff5b189d800] DEBUG - HTTP requesting GET http://127.0.0.1:32400/library/changestamp
+Jul 14, 2018 03:08:54.880 [0x7ff5b189d800] DEBUG - HTTP 200 response from GET http://127.0.0.1:32400/library/changestamp
+Jul 14, 2018 03:08:54.880 [0x7ff5b189d800] DEBUG - Updating metadata item (save) (The Dark Knight Rises) with ID 5090
+Jul 14, 2018 03:08:55.064 [0x7ff5b189d800] DEBUG - [MI] Closing input file: /movies/The.Dark.Knight.Rises.2012.720p.BluRay.DTS.x264-CROM-Obfuscated/UxTEY9c7ifIZLwLu2p8chtr5gKkBccupk05atpezxRS.mkv
+Jul 14, 2018 03:08:55.065 [0x7ff5b189d800] DEBUG - [FFMPEG] - Statistics: 131072 bytes read, 0 seeks
+Jul 14, 2018 03:08:55.066 [0x7ff5b189d800] DEBUG - Committing media stream changes for part 9558
+Jul 14, 2018 03:08:55.089 [0x7ff5b189d800] DEBUG - Updating media item 9542, size=8598602808, metadata_item_id=5090
+Jul 14, 2018 03:08:55.089 [0x7ff5b189d800] DEBUG - Updating part with ID=9558 [/movies/The.Dark.Knight.Rises.2012.720p.BluRay.DTS.x264-CROM-Obfuscated/UxTEY9c7ifIZLwLu2p8chtr5gKkBccupk05atpezxRS.mkv]
+Jul 14, 2018 03:08:55.093 [0x7ff5a2bff700] DEBUG - HTTP requesting GET http://127.0.0.1:32400/:/metadata/notify/changeItemState?librarySectionID=1&metadataItemID=5090&metadataType=1&state=-1&mediaState=analyzing
+Jul 14, 2018 03:08:55.094 [0x7ff5a2bff700] DEBUG - HTTP 200 response from GET http://127.0.0.1:32400/:/metadata/notify/changeItemState?librarySectionID=1&metadataItemID=5090&metadataType=1&state=-1&mediaState=analyzing
+Jul 14, 2018 03:08:55.094 [0x7ff5a2bff700] DEBUG - HTTP requesting GET http://127.0.0.1:32400/:/metadata/notify/changeItemState?librarySectionID=1&metadataItemID=5090&metadataType=1&state=-1&mediaState=thumbnailing
+Jul 14, 2018 03:08:55.095 [0x7ff5a2bff700] DEBUG - HTTP 200 response from GET http://127.0.0.1:32400/:/metadata/notify/changeItemState?librarySectionID=1&metadataItemID=5090&metadataType=1&state=-1&mediaState=thumbnailing
+Jul 14, 2018 03:08:55.095 [0x7ff5a2bff700] DEBUG - HTTP requesting GET http://127.0.0.1:32400/:/metadata/notify/changeItemState?librarySectionID=1&metadataItemID=5090&metadataType=1&state=-1&mediaState=idle
+Jul 14, 2018 03:08:55.097 [0x7ff5a2bff700] DEBUG - HTTP 200 response from GET http://127.0.0.1:32400/:/metadata/notify/changeItemState?librarySectionID=1&metadataItemID=5090&metadataType=1&state=-1&mediaState=idle
+Jul 14, 2018 03:08:55.098 [0x7ff5b189d800] DEBUG - It took 0.000000 ms to retrieve 123 items.
+Jul 14, 2018 03:08:55.107 [0x7ff5b189d800] DEBUG - Analyzing media parts for item 4792 (King Arthur: Legend of the Sword): 9058
+Jul 14, 2018 03:08:55.107 [0x7ff5b189d800] DEBUG - [ID 9066] Media part analysis: /movies/king.arthur.legend.of.the.sword.2017.720p.bluray.x264-Obfuscated/31e142e44ae54d229d561d515d00af8a.mkv
+Jul 14, 2018 03:08:55.148 [0x7ff5b189d800] DEBUG - [MI] Opening input file: "/movies/king.arthur.legend.of.the.sword.2017.720p.bluray.x264-Obfuscated/31e142e44ae54d229d561d515d00af8a.mkv"
+Jul 14, 2018 03:08:55.148 [0x7ff5b189d800] DEBUG - [FFMPEG] - Opening '/movies/king.arthur.legend.of.the.sword.2017.720p.bluray.x264-Obfuscated/31e142e44ae54d229d561d515d00af8a.mkv' for reading
+Jul 14, 2018 03:08:55.148 [0x7ff5b189d800] DEBUG - [FFMPEG] - Setting default whitelist 'file,crypto'
+Jul 14, 2018 03:08:55.254 [0x7ff5b189d800] DEBUG - [FFMPEG] - Format matroska,webm probed with size=2048 and score=100
+Jul 14, 2018 03:08:55.254 [0x7ff5b189d800] DEBUG - [FFMPEG] - st:0 removing common factor 1000000 from timebase
+Jul 14, 2018 03:08:55.254 [0x7ff5b189d800] DEBUG - [FFMPEG] - st:1 removing common factor 1000000 from timebase
+Jul 14, 2018 03:08:55.254 [0x7ff5b189d800] DEBUG - [FFMPEG] - st:2 removing common factor 1000000 from timebase
+Jul 14, 2018 03:08:55.254 [0x7ff5b189d800] DEBUG - [FFMPEG] - st:3 removing common factor 1000000 from timebase
+Jul 14, 2018 03:08:55.254 [0x7ff5b189d800] DEBUG - [FFMPEG] - Before avformat_find_stream_info() pos: 6460 bytes read:32768 seeks:0 nb_streams:4
+Jul 14, 2018 03:08:55.254 [0x7ff5b189d800] DEBUG - [FFMPEG] - nal_unit_type: 7, nal_ref_idc: 3
+Jul 14, 2018 03:08:55.254 [0x7ff5b189d800] DEBUG - [FFMPEG] - nal_unit_type: 8, nal_ref_idc: 3
+Jul 14, 2018 03:08:55.255 [0x7ff5b189d800] DEBUG - [FFMPEG] - nal_unit_type: 7, nal_ref_idc: 3
+Jul 14, 2018 03:08:55.255 [0x7ff5b189d800] DEBUG - [FFMPEG] - nal_unit_type: 8, nal_ref_idc: 3
+Jul 14, 2018 03:08:55.255 [0x7ff5b189d800] DEBUG - [FFMPEG] - nal_unit_type: 6, nal_ref_idc: 0
+Jul 14, 2018 03:08:55.255 [0x7ff5b189d800] DEBUG - [FFMPEG] - nal_unit_type: 5, nal_ref_idc: 3
+Jul 14, 2018 03:08:55.255 [0x7ff5b189d800] DEBUG - [FFMPEG] - Format yuv420p chosen by get_format().
+Jul 14, 2018 03:08:55.255 [0x7ff5b189d800] DEBUG - [FFMPEG] - no picture 
+Jul 14, 2018 03:08:55.256 [0x7ff5b189d800] DEBUG - [FFMPEG] - nal_unit_type: 1, nal_ref_idc: 2
+Jul 14, 2018 03:08:55.257 [0x7ff5b189d800] DEBUG - [FFMPEG] - no picture 
+Jul 14, 2018 03:08:55.257 [0x7ff5b189d800] DEBUG - [FFMPEG] - nal_unit_type: 1, nal_ref_idc: 2
+Jul 14, 2018 03:08:55.258 [0x7ff5b189d800] DEBUG - [FFMPEG] - nal_unit_type: 1, nal_ref_idc: 0
+Jul 14, 2018 03:08:55.259 [0x7ff5b189d800] DEBUG - [FFMPEG] - nal_unit_type: 1, nal_ref_idc: 0
+Jul 14, 2018 03:08:55.261 [0x7ff5b189d800] DEBUG - [FFMPEG] - nal_unit_type: 1, nal_ref_idc: 2
+Jul 14, 2018 03:08:55.261 [0x7ff5b189d800] DEBUG - [FFMPEG] - nal_unit_type: 1, nal_ref_idc: 2
+Jul 14, 2018 03:08:55.262 [0x7ff5b189d800] DEBUG - [FFMPEG] - nal_unit_type: 1, nal_ref_idc: 0
+Jul 14, 2018 03:08:55.262 [0x7ff5b189d800] DEBUG - [FFMPEG] - nal_unit_type: 1, nal_ref_idc: 0
+Jul 14, 2018 03:08:55.264 [0x7ff5b189d800] DEBUG - [FFMPEG] - All info found
+Jul 14, 2018 03:08:55.264 [0x7ff5b189d800] DEBUG - [FFMPEG] - After avformat_find_stream_info() pos: 48718 bytes read:65536 seeks:0 frames:26
+Jul 14, 2018 03:08:55.264 [0x7ff5b189d800] DEBUG - [MI]  * 1d737e4dc2dc32078df2ca8280f6c37c7e100ba2 [mkv h264/ac3] Duration: 7573504ms, 1280x536 (2.388060) 23.976fps, bitrate=6189kbps, audio channels=6, optimizedForStreaming=0 (/movies/king.arthur.legend.of.the.sword.2017.720p.bluray.x264-Obfuscated/31e142e44ae54d229d561d515d00af8a.mkv)
+Jul 14, 2018 03:08:55.264 [0x7ff5b189d800] DEBUG - [MI] Importing 12 media chapters.
+Jul 14, 2018 03:08:55.264 [0x7ff5b189d800] DEBUG - [MI] Chapters had generic titles, clearing.
+Jul 14, 2018 03:08:55.265 [0x7ff5b189d800] DEBUG - Downloading document http://127.0.0.1:32400/library/changestamp
+Jul 14, 2018 03:08:55.265 [0x7ff5b189d800] DEBUG - HTTP requesting GET http://127.0.0.1:32400/library/changestamp
+Jul 14, 2018 03:08:55.267 [0x7ff5b189d800] DEBUG - HTTP 200 response from GET http://127.0.0.1:32400/library/changestamp
+Jul 14, 2018 03:08:55.267 [0x7ff5b189d800] DEBUG - Updating metadata item (save) (King Arthur: Legend of the Sword) with ID 4792
+Jul 14, 2018 03:08:55.333 [0x7ff5b189d800] DEBUG - [MI] Closing input file: /movies/king.arthur.legend.of.the.sword.2017.720p.bluray.x264-Obfuscated/31e142e44ae54d229d561d515d00af8a.mkv
+Jul 14, 2018 03:08:55.334 [0x7ff5b189d800] DEBUG - [FFMPEG] - Statistics: 65536 bytes read, 0 seeks
+Jul 14, 2018 03:08:55.335 [0x7ff5b189d800] DEBUG - Committing media stream changes for part 9066
+Jul 14, 2018 03:08:55.339 [0x7ff5b189d800] DEBUG - Updating media item 9058, size=5859509267, metadata_item_id=4792
+Jul 14, 2018 03:08:55.339 [0x7ff5b189d800] DEBUG - Updating part with ID=9066 [/movies/king.arthur.legend.of.the.sword.2017.720p.bluray.x264-Obfuscated/31e142e44ae54d229d561d515d00af8a.mkv]
+Jul 14, 2018 03:08:55.425 [0x7ff5a2bff700] DEBUG - HTTP requesting GET http://127.0.0.1:32400/:/metadata/notify/changeItemState?librarySectionID=1&metadataItemID=4792&metadataType=1&state=-1&mediaState=analyzing
+Jul 14, 2018 03:08:55.429 [0x7ff5a2bff700] DEBUG - HTTP 200 response from GET http://127.0.0.1:32400/:/metadata/notify/changeItemState?librarySectionID=1&metadataItemID=4792&metadataType=1&state=-1&mediaState=analyzing
+Jul 14, 2018 03:08:55.430 [0x7ff5a2bff700] DEBUG - HTTP requesting GET http://127.0.0.1:32400/:/metadata/notify/changeItemState?librarySectionID=1&metadataItemID=4792&metadataType=1&state=-1&mediaState=thumbnailing
+Jul 14, 2018 03:08:55.434 [0x7ff5a2bff700] DEBUG - HTTP 200 response from GET http://127.0.0.1:32400/:/metadata/notify/changeItemState?librarySectionID=1&metadataItemID=4792&metadataType=1&state=-1&mediaState=thumbnailing
+Jul 14, 2018 03:08:55.434 [0x7ff5a2bff700] DEBUG - HTTP requesting GET http://127.0.0.1:32400/:/metadata/notify/changeItemState?librarySectionID=1&metadataItemID=4792&metadataType=1&state=-1&mediaState=idle
+Jul 14, 2018 03:08:55.436 [0x7ff5a2bff700] DEBUG - HTTP 200 response from GET http://127.0.0.1:32400/:/metadata/notify/changeItemState?librarySectionID=1&metadataItemID=4792&metadataType=1&state=-1&mediaState=idle
+Jul 14, 2018 03:08:55.446 [0x7ff5b189d800] DEBUG - Analyzing media parts for item 4823 (The Revenant): 9089
+Jul 14, 2018 03:08:55.446 [0x7ff5b189d800] DEBUG - [ID 9097] Media part analysis: /movies/The.Revenant.2015.720p.BluRay.x264-SPARKS/The.Revenant.2015.720p.BluRay.x264-SPARKS.mkv
+Jul 14, 2018 03:08:55.480 [0x7ff5b189d800] DEBUG - [MI] Opening input file: "/movies/The.Revenant.2015.720p.BluRay.x264-SPARKS/The.Revenant.2015.720p.BluRay.x264-SPARKS.mkv"
+Jul 14, 2018 03:08:55.480 [0x7ff5b189d800] DEBUG - [FFMPEG] - Opening '/movies/The.Revenant.2015.720p.BluRay.x264-SPARKS/The.Revenant.2015.720p.BluRay.x264-SPARKS.mkv' for reading
+Jul 14, 2018 03:08:55.480 [0x7ff5b189d800] DEBUG - [FFMPEG] - Setting default whitelist 'file,crypto'
+Jul 14, 2018 03:08:55.604 [0x7ff5b189d800] DEBUG - [FFMPEG] - Format matroska,webm probed with size=2048 and score=100
+Jul 14, 2018 03:08:55.605 [0x7ff5b189d800] DEBUG - [FFMPEG] - st:0 removing common factor 1000000 from timebase
+Jul 14, 2018 03:08:55.605 [0x7ff5b189d800] DEBUG - [FFMPEG] - st:1 removing common factor 1000000 from timebase
+Jul 14, 2018 03:08:55.605 [0x7ff5b189d800] DEBUG - [FFMPEG] - st:2 removing common factor 1000000 from timebase
+Jul 14, 2018 03:08:55.605 [0x7ff5b189d800] DEBUG - [FFMPEG] - Before avformat_find_stream_info() pos: 6977 bytes read:34009 seeks:2 nb_streams:3
+Jul 14, 2018 03:08:55.606 [0x7ff5b189d800] DEBUG - [FFMPEG] - nal_unit_type: 7, nal_ref_idc: 3
+Jul 14, 2018 03:08:55.606 [0x7ff5b189d800] DEBUG - [FFMPEG] - nal_unit_type: 8, nal_ref_idc: 3
+Jul 14, 2018 03:08:55.607 [0x7ff5b189d800] DEBUG - [FFMPEG] - nal_unit_type: 7, nal_ref_idc: 3
+Jul 14, 2018 03:08:55.607 [0x7ff5b189d800] DEBUG - [FFMPEG] - nal_unit_type: 8, nal_ref_idc: 3
+Jul 14, 2018 03:08:55.607 [0x7ff5b189d800] DEBUG - [FFMPEG] - nal_unit_type: 6, nal_ref_idc: 0
+Jul 14, 2018 03:08:55.607 [0x7ff5b189d800] DEBUG - [FFMPEG] - nal_unit_type: 5, nal_ref_idc: 3
+Jul 14, 2018 03:08:55.607 [0x7ff5b189d800] DEBUG - [FFMPEG] - Format yuv420p chosen by get_format().
+Jul 14, 2018 03:08:55.609 [0x7ff5b189d800] DEBUG - [FFMPEG] - no picture 
+Jul 14, 2018 03:08:55.612 [0x7ff5b189d800] DEBUG - [FFMPEG] - nal_unit_type: 1, nal_ref_idc: 2
+Jul 14, 2018 03:08:55.613 [0x7ff5b189d800] DEBUG - [FFMPEG] - no picture 
+Jul 14, 2018 03:08:55.614 [0x7ff5b189d800] DEBUG - [FFMPEG] - nal_unit_type: 1, nal_ref_idc: 2
+Jul 14, 2018 03:08:55.617 [0x7ff5b189d800] DEBUG - [FFMPEG] - nal_unit_type: 1, nal_ref_idc: 0
+Jul 14, 2018 03:08:55.619 [0x7ff5b189d800] DEBUG - [FFMPEG] - nal_unit_type: 1, nal_ref_idc: 2
+Jul 14, 2018 03:08:55.621 [0x7ff5b189d800] DEBUG - [FFMPEG] - nal_unit_type: 1, nal_ref_idc: 2
+Jul 14, 2018 03:08:55.623 [0x7ff5b189d800] DEBUG - [FFMPEG] - nal_unit_type: 1, nal_ref_idc: 0
+Jul 14, 2018 03:08:55.625 [0x7ff5b189d800] DEBUG - [FFMPEG] - nal_unit_type: 1, nal_ref_idc: 2
+Jul 14, 2018 03:08:55.627 [0x7ff5b189d800] DEBUG - [FFMPEG] - nal_unit_type: 1, nal_ref_idc: 0
+Jul 14, 2018 03:08:55.629 [0x7ff5b189d800] DEBUG - [FFMPEG] - All info found
+Jul 14, 2018 03:08:55.629 [0x7ff5b189d800] DEBUG - [FFMPEG] - After avformat_find_stream_info() pos: 109943 bytes read:165081 seeks:2 frames:58
+Jul 14, 2018 03:08:55.629 [0x7ff5b189d800] DEBUG - [MI]  * 69a91c44d772ebb8dbe376885944cc9782ebf91c [mkv h264/dca] Duration: 9381376ms, 1280x536 (2.388060) 23.976fps, bitrate=7006kbps, audio channels=6, optimizedForStreaming=0 (/movies/The.Revenant.2015.720p.BluRay.x264-SPARKS/The.Revenant.2015.720p.BluRay.x264-SPARKS.mkv)
+Jul 14, 2018 03:08:55.630 [0x7ff5b189d800] DEBUG - [MI] Importing 24 media chapters.
+Jul 14, 2018 03:08:55.630 [0x7ff5b189d800] DEBUG - [MI] Chapters had generic titles, clearing.
+Jul 14, 2018 03:08:55.632 [0x7ff5b189d800] DEBUG - Downloading document http://127.0.0.1:32400/library/changestamp
+Jul 14, 2018 03:08:55.632 [0x7ff5b189d800] DEBUG - HTTP requesting GET http://127.0.0.1:32400/library/changestamp
+Jul 14, 2018 03:08:55.634 [0x7ff5b189d800] DEBUG - HTTP 200 response from GET http://127.0.0.1:32400/library/changestamp
+Jul 14, 2018 03:08:55.634 [0x7ff5b189d800] DEBUG - Updating metadata item (save) (The Revenant) with ID 4823
+Jul 14, 2018 03:08:55.680 [0x7ff5b189d800] DEBUG - [MI] Closing input file: /movies/The.Revenant.2015.720p.BluRay.x264-SPARKS/The.Revenant.2015.720p.BluRay.x264-SPARKS.mkv
+Jul 14, 2018 03:08:55.681 [0x7ff5b189d800] DEBUG - [FFMPEG] - Statistics: 165081 bytes read, 2 seeks
+Jul 14, 2018 03:08:55.682 [0x7ff5b189d800] DEBUG - Streams didn't change in analysis, not saving.
+Jul 14, 2018 03:08:55.682 [0x7ff5b189d800] DEBUG - Updating media item 9089, size=8216194081, metadata_item_id=4823
+Jul 14, 2018 03:08:55.682 [0x7ff5b189d800] DEBUG - Updating part with ID=9097 [/movies/The.Revenant.2015.720p.BluRay.x264-SPARKS/The.Revenant.2015.720p.BluRay.x264-SPARKS.mkv]
+Jul 14, 2018 03:08:55.686 [0x7ff5a2bff700] DEBUG - HTTP requesting GET http://127.0.0.1:32400/:/metadata/notify/changeItemState?librarySectionID=1&metadataItemID=4823&metadataType=1&state=-1&mediaState=analyzing
+Jul 14, 2018 03:08:55.688 [0x7ff5a2bff700] DEBUG - HTTP 200 response from GET http://127.0.0.1:32400/:/metadata/notify/changeItemState?librarySectionID=1&metadataItemID=4823&metadataType=1&state=-1&mediaState=analyzing
+Jul 14, 2018 03:08:55.688 [0x7ff5a2bff700] DEBUG - HTTP requesting GET http://127.0.0.1:32400/:/metadata/notify/changeItemState?librarySectionID=1&metadataItemID=4823&metadataType=1&state=-1&mediaState=thumbnailing
+Jul 14, 2018 03:08:55.690 [0x7ff5a2bff700] DEBUG - HTTP 200 response from GET http://127.0.0.1:32400/:/metadata/notify/changeItemState?librarySectionID=1&metadataItemID=4823&metadataType=1&state=-1&mediaState=thumbnailing
+Jul 14, 2018 03:08:55.690 [0x7ff5a2bff700] DEBUG - HTTP requesting GET http://127.0.0.1:32400/:/metadata/notify/changeItemState?librarySectionID=1&metadataItemID=4823&metadataType=1&state=-1&mediaState=idle
+Jul 14, 2018 03:08:55.691 [0x7ff5a2bff700] DEBUG - HTTP 200 response from GET http://127.0.0.1:32400/:/metadata/notify/changeItemState?librarySectionID=1&metadataItemID=4823&metadataType=1&state=-1&mediaState=idle
+Jul 14, 2018 03:08:55.692 [0x7ff5b189d800] DEBUG - Analyzing media parts for item 4789 (Boyka: Undisputed IV): 9055
+Jul 14, 2018 03:08:55.692 [0x7ff5b189d800] DEBUG - [ID 9063] Media part analysis: /movies/Boyka.Undisputed.IV.2016.720p.BluRay.DD5.1.x264-decibeL-Scrambled-Obfuscated/24eb0c40f93d48d9994b14dbca1e13d4.mkv
+Jul 14, 2018 03:08:55.693 [0x7ff5b189d800] DEBUG - [MI] Opening input file: "/movies/Boyka.Undisputed.IV.2016.720p.BluRay.DD5.1.x264-decibeL-Scrambled-Obfuscated/24eb0c40f93d48d9994b14dbca1e13d4.mkv"
+Jul 14, 2018 03:08:55.693 [0x7ff5b189d800] DEBUG - [FFMPEG] - Opening '/movies/Boyka.Undisputed.IV.2016.720p.BluRay.DD5.1.x264-decibeL-Scrambled-Obfuscated/24eb0c40f93d48d9994b14dbca1e13d4.mkv' for reading
+Jul 14, 2018 03:08:55.693 [0x7ff5b189d800] DEBUG - [FFMPEG] - Setting default whitelist 'file,crypto'
+Jul 14, 2018 03:08:55.761 [0x7ff5b189d800] DEBUG - [FFMPEG] - Format matroska,webm probed with size=2048 and score=100
+Jul 14, 2018 03:08:55.762 [0x7ff5b189d800] DEBUG - [FFMPEG] - st:0 removing common factor 1000000 from timebase
+Jul 14, 2018 03:08:55.762 [0x7ff5b189d800] DEBUG - [FFMPEG] - st:1 removing common factor 1000000 from timebase
+Jul 14, 2018 03:08:55.762 [0x7ff5b189d800] DEBUG - [FFMPEG] - st:2 removing common factor 1000000 from timebase
+Jul 14, 2018 03:08:55.762 [0x7ff5b189d800] DEBUG - [FFMPEG] - st:3 removing common factor 1000000 from timebase
+Jul 14, 2018 03:08:55.762 [0x7ff5b189d800] DEBUG - [FFMPEG] - Before avformat_find_stream_info() pos: 6850 bytes read:34395 seeks:2 nb_streams:4
+Jul 14, 2018 03:08:55.762 [0x7ff5b189d800] DEBUG - [FFMPEG] - nal_unit_type: 7, nal_ref_idc: 3
+Jul 14, 2018 03:08:55.762 [0x7ff5b189d800] DEBUG - [FFMPEG] - nal_unit_type: 8, nal_ref_idc: 3
+Jul 14, 2018 03:08:55.762 [0x7ff5b189d800] DEBUG - [FFMPEG] - nal_unit_type: 7, nal_ref_idc: 3
+Jul 14, 2018 03:08:55.763 [0x7ff5b189d800] DEBUG - [FFMPEG] - nal_unit_type: 8, nal_ref_idc: 3
+Jul 14, 2018 03:08:55.763 [0x7ff5b189d800] DEBUG - [FFMPEG] - nal_unit_type: 6, nal_ref_idc: 0
+Jul 14, 2018 03:08:55.763 [0x7ff5b189d800] DEBUG - [FFMPEG] - nal_unit_type: 5, nal_ref_idc: 3
+Jul 14, 2018 03:08:55.763 [0x7ff5b189d800] DEBUG - [FFMPEG] - Format yuv420p chosen by get_format().
+Jul 14, 2018 03:08:55.764 [0x7ff5b189d800] DEBUG - [FFMPEG] - no picture 
+Jul 14, 2018 03:08:55.788 [0x7ff5b189d800] DEBUG - [FFMPEG] - nal_unit_type: 1, nal_ref_idc: 2
+Jul 14, 2018 03:08:55.788 [0x7ff5b189d800] DEBUG - [FFMPEG] - no picture 
+Jul 14, 2018 03:08:55.794 [0x7ff5b189d800] DEBUG - [FFMPEG] - nal_unit_type: 1, nal_ref_idc: 2
+Jul 14, 2018 03:08:55.799 [0x7ff5b189d800] DEBUG - [FFMPEG] - nal_unit_type: 1, nal_ref_idc: 0
+Jul 14, 2018 03:08:55.803 [0x7ff5b189d800] DEBUG - [FFMPEG] - nal_unit_type: 1, nal_ref_idc: 0
+Jul 14, 2018 03:08:55.808 [0x7ff5b189d800] DEBUG - [FFMPEG] - nal_unit_type: 1, nal_ref_idc: 0
+Jul 14, 2018 03:08:55.812 [0x7ff5b189d800] DEBUG - [FFMPEG] - nal_unit_type: 1, nal_ref_idc: 0
+Jul 14, 2018 03:08:55.816 [0x7ff5b189d800] DEBUG - [FFMPEG] - nal_unit_type: 1, nal_ref_idc: 0
+Jul 14, 2018 03:08:55.819 [0x7ff5b189d800] DEBUG - [FFMPEG] - nal_unit_type: 1, nal_ref_idc: 0
+Jul 14, 2018 03:08:55.824 [0x7ff5b189d800] DEBUG - [FFMPEG] - All info found
+Jul 14, 2018 03:08:55.824 [0x7ff5b189d800] DEBUG - [FFMPEG] - After avformat_find_stream_info() pos: 356832 bytes read:394843 seeks:2 frames:26
+Jul 14, 2018 03:08:55.824 [0x7ff5b189d800] DEBUG - [MI]  * cb901dc099f6521a3081d81048b3627e5dc58faf [mkv h264/ac3] Duration: 5411424ms, 1280x692 (1.849711) 23.976fps, bitrate=7831kbps, audio channels=6, optimizedForStreaming=0 (/movies/Boyka.Undisputed.IV.2016.720p.BluRay.DD5.1.x264-decibeL-Scrambled-Obfuscated/24eb0c40f93d48d9994b14dbca1e13d4.mkv)
+Jul 14, 2018 03:08:55.825 [0x7ff5b189d800] DEBUG - [MI] Importing 20 media chapters.
+Jul 14, 2018 03:08:55.826 [0x7ff5b189d800] DEBUG - [MI] Chapters had generic titles, clearing.
+Jul 14, 2018 03:08:55.827 [0x7ff5b189d800] DEBUG - [MI] Closing input file: /movies/Boyka.Undisputed.IV.2016.720p.BluRay.DD5.1.x264-decibeL-Scrambled-Obfuscated/24eb0c40f93d48d9994b14dbca1e13d4.mkv
+Jul 14, 2018 03:08:55.828 [0x7ff5b189d800] DEBUG - [FFMPEG] - Statistics: 394843 bytes read, 2 seeks
+Jul 14, 2018 03:08:55.829 [0x7ff5b189d800] DEBUG - Streams didn't change in analysis, not saving.
+Jul 14, 2018 03:08:55.829 [0x7ff5b189d800] DEBUG - Updating media item 9055, size=5297249544, metadata_item_id=4789
+Jul 14, 2018 03:08:55.829 [0x7ff5b189d800] DEBUG - Updating part with ID=9063 [/movies/Boyka.Undisputed.IV.2016.720p.BluRay.DD5.1.x264-decibeL-Scrambled-Obfuscated/24eb0c40f93d48d9994b14dbca1e13d4.mkv]
+Jul 14, 2018 03:08:55.919 [0x7ff5a2bff700] DEBUG - HTTP requesting GET http://127.0.0.1:32400/:/metadata/notify/changeItemState?librarySectionID=1&metadataItemID=4789&metadataType=1&state=-1&mediaState=analyzing
+Jul 14, 2018 03:08:55.920 [0x7ff5a2bff700] DEBUG - HTTP 200 response from GET http://127.0.0.1:32400/:/metadata/notify/changeItemState?librarySectionID=1&metadataItemID=4789&metadataType=1&state=-1&mediaState=analyzing
+Jul 14, 2018 03:08:55.921 [0x7ff5a2bff700] DEBUG - HTTP requesting GET http://127.0.0.1:32400/:/metadata/notify/changeItemState?librarySectionID=1&metadataItemID=4789&metadataType=1&state=-1&mediaState=thumbnailing
+Jul 14, 2018 03:08:55.921 [0x7ff5a2bff700] DEBUG - HTTP 200 response from GET http://127.0.0.1:32400/:/metadata/notify/changeItemState?librarySectionID=1&metadataItemID=4789&metadataType=1&state=-1&mediaState=thumbnailing
+Jul 14, 2018 03:08:55.921 [0x7ff5a2bff700] DEBUG - HTTP requesting GET http://127.0.0.1:32400/:/metadata/notify/changeItemState?librarySectionID=1&metadataItemID=4789&metadataType=1&state=-1&mediaState=idle
+Jul 14, 2018 03:08:55.922 [0x7ff5a2bff700] DEBUG - HTTP 200 response from GET http://127.0.0.1:32400/:/metadata/notify/changeItemState?librarySectionID=1&metadataItemID=4789&metadataType=1&state=-1&mediaState=idle
+Jul 14, 2018 03:08:55.926 [0x7ff5b189d800] DEBUG - It took 10.000000 ms to retrieve 104 items.
+Jul 14, 2018 03:08:55.931 [0x7ff5b189d800] DEBUG - Analyzing media parts for item 4996 (Allegiant): 9386
+Jul 14, 2018 03:08:55.931 [0x7ff5b189d800] DEBUG - [ID 9402] Media part analysis: /movies/Allegiant.2016.720p.BluRay.DTS.x264-FTO-Obfuscated/lrPESrwAAdLgN1lAgQKXjHTBZEY276gHd.mkv
+Jul 14, 2018 03:08:55.931 [0x7ff5b189d800] DEBUG - [MI] Opening input file: "/movies/Allegiant.2016.720p.BluRay.DTS.x264-FTO-Obfuscated/lrPESrwAAdLgN1lAgQKXjHTBZEY276gHd.mkv"
+Jul 14, 2018 03:08:55.932 [0x7ff5b189d800] DEBUG - [FFMPEG] - Opening '/movies/Allegiant.2016.720p.BluRay.DTS.x264-FTO-Obfuscated/lrPESrwAAdLgN1lAgQKXjHTBZEY276gHd.mkv' for reading
+Jul 14, 2018 03:08:55.932 [0x7ff5b189d800] DEBUG - [FFMPEG] - Setting default whitelist 'file,crypto'
+Jul 14, 2018 03:08:56.034 [0x7ff5b189d800] DEBUG - [FFMPEG] - Format matroska,webm probed with size=2048 and score=100
+Jul 14, 2018 03:08:56.035 [0x7ff5b189d800] DEBUG - [FFMPEG] - st:0 removing common factor 1000000 from timebase
+Jul 14, 2018 03:08:56.035 [0x7ff5b189d800] DEBUG - [FFMPEG] - st:1 removing common factor 1000000 from timebase
+Jul 14, 2018 03:08:56.035 [0x7ff5b189d800] DEBUG - [FFMPEG] - st:2 removing common factor 1000000 from timebase
+Jul 14, 2018 03:08:56.035 [0x7ff5b189d800] DEBUG - [FFMPEG] - st:3 removing common factor 1000000 from timebase
+Jul 14, 2018 03:08:56.035 [0x7ff5b189d800] DEBUG - [FFMPEG] - st:4 removing common factor 1000000 from timebase
+Jul 14, 2018 03:08:56.035 [0x7ff5b189d800] DEBUG - [FFMPEG] - Before avformat_find_stream_info() pos: 6723 bytes read:34836 seeks:2 nb_streams:5
+Jul 14, 2018 03:08:56.035 [0x7ff5b189d800] DEBUG - [FFMPEG] - nal_unit_type: 7, nal_ref_idc: 3
+Jul 14, 2018 03:08:56.035 [0x7ff5b189d800] DEBUG - [FFMPEG] - nal_unit_type: 8, nal_ref_idc: 3
+Jul 14, 2018 03:08:56.036 [0x7ff5b189d800] DEBUG - [FFMPEG] - nal_unit_type: 7, nal_ref_idc: 3
+Jul 14, 2018 03:08:56.036 [0x7ff5b189d800] DEBUG - [FFMPEG] - nal_unit_type: 8, nal_ref_idc: 3
+Jul 14, 2018 03:08:56.036 [0x7ff5b189d800] DEBUG - [FFMPEG] - nal_unit_type: 6, nal_ref_idc: 0
+Jul 14, 2018 03:08:56.036 [0x7ff5b189d800] DEBUG - [FFMPEG] - nal_unit_type: 5, nal_ref_idc: 3
+Jul 14, 2018 03:08:56.036 [0x7ff5b189d800] DEBUG - [FFMPEG] - Format yuv420p chosen by get_format().
+Jul 14, 2018 03:08:56.037 [0x7ff5b189d800] DEBUG - [FFMPEG] - no picture 
+Jul 14, 2018 03:08:56.038 [0x7ff5b189d800] DEBUG - [FFMPEG] - nal_unit_type: 1, nal_ref_idc: 2
+Jul 14, 2018 03:08:56.039 [0x7ff5b189d800] DEBUG - [FFMPEG] - no picture 
+Jul 14, 2018 03:08:56.039 [0x7ff5b189d800] DEBUG - [FFMPEG] - nal_unit_type: 1, nal_ref_idc: 2
+Jul 14, 2018 03:08:56.041 [0x7ff5b189d800] DEBUG - [FFMPEG] - nal_unit_type: 1, nal_ref_idc: 0
+Jul 14, 2018 03:08:56.043 [0x7ff5b189d800] DEBUG - [FFMPEG] - nal_unit_type: 1, nal_ref_idc: 0
+Jul 14, 2018 03:08:56.044 [0x7ff5b189d800] DEBUG - [FFMPEG] - nal_unit_type: 1, nal_ref_idc: 0
+Jul 14, 2018 03:08:56.045 [0x7ff5b189d800] DEBUG - [FFMPEG] - nal_unit_type: 1, nal_ref_idc: 0
+Jul 14, 2018 03:08:56.046 [0x7ff5b189d800] DEBUG - [FFMPEG] - nal_unit_type: 1, nal_ref_idc: 0
+Jul 14, 2018 03:08:56.047 [0x7ff5b189d800] DEBUG - [FFMPEG] - nal_unit_type: 1, nal_ref_idc: 0
+Jul 14, 2018 03:08:56.048 [0x7ff5b189d800] DEBUG - [FFMPEG] - All info found
+Jul 14, 2018 03:08:56.048 [0x7ff5b189d800] DEBUG - [FFMPEG] - After avformat_find_stream_info() pos: 104588 bytes read:133140 seeks:2 frames:58
+Jul 14, 2018 03:08:56.048 [0x7ff5b189d800] DEBUG - [MI]  * e23c98334073eb952928087f77b9b1641e3baa7a [mkv h264/dca] Duration: 7233226ms, 1280x534 (2.397004) 23.976fps, bitrate=7987kbps, audio channels=6, optimizedForStreaming=0 (/movies/Allegiant.2016.720p.BluRay.DTS.x264-FTO-Obfuscated/lrPESrwAAdLgN1lAgQKXjHTBZEY276gHd.mkv)
+Jul 14, 2018 03:08:56.049 [0x7ff5b189d800] DEBUG - [MI] Importing 16 media chapters.
+Jul 14, 2018 03:08:56.049 [0x7ff5b189d800] DEBUG - [MI] Chapters had generic titles, clearing.
+Jul 14, 2018 03:08:56.050 [0x7ff5b189d800] DEBUG - Downloading document http://127.0.0.1:32400/library/changestamp
+Jul 14, 2018 03:08:56.050 [0x7ff5b189d800] DEBUG - HTTP requesting GET http://127.0.0.1:32400/library/changestamp
+Jul 14, 2018 03:08:56.051 [0x7ff5b189d800] DEBUG - HTTP 200 response from GET http://127.0.0.1:32400/library/changestamp
+Jul 14, 2018 03:08:56.052 [0x7ff5b189d800] DEBUG - Updating metadata item (save) (Allegiant) with ID 4996
+Jul 14, 2018 03:08:56.134 [0x7ff5b189d800] DEBUG - [MI] Closing input file: /movies/Allegiant.2016.720p.BluRay.DTS.x264-FTO-Obfuscated/lrPESrwAAdLgN1lAgQKXjHTBZEY276gHd.mkv
+Jul 14, 2018 03:08:56.135 [0x7ff5b189d800] DEBUG - [FFMPEG] - Statistics: 133140 bytes read, 2 seeks
+Jul 14, 2018 03:08:56.137 [0x7ff5b189d800] DEBUG - Updating media item 9386, size=7222020945, metadata_item_id=4996
+Jul 14, 2018 03:08:56.137 [0x7ff5b189d800] DEBUG - Updating part with ID=9402 [/movies/Allegiant.2016.720p.BluRay.DTS.x264-FTO-Obfuscated/lrPESrwAAdLgN1lAgQKXjHTBZEY276gHd.mkv]
+Jul 14, 2018 03:08:56.140 [0x7ff5a2bff700] DEBUG - HTTP requesting GET http://127.0.0.1:32400/:/metadata/notify/changeItemState?librarySectionID=1&metadataItemID=4996&metadataType=1&state=-1&mediaState=analyzing
+Jul 14, 2018 03:08:56.141 [0x7ff5a2bff700] DEBUG - HTTP 200 response from GET http://127.0.0.1:32400/:/metadata/notify/changeItemState?librarySectionID=1&metadataItemID=4996&metadataType=1&state=-1&mediaState=analyzing
+Jul 14, 2018 03:08:56.142 [0x7ff5a2bff700] DEBUG - HTTP requesting GET http://127.0.0.1:32400/:/metadata/notify/changeItemState?librarySectionID=1&metadataItemID=4996&metadataType=1&state=-1&mediaState=thumbnailing
+Jul 14, 2018 03:08:56.143 [0x7ff5a2bff700] DEBUG - HTTP 200 response from GET http://127.0.0.1:32400/:/metadata/notify/changeItemState?librarySectionID=1&metadataItemID=4996&metadataType=1&state=-1&mediaState=thumbnailing
+Jul 14, 2018 03:08:56.143 [0x7ff5a2bff700] DEBUG - HTTP requesting GET http://127.0.0.1:32400/:/metadata/notify/changeItemState?librarySectionID=1&metadataItemID=4996&metadataType=1&state=-1&mediaState=idle
+Jul 14, 2018 03:08:56.145 [0x7ff5a2bff700] DEBUG - HTTP 200 response from GET http://127.0.0.1:32400/:/metadata/notify/changeItemState?librarySectionID=1&metadataItemID=4996&metadataType=1&state=-1&mediaState=idle
+Jul 14, 2018 03:08:56.146 [0x7ff5b189d800] DEBUG - Analyzing media parts for item 4923 (Mr. Church): 9233
+Jul 14, 2018 03:08:56.147 [0x7ff5b189d800] DEBUG - [ID 9249] Media part analysis: /movies/Mr.Church.2016.LIMITED.720p.BluRay.x264-DRONES-Obfuscated/eb7bf254214a420dbbf01119cc9ea25a.mkv
+Jul 14, 2018 03:08:56.147 [0x7ff5b189d800] DEBUG - [MI] Opening input file: "/movies/Mr.Church.2016.LIMITED.720p.BluRay.x264-DRONES-Obfuscated/eb7bf254214a420dbbf01119cc9ea25a.mkv"
+Jul 14, 2018 03:08:56.147 [0x7ff5b189d800] DEBUG - [FFMPEG] - Opening '/movies/Mr.Church.2016.LIMITED.720p.BluRay.x264-DRONES-Obfuscated/eb7bf254214a420dbbf01119cc9ea25a.mkv' for reading
+Jul 14, 2018 03:08:56.147 [0x7ff5b189d800] DEBUG - [FFMPEG] - Setting default whitelist 'file,crypto'
+Jul 14, 2018 03:08:56.201 [0x7ff5b189d800] DEBUG - [FFMPEG] - Format matroska,webm probed with size=2048 and score=100
+Jul 14, 2018 03:08:56.201 [0x7ff5b189d800] DEBUG - [FFMPEG] - st:0 removing common factor 1000000 from timebase
+Jul 14, 2018 03:08:56.202 [0x7ff5b189d800] DEBUG - [FFMPEG] - st:1 removing common factor 1000000 from timebase
+Jul 14, 2018 03:08:56.202 [0x7ff5b189d800] DEBUG - [FFMPEG] - Before avformat_find_stream_info() pos: 1411 bytes read:32768 seeks:0 nb_streams:2
+Jul 14, 2018 03:08:56.202 [0x7ff5b189d800] DEBUG - [FFMPEG] - nal_unit_type: 7, nal_ref_idc: 3
+Jul 14, 2018 03:08:56.202 [0x7ff5b189d800] DEBUG - [FFMPEG] - nal_unit_type: 8, nal_ref_idc: 3
+Jul 14, 2018 03:08:56.202 [0x7ff5b189d800] DEBUG - [FFMPEG] - nal_unit_type: 7, nal_ref_idc: 3
+Jul 14, 2018 03:08:56.202 [0x7ff5b189d800] DEBUG - [FFMPEG] - nal_unit_type: 8, nal_ref_idc: 3
+Jul 14, 2018 03:08:56.202 [0x7ff5b189d800] DEBUG - [FFMPEG] - nal_unit_type: 6, nal_ref_idc: 0
+Jul 14, 2018 03:08:56.202 [0x7ff5b189d800] DEBUG - [FFMPEG] - nal_unit_type: 5, nal_ref_idc: 3
+Jul 14, 2018 03:08:56.202 [0x7ff5b189d800] DEBUG - [FFMPEG] - Format yuv420p chosen by get_format().
+Jul 14, 2018 03:08:56.203 [0x7ff5b189d800] DEBUG - [FFMPEG] - no picture 
+Jul 14, 2018 03:08:56.204 [0x7ff5b189d800] DEBUG - [FFMPEG] - nal_unit_type: 1, nal_ref_idc: 2
+Jul 14, 2018 03:08:56.205 [0x7ff5b189d800] DEBUG - [FFMPEG] - no picture 
+Jul 14, 2018 03:08:56.205 [0x7ff5b189d800] DEBUG - [FFMPEG] - nal_unit_type: 1, nal_ref_idc: 2
+Jul 14, 2018 03:08:56.207 [0x7ff5b189d800] DEBUG - [FFMPEG] - nal_unit_type: 1, nal_ref_idc: 0
+Jul 14, 2018 03:08:56.209 [0x7ff5b189d800] DEBUG - [FFMPEG] - nal_unit_type: 1, nal_ref_idc: 0
+Jul 14, 2018 03:08:56.211 [0x7ff5b189d800] DEBUG - [FFMPEG] - nal_unit_type: 1, nal_ref_idc: 2
+Jul 14, 2018 03:08:56.212 [0x7ff5b189d800] DEBUG - [FFMPEG] - nal_unit_type: 1, nal_ref_idc: 2
+Jul 14, 2018 03:08:56.213 [0x7ff5b189d800] DEBUG - [FFMPEG] - nal_unit_type: 1, nal_ref_idc: 0
+Jul 14, 2018 03:08:56.214 [0x7ff5b189d800] DEBUG - [FFMPEG] - nal_unit_type: 1, nal_ref_idc: 0
+Jul 14, 2018 03:08:56.215 [0x7ff5b189d800] DEBUG - [FFMPEG] - All info found
+Jul 14, 2018 03:08:56.215 [0x7ff5b189d800] DEBUG - [FFMPEG] - After avformat_find_stream_info() pos: 59310 bytes read:65536 seeks:0 frames:38
+Jul 14, 2018 03:08:56.215 [0x7ff5b189d800] DEBUG - [MI]  * 6afdf18e0677b12390a87534aea56548d156b81f [mkv h264/dca] Duration: 6321609ms, 1280x688 (1.860465) 23.976fps, bitrate=7428kbps, audio channels=6, optimizedForStreaming=0 (/movies/Mr.Church.2016.LIMITED.720p.BluRay.x264-DRONES-Obfuscated/eb7bf254214a420dbbf01119cc9ea25a.mkv)
+Jul 14, 2018 03:08:56.216 [0x7ff5b189d800] DEBUG - [MI] Importing 16 media chapters.
+Jul 14, 2018 03:08:56.216 [0x7ff5b189d800] DEBUG - [MI] Chapters had generic titles, clearing.
+Jul 14, 2018 03:08:56.217 [0x7ff5b189d800] DEBUG - [MI] Closing input file: /movies/Mr.Church.2016.LIMITED.720p.BluRay.x264-DRONES-Obfuscated/eb7bf254214a420dbbf01119cc9ea25a.mkv
+Jul 14, 2018 03:08:56.218 [0x7ff5b189d800] DEBUG - [FFMPEG] - Statistics: 65536 bytes read, 0 seeks
+Jul 14, 2018 03:08:56.218 [0x7ff5b189d800] DEBUG - Streams didn't change in analysis, not saving.
+Jul 14, 2018 03:08:56.218 [0x7ff5b189d800] DEBUG - Updating media item 9233, size=5870142770, metadata_item_id=4923
+Jul 14, 2018 03:08:56.219 [0x7ff5b189d800] DEBUG - Updating part with ID=9249 [/movies/Mr.Church.2016.LIMITED.720p.BluRay.x264-DRONES-Obfuscated/eb7bf254214a420dbbf01119cc9ea25a.mkv]
+Jul 14, 2018 03:08:56.283 [0x7ff5a2bff700] DEBUG - HTTP requesting GET http://127.0.0.1:32400/:/metadata/notify/changeItemState?librarySectionID=1&metadataItemID=4923&metadataType=1&state=-1&mediaState=analyzing
+Jul 14, 2018 03:08:56.284 [0x7ff5a2bff700] DEBUG - HTTP 200 response from GET http://127.0.0.1:32400/:/metadata/notify/changeItemState?librarySectionID=1&metadataItemID=4923&metadataType=1&state=-1&mediaState=analyzing
+Jul 14, 2018 03:08:56.284 [0x7ff5a2bff700] DEBUG - HTTP requesting GET http://127.0.0.1:32400/:/metadata/notify/changeItemState?librarySectionID=1&metadataItemID=4923&metadataType=1&state=-1&mediaState=thumbnailing
+Jul 14, 2018 03:08:56.285 [0x7ff5a2bff700] DEBUG - HTTP 200 response from GET http://127.0.0.1:32400/:/metadata/notify/changeItemState?librarySectionID=1&metadataItemID=4923&metadataType=1&state=-1&mediaState=thumbnailing
+Jul 14, 2018 03:08:56.285 [0x7ff5a2bff700] DEBUG - HTTP requesting GET http://127.0.0.1:32400/:/metadata/notify/changeItemState?librarySectionID=1&metadataItemID=4923&metadataType=1&state=-1&mediaState=idle
+Jul 14, 2018 03:08:56.287 [0x7ff5a2bff700] DEBUG - HTTP 200 response from GET http://127.0.0.1:32400/:/metadata/notify/changeItemState?librarySectionID=1&metadataItemID=4923&metadataType=1&state=-1&mediaState=idle
+Jul 14, 2018 03:08:56.288 [0x7ff5b189d800] DEBUG - It took 10.000000 ms to retrieve 112 items.
+Jul 14, 2018 03:08:56.292 [0x7ff5b189d800] DEBUG - Analyzing media parts for item 4812 (Gladiator): 9078
+Jul 14, 2018 03:08:56.292 [0x7ff5b189d800] DEBUG - [ID 9086] Media part analysis: /movies/Gladiator.2000.EXTENDED.REMASTERED.720p.BluRay.x264-SiNNERS/Gladiator.2000.720p.BluRay.x264-SiNNERS.mkv
+Jul 14, 2018 03:08:56.293 [0x7ff5b189d800] DEBUG - [MI] Opening input file: "/movies/Gladiator.2000.EXTENDED.REMASTERED.720p.BluRay.x264-SiNNERS/Gladiator.2000.720p.BluRay.x264-SiNNERS.mkv"
+Jul 14, 2018 03:08:56.293 [0x7ff5b189d800] DEBUG - [FFMPEG] - Opening '/movies/Gladiator.2000.EXTENDED.REMASTERED.720p.BluRay.x264-SiNNERS/Gladiator.2000.720p.BluRay.x264-SiNNERS.mkv' for reading
+Jul 14, 2018 03:08:56.293 [0x7ff5b189d800] DEBUG - [FFMPEG] - Setting default whitelist 'file,crypto'
+Jul 14, 2018 03:08:56.379 [0x7ff5b189d800] DEBUG - [FFMPEG] - Format matroska,webm probed with size=2048 and score=100
+Jul 14, 2018 03:08:56.379 [0x7ff5b189d800] DEBUG - [FFMPEG] - st:0 removing common factor 1000000 from timebase
+Jul 14, 2018 03:08:56.379 [0x7ff5b189d800] DEBUG - [FFMPEG] - st:1 removing common factor 1000000 from timebase
+Jul 14, 2018 03:08:56.379 [0x7ff5b189d800] DEBUG - [FFMPEG] - st:2 removing common factor 1000000 from timebase
+Jul 14, 2018 03:08:56.379 [0x7ff5b189d800] DEBUG - [FFMPEG] - Before avformat_find_stream_info() pos: 5659 bytes read:32768 seeks:0 nb_streams:3
+Jul 14, 2018 03:08:56.379 [0x7ff5b189d800] DEBUG - [FFMPEG] - nal_unit_type: 7, nal_ref_idc: 3
+Jul 14, 2018 03:08:56.379 [0x7ff5b189d800] DEBUG - [FFMPEG] - nal_unit_type: 8, nal_ref_idc: 3
+Jul 14, 2018 03:08:56.380 [0x7ff5b189d800] DEBUG - [FFMPEG] - nal_unit_type: 7, nal_ref_idc: 3
+Jul 14, 2018 03:08:56.380 [0x7ff5b189d800] DEBUG - [FFMPEG] - nal_unit_type: 8, nal_ref_idc: 3
+Jul 14, 2018 03:08:56.380 [0x7ff5b189d800] DEBUG - [FFMPEG] - nal_unit_type: 6, nal_ref_idc: 0
+Jul 14, 2018 03:08:56.380 [0x7ff5b189d800] DEBUG - [FFMPEG] - nal_unit_type: 5, nal_ref_idc: 3
+Jul 14, 2018 03:08:56.380 [0x7ff5b189d800] DEBUG - [FFMPEG] - Format yuv420p chosen by get_format().
+Jul 14, 2018 03:08:56.381 [0x7ff5b189d800] DEBUG - [FFMPEG] - no picture 
+Jul 14, 2018 03:08:56.381 [0x7ff5b189d800] DEBUG - [FFMPEG] - nal_unit_type: 1, nal_ref_idc: 2
+Jul 14, 2018 03:08:56.382 [0x7ff5b189d800] DEBUG - [FFMPEG] - no picture 
+Jul 14, 2018 03:08:56.383 [0x7ff5b189d800] DEBUG - [FFMPEG] - nal_unit_type: 1, nal_ref_idc: 2
+Jul 14, 2018 03:08:56.384 [0x7ff5b189d800] DEBUG - [FFMPEG] - nal_unit_type: 1, nal_ref_idc: 0
+Jul 14, 2018 03:08:56.386 [0x7ff5b189d800] DEBUG - [FFMPEG] - nal_unit_type: 1, nal_ref_idc: 0
+Jul 14, 2018 03:08:56.387 [0x7ff5b189d800] DEBUG - [FFMPEG] - nal_unit_type: 1, nal_ref_idc: 2
+Jul 14, 2018 03:08:56.388 [0x7ff5b189d800] DEBUG - [FFMPEG] - nal_unit_type: 1, nal_ref_idc: 2
+Jul 14, 2018 03:08:56.389 [0x7ff5b189d800] DEBUG - [FFMPEG] - nal_unit_type: 1, nal_ref_idc: 0
+Jul 14, 2018 03:08:56.390 [0x7ff5b189d800] DEBUG - [FFMPEG] - nal_unit_type: 1, nal_ref_idc: 0
+Jul 14, 2018 03:08:56.391 [0x7ff5b189d800] DEBUG - [FFMPEG] - All info found
+Jul 14, 2018 03:08:56.391 [0x7ff5b189d800] DEBUG - [FFMPEG] - After avformat_find_stream_info() pos: 103312 bytes read:131072 seeks:0 frames:58
+Jul 14, 2018 03:08:56.392 [0x7ff5b189d800] DEBUG - [MI]  * 9c21c1ee6b654ed90765fbb563db50d10ec7d8fb [mkv h264/dca] Duration: 10256907ms, 1280x544 (2.352941) 23.976fps, bitrate=6652kbps, audio channels=6, optimizedForStreaming=0 (/movies/Gladiator.2000.EXTENDED.REMASTERED.720p.BluRay.x264-SiNNERS/Gladiator.2000.720p.BluRay.x264-SiNNERS.mkv)
+Jul 14, 2018 03:08:56.392 [0x7ff5b189d800] DEBUG - [MI] Chapters had generic titles, clearing.
+Jul 14, 2018 03:08:56.392 [0x7ff5b189d800] DEBUG - [MI] Closing input file: /movies/Gladiator.2000.EXTENDED.REMASTERED.720p.BluRay.x264-SiNNERS/Gladiator.2000.720p.BluRay.x264-SiNNERS.mkv
+Jul 14, 2018 03:08:56.393 [0x7ff5b189d800] DEBUG - [FFMPEG] - Statistics: 131072 bytes read, 0 seeks
+Jul 14, 2018 03:08:56.406 [0x7ff5b189d800] DEBUG - Committing media stream changes for part 9086
+Jul 14, 2018 03:08:56.410 [0x7ff5b189d800] DEBUG - Updating media item 9078, size=8529105727, metadata_item_id=4812
+Jul 14, 2018 03:08:56.410 [0x7ff5b189d800] DEBUG - Updating part with ID=9086 [/movies/Gladiator.2000.EXTENDED.REMASTERED.720p.BluRay.x264-SiNNERS/Gladiator.2000.720p.BluRay.x264-SiNNERS.mkv]
+Jul 14, 2018 03:08:56.428 [0x7ff5a2bff700] DEBUG - HTTP requesting GET http://127.0.0.1:32400/:/metadata/notify/changeItemState?librarySectionID=1&metadataItemID=4812&metadataType=1&state=-1&mediaState=analyzing
+Jul 14, 2018 03:08:56.429 [0x7ff5a2bff700] DEBUG - HTTP 200 response from GET http://127.0.0.1:32400/:/metadata/notify/changeItemState?librarySectionID=1&metadataItemID=4812&metadataType=1&state=-1&mediaState=analyzing
+Jul 14, 2018 03:08:56.429 [0x7ff5a2bff700] DEBUG - HTTP requesting GET http://127.0.0.1:32400/:/metadata/notify/changeItemState?librarySectionID=1&metadataItemID=4812&metadataType=1&state=-1&mediaState=thumbnailing
+Jul 14, 2018 03:08:56.430 [0x7ff5a2bff700] DEBUG - HTTP 200 response from GET http://127.0.0.1:32400/:/metadata/notify/changeItemState?librarySectionID=1&metadataItemID=4812&metadataType=1&state=-1&mediaState=thumbnailing
+Jul 14, 2018 03:08:56.430 [0x7ff5a2bff700] DEBUG - HTTP requesting GET http://127.0.0.1:32400/:/metadata/notify/changeItemState?librarySectionID=1&metadataItemID=4812&metadataType=1&state=-1&mediaState=idle
+Jul 14, 2018 03:08:56.431 [0x7ff5a2bff700] DEBUG - HTTP 200 response from GET http://127.0.0.1:32400/:/metadata/notify/changeItemState?librarySectionID=1&metadataItemID=4812&metadataType=1&state=-1&mediaState=idle
+Jul 14, 2018 03:08:56.435 [0x7ff5b189d800] DEBUG - Analyzing media parts for item 4851 (The Girl Who Leapt Through Time): 9464,9157
+Jul 14, 2018 03:08:56.435 [0x7ff5b189d800] DEBUG - [ID 9480] Media part analysis: /movies/The.Girl.Who.Leapt.Through.Time.(2006).[720pDual-Audio].-.THORA.E-D-Obfuscated.1/aeec76165e5100ea548ae6e980b9ca21e6b39e3f.mkv
+Jul 14, 2018 03:08:56.435 [0x7ff5b189d800] DEBUG - [MI] Opening input file: "/movies/The.Girl.Who.Leapt.Through.Time.(2006).[720pDual-Audio].-.THORA.E-D-Obfuscated.1/aeec76165e5100ea548ae6e980b9ca21e6b39e3f.mkv"
+Jul 14, 2018 03:08:56.435 [0x7ff5b189d800] DEBUG - [FFMPEG] - Opening '/movies/The.Girl.Who.Leapt.Through.Time.(2006).[720pDual-Audio].-.THORA.E-D-Obfuscated.1/aeec76165e5100ea548ae6e980b9ca21e6b39e3f.mkv' for reading
+Jul 14, 2018 03:08:56.435 [0x7ff5b189d800] DEBUG - [FFMPEG] - Setting default whitelist 'file,crypto'
+Jul 14, 2018 03:08:56.483 [0x7ff5b189d800] DEBUG - [FFMPEG] - Format matroska,webm probed with size=2048 and score=100
+Jul 14, 2018 03:08:56.535 [0x7ff5b189d800] DEBUG - [FFMPEG] - st:0 removing common factor 1000000 from timebase
+Jul 14, 2018 03:08:56.535 [0x7ff5b189d800] DEBUG - [FFMPEG] - st:1 removing common factor 1000000 from timebase
+Jul 14, 2018 03:08:56.535 [0x7ff5b189d800] DEBUG - [FFMPEG] - st:2 removing common factor 1000000 from timebase
+Jul 14, 2018 03:08:56.535 [0x7ff5b189d800] DEBUG - [FFMPEG] - st:3 removing common factor 1000000 from timebase
+Jul 14, 2018 03:08:56.536 [0x7ff5b189d800] DEBUG - [FFMPEG] - Before avformat_find_stream_info() pos: 925303 bytes read:941815 seeks:0 nb_streams:9
+Jul 14, 2018 03:08:56.537 [0x7ff5b189d800] DEBUG - [FFMPEG] - nal_unit_type: 7, nal_ref_idc: 3
+Jul 14, 2018 03:08:56.537 [0x7ff5b189d800] DEBUG - [FFMPEG] - nal_unit_type: 8, nal_ref_idc: 3
+Jul 14, 2018 03:08:56.538 [0x7ff5b189d800] DEBUG - [FFMPEG] - nal_unit_type: 7, nal_ref_idc: 3
+Jul 14, 2018 03:08:56.538 [0x7ff5b189d800] DEBUG - [FFMPEG] - nal_unit_type: 8, nal_ref_idc: 3
+Jul 14, 2018 03:08:56.539 [0x7ff5b189d800] DEBUG - [FFMPEG] - nal_unit_type: 6, nal_ref_idc: 0
+Jul 14, 2018 03:08:56.539 [0x7ff5b189d800] DEBUG - [FFMPEG] - nal_unit_type: 5, nal_ref_idc: 3
+Jul 14, 2018 03:08:56.539 [0x7ff5b189d800] DEBUG - [FFMPEG] - Format yuv420p chosen by get_format().
+Jul 14, 2018 03:08:56.540 [0x7ff5b189d800] DEBUG - [FFMPEG] - no picture 
+Jul 14, 2018 03:08:56.542 [0x7ff5b189d800] DEBUG - [FFMPEG] - nal_unit_type: 1, nal_ref_idc: 2
+Jul 14, 2018 03:08:56.543 [0x7ff5b189d800] DEBUG - [FFMPEG] - no picture 
+Jul 14, 2018 03:08:56.543 [0x7ff5b189d800] DEBUG - [FFMPEG] - nal_unit_type: 1, nal_ref_idc: 2
+Jul 14, 2018 03:08:56.545 [0x7ff5b189d800] DEBUG - [FFMPEG] - nal_unit_type: 1, nal_ref_idc: 2
+Jul 14, 2018 03:08:56.546 [0x7ff5b189d800] DEBUG - [FFMPEG] - nal_unit_type: 1, nal_ref_idc: 0
+Jul 14, 2018 03:08:56.549 [0x7ff5b189d800] DEBUG - [FFMPEG] - nal_unit_type: 1, nal_ref_idc: 0
+Jul 14, 2018 03:08:56.551 [0x7ff5b189d800] DEBUG - [FFMPEG] - nal_unit_type: 1, nal_ref_idc: 0
+Jul 14, 2018 03:08:56.552 [0x7ff5b189d800] DEBUG - [FFMPEG] - nal_unit_type: 1, nal_ref_idc: 0
+Jul 14, 2018 03:08:56.553 [0x7ff5b189d800] DEBUG - [FFMPEG] - nal_unit_type: 1, nal_ref_idc: 0
+Jul 14, 2018 03:08:56.554 [0x7ff5b189d800] DEBUG - [FFMPEG] - All info found
+Jul 14, 2018 03:08:56.554 [0x7ff5b189d800] DEBUG - [FFMPEG] - After avformat_find_stream_info() pos: 1213739 bytes read:1236727 seeks:0 frames:58
+Jul 14, 2018 03:08:56.554 [0x7ff5b189d800] DEBUG - [MI]  * e18614f49990493a4252286e93fbe997395e449e [mkv h264/ac3] Duration: 5947840ms, 1280x720 (1.777778) 23.976fps, bitrate=2979kbps, audio channels=6, optimizedForStreaming=0 (/movies/The.Girl.Who.Leapt.Through.Time.(2006).[720pDual-Audio].-.THORA.E-D-Obfuscated.1/aeec76165e5100ea548ae6e980b9ca21e6b39e3f.mkv)
+Jul 14, 2018 03:08:56.555 [0x7ff5b189d800] DEBUG - [MI] Chapters had generic titles, clearing.
+Jul 14, 2018 03:08:56.555 [0x7ff5b189d800] DEBUG - [MI] Closing input file: /movies/The.Girl.Who.Leapt.Through.Time.(2006).[720pDual-Audio].-.THORA.E-D-Obfuscated.1/aeec76165e5100ea548ae6e980b9ca21e6b39e3f.mkv
+Jul 14, 2018 03:08:56.556 [0x7ff5b189d800] DEBUG - [FFMPEG] - Statistics: 1236727 bytes read, 0 seeks
+Jul 14, 2018 03:08:56.560 [0x7ff5b189d800] DEBUG - Committing media stream changes for part 9480
+Jul 14, 2018 03:08:56.563 [0x7ff5b189d800] DEBUG - Updating media item 9464, size=2215514223, metadata_item_id=4851
+Jul 14, 2018 03:08:56.564 [0x7ff5b189d800] DEBUG - Updating part with ID=9480 [/movies/The.Girl.Who.Leapt.Through.Time.(2006).[720pDual-Audio].-.THORA.E-D-Obfuscated.1/aeec76165e5100ea548ae6e980b9ca21e6b39e3f.mkv]
+Jul 14, 2018 03:08:56.568 [0x7ff5b189d800] DEBUG - [ID 9165] Media part analysis: /movies/The Girl Who Leapt Through Time/[NoobSubs] The Girl Who Leapt Through Time (720p Blu-ray eng dub 8bit AAC).mp4
+Jul 14, 2018 03:08:56.568 [0x7ff5a2bff700] DEBUG - HTTP requesting GET http://127.0.0.1:32400/:/metadata/notify/changeItemState?librarySectionID=1&metadataItemID=4851&metadataType=1&state=-1&mediaState=analyzing
+Jul 14, 2018 03:08:56.568 [0x7ff5b189d800] DEBUG - [MI] Opening input file: "/movies/The Girl Who Leapt Through Time/[NoobSubs] The Girl Who Leapt Through Time (720p Blu-ray eng dub 8bit AAC).mp4"
+Jul 14, 2018 03:08:56.568 [0x7ff5b189d800] DEBUG - [FFMPEG] - Opening '/movies/The Girl Who Leapt Through Time/[NoobSubs] The Girl Who Leapt Through Time (720p Blu-ray eng dub 8bit AAC).mp4' for reading
+Jul 14, 2018 03:08:56.568 [0x7ff5b189d800] DEBUG - [FFMPEG] - Setting default whitelist 'file,crypto'
+Jul 14, 2018 03:08:56.569 [0x7ff5a2bff700] DEBUG - HTTP 200 response from GET http://127.0.0.1:32400/:/metadata/notify/changeItemState?librarySectionID=1&metadataItemID=4851&metadataType=1&state=-1&mediaState=analyzing
+Jul 14, 2018 03:08:56.569 [0x7ff5a2bff700] DEBUG - HTTP requesting GET http://127.0.0.1:32400/:/metadata/notify/changeItemState?librarySectionID=1&metadataItemID=4851&metadataType=1&state=-1&mediaState=thumbnailing
+Jul 14, 2018 03:08:56.570 [0x7ff5a2bff700] DEBUG - HTTP 200 response from GET http://127.0.0.1:32400/:/metadata/notify/changeItemState?librarySectionID=1&metadataItemID=4851&metadataType=1&state=-1&mediaState=thumbnailing
+Jul 14, 2018 03:08:56.570 [0x7ff5a2bff700] DEBUG - HTTP requesting GET http://127.0.0.1:32400/:/metadata/notify/changeItemState?librarySectionID=1&metadataItemID=4851&metadataType=1&state=-1&mediaState=idle
+Jul 14, 2018 03:08:56.571 [0x7ff5a2bff700] DEBUG - HTTP 200 response from GET http://127.0.0.1:32400/:/metadata/notify/changeItemState?librarySectionID=1&metadataItemID=4851&metadataType=1&state=-1&mediaState=idle
+Jul 14, 2018 03:08:56.617 [0x7ff5b189d800] DEBUG - [FFMPEG] - Format mov,mp4,m4a,3gp,3g2,mj2 probed with size=2048 and score=100
+Jul 14, 2018 03:08:56.617 [0x7ff5b189d800] DEBUG - [FFMPEG] - ISO: File Type Major Brand: isom
+Jul 14, 2018 03:08:56.617 [0x7ff5b189d800] DEBUG - [FFMPEG] - Unknown dref type 0x206c7275 size 12
+Jul 14, 2018 03:08:56.642 [0x7ff5b189d800] DEBUG - [FFMPEG] - Processing st: 0, edit list 0 - media time: 2002, duration: 141584440
+Jul 14, 2018 03:08:56.650 [0x7ff5b189d800] DEBUG - [FFMPEG] - Offset DTS by 2002 to make first pts zero.
+Jul 14, 2018 03:08:56.669 [0x7ff5b189d800] DEBUG - [FFMPEG] - Setting codecpar->delay to 2 for stream st: 0
+Jul 14, 2018 03:08:56.669 [0x7ff5b189d800] DEBUG - [FFMPEG] - Unknown dref type 0x206c7275 size 12
+Jul 14, 2018 03:08:56.680 [0x7ff5b189d800] DEBUG - [FFMPEG] - Before avformat_find_stream_info() pos: 2778932 bytes read:2788589 seeks:0 nb_streams:2
+Jul 14, 2018 03:08:56.680 [0x7ff5b189d800] DEBUG - [FFMPEG] - nal_unit_type: 7, nal_ref_idc: 3
+Jul 14, 2018 03:08:56.680 [0x7ff5b189d800] DEBUG - [FFMPEG] - nal_unit_type: 8, nal_ref_idc: 3
+Jul 14, 2018 03:08:56.680 [0x7ff5b189d800] DEBUG - [FFMPEG] - nal_unit_type: 6, nal_ref_idc: 0
+Jul 14, 2018 03:08:56.680 [0x7ff5b189d800] DEBUG - [FFMPEG] - nal_unit_type: 5, nal_ref_idc: 3
+Jul 14, 2018 03:08:56.680 [0x7ff5b189d800] DEBUG - [FFMPEG] - Format yuv420p chosen by get_format().
+Jul 14, 2018 03:08:56.681 [0x7ff5b189d800] DEBUG - [FFMPEG] - no picture 
+Jul 14, 2018 03:08:56.683 [0x7ff5b189d800] DEBUG - [FFMPEG] - nal_unit_type: 1, nal_ref_idc: 2
+Jul 14, 2018 03:08:56.684 [0x7ff5b189d800] DEBUG - [FFMPEG] - no picture 
+Jul 14, 2018 03:08:56.684 [0x7ff5b189d800] DEBUG - [FFMPEG] - nal_unit_type: 1, nal_ref_idc: 2
+Jul 14, 2018 03:08:56.686 [0x7ff5b189d800] DEBUG - [FFMPEG] - nal_unit_type: 1, nal_ref_idc: 2
+Jul 14, 2018 03:08:56.688 [0x7ff5b189d800] DEBUG - [FFMPEG] - nal_unit_type: 1, nal_ref_idc: 0
+Jul 14, 2018 03:08:56.690 [0x7ff5b189d800] DEBUG - [FFMPEG] - nal_unit_type: 1, nal_ref_idc: 0
+Jul 14, 2018 03:08:56.692 [0x7ff5b189d800] DEBUG - [FFMPEG] - nal_unit_type: 1, nal_ref_idc: 0
+Jul 14, 2018 03:08:56.693 [0x7ff5b189d800] DEBUG - [FFMPEG] - nal_unit_type: 1, nal_ref_idc: 2
+Jul 14, 2018 03:08:56.693 [0x7ff5b189d800] DEBUG - [FFMPEG] - nal_unit_type: 1, nal_ref_idc: 2
+Jul 14, 2018 03:08:56.695 [0x7ff5b189d800] DEBUG - [FFMPEG] - All info found
+Jul 14, 2018 03:08:56.695 [0x7ff5b189d800] DEBUG - [FFMPEG] - After avformat_find_stream_info() pos: 2780763 bytes read:2788589 seeks:0 frames:13
+Jul 14, 2018 03:08:56.695 [0x7ff5b189d800] DEBUG - [MI] Opening /movies/The Girl Who Leapt Through Time/[NoobSubs] The Girl Who Leapt Through Time (720p Blu-ray eng dub 8bit AAC).mp4 for MP4 atom parsing
+Jul 14, 2018 03:08:56.696 [0x7ff5b189d800] DEBUG - Mp4AtomParser: Skipping ftyp atom of size 24 at offset 0
+Jul 14, 2018 03:08:56.696 [0x7ff5b189d800] DEBUG - Mp4AtomParser: Found moov atom of size 2775016 at offset 24
+Jul 14, 2018 03:08:56.697 [0x7ff5b189d800] DEBUG - Mp4AtomParser: Found trak atom of size 1467080 at offset 164
+Jul 14, 2018 03:08:56.697 [0x7ff5b189d800] DEBUG - Mp4AtomParser: Found trak atom of size 1307129 at offset 1467244
+Jul 14, 2018 03:08:56.697 [0x7ff5b189d800] DEBUG - Mp4AtomParser: Found mdia atom of size 1466944 at offset 300
+Jul 14, 2018 03:08:56.697 [0x7ff5b189d800] DEBUG - Mp4AtomParser: Found minf atom of size 1466849 at offset 395
+Jul 14, 2018 03:08:56.697 [0x7ff5b189d800] DEBUG - Mp4AtomParser: Found stbl atom of size 1466785 at offset 459
+Jul 14, 2018 03:08:56.697 [0x7ff5b189d800] DEBUG - Mp4AtomParser: Found mdia atom of size 1307029 at offset 1467344
+Jul 14, 2018 03:08:56.697 [0x7ff5b189d800] DEBUG - Mp4AtomParser: Found minf atom of size 1306934 at offset 1467439
+Jul 14, 2018 03:08:56.697 [0x7ff5b189d800] DEBUG - Mp4AtomParser: Found stbl atom of size 1306874 at offset 1467499
+Jul 14, 2018 03:08:56.697 [0x7ff5b189d800] DEBUG - [MI]  * 3ef9de4a1debbff1bfbc966b6635be9e83bf0dda [mp4 h264/aac] Duration: 5899352ms, 1244x696 (1.787356) 23.976fps, bitrate=1484kbps, audio channels=2, optimizedForStreaming=1 (/movies/The Girl Who Leapt Through Time/[NoobSubs] The Girl Who Leapt Through Time (720p Blu-ray eng dub 8bit AAC).mp4)
+Jul 14, 2018 03:08:56.698 [0x7ff5b189d800] DEBUG - [MI] Chapters had generic titles, clearing.
+Jul 14, 2018 03:08:56.698 [0x7ff5b189d800] DEBUG - [MI] Closing input file: /movies/The Girl Who Leapt Through Time/[NoobSubs] The Girl Who Leapt Through Time (720p Blu-ray eng dub 8bit AAC).mp4
+Jul 14, 2018 03:08:56.699 [0x7ff5b189d800] DEBUG - [FFMPEG] - Statistics: 2788589 bytes read, 0 seeks
+Jul 14, 2018 03:08:56.701 [0x7ff5b189d800] DEBUG - Updating media item 9157, size=1094512261, metadata_item_id=4851
+Jul 14, 2018 03:08:56.701 [0x7ff5b189d800] DEBUG - Updating part with ID=9165 [/movies/The Girl Who Leapt Through Time/[NoobSubs] The Girl Who Leapt Through Time (720p Blu-ray eng dub 8bit AAC).mp4]
+Jul 14, 2018 03:08:56.705 [0x7ff5a2bff700] DEBUG - HTTP requesting GET http://127.0.0.1:32400/:/metadata/notify/changeItemState?librarySectionID=1&metadataItemID=4851&metadataType=1&state=-1&mediaState=analyzing
+Jul 14, 2018 03:08:56.706 [0x7ff5a2bff700] DEBUG - HTTP 200 response from GET http://127.0.0.1:32400/:/metadata/notify/changeItemState?librarySectionID=1&metadataItemID=4851&metadataType=1&state=-1&mediaState=analyzing
+Jul 14, 2018 03:08:56.706 [0x7ff5a2bff700] DEBUG - HTTP requesting GET http://127.0.0.1:32400/:/metadata/notify/changeItemState?librarySectionID=1&metadataItemID=4851&metadataType=1&state=-1&mediaState=thumbnailing
+Jul 14, 2018 03:08:56.708 [0x7ff5a2bff700] DEBUG - HTTP 200 response from GET http://127.0.0.1:32400/:/metadata/notify/changeItemState?librarySectionID=1&metadataItemID=4851&metadataType=1&state=-1&mediaState=thumbnailing
+Jul 14, 2018 03:08:56.708 [0x7ff5a2bff700] DEBUG - HTTP requesting GET http://127.0.0.1:32400/:/metadata/notify/changeItemState?librarySectionID=1&metadataItemID=4851&metadataType=1&state=-1&mediaState=idle
+Jul 14, 2018 03:08:56.709 [0x7ff5a2bff700] DEBUG - HTTP 200 response from GET http://127.0.0.1:32400/:/metadata/notify/changeItemState?librarySectionID=1&metadataItemID=4851&metadataType=1&state=-1&mediaState=idle
+Jul 14, 2018 03:08:56.711 [0x7ff5b189d800] DEBUG - It took 10.000000 ms to retrieve 119 items.
+Jul 14, 2018 03:08:56.718 [0x7ff5b189d800] DEBUG - Analyzing media parts for item 4818 (The Birth of a Nation): 9084
+Jul 14, 2018 03:08:56.719 [0x7ff5b189d800] DEBUG - [ID 9092] Media part analysis: /movies/The.Birth.of.a.Nation.2016.720p.BluRay.x264.1-DRONES-Obfuscated/7507f9f2dba94b6e93dba002d71f781a.mkv
+Jul 14, 2018 03:08:56.719 [0x7ff5b189d800] DEBUG - [MI] Opening input file: "/movies/The.Birth.of.a.Nation.2016.720p.BluRay.x264.1-DRONES-Obfuscated/7507f9f2dba94b6e93dba002d71f781a.mkv"
+Jul 14, 2018 03:08:56.719 [0x7ff5b189d800] DEBUG - [FFMPEG] - Opening '/movies/The.Birth.of.a.Nation.2016.720p.BluRay.x264.1-DRONES-Obfuscated/7507f9f2dba94b6e93dba002d71f781a.mkv' for reading
+Jul 14, 2018 03:08:56.720 [0x7ff5b189d800] DEBUG - [FFMPEG] - Setting default whitelist 'file,crypto'
+Jul 14, 2018 03:08:56.771 [0x7ff5b189d800] DEBUG - [FFMPEG] - Format matroska,webm probed with size=2048 and score=100
+Jul 14, 2018 03:08:56.771 [0x7ff5b189d800] DEBUG - [FFMPEG] - st:0 removing common factor 1000000 from timebase
+Jul 14, 2018 03:08:56.771 [0x7ff5b189d800] DEBUG - [FFMPEG] - st:1 removing common factor 1000000 from timebase
+Jul 14, 2018 03:08:56.771 [0x7ff5b189d800] DEBUG - [FFMPEG] - st:2 removing common factor 1000000 from timebase
+Jul 14, 2018 03:08:56.771 [0x7ff5b189d800] DEBUG - [FFMPEG] - Before avformat_find_stream_info() pos: 2622 bytes read:32768 seeks:0 nb_streams:3
+Jul 14, 2018 03:08:56.771 [0x7ff5b189d800] DEBUG - [FFMPEG] - nal_unit_type: 7, nal_ref_idc: 3
+Jul 14, 2018 03:08:56.772 [0x7ff5b189d800] DEBUG - [FFMPEG] - nal_unit_type: 8, nal_ref_idc: 3
+Jul 14, 2018 03:08:56.773 [0x7ff5b189d800] DEBUG - [FFMPEG] - nal_unit_type: 7, nal_ref_idc: 3
+Jul 14, 2018 03:08:56.774 [0x7ff5b189d800] DEBUG - [FFMPEG] - nal_unit_type: 8, nal_ref_idc: 3
+Jul 14, 2018 03:08:56.774 [0x7ff5b189d800] DEBUG - [FFMPEG] - nal_unit_type: 6, nal_ref_idc: 0
+Jul 14, 2018 03:08:56.774 [0x7ff5b189d800] DEBUG - [FFMPEG] - nal_unit_type: 5, nal_ref_idc: 3
+Jul 14, 2018 03:08:56.774 [0x7ff5b189d800] DEBUG - [FFMPEG] - Format yuv420p chosen by get_format().
+Jul 14, 2018 03:08:56.775 [0x7ff5b189d800] DEBUG - [FFMPEG] - no picture 
+Jul 14, 2018 03:08:56.775 [0x7ff5b189d800] DEBUG - [FFMPEG] - nal_unit_type: 1, nal_ref_idc: 2
+Jul 14, 2018 03:08:56.776 [0x7ff5b189d800] DEBUG - [FFMPEG] - no picture 
+Jul 14, 2018 03:08:56.776 [0x7ff5b189d800] DEBUG - [FFMPEG] - nal_unit_type: 1, nal_ref_idc: 2
+Jul 14, 2018 03:08:56.778 [0x7ff5b189d800] DEBUG - [FFMPEG] - nal_unit_type: 1, nal_ref_idc: 0
+Jul 14, 2018 03:08:56.779 [0x7ff5b189d800] DEBUG - [FFMPEG] - nal_unit_type: 1, nal_ref_idc: 0
+Jul 14, 2018 03:08:56.781 [0x7ff5b189d800] DEBUG - [FFMPEG] - nal_unit_type: 1, nal_ref_idc: 2
+Jul 14, 2018 03:08:56.781 [0x7ff5b189d800] DEBUG - [FFMPEG] - nal_unit_type: 1, nal_ref_idc: 2
+Jul 14, 2018 03:08:56.782 [0x7ff5b189d800] DEBUG - [FFMPEG] - nal_unit_type: 1, nal_ref_idc: 0
+Jul 14, 2018 03:08:56.783 [0x7ff5b189d800] DEBUG - [FFMPEG] - nal_unit_type: 1, nal_ref_idc: 0
+Jul 14, 2018 03:08:56.784 [0x7ff5b189d800] DEBUG - [FFMPEG] - All info found
+Jul 14, 2018 03:08:56.784 [0x7ff5b189d800] DEBUG - [FFMPEG] - After avformat_find_stream_info() pos: 366841 bytes read:393216 seeks:0 frames:38
+Jul 14, 2018 03:08:56.784 [0x7ff5b189d800] DEBUG - [MI]  * 68c9d3372f493b6c9e833d64fc37c2274d5f2be8 [mkv h264/dca] Duration: 7193193ms, 1280x536 (2.388060) 23.976fps, bitrate=6528kbps, audio channels=6, optimizedForStreaming=0 (/movies/The.Birth.of.a.Nation.2016.720p.BluRay.x264.1-DRONES-Obfuscated/7507f9f2dba94b6e93dba002d71f781a.mkv)
+Jul 14, 2018 03:08:56.785 [0x7ff5b189d800] DEBUG - [MI] Importing 28 media chapters.
+Jul 14, 2018 03:08:56.785 [0x7ff5b189d800] DEBUG - [MI] Chapters had generic titles, clearing.
+Jul 14, 2018 03:08:56.786 [0x7ff5b189d800] DEBUG - Downloading document http://127.0.0.1:32400/library/changestamp
+Jul 14, 2018 03:08:56.786 [0x7ff5b189d800] DEBUG - HTTP requesting GET http://127.0.0.1:32400/library/changestamp
+Jul 14, 2018 03:08:56.787 [0x7ff5b189d800] DEBUG - HTTP 200 response from GET http://127.0.0.1:32400/library/changestamp
+Jul 14, 2018 03:08:56.788 [0x7ff5b189d800] DEBUG - Updating metadata item (save) (The Birth of a Nation) with ID 4818
+Jul 14, 2018 03:08:56.810 [0x7ff5b189d800] DEBUG - [MI] Closing input file: /movies/The.Birth.of.a.Nation.2016.720p.BluRay.x264.1-DRONES-Obfuscated/7507f9f2dba94b6e93dba002d71f781a.mkv
+Jul 14, 2018 03:08:56.811 [0x7ff5b189d800] DEBUG - [FFMPEG] - Statistics: 393216 bytes read, 0 seeks
+Jul 14, 2018 03:08:56.812 [0x7ff5b189d800] DEBUG - Committing media stream changes for part 9092
+Jul 14, 2018 03:08:56.815 [0x7ff5b189d800] DEBUG - Updating media item 9084, size=5870189780, metadata_item_id=4818
+Jul 14, 2018 03:08:56.815 [0x7ff5b189d800] DEBUG - Updating part with ID=9092 [/movies/The.Birth.of.a.Nation.2016.720p.BluRay.x264.1-DRONES-Obfuscated/7507f9f2dba94b6e93dba002d71f781a.mkv]
+Jul 14, 2018 03:08:56.820 [0x7ff5a2bff700] DEBUG - HTTP requesting GET http://127.0.0.1:32400/:/metadata/notify/changeItemState?librarySectionID=1&metadataItemID=4818&metadataType=1&state=-1&mediaState=analyzing
+Jul 14, 2018 03:08:56.821 [0x7ff5a2bff700] DEBUG - HTTP 200 response from GET http://127.0.0.1:32400/:/metadata/notify/changeItemState?librarySectionID=1&metadataItemID=4818&metadataType=1&state=-1&mediaState=analyzing
+Jul 14, 2018 03:08:56.821 [0x7ff5a2bff700] DEBUG - HTTP requesting GET http://127.0.0.1:32400/:/metadata/notify/changeItemState?librarySectionID=1&metadataItemID=4818&metadataType=1&state=-1&mediaState=thumbnailing
+Jul 14, 2018 03:08:56.822 [0x7ff5a2bff700] DEBUG - HTTP 200 response from GET http://127.0.0.1:32400/:/metadata/notify/changeItemState?librarySectionID=1&metadataItemID=4818&metadataType=1&state=-1&mediaState=thumbnailing
+Jul 14, 2018 03:08:56.822 [0x7ff5a2bff700] DEBUG - HTTP requesting GET http://127.0.0.1:32400/:/metadata/notify/changeItemState?librarySectionID=1&metadataItemID=4818&metadataType=1&state=-1&mediaState=idle
+Jul 14, 2018 03:08:56.823 [0x7ff5a2bff700] DEBUG - HTTP 200 response from GET http://127.0.0.1:32400/:/metadata/notify/changeItemState?librarySectionID=1&metadataItemID=4818&metadataType=1&state=-1&mediaState=idle

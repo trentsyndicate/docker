@@ -1,0 +1,409 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Movie>
+  <art>
+    <item external="True" url="http://image.tmdb.org/t/p/original/1UVnDeeiN6IoJqgCJDfa1XTzB4N.jpg" sort_order="1" provider="com.plexapp.agents.imdb" media="com.plexapp.agents.imdb_ba24c88669dcec03ceb54e580e0f9c2b65b6f759"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/2DjqTJbF40qnMOuTNiBiZyInxWq.jpg" preview="com.plexapp.agents.imdb_d6d56f5677824148eb88024bdd226aec5a2d7d57" sort_order="2" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/reqxca8kyBUd2FVBqEri0fLwsqY.jpg" preview="com.plexapp.agents.imdb_0a3afcf3879fafb72434182a9b1745a247ee3616" sort_order="3" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/lxB8i3xV4ZBLbYVhOaWBsrmPCkf.jpg" preview="com.plexapp.agents.imdb_493c54500ee8c53e96f5d18ea5ab06a6375039c3" sort_order="4" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/wJD1VaO6XMkOSAacUGLkzOKAd4D.jpg" preview="com.plexapp.agents.imdb_60a46f3d7c546828799f5d7faf7f46fdf858b28d" sort_order="5" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/a76qsrbzuY1QKGIMCJCH95Uh71N.jpg" preview="com.plexapp.agents.imdb_b7ef87d7d72a9ed83e993ba92f41aae13feaddfb" sort_order="6" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/a8IRBXc6nufz2VrRAw7n3sOsFJy.jpg" preview="com.plexapp.agents.imdb_ac88d825507de24d1de3e69caf0c093c7514477f" sort_order="7" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/nLyw8npzojNqffBzXCT3znEADNf.jpg" preview="com.plexapp.agents.imdb_315b339d96e94e436f80b33e2cec9f20abc45d79" sort_order="8" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/8GWSbYQkECX0rBt9cAZfcU5Y21W.jpg" preview="com.plexapp.agents.imdb_d5bbc0d37a196aefe54755cb3d38411db34fdd99" sort_order="9" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/1yOjMzw95itSbTSSoqnuRboRkfO.jpg" preview="com.plexapp.agents.imdb_f424da1bd0ae7692a76608fa32ca0000bc2818b7" sort_order="10" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/cCNX2LklLbwZgaSXXeLCt2QWbAz.jpg" preview="com.plexapp.agents.imdb_3bd22c0845b61feca4f0ed89f48156a7c42aeb15" sort_order="11" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/ngIGvwFgzsVWt1c0yYEqq9d89j6.jpg" preview="com.plexapp.agents.imdb_eca2be03e90d1d0982a10b1886413cbda0618843" sort_order="12" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/A8X3LcUfedsSlFntluNqhqfo2p2.jpg" preview="com.plexapp.agents.imdb_efde1d4f6ca4855a7e270f27b561026125d902b1" sort_order="13" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/mvimDLrMnYiTePaOOfIL4gDErpr.jpg" preview="com.plexapp.agents.imdb_6524b985e2e3427e54bc0a9f7fdc5d7ec6d22ad8" sort_order="14" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/52leB3KC9pSdPqxoMi613np08fL.jpg" preview="com.plexapp.agents.imdb_8b10578f8e60c44330d2faf734fde9cd71735db5" sort_order="15" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/rSE8ZybfMjAMsDd9lWYVCDJCyQc.jpg" preview="com.plexapp.agents.imdb_df708f476471e5b29df08fdd493e52560b9c7ca6" sort_order="16" provider="com.plexapp.agents.imdb"/>
+  </art>
+  <banners/>
+  <chapters>
+    <item index="0">
+      <title>Chapter 1</title>
+      <end_time_offset>482000</end_time_offset>
+      <start_time_offset>0</start_time_offset>
+    </item>
+    <item index="1">
+      <title>Chapter 2</title>
+      <end_time_offset>843000</end_time_offset>
+      <start_time_offset>482000</start_time_offset>
+    </item>
+    <item index="2">
+      <title>Chapter 3</title>
+      <end_time_offset>1268000</end_time_offset>
+      <start_time_offset>843000</start_time_offset>
+    </item>
+    <item index="3">
+      <title>Chapter 4</title>
+      <end_time_offset>1905000</end_time_offset>
+      <start_time_offset>1268000</start_time_offset>
+    </item>
+    <item index="4">
+      <title>Chapter 5</title>
+      <end_time_offset>2542000</end_time_offset>
+      <start_time_offset>1905000</start_time_offset>
+    </item>
+    <item index="5">
+      <title>Chapter 6</title>
+      <end_time_offset>3055000</end_time_offset>
+      <start_time_offset>2542000</start_time_offset>
+    </item>
+    <item index="6">
+      <title>Chapter 7</title>
+      <end_time_offset>3718000</end_time_offset>
+      <start_time_offset>3055000</start_time_offset>
+    </item>
+    <item index="7">
+      <title>Chapter 8</title>
+      <end_time_offset>4309000</end_time_offset>
+      <start_time_offset>3718000</start_time_offset>
+    </item>
+    <item index="8">
+      <title>Chapter 9</title>
+      <end_time_offset>5087000</end_time_offset>
+      <start_time_offset>4309000</start_time_offset>
+    </item>
+    <item index="9">
+      <title>Chapter 10</title>
+      <end_time_offset>5791000</end_time_offset>
+      <start_time_offset>5087000</start_time_offset>
+    </item>
+    <item index="10">
+      <title>Chapter 11</title>
+      <end_time_offset>6258000</end_time_offset>
+      <start_time_offset>5791000</start_time_offset>
+    </item>
+    <item index="11">
+      <title>Chapter 12</title>
+      <end_time_offset>6511000</end_time_offset>
+      <start_time_offset>6258000</start_time_offset>
+    </item>
+    <item index="12">
+      <title>Chapter 13</title>
+      <end_time_offset>7040000</end_time_offset>
+      <start_time_offset>6511000</start_time_offset>
+    </item>
+    <item index="13">
+      <title>Chapter 14</title>
+      <end_time_offset>7559000</end_time_offset>
+      <start_time_offset>7040000</start_time_offset>
+    </item>
+    <item index="14">
+      <title>Chapter 15</title>
+      <end_time_offset>8402000</end_time_offset>
+      <start_time_offset>7559000</start_time_offset>
+    </item>
+    <item index="15">
+      <title>Chapter 16</title>
+      <end_time_offset>-1</end_time_offset>
+      <start_time_offset>8402000</start_time_offset>
+    </item>
+  </chapters>
+  <collections/>
+  <content_rating>R</content_rating>
+  <countries>
+    <item index="0">Indonesia</item>
+  </countries>
+  <directors>
+    <item index="0">
+      <photo>http://image.tmdb.org/t/p/original/alW7ScKUxyiI2TOBYOZkACsLD7c.jpg</photo>
+      <role/>
+      <name>Gareth Evans</name>
+    </item>
+  </directors>
+  <duration>9000000</duration>
+  <genres>
+    <item index="0">Action</item>
+    <item index="1">Crime</item>
+    <item index="2">Thriller</item>
+  </genres>
+  <original_title>The Raid 2: Berandal</original_title>
+  <originally_available_at>2014-03-27</originally_available_at>
+  <posters>
+    <item external="True" url="http://image.tmdb.org/t/p/original/q3ihLHxBP2TmzejiRDaWbnfARgP.jpg" sort_order="1" provider="com.plexapp.agents.imdb" media="com.plexapp.agents.imdb_fc1753283b8e1da887dd7e3eec608c04a73e0de3"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/fVVU9hG6i6jeMv4HddeeTCAVzpF.jpg" preview="com.plexapp.agents.imdb_af35f238c4feca737a0905abc88817932c6b91b9" sort_order="2" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/egBhIDn9P9Pw3z0UFL3ylHikdzJ.jpg" preview="com.plexapp.agents.imdb_28172b86d3eddc97e41ac3b1e2785277cd2bad39" sort_order="3" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/5TI8uYVMSNuRD1g9SVjI883YcLT.jpg" preview="com.plexapp.agents.imdb_09e6439184556618008b16742cb4f31446e90a7c" sort_order="4" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/qnFFujwNy092ihlkuL7enEFczkG.jpg" preview="com.plexapp.agents.imdb_594e8ec3fd3a38bf43c5420650583ebfb98bd8c8" sort_order="5" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/kqG4fmaGagTEx5Z2UzPiTLKXOUW.jpg" preview="com.plexapp.agents.imdb_9762d4bc4c54928b002e9560518ca81f8f2af035" sort_order="6" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/3jTmVja1hRe6rT0akeJ0bJX6x2L.jpg" preview="com.plexapp.agents.imdb_3e09ed4d3dfc7db0a86e4689066399088fa94b5f" sort_order="7" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/p0UeekX4fP1WSbDYO3hfrc7p30t.jpg" preview="com.plexapp.agents.imdb_4553a7c75ea0f2da5610ca553a67c0c1ec1a924a" sort_order="8" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/fqjbMgh4Thn6x6Hxd5WITPum00p.jpg" preview="com.plexapp.agents.imdb_402cc8ebcd89e60a7ece2257c684c3b1332e0228" sort_order="9" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/toG5n5xmQRuaraK1GOwnAUsVS0R.jpg" preview="com.plexapp.agents.imdb_f779bbc884fa8a18c8f7aab72cc746d5e173d947" sort_order="10" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/52OYNcbjr1inEB9beLDXfshHDyI.jpg" preview="com.plexapp.agents.imdb_93eb7d152ecda8d3d8cdbbc2dc37ba61b02fad02" sort_order="11" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/7VQtJr6Tnmfo8JDLhveRO5piQCH.jpg" preview="com.plexapp.agents.imdb_65706bc162c9da50ca18d06bd6dca5973169ab55" sort_order="12" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/iyKOH0Jk3L2jYIVI5P7klK7IPqz.jpg" preview="com.plexapp.agents.imdb_b65cd06555769b3cf3ed68ddb10f39b943c064f9" sort_order="13" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/mp6CMZi8aPtlCOxAPycUwKP2Gzt.jpg" preview="com.plexapp.agents.imdb_6e0a5f1dac997c3f14639ce451a4494995fbcf5a" sort_order="14" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/z3rKPahzhKhxK3Sv0aMrbiQEy6c.jpg" preview="com.plexapp.agents.imdb_161e27c62db9a8063d01ab9338d142ee31ade040" sort_order="15" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/uBcu5YLBEYPIHva4M66ejcpSTun.jpg" preview="com.plexapp.agents.imdb_bbe9b232c26b1aef9a2fc40cfea2450f85dc907b" sort_order="16" provider="com.plexapp.agents.imdb"/>
+  </posters>
+  <producers>
+    <item index="0">
+      <photo/>
+      <role/>
+      <name>Nate Bolotin</name>
+    </item>
+    <item index="1">
+      <photo/>
+      <role/>
+      <name>Ario Sagantoro</name>
+    </item>
+    <item index="2">
+      <photo/>
+      <role/>
+      <name>Aram Tertzakian</name>
+    </item>
+  </producers>
+  <rating>8.0</rating>
+  <rating_image>rottentomatoes://image.rating.ripe</rating_image>
+  <audience_rating>8.7</audience_rating>
+  <audience_rating_image>rottentomatoes://image.rating.upright</audience_rating_image>
+  <reviews>
+    <item index="0">
+      <text>If The Raid 2: Berandal doesn't end up as the most violent movie to hit screens in 2014, it won't be for lack of trying.</text>
+      <source>Globe and Mail</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>http://www.theglobeandmail.com/arts/film/film-reviews/the-raid-2-too-much-of-a-good-thing/article17925241/</link>
+      <author>Adam Nayman</author>
+    </item>
+    <item index="1">
+      <text>Two and-a-half hours may seem like a lot for an Indonesian crime saga, but "The Raid 2" has a sweeping scope that justifies its running time. And it will knock you out.</text>
+      <source>Detroit News</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>http://www.detroitnews.com/article/20140411/ENT02/304110014</link>
+      <author>Adam Graham</author>
+    </item>
+    <item index="2">
+      <text>A brilliant, dazzling, and devastating 21/2-hour ballet of brutality that's more ordeal than entertainment ...</text>
+      <source>Philadelphia Inquirer</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>http://www.philly.com/philly/entertainment/movies/20140411_A_brilliant_ballet_of_brutality.html</link>
+      <author>Tirdad Derakhshani</author>
+    </item>
+    <item index="3">
+      <text>For those of us who believe the prime directive of action pictures is that such movies ought to, by gawd, move , Gareth Evans is our new patron saint.</text>
+      <source>Seattle Times</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>http://seattletimes.com/html/entertainment/2023349369_theraidtwoxml.html?syndication=rss</link>
+      <author>Soren Anderson</author>
+    </item>
+    <item index="4">
+      <text>At once messy and adrenalizing ...</text>
+      <source>Boston Globe</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>http://www.bostonglobe.com/arts/movies/2014/04/28/the-mayhem-continues-the-raid/oA1gykpLl3bLH4orDgu2iO/story.html</link>
+      <author>Tom Russo</author>
+    </item>
+    <item index="5">
+      <text>A very talented, very long piece of ultra-violence about a fleet-footed undercover cop who wreaks havoc on the criminal hierarchy of Jakarta.</text>
+      <source>Orange County Register</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>http://www.ocregister.com/articles/evans-609292-rama-raid.html</link>
+      <author>Michael Sragow</author>
+    </item>
+    <item index="6">
+      <text>By opening the action up to the entire city for the sequel, there's less claustrophobia but also less excitement.</text>
+      <source>Toronto Star</source>
+      <image>rottentomatoes://image.review.rotten</image>
+      <link>http://www.thestar.com/entertainment/movies/2014/04/10/the_raid_2_lands_between_a_rock_and_a_tight_place_review.html</link>
+      <author>Peter Howell</author>
+    </item>
+    <item index="7">
+      <text>The film never stints on kinetic, carefully choreographed mayhem, from a mud-drenched prison-yard riot to a next-level car chase that sets a new standard for automotive assault and battery.</text>
+      <source>Minneapolis Star Tribune</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>http://www.startribune.com/entertainment/movies/254771701.html</link>
+      <author>Colin Covert</author>
+    </item>
+    <item index="8">
+      <text>The plot is murky, the acting is melodramatic and the movie is way too long, but the target audience will salivate over the inventively choreographed set-pieces ...</text>
+      <source>St. Louis Post-Dispatch</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>http://www.stltoday.com/entertainment/movies/reviews/raid-is-mindless-martial-arts-mash-up/article_818f2401-a18a-5c12-904a-c7e21bf30967.html</link>
+      <author>Joe Williams</author>
+    </item>
+    <item index="9">
+      <text>This is an action junkie's fix and it literally pulls no punches.</text>
+      <source>ReelViews</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>http://www.reelviews.net/php_review_template.php?identifier=2749</link>
+      <author>James Berardinelli</author>
+    </item>
+    <item index="10">
+      <text>Make no mistake. If what you're after is insane, mind-bogglingly violent martial arts action, The Raid 2 is quite possibly the ultimate.</text>
+      <source>Chicago Sun-Times</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>http://www.suntimes.com/entertainment/movies/26556802-421/the-raid-2-more-plot-this-time-between-the-carnage.html</link>
+      <author>Bruce Ingram</author>
+    </item>
+    <item index="11">
+      <text>This is an absurdly violent film, but it's too in love with the physical genius of its actors to really feel sadistic.</text>
+      <source>Grantland</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>http://grantland.com/hollywood-prospectus/son-of-kickpuncher-the-visceral-bruising-pleasures-of-raid-2/</link>
+      <author>Alex Pappademas</author>
+    </item>
+    <item index="12">
+      <text>The story is convoluted without being profound, and although there are some strong secondary performances, Uwais is interesting only when in motion.</text>
+      <source>Washington Post</source>
+      <image>rottentomatoes://image.review.rotten</image>
+      <link>http://www.washingtonpost.com/goingoutguide/movies/the-raid-2-movie-review-a-splashy-if-convoluted-sequel/2014/04/02/73b80ba0-b4f2-11e3-b899-20667de76985_story.html</link>
+      <author>Mark Jenkins</author>
+    </item>
+    <item index="13">
+      <text>Crystal clear, vibrant and brutally violent.</text>
+      <source>San Francisco Chronicle</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>http://www.sfgate.com/movies/article/Movie-review-Raid-2-a-cracking-good-time-5373801.php</link>
+      <author>Peter Hartlaub</author>
+    </item>
+    <item index="14">
+      <text>All those looking for a new kick are advised to seek it out, but don't blame me for the headache with which you might leave the theater.</text>
+      <source>RogerEbert.com</source>
+      <image>rottentomatoes://image.review.rotten</image>
+      <link>http://www.rogerebert.com/reviews/the-raid-2-2014</link>
+      <author>Glenn Kenny</author>
+    </item>
+    <item index="15">
+      <text>As you might guess, this is not a film for everyone's taste. But for fans of the martial arts genre, Evans has created a scintillating, if sometimes imperfect, new chapter.</text>
+      <source>Los Angeles Times</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>http://www.latimes.com/entertainment/movies/moviesnow/la-et-mn-raid-2-review-20140328,0,3151393.story#axzz2x9j8drIZ</link>
+      <author>Betsy Sharkey</author>
+    </item>
+    <item index="16">
+      <text>Neither its undercover drama nor its two-and-a-half-hour length bog down the bracing, and numerous, fight fests.</text>
+      <source>New York Times</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>http://www.nytimes.com/2014/03/28/movies/in-the-raid-2-a-police-officer-goes-undercover.html?smid=tw-nytmovies&amp;seid=auto</link>
+      <author>Nicolas Rapold</author>
+    </item>
+    <item index="17">
+      <text>Just when you think the movie has gotten as wonderfully, violently over-the-top as possible, it manages to keep upping the ante until its exhausting climax. It leaves you drained, but not enervated.</text>
+      <source>TheWrap</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>http://www.thewrap.com/the-raid-2-review-iko-uwais-gareth-evans</link>
+      <author>Alonso Duralde</author>
+    </item>
+  </reviews>
+  <roles>
+    <item index="0">
+      <photo>http://image.tmdb.org/t/p/original/88pugc3eLWksrR4AcufCEnCsQ7J.jpg</photo>
+      <role>Rama</role>
+      <name>Iko Uwais</name>
+    </item>
+    <item index="1">
+      <photo>http://image.tmdb.org/t/p/original/271wW3kxeiQgnXiLAXs3QzfXsmd.jpg</photo>
+      <role>Ucok</role>
+      <name>Arifin Putra</name>
+    </item>
+    <item index="2">
+      <photo>http://image.tmdb.org/t/p/original/2BY3OgPWwbpGN7rQEXGlm1muqtQ.jpg</photo>
+      <role>Eka</role>
+      <name>Oka Antara</name>
+    </item>
+    <item index="3">
+      <photo>http://image.tmdb.org/t/p/original/uAbKPJPbXVg1pi1bAEEkaMxc0Br.jpg</photo>
+      <role>Bangun</role>
+      <name>Tio Pakusadewo</name>
+    </item>
+    <item index="4">
+      <photo>http://image.tmdb.org/t/p/original/uY4sA189EoVvanm1hmM0gUriDeV.jpg</photo>
+      <role>Bejo</role>
+      <name>Alex Abbad</name>
+    </item>
+    <item index="5">
+      <photo>http://image.tmdb.org/t/p/original/aifZwBDDgNNhBiz8UfzppwhX5Zf.jpg</photo>
+      <role>Hideaki Goto</role>
+      <name>Ken'ichi Endô</name>
+    </item>
+    <item index="6">
+      <photo>http://image.tmdb.org/t/p/original/9qXG4YMRXtAfQqzruqndQl0fFYU.jpg</photo>
+      <role>Bunawar</role>
+      <name>Cok Simbara</name>
+    </item>
+    <item index="7">
+      <photo>http://image.tmdb.org/t/p/original/n5V0iZrpuim3jUd9BH0e9vIuq5g.jpg</photo>
+      <role>The Assassin</role>
+      <name>Cecep Arif Rahman</name>
+    </item>
+    <item index="8">
+      <photo>http://image.tmdb.org/t/p/original/9dAk3fH8dfOCcEwFK6D2ijc3Uq1.jpg</photo>
+      <role>Hammer Girl</role>
+      <name>Julie Estelle</name>
+    </item>
+    <item index="9">
+      <photo>http://image.tmdb.org/t/p/original/1vLmPZWujBPIOKadDu4ZlaDQ6Rc.jpg</photo>
+      <role>Baseball Bat Man</role>
+      <name>Very Tri Yulisman</name>
+    </item>
+    <item index="10">
+      <photo>http://image.tmdb.org/t/p/original/zMi1FHbFNhvmiNO6tQmyZ6rKnbF.jpg</photo>
+      <role>Prakoso</role>
+      <name>Yayan Ruhian</name>
+    </item>
+    <item index="11">
+      <photo>http://image.tmdb.org/t/p/original/2DefK5vG0JquPJ1UdcckaPRcy96.jpg</photo>
+      <role>Ryuichi</role>
+      <name>Kazuki Kitamura</name>
+    </item>
+    <item index="12">
+      <photo>http://image.tmdb.org/t/p/original/h5LaFzOmcIufsD0i0nv12AG00Mo.jpg</photo>
+      <role>Keiichi</role>
+      <name>Ryuhei Matsuda</name>
+    </item>
+    <item index="13">
+      <photo>http://image.tmdb.org/t/p/original/r0nj2yPF760NEgj2tVT5TCY2HjG.jpg</photo>
+      <role>Andi</role>
+      <name>Donny Alamsyah</name>
+    </item>
+    <item index="14">
+      <photo>http://image.tmdb.org/t/p/original/2SmtBdoYo1B7Ap0tvaD5Bs5Tcph.jpg</photo>
+      <role>Reza</role>
+      <name>Roy Marten</name>
+    </item>
+    <item index="15">
+      <photo>http://image.tmdb.org/t/p/original/epfkHCgeWv4QErSoU6jMyTJKrPO.jpg</photo>
+      <role>Topan</role>
+      <name>Epy Kusnandar</name>
+    </item>
+  </roles>
+  <similar>
+    <item index="0">The Raid</item>
+    <item index="1">The Man from Nowhere</item>
+    <item index="2">13 Assassins</item>
+    <item index="3">Blue Ruin</item>
+    <item index="4">Hard Boiled</item>
+    <item index="5">I Saw the Devil</item>
+    <item index="6">Ong-Bak: The Thai Warrior</item>
+    <item index="7">The Protector</item>
+    <item index="8">Sabotage</item>
+    <item index="9">The Good, The Bad, The Weird</item>
+    <item index="10">The Guest</item>
+    <item index="11">Fearless</item>
+    <item index="12">Man of Tai Chi</item>
+    <item index="13">The Killer</item>
+    <item index="14">The Chaser</item>
+    <item index="15">Ip Man 2</item>
+    <item index="16">End of Watch</item>
+    <item index="17">Memories of Murder</item>
+    <item index="18">Dredd</item>
+    <item index="19">Attack the Block</item>
+  </similar>
+  <studio>Pt. Merantau Films</studio>
+  <summary>After fighting his way through an apartment building populated by an army of dangerous criminals and escaping with his life, SWAT team member Rama goes undercover, joining a powerful Indonesian crime syndicate to protect his family and uncover corrupt members of his own force.</summary>
+  <tagline>It's Not Over Yet</tagline>
+  <tags/>
+  <themes/>
+  <title>The Raid 2</title>
+  <writers>
+    <item index="0">
+      <photo>http://image.tmdb.org/t/p/original/alW7ScKUxyiI2TOBYOZkACsLD7c.jpg</photo>
+      <role/>
+      <name>Gareth Evans</name>
+    </item>
+  </writers>
+  <year>2014</year>
+</Movie>

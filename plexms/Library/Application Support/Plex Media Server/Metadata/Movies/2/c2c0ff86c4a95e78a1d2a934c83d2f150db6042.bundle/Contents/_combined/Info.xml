@@ -1,0 +1,893 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Movie>
+  <art>
+    <item external="True" url="http://image.tmdb.org/t/p/original/hiclOcGxgP00KdMbEbA9qDywrDK.jpg" sort_order="1" provider="com.plexapp.agents.imdb" media="com.plexapp.agents.imdb_662b25f4db9835e435f313cd9b288711ac3a1fa9"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/605jSKYgscbyiswp8kMBolyAhLZ.jpg" preview="com.plexapp.agents.imdb_925b4288007509239719e159100312051475abf8" sort_order="2" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/l4BuWj6RT9fG1idYkj6kTNtP50E.jpg" preview="com.plexapp.agents.imdb_51e1fbf6d7e93415edc0b574fb1d54a6de2b9fa1" sort_order="3" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/ztaZM5ZcMbjDNaLhYBKBPSYXorZ.jpg" preview="com.plexapp.agents.imdb_57194c4e4fef63d744225a989039cacdf2166e9c" sort_order="4" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/bAnSiGKtk6sgOYZEDQqP8g6dAzC.jpg" preview="com.plexapp.agents.imdb_cda1a506a1ec9727e8e494c0d596ce3de06d6fad" sort_order="5" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/aE90kAyCHjq1fnMfgbr1r1plBvc.jpg" preview="com.plexapp.agents.imdb_59dcf89e4e727c594a2fce6d737a917c85647ca3" sort_order="6" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/nVXCLK3nkBig8RulwLyrGVxu8wR.jpg" preview="com.plexapp.agents.imdb_c6d2c65aba52ddd796ae445d6299fc10bb991a1e" sort_order="7" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/nS0rEXPbkHI449SF6R4WUQvTVxE.jpg" preview="com.plexapp.agents.imdb_0df2f6d0b28ef4027277963fca9ba312552d655d" sort_order="8" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/afbe7fSqvhWykPdlby1R3ZdV5eL.jpg" preview="com.plexapp.agents.imdb_0b0b464d72d86dc9d06ace8c9ac8354a80883e9c" sort_order="9" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/iR5VBbA6fQW0wCXDtI3gZ2FMy2g.jpg" preview="com.plexapp.agents.imdb_6772c8f8440236786d5eaa3a9202fcec52c6e556" sort_order="10" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/10ulCe05NW8WPUc5kYauv6ZNTZW.jpg" preview="com.plexapp.agents.imdb_c9a4c9430c4595f8e8e42ebae1cbcc9b996b643a" sort_order="11" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/yCkGCiooRfOPWEGayBVjLyPyZ4x.jpg" preview="com.plexapp.agents.imdb_c85812f2ef1e345cb618396203638161317f0914" sort_order="12" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/qdAffa9hPSw5eVgKP3AFDuuP9g6.jpg" preview="com.plexapp.agents.imdb_96310648a3edb5adb782bd0886b475b11d25f1f1" sort_order="13" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/qgkkNAcpGV57uCCF4VX9MEhfSvc.jpg" preview="com.plexapp.agents.imdb_c900a1c53c33e869170cd10f4591957be6621539" sort_order="14" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/9qmoKkoyYBLoFGmCYh9b92CgIQB.jpg" preview="com.plexapp.agents.imdb_9355a1d3386e6c1280204826a729964a7eb7275a" sort_order="15" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/7Dgiowi1nepjblUyqHefRzOBX8R.jpg" preview="com.plexapp.agents.imdb_a409d42ada2f7c358e45c56e8690aff6edd03274" sort_order="16" provider="com.plexapp.agents.imdb"/>
+  </art>
+  <banners/>
+  <chapters>
+    <item index="0">
+      <title>Intergalactic Credits</title>
+      <end_time_offset>318000</end_time_offset>
+      <start_time_offset>0</start_time_offset>
+    </item>
+    <item index="1">
+      <title>Verdict on Krypton</title>
+      <end_time_offset>578000</end_time_offset>
+      <start_time_offset>318000</start_time_offset>
+    </item>
+    <item index="2">
+      <title>The Phantom Zone</title>
+      <end_time_offset>678000</end_time_offset>
+      <start_time_offset>578000</start_time_offset>
+    </item>
+    <item index="3">
+      <title>Jor-El's Warning</title>
+      <end_time_offset>877000</end_time_offset>
+      <start_time_offset>678000</start_time_offset>
+    </item>
+    <item index="4">
+      <title>A Father's Farewell</title>
+      <end_time_offset>1148000</end_time_offset>
+      <start_time_offset>877000</start_time_offset>
+    </item>
+    <item index="5">
+      <title>Blastoff to Safety</title>
+      <end_time_offset>1292000</end_time_offset>
+      <start_time_offset>1148000</start_time_offset>
+    </item>
+    <item index="6">
+      <title>Krypton's End</title>
+      <end_time_offset>1370000</end_time_offset>
+      <start_time_offset>1292000</start_time_offset>
+    </item>
+    <item index="7">
+      <title>Education En Route</title>
+      <end_time_offset>1489000</end_time_offset>
+      <start_time_offset>1370000</start_time_offset>
+    </item>
+    <item index="8">
+      <title>Help with a Flat</title>
+      <end_time_offset>1664000</end_time_offset>
+      <start_time_offset>1489000</start_time_offset>
+    </item>
+    <item index="9">
+      <title>Unbelievable Lois</title>
+      <end_time_offset>1854000</end_time_offset>
+      <start_time_offset>1664000</start_time_offset>
+    </item>
+    <item index="10">
+      <title>Another Father's Farewell</title>
+      <end_time_offset>2150000</end_time_offset>
+      <start_time_offset>1854000</start_time_offset>
+    </item>
+    <item index="11">
+      <title>Time to Leave</title>
+      <end_time_offset>2485000</end_time_offset>
+      <start_time_offset>2150000</start_time_offset>
+    </item>
+    <item index="12">
+      <title>Fortress of Solitude</title>
+      <end_time_offset>2700000</end_time_offset>
+      <start_time_offset>2485000</start_time_offset>
+    </item>
+    <item index="13">
+      <title>Twelve Years of Tutelage</title>
+      <end_time_offset>3019000</end_time_offset>
+      <start_time_offset>2700000</start_time_offset>
+    </item>
+    <item index="14">
+      <title>The Daily Planet</title>
+      <end_time_offset>3292000</end_time_offset>
+      <start_time_offset>3019000</start_time_offset>
+    </item>
+    <item index="15">
+      <title>Faster Than a Bullet</title>
+      <end_time_offset>3486000</end_time_offset>
+      <start_time_offset>3292000</start_time_offset>
+    </item>
+    <item index="16">
+      <title>Dead-End Trail</title>
+      <end_time_offset>3758000</end_time_offset>
+      <start_time_offset>3486000</start_time_offset>
+    </item>
+    <item index="17">
+      <title>Luthor's Lair</title>
+      <end_time_offset>3924000</end_time_offset>
+      <start_time_offset>3758000</start_time_offset>
+    </item>
+    <item index="18">
+      <title>It's Not a Date</title>
+      <end_time_offset>4051000</end_time_offset>
+      <start_time_offset>3924000</start_time_offset>
+    </item>
+    <item index="19">
+      <title>Helicopter Emergency</title>
+      <end_time_offset>4239000</end_time_offset>
+      <start_time_offset>4051000</start_time_offset>
+    </item>
+    <item index="20">
+      <title>"Who's Got You?!?"</title>
+      <end_time_offset>4403000</end_time_offset>
+      <start_time_offset>4239000</start_time_offset>
+    </item>
+    <item index="21">
+      <title>Crooks to Cats</title>
+      <end_time_offset>4693000</end_time_offset>
+      <start_time_offset>4403000</start_time_offset>
+    </item>
+    <item index="22">
+      <title>Air Force One</title>
+      <end_time_offset>4793000</end_time_offset>
+      <start_time_offset>4693000</start_time_offset>
+    </item>
+    <item index="23">
+      <title>Fatherly Advice</title>
+      <end_time_offset>4934000</end_time_offset>
+      <start_time_offset>4793000</start_time_offset>
+    </item>
+    <item index="24">
+      <title>Story of the Century</title>
+      <end_time_offset>5151000</end_time_offset>
+      <start_time_offset>4934000</start_time_offset>
+    </item>
+    <item index="25">
+      <title>Vital Statistics</title>
+      <end_time_offset>5447000</end_time_offset>
+      <start_time_offset>5151000</start_time_offset>
+    </item>
+    <item index="26">
+      <title>Test Flight</title>
+      <end_time_offset>5630000</end_time_offset>
+      <start_time_offset>5447000</start_time_offset>
+    </item>
+    <item index="27">
+      <title>Can You Read My Mind?</title>
+      <end_time_offset>5839000</end_time_offset>
+      <start_time_offset>5630000</start_time_offset>
+    </item>
+    <item index="28">
+      <title>That's Clark, Nice"</title>
+      <end_time_offset>5970000</end_time_offset>
+      <start_time_offset>5839000</start_time_offset>
+    </item>
+    <item index="29">
+      <title>Deducing His Weakness</title>
+      <end_time_offset>6189000</end_time_offset>
+      <start_time_offset>5970000</start_time_offset>
+    </item>
+    <item index="30">
+      <title>Diversionary Tactic #1</title>
+      <end_time_offset>6394000</end_time_offset>
+      <start_time_offset>6189000</start_time_offset>
+    </item>
+    <item index="31">
+      <title>Diversionary Tactic #2</title>
+      <end_time_offset>6476000</end_time_offset>
+      <start_time_offset>6394000</start_time_offset>
+    </item>
+    <item index="32">
+      <title>Luthor's Challenge</title>
+      <end_time_offset>6713000</end_time_offset>
+      <start_time_offset>6476000</start_time_offset>
+    </item>
+    <item index="33">
+      <title>The Gauntlet</title>
+      <end_time_offset>6888000</end_time_offset>
+      <start_time_offset>6713000</start_time_offset>
+    </item>
+    <item index="34">
+      <title>Luthor's Land Grab</title>
+      <end_time_offset>7101000</end_time_offset>
+      <start_time_offset>6888000</start_time_offset>
+    </item>
+    <item index="35">
+      <title>Kryptonite Necklace</title>
+      <end_time_offset>7344000</end_time_offset>
+      <start_time_offset>7101000</start_time_offset>
+    </item>
+    <item index="36">
+      <title>Unlikely Rescuer</title>
+      <end_time_offset>7536000</end_time_offset>
+      <start_time_offset>7344000</start_time_offset>
+    </item>
+    <item index="37">
+      <title>Disasters Galore</title>
+      <end_time_offset>7795000</end_time_offset>
+      <start_time_offset>7536000</start_time_offset>
+    </item>
+    <item index="38">
+      <title>Rescues Galore</title>
+      <end_time_offset>7941000</end_time_offset>
+      <start_time_offset>7795000</start_time_offset>
+    </item>
+    <item index="39">
+      <title>Damming the Dam</title>
+      <end_time_offset>8127000</end_time_offset>
+      <start_time_offset>7941000</start_time_offset>
+    </item>
+    <item index="40">
+      <title>Too Late for Lois</title>
+      <end_time_offset>8326000</end_time_offset>
+      <start_time_offset>8127000</start_time_offset>
+    </item>
+    <item index="41">
+      <title>As the World (Re)Turns</title>
+      <end_time_offset>8548000</end_time_offset>
+      <start_time_offset>8326000</start_time_offset>
+    </item>
+    <item index="42">
+      <title>Prison Break-In</title>
+      <end_time_offset>8628000</end_time_offset>
+      <start_time_offset>8548000</start_time_offset>
+    </item>
+    <item index="43">
+      <title>End Credits</title>
+      <end_time_offset>-1</end_time_offset>
+      <start_time_offset>8628000</start_time_offset>
+    </item>
+  </chapters>
+  <collections/>
+  <content_rating>PG</content_rating>
+  <countries>
+    <item index="0">USA</item>
+  </countries>
+  <directors>
+    <item index="0">
+      <photo>http://image.tmdb.org/t/p/original/2G0gyLVJzLmRl4W3sFyaVfxppJJ.jpg</photo>
+      <role/>
+      <name>Richard Donner</name>
+    </item>
+  </directors>
+  <duration>8580000</duration>
+  <genres>
+    <item index="0">Action</item>
+    <item index="1">Adventure</item>
+    <item index="2">Drama</item>
+    <item index="3">Sci-Fi</item>
+  </genres>
+  <originally_available_at>1978-12-13</originally_available_at>
+  <posters>
+    <item external="True" url="http://image.tmdb.org/t/p/original/rLTdj7oB9oxsYwuweeglWRzRng7.jpg" sort_order="1" provider="com.plexapp.agents.imdb" media="com.plexapp.agents.imdb_2543d0271ae67451cc996608e968d441eb7b1756"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/n2DOECThGG7h7m5AjLi2Nuh23u1.jpg" preview="com.plexapp.agents.imdb_d9100da58e1382cc7a93e5cfbe4ab4b6812173d4" sort_order="2" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/sQPvy5Fag2pZd5eLoQN85Oe76Ss.jpg" preview="com.plexapp.agents.imdb_eb3ffb6425a9d28be7404107608bfbcc6c63aec0" sort_order="3" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/8txtGeptOk0gFSWdW3ewnjQdCVM.jpg" preview="com.plexapp.agents.imdb_c4bfd2a541a460ac5c45a022a2f858a06d8c543e" sort_order="4" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/fKsclOqTVWSjfvB70XtqlIKkTIp.jpg" preview="com.plexapp.agents.imdb_123156fd7ff3a7c9669b3823b200a3e82c0f6535" sort_order="5" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/6Ea47MkxCYC9Q1koEwz6CW6VBv3.jpg" preview="com.plexapp.agents.imdb_05ef3f3c30dd6601f2f41e6b38b3ab78bb12b074" sort_order="6" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/7EcEc5ZqLopzPWUZ4h9NWDJhFf2.jpg" preview="com.plexapp.agents.imdb_22590d963e9e3c4f9f60b5b94bfed88279c797c6" sort_order="7" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/eCi9wpUg8ZQbeam1MstZt9o0Eoj.jpg" preview="com.plexapp.agents.imdb_35acc16ce9e342cdd0855397d3cc4ef545f9345a" sort_order="8" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/pR3dEeprHwX6x9vzOhAD1PiOwdq.jpg" preview="com.plexapp.agents.imdb_131b18ddf0ec30c640517f537786e6cd48c0ba13" sort_order="9" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/peEU4dsKTAXO017kXEWk90QpQvU.jpg" preview="com.plexapp.agents.imdb_b2b5277ab43fe3ee42f63098e29cfbb7fcd78bd7" sort_order="10" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/pyRc5TSuKS3jWLLbIoOyjqeLv6i.jpg" preview="com.plexapp.agents.imdb_b52c030b85fd3d9471e60fad3de3ce70bbc703e6" sort_order="11" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/39VN1fypFcdLmu9LapMK4sUahUP.jpg" preview="com.plexapp.agents.imdb_742ab7a809249a604ddb55666abe50e79471d2c1" sort_order="12" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/l8OZKHUuTPNT1qqxrnMQfJ4OWxV.jpg" preview="com.plexapp.agents.imdb_819b04a72330aa1897b1f2c0ef5417f3d128809c" sort_order="13" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/tvy1TSvDYEjTJ2QhHz8J4dRmt9Z.jpg" preview="com.plexapp.agents.imdb_f465f6992a26d487237809fcc1c6ad13a6cb66d4" sort_order="14" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/fDqKDiKceDFAzGw478k2NHai4uF.jpg" preview="com.plexapp.agents.imdb_23a0cff027d8939bebe2b058e074d8d684333f81" sort_order="15" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/3dafPq9ToIF9RfkPYrCpuIrfuV0.jpg" preview="com.plexapp.agents.imdb_56cb533a15a1199ae94e6b1868f550410fef7c89" sort_order="16" provider="com.plexapp.agents.imdb"/>
+  </posters>
+  <producers>
+    <item index="0">
+      <photo/>
+      <role/>
+      <name>Pierre Spengler</name>
+    </item>
+  </producers>
+  <rating>9.4</rating>
+  <rating_image>rottentomatoes://image.rating.ripe</rating_image>
+  <audience_rating>8.6</audience_rating>
+  <audience_rating_image>rottentomatoes://image.rating.upright</audience_rating_image>
+  <reviews>
+    <item index="0">
+      <text>Between its extravagant fancies and extravagant success Superman can only help to enhance the prestige of large-scale fantasy filmmaking.</text>
+      <source>Washington Post</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>http://www.washingtonpost.com/wp-dyn/articles/A26687-2004Oct12.html</link>
+      <author>Gary Arnold</author>
+    </item>
+    <item index="1">
+      <text>It is this year's answer to "Star Wars," a movie that is pure escape and good, clean, unadulterated fun.</text>
+      <source>New York Daily News</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>http://www.nydailynews.com/entertainment/movies/superman-clean-unadulterated-fun-1978-review-article-1.2442002</link>
+      <author>Kathleen Carroll</author>
+    </item>
+    <item index="2">
+      <text>Superman doesn't have enough conviction or courage to be solidly square and dumb; it keeps pushing smarmy big emotions at us -- but half-heartedly.</text>
+      <source>New Yorker</source>
+      <image>rottentomatoes://image.review.rotten</image>
+      <link>http://www.newyorker.com/archive/1979/01/01/1979_01_01_054_TNY_CARDS_000113452?currentPage=all</link>
+      <author>Pauline Kael</author>
+    </item>
+    <item index="3">
+      <text>It's the simple, earth-bound quality of the film that makes this comic-book fantasy soar.</text>
+      <source>Washington Post</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>http://www.washingtonpost.com/wp-dyn/articles/A26699-2004Oct12.html</link>
+      <author>Judith Martin</author>
+    </item>
+    <item index="4">
+      <text>The film is best when it takes itself seriously, worst when it takes the easy way out in giggly camp -- as it does, finally and fatally, when Lex Luthor enters the action.</text>
+      <source>Chicago Reader</source>
+      <image>rottentomatoes://image.review.rotten</image>
+      <link>http://onfilm.chicagoreader.com/movies/capsules/11755_SUPERMAN</link>
+      <author>Dave Kehr</author>
+    </item>
+    <item index="5">
+      <text>By keeping the spectacular possibilities open, through the opening scenes of the destruction of Krypton, and the subsequent growth to manhood of the planet's only son on the plains of the Midwest, the film allows naiveté and knowingness to coexist.</text>
+      <source>Time Out</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>http://www.timeout.com/film/reviews/75658/superman.html</link>
+      <author>Geoff Andrew</author>
+    </item>
+    <item index="6">
+      <text>Superman is good, clean, simple-minded fun...</text>
+      <source>New York Times</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>http://movies.nytimes.com/movie/review?res=990CE1DB1E30E632A25756C1A9649D946990D6CF&amp;partner=Rotten+Tomatoes</link>
+      <author>Vincent Canby</author>
+    </item>
+    <item index="7">
+      <text>Superman is a pure delight...</text>
+      <source>Chicago Sun-Times</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>http://www.rogerebert.com/reviews/superman</link>
+      <author>Roger Ebert</author>
+    </item>
+    <item index="8">
+      <text>Magnify James Bond's extraordinary physical powers while curbing his sex drive and you have the essence of Superman, a wonderful, chuckling, preposterously exciting fantasy.</text>
+      <source>Variety</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>http://www.variety.com/review/VE1117795350.html?categoryid=31&amp;cs=1</link>
+      <author>James Harwood</author>
+    </item>
+    <item index="9">
+      <text>Along with its 1980 sequel, no live-action version has so effectively captured the essence of the characters.</text>
+      <source>ReelViews</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>http://www.reelviews.net/php_review_template.php?identifier=736</link>
+      <author>James Berardinelli</author>
+    </item>
+  </reviews>
+  <roles>
+    <item index="0">
+      <photo>http://image.tmdb.org/t/p/original/9D4L3XeklsMc4r8FybZSTKON3HR.jpg</photo>
+      <role>Superman / Clark Kent</role>
+      <name>Christopher Reeve</name>
+    </item>
+    <item index="1">
+      <photo>http://image.tmdb.org/t/p/original/vklkhX4QlRKnEG8ylhWzoBdcuev.jpg</photo>
+      <role>Jor-El</role>
+      <name>Marlon Brando</name>
+    </item>
+    <item index="2">
+      <photo>http://image.tmdb.org/t/p/original/98HrmSMx8FhMCeoKEODs3OSGYyv.jpg</photo>
+      <role>Lois Lane</role>
+      <name>Margot Kidder</name>
+    </item>
+    <item index="3">
+      <photo>http://image.tmdb.org/t/p/original/oNlqdUXWzi8WdrG2ox7QJjGD7sA.jpg</photo>
+      <role>Lex Luthor</role>
+      <name>Gene Hackman</name>
+    </item>
+    <item index="4">
+      <photo>http://image.tmdb.org/t/p/original/aO5MtnqcZHpsVYz1nINdjqgEJUl.jpg</photo>
+      <role>Otis</role>
+      <name>Ned Beatty</name>
+    </item>
+    <item index="5">
+      <photo>http://image.tmdb.org/t/p/original/3uutX8roJ9nNXwh5nxfnuTPLPGe.jpg</photo>
+      <role>Perry White</role>
+      <name>Jackie Cooper</name>
+    </item>
+    <item index="6">
+      <photo>http://image.tmdb.org/t/p/original/t6lpxAmhOrRJ22d2xnQ1uB0CJf6.jpg</photo>
+      <role>Pa Kent</role>
+      <name>Glenn Ford</name>
+    </item>
+    <item index="7">
+      <photo>http://image.tmdb.org/t/p/original/drj1FPryhAimWCiufEnMLzUxpBQ.jpg</photo>
+      <role>1st Elder</role>
+      <name>Trevor Howard</name>
+    </item>
+    <item index="8">
+      <photo>http://image.tmdb.org/t/p/original/4SOjjPdLLFimJXixndFSANZOR9z.jpg</photo>
+      <role>Non</role>
+      <name>Jack O'Halloran</name>
+    </item>
+    <item index="9">
+      <photo>http://image.tmdb.org/t/p/original/1Er0uPPTmQ7perH3hZmozvbYDX.jpg</photo>
+      <role>Eve Teschmacher</role>
+      <name>Valerie Perrine</name>
+    </item>
+    <item index="10">
+      <photo>http://image.tmdb.org/t/p/original/xACEJpmvpjVxb58wkIY3k2WXhHv.jpg</photo>
+      <role>Vond-Ah</role>
+      <name>Maria Schell</name>
+    </item>
+    <item index="11">
+      <photo>http://image.tmdb.org/t/p/original/fyGkLjgVfyKIPBaMQs5Df3gMuOV.jpg</photo>
+      <role>General Zod</role>
+      <name>Terence Stamp</name>
+    </item>
+    <item index="12">
+      <photo>http://image.tmdb.org/t/p/original/iS0nG2doPQdObLWUOYqnvBRHa83.jpg</photo>
+      <role>Ma Kent</role>
+      <name>Phyllis Thaxter</name>
+    </item>
+    <item index="13">
+      <photo>http://image.tmdb.org/t/p/original/z21rG8L8RsDOEl2iG467cWPud3T.jpg</photo>
+      <role>Lara</role>
+      <name>Susannah York</name>
+    </item>
+    <item index="14">
+      <photo>http://image.tmdb.org/t/p/original/36LSdYlmaqidx2TYZbaNTxPlcpm.jpg</photo>
+      <role>Young Clark Kent</role>
+      <name>Jeff East</name>
+    </item>
+    <item index="15">
+      <photo>http://image.tmdb.org/t/p/original/5VPLVH1eAiIQ3s7aNjrgvzwTt3t.jpg</photo>
+      <role>Jimmy Olsen</role>
+      <name>Marc McClure</name>
+    </item>
+    <item index="16">
+      <photo>http://image.tmdb.org/t/p/original/t0FE7AH4c9O7ro4QK6wis3RfzEv.jpg</photo>
+      <role>Ursa</role>
+      <name>Sarah Douglas</name>
+    </item>
+    <item index="17">
+      <photo>http://image.tmdb.org/t/p/original/1EJXH5DyJWDtHfX8MeqSrCrUlwD.jpg</photo>
+      <role>2nd Elder</role>
+      <name>Harry Andrews</name>
+    </item>
+    <item index="18">
+      <photo/>
+      <role>3rd Elder</role>
+      <name>Vass Anderson</name>
+    </item>
+    <item index="19">
+      <photo>http://image.tmdb.org/t/p/original/ts7bAzI7hvePWVprMjzHyvpBwNB.jpg</photo>
+      <role>4th Elder</role>
+      <name>John Hollis</name>
+    </item>
+    <item index="20">
+      <photo/>
+      <role>5th Elder</role>
+      <name>James Garbutt</name>
+    </item>
+    <item index="21">
+      <photo>http://image.tmdb.org/t/p/original/d1YuAPOT9sDw26WFIZwq9krbETT.jpg</photo>
+      <role>6th Elder</role>
+      <name>Michael Gover</name>
+    </item>
+    <item index="22">
+      <photo/>
+      <role>7th Elder</role>
+      <name>David Neal</name>
+    </item>
+    <item index="23">
+      <photo/>
+      <role>9th Elder</role>
+      <name>Penelope Lee</name>
+    </item>
+    <item index="24">
+      <photo>http://image.tmdb.org/t/p/original/zZzUldf0EqwbrNVHx9anw7YInHp.jpg</photo>
+      <role>10th Elder</role>
+      <name>John Stuart</name>
+    </item>
+    <item index="25">
+      <photo/>
+      <role>11th Elder</role>
+      <name>Alan Cullen</name>
+    </item>
+    <item index="26">
+      <photo/>
+      <role>Baby Kal-El</role>
+      <name>Lee Quigley</name>
+    </item>
+    <item index="27">
+      <photo/>
+      <role>Baby Clark Kent</role>
+      <name>Aaron Smolinski</name>
+    </item>
+    <item index="28">
+      <photo>http://image.tmdb.org/t/p/original/tWaEjLBQ7n9ulsPSEc68dTINSqX.jpg</photo>
+      <role>Lana Lang</role>
+      <name>Diane Sherry Case</name>
+    </item>
+    <item index="29">
+      <photo/>
+      <role>Coach</role>
+      <name>Jeff Atcheson</name>
+    </item>
+    <item index="30">
+      <photo/>
+      <role>Football Player</role>
+      <name>Brad Flock</name>
+    </item>
+    <item index="31">
+      <photo/>
+      <role>Team Manager</role>
+      <name>David Petrou</name>
+    </item>
+    <item index="32">
+      <photo/>
+      <role>1st Editor</role>
+      <name>Billy J. Mitchell</name>
+    </item>
+    <item index="33">
+      <photo/>
+      <role>2nd Editor</role>
+      <name>Robert Henderson</name>
+    </item>
+    <item index="34">
+      <photo>http://image.tmdb.org/t/p/original/hnps7v5dcfgHFxys6hiGC6HpLa9.jpg</photo>
+      <role>1st Reporter</role>
+      <name>Larry Lamb</name>
+    </item>
+    <item index="35">
+      <photo/>
+      <role>2nd Reporter</role>
+      <name>James Brockington</name>
+    </item>
+    <item index="36">
+      <photo/>
+      <role>3rd Reporter</role>
+      <name>John Cassady</name>
+    </item>
+    <item index="37">
+      <photo>http://image.tmdb.org/t/p/original/fx89SOesCF2ciPvJyOY53iVIT4K.jpg</photo>
+      <role>4th Reporter</role>
+      <name>John F. Parker</name>
+    </item>
+    <item index="38">
+      <photo/>
+      <role>5th Reporter</role>
+      <name>Harry Scott</name>
+    </item>
+    <item index="39">
+      <photo/>
+      <role>6th Reporter</role>
+      <name>Ray Evans</name>
+    </item>
+    <item index="40">
+      <photo/>
+      <role>7th Reporter</role>
+      <name>Su Shifrin</name>
+    </item>
+    <item index="41">
+      <photo>http://image.tmdb.org/t/p/original/1ZW6ygI7WYuvtjGGljlAgsZIzRX.jpg</photo>
+      <role>8th Reporter</role>
+      <name>Miquel Brown</name>
+    </item>
+    <item index="42">
+      <photo/>
+      <role>1st Copy Boy</role>
+      <name>Vincent Marzello</name>
+    </item>
+    <item index="43">
+      <photo/>
+      <role>2nd Copy Boy</role>
+      <name>Benjamin Feitelson</name>
+    </item>
+    <item index="44">
+      <photo/>
+      <role>1st Secretary</role>
+      <name>Lise Hilboldt</name>
+    </item>
+    <item index="45">
+      <photo/>
+      <role>2nd Secretary</role>
+      <name>Leueen Willoughby</name>
+    </item>
+    <item index="46">
+      <photo/>
+      <role>Perry's Secretary</role>
+      <name>Jill Ingham</name>
+    </item>
+    <item index="47">
+      <photo/>
+      <role>Window Cleaner</role>
+      <name>Pieter Stuyck</name>
+    </item>
+    <item index="48">
+      <photo/>
+      <role>Rex Reed</role>
+      <name>Rex Reed</name>
+    </item>
+    <item index="49">
+      <photo/>
+      <role>Mugger</role>
+      <name>Weston Gavin</name>
+    </item>
+    <item index="50">
+      <photo>http://image.tmdb.org/t/p/original/ROLtxokJ0mFtPxpVQwosqDQysi.jpg</photo>
+      <role>Officer 1</role>
+      <name>Steve Kahan</name>
+    </item>
+    <item index="51">
+      <photo/>
+      <role>Officer 2</role>
+      <name>Ray Hassett</name>
+    </item>
+    <item index="52">
+      <photo/>
+      <role>Officer 3</role>
+      <name>Randy Jurgensen</name>
+    </item>
+    <item index="53">
+      <photo/>
+      <role>News Vendor</role>
+      <name>Matt Russo</name>
+    </item>
+    <item index="54">
+      <photo>http://image.tmdb.org/t/p/original/3ItjesQoR7SC5G1SDP4I82ILSYz.jpg</photo>
+      <role>Pilot</role>
+      <name>Colin Skeaping</name>
+    </item>
+    <item index="55">
+      <photo/>
+      <role>Pimp</role>
+      <name>Bo Rucker</name>
+    </item>
+    <item index="56">
+      <photo/>
+      <role>TV Cameraman</role>
+      <name>Paul Avery</name>
+    </item>
+    <item index="57">
+      <photo/>
+      <role>Burglar</role>
+      <name>David Baxt</name>
+    </item>
+    <item index="58">
+      <photo/>
+      <role>Patrolman Mooney</role>
+      <name>George Harris II</name>
+    </item>
+    <item index="59">
+      <photo/>
+      <role>1st Hood</role>
+      <name>Michael Harrigan</name>
+    </item>
+    <item index="60">
+      <photo/>
+      <role>2nd Hood</role>
+      <name>John Cording</name>
+    </item>
+    <item index="61">
+      <photo/>
+      <role>3rd Hood</role>
+      <name>Raymond Thompson</name>
+    </item>
+    <item index="62">
+      <photo>http://image.tmdb.org/t/p/original/47x9ZQcrDbDcJ3yp5swz40WWAtN.jpg</photo>
+      <role>4th Hood</role>
+      <name>Oz Clarke</name>
+    </item>
+    <item index="63">
+      <photo>http://image.tmdb.org/t/p/original/pW7GyLaz8QrGpVjnC5vvJVjxTqQ.jpg</photo>
+      <role>Desk Sergeant</role>
+      <name>Rex Everhart</name>
+    </item>
+    <item index="64">
+      <photo/>
+      <role>Little Girl</role>
+      <name>Jayne Tottman</name>
+    </item>
+    <item index="65">
+      <photo/>
+      <role>Air Force One Pilot</role>
+      <name>Frank Lazarus</name>
+    </item>
+    <item index="66">
+      <photo>http://image.tmdb.org/t/p/original/mSMfovYNkAnrd7s4Nq77YArvC0r.jpg</photo>
+      <role>Co Pilot</role>
+      <name>Brian Protheroe</name>
+    </item>
+    <item index="67">
+      <photo/>
+      <role>1st Crewman</role>
+      <name>Lawrence Trimble</name>
+    </item>
+    <item index="68">
+      <photo/>
+      <role>2nd Crewman</role>
+      <name>Robert Whelan</name>
+    </item>
+    <item index="69">
+      <photo>http://image.tmdb.org/t/p/original/ixaxa85cJRQuyVihWjr27Dyh9Bf.jpg</photo>
+      <role>3rd Crewman</role>
+      <name>David Calder</name>
+    </item>
+    <item index="70">
+      <photo/>
+      <role>Newscaster</role>
+      <name>Norwich Duff</name>
+    </item>
+    <item index="71">
+      <photo>http://image.tmdb.org/t/p/original/tp5C45uu6rnBoeVjT2OFJcOHx8f.jpg</photo>
+      <role>Newscaster</role>
+      <name>Keith Alexander</name>
+    </item>
+    <item index="72">
+      <photo>http://image.tmdb.org/t/p/original/nyTn32fU0E1pQpIUeuiTAehaAee.jpg</photo>
+      <role>Newscaster</role>
+      <name>Michael Ensign</name>
+    </item>
+    <item index="73">
+      <photo>http://image.tmdb.org/t/p/original/40PVsGp5Wp5kbUhAefLHqjqbarc.jpg</photo>
+      <role>Major</role>
+      <name>Larry Hagman</name>
+    </item>
+    <item index="74">
+      <photo/>
+      <role>Sgt. Hayley</role>
+      <name>Paul Tuerpe</name>
+    </item>
+    <item index="75">
+      <photo/>
+      <role>Lieutenant</role>
+      <name>Graham McPherson</name>
+    </item>
+    <item index="76">
+      <photo/>
+      <role>Petty Officer</role>
+      <name>David Yorston</name>
+    </item>
+    <item index="77">
+      <photo>http://image.tmdb.org/t/p/original/4cQYcaZbDxvBKoUcsdIHaJKwMvc.jpg</photo>
+      <role>Admiral</role>
+      <name>Robert O'Neill</name>
+    </item>
+    <item index="78">
+      <photo/>
+      <role>General</role>
+      <name>Robert MacLeod</name>
+    </item>
+    <item index="79">
+      <photo>http://image.tmdb.org/t/p/original/yGechiKWL6TJDfVE2KPSJYqdMsY.jpg</photo>
+      <role>1st Controller</role>
+      <name>John Ratzenberger</name>
+    </item>
+    <item index="80">
+      <photo>http://image.tmdb.org/t/p/original/8PQ6c0GCbuJ5T6dCjfX72gUtbTG.jpg</photo>
+      <role>2nd Controller</role>
+      <name>Alan Tilvern</name>
+    </item>
+    <item index="81">
+      <photo>http://image.tmdb.org/t/p/original/exkyN66HiZWJDmpcOza2hWoswOo.jpg</photo>
+      <role>State Senator</role>
+      <name>Phil Brown</name>
+    </item>
+    <item index="82">
+      <photo/>
+      <role>2nd Senator</role>
+      <name>Bill Bailey</name>
+    </item>
+    <item index="83">
+      <photo>http://image.tmdb.org/t/p/original/kRMCT2aPlZO5Cl5404mRyHEQBt6.jpg</photo>
+      <role>Agent</role>
+      <name>Burnell Tucker</name>
+    </item>
+    <item index="84">
+      <photo/>
+      <role>Indian Chief</role>
+      <name>Chief Tug Smith</name>
+    </item>
+    <item index="85">
+      <photo/>
+      <role>Superchief Driver</role>
+      <name>Norman Warwick</name>
+    </item>
+    <item index="86">
+      <photo/>
+      <role>Assistant</role>
+      <name>Chuck Julian</name>
+    </item>
+    <item index="87">
+      <photo/>
+      <role>Power Co. Driver</role>
+      <name>Colin Etherington</name>
+    </item>
+    <item index="88">
+      <photo/>
+      <role>Mate</role>
+      <name>Mark Wynter</name>
+    </item>
+    <item index="89">
+      <photo>http://image.tmdb.org/t/p/original/e4MTRO04mEZgf4UMgj0hVy9rgZs.jpg</photo>
+      <role>Warden</role>
+      <name>Roy Stevens</name>
+    </item>
+    <item index="90">
+      <photo>http://image.tmdb.org/t/p/original/mIkzbyEG7cBMB2Tyr9sjwChkdVs.jpg</photo>
+      <role>8th Elder</role>
+      <name>William Russell</name>
+    </item>
+    <item index="91">
+      <photo>http://image.tmdb.org/t/p/original/enOOEGty5hpVW6nGqyUCmAGYVB7.jpg</photo>
+      <role>Ella Lane (uncredited)</role>
+      <name>Noel Neill</name>
+    </item>
+    <item index="92">
+      <photo>http://image.tmdb.org/t/p/original/l7d3Zk9B1F3EsGgF9us587zb8kB.jpg</photo>
+      <role>Sam Lane (uncredited)</role>
+      <name>Kirk Alyn</name>
+    </item>
+    <item index="93">
+      <photo/>
+      <role>special football player (contest winner) (uncredited)</role>
+      <name>Edward Finneran</name>
+    </item>
+  </roles>
+  <similar>
+    <item index="0">Superman II</item>
+    <item index="1">Superman III</item>
+    <item index="2">Superman IV: The Quest for Peace</item>
+    <item index="3">Superman Returns</item>
+    <item index="4">Batman Returns</item>
+    <item index="5">RoboCop</item>
+    <item index="6">The Running Man</item>
+    <item index="7">True Lies</item>
+    <item index="8">Highlander</item>
+    <item index="9">Batman &amp; Robin</item>
+    <item index="10">Batman</item>
+    <item index="11">The Fugitive</item>
+    <item index="12">Batman Forever</item>
+    <item index="13">Patriot Games</item>
+    <item index="14">Conan the Barbarian</item>
+    <item index="15">Twins</item>
+    <item index="16">Commando</item>
+    <item index="17">Cliffhanger</item>
+    <item index="18">Last Action Hero</item>
+    <item index="19">Ghostbusters II</item>
+  </similar>
+  <studio>Warner Bros. Pictures</studio>
+  <summary>Mild-mannered Clark Kent works as a reporter at the Daily Planet alongside his crush, Lois Lane. Clark must summon his superhero alter-ego when the nefarious Lex Luthor launches a plan to take over the world.</summary>
+  <tagline>You'll Believe a Man Can Fly!</tagline>
+  <tags/>
+  <themes/>
+  <title>Superman</title>
+  <writers>
+    <item index="0">
+      <photo>http://image.tmdb.org/t/p/original/sxZPpfKJ1Rr9vlO5eVZs0tyCv5u.jpg</photo>
+      <role/>
+      <name>Mario Puzo</name>
+    </item>
+    <item index="1">
+      <photo/>
+      <role/>
+      <name>Leslie Newman</name>
+    </item>
+    <item index="2">
+      <photo>http://image.tmdb.org/t/p/original/wVaHC1VX9yBg9MIEC7POAJ0JlUo.jpg</photo>
+      <role/>
+      <name>Robert Benton</name>
+    </item>
+    <item index="3">
+      <photo/>
+      <role/>
+      <name>David Newman</name>
+    </item>
+    <item index="4">
+      <photo>http://image.tmdb.org/t/p/original/ldYH2f8UPevGExyCzwN7Mn3ZPjZ.jpg</photo>
+      <role/>
+      <name>Tom Mankiewicz</name>
+    </item>
+  </writers>
+  <year>1978</year>
+</Movie>

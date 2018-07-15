@@ -1,0 +1,291 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Movie>
+  <art>
+    <item external="True" url="http://image.tmdb.org/t/p/original/fXDQaJ91NP6E6u2z07Sh15iHcLz.jpg" sort_order="1" provider="com.plexapp.agents.imdb" media="com.plexapp.agents.imdb_8f02d81cf9d8dadaaa58455687e7460903aaf9d2"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/hST5A6ljJWlbyz5kbh6JV2WONzU.jpg" preview="com.plexapp.agents.imdb_e242de0f874acde3eecd8dadd52b0abbf8f1dc83" sort_order="2" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/u45JREJQZX6vZJnFSY9cjdGtZSG.jpg" preview="com.plexapp.agents.imdb_4236b9fdfcf047e938c9c44da0dc043553a2a392" sort_order="3" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/jiPcamHlH8YUUM8lMUWMhXSr6U.jpg" preview="com.plexapp.agents.imdb_34f07d1a4bb9714b9d43ef428b9cfcf139e7ab78" sort_order="4" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/4Y7OnQ8Y9XE3UIwe5HMpFQROMDk.jpg" preview="com.plexapp.agents.imdb_92773bc61d8b5f80cd98baf661adb49710e22033" sort_order="5" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/oyYrPw3f4hUMkr18I7Jrg2lIoOs.jpg" preview="com.plexapp.agents.imdb_c0e476498e23dc6e50a6f09c7b1cea36954aa85d" sort_order="6" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/8JEPmjzVJc30rpiovroHZTBxEV4.jpg" preview="com.plexapp.agents.imdb_2016b94c92386a5d438daf916de6d8ab26799f7a" sort_order="7" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/wu8NxrUAYFxH3c9UQVRryZuPWfU.jpg" preview="com.plexapp.agents.imdb_1fb26306f5d26de7bee932861523dc0b3e525caa" sort_order="8" provider="com.plexapp.agents.imdb"/>
+  </art>
+  <banners/>
+  <chapters>
+    <item index="0">
+      <title>(Main Titles) the Stranger</title>
+      <end_time_offset>432000</end_time_offset>
+      <start_time_offset>0</start_time_offset>
+    </item>
+    <item index="1">
+      <title>Encounter at the Saloon</title>
+      <end_time_offset>808000</end_time_offset>
+      <start_time_offset>432000</start_time_offset>
+    </item>
+    <item index="2">
+      <title>The Stranger Gets Acquainted</title>
+      <end_time_offset>1096000</end_time_offset>
+      <start_time_offset>808000</start_time_offset>
+    </item>
+    <item index="3">
+      <title>A Dream</title>
+      <end_time_offset>1390000</end_time_offset>
+      <start_time_offset>1096000</start_time_offset>
+    </item>
+    <item index="4">
+      <title>A Hot Bath</title>
+      <end_time_offset>1588000</end_time_offset>
+      <start_time_offset>1390000</start_time_offset>
+    </item>
+    <item index="5">
+      <title>The Town Council</title>
+      <end_time_offset>1785000</end_time_offset>
+      <start_time_offset>1588000</start_time_offset>
+    </item>
+    <item index="6">
+      <title>Anything You Want</title>
+      <end_time_offset>2316000</end_time_offset>
+      <start_time_offset>1785000</start_time_offset>
+    </item>
+    <item index="7">
+      <title>Volunteers</title>
+      <end_time_offset>3001000</end_time_offset>
+      <start_time_offset>2316000</start_time_offset>
+    </item>
+    <item index="8">
+      <title>The Gunfighter Stays</title>
+      <end_time_offset>3340000</end_time_offset>
+      <start_time_offset>3001000</start_time_offset>
+    </item>
+    <item index="9">
+      <title>Remembering</title>
+      <end_time_offset>3860000</end_time_offset>
+      <start_time_offset>3340000</start_time_offset>
+    </item>
+    <item index="10">
+      <title>The Church Meeting</title>
+      <end_time_offset>4272000</end_time_offset>
+      <start_time_offset>3860000</start_time_offset>
+    </item>
+    <item index="11">
+      <title>A New Room</title>
+      <end_time_offset>4721000</end_time_offset>
+      <start_time_offset>4272000</start_time_offset>
+    </item>
+    <item index="12">
+      <title>The Ambush</title>
+      <end_time_offset>5215000</end_time_offset>
+      <start_time_offset>4721000</start_time_offset>
+    </item>
+    <item index="13">
+      <title>Trouble Rides to Town</title>
+      <end_time_offset>5594000</end_time_offset>
+      <start_time_offset>5215000</start_time_offset>
+    </item>
+    <item index="14">
+      <title>The Stranger Returns</title>
+      <end_time_offset>6183000</end_time_offset>
+      <start_time_offset>5594000</start_time_offset>
+    </item>
+    <item index="15">
+      <title>The Name on the Grave (End Titles)</title>
+      <end_time_offset>-1</end_time_offset>
+      <start_time_offset>6183000</start_time_offset>
+    </item>
+  </chapters>
+  <collections/>
+  <content_rating>R</content_rating>
+  <countries>
+    <item index="0">USA</item>
+  </countries>
+  <directors>
+    <item index="0">
+      <photo>http://image.tmdb.org/t/p/original/n8h4ZHteFFXfmzUW6OEaPWanDnm.jpg</photo>
+      <role/>
+      <name>Clint Eastwood</name>
+    </item>
+  </directors>
+  <duration>6300000</duration>
+  <genres>
+    <item index="0">Mystery</item>
+    <item index="1">Western</item>
+  </genres>
+  <originally_available_at>1973-04-19</originally_available_at>
+  <posters>
+    <item external="True" url="http://image.tmdb.org/t/p/original/xdykUbjDWmFUHW2uc1crJkndBxL.jpg" sort_order="1" provider="com.plexapp.agents.imdb" media="com.plexapp.agents.imdb_a09acbfd67da5efa8f4e5c3c014b8c8d2a39b87f"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/557vwDdOIQ07Q1QvTwHVmxHJpXU.jpg" preview="com.plexapp.agents.imdb_950aa39fa63cae86cba17c3c24b07f8e96b7dcb5" sort_order="2" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/3lV407QieUw5BoYEaSCS7ICr9Ti.jpg" preview="com.plexapp.agents.imdb_9f906bd27b84630c6d8b5917197970c72b6b439a" sort_order="3" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/9yu9KjKfixK4AbQpMGmkX3mNs2q.jpg" preview="com.plexapp.agents.imdb_9d26cdd75a9621f2f4cb1a9b8c0f4fe8262e1bc6" sort_order="4" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/8ljEjNTonqXclBjovG1NRwUmltx.jpg" preview="com.plexapp.agents.imdb_9ebc20793f56321de199d555092b1e3c0b3d827c" sort_order="5" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/dDVtgzHgZNQIziGnFLa6GLsGPi7.jpg" preview="com.plexapp.agents.imdb_50bd815978042a8ef3b332a79c7f163b03a749ea" sort_order="6" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/unlkCj5uYQvWJOPAmDOjsAna3zh.jpg" preview="com.plexapp.agents.imdb_79f64a2f3fde158377c97eefbe885b5372597e9c" sort_order="7" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/3ELy7Q30l6VoAykkz7OuCNFOWGF.jpg" preview="com.plexapp.agents.imdb_0538c7d765434153ba67d606c2cc73c27d502366" sort_order="8" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/qv6SpFGf45x2NZnsJvteFKTKKWT.jpg" preview="com.plexapp.agents.imdb_8621c76ef9eff6ac72543cd9f65030baa7d14a95" sort_order="9" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/sWGLEDO2huA6Sw3VbxQJ7slWHQd.jpg" preview="com.plexapp.agents.imdb_a2e9dda3a17cc84a8261ee906971451c1073cd11" sort_order="10" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/fVsPCwiEefUJW7MwvnKYh8A2STt.jpg" preview="com.plexapp.agents.imdb_cd611a6714872916b2e70c6ebf864828fb6e2e97" sort_order="11" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/pGW0SP0h6dy8YvuLqxZzGQiiTNJ.jpg" preview="com.plexapp.agents.imdb_84370b1dd9a04be9a640fd6f61f2f98ab6c822f6" sort_order="12" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/2ma3Z9b5T5ShDal3Ej4odihhpAi.jpg" preview="com.plexapp.agents.imdb_f2e60ab7320428b6bc2bbff8386096ceb8446b8c" sort_order="13" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/5EcuqWCfVlC3ZuXBUcisqBb8QTJ.jpg" preview="com.plexapp.agents.imdb_fe7ca0e3eb3fa81e5c4e69edbc8326131064d038" sort_order="14" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/wa7GpRp8V4lnPkxfmy5EUH1IVsV.jpg" preview="com.plexapp.agents.imdb_d574c5c62a6a65cc6caf0cccfa2d0e94bc4c2a6f" sort_order="15" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/pvTYZFMbg9eWIUXkyzhnwbJrohw.jpg" preview="com.plexapp.agents.imdb_7cd1d9fc2972146233f1a0edaeeb015dab4ee021" sort_order="16" provider="com.plexapp.agents.imdb"/>
+  </posters>
+  <producers>
+    <item index="0">
+      <photo/>
+      <role/>
+      <name>Robert Daley</name>
+    </item>
+  </producers>
+  <rating>9.6</rating>
+  <rating_image>rottentomatoes://image.rating.ripe</rating_image>
+  <audience_rating>8.5</audience_rating>
+  <audience_rating_image>rottentomatoes://image.rating.upright</audience_rating_image>
+  <reviews>
+    <item index="0">
+      <text>As a director, Eastwood is not as good as he seems to think he is. As an actor, he is probably better than he allows himself to be.</text>
+      <source>TIME Magazine</source>
+      <image>rottentomatoes://image.review.rotten</image>
+      <link>http://www.time.com/time/magazine/article/0,9171,945252,00.html?iid=digg_share</link>
+      <author>Richard Schickel</author>
+    </item>
+    <item index="1">
+      <text>Eastwood's second directorial effort is mechanically stylish.</text>
+      <source>Variety</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>http://www.variety.com/review/VE1117791646.html?categoryid=31&amp;cs=1</link>
+      <author>Variety Staff</author>
+    </item>
+    <item index="2">
+      <text>This was supposed to be Eastwood's fond adieu to the worlds of Sergio Leone and Don Siegel; and indeed he cuts the operatic excess of the former with the punchy economy of the latter.</text>
+      <source>Time Out</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>http://www.timeout.com/film/reviews/72033/high_plains_drifter.html</link>
+      <author>Derek Adams</author>
+    </item>
+    <item index="3">
+      <text>Part ghost story, part revenge Western, more than a little silly, and often quite entertaining in a way that may make you wonder if you have lost your good sense.</text>
+      <source>New York Times</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>http://movies.nytimes.com/movie/review?res=9E05EFDD1331EF34BC4851DFB2668388669EDE&amp;partner=Rotten+Tomatoes</link>
+      <author>Vincent Canby</author>
+    </item>
+  </reviews>
+  <roles>
+    <item index="0">
+      <photo>http://image.tmdb.org/t/p/original/n8h4ZHteFFXfmzUW6OEaPWanDnm.jpg</photo>
+      <role>The Stranger</role>
+      <name>Clint Eastwood</name>
+    </item>
+    <item index="1">
+      <photo>http://image.tmdb.org/t/p/original/co1h7kjjAITSxzFqXuLPGKxgFvn.jpg</photo>
+      <role>Sarah Belding</role>
+      <name>Verna Bloom</name>
+    </item>
+    <item index="2">
+      <photo>http://image.tmdb.org/t/p/original/h3X58tFp2a7Tgt7gNW2sbM6N2EH.jpg</photo>
+      <role>Callie Travers</role>
+      <name>Marianna Hill</name>
+    </item>
+    <item index="3">
+      <photo>http://image.tmdb.org/t/p/original/2GTRqLcW8uPlFdTkEqcZDpxrXS6.jpg</photo>
+      <role>Dave Drake</role>
+      <name>Mitchell Ryan</name>
+    </item>
+    <item index="4">
+      <photo>http://image.tmdb.org/t/p/original/4RXCV7cDIKaObgUX6VgZrdH4H5J.jpg</photo>
+      <role>Morgan Allen</role>
+      <name>Jack Ging</name>
+    </item>
+    <item index="5">
+      <photo>http://image.tmdb.org/t/p/original/y4w2yNJYdAcaKddQyCYm4qtmLqO.jpg</photo>
+      <role>Mayor Jason Hobart</role>
+      <name>Stefan Gierasch</name>
+    </item>
+    <item index="6">
+      <photo>http://image.tmdb.org/t/p/original/f3DXyuUZsVjx5rHSp32mQyMMZXX.jpg</photo>
+      <role>Lewis Belding</role>
+      <name>Ted Hartley</name>
+    </item>
+    <item index="7">
+      <photo/>
+      <role>Mordecai</role>
+      <name>Billy Curtis</name>
+    </item>
+    <item index="8">
+      <photo>http://image.tmdb.org/t/p/original/8BABD0pjhefIFpKEZwNnLrkn0wl.jpg</photo>
+      <role>Stacey Bridges</role>
+      <name>Geoffrey Lewis</name>
+    </item>
+    <item index="9">
+      <photo>http://image.tmdb.org/t/p/original/1K78PuIApUuQbtLPsQIEZGnZLmI.jpg</photo>
+      <role>Bill Borders</role>
+      <name>Scott Walker</name>
+    </item>
+    <item index="10">
+      <photo>http://image.tmdb.org/t/p/original/m7OtPTdxtRSRFJeAYnBSTFjINgX.jpg</photo>
+      <role>Sheriff Sam Shaw</role>
+      <name>Walter Barnes</name>
+    </item>
+    <item index="11">
+      <photo>http://image.tmdb.org/t/p/original/8YOaYazXeGZLRNcYcson7vym4Tr.jpg</photo>
+      <role>Lutie Naylor</role>
+      <name>Paul Brinegar</name>
+    </item>
+    <item index="12">
+      <photo>http://image.tmdb.org/t/p/original/5TYupEMDpS4UL1lLaYO5ynNB1vF.jpg</photo>
+      <role>Asa Goodwin</role>
+      <name>Richard Bull</name>
+    </item>
+    <item index="13">
+      <photo>http://image.tmdb.org/t/p/original/6GXjsXEC5a0BoFwq1pad5OqJ5M9.jpg</photo>
+      <role>Preacher</role>
+      <name>Robert Donner</name>
+    </item>
+    <item index="14">
+      <photo>http://image.tmdb.org/t/p/original/sZ44pzr7OJrdxGfsGjTMavFCW2K.jpg</photo>
+      <role>Bootmaker</role>
+      <name>John Hillerman</name>
+    </item>
+  </roles>
+  <similar>
+    <item index="0">Pale Rider</item>
+    <item index="1">The Outlaw Josey Wales</item>
+    <item index="2">Hang 'em High</item>
+    <item index="3">The Enforcer</item>
+    <item index="4">Sudden Impact</item>
+    <item index="5">Two Mules for Sister Sara</item>
+    <item index="6">Joe Kidd</item>
+    <item index="7">The Gauntlet</item>
+    <item index="8">The Dead Pool</item>
+    <item index="9">Magnum Force</item>
+    <item index="10">The Magnificent Seven</item>
+    <item index="11">The Eiger Sanction</item>
+    <item index="12">Coogan's Bluff</item>
+    <item index="13">Bronco Billy</item>
+    <item index="14">Heartbreak Ridge</item>
+    <item index="15">Dirty Harry</item>
+    <item index="16">True Grit</item>
+    <item index="17">Kelly's Heroes</item>
+    <item index="18">The Wild Bunch</item>
+    <item index="19">Every Which Way but Loose</item>
+  </similar>
+  <studio>Universal Pictures</studio>
+  <summary>A gunfighting stranger comes to the small settlement of Lago. After gunning down three gunmen who tried to kill him, the townsfolk decide to hire the Stranger to hold off three outlaws who are on their way.</summary>
+  <tagline>Welcome to Hell</tagline>
+  <tags/>
+  <themes/>
+  <title>High Plains Drifter</title>
+  <writers>
+    <item index="0">
+      <photo/>
+      <role/>
+      <name>Ernest Tidyman</name>
+    </item>
+    <item index="1">
+      <photo/>
+      <role/>
+      <name>Dean Riesner</name>
+    </item>
+  </writers>
+  <year>1973</year>
+</Movie>

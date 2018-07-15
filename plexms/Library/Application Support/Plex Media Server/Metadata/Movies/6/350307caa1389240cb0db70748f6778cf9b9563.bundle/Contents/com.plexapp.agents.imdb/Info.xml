@@ -1,0 +1,676 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Movie id="tt2823054">
+  <rating>3.5</rating>
+  <title_sort/>
+  <art>
+    <item external="True" url="http://image.tmdb.org/t/p/original/kdaA0wRtQ5Czm8JK8VAVn3uufz3.jpg" preview="47ed02a882ac67209a05d35dd4e108aa19d787e6" sort_order="1"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/kq9SLPzyVWzsg80Z6G10BqbsgTK.jpg" preview="5fe8a8e702d80b71de81fd8619269ad2b2feb049" sort_order="2"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/7HCEX3iu70pUvdnTymTvzJC80on.jpg" preview="88af14320e085a87f7c5b9812dd739e512313b1f" sort_order="3"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/xt9YBIG1kM5tzxU5miOVwTEq8ao.jpg" preview="abe5f77253160a256b845b7ec5e73b91ae8adbcc" sort_order="4"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/3Svrv5U4Bpp4209g8C9VnF6Y3H6.jpg" preview="696d983dea803ee4201a9a53d4bd1adc553742c8" sort_order="5"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/8FQrEzTPwySYWYOOkhgvTmYeno7.jpg" preview="81e87b630fcc57be722495d55e9cab36485e0d20" sort_order="6"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/sSr4LFCdaUwvEZ69bVJTmabUgbj.jpg" preview="b7e70c33053ade29f8e60cba154168c7008b5227" sort_order="7"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/ehVhL6nF1nHzZSeedykvGmMdj87.jpg" preview="6744a27f37dae0bde8b210426a30a8e49be5a56a" sort_order="8"/>
+  </art>
+  <writers>
+    <item index="0">
+      <photo/>
+      <role/>
+      <name>Brendan O'Brien</name>
+    </item>
+    <item index="1">
+      <photo>http://image.tmdb.org/t/p/original/R0y8UPZDogUisQt0K1178L83F5.jpg</photo>
+      <role/>
+      <name>Andrew J. Cohen</name>
+    </item>
+  </writers>
+  <chapters>
+    <item index="0">
+      <title>Chapter 1</title>
+      <end_time_offset>219000</end_time_offset>
+      <start_time_offset>0</start_time_offset>
+    </item>
+    <item index="1">
+      <title>Chapter 2</title>
+      <end_time_offset>492000</end_time_offset>
+      <start_time_offset>219000</start_time_offset>
+    </item>
+    <item index="2">
+      <title>Chapter 3</title>
+      <end_time_offset>686000</end_time_offset>
+      <start_time_offset>492000</start_time_offset>
+    </item>
+    <item index="3">
+      <title>Chapter 4</title>
+      <end_time_offset>1049000</end_time_offset>
+      <start_time_offset>686000</start_time_offset>
+    </item>
+    <item index="4">
+      <title>Chapter 5</title>
+      <end_time_offset>1353000</end_time_offset>
+      <start_time_offset>1049000</start_time_offset>
+    </item>
+    <item index="5">
+      <title>Chapter 6</title>
+      <end_time_offset>1642000</end_time_offset>
+      <start_time_offset>1353000</start_time_offset>
+    </item>
+    <item index="6">
+      <title>Chapter 7</title>
+      <end_time_offset>1889000</end_time_offset>
+      <start_time_offset>1642000</start_time_offset>
+    </item>
+    <item index="7">
+      <title>Chapter 8</title>
+      <end_time_offset>2123000</end_time_offset>
+      <start_time_offset>1889000</start_time_offset>
+    </item>
+    <item index="8">
+      <title>Chapter 9</title>
+      <end_time_offset>2297000</end_time_offset>
+      <start_time_offset>2123000</start_time_offset>
+    </item>
+    <item index="9">
+      <title>Chapter 10</title>
+      <end_time_offset>2486000</end_time_offset>
+      <start_time_offset>2297000</start_time_offset>
+    </item>
+    <item index="10">
+      <title>Chapter 11</title>
+      <end_time_offset>2665000</end_time_offset>
+      <start_time_offset>2486000</start_time_offset>
+    </item>
+    <item index="11">
+      <title>Chapter 12</title>
+      <end_time_offset>3022000</end_time_offset>
+      <start_time_offset>2665000</start_time_offset>
+    </item>
+    <item index="12">
+      <title>Chapter 13</title>
+      <end_time_offset>3252000</end_time_offset>
+      <start_time_offset>3022000</start_time_offset>
+    </item>
+    <item index="13">
+      <title>Chapter 14</title>
+      <end_time_offset>3413000</end_time_offset>
+      <start_time_offset>3252000</start_time_offset>
+    </item>
+    <item index="14">
+      <title>Chapter 15</title>
+      <end_time_offset>3676000</end_time_offset>
+      <start_time_offset>3413000</start_time_offset>
+    </item>
+    <item index="15">
+      <title>Chapter 16</title>
+      <end_time_offset>3884000</end_time_offset>
+      <start_time_offset>3676000</start_time_offset>
+    </item>
+    <item index="16">
+      <title>Chapter 17</title>
+      <end_time_offset>4104000</end_time_offset>
+      <start_time_offset>3884000</start_time_offset>
+    </item>
+    <item index="17">
+      <title>Chapter 18</title>
+      <end_time_offset>4348000</end_time_offset>
+      <start_time_offset>4104000</start_time_offset>
+    </item>
+    <item index="18">
+      <title>Chapter 19</title>
+      <end_time_offset>4593000</end_time_offset>
+      <start_time_offset>4348000</start_time_offset>
+    </item>
+    <item index="19">
+      <title>Chapter 20</title>
+      <end_time_offset>4868000</end_time_offset>
+      <start_time_offset>4593000</start_time_offset>
+    </item>
+    <item index="20">
+      <title>Chapter 21</title>
+      <end_time_offset>5130000</end_time_offset>
+      <start_time_offset>4868000</start_time_offset>
+    </item>
+    <item index="21">
+      <title>Chapter 22</title>
+      <end_time_offset>5325000</end_time_offset>
+      <start_time_offset>5130000</start_time_offset>
+    </item>
+    <item index="22">
+      <title>Chapter 23</title>
+      <end_time_offset>5631000</end_time_offset>
+      <start_time_offset>5325000</start_time_offset>
+    </item>
+    <item index="23">
+      <title>Chapter 24</title>
+      <end_time_offset>-1</end_time_offset>
+      <start_time_offset>5631000</start_time_offset>
+    </item>
+  </chapters>
+  <themes/>
+  <quotes/>
+  <year>2016</year>
+  <duration>5880000</duration>
+  <genres>
+    <item index="0">Adventure</item>
+    <item index="1">Comedy</item>
+    <item index="2">Romance</item>
+  </genres>
+  <title>Mike and Dave Need Wedding Dates</title>
+  <tagline>They needed hot dates. They got hot messes.</tagline>
+  <content_rating_age/>
+  <rating_count/>
+  <collections/>
+  <trivia/>
+  <tags/>
+  <audience_rating_image>rottentomatoes://image.rating.spilled</audience_rating_image>
+  <rating_image>rottentomatoes://image.rating.rotten</rating_image>
+  <producers>
+    <item index="0">
+      <photo>http://image.tmdb.org/t/p/original/gOu5LAiaKqjMVklZ4Xi5uKIImfb.jpg</photo>
+      <role/>
+      <name>Peter Chernin</name>
+    </item>
+    <item index="1">
+      <photo>http://image.tmdb.org/t/p/original/gfJOKZPSbpzls7FV0Ogv4IpEeXh.jpg</photo>
+      <role/>
+      <name>Jonathan Levine</name>
+    </item>
+    <item index="2">
+      <photo>http://image.tmdb.org/t/p/original/tOti87QZZwyBp1iujzPTib9AwuU.jpg</photo>
+      <role/>
+      <name>Jenno Topping</name>
+    </item>
+  </producers>
+  <audience_rating>5.1</audience_rating>
+  <studio>20th Century Fox</studio>
+  <posters>
+    <item external="True" url="http://image.tmdb.org/t/p/original/u8ynhM5I8D7jG2dUE6KlsOgwYYp.jpg" preview="60ed9524145be7887a407661dc815002c140a4fa" sort_order="1"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/3DwSh0AsBxPUxQ9x4yDuRNoYOW7.jpg" preview="0db985ef7897c3f4e7d287a66a987305ada91024" sort_order="2"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/N9IKq9JbZJ9eyT6pPWr9daiaIf.jpg" preview="db11bb050ee68c741ade88a29998fa4ac4fb58cb" sort_order="3"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/oAu6ed74n0du9mvBqsyxQSv5Sjc.jpg" preview="c356b837341ced800a76064ed94f2550182fde82" sort_order="4"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/sObRosSVAH4eq5bcR9oZbyQOGMs.jpg" preview="832cdb0dfdb7a8fbdc0b32b6831dcf59b9cce6f1" sort_order="5"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/zfY92ye2kdLjzj70bd9WGs1EFT0.jpg" preview="cc5cfbf7f96f66658c2d67248a1f018ef8e5df3a" sort_order="6"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/gU1Q61srFImXjv4990O508p8kcN.jpg" preview="8707052e4466910bd26c036e7c53cff6f45bb9fe" sort_order="7"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/osQ3DCcnlvrsOviCdtWp9KG0T4o.jpg" preview="ac6abcb736db0e27b1d9bacb1ebf3e02cfe5b915" sort_order="8"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/aGOlpVYWUDNO0HVaiDeT1ylFKAi.jpg" preview="412e0b2df913351b087d9bbac437edcf8683e72c" sort_order="9"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/mR2Xi7xHe4IlHZp9NWh4UzipFH9.jpg" preview="3ea7a5047dd976425b503e905a32fe2fa4e9e969" sort_order="10"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/iXGSCVInaaym5Zjx4FrkFdRa6k9.jpg" preview="40f97d28ae39f3fbc92078f49236b861858fb073" sort_order="11"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/mHPGdHybG0S1rTZn63jIPa3xqGx.jpg" preview="48112117a76a47e89e37aa1998015ad8e2317687" sort_order="12"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/whnhjlRn6MJ8GOfVQ7B0JVAa9fj.jpg" preview="b1791c0dfdd876f806d529b0de544fc33cf4b9c7" sort_order="13"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/2HlNAXiWC7g5aXQr0VdfYuGHNVI.jpg" preview="2b45b8f2118efbc3599c387fd3e22290d9eafb01" sort_order="14"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/vJS9shmi0OBDPJ3nxPCCxDJkQQF.jpg" preview="4d30a9669e2452ed8035bc9f8ce4cf25a63a61a3" sort_order="15"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/mfo9gNCH7wQkBjUTjQg0hvXm1YI.jpg" preview="5b8a69de4ac2f1ad8f4fc763580cb588f7f31cab" sort_order="16"/>
+  </posters>
+  <originally_available_at>2016-07-07</originally_available_at>
+  <roles>
+    <item index="0">
+      <photo>http://image.tmdb.org/t/p/original/l0nzNkwTTT4a7QDC3HzYQSYsyXY.jpg</photo>
+      <role>Dave Stangle</role>
+      <name>Zac Efron</name>
+    </item>
+    <item index="1">
+      <photo>http://image.tmdb.org/t/p/original/6qDsS9jcywuajS7gB8gLuQRJ7Um.jpg</photo>
+      <role>Mike Stangle</role>
+      <name>Adam Devine</name>
+    </item>
+    <item index="2">
+      <photo>http://image.tmdb.org/t/p/original/azYQijqqcbYAKnRtSrwMWUgcNvz.jpg</photo>
+      <role>Alice</role>
+      <name>Anna Kendrick</name>
+    </item>
+    <item index="3">
+      <photo>http://image.tmdb.org/t/p/original/k2iT2kn43LLNSUj5pY7GHVNNnhc.jpg</photo>
+      <role>Tatiana</role>
+      <name>Aubrey Plaza</name>
+    </item>
+    <item index="4">
+      <photo>http://image.tmdb.org/t/p/original/qTI1upMSsDTvPGlF5iA85RzZkgP.jpg</photo>
+      <role>Eric</role>
+      <name>Sam Richardson</name>
+    </item>
+    <item index="5">
+      <photo>http://image.tmdb.org/t/p/original/sceCvLiv8xe2jQzrVn39wvosVHG.jpg</photo>
+      <role>Burt</role>
+      <name>Stephen Root</name>
+    </item>
+    <item index="6">
+      <photo>http://image.tmdb.org/t/p/original/vEROfgz3JpfPyN3Qjh0Maf0GUq0.jpg</photo>
+      <role>Jeanie Stangle</role>
+      <name>Sugar Lyn Beard</name>
+    </item>
+    <item index="7">
+      <photo>http://image.tmdb.org/t/p/original/d8i0tFr9JDfhGUhKtr25HnZey3s.jpg</photo>
+      <role>Kalani - BBQ Chef</role>
+      <name>Branscombe Richmond</name>
+    </item>
+    <item index="8">
+      <photo>http://image.tmdb.org/t/p/original/zgUiWlWf2JvVYRO7aX9WUAuwYQR.jpg</photo>
+      <role>Randy</role>
+      <name>Marc Maron</name>
+    </item>
+    <item index="9">
+      <photo>http://image.tmdb.org/t/p/original/7X6pb4SDs9RoXi5gI4Nl8ZiPO4l.jpg</photo>
+      <role>Ronnie</role>
+      <name>Jake Johnson</name>
+    </item>
+    <item index="10">
+      <photo>http://image.tmdb.org/t/p/original/iwXKkvLsx6OziQewxFtR35OYUwq.jpg</photo>
+      <role>Keanu</role>
+      <name>Kumail Nanjiani</name>
+    </item>
+    <item index="11">
+      <photo>http://image.tmdb.org/t/p/original/6grB8sEp4RZ1pZu73tv4OJOmO0i.jpg</photo>
+      <role>Kai - Hotel Manager</role>
+      <name>Eugene Cordero</name>
+    </item>
+    <item index="12">
+      <photo>http://image.tmdb.org/t/p/original/nKGyoWLGuD6TFjWkmGTYbeZmxXc.jpg</photo>
+      <role>Becky</role>
+      <name>Mary Holland</name>
+    </item>
+    <item index="13">
+      <photo>http://image.tmdb.org/t/p/original/cRuAuR5NIMPhf8AqvhxuhU3plrI.jpg</photo>
+      <role>Office Nicole</role>
+      <name>Nicole Byer</name>
+    </item>
+    <item index="14">
+      <photo>http://image.tmdb.org/t/p/original/d9t4yXYg52tqmDt0LSMZo6CkQYm.jpg</photo>
+      <role>Office Stephanie</role>
+      <name>Stephanie Allynne</name>
+    </item>
+    <item index="15">
+      <photo>http://image.tmdb.org/t/p/original/7j9F8UbqAaosPLd7p2bk51Swa72.jpg</photo>
+      <role>Apartment Chloe</role>
+      <name>Chloe Bridges</name>
+    </item>
+    <item index="16">
+      <photo>http://image.tmdb.org/t/p/original/72mufI3ssuM1h1Cm7pX3kGapzXo.jpg</photo>
+      <role>Rosie</role>
+      <name>Stephanie Faracy</name>
+    </item>
+    <item index="17">
+      <photo>http://image.tmdb.org/t/p/original/3XiNIlyaDzPs7Pd6VBn2Y1BgQ7i.jpg</photo>
+      <role>Cousin Terry</role>
+      <name>Alice Wetterlund</name>
+    </item>
+    <item index="18">
+      <photo>http://image.tmdb.org/t/p/original/v14PrUzfZUUZCZpyduDdnPJvLlD.jpg</photo>
+      <role>Keith</role>
+      <name>Lavell Crawford</name>
+    </item>
+    <item index="19">
+      <photo>http://image.tmdb.org/t/p/original/fc3e2SVDCt27SczfHMOK9hnsDp8.jpg</photo>
+      <role>Driver</role>
+      <name>Erik Griffin</name>
+    </item>
+    <item index="20">
+      <photo>http://image.tmdb.org/t/p/original/9gHwR9DJr0AA0bY6kHdp5xpT3Ab.jpg</photo>
+      <role>Stable Guy</role>
+      <name>Jake Szymanski</name>
+    </item>
+    <item index="21">
+      <photo>http://image.tmdb.org/t/p/original/xSlH1sxln1EpC4FUqqQTgzC8jWi.jpg</photo>
+      <role>Wendy Williams</role>
+      <name>Wendy Williams</name>
+    </item>
+    <item index="22">
+      <photo/>
+      <role>Luke</role>
+      <name>Kyle Smigielski</name>
+    </item>
+    <item index="23">
+      <photo/>
+      <role>Twin Sister #1</role>
+      <name>Andrea Miceli</name>
+    </item>
+    <item index="24">
+      <photo/>
+      <role>Twin Sister #2</role>
+      <name>Nancy Miceli</name>
+    </item>
+    <item index="25">
+      <photo/>
+      <role>Call Girl</role>
+      <name>Christina Souza</name>
+    </item>
+    <item index="26">
+      <photo>http://image.tmdb.org/t/p/original/qr5B0p50e5RYQlFis7aK247HQJh.jpg</photo>
+      <role>Russian Call Girl</role>
+      <name>Olga Kalashnikova</name>
+    </item>
+    <item index="27">
+      <photo/>
+      <role>White Supremacist Girl</role>
+      <name>Ashley Hobbs</name>
+    </item>
+    <item index="28">
+      <photo>http://image.tmdb.org/t/p/original/fmviHMBFTUJoINoNIZF91KsI5Uj.jpg</photo>
+      <role>Grungy Girl #1</role>
+      <name>Julia Fae</name>
+    </item>
+    <item index="29">
+      <photo>http://image.tmdb.org/t/p/original/90VEokbYEtLOOyXx6YXpeFY6vh8.jpg</photo>
+      <role>Grungy Girl #2</role>
+      <name>Andrea Russett</name>
+    </item>
+    <item index="30">
+      <photo/>
+      <role>Militant Girl #1</role>
+      <name>Danielle Zalopany</name>
+    </item>
+    <item index="31">
+      <photo/>
+      <role>Militant Girl #2</role>
+      <name>Tabitha Humphrey</name>
+    </item>
+    <item index="32">
+      <photo>http://image.tmdb.org/t/p/original/rdgIdoHMhXJZu02QbP7r9EUXzNK.jpg</photo>
+      <role>Bob / Lauralie</role>
+      <name>Bob Turton</name>
+    </item>
+    <item index="33">
+      <photo/>
+      <role>Office Jennie</role>
+      <name>Jennie Pierson</name>
+    </item>
+    <item index="34">
+      <photo>http://image.tmdb.org/t/p/original/r9o9ensXxCprfaOzyGUA3FM3VpX.jpg</photo>
+      <role>Café Hilty</role>
+      <name>Hilty Bowen</name>
+    </item>
+    <item index="35">
+      <photo>http://image.tmdb.org/t/p/original/ywVi9L3ginrmnRd3eQ7t0Pb0nWb.jpg</photo>
+      <role>Café Tanisha</role>
+      <name>Tanisha Long</name>
+    </item>
+    <item index="36">
+      <photo>http://image.tmdb.org/t/p/original/cAp8Sf5EHdYNk8A3mSKu6nP3Ztf.jpg</photo>
+      <role>Apartment Cass</role>
+      <name>Cass Buggé</name>
+    </item>
+    <item index="37">
+      <photo>http://image.tmdb.org/t/p/original/flGkyVFmK5HFFuk7PBCmbavZtLl.jpg</photo>
+      <role>Apartment Ayden</role>
+      <name>Ayden Mayeri</name>
+    </item>
+    <item index="38">
+      <photo/>
+      <role>Local Newscaster</role>
+      <name>Liberte Chan</name>
+    </item>
+    <item index="39">
+      <photo>http://image.tmdb.org/t/p/original/valrNhyPjmx293dnNrzfe5CwZYa.jpg</photo>
+      <role>Sandra</role>
+      <name>Sandra Davis</name>
+    </item>
+    <item index="40">
+      <photo>http://image.tmdb.org/t/p/original/iInIknrr3PDcvbEEm4e43UkBWjB.jpg</photo>
+      <role>Jessika the Girl in Street</role>
+      <name>Jessika Van</name>
+    </item>
+    <item index="41">
+      <photo/>
+      <role>Grandpa Stangle</role>
+      <name>Don Pomes</name>
+    </item>
+    <item index="42">
+      <photo>http://image.tmdb.org/t/p/original/bsFDgbiULRg2RRiONrYt3fCWpq5.jpg</photo>
+      <role>Grandma Stangle</role>
+      <name>Sally Jackson</name>
+    </item>
+    <item index="43">
+      <photo/>
+      <role>Frat Dude</role>
+      <name>Rory Hart</name>
+    </item>
+    <item index="44">
+      <photo>http://image.tmdb.org/t/p/original/6bgzUdNPLnmWfnow1QDMrDukbBh.jpg</photo>
+      <role>Anniversary Montage Girl</role>
+      <name>Katherine Klosterman</name>
+    </item>
+    <item index="45">
+      <photo/>
+      <role>Father Mike</role>
+      <name>Michael C. Price</name>
+    </item>
+    <item index="46">
+      <photo/>
+      <role>Reception Singer</role>
+      <name>Paula Fuga</name>
+    </item>
+    <item index="47">
+      <photo/>
+      <role>Rough Rider Singer</role>
+      <name>John Cruz</name>
+    </item>
+    <item index="48">
+      <photo/>
+      <role>Rough Rider Singer</role>
+      <name>Henry Kapono Ka'aihue</name>
+    </item>
+    <item index="49">
+      <photo/>
+      <role>Rough Rider Singer</role>
+      <name>Brother Noland</name>
+    </item>
+    <item index="50">
+      <photo>http://image.tmdb.org/t/p/original/3uMoltumTagnTgyfaghG3B5WHbu.jpg</photo>
+      <role>Weird Girl #1 (uncredited)</role>
+      <name>Kimee Balmilero</name>
+    </item>
+    <item index="51">
+      <photo>http://image.tmdb.org/t/p/original/qXsEXcVlpArdm0FlLJpmLA3VKUF.jpg</photo>
+      <role>Maseuse (uncredited)</role>
+      <name>Sharon M. Bell</name>
+    </item>
+    <item index="52">
+      <photo>http://image.tmdb.org/t/p/original/bLU87BEigDvo4SQthlArtekqBLr.jpg</photo>
+      <role>Beautiful Woman (uncredited)</role>
+      <name>Alexia Rae Castillo</name>
+    </item>
+    <item index="53">
+      <photo>http://image.tmdb.org/t/p/original/cENgnt7k4HF0QLTKD00h4s8fDGp.jpg</photo>
+      <role>Dave's Girl (uncredited)</role>
+      <name>Gina Evangelisti</name>
+    </item>
+    <item index="54">
+      <photo>http://image.tmdb.org/t/p/original/93o5DjgNwnfJJyoEQAehX1BpAec.jpg</photo>
+      <role>Pedestrian (uncredited)</role>
+      <name>Margo Kazaryan</name>
+    </item>
+    <item index="55">
+      <photo>http://image.tmdb.org/t/p/original/vjXE5zg9azHj969pKSHdcoqln8g.jpg</photo>
+      <role>Jasmine (uncredited)</role>
+      <name>Julia Levanne</name>
+    </item>
+    <item index="56">
+      <photo>http://image.tmdb.org/t/p/original/6kp7E2KKp9yVOcubja3llTpJBNR.jpg</photo>
+      <role>Office Employee (uncredited)</role>
+      <name>Katarina Pavelek</name>
+    </item>
+    <item index="57">
+      <photo>http://image.tmdb.org/t/p/original/eNy1W7XaJoYFORDM24JreME5PwW.jpg</photo>
+      <role>Weird Girl 2 (uncredited)</role>
+      <name>Jasmin Haugstuen Please</name>
+    </item>
+  </roles>
+  <countries>
+    <item index="0">USA</item>
+  </countries>
+  <content_rating>R</content_rating>
+  <original_title/>
+  <summary>Mike and Dave are young, adventurous, fun-loving brothers who tend to get out of control at family gatherings. When their sister Jeanie reveals her Hawaiian wedding plans, the rest of the Stangles insist that the brothers bring respectable dates. After placing an ad on Craigslist, the siblings decide to pick Tatiana and Alice, two charming and seemingly normal women. Once they arrive on the island, however, Mike and Dave realize that their companions are ready to get wild and party.</summary>
+  <reviews>
+    <item index="0">
+      <text>Every so often in comedy, the filmmakers will get into a creative groove in which every scene is imaginative, almost unhinged and completely successful. This happens in Mike and Dave.</text>
+      <source>San Francisco Chronicle</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>http://www.sfgate.com/movies/article/Not-one-scene-in-Mike-and-Dave-is-funny-8345981.php</link>
+      <author>Mick LaSalle</author>
+    </item>
+    <item index="1">
+      <text>It's like riding a roller coaster fueled by Red Bull and grain alcohol: kind of gross but pretty fun, too.</text>
+      <source>Entertainment Weekly</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>http://www.ew.com/article/2016/07/05/mike-and-dave-need-wedding-dates-ew-review</link>
+      <author>Leah Greenblatt</author>
+    </item>
+    <item index="2">
+      <text>A fine cast goes to waste in this risk-free and cliché-riddled comedy, loosely based on a true story.</text>
+      <source>New Yorker</source>
+      <image>rottentomatoes://image.review.rotten</image>
+      <link>http://www.newyorker.com/goings-on-about-town/movies/mike-and-dave-need-wedding-dates-2</link>
+      <author>Richard Brody</author>
+    </item>
+    <item index="3">
+      <text>has the jumpy exuberance of a puppy that won't stop humping your leg. It's a bummer that the jokes don't land often enough.</text>
+      <source>Rolling Stone</source>
+      <image>rottentomatoes://image.review.rotten</image>
+      <link>http://www.rollingstone.com/movies/reviews/mike-and-dave-need-wedding-dates-20160708</link>
+      <author>Peter Travers</author>
+    </item>
+    <item index="4">
+      <text>There's nothing clever here. The filmmakers believe that broad, obvious gags, pratfalls, and profanity-laced tirades are inherently funny. They're not.</text>
+      <source>ReelViews</source>
+      <image>rottentomatoes://image.review.rotten</image>
+      <link>http://www.reelviews.net/reelviews/mike-and-dave-need-wedding-dates</link>
+      <author>James Berardinelli</author>
+    </item>
+    <item index="5">
+      <text>Doesn't even convincingly craft its own internal reality. There are no rules or character motivations, words come out of Zac Efron's mouth when it isn't moving, and Anna Kendrick's wig changes color seemingly at random.</text>
+      <source>Los Angeles Times</source>
+      <image>rottentomatoes://image.review.rotten</image>
+      <link>http://www.latimes.com/entertainment/movies/la-et-mn-mike-dave-wedding-dates-review-20160705-snap-story.html</link>
+      <author>Katie Walsh</author>
+    </item>
+    <item index="6">
+      <text>You never quite believe these women belong with Devine and Efron's Hollywood-generic douche bags -- it feels like a failure of the script, if not the entire industry. If you don't think about it too hard, you won't hate it.</text>
+      <source>Time Out</source>
+      <image>rottentomatoes://image.review.rotten</image>
+      <link>http://www.timeout.com/us/film/mike-and-dave-need-wedding-dates</link>
+      <author>Joshua Rothkopf</author>
+    </item>
+    <item index="7">
+      <text>Sometimes a movie seems like it was more fun to make than it is to watch. Mike and Dave Need Wedding Dates is one of those movies.</text>
+      <source>L.A. Weekly</source>
+      <image>rottentomatoes://image.review.rotten</image>
+      <link>http://www.laweekly.com/film/mike-and-dave-need-a-better-movie-7088983</link>
+      <author>April Wolfe</author>
+    </item>
+    <item index="8">
+      <text>It's possible I saw it on the wrong night, in the wrong mood. But I'm fed up with the cheap laziness of this strain of comedy.</text>
+      <source>Globe and Mail</source>
+      <image>rottentomatoes://image.review.rotten</image>
+      <link>http://www.theglobeandmail.com/arts/film/film-reviews/mike-and-dave-need-wedding-dates-is-a-cheap-lazy-and-gross-bit-of-idiocy/article30794522/</link>
+      <author>Johanna Schneller</author>
+    </item>
+    <item index="9">
+      <text>The movie goes for a bawdy, "outrageous" vibe and big laughs, which it lands less than half the time.</text>
+      <source>Detroit News</source>
+      <image>rottentomatoes://image.review.rotten</image>
+      <link>http://www.detroitnews.com/story/entertainment/movies/2016/07/08/review-mike-dave-needs-wedding-date/86839388/</link>
+      <author>Adam Graham</author>
+    </item>
+    <item index="10">
+      <text>The movie's real value is that it's crude and funny for no defensible reason.</text>
+      <source>TIME Magazine</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>http://time.com/4395602/review-mike-and-dave-need-wedding-dates/</link>
+      <author>Stephanie Zacharek</author>
+    </item>
+    <item index="11">
+      <text>Two idiots need dates; they get them.</text>
+      <source>New York Times</source>
+      <image>rottentomatoes://image.review.rotten</image>
+      <link>http://www.nytimes.com/2016/07/08/movies/mike-and-dave-need-wedding-dates-review-zac-efron-adam-devine.html</link>
+      <author>Manohla Dargis</author>
+    </item>
+    <item index="12">
+      <text>A temper tantrum of a comedy -- makes a lot of noise trying to get what it wants, but laughs here are as non-existent as an exasperated parent's smile in the face of a screaming toddler.</text>
+      <source>TheWrap</source>
+      <image>rottentomatoes://image.review.rotten</image>
+      <link>http://www.thewrap.com/mike-and-dave-need-wedding-dates-review/</link>
+      <author>Robert Abele</author>
+    </item>
+    <item index="13">
+      <text>It wants to be Wedding Crashers, but it's not nearly as memorable, smart, or sweet.</text>
+      <source>Philadelphia Inquirer</source>
+      <image>rottentomatoes://image.review.rotten</image>
+      <link>http://www.philly.com/philly/entertainment/movies/20160708__Mike_and_Dave_Need_Wedding_Dates___Decline_the_invitation.html</link>
+      <author>Molly Eichel</author>
+    </item>
+    <item index="14">
+      <text>This is not great moviemaking by any stretch of the imagination, but the spot-on comic timing of [Kendrick and Plaza] captured my funny bone and kept it happily working overtime from start to finish.</text>
+      <source>Chicago Sun-Times</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>http://chicago.suntimes.com/entertainment/review-mike-and-dave-need-wedding-dates/</link>
+      <author>Bill Zwecker</author>
+    </item>
+    <item index="15">
+      <text>Any such novelty is undercut by the dull certainty that, like the [Wedding Crashers] this one will end with a joyous ceremony and a validation of marriage. Mike and Dave may need wedding dates, but the producers need a date movie.</text>
+      <source>Chicago Reader</source>
+      <image>rottentomatoes://image.review.rotten</image>
+      <link>http://www.chicagoreader.com/chicago/mike-and-dave-need-wedding-dates/MovieTimes?oid=22610989</link>
+      <author>J. R. Jones</author>
+    </item>
+    <item index="16">
+      <text>Some of the dumbest bits (and there are many) don't fail completely because of the talents of the actors, especially DeVine, whose line readings throughout are sensational.</text>
+      <source>New York Post</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>http://nypost.com/2016/07/07/mike-and-dave-need-wedding-dates-is-filthy-and-hilarious/</link>
+      <author>Kyle Smith</author>
+    </item>
+    <item index="17">
+      <text>There are some solid laughs, even if most of it rings familiar.</text>
+      <source>Toronto Star</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>https://www.thestar.com/entertainment/movies/2016/07/07/in-mike-and-dave-ladies-steal-the-bro-show-review.html</link>
+      <author>Linda Barnard</author>
+    </item>
+    <item index="18">
+      <text>It's asinine in an almost irresistible way. The film has an unapologetically dirty mind, except when it seems to have no mind at all, which is frequent.</text>
+      <source>Minneapolis Star Tribune</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>http://www.startribune.com/review-shameless-fun-is-the-name-of-the-game-in-mike-and-dave-need-wedding-dates/385875551/</link>
+      <author>Colin Covert</author>
+    </item>
+    <item index="19">
+      <text>It's bizarre and vulgar, but also too funny to resist.</text>
+      <source>Washington Post</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>https://www.washingtonpost.com/goingoutguide/movies/mike-and-dave-need-wedding-dates-is-a-stupid--and-funny--raunch-fest/2016/07/07/c9b0d09c-3eec-11e6-84e8-1580c7db5275_story.html</link>
+      <author>Stephanie Merry</author>
+    </item>
+  </reviews>
+  <directors>
+    <item index="0">
+      <photo>http://image.tmdb.org/t/p/original/9gHwR9DJr0AA0bY6kHdp5xpT3Ab.jpg</photo>
+      <role/>
+      <name>Jake Szymanski</name>
+    </item>
+  </directors>
+  <extras external="True" extension="xml"/>
+  <banners/>
+  <similar>
+    <item index="0">Neighbors 2: Sorority Rising</item>
+    <item index="1">Dirty Grandpa</item>
+    <item index="2">Bad Moms</item>
+    <item index="3">How to Be Single</item>
+    <item index="4">Office Christmas Party</item>
+    <item index="5">Keeping Up with the Joneses</item>
+    <item index="6">Central Intelligence</item>
+    <item index="7">Mr. Right</item>
+    <item index="8">Why Him?</item>
+    <item index="9">Get a Job</item>
+    <item index="10">Daddy's Home</item>
+    <item index="11">Sisters</item>
+    <item index="12">The Boss</item>
+    <item index="13">Vacation</item>
+    <item index="14">We Are Your Friends</item>
+    <item index="15">That Awkward Moment</item>
+    <item index="16">Neighbors</item>
+    <item index="17">War Dogs</item>
+    <item index="18">The Night Before</item>
+    <item index="19">Trainwreck</item>
+  </similar>
+</Movie>

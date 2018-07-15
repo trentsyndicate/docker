@@ -1,0 +1,608 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Movie>
+  <art>
+    <item external="True" url="http://image.tmdb.org/t/p/original/kxrCmWUpJGzdeEzAuOnJ8u9GVzi.jpg" sort_order="1" provider="com.plexapp.agents.imdb" media="com.plexapp.agents.imdb_f1ffe0c8339a4b57ceddf598cbb883f08c8dba96"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/71Pih8ZCoiMnC37zj90DMzKFWPL.jpg" preview="com.plexapp.agents.imdb_03450371a8ae81c0cc692f5cac299a3224f2c405" sort_order="2" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/4buDbPAsRWQ0uTLlSDGm5nz9gi2.jpg" preview="com.plexapp.agents.imdb_7e832d36fb93489ab2dcc96a4db4bf3a7949968a" sort_order="3" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/vQy5lDDqYqbrcXgWdEJV5FQuDvU.jpg" preview="com.plexapp.agents.imdb_62d97f6a0d22ca96ba9f9a78b361b775a44c60e5" sort_order="4" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/bRorp1LY9JFC2rhtB1BJXZbozaY.jpg" preview="com.plexapp.agents.imdb_ff539d15c813e95e1f3a0a5e212d313093c41245" sort_order="5" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/cckgtzQJaU8IuBGbst7772iIGZI.jpg" preview="com.plexapp.agents.imdb_ceebb5c018f5b2f36b9820a79a668f0295aacb1c" sort_order="6" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/niJFE04PDIFuinw4VftqS1VcAab.jpg" preview="com.plexapp.agents.imdb_c93ccaec283135daad7840348678e9722ca08089" sort_order="7" provider="com.plexapp.agents.imdb"/>
+  </art>
+  <banners/>
+  <chapters>
+    <item index="0">
+      <title>Chapter 1</title>
+      <end_time_offset>258000</end_time_offset>
+      <start_time_offset>0</start_time_offset>
+    </item>
+    <item index="1">
+      <title>Chapter 2</title>
+      <end_time_offset>465000</end_time_offset>
+      <start_time_offset>258000</start_time_offset>
+    </item>
+    <item index="2">
+      <title>Chapter 3</title>
+      <end_time_offset>605000</end_time_offset>
+      <start_time_offset>465000</start_time_offset>
+    </item>
+    <item index="3">
+      <title>Chapter 4</title>
+      <end_time_offset>877000</end_time_offset>
+      <start_time_offset>605000</start_time_offset>
+    </item>
+    <item index="4">
+      <title>Chapter 5</title>
+      <end_time_offset>1062000</end_time_offset>
+      <start_time_offset>877000</start_time_offset>
+    </item>
+    <item index="5">
+      <title>Chapter 6</title>
+      <end_time_offset>1386000</end_time_offset>
+      <start_time_offset>1062000</start_time_offset>
+    </item>
+    <item index="6">
+      <title>Chapter 7</title>
+      <end_time_offset>1715000</end_time_offset>
+      <start_time_offset>1386000</start_time_offset>
+    </item>
+    <item index="7">
+      <title>Chapter 8</title>
+      <end_time_offset>1933000</end_time_offset>
+      <start_time_offset>1715000</start_time_offset>
+    </item>
+    <item index="8">
+      <title>Chapter 9</title>
+      <end_time_offset>2229000</end_time_offset>
+      <start_time_offset>1933000</start_time_offset>
+    </item>
+    <item index="9">
+      <title>Chapter 10</title>
+      <end_time_offset>2390000</end_time_offset>
+      <start_time_offset>2229000</start_time_offset>
+    </item>
+    <item index="10">
+      <title>Chapter 11</title>
+      <end_time_offset>2573000</end_time_offset>
+      <start_time_offset>2390000</start_time_offset>
+    </item>
+    <item index="11">
+      <title>Chapter 12</title>
+      <end_time_offset>2806000</end_time_offset>
+      <start_time_offset>2573000</start_time_offset>
+    </item>
+    <item index="12">
+      <title>Chapter 13</title>
+      <end_time_offset>3071000</end_time_offset>
+      <start_time_offset>2806000</start_time_offset>
+    </item>
+    <item index="13">
+      <title>Chapter 14</title>
+      <end_time_offset>3281000</end_time_offset>
+      <start_time_offset>3071000</start_time_offset>
+    </item>
+    <item index="14">
+      <title>Chapter 15</title>
+      <end_time_offset>3541000</end_time_offset>
+      <start_time_offset>3281000</start_time_offset>
+    </item>
+    <item index="15">
+      <title>Chapter 16</title>
+      <end_time_offset>3801000</end_time_offset>
+      <start_time_offset>3541000</start_time_offset>
+    </item>
+    <item index="16">
+      <title>Chapter 17</title>
+      <end_time_offset>4122000</end_time_offset>
+      <start_time_offset>3801000</start_time_offset>
+    </item>
+    <item index="17">
+      <title>Chapter 18</title>
+      <end_time_offset>4385000</end_time_offset>
+      <start_time_offset>4122000</start_time_offset>
+    </item>
+    <item index="18">
+      <title>Chapter 19</title>
+      <end_time_offset>4622000</end_time_offset>
+      <start_time_offset>4385000</start_time_offset>
+    </item>
+    <item index="19">
+      <title>Chapter 20</title>
+      <end_time_offset>4933000</end_time_offset>
+      <start_time_offset>4622000</start_time_offset>
+    </item>
+    <item index="20">
+      <title>Chapter 21</title>
+      <end_time_offset>5216000</end_time_offset>
+      <start_time_offset>4933000</start_time_offset>
+    </item>
+    <item index="21">
+      <title>Chapter 22</title>
+      <end_time_offset>5454000</end_time_offset>
+      <start_time_offset>5216000</start_time_offset>
+    </item>
+    <item index="22">
+      <title>Chapter 23</title>
+      <end_time_offset>5879000</end_time_offset>
+      <start_time_offset>5454000</start_time_offset>
+    </item>
+    <item index="23">
+      <title>Chapter 24</title>
+      <end_time_offset>6102000</end_time_offset>
+      <start_time_offset>5879000</start_time_offset>
+    </item>
+    <item index="24">
+      <title>Chapter 25</title>
+      <end_time_offset>6237000</end_time_offset>
+      <start_time_offset>6102000</start_time_offset>
+    </item>
+    <item index="25">
+      <title>Chapter 26</title>
+      <end_time_offset>6445000</end_time_offset>
+      <start_time_offset>6237000</start_time_offset>
+    </item>
+    <item index="26">
+      <title>Chapter 27</title>
+      <end_time_offset>6641000</end_time_offset>
+      <start_time_offset>6445000</start_time_offset>
+    </item>
+    <item index="27">
+      <title>Chapter 28</title>
+      <end_time_offset>-1</end_time_offset>
+      <start_time_offset>6641000</start_time_offset>
+    </item>
+  </chapters>
+  <collections/>
+  <content_rating>R</content_rating>
+  <countries>
+    <item index="0">USA</item>
+  </countries>
+  <directors>
+    <item index="0">
+      <photo>http://image.tmdb.org/t/p/original/tgE3z5WbXyaxKcgEEIaaEic988h.jpg</photo>
+      <role/>
+      <name>Nate Parker</name>
+    </item>
+  </directors>
+  <duration>7200000</duration>
+  <genres>
+    <item index="0">Biography</item>
+    <item index="1">Drama</item>
+    <item index="2">History</item>
+  </genres>
+  <originally_available_at>2016-09-09</originally_available_at>
+  <posters>
+    <item external="True" url="http://image.tmdb.org/t/p/original/5TV8aL6bAD3Sd337vCtwcA23caF.jpg" sort_order="1" provider="com.plexapp.agents.imdb" media="com.plexapp.agents.imdb_778edcdbc5d37de27ce8cafb4f381fd73ba9904d"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/qJrtZu0ivTW6DFJaeu8AB5OKKhg.jpg" preview="com.plexapp.agents.imdb_ea372bf00569ccfebb33b8154d4d670c524e35ed" sort_order="2" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/v7mkXnyJLpWT5mH8fspX3biIrxF.jpg" preview="com.plexapp.agents.imdb_6dec3a0c2689be527e307989359d040588141e57" sort_order="3" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/5L3pNU2OM12NfZyC9g1iw9LBBbL.jpg" preview="com.plexapp.agents.imdb_4cabacbada0a21c3c9e9109ad5531f0c85680813" sort_order="4" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/aDAjlXRQ3snOgrPy4CBErXl3gMa.jpg" preview="com.plexapp.agents.imdb_c93e8b3211882348a91485354230be50021408e2" sort_order="5" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/2Zu66WvmjAbyV8WzwatcZSHWSpB.jpg" preview="com.plexapp.agents.imdb_d9f557df58f7737c2955c5d9782e2f76622f8d48" sort_order="6" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/4vmZwSSx6gRnTrY9wrSKM1HlYML.jpg" preview="com.plexapp.agents.imdb_38dc9f27cb138170260b9ac1a1c0c5d46525f150" sort_order="7" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/9dusSKWXW58osmVHKfMf7hL6smL.jpg" preview="com.plexapp.agents.imdb_55e21cc07c0f42b53738aa4ff13c2517d7ab8a66" sort_order="8" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/kLDNJwHTNJv6koNkei47Ly32qoZ.jpg" preview="com.plexapp.agents.imdb_6f058ec5c6786f6b490fc7f02f2560da53fd7da2" sort_order="9" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/vgWraplXDZlCllfAVazctqWVPGI.jpg" preview="com.plexapp.agents.imdb_c6a33011810901ae06b955e59581c33a9704b972" sort_order="10" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/kQB29q0sBcnrh0OgOgO4QALrC5J.jpg" preview="com.plexapp.agents.imdb_26f1074daf3d16bee20e0b3862168a768d4a18de" sort_order="11" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/jDrRqnPdS7tuzBey1TalFCHLpYO.jpg" preview="com.plexapp.agents.imdb_adf99aa561a5189c1cf4265903540e53828667bf" sort_order="12" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/bQRVuto2fVnQYwWrhYwqJ66uxc7.jpg" preview="com.plexapp.agents.imdb_5705078cd6b7ee9860829bc6a4db399f07ecb20e" sort_order="13" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/6hHjtVQpPf1aO37l8rh4QwNiLm.jpg" preview="com.plexapp.agents.imdb_44217544f2402a5472137d372a27b2d9646cd787" sort_order="14" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/sUlFrVt5DW5642BEIimU4RyO30p.jpg" preview="com.plexapp.agents.imdb_c1c8b8979224518726a151dbdda2bce2df0c2e4b" sort_order="15" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/j5neiZHcfoEK9smVbwk00JD6hZJ.jpg" preview="com.plexapp.agents.imdb_8e2364d4fef47f138a603f927650c9f437df4d32" sort_order="16" provider="com.plexapp.agents.imdb"/>
+  </posters>
+  <producers>
+    <item index="0">
+      <photo/>
+      <role/>
+      <name>Jason Michael Berman</name>
+    </item>
+    <item index="1">
+      <photo/>
+      <role/>
+      <name>Aaron L. Gilbert</name>
+    </item>
+    <item index="2">
+      <photo/>
+      <role/>
+      <name>Preston L. Holmes</name>
+    </item>
+    <item index="3">
+      <photo>http://image.tmdb.org/t/p/original/tgE3z5WbXyaxKcgEEIaaEic988h.jpg</photo>
+      <role/>
+      <name>Nate Parker</name>
+    </item>
+    <item index="4">
+      <photo/>
+      <role/>
+      <name>Kevin Turen</name>
+    </item>
+  </producers>
+  <rating>7.2</rating>
+  <rating_image>rottentomatoes://image.rating.ripe</rating_image>
+  <audience_rating>7.2</audience_rating>
+  <audience_rating_image>rottentomatoes://image.rating.upright</audience_rating_image>
+  <reviews>
+    <item index="0">
+      <text>Parker's film is at its best when he presents his harrowing story straightforwardly.</text>
+      <source>The Atlantic</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>http://www.theatlantic.com/entertainment/archive/2016/10/grappling-with-the-birth-of-a-nation/503246/</link>
+      <author>Christopher Orr</author>
+    </item>
+    <item index="1">
+      <text>A seriously damaged and inadequate movie ... its defects reveal traits of character-arrogance, vanity, and self-importance-that exert an unfortunately strong influence on Parker's directorial choices.</text>
+      <source>New Yorker</source>
+      <image>rottentomatoes://image.review.rotten</image>
+      <link>http://www.newyorker.com/culture/richard-brody/the-cinematic-merits-and-flaws-of-nate-parkers-the-birth-of-a-nation</link>
+      <author>Richard Brody</author>
+    </item>
+    <item index="2">
+      <text>If you forgive him enough to see it, The Birth of a Nation offers a troubling tangle of the personal and historical. But above all else it's commercial, an entertainment of purpose and some power.</text>
+      <source>Village Voice</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>http://www.villagevoice.com/film/nate-parkers-slave-rebellion-thriller-the-birth-of-a-nation-seeks-absolution-9171996</link>
+      <author>Alan Scherstuhl</author>
+    </item>
+    <item index="3">
+      <text>The Birth of a Nation is a flawed but fairly compelling chapter of the American story that powerfully resonates with how that story is playing out today.</text>
+      <source>Washington Post</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>https://www.washingtonpost.com/goingoutguide/movies/nate-parkers-the-birth-of-a-nation-finally-makes-its-mass-audience-debut/2016/10/06/1ece77a0-8970-11e6-875e-2c1bfe943b66_story.html</link>
+      <author>Ann Hornaday</author>
+    </item>
+    <item index="4">
+      <text>The highly charged arena into which this film about America's bloodiest slave revolt arrives gives it a cachet that, in artistic if not sociological terms, it does not really merit.</text>
+      <source>Christian Science Monitor</source>
+      <image>rottentomatoes://image.review.rotten</image>
+      <link>http://www.csmonitor.com/The-Culture/Movies/2016/1007/The-Birth-of-a-Nation-is-heavy-handed-and-hero-worshiping</link>
+      <author>Peter Rainer</author>
+    </item>
+    <item index="5">
+      <text>What if the way to honor Nat Turner is to pay attention to artists who aren't shackled by the Academy's limited definition of what a black Best Picture winner is allowed to discuss?</text>
+      <source>MTV</source>
+      <image>rottentomatoes://image.review.rotten</image>
+      <link>http://www.mtv.com/news/2940904/the-birth-of-a-nation-nate-parker-review/</link>
+      <author>Amy Nicholson</author>
+    </item>
+    <item index="6">
+      <text>While The Birth of a Nation certainly has a powerful and important story to tell, it is, ultimately, a story told with little depth or artistry or skill.</text>
+      <source>Globe and Mail</source>
+      <image>rottentomatoes://image.review.rotten</image>
+      <link>http://www.theglobeandmail.com/arts/film/film-reviews/the-birth-of-a-nation-is-as-fraught-as-director-and-star-nate-parker/article32272723/</link>
+      <author>Barry Hertz</author>
+    </item>
+    <item index="7">
+      <text>"The Birth of a Nation" aims for the gut and hits its target. Had it aimed a little higher, it might also have hit the mind, as well.</text>
+      <source>Detroit News</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>http://www.detroitnews.com/story/opinion/columnists/adam-graham/2016/10/06/movie-review-stinging-birth-nation-aims-gut/91710540/</link>
+      <author>Adam Graham</author>
+    </item>
+    <item index="8">
+      <text>There's a deliberate mythmaking quality to Parker's reconstruction of the real-life Nat Turner, who was a much more morally complex figure than the righteous avenger Parker writes, directs, and plays him as.</text>
+      <source>Slate</source>
+      <image>rottentomatoes://image.review.rotten</image>
+      <link>http://www.slate.com/articles/arts/movies/2016/10/nate_parker_s_the_birth_of_a_nation_reviewed.html</link>
+      <author>Dana Stevens</author>
+    </item>
+    <item index="9">
+      <text>A fast-moving, deeply absorbing, and thoroughly exciting directorial debut.</text>
+      <source>Philadelphia Inquirer</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>http://www.philly.com/philly/entertainment/movies/20161007_Well_worth_the_hype__Nate_Parker_s_Sundance_sensation_The_Birth_of_a_Nation_is_a_powerful_chronicle_of_American_rebel_Nat_Turner.html</link>
+      <author>Tirdad Derakhshani</author>
+    </item>
+    <item index="10">
+      <text>No, the movie can't escape its maelstrom of bad PR, and reviews aren't written in a vacuum either. But lest the point get lost, what Mr. Parker has committed to the screen is a righteously indignant, kinetic and well-acted film.</text>
+      <source>Wall Street Journal</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>http://www.wsj.com/articles/the-birth-of-a-nation-review-a-struggle-to-match-its-fiery-subject-1475775393</link>
+      <author>John Anderson</author>
+    </item>
+    <item index="11">
+      <text>Despite some over-obvious symbols and heavy-handed soundtrack choices, The Birth of a Nation is a powerful bit of moviemaking about history and the ongoing issue of racial inequality.</text>
+      <source>Toronto Sun</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>http://www.torontosun.com/2016/10/06/the-birth-of-a-nation-review-nate-parkers-slave-drama-demands-to-be-seen</link>
+      <author>Liz Braun</author>
+    </item>
+    <item index="12">
+      <text>The film stands tall on its own merits and deserves to be seen irrespective of the perceived failings of its author.</text>
+      <source>ReelViews</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>http://www.reelviews.net/reelviews/birth-of-a-nation-the</link>
+      <author>James Berardinelli</author>
+    </item>
+    <item index="13">
+      <text>Parker reaches with both hands for greatness and falls short - but this is nevertheless a solid and strong and valuable piece of work.</text>
+      <source>Chicago Sun-Times</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>http://chicago.suntimes.com/entertainment/when-it-works-the-birth-of-a-nation-packs-intense-power/</link>
+      <author>Richard Roeper</author>
+    </item>
+    <item index="14">
+      <text>It's one of the few important movies to hit cinemas this year.</text>
+      <source>New York Post</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>http://nypost.com/2016/10/06/birth-of-a-nation-is-one-of-the-years-best-films/</link>
+      <author>Kyle Smith</author>
+    </item>
+    <item index="15">
+      <text>The real problem is the central character: wearing so many hats at once, Parker fails to communicate the madness and God fever that enabled Turner to mobilize his people in a suicide attack against their captors.</text>
+      <source>Chicago Reader</source>
+      <image>rottentomatoes://image.review.rotten</image>
+      <link>http://www.chicagoreader.com/chicago/the-birth-of-a-nation/MovieTimes?oid=23464228</link>
+      <author>J. R. Jones</author>
+    </item>
+    <item index="16">
+      <text>Instead of a deep, reflective parable, Parker gives us a midrange History Channel special.</text>
+      <source>Minneapolis Star Tribune</source>
+      <image>rottentomatoes://image.review.rotten</image>
+      <link>http://www.startribune.com/there-s-more-action-than-significance-in-birth-of-a-nation-retooling/396176861/</link>
+      <author>Colin Covert</author>
+    </item>
+    <item index="17">
+      <text>The Birth of a Nation is a film for alert minds, even those that can't - and shouldn't - forget the past and present behaviour of its maker.</text>
+      <source>Toronto Star</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>https://www.thestar.com/entertainment/movies/2016/10/06/an-uncomfortable-yet-urgent-watch-the-birth-of-a-nation-review.html</link>
+      <author>Peter Howell</author>
+    </item>
+    <item index="18">
+      <text>A flawed but powerfully affecting film by a flawed but undeniably gifted filmmaker.</text>
+      <source>Entertainment Weekly</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>http://www.ew.com/article/2016/10/06/birth-of-a-nation-ew-review</link>
+      <author>Leah Greenblatt</author>
+    </item>
+    <item index="19">
+      <text>This is very much a debut feature, a passion project from an enthusiastic director still learning the craft.</text>
+      <source>AV Club</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>http://www.avclub.com/review/birth-nation-powerful-imperfect-history-lesson-243719</link>
+      <author>A.A. Dowd</author>
+    </item>
+  </reviews>
+  <roles>
+    <item index="0">
+      <photo>http://image.tmdb.org/t/p/original/tgE3z5WbXyaxKcgEEIaaEic988h.jpg</photo>
+      <role>Nat Turner</role>
+      <name>Nate Parker</name>
+    </item>
+    <item index="1">
+      <photo>http://image.tmdb.org/t/p/original/2zq984Jrw53AxDshTQPKpTPGLe8.jpg</photo>
+      <role>Samuel Turner</role>
+      <name>Armie Hammer</name>
+    </item>
+    <item index="2">
+      <photo>http://image.tmdb.org/t/p/original/euB6B69w3ishCETGHxRJPlUZja1.jpg</photo>
+      <role>Cherry</role>
+      <name>Aja Naomi King</name>
+    </item>
+    <item index="3">
+      <photo>http://image.tmdb.org/t/p/original/38HSlzqG3Cqdm9CEp7l1VUKS8nU.jpg</photo>
+      <role>Raymond Cobb</role>
+      <name>Jackie Earle Haley</name>
+    </item>
+    <item index="4">
+      <photo>http://image.tmdb.org/t/p/original/6wjG6NUBKc6Ca4KX6G6V4t6sU2.jpg</photo>
+      <role>Elizabeth Turner</role>
+      <name>Penelope Ann Miller</name>
+    </item>
+    <item index="5">
+      <photo>http://image.tmdb.org/t/p/original/1UeaAGWmzmTPCZ9mYQVA27yTMPJ.jpg</photo>
+      <role>Esther</role>
+      <name>Gabrielle Union</name>
+    </item>
+    <item index="6">
+      <photo>http://image.tmdb.org/t/p/original/riibKDljUzdSfIZygymhKx9yNPx.jpg</photo>
+      <role>Reverend Zalthall</role>
+      <name>Mark Boone Junior</name>
+    </item>
+    <item index="7">
+      <photo>http://image.tmdb.org/t/p/original/xo8wv5fhpxAPnNA7HS7WH8psguQ.jpg</photo>
+      <role>Nancy Turner</role>
+      <name>Aunjanue Ellis</name>
+    </item>
+    <item index="8">
+      <photo>http://image.tmdb.org/t/p/original/fJZw6IV6j0qKuNRfhYmh1f3PhpT.jpg</photo>
+      <role>Isaac Turner</role>
+      <name>Dwight Henry</name>
+    </item>
+    <item index="9">
+      <photo>http://image.tmdb.org/t/p/original/emrmGHBFIu3JAk65qIpORv6fFoA.jpg</photo>
+      <role>Bridget Turner</role>
+      <name>Esther Scott</name>
+    </item>
+    <item index="10">
+      <photo>http://image.tmdb.org/t/p/original/c6yUnUcbNxCUKAjucLlh6VHzmCd.jpg</photo>
+      <role>Isaiah</role>
+      <name>Roger Guenveur Smith</name>
+    </item>
+    <item index="11">
+      <photo>http://image.tmdb.org/t/p/original/1rkN0DV0XMG7IS6tZ5hgLOijFfr.jpg</photo>
+      <role>Janice</role>
+      <name>Jeryl Prescott</name>
+    </item>
+    <item index="12">
+      <photo>http://image.tmdb.org/t/p/original/otQg0XX0fSnnOHZphdWwwjJc8lA.jpg</photo>
+      <role>Hark</role>
+      <name>Colman Domingo</name>
+    </item>
+    <item index="13">
+      <photo>http://image.tmdb.org/t/p/original/50zoFCmN0qv5AJPhe05p6qVTOXP.jpg</photo>
+      <role>Hank Fowler</role>
+      <name>Dominic Bogart</name>
+    </item>
+    <item index="14">
+      <photo>http://image.tmdb.org/t/p/original/wfjoEPmsZtyNxeBdoeOsf6FuRUq.jpg</photo>
+      <role>Joseph Randall</role>
+      <name>Jason Stuart</name>
+    </item>
+    <item index="15">
+      <photo>http://image.tmdb.org/t/p/original/4IXHwY0kzCYEXBwhCWG8TTlNiq8.jpg</photo>
+      <role>Catherine Turner</role>
+      <name>Katie Garfield</name>
+    </item>
+    <item index="16">
+      <photo>http://image.tmdb.org/t/p/original/3voluDVyMEE7lkFAFOXryU9zvN6.jpg</photo>
+      <role>Earl Fowler</role>
+      <name>Jayson Warner Smith</name>
+    </item>
+    <item index="17">
+      <photo>http://image.tmdb.org/t/p/original/v1cwS9Ia89pO154Wje3m4IxuI3.jpg</photo>
+      <role>General Childs</role>
+      <name>Steve Coulter</name>
+    </item>
+    <item index="18">
+      <photo>http://image.tmdb.org/t/p/original/wDBPXaXjfgzI8Awebc8aM2YByWn.jpg</photo>
+      <role>Young John Clarke</role>
+      <name>Aiden Flowers</name>
+    </item>
+    <item index="19">
+      <photo>http://image.tmdb.org/t/p/original/6DEdP1h8MlbCibQgut0EqpazXDe.jpg</photo>
+      <role>John Clarke Turner</role>
+      <name>Dane Davenport</name>
+    </item>
+    <item index="20">
+      <photo>http://image.tmdb.org/t/p/original/fLBs2Ea0HBqT2wSi9eoRTv7ZCa0.jpg</photo>
+      <role>Will</role>
+      <name>Chiké Okonkwo</name>
+    </item>
+    <item index="21">
+      <photo>http://image.tmdb.org/t/p/original/udqtSGoJjYs5Ee8SDTR1HuAl2sC.jpg</photo>
+      <role>Young Nat Turner</role>
+      <name>Tony Espinosa</name>
+    </item>
+    <item index="22">
+      <photo/>
+      <role>Jasper</role>
+      <name>Kai Norris</name>
+    </item>
+    <item index="23">
+      <photo/>
+      <role>Nelson</role>
+      <name>Chris Greene</name>
+    </item>
+    <item index="24">
+      <photo>http://image.tmdb.org/t/p/original/iGRUoanzBEbV8VTae1DZNtZthAo.jpg</photo>
+      <role>Simon</role>
+      <name>Kelvin Harrison Jr.</name>
+    </item>
+    <item index="25">
+      <photo>http://image.tmdb.org/t/p/original/hDnqOuLj0kGbVYYLZ2HcYvNMCNf.jpg</photo>
+      <role>Guiles Reese</role>
+      <name>Justin Randell Brooke</name>
+    </item>
+    <item index="26">
+      <photo/>
+      <role>Jesse</role>
+      <name>Ryan Mulkay</name>
+    </item>
+    <item index="27">
+      <photo/>
+      <role>Abner</role>
+      <name>Allen Phoenix</name>
+    </item>
+    <item index="28">
+      <photo/>
+      <role>Fowler Slave</role>
+      <name>Vincent Anthony</name>
+    </item>
+    <item index="29">
+      <photo/>
+      <role>Little boy</role>
+      <name>Bobby Batson</name>
+    </item>
+    <item index="30">
+      <photo/>
+      <role>Turner Hideaway</role>
+      <name>Damon Bellmon</name>
+    </item>
+    <item index="31">
+      <photo/>
+      <role>Rebel Slave</role>
+      <name>Gregory Black</name>
+    </item>
+    <item index="32">
+      <photo>http://image.tmdb.org/t/p/original/vl1DaNSR4dNYAen807fSYxULF27.jpg</photo>
+      <role>Young Hark</role>
+      <name>Alkoya Brunson</name>
+    </item>
+    <item index="33">
+      <photo/>
+      <role>Rebel Slave</role>
+      <name>Anthony Bryant</name>
+    </item>
+    <item index="34">
+      <photo/>
+      <role>Lynch Mob</role>
+      <name>Victoria Budkey</name>
+    </item>
+    <item index="35">
+      <photo/>
+      <role>General Child's Wife</role>
+      <name>Sheila Cochran</name>
+    </item>
+    <item index="36">
+      <photo/>
+      <role>Son</role>
+      <name>Logan Coffey</name>
+    </item>
+    <item index="37">
+      <photo/>
+      <role>Rebel Man</role>
+      <name>Kemuel Crossty</name>
+    </item>
+    <item index="38">
+      <photo>http://image.tmdb.org/t/p/original/mbLMdGni3t2AJ9lH6GeqcCv1bfk.jpg</photo>
+      <role>Angel (uncredited)</role>
+      <name>Nicole Davis</name>
+    </item>
+    <item index="39">
+      <photo/>
+      <role>Kid</role>
+      <name>Morgen Dukes</name>
+    </item>
+    <item index="40">
+      <photo>http://image.tmdb.org/t/p/original/zqzSnDlXxo1Gq6RFLCOyZ4d6W1W.jpg</photo>
+      <role>Farmer</role>
+      <name>Shannon Edwards</name>
+    </item>
+  </roles>
+  <similar>
+    <item index="0">Loving</item>
+    <item index="1">Billy Lynn's Long Halftime Walk</item>
+    <item index="2">Fences</item>
+    <item index="3">Denial</item>
+    <item index="4">Goldstone</item>
+    <item index="5">Equity</item>
+    <item index="6">Live by Night</item>
+    <item index="7">Filthy Gorgeous: The Bob Guccione Story</item>
+    <item index="8">The Hero of Color City</item>
+    <item index="9">Annie's Coming Out</item>
+    <item index="10">Miss Sloane</item>
+    <item index="11">Certain Women</item>
+    <item index="12">Anthropoid</item>
+    <item index="13">Queen of Katwe</item>
+    <item index="14">Trespass Against Us</item>
+    <item index="15">Stress Position</item>
+    <item index="16">Killing Oswald</item>
+    <item index="17">King Georges</item>
+    <item index="18">The Lady in Red</item>
+    <item index="19">112 Weddings</item>
+  </similar>
+  <studio>Phantom Four</studio>
+  <summary>Nat Turner, a former slave in America, leads a liberation movement in 1831 to free African-Americans in Virgina that results in a violent retaliation from whites.</summary>
+  <tagline>The Untold Story of Nat Turner</tagline>
+  <tags/>
+  <themes/>
+  <title>The Birth of a Nation</title>
+  <writers>
+    <item index="0">
+      <photo>http://image.tmdb.org/t/p/original/tgE3z5WbXyaxKcgEEIaaEic988h.jpg</photo>
+      <role/>
+      <name>Nate Parker</name>
+    </item>
+  </writers>
+  <year>2016</year>
+</Movie>

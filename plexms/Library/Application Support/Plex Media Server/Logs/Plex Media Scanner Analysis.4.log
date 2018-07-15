@@ -1,0 +1,580 @@
+Jul 14, 2018 03:09:06.330 [0x7fe6d5fff700] INFO - Plex Media Scanner v1.13.2.5154-fd05be322 - ubuntu docker x86_64 - build: linux-ubuntu-x86_64 - GMT -04:00
+Jul 14, 2018 03:09:06.331 [0x7fe6d5fff700] INFO - Linux version: 4.15.0-24-generic (#26-Ubuntu SMP Wed Jun 13 08:44:47 UTC 2018), language: C
+Jul 14, 2018 03:09:06.331 [0x7fe6d5fff700] INFO - Processor Intel(R) Core(TM) i7-4770R CPU @ 3.20GHz
+Jul 14, 2018 03:09:06.331 [0x7fe6d5fff700] INFO - /usr/lib/plexmediaserver/Plex Media Scanner --analyze --item 5114,4881,4742,4997,4865,5083,5038,5033,4919,4859 --log-file-suffix  Analysis
+Jul 14, 2018 03:09:06.333 [0x7fe6e1669800] DEBUG - Opening 20 database sessions to library (com.plexapp.plugins.library), SQLite 3.13.0, threadsafe=1
+Jul 14, 2018 03:09:06.422 [0x7fe6e1669800] DEBUG - Analyzing media parts for item 5114 (xRed @ www.xRedMedia.com): 9568
+Jul 14, 2018 03:09:06.422 [0x7fe6e1669800] DEBUG - [ID 9584] Media part analysis: /movies/Rurouni.Kenshin.Kyoto.Inferno.2014.720p.BluRay.QAAC.x264-xRed/Rurouni.Kenshin.Kyoto.Inferno.2014.720p.BluRay.QAAC.x264-xRed.mp4
+Jul 14, 2018 03:09:06.423 [0x7fe6e1669800] DEBUG - [MI] Opening input file: "/movies/Rurouni.Kenshin.Kyoto.Inferno.2014.720p.BluRay.QAAC.x264-xRed/Rurouni.Kenshin.Kyoto.Inferno.2014.720p.BluRay.QAAC.x264-xRed.mp4"
+Jul 14, 2018 03:09:06.423 [0x7fe6e1669800] DEBUG - [FFMPEG] - Opening '/movies/Rurouni.Kenshin.Kyoto.Inferno.2014.720p.BluRay.QAAC.x264-xRed/Rurouni.Kenshin.Kyoto.Inferno.2014.720p.BluRay.QAAC.x264-xRed.mp4' for reading
+Jul 14, 2018 03:09:06.424 [0x7fe6e1669800] DEBUG - [FFMPEG] - Setting default whitelist 'file,crypto'
+Jul 14, 2018 03:09:06.467 [0x7fe6e1669800] DEBUG - [FFMPEG] - Format mov,mp4,m4a,3gp,3g2,mj2 probed with size=2048 and score=100
+Jul 14, 2018 03:09:06.468 [0x7fe6e1669800] DEBUG - [FFMPEG] - ISO: File Type Major Brand: isom
+Jul 14, 2018 03:09:06.477 [0x7fe6e1669800] DEBUG - [FFMPEG] - Unknown dref type 0x206c7275 size 12
+Jul 14, 2018 03:09:06.523 [0x7fe6e1669800] DEBUG - [FFMPEG] - Processing st: 0, edit list 0 - media time: 1335, duration: 133140352
+Jul 14, 2018 03:09:06.533 [0x7fe6e1669800] DEBUG - [FFMPEG] - Offset DTS by 1335 to make first pts zero.
+Jul 14, 2018 03:09:06.559 [0x7fe6e1669800] DEBUG - [FFMPEG] - Setting codecpar->delay to 2 for stream st: 0
+Jul 14, 2018 03:09:06.559 [0x7fe6e1669800] DEBUG - [FFMPEG] - Unknown dref type 0x206c7275 size 12
+Jul 14, 2018 03:09:06.586 [0x7fe6e1669800] DEBUG - [FFMPEG] - Processing st: 1, edit list 0 - media time: -1, duration: 960
+Jul 14, 2018 03:09:06.586 [0x7fe6e1669800] DEBUG - [FFMPEG] - Processing st: 1, edit list 1 - media time: 0, duration: 399424512
+Jul 14, 2018 03:09:06.599 [0x7fe6e1669800] DEBUG - [FFMPEG] - Unknown dref type 0x206c7275 size 12
+Jul 14, 2018 03:09:06.599 [0x7fe6e1669800] DEBUG - [FFMPEG] - Processing st: 2, edit list 0 - media time: 0, duration: 8321313
+Jul 14, 2018 03:09:06.599 [0x7fe6e1669800] DEBUG - [FFMPEG] - rfps: 23.916667 0.004972
+Jul 14, 2018 03:09:06.599 [0x7fe6e1669800] DEBUG - [FFMPEG] - rfps: 23.916667 0.019972
+Jul 14, 2018 03:09:06.599 [0x7fe6e1669800] DEBUG - [FFMPEG] - rfps: 24.000000 0.000842
+Jul 14, 2018 03:09:06.599 [0x7fe6e1669800] DEBUG - [FFMPEG] - rfps: 24.000000 0.009799
+Jul 14, 2018 03:09:06.599 [0x7fe6e1669800] DEBUG - [FFMPEG] - rfps: 24.083333 0.016071
+Jul 14, 2018 03:09:06.599 [0x7fe6e1669800] DEBUG - [FFMPEG] - rfps: 24.083333 0.016071
+Jul 14, 2018 03:09:06.599 [0x7fe6e1669800] DEBUG - [FFMPEG] - rfps: 48.000000 0.003369
+Jul 14, 2018 03:09:06.599 [0x7fe6e1669800] DEBUG - [FFMPEG] - rfps: 48.000000 0.011183
+Jul 14, 2018 03:09:06.599 [0x7fe6e1669800] DEBUG - [FFMPEG] - rfps: 23.976024 0.000047
+Jul 14, 2018 03:09:06.599 [0x7fe6e1669800] DEBUG - [FFMPEG] - rfps: 47.952048 0.000187
+Jul 14, 2018 03:09:06.599 [0x7fe6e1669800] DEBUG - [FFMPEG] - Before avformat_find_stream_info() pos: 1876431109 bytes read:7833811 seeks:3 nb_streams:3
+Jul 14, 2018 03:09:06.600 [0x7fe6e1669800] DEBUG - [FFMPEG] - nal_unit_type: 7, nal_ref_idc: 3
+Jul 14, 2018 03:09:06.600 [0x7fe6e1669800] DEBUG - [FFMPEG] - nal_unit_type: 8, nal_ref_idc: 3
+Jul 14, 2018 03:09:06.600 [0x7fe6e1669800] DEBUG - [FFMPEG] - nal_unit_type: 6, nal_ref_idc: 0
+Jul 14, 2018 03:09:06.600 [0x7fe6e1669800] DEBUG - [FFMPEG] - nal_unit_type: 5, nal_ref_idc: 3
+Jul 14, 2018 03:09:06.601 [0x7fe6e1669800] DEBUG - [FFMPEG] - Format yuv420p chosen by get_format().
+Jul 14, 2018 03:09:06.601 [0x7fe6e1669800] DEBUG - [FFMPEG] - no picture 
+Jul 14, 2018 03:09:06.602 [0x7fe6e1669800] DEBUG - [FFMPEG] - nal_unit_type: 1, nal_ref_idc: 2
+Jul 14, 2018 03:09:06.602 [0x7fe6e1669800] DEBUG - [FFMPEG] - no picture 
+Jul 14, 2018 03:09:06.602 [0x7fe6e1669800] DEBUG - [FFMPEG] - nal_unit_type: 1, nal_ref_idc: 2
+Jul 14, 2018 03:09:06.604 [0x7fe6e1669800] DEBUG - [FFMPEG] - All info found
+Jul 14, 2018 03:09:06.604 [0x7fe6e1669800] DEBUG - [FFMPEG] - After avformat_find_stream_info() pos: 1971 bytes read:7866579 seeks:4 frames:4
+Jul 14, 2018 03:09:06.604 [0x7fe6e1669800] DEBUG - [MI] Opening /movies/Rurouni.Kenshin.Kyoto.Inferno.2014.720p.BluRay.QAAC.x264-xRed/Rurouni.Kenshin.Kyoto.Inferno.2014.720p.BluRay.QAAC.x264-xRed.mp4 for MP4 atom parsing
+Jul 14, 2018 03:09:06.605 [0x7fe6e1669800] DEBUG - Mp4AtomParser: Skipping ftyp atom of size 32 at offset 0
+Jul 14, 2018 03:09:06.605 [0x7fe6e1669800] DEBUG - Mp4AtomParser: Skipping free atom of size 8 at offset 32
+Jul 14, 2018 03:09:06.605 [0x7fe6e1669800] DEBUG - Mp4AtomParser: Skipping mdat atom of size 1868662794 at offset 40
+Jul 14, 2018 03:09:06.605 [0x7fe6e1669800] DEBUG - Mp4AtomParser: Found moov atom of size 7768275 at offset 1868662834
+Jul 14, 2018 03:09:06.608 [0x7fe6e1669800] DEBUG - Mp4AtomParser: Found trak atom of size 3901325 at offset 1868662950
+Jul 14, 2018 03:09:06.608 [0x7fe6e1669800] DEBUG - Mp4AtomParser: Found trak atom of size 3865784 at offset 1872564275
+Jul 14, 2018 03:09:06.608 [0x7fe6e1669800] DEBUG - Mp4AtomParser: Found trak atom of size 615 at offset 1876430059
+Jul 14, 2018 03:09:06.608 [0x7fe6e1669800] DEBUG - Mp4AtomParser: Found mdia atom of size 3901169 at offset 1868663106
+Jul 14, 2018 03:09:06.608 [0x7fe6e1669800] DEBUG - Mp4AtomParser: Found minf atom of size 3901084 at offset 1868663191
+Jul 14, 2018 03:09:06.608 [0x7fe6e1669800] DEBUG - Mp4AtomParser: Found stbl atom of size 3901020 at offset 1868663255
+Jul 14, 2018 03:09:06.608 [0x7fe6e1669800] DEBUG - Mp4AtomParser: Found tref atom of size 20 at offset 1868663086
+Jul 14, 2018 03:09:06.608 [0x7fe6e1669800] DEBUG - Mp4AtomParser: Found chap atom of size 12 at offset 1868663094
+Jul 14, 2018 03:09:06.608 [0x7fe6e1669800] DEBUG - [MI] Determined stream id 3 has chapters, not subtitles
+Jul 14, 2018 03:09:06.608 [0x7fe6e1669800] DEBUG - Mp4AtomParser: Found mdia atom of size 3865616 at offset 1872564443
+Jul 14, 2018 03:09:06.608 [0x7fe6e1669800] DEBUG - Mp4AtomParser: Found minf atom of size 3865531 at offset 1872564528
+Jul 14, 2018 03:09:06.608 [0x7fe6e1669800] DEBUG - Mp4AtomParser: Found stbl atom of size 3865471 at offset 1872564588
+Jul 14, 2018 03:09:06.609 [0x7fe6e1669800] DEBUG - Mp4AtomParser: Found tref atom of size 20 at offset 1872564423
+Jul 14, 2018 03:09:06.609 [0x7fe6e1669800] DEBUG - Mp4AtomParser: Found chap atom of size 12 at offset 1872564431
+Jul 14, 2018 03:09:06.609 [0x7fe6e1669800] DEBUG - [MI] Determined stream id 3 has chapters, not subtitles
+Jul 14, 2018 03:09:06.609 [0x7fe6e1669800] DEBUG - Mp4AtomParser: Found mdia atom of size 479 at offset 1876430195
+Jul 14, 2018 03:09:06.609 [0x7fe6e1669800] DEBUG - Mp4AtomParser: Found minf atom of size 391 at offset 1876430283
+Jul 14, 2018 03:09:06.609 [0x7fe6e1669800] DEBUG - Mp4AtomParser: Found stbl atom of size 271 at offset 1876430403
+Jul 14, 2018 03:09:06.610 [0x7fe6e1669800] DEBUG - [MI]  * 0d2482c2832888062c3c21193b213185f4800fc3 [mp4 h264/aac] Duration: 8321344ms, 1280x536 (2.388060) 23.976fps, bitrate=1803kbps, audio channels=6, optimizedForStreaming=0 (/movies/Rurouni.Kenshin.Kyoto.Inferno.2014.720p.BluRay.QAAC.x264-xRed/Rurouni.Kenshin.Kyoto.Inferno.2014.720p.BluRay.QAAC.x264-xRed.mp4)
+Jul 14, 2018 03:09:06.611 [0x7fe6e1669800] DEBUG - [MI] Importing 13 media chapters.
+Jul 14, 2018 03:09:06.611 [0x7fe6e1669800] DEBUG - [MI] Chapters had generic titles, clearing.
+Jul 14, 2018 03:09:06.612 [0x7fe6e1669800] DEBUG - Downloading document http://127.0.0.1:32400/library/changestamp
+Jul 14, 2018 03:09:06.612 [0x7fe6e1669800] DEBUG - HTTP requesting GET http://127.0.0.1:32400/library/changestamp
+Jul 14, 2018 03:09:06.614 [0x7fe6e1669800] DEBUG - HTTP 200 response from GET http://127.0.0.1:32400/library/changestamp
+Jul 14, 2018 03:09:06.614 [0x7fe6e1669800] DEBUG - Updating metadata item (save) (xRed @ www.xRedMedia.com) with ID 5114
+Jul 14, 2018 03:09:06.630 [0x7fe6e1669800] DEBUG - [MI] Closing input file: /movies/Rurouni.Kenshin.Kyoto.Inferno.2014.720p.BluRay.QAAC.x264-xRed/Rurouni.Kenshin.Kyoto.Inferno.2014.720p.BluRay.QAAC.x264-xRed.mp4
+Jul 14, 2018 03:09:06.631 [0x7fe6e1669800] DEBUG - [FFMPEG] - Statistics: 7866579 bytes read, 4 seeks
+Jul 14, 2018 03:09:06.632 [0x7fe6e1669800] DEBUG - Streams didn't change in analysis, not saving.
+Jul 14, 2018 03:09:06.632 [0x7fe6e1669800] DEBUG - Updating media item 9568, size=1876431109, metadata_item_id=5114
+Jul 14, 2018 03:09:06.632 [0x7fe6e1669800] DEBUG - Updating part with ID=9584 [/movies/Rurouni.Kenshin.Kyoto.Inferno.2014.720p.BluRay.QAAC.x264-xRed/Rurouni.Kenshin.Kyoto.Inferno.2014.720p.BluRay.QAAC.x264-xRed.mp4]
+Jul 14, 2018 03:09:06.636 [0x7fe6cffff700] DEBUG - HTTP requesting GET http://127.0.0.1:32400/:/metadata/notify/changeItemState?librarySectionID=1&metadataItemID=5114&metadataType=1&state=-1&mediaState=analyzing
+Jul 14, 2018 03:09:06.638 [0x7fe6cffff700] DEBUG - HTTP 200 response from GET http://127.0.0.1:32400/:/metadata/notify/changeItemState?librarySectionID=1&metadataItemID=5114&metadataType=1&state=-1&mediaState=analyzing
+Jul 14, 2018 03:09:06.638 [0x7fe6cffff700] DEBUG - HTTP requesting GET http://127.0.0.1:32400/:/metadata/notify/changeItemState?librarySectionID=1&metadataItemID=5114&metadataType=1&state=-1&mediaState=thumbnailing
+Jul 14, 2018 03:09:06.639 [0x7fe6cffff700] DEBUG - HTTP 200 response from GET http://127.0.0.1:32400/:/metadata/notify/changeItemState?librarySectionID=1&metadataItemID=5114&metadataType=1&state=-1&mediaState=thumbnailing
+Jul 14, 2018 03:09:06.640 [0x7fe6cffff700] DEBUG - HTTP requesting GET http://127.0.0.1:32400/:/metadata/notify/changeItemState?librarySectionID=1&metadataItemID=5114&metadataType=1&state=-1&mediaState=idle
+Jul 14, 2018 03:09:06.641 [0x7fe6cffff700] DEBUG - HTTP 200 response from GET http://127.0.0.1:32400/:/metadata/notify/changeItemState?librarySectionID=1&metadataItemID=5114&metadataType=1&state=-1&mediaState=idle
+Jul 14, 2018 03:09:06.646 [0x7fe6e1669800] DEBUG - Analyzing media parts for item 4881 (About Last Night): 9187
+Jul 14, 2018 03:09:06.646 [0x7fe6e1669800] DEBUG - [ID 9195] Media part analysis: /movies/About.Last.Night.2014.1080p.BluRay.H264.AAC-RARBG-Obfuscated/pbiSs41Uq7PYxTWwTZ6nj2omNNjE2HzZDqT6WJS2uuj7LUdPuX8bZ757HWiWxF8.mp4
+Jul 14, 2018 03:09:06.647 [0x7fe6e1669800] DEBUG - [MI] Opening input file: "/movies/About.Last.Night.2014.1080p.BluRay.H264.AAC-RARBG-Obfuscated/pbiSs41Uq7PYxTWwTZ6nj2omNNjE2HzZDqT6WJS2uuj7LUdPuX8bZ757HWiWxF8.mp4"
+Jul 14, 2018 03:09:06.647 [0x7fe6e1669800] DEBUG - [FFMPEG] - Opening '/movies/About.Last.Night.2014.1080p.BluRay.H264.AAC-RARBG-Obfuscated/pbiSs41Uq7PYxTWwTZ6nj2omNNjE2HzZDqT6WJS2uuj7LUdPuX8bZ757HWiWxF8.mp4' for reading
+Jul 14, 2018 03:09:06.647 [0x7fe6e1669800] DEBUG - [FFMPEG] - Setting default whitelist 'file,crypto'
+Jul 14, 2018 03:09:06.718 [0x7fe6e1669800] DEBUG - [FFMPEG] - Format mov,mp4,m4a,3gp,3g2,mj2 probed with size=2048 and score=100
+Jul 14, 2018 03:09:06.718 [0x7fe6e1669800] DEBUG - [FFMPEG] - ISO: File Type Major Brand: isom
+Jul 14, 2018 03:09:06.755 [0x7fe6e1669800] DEBUG - [FFMPEG] - Unknown dref type 0x206c7275 size 12
+Jul 14, 2018 03:09:06.807 [0x7fe6e1669800] DEBUG - [FFMPEG] - Processing st: 0, edit list 0 - media time: 250, duration: 18023877
+Jul 14, 2018 03:09:06.817 [0x7fe6e1669800] DEBUG - [FFMPEG] - Offset DTS by 250 to make first pts zero.
+Jul 14, 2018 03:09:06.836 [0x7fe6e1669800] DEBUG - [FFMPEG] - Setting codecpar->delay to 2 for stream st: 0
+Jul 14, 2018 03:09:06.836 [0x7fe6e1669800] DEBUG - [FFMPEG] - Unknown dref type 0x206c7275 size 12
+Jul 14, 2018 03:09:06.860 [0x7fe6e1669800] DEBUG - [FFMPEG] - Before avformat_find_stream_info() pos: 2053230764 bytes read:5711572 seeks:1 nb_streams:2
+Jul 14, 2018 03:09:06.860 [0x7fe6e1669800] DEBUG - [FFMPEG] - nal_unit_type: 7, nal_ref_idc: 3
+Jul 14, 2018 03:09:06.860 [0x7fe6e1669800] DEBUG - [FFMPEG] - nal_unit_type: 8, nal_ref_idc: 3
+Jul 14, 2018 03:09:06.861 [0x7fe6e1669800] DEBUG - [FFMPEG] - nal_unit_type: 6, nal_ref_idc: 0
+Jul 14, 2018 03:09:06.861 [0x7fe6e1669800] DEBUG - [FFMPEG] - nal_unit_type: 5, nal_ref_idc: 3
+Jul 14, 2018 03:09:06.861 [0x7fe6e1669800] DEBUG - [FFMPEG] - Format yuv420p chosen by get_format().
+Jul 14, 2018 03:09:06.862 [0x7fe6e1669800] DEBUG - [FFMPEG] - no picture 
+Jul 14, 2018 03:09:06.864 [0x7fe6e1669800] DEBUG - [FFMPEG] - nal_unit_type: 1, nal_ref_idc: 2
+Jul 14, 2018 03:09:06.865 [0x7fe6e1669800] DEBUG - [FFMPEG] - no picture 
+Jul 14, 2018 03:09:06.866 [0x7fe6e1669800] DEBUG - [FFMPEG] - nal_unit_type: 1, nal_ref_idc: 2
+Jul 14, 2018 03:09:06.868 [0x7fe6e1669800] DEBUG - [FFMPEG] - All info found
+Jul 14, 2018 03:09:06.868 [0x7fe6e1669800] DEBUG - [FFMPEG] - After avformat_find_stream_info() pos: 5977 bytes read:5744340 seeks:2 frames:4
+Jul 14, 2018 03:09:06.868 [0x7fe6e1669800] DEBUG - [MI] Opening /movies/About.Last.Night.2014.1080p.BluRay.H264.AAC-RARBG-Obfuscated/pbiSs41Uq7PYxTWwTZ6nj2omNNjE2HzZDqT6WJS2uuj7LUdPuX8bZ757HWiWxF8.mp4 for MP4 atom parsing
+Jul 14, 2018 03:09:06.869 [0x7fe6e1669800] DEBUG - Mp4AtomParser: Skipping ftyp atom of size 32 at offset 0
+Jul 14, 2018 03:09:06.869 [0x7fe6e1669800] DEBUG - Mp4AtomParser: Skipping free atom of size 8 at offset 32
+Jul 14, 2018 03:09:06.869 [0x7fe6e1669800] DEBUG - Mp4AtomParser: Skipping mdat atom of size 2047551920 at offset 40
+Jul 14, 2018 03:09:06.869 [0x7fe6e1669800] DEBUG - Mp4AtomParser: Found moov atom of size 5678804 at offset 2047551960
+Jul 14, 2018 03:09:06.871 [0x7fe6e1669800] DEBUG - Mp4AtomParser: Found trak atom of size 2305796 at offset 2047552100
+Jul 14, 2018 03:09:06.871 [0x7fe6e1669800] DEBUG - Mp4AtomParser: Found trak atom of size 3372772 at offset 2049857896
+Jul 14, 2018 03:09:06.871 [0x7fe6e1669800] DEBUG - Mp4AtomParser: Found mdia atom of size 2305660 at offset 2047552236
+Jul 14, 2018 03:09:06.871 [0x7fe6e1669800] DEBUG - Mp4AtomParser: Found minf atom of size 2305575 at offset 2047552321
+Jul 14, 2018 03:09:06.871 [0x7fe6e1669800] DEBUG - Mp4AtomParser: Found stbl atom of size 2305511 at offset 2047552385
+Jul 14, 2018 03:09:06.871 [0x7fe6e1669800] DEBUG - Mp4AtomParser: Found mdia atom of size 3372672 at offset 2049857996
+Jul 14, 2018 03:09:06.871 [0x7fe6e1669800] DEBUG - Mp4AtomParser: Found minf atom of size 3372587 at offset 2049858081
+Jul 14, 2018 03:09:06.871 [0x7fe6e1669800] DEBUG - Mp4AtomParser: Found stbl atom of size 3372527 at offset 2049858141
+Jul 14, 2018 03:09:06.872 [0x7fe6e1669800] DEBUG - [MI]  * 677a54d12ca3590130d6bd3d3fb49c396d3d4717 [mp4 h264/aac] Duration: 6014102ms, 1920x800 (2.400000) 23.976fps, bitrate=2731kbps, audio channels=6, optimizedForStreaming=0 (/movies/About.Last.Night.2014.1080p.BluRay.H264.AAC-RARBG-Obfuscated/pbiSs41Uq7PYxTWwTZ6nj2omNNjE2HzZDqT6WJS2uuj7LUdPuX8bZ757HWiWxF8.mp4)
+Jul 14, 2018 03:09:06.873 [0x7fe6e1669800] DEBUG - [MI] Chapters had generic titles, clearing.
+Jul 14, 2018 03:09:06.873 [0x7fe6e1669800] DEBUG - [MI] Closing input file: /movies/About.Last.Night.2014.1080p.BluRay.H264.AAC-RARBG-Obfuscated/pbiSs41Uq7PYxTWwTZ6nj2omNNjE2HzZDqT6WJS2uuj7LUdPuX8bZ757HWiWxF8.mp4
+Jul 14, 2018 03:09:06.874 [0x7fe6e1669800] DEBUG - [FFMPEG] - Statistics: 5744340 bytes read, 2 seeks
+Jul 14, 2018 03:09:06.875 [0x7fe6e1669800] DEBUG - Updating media item 9187, size=2053230764, metadata_item_id=4881
+Jul 14, 2018 03:09:06.875 [0x7fe6e1669800] DEBUG - Updating part with ID=9195 [/movies/About.Last.Night.2014.1080p.BluRay.H264.AAC-RARBG-Obfuscated/pbiSs41Uq7PYxTWwTZ6nj2omNNjE2HzZDqT6WJS2uuj7LUdPuX8bZ757HWiWxF8.mp4]
+Jul 14, 2018 03:09:06.879 [0x7fe6cffff700] DEBUG - HTTP requesting GET http://127.0.0.1:32400/:/metadata/notify/changeItemState?librarySectionID=1&metadataItemID=4881&metadataType=1&state=-1&mediaState=analyzing
+Jul 14, 2018 03:09:06.881 [0x7fe6cffff700] DEBUG - HTTP 200 response from GET http://127.0.0.1:32400/:/metadata/notify/changeItemState?librarySectionID=1&metadataItemID=4881&metadataType=1&state=-1&mediaState=analyzing
+Jul 14, 2018 03:09:06.881 [0x7fe6cffff700] DEBUG - HTTP requesting GET http://127.0.0.1:32400/:/metadata/notify/changeItemState?librarySectionID=1&metadataItemID=4881&metadataType=1&state=-1&mediaState=thumbnailing
+Jul 14, 2018 03:09:06.883 [0x7fe6cffff700] DEBUG - HTTP 200 response from GET http://127.0.0.1:32400/:/metadata/notify/changeItemState?librarySectionID=1&metadataItemID=4881&metadataType=1&state=-1&mediaState=thumbnailing
+Jul 14, 2018 03:09:06.883 [0x7fe6cffff700] DEBUG - HTTP requesting GET http://127.0.0.1:32400/:/metadata/notify/changeItemState?librarySectionID=1&metadataItemID=4881&metadataType=1&state=-1&mediaState=idle
+Jul 14, 2018 03:09:06.884 [0x7fe6e1669800] DEBUG - It took 10.000000 ms to retrieve 114 items.
+Jul 14, 2018 03:09:06.884 [0x7fe6cffff700] DEBUG - HTTP 200 response from GET http://127.0.0.1:32400/:/metadata/notify/changeItemState?librarySectionID=1&metadataItemID=4881&metadataType=1&state=-1&mediaState=idle
+Jul 14, 2018 03:09:06.891 [0x7fe6e1669800] DEBUG - Analyzing media parts for item 4742 (12 Strong): 9008
+Jul 14, 2018 03:09:06.891 [0x7fe6e1669800] DEBUG - [ID 9016] Media part analysis: /movies/12 Strong (2018)/12 Strong (2018) Bluray-720p Proper.mkv
+Jul 14, 2018 03:09:06.892 [0x7fe6e1669800] DEBUG - [MI] Opening input file: "/movies/12 Strong (2018)/12 Strong (2018) Bluray-720p Proper.mkv"
+Jul 14, 2018 03:09:06.892 [0x7fe6e1669800] DEBUG - [FFMPEG] - Opening '/movies/12 Strong (2018)/12 Strong (2018) Bluray-720p Proper.mkv' for reading
+Jul 14, 2018 03:09:06.892 [0x7fe6e1669800] DEBUG - [FFMPEG] - Setting default whitelist 'file,crypto'
+Jul 14, 2018 03:09:06.982 [0x7fe6e1669800] DEBUG - [FFMPEG] - Format matroska,webm probed with size=2048 and score=100
+Jul 14, 2018 03:09:06.983 [0x7fe6e1669800] DEBUG - [FFMPEG] - st:0 removing common factor 1000000 from timebase
+Jul 14, 2018 03:09:06.983 [0x7fe6e1669800] DEBUG - [FFMPEG] - st:1 removing common factor 1000000 from timebase
+Jul 14, 2018 03:09:06.983 [0x7fe6e1669800] DEBUG - [FFMPEG] - st:2 removing common factor 1000000 from timebase
+Jul 14, 2018 03:09:06.983 [0x7fe6e1669800] DEBUG - [FFMPEG] - st:3 removing common factor 1000000 from timebase
+Jul 14, 2018 03:09:06.983 [0x7fe6e1669800] DEBUG - [FFMPEG] - st:4 removing common factor 1000000 from timebase
+Jul 14, 2018 03:09:06.983 [0x7fe6e1669800] DEBUG - [FFMPEG] - st:5 removing common factor 1000000 from timebase
+Jul 14, 2018 03:09:06.983 [0x7fe6e1669800] DEBUG - [FFMPEG] - st:6 removing common factor 1000000 from timebase
+Jul 14, 2018 03:09:06.983 [0x7fe6e1669800] DEBUG - [FFMPEG] - st:7 removing common factor 1000000 from timebase
+Jul 14, 2018 03:09:06.983 [0x7fe6e1669800] DEBUG - [FFMPEG] - st:8 removing common factor 1000000 from timebase
+Jul 14, 2018 03:09:06.984 [0x7fe6e1669800] DEBUG - [FFMPEG] - Before avformat_find_stream_info() pos: 7585 bytes read:36472 seeks:2 nb_streams:9
+Jul 14, 2018 03:09:06.984 [0x7fe6e1669800] DEBUG - [FFMPEG] - nal_unit_type: 7, nal_ref_idc: 3
+Jul 14, 2018 03:09:06.984 [0x7fe6e1669800] DEBUG - [FFMPEG] - nal_unit_type: 8, nal_ref_idc: 3
+Jul 14, 2018 03:09:07.013 [0x7fe6e1669800] DEBUG - [FFMPEG] - nal_unit_type: 7, nal_ref_idc: 3
+Jul 14, 2018 03:09:07.014 [0x7fe6e1669800] DEBUG - [FFMPEG] - nal_unit_type: 8, nal_ref_idc: 3
+Jul 14, 2018 03:09:07.014 [0x7fe6e1669800] DEBUG - [FFMPEG] - nal_unit_type: 6, nal_ref_idc: 0
+Jul 14, 2018 03:09:07.014 [0x7fe6e1669800] DEBUG - [FFMPEG] - nal_unit_type: 5, nal_ref_idc: 3
+Jul 14, 2018 03:09:07.014 [0x7fe6e1669800] DEBUG - [FFMPEG] - Format yuv420p chosen by get_format().
+Jul 14, 2018 03:09:07.015 [0x7fe6e1669800] DEBUG - [FFMPEG] - no picture 
+Jul 14, 2018 03:09:07.015 [0x7fe6e1669800] DEBUG - [FFMPEG] - nal_unit_type: 1, nal_ref_idc: 2
+Jul 14, 2018 03:09:07.016 [0x7fe6e1669800] DEBUG - [FFMPEG] - no picture 
+Jul 14, 2018 03:09:07.017 [0x7fe6e1669800] DEBUG - [FFMPEG] - nal_unit_type: 1, nal_ref_idc: 2
+Jul 14, 2018 03:09:07.018 [0x7fe6e1669800] DEBUG - [FFMPEG] - nal_unit_type: 1, nal_ref_idc: 0
+Jul 14, 2018 03:09:07.019 [0x7fe6e1669800] DEBUG - [FFMPEG] - nal_unit_type: 1, nal_ref_idc: 0
+Jul 14, 2018 03:09:07.020 [0x7fe6e1669800] DEBUG - [FFMPEG] - nal_unit_type: 1, nal_ref_idc: 0
+Jul 14, 2018 03:09:07.021 [0x7fe6e1669800] DEBUG - [FFMPEG] - nal_unit_type: 1, nal_ref_idc: 0
+Jul 14, 2018 03:09:07.022 [0x7fe6e1669800] DEBUG - [FFMPEG] - nal_unit_type: 1, nal_ref_idc: 0
+Jul 14, 2018 03:09:07.023 [0x7fe6e1669800] DEBUG - [FFMPEG] - nal_unit_type: 1, nal_ref_idc: 0
+Jul 14, 2018 03:09:07.024 [0x7fe6e1669800] DEBUG - [FFMPEG] - All info found
+Jul 14, 2018 03:09:07.024 [0x7fe6e1669800] DEBUG - [FFMPEG] - After avformat_find_stream_info() pos: 172436 bytes read:233080 seeks:2 frames:26
+Jul 14, 2018 03:09:07.024 [0x7fe6e1669800] DEBUG - [MI]  * 286863e6f5ae797f5b05ea6991ea61a0be27ceaf [mkv h264/ac3] Duration: 7791968ms, 1280x534 (2.397004) 23.976fps, bitrate=9279kbps, audio channels=6, optimizedForStreaming=0 (/movies/12 Strong (2018)/12 Strong (2018) Bluray-720p Proper.mkv)
+Jul 14, 2018 03:09:07.024 [0x7fe6e1669800] DEBUG - [MI] Importing 12 media chapters.
+Jul 14, 2018 03:09:07.024 [0x7fe6e1669800] DEBUG - [MI] Chapters had generic titles, clearing.
+Jul 14, 2018 03:09:07.025 [0x7fe6e1669800] DEBUG - Downloading document http://127.0.0.1:32400/library/changestamp
+Jul 14, 2018 03:09:07.025 [0x7fe6e1669800] DEBUG - HTTP requesting GET http://127.0.0.1:32400/library/changestamp
+Jul 14, 2018 03:09:07.027 [0x7fe6e1669800] DEBUG - HTTP 200 response from GET http://127.0.0.1:32400/library/changestamp
+Jul 14, 2018 03:09:07.027 [0x7fe6e1669800] DEBUG - Updating metadata item (save) (12 Strong) with ID 4742
+Jul 14, 2018 03:09:07.033 [0x7fe6e1669800] DEBUG - [MI] Closing input file: /movies/12 Strong (2018)/12 Strong (2018) Bluray-720p Proper.mkv
+Jul 14, 2018 03:09:07.034 [0x7fe6e1669800] DEBUG - [FFMPEG] - Statistics: 233080 bytes read, 2 seeks
+Jul 14, 2018 03:09:07.034 [0x7fe6e1669800] DEBUG - Streams didn't change in analysis, not saving.
+Jul 14, 2018 03:09:07.035 [0x7fe6e1669800] DEBUG - Updating media item 9008, size=9038642073, metadata_item_id=4742
+Jul 14, 2018 03:09:07.035 [0x7fe6e1669800] DEBUG - Updating part with ID=9016 [/movies/12 Strong (2018)/12 Strong (2018) Bluray-720p Proper.mkv]
+Jul 14, 2018 03:09:07.039 [0x7fe6cffff700] DEBUG - HTTP requesting GET http://127.0.0.1:32400/:/metadata/notify/changeItemState?librarySectionID=1&metadataItemID=4742&metadataType=1&state=-1&mediaState=analyzing
+Jul 14, 2018 03:09:07.041 [0x7fe6cffff700] DEBUG - HTTP 200 response from GET http://127.0.0.1:32400/:/metadata/notify/changeItemState?librarySectionID=1&metadataItemID=4742&metadataType=1&state=-1&mediaState=analyzing
+Jul 14, 2018 03:09:07.041 [0x7fe6cffff700] DEBUG - HTTP requesting GET http://127.0.0.1:32400/:/metadata/notify/changeItemState?librarySectionID=1&metadataItemID=4742&metadataType=1&state=-1&mediaState=thumbnailing
+Jul 14, 2018 03:09:07.043 [0x7fe6cffff700] DEBUG - HTTP 200 response from GET http://127.0.0.1:32400/:/metadata/notify/changeItemState?librarySectionID=1&metadataItemID=4742&metadataType=1&state=-1&mediaState=thumbnailing
+Jul 14, 2018 03:09:07.043 [0x7fe6cffff700] DEBUG - HTTP requesting GET http://127.0.0.1:32400/:/metadata/notify/changeItemState?librarySectionID=1&metadataItemID=4742&metadataType=1&state=-1&mediaState=idle
+Jul 14, 2018 03:09:07.045 [0x7fe6cffff700] DEBUG - HTTP 200 response from GET http://127.0.0.1:32400/:/metadata/notify/changeItemState?librarySectionID=1&metadataItemID=4742&metadataType=1&state=-1&mediaState=idle
+Jul 14, 2018 03:09:07.050 [0x7fe6e1669800] DEBUG - Analyzing media parts for item 4997 (Keanu.2016.1080p.WEB-DL.DD5.1.H264-FGT): 9387
+Jul 14, 2018 03:09:07.050 [0x7fe6e1669800] DEBUG - [ID 9403] Media part analysis: /movies/Keanu.2016.720p.WEBRip.AAC.2.0.x264-SRG/Keanu.2016.720p.WEBRip.AAC.2.0.x264-SRG.mp4
+Jul 14, 2018 03:09:07.050 [0x7fe6e1669800] DEBUG - [MI] Opening input file: "/movies/Keanu.2016.720p.WEBRip.AAC.2.0.x264-SRG/Keanu.2016.720p.WEBRip.AAC.2.0.x264-SRG.mp4"
+Jul 14, 2018 03:09:07.051 [0x7fe6e1669800] DEBUG - [FFMPEG] - Opening '/movies/Keanu.2016.720p.WEBRip.AAC.2.0.x264-SRG/Keanu.2016.720p.WEBRip.AAC.2.0.x264-SRG.mp4' for reading
+Jul 14, 2018 03:09:07.051 [0x7fe6e1669800] DEBUG - [FFMPEG] - Setting default whitelist 'file,crypto'
+Jul 14, 2018 03:09:07.120 [0x7fe6e1669800] DEBUG - [FFMPEG] - Format mov,mp4,m4a,3gp,3g2,mj2 probed with size=2048 and score=100
+Jul 14, 2018 03:09:07.120 [0x7fe6e1669800] DEBUG - [FFMPEG] - ISO: File Type Major Brand: mp42
+Jul 14, 2018 03:09:07.126 [0x7fe6e1669800] DEBUG - [FFMPEG] - Unknown dref type 0x206c7275 size 12
+Jul 14, 2018 03:09:07.155 [0x7fe6e1669800] DEBUG - [FFMPEG] - Processing st: 0, edit list 0 - media time: 7470, duration: 538716150
+Jul 14, 2018 03:09:07.162 [0x7fe6e1669800] DEBUG - [FFMPEG] - Offset DTS by 7470 to make first pts zero.
+Jul 14, 2018 03:09:07.182 [0x7fe6e1669800] DEBUG - [FFMPEG] - Setting codecpar->delay to 2 for stream st: 0
+Jul 14, 2018 03:09:07.182 [0x7fe6e1669800] DEBUG - [FFMPEG] - Unknown dref type 0x206c7275 size 12
+Jul 14, 2018 03:09:07.199 [0x7fe6e1669800] DEBUG - [FFMPEG] - Processing st: 1, edit list 0 - media time: 0, duration: 287313936
+Jul 14, 2018 03:09:07.207 [0x7fe6e1669800] DEBUG - [FFMPEG] - Unknown dref type 0x206c7275 size 12
+Jul 14, 2018 03:09:07.207 [0x7fe6e1669800] DEBUG - [FFMPEG] - rfps: 23.916667 0.005008
+Jul 14, 2018 03:09:07.207 [0x7fe6e1669800] DEBUG - [FFMPEG] - rfps: 23.916667 0.012325
+Jul 14, 2018 03:09:07.207 [0x7fe6e1669800] DEBUG - [FFMPEG] - rfps: 24.000000 0.000828
+Jul 14, 2018 03:09:07.207 [0x7fe6e1669800] DEBUG - [FFMPEG] - rfps: 24.083333 0.015982
+Jul 14, 2018 03:09:07.207 [0x7fe6e1669800] DEBUG - [FFMPEG] - rfps: 48.000000 0.003312
+Jul 14, 2018 03:09:07.207 [0x7fe6e1669800] DEBUG - [FFMPEG] - rfps: 23.976024 0.000050
+Jul 14, 2018 03:09:07.207 [0x7fe6e1669800] DEBUG - [FFMPEG] - rfps: 47.952048 0.000198
+Jul 14, 2018 03:09:07.207 [0x7fe6e1669800] DEBUG - [FFMPEG] - Before avformat_find_stream_info() pos: 985252526 bytes read:5281761 seeks:3 nb_streams:3
+Jul 14, 2018 03:09:07.208 [0x7fe6e1669800] DEBUG - [FFMPEG] - nal_unit_type: 7, nal_ref_idc: 3
+Jul 14, 2018 03:09:07.208 [0x7fe6e1669800] DEBUG - [FFMPEG] - nal_unit_type: 8, nal_ref_idc: 3
+Jul 14, 2018 03:09:07.208 [0x7fe6e1669800] DEBUG - [FFMPEG] - nal_unit_type: 6, nal_ref_idc: 0
+Jul 14, 2018 03:09:07.208 [0x7fe6e1669800] DEBUG - [FFMPEG] - nal_unit_type: 5, nal_ref_idc: 3
+Jul 14, 2018 03:09:07.208 [0x7fe6e1669800] DEBUG - [FFMPEG] - Format yuv420p chosen by get_format().
+Jul 14, 2018 03:09:07.209 [0x7fe6e1669800] DEBUG - [FFMPEG] - no picture 
+Jul 14, 2018 03:09:07.209 [0x7fe6e1669800] DEBUG - [FFMPEG] - nal_unit_type: 1, nal_ref_idc: 2
+Jul 14, 2018 03:09:07.210 [0x7fe6e1669800] DEBUG - [FFMPEG] - no picture 
+Jul 14, 2018 03:09:07.210 [0x7fe6e1669800] DEBUG - [FFMPEG] - All info found
+Jul 14, 2018 03:09:07.210 [0x7fe6e1669800] DEBUG - [FFMPEG] - After avformat_find_stream_info() pos: 1140 bytes read:5314529 seeks:4 frames:3
+Jul 14, 2018 03:09:07.210 [0x7fe6e1669800] DEBUG - [MI] Opening /movies/Keanu.2016.720p.WEBRip.AAC.2.0.x264-SRG/Keanu.2016.720p.WEBRip.AAC.2.0.x264-SRG.mp4 for MP4 atom parsing
+Jul 14, 2018 03:09:07.211 [0x7fe6e1669800] DEBUG - Mp4AtomParser: Skipping ftyp atom of size 32 at offset 0
+Jul 14, 2018 03:09:07.211 [0x7fe6e1669800] DEBUG - Mp4AtomParser: Skipping free atom of size 8 at offset 32
+Jul 14, 2018 03:09:07.211 [0x7fe6e1669800] DEBUG - Mp4AtomParser: Skipping mdat atom of size 980036261 at offset 40
+Jul 14, 2018 03:09:07.211 [0x7fe6e1669800] DEBUG - Mp4AtomParser: Found moov atom of size 5216225 at offset 980036301
+Jul 14, 2018 03:09:07.213 [0x7fe6e1669800] DEBUG - Mp4AtomParser: Found trak atom of size 2970165 at offset 980036441
+Jul 14, 2018 03:09:07.213 [0x7fe6e1669800] DEBUG - Mp4AtomParser: Found trak atom of size 2245159 at offset 983006606
+Jul 14, 2018 03:09:07.213 [0x7fe6e1669800] DEBUG - Mp4AtomParser: Found trak atom of size 587 at offset 985251765
+Jul 14, 2018 03:09:07.213 [0x7fe6e1669800] DEBUG - Mp4AtomParser: Found mdia atom of size 2970009 at offset 980036597
+Jul 14, 2018 03:09:07.213 [0x7fe6e1669800] DEBUG - Mp4AtomParser: Found minf atom of size 2969924 at offset 980036682
+Jul 14, 2018 03:09:07.213 [0x7fe6e1669800] DEBUG - Mp4AtomParser: Found stbl atom of size 2969860 at offset 980036746
+Jul 14, 2018 03:09:07.213 [0x7fe6e1669800] DEBUG - Mp4AtomParser: Found tref atom of size 20 at offset 980036577
+Jul 14, 2018 03:09:07.213 [0x7fe6e1669800] DEBUG - Mp4AtomParser: Found chap atom of size 12 at offset 980036585
+Jul 14, 2018 03:09:07.213 [0x7fe6e1669800] DEBUG - [MI] Determined stream id 3 has chapters, not subtitles
+Jul 14, 2018 03:09:07.213 [0x7fe6e1669800] DEBUG - Mp4AtomParser: Found mdia atom of size 2244981 at offset 983006762
+Jul 14, 2018 03:09:07.213 [0x7fe6e1669800] DEBUG - Mp4AtomParser: Found minf atom of size 2244902 at offset 983006841
+Jul 14, 2018 03:09:07.213 [0x7fe6e1669800] DEBUG - Mp4AtomParser: Found stbl atom of size 2244842 at offset 983006901
+Jul 14, 2018 03:09:07.213 [0x7fe6e1669800] DEBUG - Mp4AtomParser: Found tref atom of size 20 at offset 983006742
+Jul 14, 2018 03:09:07.213 [0x7fe6e1669800] DEBUG - Mp4AtomParser: Found chap atom of size 12 at offset 983006750
+Jul 14, 2018 03:09:07.213 [0x7fe6e1669800] DEBUG - [MI] Determined stream id 3 has chapters, not subtitles
+Jul 14, 2018 03:09:07.213 [0x7fe6e1669800] DEBUG - Mp4AtomParser: Found mdia atom of size 487 at offset 985251865
+Jul 14, 2018 03:09:07.213 [0x7fe6e1669800] DEBUG - Mp4AtomParser: Found minf atom of size 399 at offset 985251953
+Jul 14, 2018 03:09:07.213 [0x7fe6e1669800] DEBUG - Mp4AtomParser: Found stbl atom of size 323 at offset 985252029
+Jul 14, 2018 03:09:07.214 [0x7fe6e1669800] DEBUG - [MI]  * a2c67638fdf038063a010dfba41e11fde49a1564 [mp4 h264/aac] Duration: 5985735ms, 1280x532 (2.407035) 23.976fps, bitrate=1316kbps, audio channels=2, optimizedForStreaming=0 (/movies/Keanu.2016.720p.WEBRip.AAC.2.0.x264-SRG/Keanu.2016.720p.WEBRip.AAC.2.0.x264-SRG.mp4)
+Jul 14, 2018 03:09:07.215 [0x7fe6e1669800] DEBUG - [MI] Importing 10 media chapters.
+Jul 14, 2018 03:09:07.215 [0x7fe6e1669800] DEBUG - [MI] Chapters had generic titles, clearing.
+Jul 14, 2018 03:09:07.216 [0x7fe6e1669800] DEBUG - Downloading document http://127.0.0.1:32400/library/changestamp
+Jul 14, 2018 03:09:07.216 [0x7fe6e1669800] DEBUG - HTTP requesting GET http://127.0.0.1:32400/library/changestamp
+Jul 14, 2018 03:09:07.217 [0x7fe6e1669800] DEBUG - HTTP 200 response from GET http://127.0.0.1:32400/library/changestamp
+Jul 14, 2018 03:09:07.217 [0x7fe6e1669800] DEBUG - Updating metadata item (save) (Keanu.2016.1080p.WEB-DL.DD5.1.H264-FGT) with ID 4997
+Jul 14, 2018 03:09:07.229 [0x7fe6e1669800] DEBUG - [MI] Closing input file: /movies/Keanu.2016.720p.WEBRip.AAC.2.0.x264-SRG/Keanu.2016.720p.WEBRip.AAC.2.0.x264-SRG.mp4
+Jul 14, 2018 03:09:07.230 [0x7fe6e1669800] DEBUG - [FFMPEG] - Statistics: 5314529 bytes read, 4 seeks
+Jul 14, 2018 03:09:07.231 [0x7fe6e1669800] DEBUG - Streams didn't change in analysis, not saving.
+Jul 14, 2018 03:09:07.231 [0x7fe6e1669800] DEBUG - Updating media item 9387, size=985252526, metadata_item_id=4997
+Jul 14, 2018 03:09:07.231 [0x7fe6e1669800] DEBUG - Updating part with ID=9403 [/movies/Keanu.2016.720p.WEBRip.AAC.2.0.x264-SRG/Keanu.2016.720p.WEBRip.AAC.2.0.x264-SRG.mp4]
+Jul 14, 2018 03:09:07.236 [0x7fe6cffff700] DEBUG - HTTP requesting GET http://127.0.0.1:32400/:/metadata/notify/changeItemState?librarySectionID=1&metadataItemID=4997&metadataType=1&state=-1&mediaState=analyzing
+Jul 14, 2018 03:09:07.238 [0x7fe6cffff700] DEBUG - HTTP 200 response from GET http://127.0.0.1:32400/:/metadata/notify/changeItemState?librarySectionID=1&metadataItemID=4997&metadataType=1&state=-1&mediaState=analyzing
+Jul 14, 2018 03:09:07.238 [0x7fe6cffff700] DEBUG - HTTP requesting GET http://127.0.0.1:32400/:/metadata/notify/changeItemState?librarySectionID=1&metadataItemID=4997&metadataType=1&state=-1&mediaState=thumbnailing
+Jul 14, 2018 03:09:07.239 [0x7fe6cffff700] DEBUG - HTTP 200 response from GET http://127.0.0.1:32400/:/metadata/notify/changeItemState?librarySectionID=1&metadataItemID=4997&metadataType=1&state=-1&mediaState=thumbnailing
+Jul 14, 2018 03:09:07.239 [0x7fe6cffff700] DEBUG - HTTP requesting GET http://127.0.0.1:32400/:/metadata/notify/changeItemState?librarySectionID=1&metadataItemID=4997&metadataType=1&state=-1&mediaState=idle
+Jul 14, 2018 03:09:07.240 [0x7fe6cffff700] DEBUG - HTTP 200 response from GET http://127.0.0.1:32400/:/metadata/notify/changeItemState?librarySectionID=1&metadataItemID=4997&metadataType=1&state=-1&mediaState=idle
+Jul 14, 2018 03:09:07.243 [0x7fe6e1669800] DEBUG - Analyzing media parts for item 4865 (I Love You, Man): 9171
+Jul 14, 2018 03:09:07.243 [0x7fe6e1669800] DEBUG - [ID 9179] Media part analysis: /movies/I Love You, Man (2009)/I Love You, Man.mp4
+Jul 14, 2018 03:09:07.244 [0x7fe6e1669800] DEBUG - [MI] Opening input file: "/movies/I Love You, Man (2009)/I Love You, Man.mp4"
+Jul 14, 2018 03:09:07.244 [0x7fe6e1669800] DEBUG - [FFMPEG] - Opening '/movies/I Love You, Man (2009)/I Love You, Man.mp4' for reading
+Jul 14, 2018 03:09:07.244 [0x7fe6e1669800] DEBUG - [FFMPEG] - Setting default whitelist 'file,crypto'
+Jul 14, 2018 03:09:07.281 [0x7fe6e1669800] DEBUG - [FFMPEG] - Format mov,mp4,m4a,3gp,3g2,mj2 probed with size=2048 and score=100
+Jul 14, 2018 03:09:07.281 [0x7fe6e1669800] DEBUG - [FFMPEG] - ISO: File Type Major Brand: mp42
+Jul 14, 2018 03:09:07.281 [0x7fe6e1669800] DEBUG - [FFMPEG] - Unknown dref type 0x206c7275 size 12
+Jul 14, 2018 03:09:07.334 [0x7fe6e1669800] DEBUG - [FFMPEG] - Setting codecpar->delay to 1 for stream st: 0
+Jul 14, 2018 03:09:07.334 [0x7fe6e1669800] DEBUG - [FFMPEG] - Unknown dref type 0x206c7275 size 12
+Jul 14, 2018 03:09:07.347 [0x7fe6e1669800] WARN - [FFMPEG] - stream 0, timescale not set
+Jul 14, 2018 03:09:07.347 [0x7fe6e1669800] DEBUG - [FFMPEG] - Before avformat_find_stream_info() pos: 3771640 bytes read:3461581 seeks:1 nb_streams:3
+Jul 14, 2018 03:09:07.347 [0x7fe6e1669800] DEBUG - [FFMPEG] - nal_unit_type: 7, nal_ref_idc: 3
+Jul 14, 2018 03:09:07.347 [0x7fe6e1669800] DEBUG - [FFMPEG] - nal_unit_type: 8, nal_ref_idc: 3
+Jul 14, 2018 03:09:07.347 [0x7fe6e1669800] DEBUG - [FFMPEG] - marker=d8 avail_size_in_buf=326061
+Jul 14, 2018 03:09:07.347 [0x7fe6e1669800] DEBUG - [FFMPEG] - marker parser used 0 bytes (0 bits)
+Jul 14, 2018 03:09:07.347 [0x7fe6e1669800] DEBUG - [FFMPEG] - marker=e0 avail_size_in_buf=326059
+Jul 14, 2018 03:09:07.347 [0x7fe6e1669800] DEBUG - [FFMPEG] - marker parser used 16 bytes (128 bits)
+Jul 14, 2018 03:09:07.347 [0x7fe6e1669800] DEBUG - [FFMPEG] - marker=db avail_size_in_buf=326041
+Jul 14, 2018 03:09:07.347 [0x7fe6e1669800] DEBUG - [FFMPEG] - index=0
+Jul 14, 2018 03:09:07.347 [0x7fe6e1669800] DEBUG - [FFMPEG] - qscale[0]: 2
+Jul 14, 2018 03:09:07.347 [0x7fe6e1669800] DEBUG - [FFMPEG] - marker parser used 67 bytes (536 bits)
+Jul 14, 2018 03:09:07.347 [0x7fe6e1669800] DEBUG - [FFMPEG] - marker=db avail_size_in_buf=325972
+Jul 14, 2018 03:09:07.347 [0x7fe6e1669800] DEBUG - [FFMPEG] - index=1
+Jul 14, 2018 03:09:07.347 [0x7fe6e1669800] DEBUG - [FFMPEG] - qscale[1]: 4
+Jul 14, 2018 03:09:07.347 [0x7fe6e1669800] DEBUG - [FFMPEG] - marker parser used 67 bytes (536 bits)
+Jul 14, 2018 03:09:07.348 [0x7fe6e1669800] DEBUG - [FFMPEG] - marker=c0 avail_size_in_buf=325903
+Jul 14, 2018 03:09:07.348 [0x7fe6e1669800] DEBUG - [FFMPEG] - Changing bps from 0 to 8
+Jul 14, 2018 03:09:07.348 [0x7fe6e1669800] DEBUG - [FFMPEG] - sof0: picture: 1500x1500
+Jul 14, 2018 03:09:07.348 [0x7fe6e1669800] DEBUG - [FFMPEG] - component 0 2:2 id: 0 quant:0
+Jul 14, 2018 03:09:07.348 [0x7fe6e1669800] DEBUG - [FFMPEG] - component 1 1:1 id: 1 quant:1
+Jul 14, 2018 03:09:07.348 [0x7fe6e1669800] DEBUG - [FFMPEG] - component 2 1:1 id: 2 quant:1
+Jul 14, 2018 03:09:07.348 [0x7fe6e1669800] DEBUG - [FFMPEG] - pix fmt id 22111100
+Jul 14, 2018 03:09:07.348 [0x7fe6e1669800] DEBUG - [FFMPEG] - Format yuvj420p chosen by get_format().
+Jul 14, 2018 03:09:07.348 [0x7fe6e1669800] DEBUG - [FFMPEG] - marker parser used 17 bytes (136 bits)
+Jul 14, 2018 03:09:07.348 [0x7fe6e1669800] DEBUG - [FFMPEG] - marker=c4 avail_size_in_buf=325884
+Jul 14, 2018 03:09:07.348 [0x7fe6e1669800] DEBUG - [FFMPEG] - marker parser used 0 bytes (0 bits)
+Jul 14, 2018 03:09:07.348 [0x7fe6e1669800] DEBUG - [FFMPEG] - marker=c4 avail_size_in_buf=325853
+Jul 14, 2018 03:09:07.348 [0x7fe6e1669800] DEBUG - [FFMPEG] - marker parser used 0 bytes (0 bits)
+Jul 14, 2018 03:09:07.348 [0x7fe6e1669800] DEBUG - [FFMPEG] - marker=c4 avail_size_in_buf=325743
+Jul 14, 2018 03:09:07.348 [0x7fe6e1669800] DEBUG - [FFMPEG] - marker parser used 0 bytes (0 bits)
+Jul 14, 2018 03:09:07.348 [0x7fe6e1669800] DEBUG - [FFMPEG] - marker=c4 avail_size_in_buf=325714
+Jul 14, 2018 03:09:07.348 [0x7fe6e1669800] DEBUG - [FFMPEG] - marker parser used 0 bytes (0 bits)
+Jul 14, 2018 03:09:07.348 [0x7fe6e1669800] DEBUG - [FFMPEG] - escaping removed 1202 bytes
+Jul 14, 2018 03:09:07.348 [0x7fe6e1669800] DEBUG - [FFMPEG] - marker=da avail_size_in_buf=325650
+Jul 14, 2018 03:09:07.348 [0x7fe6e1669800] DEBUG - [FFMPEG] - marker parser used 324448 bytes (2595584 bits)
+Jul 14, 2018 03:09:07.348 [0x7fe6e1669800] DEBUG - [FFMPEG] - marker=d9 avail_size_in_buf=0
+Jul 14, 2018 03:09:07.348 [0x7fe6e1669800] DEBUG - [FFMPEG] - decode frame unused 0 bytes
+Jul 14, 2018 03:09:07.348 [0x7fe6e1669800] DEBUG - [FFMPEG] - nal_unit_type: 9, nal_ref_idc: 0
+Jul 14, 2018 03:09:07.348 [0x7fe6e1669800] DEBUG - [FFMPEG] - nal_unit_type: 7, nal_ref_idc: 3
+Jul 14, 2018 03:09:07.348 [0x7fe6e1669800] DEBUG - [FFMPEG] - nal_unit_type: 8, nal_ref_idc: 3
+Jul 14, 2018 03:09:07.348 [0x7fe6e1669800] DEBUG - [FFMPEG] - nal_unit_type: 6, nal_ref_idc: 0
+Jul 14, 2018 03:09:07.348 [0x7fe6e1669800] DEBUG - [FFMPEG] - nal_unit_type: 5, nal_ref_idc: 2
+Jul 14, 2018 03:09:07.348 [0x7fe6e1669800] DEBUG - [FFMPEG] - nal_unit_type: 5, nal_ref_idc: 2
+Jul 14, 2018 03:09:07.348 [0x7fe6e1669800] DEBUG - [FFMPEG] - nal_unit_type: 5, nal_ref_idc: 2
+Jul 14, 2018 03:09:07.348 [0x7fe6e1669800] DEBUG - [FFMPEG] - nal_unit_type: 5, nal_ref_idc: 2
+Jul 14, 2018 03:09:07.348 [0x7fe6e1669800] DEBUG - [FFMPEG] - nal_unit_type: 5, nal_ref_idc: 2
+Jul 14, 2018 03:09:07.348 [0x7fe6e1669800] DEBUG - [FFMPEG] - nal_unit_type: 5, nal_ref_idc: 2
+Jul 14, 2018 03:09:07.348 [0x7fe6e1669800] DEBUG - [FFMPEG] - nal_unit_type: 5, nal_ref_idc: 2
+Jul 14, 2018 03:09:07.348 [0x7fe6e1669800] DEBUG - [FFMPEG] - nal_unit_type: 5, nal_ref_idc: 2
+Jul 14, 2018 03:09:07.349 [0x7fe6e1669800] DEBUG - [FFMPEG] - Format yuv420p chosen by get_format().
+Jul 14, 2018 03:09:07.349 [0x7fe6e1669800] DEBUG - [FFMPEG] - no picture 
+Jul 14, 2018 03:09:07.350 [0x7fe6e1669800] DEBUG - [FFMPEG] - All info found
+Jul 14, 2018 03:09:07.350 [0x7fe6e1669800] DEBUG - [FFMPEG] - After avformat_find_stream_info() pos: 3774866 bytes read:3461581 seeks:1 frames:26
+Jul 14, 2018 03:09:07.350 [0x7fe6e1669800] DEBUG - [MI] Opening /movies/I Love You, Man (2009)/I Love You, Man.mp4 for MP4 atom parsing
+Jul 14, 2018 03:09:07.351 [0x7fe6e1669800] DEBUG - Mp4AtomParser: Skipping ftyp atom of size 32 at offset 0
+Jul 14, 2018 03:09:07.351 [0x7fe6e1669800] DEBUG - Mp4AtomParser: Found moov atom of size 3398061 at offset 32
+Jul 14, 2018 03:09:07.353 [0x7fe6e1669800] DEBUG - Mp4AtomParser: Found trak atom of size 1792324 at offset 148
+Jul 14, 2018 03:09:07.353 [0x7fe6e1669800] DEBUG - Mp4AtomParser: Found trak atom of size 1277409 at offset 1792472
+Jul 14, 2018 03:09:07.353 [0x7fe6e1669800] DEBUG - Mp4AtomParser: Found mdia atom of size 1792224 at offset 248
+Jul 14, 2018 03:09:07.353 [0x7fe6e1669800] DEBUG - Mp4AtomParser: Found minf atom of size 1792132 at offset 340
+Jul 14, 2018 03:09:07.353 [0x7fe6e1669800] DEBUG - Mp4AtomParser: Found stbl atom of size 1792068 at offset 404
+Jul 14, 2018 03:09:07.353 [0x7fe6e1669800] DEBUG - Mp4AtomParser: Found mdia atom of size 1277309 at offset 1792572
+Jul 14, 2018 03:09:07.353 [0x7fe6e1669800] DEBUG - Mp4AtomParser: Found minf atom of size 1277210 at offset 1792671
+Jul 14, 2018 03:09:07.353 [0x7fe6e1669800] DEBUG - Mp4AtomParser: Found stbl atom of size 1277150 at offset 1792731
+Jul 14, 2018 03:09:07.354 [0x7fe6e1669800] DEBUG - [MI]  * ac0edd0a2300b20d24330835b3576afb9c82418d [mp4 h264/aac] Duration: 6286379ms, 1280x720 (1.777778) 23.976fps, bitrate=2813kbps, audio channels=2, optimizedForStreaming=1 (/movies/I Love You, Man (2009)/I Love You, Man.mp4)
+Jul 14, 2018 03:09:07.354 [0x7fe6e1669800] DEBUG - [MI] Chapters had generic titles, clearing.
+Jul 14, 2018 03:09:07.354 [0x7fe6e1669800] DEBUG - [MI] Closing input file: /movies/I Love You, Man (2009)/I Love You, Man.mp4
+Jul 14, 2018 03:09:07.355 [0x7fe6e1669800] DEBUG - [FFMPEG] - Statistics: 3461581 bytes read, 1 seeks
+Jul 14, 2018 03:09:07.356 [0x7fe6e1669800] DEBUG - Streams didn't change in analysis, not saving.
+Jul 14, 2018 03:09:07.356 [0x7fe6e1669800] DEBUG - Updating media item 9171, size=2210886651, metadata_item_id=4865
+Jul 14, 2018 03:09:07.357 [0x7fe6e1669800] DEBUG - Updating part with ID=9179 [/movies/I Love You, Man (2009)/I Love You, Man.mp4]
+Jul 14, 2018 03:09:07.361 [0x7fe6cffff700] DEBUG - HTTP requesting GET http://127.0.0.1:32400/:/metadata/notify/changeItemState?librarySectionID=1&metadataItemID=4865&metadataType=1&state=-1&mediaState=analyzing
+Jul 14, 2018 03:09:07.362 [0x7fe6cffff700] DEBUG - HTTP 200 response from GET http://127.0.0.1:32400/:/metadata/notify/changeItemState?librarySectionID=1&metadataItemID=4865&metadataType=1&state=-1&mediaState=analyzing
+Jul 14, 2018 03:09:07.362 [0x7fe6cffff700] DEBUG - HTTP requesting GET http://127.0.0.1:32400/:/metadata/notify/changeItemState?librarySectionID=1&metadataItemID=4865&metadataType=1&state=-1&mediaState=thumbnailing
+Jul 14, 2018 03:09:07.364 [0x7fe6cffff700] DEBUG - HTTP 200 response from GET http://127.0.0.1:32400/:/metadata/notify/changeItemState?librarySectionID=1&metadataItemID=4865&metadataType=1&state=-1&mediaState=thumbnailing
+Jul 14, 2018 03:09:07.364 [0x7fe6cffff700] DEBUG - HTTP requesting GET http://127.0.0.1:32400/:/metadata/notify/changeItemState?librarySectionID=1&metadataItemID=4865&metadataType=1&state=-1&mediaState=idle
+Jul 14, 2018 03:09:07.365 [0x7fe6cffff700] DEBUG - HTTP 200 response from GET http://127.0.0.1:32400/:/metadata/notify/changeItemState?librarySectionID=1&metadataItemID=4865&metadataType=1&state=-1&mediaState=idle
+Jul 14, 2018 03:09:07.366 [0x7fe6e1669800] DEBUG - It took 20.000000 ms to retrieve 195 items.
+Jul 14, 2018 03:09:07.372 [0x7fe6e1669800] DEBUG - Analyzing media parts for item 5083 (Watchmen): 9535
+Jul 14, 2018 03:09:07.372 [0x7fe6e1669800] DEBUG - [ID 9551] Media part analysis: /movies/Watchmen.2009.Ultimate.Cut.BluRay.720p.H264-20-40/Watchmen.2009.Ultimate.Cut.BluRay.720p.H264/Watchmen.2009.Ultimate.Cut.BluRay.720p.H264.mp4
+Jul 14, 2018 03:09:07.373 [0x7fe6e1669800] DEBUG - [MI] Opening input file: "/movies/Watchmen.2009.Ultimate.Cut.BluRay.720p.H264-20-40/Watchmen.2009.Ultimate.Cut.BluRay.720p.H264/Watchmen.2009.Ultimate.Cut.BluRay.720p.H264.mp4"
+Jul 14, 2018 03:09:07.373 [0x7fe6e1669800] DEBUG - [FFMPEG] - Opening '/movies/Watchmen.2009.Ultimate.Cut.BluRay.720p.H264-20-40/Watchmen.2009.Ultimate.Cut.BluRay.720p.H264/Watchmen.2009.Ultimate.Cut.BluRay.720p.H264.mp4' for reading
+Jul 14, 2018 03:09:07.373 [0x7fe6e1669800] DEBUG - [FFMPEG] - Setting default whitelist 'file,crypto'
+Jul 14, 2018 03:09:07.443 [0x7fe6e1669800] DEBUG - [FFMPEG] - Format mov,mp4,m4a,3gp,3g2,mj2 probed with size=2048 and score=100
+Jul 14, 2018 03:09:07.443 [0x7fe6e1669800] DEBUG - [FFMPEG] - ISO: File Type Major Brand: M4A 
+Jul 14, 2018 03:09:07.443 [0x7fe6e1669800] DEBUG - [FFMPEG] - Unknown dref type 0x206c7275 size 12
+Jul 14, 2018 03:09:07.527 [0x7fe6e1669800] DEBUG - [FFMPEG] - Unknown dref type 0x206c7275 size 12
+Jul 14, 2018 03:09:07.589 [0x7fe6e1669800] DEBUG - [FFMPEG] - Setting codecpar->delay to 2 for stream st: 1
+Jul 14, 2018 03:09:07.590 [0x7fe6e1669800] DEBUG - [FFMPEG] - Before avformat_find_stream_info() pos: 2018384522 bytes read:6114064 seeks:1 nb_streams:2
+Jul 14, 2018 03:09:07.590 [0x7fe6e1669800] DEBUG - [FFMPEG] - nal_unit_type: 7, nal_ref_idc: 3
+Jul 14, 2018 03:09:07.591 [0x7fe6e1669800] DEBUG - [FFMPEG] - nal_unit_type: 8, nal_ref_idc: 3
+Jul 14, 2018 03:09:07.591 [0x7fe6e1669800] DEBUG - [FFMPEG] - nal_unit_type: 5, nal_ref_idc: 3
+Jul 14, 2018 03:09:07.591 [0x7fe6e1669800] DEBUG - [FFMPEG] - Format yuv420p chosen by get_format().
+Jul 14, 2018 03:09:07.592 [0x7fe6e1669800] DEBUG - [FFMPEG] - no picture 
+Jul 14, 2018 03:09:07.593 [0x7fe6e1669800] DEBUG - [FFMPEG] - All info found
+Jul 14, 2018 03:09:07.593 [0x7fe6e1669800] DEBUG - [FFMPEG] - After avformat_find_stream_info() pos: 6096391 bytes read:6146832 seeks:2 frames:25
+Jul 14, 2018 03:09:07.593 [0x7fe6e1669800] DEBUG - [MI] Opening /movies/Watchmen.2009.Ultimate.Cut.BluRay.720p.H264-20-40/Watchmen.2009.Ultimate.Cut.BluRay.720p.H264/Watchmen.2009.Ultimate.Cut.BluRay.720p.H264.mp4 for MP4 atom parsing
+Jul 14, 2018 03:09:07.594 [0x7fe6e1669800] DEBUG - Mp4AtomParser: Skipping ftyp atom of size 32 at offset 0
+Jul 14, 2018 03:09:07.594 [0x7fe6e1669800] DEBUG - Mp4AtomParser: Found moov atom of size 6091029 at offset 32
+Jul 14, 2018 03:09:07.597 [0x7fe6e1669800] DEBUG - Mp4AtomParser: Found trak atom of size 2426413 at offset 169
+Jul 14, 2018 03:09:07.597 [0x7fe6e1669800] DEBUG - Mp4AtomParser: Found trak atom of size 3664479 at offset 2426582
+Jul 14, 2018 03:09:07.597 [0x7fe6e1669800] DEBUG - Mp4AtomParser: Found mdia atom of size 2426313 at offset 269
+Jul 14, 2018 03:09:07.597 [0x7fe6e1669800] DEBUG - Mp4AtomParser: Found minf atom of size 2426218 at offset 364
+Jul 14, 2018 03:09:07.597 [0x7fe6e1669800] DEBUG - Mp4AtomParser: Found stbl atom of size 2426158 at offset 424
+Jul 14, 2018 03:09:07.597 [0x7fe6e1669800] DEBUG - Mp4AtomParser: Found mdia atom of size 3664379 at offset 2426682
+Jul 14, 2018 03:09:07.597 [0x7fe6e1669800] DEBUG - Mp4AtomParser: Found minf atom of size 3664284 at offset 2426777
+Jul 14, 2018 03:09:07.597 [0x7fe6e1669800] DEBUG - Mp4AtomParser: Found stbl atom of size 3664220 at offset 2426841
+Jul 14, 2018 03:09:07.597 [0x7fe6e1669800] DEBUG - [MI]  * 1fdc0bd13bcefd57eca738acd70139fd0750572a [mp4 h264/aac] Duration: 12399253ms, 1280x544 (2.352941) 23.976fps, bitrate=1302kbps, audio channels=2, optimizedForStreaming=1 (/movies/Watchmen.2009.Ultimate.Cut.BluRay.720p.H264-20-40/Watchmen.2009.Ultimate.Cut.BluRay.720p.H264/Watchmen.2009.Ultimate.Cut.BluRay.720p.H264.mp4)
+Jul 14, 2018 03:09:07.598 [0x7fe6e1669800] DEBUG - [MI] Chapters had generic titles, clearing.
+Jul 14, 2018 03:09:07.598 [0x7fe6e1669800] DEBUG - [MI] Closing input file: /movies/Watchmen.2009.Ultimate.Cut.BluRay.720p.H264-20-40/Watchmen.2009.Ultimate.Cut.BluRay.720p.H264/Watchmen.2009.Ultimate.Cut.BluRay.720p.H264.mp4
+Jul 14, 2018 03:09:07.599 [0x7fe6e1669800] DEBUG - [FFMPEG] - Statistics: 6146832 bytes read, 2 seeks
+Jul 14, 2018 03:09:07.599 [0x7fe6e1669800] DEBUG - Streams didn't change in analysis, not saving.
+Jul 14, 2018 03:09:07.600 [0x7fe6e1669800] DEBUG - Updating media item 9535, size=2018384549, metadata_item_id=5083
+Jul 14, 2018 03:09:07.600 [0x7fe6e1669800] DEBUG - Updating part with ID=9551 [/movies/Watchmen.2009.Ultimate.Cut.BluRay.720p.H264-20-40/Watchmen.2009.Ultimate.Cut.BluRay.720p.H264/Watchmen.2009.Ultimate.Cut.BluRay.720p.H264.mp4]
+Jul 14, 2018 03:09:07.604 [0x7fe6cffff700] DEBUG - HTTP requesting GET http://127.0.0.1:32400/:/metadata/notify/changeItemState?librarySectionID=1&metadataItemID=5083&metadataType=1&state=-1&mediaState=analyzing
+Jul 14, 2018 03:09:07.605 [0x7fe6cffff700] DEBUG - HTTP 200 response from GET http://127.0.0.1:32400/:/metadata/notify/changeItemState?librarySectionID=1&metadataItemID=5083&metadataType=1&state=-1&mediaState=analyzing
+Jul 14, 2018 03:09:07.606 [0x7fe6cffff700] DEBUG - HTTP requesting GET http://127.0.0.1:32400/:/metadata/notify/changeItemState?librarySectionID=1&metadataItemID=5083&metadataType=1&state=-1&mediaState=thumbnailing
+Jul 14, 2018 03:09:07.607 [0x7fe6cffff700] DEBUG - HTTP 200 response from GET http://127.0.0.1:32400/:/metadata/notify/changeItemState?librarySectionID=1&metadataItemID=5083&metadataType=1&state=-1&mediaState=thumbnailing
+Jul 14, 2018 03:09:07.607 [0x7fe6cffff700] DEBUG - HTTP requesting GET http://127.0.0.1:32400/:/metadata/notify/changeItemState?librarySectionID=1&metadataItemID=5083&metadataType=1&state=-1&mediaState=idle
+Jul 14, 2018 03:09:07.608 [0x7fe6cffff700] DEBUG - HTTP 200 response from GET http://127.0.0.1:32400/:/metadata/notify/changeItemState?librarySectionID=1&metadataItemID=5083&metadataType=1&state=-1&mediaState=idle
+Jul 14, 2018 03:09:07.610 [0x7fe6e1669800] DEBUG - Analyzing media parts for item 5038 (Stir Crazy): 9468
+Jul 14, 2018 03:09:07.611 [0x7fe6e1669800] DEBUG - [ID 9484] Media part analysis: /movies/Stir.Crazy.1980.1080p.BluRay.H264.AAC-RARBG-Obfuscated/LSxghfBkOq6NLILx6R3bxx4es9rqjL6zywSj.mp4
+Jul 14, 2018 03:09:07.611 [0x7fe6e1669800] DEBUG - [MI] Opening input file: "/movies/Stir.Crazy.1980.1080p.BluRay.H264.AAC-RARBG-Obfuscated/LSxghfBkOq6NLILx6R3bxx4es9rqjL6zywSj.mp4"
+Jul 14, 2018 03:09:07.611 [0x7fe6e1669800] DEBUG - [FFMPEG] - Opening '/movies/Stir.Crazy.1980.1080p.BluRay.H264.AAC-RARBG-Obfuscated/LSxghfBkOq6NLILx6R3bxx4es9rqjL6zywSj.mp4' for reading
+Jul 14, 2018 03:09:07.611 [0x7fe6e1669800] DEBUG - [FFMPEG] - Setting default whitelist 'file,crypto'
+Jul 14, 2018 03:09:07.690 [0x7fe6e1669800] DEBUG - [FFMPEG] - Format mov,mp4,m4a,3gp,3g2,mj2 probed with size=2048 and score=100
+Jul 14, 2018 03:09:07.690 [0x7fe6e1669800] DEBUG - [FFMPEG] - ISO: File Type Major Brand: isom
+Jul 14, 2018 03:09:07.701 [0x7fe6e1669800] DEBUG - [FFMPEG] - Unknown dref type 0x206c7275 size 12
+Jul 14, 2018 03:09:07.752 [0x7fe6e1669800] DEBUG - [FFMPEG] - Processing st: 0, edit list 0 - media time: 250, duration: 19970875
+Jul 14, 2018 03:09:07.761 [0x7fe6e1669800] DEBUG - [FFMPEG] - Offset DTS by 250 to make first pts zero.
+Jul 14, 2018 03:09:07.786 [0x7fe6e1669800] DEBUG - [FFMPEG] - Setting codecpar->delay to 2 for stream st: 0
+Jul 14, 2018 03:09:07.786 [0x7fe6e1669800] DEBUG - [FFMPEG] - Unknown dref type 0x206c7275 size 12
+Jul 14, 2018 03:09:07.803 [0x7fe6e1669800] DEBUG - [FFMPEG] - Before avformat_find_stream_info() pos: 2273065821 bytes read:5080093 seeks:1 nb_streams:2
+Jul 14, 2018 03:09:07.803 [0x7fe6e1669800] DEBUG - [FFMPEG] - nal_unit_type: 7, nal_ref_idc: 3
+Jul 14, 2018 03:09:07.803 [0x7fe6e1669800] DEBUG - [FFMPEG] - nal_unit_type: 8, nal_ref_idc: 3
+Jul 14, 2018 03:09:07.804 [0x7fe6e1669800] DEBUG - [FFMPEG] - nal_unit_type: 6, nal_ref_idc: 0
+Jul 14, 2018 03:09:07.804 [0x7fe6e1669800] DEBUG - [FFMPEG] - nal_unit_type: 5, nal_ref_idc: 3
+Jul 14, 2018 03:09:07.804 [0x7fe6e1669800] DEBUG - [FFMPEG] - Format yuv420p chosen by get_format().
+Jul 14, 2018 03:09:07.806 [0x7fe6e1669800] DEBUG - [FFMPEG] - no picture 
+Jul 14, 2018 03:09:07.807 [0x7fe6e1669800] DEBUG - [FFMPEG] - nal_unit_type: 1, nal_ref_idc: 2
+Jul 14, 2018 03:09:07.809 [0x7fe6e1669800] DEBUG - [FFMPEG] - no picture 
+Jul 14, 2018 03:09:07.811 [0x7fe6e1669800] DEBUG - [FFMPEG] - nal_unit_type: 1, nal_ref_idc: 2
+Jul 14, 2018 03:09:07.814 [0x7fe6e1669800] DEBUG - [FFMPEG] - All info found
+Jul 14, 2018 03:09:07.814 [0x7fe6e1669800] DEBUG - [FFMPEG] - After avformat_find_stream_info() pos: 1983 bytes read:5112861 seeks:2 frames:4
+Jul 14, 2018 03:09:07.814 [0x7fe6e1669800] DEBUG - [MI] Opening /movies/Stir.Crazy.1980.1080p.BluRay.H264.AAC-RARBG-Obfuscated/LSxghfBkOq6NLILx6R3bxx4es9rqjL6zywSj.mp4 for MP4 atom parsing
+Jul 14, 2018 03:09:07.815 [0x7fe6e1669800] DEBUG - Mp4AtomParser: Skipping ftyp atom of size 32 at offset 0
+Jul 14, 2018 03:09:07.815 [0x7fe6e1669800] DEBUG - Mp4AtomParser: Skipping free atom of size 8 at offset 32
+Jul 14, 2018 03:09:07.815 [0x7fe6e1669800] DEBUG - Mp4AtomParser: Skipping mdat atom of size 2268018456 at offset 40
+Jul 14, 2018 03:09:07.815 [0x7fe6e1669800] DEBUG - Mp4AtomParser: Found moov atom of size 5047325 at offset 2268018496
+Jul 14, 2018 03:09:07.817 [0x7fe6e1669800] DEBUG - Mp4AtomParser: Found trak atom of size 2547741 at offset 2268018636
+Jul 14, 2018 03:09:07.817 [0x7fe6e1669800] DEBUG - Mp4AtomParser: Found trak atom of size 2499348 at offset 2270566377
+Jul 14, 2018 03:09:07.817 [0x7fe6e1669800] DEBUG - Mp4AtomParser: Found mdia atom of size 2547605 at offset 2268018772
+Jul 14, 2018 03:09:07.817 [0x7fe6e1669800] DEBUG - Mp4AtomParser: Found minf atom of size 2547520 at offset 2268018857
+Jul 14, 2018 03:09:07.817 [0x7fe6e1669800] DEBUG - Mp4AtomParser: Found stbl atom of size 2547456 at offset 2268018921
+Jul 14, 2018 03:09:07.817 [0x7fe6e1669800] DEBUG - Mp4AtomParser: Found mdia atom of size 2499248 at offset 2270566477
+Jul 14, 2018 03:09:07.817 [0x7fe6e1669800] DEBUG - Mp4AtomParser: Found minf atom of size 2499163 at offset 2270566562
+Jul 14, 2018 03:09:07.817 [0x7fe6e1669800] DEBUG - Mp4AtomParser: Found stbl atom of size 2499103 at offset 2270566622
+Jul 14, 2018 03:09:07.818 [0x7fe6e1669800] DEBUG - [MI]  * 80a6a35b327092b3fb2d21875d68f7e091092ed7 [mp4 h264/aac] Duration: 6663766ms, 1920x1040 (1.846154) 23.976fps, bitrate=2728kbps, audio channels=2, optimizedForStreaming=0 (/movies/Stir.Crazy.1980.1080p.BluRay.H264.AAC-RARBG-Obfuscated/LSxghfBkOq6NLILx6R3bxx4es9rqjL6zywSj.mp4)
+Jul 14, 2018 03:09:07.819 [0x7fe6e1669800] DEBUG - [MI] Chapters had generic titles, clearing.
+Jul 14, 2018 03:09:07.819 [0x7fe6e1669800] DEBUG - [MI] Closing input file: /movies/Stir.Crazy.1980.1080p.BluRay.H264.AAC-RARBG-Obfuscated/LSxghfBkOq6NLILx6R3bxx4es9rqjL6zywSj.mp4
+Jul 14, 2018 03:09:07.820 [0x7fe6e1669800] DEBUG - [FFMPEG] - Statistics: 5112861 bytes read, 2 seeks
+Jul 14, 2018 03:09:07.821 [0x7fe6e1669800] DEBUG - Updating media item 9468, size=2273065821, metadata_item_id=5038
+Jul 14, 2018 03:09:07.822 [0x7fe6e1669800] DEBUG - Updating part with ID=9484 [/movies/Stir.Crazy.1980.1080p.BluRay.H264.AAC-RARBG-Obfuscated/LSxghfBkOq6NLILx6R3bxx4es9rqjL6zywSj.mp4]
+Jul 14, 2018 03:09:07.833 [0x7fe6cffff700] DEBUG - HTTP requesting GET http://127.0.0.1:32400/:/metadata/notify/changeItemState?librarySectionID=1&metadataItemID=5038&metadataType=1&state=-1&mediaState=analyzing
+Jul 14, 2018 03:09:07.835 [0x7fe6cffff700] DEBUG - HTTP 200 response from GET http://127.0.0.1:32400/:/metadata/notify/changeItemState?librarySectionID=1&metadataItemID=5038&metadataType=1&state=-1&mediaState=analyzing
+Jul 14, 2018 03:09:07.835 [0x7fe6cffff700] DEBUG - HTTP requesting GET http://127.0.0.1:32400/:/metadata/notify/changeItemState?librarySectionID=1&metadataItemID=5038&metadataType=1&state=-1&mediaState=thumbnailing
+Jul 14, 2018 03:09:07.836 [0x7fe6cffff700] DEBUG - HTTP 200 response from GET http://127.0.0.1:32400/:/metadata/notify/changeItemState?librarySectionID=1&metadataItemID=5038&metadataType=1&state=-1&mediaState=thumbnailing
+Jul 14, 2018 03:09:07.836 [0x7fe6cffff700] DEBUG - HTTP requesting GET http://127.0.0.1:32400/:/metadata/notify/changeItemState?librarySectionID=1&metadataItemID=5038&metadataType=1&state=-1&mediaState=idle
+Jul 14, 2018 03:09:07.837 [0x7fe6e1669800] DEBUG - It took 10.000000 ms to retrieve 103 items.
+Jul 14, 2018 03:09:07.838 [0x7fe6cffff700] DEBUG - HTTP 200 response from GET http://127.0.0.1:32400/:/metadata/notify/changeItemState?librarySectionID=1&metadataItemID=5038&metadataType=1&state=-1&mediaState=idle
+Jul 14, 2018 03:09:07.844 [0x7fe6e1669800] DEBUG - Analyzing media parts for item 5033 (London Has Fallen): 9463
+Jul 14, 2018 03:09:07.844 [0x7fe6e1669800] DEBUG - [ID 9479] Media part analysis: /movies/London.Has.Fallen.2016.720p.BluRay.DTS.x264-FuzerHD/London.Has.Fallen.2016.720p.BluRay.DTS.x264-FuzerHD.mkv
+Jul 14, 2018 03:09:07.844 [0x7fe6e1669800] DEBUG - [MI] Opening input file: "/movies/London.Has.Fallen.2016.720p.BluRay.DTS.x264-FuzerHD/London.Has.Fallen.2016.720p.BluRay.DTS.x264-FuzerHD.mkv"
+Jul 14, 2018 03:09:07.845 [0x7fe6e1669800] DEBUG - [FFMPEG] - Opening '/movies/London.Has.Fallen.2016.720p.BluRay.DTS.x264-FuzerHD/London.Has.Fallen.2016.720p.BluRay.DTS.x264-FuzerHD.mkv' for reading
+Jul 14, 2018 03:09:07.845 [0x7fe6e1669800] DEBUG - [FFMPEG] - Setting default whitelist 'file,crypto'
+Jul 14, 2018 03:09:07.901 [0x7fe6e1669800] DEBUG - [FFMPEG] - Format matroska,webm probed with size=2048 and score=100
+Jul 14, 2018 03:09:07.906 [0x7fe6e1669800] DEBUG - [FFMPEG] - st:0 removing common factor 1000000 from timebase
+Jul 14, 2018 03:09:07.906 [0x7fe6e1669800] DEBUG - [FFMPEG] - st:1 removing common factor 1000000 from timebase
+Jul 14, 2018 03:09:07.907 [0x7fe6e1669800] DEBUG - [FFMPEG] - Before avformat_find_stream_info() pos: 730 bytes read:65536 seeks:2 nb_streams:2
+Jul 14, 2018 03:09:07.907 [0x7fe6e1669800] DEBUG - [FFMPEG] - nal_unit_type: 7, nal_ref_idc: 3
+Jul 14, 2018 03:09:07.907 [0x7fe6e1669800] DEBUG - [FFMPEG] - nal_unit_type: 8, nal_ref_idc: 3
+Jul 14, 2018 03:09:07.907 [0x7fe6e1669800] DEBUG - [FFMPEG] - nal_unit_type: 7, nal_ref_idc: 3
+Jul 14, 2018 03:09:07.907 [0x7fe6e1669800] DEBUG - [FFMPEG] - nal_unit_type: 8, nal_ref_idc: 3
+Jul 14, 2018 03:09:07.907 [0x7fe6e1669800] DEBUG - [FFMPEG] - nal_unit_type: 6, nal_ref_idc: 0
+Jul 14, 2018 03:09:07.907 [0x7fe6e1669800] DEBUG - [FFMPEG] - nal_unit_type: 5, nal_ref_idc: 3
+Jul 14, 2018 03:09:07.907 [0x7fe6e1669800] DEBUG - [FFMPEG] - Format yuv420p chosen by get_format().
+Jul 14, 2018 03:09:07.908 [0x7fe6e1669800] DEBUG - [FFMPEG] - no picture 
+Jul 14, 2018 03:09:07.909 [0x7fe6e1669800] DEBUG - [FFMPEG] - nal_unit_type: 1, nal_ref_idc: 2
+Jul 14, 2018 03:09:07.909 [0x7fe6e1669800] DEBUG - [FFMPEG] - no picture 
+Jul 14, 2018 03:09:07.909 [0x7fe6e1669800] DEBUG - [FFMPEG] - nal_unit_type: 1, nal_ref_idc: 2
+Jul 14, 2018 03:09:07.911 [0x7fe6e1669800] DEBUG - [FFMPEG] - nal_unit_type: 1, nal_ref_idc: 0
+Jul 14, 2018 03:09:07.913 [0x7fe6e1669800] DEBUG - [FFMPEG] - nal_unit_type: 1, nal_ref_idc: 0
+Jul 14, 2018 03:09:07.915 [0x7fe6e1669800] DEBUG - [FFMPEG] - nal_unit_type: 1, nal_ref_idc: 2
+Jul 14, 2018 03:09:07.915 [0x7fe6e1669800] DEBUG - [FFMPEG] - nal_unit_type: 1, nal_ref_idc: 2
+Jul 14, 2018 03:09:07.916 [0x7fe6e1669800] DEBUG - [FFMPEG] - nal_unit_type: 1, nal_ref_idc: 0
+Jul 14, 2018 03:09:07.917 [0x7fe6e1669800] DEBUG - [FFMPEG] - nal_unit_type: 1, nal_ref_idc: 0
+Jul 14, 2018 03:09:07.918 [0x7fe6e1669800] DEBUG - [FFMPEG] - All info found
+Jul 14, 2018 03:09:07.918 [0x7fe6e1669800] DEBUG - [FFMPEG] - After avformat_find_stream_info() pos: 58699 bytes read:131072 seeks:2 frames:38
+Jul 14, 2018 03:09:07.918 [0x7fe6e1669800] DEBUG - [MI]  * d22b9a16192feb89131eed9092573b049ec12d32 [mkv h264/dca] Duration: 5921993ms, 1280x536 (2.388060) 23.976fps, bitrate=7477kbps, audio channels=6, optimizedForStreaming=0 (/movies/London.Has.Fallen.2016.720p.BluRay.DTS.x264-FuzerHD/London.Has.Fallen.2016.720p.BluRay.DTS.x264-FuzerHD.mkv)
+Jul 14, 2018 03:09:07.918 [0x7fe6e1669800] DEBUG - [MI] Importing 20 media chapters.
+Jul 14, 2018 03:09:07.918 [0x7fe6e1669800] DEBUG - [MI] Chapters had generic titles, clearing.
+Jul 14, 2018 03:09:07.919 [0x7fe6e1669800] DEBUG - Downloading document http://127.0.0.1:32400/library/changestamp
+Jul 14, 2018 03:09:07.919 [0x7fe6e1669800] DEBUG - HTTP requesting GET http://127.0.0.1:32400/library/changestamp
+Jul 14, 2018 03:09:07.920 [0x7fe6e1669800] DEBUG - HTTP 200 response from GET http://127.0.0.1:32400/library/changestamp
+Jul 14, 2018 03:09:07.921 [0x7fe6e1669800] DEBUG - Updating metadata item (save) (London Has Fallen) with ID 5033
+Jul 14, 2018 03:09:07.933 [0x7fe6e1669800] DEBUG - [MI] Closing input file: /movies/London.Has.Fallen.2016.720p.BluRay.DTS.x264-FuzerHD/London.Has.Fallen.2016.720p.BluRay.DTS.x264-FuzerHD.mkv
+Jul 14, 2018 03:09:07.934 [0x7fe6e1669800] DEBUG - [FFMPEG] - Statistics: 131072 bytes read, 2 seeks
+Jul 14, 2018 03:09:07.936 [0x7fe6e1669800] DEBUG - Updating media item 9463, size=5535027912, metadata_item_id=5033
+Jul 14, 2018 03:09:07.936 [0x7fe6e1669800] DEBUG - Updating part with ID=9479 [/movies/London.Has.Fallen.2016.720p.BluRay.DTS.x264-FuzerHD/London.Has.Fallen.2016.720p.BluRay.DTS.x264-FuzerHD.mkv]
+Jul 14, 2018 03:09:07.947 [0x7fe6cffff700] DEBUG - HTTP requesting GET http://127.0.0.1:32400/:/metadata/notify/changeItemState?librarySectionID=1&metadataItemID=5033&metadataType=1&state=-1&mediaState=analyzing
+Jul 14, 2018 03:09:07.948 [0x7fe6cffff700] DEBUG - HTTP 200 response from GET http://127.0.0.1:32400/:/metadata/notify/changeItemState?librarySectionID=1&metadataItemID=5033&metadataType=1&state=-1&mediaState=analyzing
+Jul 14, 2018 03:09:07.948 [0x7fe6cffff700] DEBUG - HTTP requesting GET http://127.0.0.1:32400/:/metadata/notify/changeItemState?librarySectionID=1&metadataItemID=5033&metadataType=1&state=-1&mediaState=thumbnailing
+Jul 14, 2018 03:09:07.949 [0x7fe6cffff700] DEBUG - HTTP 200 response from GET http://127.0.0.1:32400/:/metadata/notify/changeItemState?librarySectionID=1&metadataItemID=5033&metadataType=1&state=-1&mediaState=thumbnailing
+Jul 14, 2018 03:09:07.950 [0x7fe6cffff700] DEBUG - HTTP requesting GET http://127.0.0.1:32400/:/metadata/notify/changeItemState?librarySectionID=1&metadataItemID=5033&metadataType=1&state=-1&mediaState=idle
+Jul 14, 2018 03:09:07.951 [0x7fe6cffff700] DEBUG - HTTP 200 response from GET http://127.0.0.1:32400/:/metadata/notify/changeItemState?librarySectionID=1&metadataItemID=5033&metadataType=1&state=-1&mediaState=idle
+Jul 14, 2018 03:09:07.957 [0x7fe6e1669800] DEBUG - Analyzing media parts for item 4919 (The King and I): 9229
+Jul 14, 2018 03:09:07.957 [0x7fe6e1669800] DEBUG - [ID 9245] Media part analysis: /movies/The.King.and.I.1956.1080p.BluRay.H264.AAC-RARBG-Obfuscated/lcW642M5AZJPtflQPXNsaKLtt1.mp4
+Jul 14, 2018 03:09:07.958 [0x7fe6e1669800] DEBUG - [MI] Opening input file: "/movies/The.King.and.I.1956.1080p.BluRay.H264.AAC-RARBG-Obfuscated/lcW642M5AZJPtflQPXNsaKLtt1.mp4"
+Jul 14, 2018 03:09:07.958 [0x7fe6e1669800] DEBUG - [FFMPEG] - Opening '/movies/The.King.and.I.1956.1080p.BluRay.H264.AAC-RARBG-Obfuscated/lcW642M5AZJPtflQPXNsaKLtt1.mp4' for reading
+Jul 14, 2018 03:09:07.958 [0x7fe6e1669800] DEBUG - [FFMPEG] - Setting default whitelist 'file,crypto'
+Jul 14, 2018 03:09:08.033 [0x7fe6e1669800] DEBUG - [FFMPEG] - Format mov,mp4,m4a,3gp,3g2,mj2 probed with size=2048 and score=100
+Jul 14, 2018 03:09:08.033 [0x7fe6e1669800] DEBUG - [FFMPEG] - ISO: File Type Major Brand: isom
+Jul 14, 2018 03:09:08.044 [0x7fe6e1669800] DEBUG - [FFMPEG] - Unknown dref type 0x206c7275 size 12
+Jul 14, 2018 03:09:08.154 [0x7fe6e1669800] DEBUG - [FFMPEG] - Processing st: 0, edit list 0 - media time: 250, duration: 23972128
+Jul 14, 2018 03:09:08.171 [0x7fe6e1669800] DEBUG - [FFMPEG] - Offset DTS by 250 to make first pts zero.
+Jul 14, 2018 03:09:08.197 [0x7fe6e1669800] DEBUG - [FFMPEG] - Setting codecpar->delay to 2 for stream st: 0
+Jul 14, 2018 03:09:08.197 [0x7fe6e1669800] DEBUG - [FFMPEG] - Unknown dref type 0x206c7275 size 12
+Jul 14, 2018 03:09:08.225 [0x7fe6e1669800] DEBUG - [FFMPEG] - Before avformat_find_stream_info() pos: 2731196251 bytes read:7570388 seeks:1 nb_streams:2
+Jul 14, 2018 03:09:08.225 [0x7fe6e1669800] DEBUG - [FFMPEG] - nal_unit_type: 7, nal_ref_idc: 3
+Jul 14, 2018 03:09:08.226 [0x7fe6e1669800] DEBUG - [FFMPEG] - nal_unit_type: 8, nal_ref_idc: 3
+Jul 14, 2018 03:09:08.226 [0x7fe6e1669800] DEBUG - [FFMPEG] - nal_unit_type: 6, nal_ref_idc: 0
+Jul 14, 2018 03:09:08.226 [0x7fe6e1669800] DEBUG - [FFMPEG] - nal_unit_type: 5, nal_ref_idc: 3
+Jul 14, 2018 03:09:08.226 [0x7fe6e1669800] DEBUG - [FFMPEG] - Format yuv420p chosen by get_format().
+Jul 14, 2018 03:09:08.228 [0x7fe6e1669800] DEBUG - [FFMPEG] - no picture 
+Jul 14, 2018 03:09:08.230 [0x7fe6e1669800] DEBUG - [FFMPEG] - nal_unit_type: 1, nal_ref_idc: 2
+Jul 14, 2018 03:09:08.231 [0x7fe6e1669800] DEBUG - [FFMPEG] - no picture 
+Jul 14, 2018 03:09:08.232 [0x7fe6e1669800] DEBUG - [FFMPEG] - nal_unit_type: 1, nal_ref_idc: 0
+Jul 14, 2018 03:09:08.235 [0x7fe6e1669800] DEBUG - [FFMPEG] - All info found
+Jul 14, 2018 03:09:08.235 [0x7fe6e1669800] DEBUG - [FFMPEG] - After avformat_find_stream_info() pos: 13853 bytes read:7603156 seeks:2 frames:4
+Jul 14, 2018 03:09:08.235 [0x7fe6e1669800] DEBUG - [MI] Opening /movies/The.King.and.I.1956.1080p.BluRay.H264.AAC-RARBG-Obfuscated/lcW642M5AZJPtflQPXNsaKLtt1.mp4 for MP4 atom parsing
+Jul 14, 2018 03:09:08.236 [0x7fe6e1669800] DEBUG - Mp4AtomParser: Skipping ftyp atom of size 32 at offset 0
+Jul 14, 2018 03:09:08.236 [0x7fe6e1669800] DEBUG - Mp4AtomParser: Skipping free atom of size 8 at offset 32
+Jul 14, 2018 03:09:08.236 [0x7fe6e1669800] DEBUG - Mp4AtomParser: Skipping mdat atom of size 2723658591 at offset 40
+Jul 14, 2018 03:09:08.236 [0x7fe6e1669800] DEBUG - Mp4AtomParser: Found moov atom of size 7537620 at offset 2723658631
+Jul 14, 2018 03:09:08.239 [0x7fe6e1669800] DEBUG - Mp4AtomParser: Found trak atom of size 3066572 at offset 2723658771
+Jul 14, 2018 03:09:08.239 [0x7fe6e1669800] DEBUG - Mp4AtomParser: Found trak atom of size 4470812 at offset 2726725343
+Jul 14, 2018 03:09:08.239 [0x7fe6e1669800] DEBUG - Mp4AtomParser: Found mdia atom of size 3066436 at offset 2723658907
+Jul 14, 2018 03:09:08.239 [0x7fe6e1669800] DEBUG - Mp4AtomParser: Found minf atom of size 3066351 at offset 2723658992
+Jul 14, 2018 03:09:08.239 [0x7fe6e1669800] DEBUG - Mp4AtomParser: Found stbl atom of size 3066287 at offset 2723659056
+Jul 14, 2018 03:09:08.239 [0x7fe6e1669800] DEBUG - Mp4AtomParser: Found mdia atom of size 4470712 at offset 2726725443
+Jul 14, 2018 03:09:08.239 [0x7fe6e1669800] DEBUG - Mp4AtomParser: Found minf atom of size 4470627 at offset 2726725528
+Jul 14, 2018 03:09:08.239 [0x7fe6e1669800] DEBUG - Mp4AtomParser: Found stbl atom of size 4470567 at offset 2726725588
+Jul 14, 2018 03:09:08.239 [0x7fe6e1669800] DEBUG - [MI]  * 7c7024254bb5c38316b211be41766f87e8bc146c [mp4 h264/aac] Duration: 7998795ms, 1920x752 (2.553191) 23.976fps, bitrate=2731kbps, audio channels=4, optimizedForStreaming=0 (/movies/The.King.and.I.1956.1080p.BluRay.H264.AAC-RARBG-Obfuscated/lcW642M5AZJPtflQPXNsaKLtt1.mp4)
+Jul 14, 2018 03:09:08.240 [0x7fe6e1669800] DEBUG - [MI] Chapters had generic titles, clearing.
+Jul 14, 2018 03:09:08.240 [0x7fe6e1669800] DEBUG - [MI] Closing input file: /movies/The.King.and.I.1956.1080p.BluRay.H264.AAC-RARBG-Obfuscated/lcW642M5AZJPtflQPXNsaKLtt1.mp4
+Jul 14, 2018 03:09:08.241 [0x7fe6e1669800] DEBUG - [FFMPEG] - Statistics: 7603156 bytes read, 2 seeks
+Jul 14, 2018 03:09:08.242 [0x7fe6e1669800] DEBUG - Streams didn't change in analysis, not saving.
+Jul 14, 2018 03:09:08.242 [0x7fe6e1669800] DEBUG - Updating media item 9229, size=2731196251, metadata_item_id=4919
+Jul 14, 2018 03:09:08.242 [0x7fe6e1669800] DEBUG - Updating part with ID=9245 [/movies/The.King.and.I.1956.1080p.BluRay.H264.AAC-RARBG-Obfuscated/lcW642M5AZJPtflQPXNsaKLtt1.mp4]
+Jul 14, 2018 03:09:08.246 [0x7fe6cffff700] DEBUG - HTTP requesting GET http://127.0.0.1:32400/:/metadata/notify/changeItemState?librarySectionID=1&metadataItemID=4919&metadataType=1&state=-1&mediaState=analyzing
+Jul 14, 2018 03:09:08.248 [0x7fe6cffff700] DEBUG - HTTP 200 response from GET http://127.0.0.1:32400/:/metadata/notify/changeItemState?librarySectionID=1&metadataItemID=4919&metadataType=1&state=-1&mediaState=analyzing
+Jul 14, 2018 03:09:08.248 [0x7fe6cffff700] DEBUG - HTTP requesting GET http://127.0.0.1:32400/:/metadata/notify/changeItemState?librarySectionID=1&metadataItemID=4919&metadataType=1&state=-1&mediaState=thumbnailing
+Jul 14, 2018 03:09:08.249 [0x7fe6cffff700] DEBUG - HTTP 200 response from GET http://127.0.0.1:32400/:/metadata/notify/changeItemState?librarySectionID=1&metadataItemID=4919&metadataType=1&state=-1&mediaState=thumbnailing
+Jul 14, 2018 03:09:08.249 [0x7fe6cffff700] DEBUG - HTTP requesting GET http://127.0.0.1:32400/:/metadata/notify/changeItemState?librarySectionID=1&metadataItemID=4919&metadataType=1&state=-1&mediaState=idle
+Jul 14, 2018 03:09:08.251 [0x7fe6cffff700] DEBUG - HTTP 200 response from GET http://127.0.0.1:32400/:/metadata/notify/changeItemState?librarySectionID=1&metadataItemID=4919&metadataType=1&state=-1&mediaState=idle
+Jul 14, 2018 03:09:08.251 [0x7fe6e1669800] DEBUG - Analyzing media parts for item 4859 (King of Thorn): 9165
+Jul 14, 2018 03:09:08.251 [0x7fe6e1669800] DEBUG - [ID 9173] Media part analysis: /movies/King.Of.Thorn.2009.1080p.BluRay.x264-ROVERS/kot1080p-rovers.mkv
+Jul 14, 2018 03:09:08.252 [0x7fe6e1669800] DEBUG - [MI] Opening input file: "/movies/King.Of.Thorn.2009.1080p.BluRay.x264-ROVERS/kot1080p-rovers.mkv"
+Jul 14, 2018 03:09:08.252 [0x7fe6e1669800] DEBUG - [FFMPEG] - Opening '/movies/King.Of.Thorn.2009.1080p.BluRay.x264-ROVERS/kot1080p-rovers.mkv' for reading
+Jul 14, 2018 03:09:08.252 [0x7fe6e1669800] DEBUG - [FFMPEG] - Setting default whitelist 'file,crypto'
+Jul 14, 2018 03:09:08.325 [0x7fe6e1669800] DEBUG - [FFMPEG] - Format matroska,webm probed with size=2048 and score=100
+Jul 14, 2018 03:09:08.326 [0x7fe6e1669800] DEBUG - [FFMPEG] - st:0 removing common factor 1000000 from timebase
+Jul 14, 2018 03:09:08.326 [0x7fe6e1669800] DEBUG - [FFMPEG] - st:1 removing common factor 1000000 from timebase
+Jul 14, 2018 03:09:08.326 [0x7fe6e1669800] DEBUG - [FFMPEG] - st:2 removing common factor 1000000 from timebase
+Jul 14, 2018 03:09:08.326 [0x7fe6e1669800] DEBUG - [FFMPEG] - st:3 removing common factor 1000000 from timebase
+Jul 14, 2018 03:09:08.326 [0x7fe6e1669800] DEBUG - [FFMPEG] - Before avformat_find_stream_info() pos: 6899 bytes read:32768 seeks:0 nb_streams:4
+Jul 14, 2018 03:09:08.326 [0x7fe6e1669800] DEBUG - [FFMPEG] - nal_unit_type: 7, nal_ref_idc: 3
+Jul 14, 2018 03:09:08.326 [0x7fe6e1669800] DEBUG - [FFMPEG] - nal_unit_type: 8, nal_ref_idc: 3
+Jul 14, 2018 03:09:08.328 [0x7fe6e1669800] DEBUG - [FFMPEG] - nal_unit_type: 7, nal_ref_idc: 3
+Jul 14, 2018 03:09:08.328 [0x7fe6e1669800] DEBUG - [FFMPEG] - nal_unit_type: 8, nal_ref_idc: 3
+Jul 14, 2018 03:09:08.328 [0x7fe6e1669800] DEBUG - [FFMPEG] - nal_unit_type: 6, nal_ref_idc: 0
+Jul 14, 2018 03:09:08.328 [0x7fe6e1669800] DEBUG - [FFMPEG] - nal_unit_type: 5, nal_ref_idc: 3
+Jul 14, 2018 03:09:08.328 [0x7fe6e1669800] DEBUG - [FFMPEG] - Format yuv420p chosen by get_format().
+Jul 14, 2018 03:09:08.333 [0x7fe6e1669800] DEBUG - [FFMPEG] - no picture 
+Jul 14, 2018 03:09:08.336 [0x7fe6e1669800] DEBUG - [FFMPEG] - nal_unit_type: 1, nal_ref_idc: 2
+Jul 14, 2018 03:09:08.340 [0x7fe6e1669800] DEBUG - [FFMPEG] - no picture 
+Jul 14, 2018 03:09:08.343 [0x7fe6e1669800] DEBUG - [FFMPEG] - nal_unit_type: 1, nal_ref_idc: 2
+Jul 14, 2018 03:09:08.350 [0x7fe6e1669800] DEBUG - [FFMPEG] - nal_unit_type: 1, nal_ref_idc: 0
+Jul 14, 2018 03:09:08.354 [0x7fe6e1669800] DEBUG - [FFMPEG] - nal_unit_type: 1, nal_ref_idc: 0
+Jul 14, 2018 03:09:08.358 [0x7fe6e1669800] DEBUG - [FFMPEG] - nal_unit_type: 1, nal_ref_idc: 2
+Jul 14, 2018 03:09:08.360 [0x7fe6e1669800] DEBUG - [FFMPEG] - nal_unit_type: 1, nal_ref_idc: 2
+Jul 14, 2018 03:09:08.362 [0x7fe6e1669800] DEBUG - [FFMPEG] - nal_unit_type: 1, nal_ref_idc: 0
+Jul 14, 2018 03:09:08.365 [0x7fe6e1669800] DEBUG - [FFMPEG] - nal_unit_type: 1, nal_ref_idc: 0
+Jul 14, 2018 03:09:08.368 [0x7fe6e1669800] DEBUG - [FFMPEG] - All info found
+Jul 14, 2018 03:09:08.368 [0x7fe6e1669800] DEBUG - [FFMPEG] - After avformat_find_stream_info() pos: 66110 bytes read:98304 seeks:0 frames:42
+Jul 14, 2018 03:09:08.368 [0x7fe6e1669800] DEBUG - [MI]  * 468760c170f749938ea6231805ec9749f49c6de0 [mkv h264/ac3] Duration: 6558594ms, 1920x1040 (1.846154) 23.976fps, bitrate=7142kbps, audio channels=6, optimizedForStreaming=0 (/movies/King.Of.Thorn.2009.1080p.BluRay.x264-ROVERS/kot1080p-rovers.mkv)
+Jul 14, 2018 03:09:08.369 [0x7fe6e1669800] DEBUG - [MI] Importing 21 media chapters.
+Jul 14, 2018 03:09:08.369 [0x7fe6e1669800] DEBUG - [MI] Chapters had generic titles, clearing.
+Jul 14, 2018 03:09:08.371 [0x7fe6e1669800] DEBUG - [MI] Closing input file: /movies/King.Of.Thorn.2009.1080p.BluRay.x264-ROVERS/kot1080p-rovers.mkv
+Jul 14, 2018 03:09:08.372 [0x7fe6e1669800] DEBUG - [FFMPEG] - Statistics: 98304 bytes read, 0 seeks
+Jul 14, 2018 03:09:08.374 [0x7fe6e1669800] DEBUG - Committing media stream changes for part 9173
+Jul 14, 2018 03:09:08.377 [0x7fe6e1669800] DEBUG - Updating media item 9165, size=5855901271, metadata_item_id=4859
+Jul 14, 2018 03:09:08.377 [0x7fe6e1669800] DEBUG - Updating part with ID=9173 [/movies/King.Of.Thorn.2009.1080p.BluRay.x264-ROVERS/kot1080p-rovers.mkv]
+Jul 14, 2018 03:09:08.381 [0x7fe6cffff700] DEBUG - HTTP requesting GET http://127.0.0.1:32400/:/metadata/notify/changeItemState?librarySectionID=1&metadataItemID=4859&metadataType=1&state=-1&mediaState=analyzing
+Jul 14, 2018 03:09:08.382 [0x7fe6cffff700] DEBUG - HTTP 200 response from GET http://127.0.0.1:32400/:/metadata/notify/changeItemState?librarySectionID=1&metadataItemID=4859&metadataType=1&state=-1&mediaState=analyzing
+Jul 14, 2018 03:09:08.383 [0x7fe6cffff700] DEBUG - HTTP requesting GET http://127.0.0.1:32400/:/metadata/notify/changeItemState?librarySectionID=1&metadataItemID=4859&metadataType=1&state=-1&mediaState=thumbnailing
+Jul 14, 2018 03:09:08.384 [0x7fe6cffff700] DEBUG - HTTP 200 response from GET http://127.0.0.1:32400/:/metadata/notify/changeItemState?librarySectionID=1&metadataItemID=4859&metadataType=1&state=-1&mediaState=thumbnailing
+Jul 14, 2018 03:09:08.384 [0x7fe6cffff700] DEBUG - HTTP requesting GET http://127.0.0.1:32400/:/metadata/notify/changeItemState?librarySectionID=1&metadataItemID=4859&metadataType=1&state=-1&mediaState=idle
+Jul 14, 2018 03:09:08.385 [0x7fe6cffff700] DEBUG - HTTP 200 response from GET http://127.0.0.1:32400/:/metadata/notify/changeItemState?librarySectionID=1&metadataItemID=4859&metadataType=1&state=-1&mediaState=idle

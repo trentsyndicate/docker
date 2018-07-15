@@ -1,0 +1,747 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Movie>
+  <art>
+    <item external="True" url="http://image.tmdb.org/t/p/original/bDhVi5u7VLYoYu3Zenl3LhdeRxE.jpg" sort_order="1" provider="com.plexapp.agents.imdb" media="com.plexapp.agents.imdb_ae440f7350283cb31e31da6f9370d0cbb74413af"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/oi8yHXZX9Eu2yt51QhngKotEx68.jpg" preview="com.plexapp.agents.imdb_de44e4a1ff30e9f6a8de9bffeb2dd3dda08b5e69" sort_order="2" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/usB894rU3he44MtuHMf5EkLpaju.jpg" preview="com.plexapp.agents.imdb_7fb4f2123fc54a13885de8ae22a4329688a1fb83" sort_order="3" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/ebaemaLWUvkrwfAAEmVq3Sqdp0A.jpg" preview="com.plexapp.agents.imdb_3f6c6c85a0580d9d60b5a83fc3e09d302a6331b2" sort_order="4" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/vE7SHhfa4tMpyvwMJ8N9wQGK9pB.jpg" preview="com.plexapp.agents.imdb_d6eac1656876134fdc87456421669de3b22edb13" sort_order="5" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/bQwzJX3CPaZYaLobhhQeKN8LGb3.jpg" preview="com.plexapp.agents.imdb_2050cd4fca42dfc6966077d4c5d733d5a3b87c22" sort_order="6" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/m0RrN0Mw5lVmD0lV7vkSHq5njQk.jpg" preview="com.plexapp.agents.imdb_abd97999e96de331fe8a9b37f6d6ee7e45ddbfbb" sort_order="7" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/hPJGhklT4WSDRXlPDBZVlzXJr9N.jpg" preview="com.plexapp.agents.imdb_fceadb74d66f600159b95791224aae99268958f3" sort_order="8" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/i96ssa3qzjCldOfj6wag9mRfXZO.jpg" preview="com.plexapp.agents.imdb_ba51f6a0e9f5eb6a83a9c41bd2092af321b775e0" sort_order="9" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/mCKusESgNuUV5ttHuCiuafQNLsv.jpg" preview="com.plexapp.agents.imdb_f3db177f4297c267d96738e633003538015f1d8c" sort_order="10" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/b6ZJZHUdMEFECvGiDpJjlfUWela.jpg" preview="com.plexapp.agents.imdb_99ad4455a3f3fc26a71cfc7c09f21e6ec7cb2d5c" sort_order="11" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/6ELJEzQJ3Y45HczvreC3dg0GV5R.jpg" preview="com.plexapp.agents.imdb_0e57e469162775a0aeaa0f0f7c79b13e98b11e9c" sort_order="12" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/AlFqBwJnokrp9zWTXOUv7uhkaeq.jpg" preview="com.plexapp.agents.imdb_40d0b2bd989738279166510d16d8798cb746b130" sort_order="13" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/vyxQjv3S0wPPStygfYjA1aMuI76.jpg" preview="com.plexapp.agents.imdb_b29554cedb585615b76eed0dbb4df36559dd3a21" sort_order="14" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/uJRR31dghegyWgbcvsoIAOde0vh.jpg" preview="com.plexapp.agents.imdb_0c2ebd5b723078e5cd0dfa74c3e9608ceefbee45" sort_order="15" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/tM5BDQvwh9QiHC6f57EFpFKrtDW.jpg" preview="com.plexapp.agents.imdb_eda3377705e481b1fd426c7eb170506ea136a7b3" sort_order="16" provider="com.plexapp.agents.imdb"/>
+  </art>
+  <banners/>
+  <chapters>
+    <item index="0">
+      <title>1. The Story of Home</title>
+      <end_time_offset>416000</end_time_offset>
+      <start_time_offset>0</start_time_offset>
+    </item>
+    <item index="1">
+      <title>2. Sucession To The Throne</title>
+      <end_time_offset>722000</end_time_offset>
+      <start_time_offset>416000</start_time_offset>
+    </item>
+    <item index="2">
+      <title>3. "Time To Be King"</title>
+      <end_time_offset>1152000</end_time_offset>
+      <start_time_offset>722000</start_time_offset>
+    </item>
+    <item index="3">
+      <title>4. "Let The Challenge Begin"</title>
+      <end_time_offset>1712000</end_time_offset>
+      <start_time_offset>1152000</start_time_offset>
+    </item>
+    <item index="4">
+      <title>5. The Ancestral Plane</title>
+      <end_time_offset>1991000</end_time_offset>
+      <start_time_offset>1712000</start_time_offset>
+    </item>
+    <item index="5">
+      <title>6. Extradition</title>
+      <end_time_offset>2457000</end_time_offset>
+      <start_time_offset>1991000</start_time_offset>
+    </item>
+    <item index="6">
+      <title>7. Casino Mission</title>
+      <end_time_offset>2914000</end_time_offset>
+      <start_time_offset>2457000</start_time_offset>
+    </item>
+    <item index="7">
+      <title>8. Busan Car Chase</title>
+      <end_time_offset>3226000</end_time_offset>
+      <start_time_offset>2914000</start_time_offset>
+    </item>
+    <item index="8">
+      <title>9. Interrogation</title>
+      <end_time_offset>3717000</end_time_offset>
+      <start_time_offset>3226000</start_time_offset>
+    </item>
+    <item index="9">
+      <title>10. Sacrifices</title>
+      <end_time_offset>4113000</end_time_offset>
+      <start_time_offset>3717000</start_time_offset>
+    </item>
+    <item index="10">
+      <title>11. Blood Rights</title>
+      <end_time_offset>4606000</end_time_offset>
+      <start_time_offset>4113000</start_time_offset>
+    </item>
+    <item index="11">
+      <title>12. Ritual Combat</title>
+      <end_time_offset>4944000</end_time_offset>
+      <start_time_offset>4606000</start_time_offset>
+    </item>
+    <item index="12">
+      <title>13. "Burn It All"</title>
+      <end_time_offset>5481000</end_time_offset>
+      <start_time_offset>4944000</start_time_offset>
+    </item>
+    <item index="13">
+      <title>14. Jabariland</title>
+      <end_time_offset>6075000</end_time_offset>
+      <start_time_offset>5481000</start_time_offset>
+    </item>
+    <item index="14">
+      <title>15. Two Panthers</title>
+      <end_time_offset>6656000</end_time_offset>
+      <start_time_offset>6075000</start_time_offset>
+    </item>
+    <item index="15">
+      <title>16. The Battle For Wakanda</title>
+      <end_time_offset>7156000</end_time_offset>
+      <start_time_offset>6656000</start_time_offset>
+    </item>
+    <item index="16">
+      <title>17. A New Wakanda</title>
+      <end_time_offset>7363000</end_time_offset>
+      <start_time_offset>7156000</start_time_offset>
+    </item>
+    <item index="17">
+      <title>18. End Credits</title>
+      <end_time_offset>8072000</end_time_offset>
+      <start_time_offset>7363000</start_time_offset>
+    </item>
+    <item index="18">
+      <title>Chapter 19</title>
+      <end_time_offset>-1</end_time_offset>
+      <start_time_offset>8072000</start_time_offset>
+    </item>
+  </chapters>
+  <collections/>
+  <content_rating>PG-13</content_rating>
+  <countries>
+    <item index="0">USA</item>
+  </countries>
+  <directors>
+    <item index="0">
+      <photo>http://image.tmdb.org/t/p/original/ddGaRFrlDdyR0OBTd1hAMWnfvim.jpg</photo>
+      <role/>
+      <name>Ryan Coogler</name>
+    </item>
+  </directors>
+  <duration>8040000</duration>
+  <genres>
+    <item index="0">Action</item>
+    <item index="1">Adventure</item>
+    <item index="2">Sci-Fi</item>
+  </genres>
+  <originally_available_at>2018-02-13</originally_available_at>
+  <posters>
+    <item external="True" url="http://image.tmdb.org/t/p/original/uxzzxijgPIY7slzFvMotPv8wjKA.jpg" sort_order="1" provider="com.plexapp.agents.imdb" media="com.plexapp.agents.imdb_d62e57b0ffa155ea5a0661109df196e59c7f8a37"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/pO01sYiYyP2qDlp2bLj2E5IyqC5.jpg" preview="com.plexapp.agents.imdb_a83226a21a28e4149419d1159d0badf110b9816b" sort_order="2" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/y1HTO8sZNiTSsq1EFdSfsqQPshW.jpg" preview="com.plexapp.agents.imdb_17b1dfb217904c3d5d52832d50119a4a46bad5f7" sort_order="3" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/fqwCht54E1nGiWSaKIJwGiI3chD.jpg" preview="com.plexapp.agents.imdb_5d3510e85d7323f9747a5c441379a3e28c1a27e0" sort_order="4" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/qLrKYbJVZnkqvHlSVe8HPIxSKvb.jpg" preview="com.plexapp.agents.imdb_deba1520cbc77c08ab9040801efbf7aca540c49b" sort_order="5" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/l6y476RPWK35Y7zmiMPcih4uU7A.jpg" preview="com.plexapp.agents.imdb_4f04fb9dad67d42753a12f79eee7bb68534b8fb5" sort_order="6" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/fj7sX7w0MfIxWylcizp5ArPIMFs.jpg" preview="com.plexapp.agents.imdb_6036332485d4a09de1b2d62021f9e8e45041f05b" sort_order="7" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/9WRfiLhrkG3SlCYgpL7ytYL6idU.jpg" preview="com.plexapp.agents.imdb_3341f4098c9f45850031da065b124b4e4055a78f" sort_order="8" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/z53B9m5Oy9YaTwiBGigztO2VhUI.jpg" preview="com.plexapp.agents.imdb_04888da6403fde33d30e3cfe1df4c420ad34015b" sort_order="9" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/rGNm7xbs4MEgNa7xQtGuoi8sOcZ.jpg" preview="com.plexapp.agents.imdb_58fc429fb7d870cac2f4038d6b7ba4952c2e0817" sort_order="10" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/e9z2MpYWm8eTfqMhhhr65IyW7Ml.jpg" preview="com.plexapp.agents.imdb_280939aaea817d3cd7d9412fafcb30ee285e6b64" sort_order="11" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/iZz5mlUVhhJ8bzjgDRISDrf3ddJ.jpg" preview="com.plexapp.agents.imdb_da6ba8a818f43ed07d611cd7246d9f91952abaaf" sort_order="12" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/4ALXq4XkhWBm6fa6tVaqW6hlWod.jpg" preview="com.plexapp.agents.imdb_dc2b19cc81adb6e4d50afa3d1ea9f41952c1c6e1" sort_order="13" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/sy8w5vVQUcaMbWgKuEXzaOrtQ0.jpg" preview="com.plexapp.agents.imdb_ee91115cc83a937ea6b1e78fdea5ded58d1b48dd" sort_order="14" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/ryz0hdtkKPcFKUsMw1Ur0U3mrGl.jpg" preview="com.plexapp.agents.imdb_5210a2edb3ffbfe31f478a8cccdb19ba6b1c58d2" sort_order="15" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/lDrbFXa6lTV427pTe6E0rLiAsSa.jpg" preview="com.plexapp.agents.imdb_6d88e8f0538a283d1a866024092ea884f9a7f04f" sort_order="16" provider="com.plexapp.agents.imdb"/>
+  </posters>
+  <producers>
+    <item index="0">
+      <photo>http://image.tmdb.org/t/p/original/AewbqQQT0FbcE358rcbopZ3zgDV.jpg</photo>
+      <role/>
+      <name>Kevin Feige</name>
+    </item>
+    <item index="1">
+      <photo>http://image.tmdb.org/t/p/original/5JngWUEQfNkAURQgrWNiLyqNn8n.jpg</photo>
+      <role/>
+      <name>David J. Grant</name>
+    </item>
+  </producers>
+  <rating>9.7</rating>
+  <rating_image>rottentomatoes://image.rating.ripe</rating_image>
+  <audience_rating>7.9</audience_rating>
+  <audience_rating_image>rottentomatoes://image.rating.upright</audience_rating_image>
+  <reviews>
+    <item index="0">
+      <text>When it comes to creative visuals, engaging action and likable characters, "Black Panther" stands confidently next to the best fare offered up by the Marvel Cinematic Universe.</text>
+      <source>Salon.com</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>https://www.salon.com/2018/02/18/black-panther-is-a-film-about-history-that-makes-history/</link>
+      <author>Matthew Rozsa</author>
+    </item>
+    <item index="1">
+      <text>Whether or not this is the best film Marvel Studios has made to date-and it is clearly in the discussion-it is by far the most thought-provoking.</text>
+      <source>The Atlantic</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>https://www.theatlantic.com/entertainment/archive/2018/02/black-panther-review/553508/</link>
+      <author>Christopher Orr</author>
+    </item>
+    <item index="2">
+      <text>The identity politics provide a fresh spin to the genre's increasingly tedious narrative formula.</text>
+      <source>Chicago Reader</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>https://www.chicagoreader.com/chicago/black-panther/MovieTimes?oid=38199076</link>
+      <author>J. R. Jones</author>
+    </item>
+    <item index="3">
+      <text>Jordan has swagger to spare, with those rolling shoulders, but there's a breath of charm, too, all the more seductive in the overblown atmosphere of Marvel. He's twice as pantherish as the Panther.</text>
+      <source>New Yorker</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>https://www.newyorker.com/magazine/2018/02/26/black-panther-and-early-man</link>
+      <author>Anthony Lane</author>
+    </item>
+    <item index="4">
+      <text>Coogler is trying for a lot of things in Black Panther, probably too many, but there is also a winning modesty to his ambition.</text>
+      <source>Christian Science Monitor</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>https://www.csmonitor.com/The-Culture/Movies/2018/0215/Black-Panther-is-easily-the-best-of-the-Marvel-superhero-movies</link>
+      <author>Peter Rainer</author>
+    </item>
+    <item index="5">
+      <text>Ultimately, it's more interesting to think about than it is to watch.</text>
+      <source>San Diego Reader</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>https://www.sandiegoreader.com/movies/black-panther/</link>
+      <author>Matthew Lickona</author>
+    </item>
+    <item index="6">
+      <text>It's uniquely satisfying popcorn entertainment, a triumphant trifecta of subject matter, talent and timing.</text>
+      <source>Denver Post</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>https://theknow.denverpost.com/2018/02/14/the-black-panther-movie-review/176373/</link>
+      <author>John Wenzel</author>
+    </item>
+    <item index="7">
+      <text>A big and bold change of focus in the Marvel Cinematic Universe, "Black Panther" pushes past many of the clichéd plot devices, archetypes and formulas of standard comic book blockbusters.</text>
+      <source>Minneapolis Star Tribune</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>http://www.startribune.com/black-panther-claws-out-a-new-paradigm-for-superhero-movies/474198203/</link>
+      <author>Colin Covert</author>
+    </item>
+    <item index="8">
+      <text>Black Panther could have been just another Marvel romp-a fun but ultimately disposable entry in the studio's catalogue. But Ryan Coogler and company had the power, and perhaps the responsibility, to do much more. And they did.</text>
+      <source>Slate</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>https://slate.com/culture/2018/02/black-panther-the-new-marvel-movie-reviewed.html</link>
+      <author>Jamelle Bouie</author>
+    </item>
+    <item index="9">
+      <text>One of the year's best films, and one that transcends the superhero genre to emerge as an epic of operatic proportions.</text>
+      <source>RogerEbert.com</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>https://www.rogerebert.com/reviews/black-panther-2018</link>
+      <author>Odie Henderson</author>
+    </item>
+    <item index="10">
+      <text>Believe the hype: "Black Panther" transcends its comic-book origins, achieving a mythic grandeur that's nothing short of exhilarating.</text>
+      <source>St. Louis Post-Dispatch</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>http://www.stltoday.com/entertainment/movies/reviews/stars-marvel-s-black-panther-reigns-supreme/article_b18264b0-0084-5c4f-900b-d20254896e9d.html</link>
+      <author>Calvin Wilson</author>
+    </item>
+    <item index="11">
+      <text>The richness of the visual palette here is dazzling.</text>
+      <source>San Jose Mercury News</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>https://www.mercurynews.com/2018/02/14/review-ferocious-fun-black-panther-is-one-woke-superhero-movie/</link>
+      <author>Karen D'Souza</author>
+    </item>
+    <item index="12">
+      <text>This is an origin story, globe-trotting spy thriller and fantasy, all in one. The movie manages to be part of, but something completely different than, the Marvel superhero movies that came before.</text>
+      <source>Dallas Morning News</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>https://www.guidelive.com/movie-reviews/2018/02/14/hail-king-black-panther-poised-rule-box-office-pride</link>
+      <author>Dawn Burkes</author>
+    </item>
+    <item index="13">
+      <text>It is a terrifically entertaining film, alive from the start, following its Marvel mission (for good and bad) while rising above it.</text>
+      <source>Arizona Republic</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>https://www.azcentral.com/story/entertainment/movies/2018/02/14/review-marvel-superhero-movie-black-panther-outstanding-triumph-chadwick-boseman/334677002/</link>
+      <author>Bill Goodykoontz</author>
+    </item>
+    <item index="14">
+      <text>This is 2018's first great motion picture - a title that will surely be remembered when "end of the year" bests are discussed.</text>
+      <source>ReelViews</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>http://www.reelviews.net/reelviews/black-panther</link>
+      <author>James Berardinelli</author>
+    </item>
+    <item index="15">
+      <text>Black Panther is one of the best superhero movies of the century.</text>
+      <source>Chicago Sun-Times</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>https://chicago.suntimes.com/entertainment/black-panther-one-of-marvels-best-movie-superheroes-comes-out-of-africa/</link>
+      <author>Richard Roeper</author>
+    </item>
+    <item index="16">
+      <text>To the infinite credit of Coogler and his team, Black Panther fights constantly and bitterly against the familiar constraints of Disney's superhero industrial complex.</text>
+      <source>Globe and Mail</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>https://www.theglobeandmail.com/arts/film/film-reviews/the-hero-weve-been-waiting-for/article37965955/</link>
+      <author>Barry Hertz</author>
+    </item>
+    <item index="17">
+      <text>It's very, very good -- in its best scenes, exhilarating.</text>
+      <source>Boston Globe</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>http://www.bostonglobe.com/arts/movies/2018/02/14/black-panther-triumph-and-breakthrough-superhero-movie/yKlUK2Na1WKVOZ99XFMJTJ/story.html?event=event12</link>
+      <author>Ty Burr</author>
+    </item>
+    <item index="18">
+      <text>It is modern, sharp and cool, honoring the past as well as the present, and pushing the boundaries of the genre past what audiences are used to from superhero movies.</text>
+      <source>Detroit News</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>http://www.detroitnews.com/story/entertainment/movies/2018/02/14/review-powerful-black-panther-sensational-ride/110405028/</link>
+      <author>Adam Graham</author>
+    </item>
+    <item index="19">
+      <text>May Marvel learn its lesson from "Black Panther": When a movie like this ends up feeling both personal and vital, you've done something right.</text>
+      <source>Chicago Tribune</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>http://www.chicagotribune.com/entertainment/movies/ct-mov-black-panther-review-0216-story.html#nt=oft03a-1la1</link>
+      <author>Michael Phillips</author>
+    </item>
+  </reviews>
+  <roles>
+    <item index="0">
+      <photo>http://image.tmdb.org/t/p/original/znyHJBN6r0cONV17R26U31R6VqR.jpg</photo>
+      <role>T'Challa / Black Panther</role>
+      <name>Chadwick Boseman</name>
+    </item>
+    <item index="1">
+      <photo>http://image.tmdb.org/t/p/original/4vXkRCbrquoP5Lrb4px7tubDLMC.jpg</photo>
+      <role>N’Jadaka / Erik Killmonger</role>
+      <name>Michael B. Jordan</name>
+    </item>
+    <item index="2">
+      <photo>http://image.tmdb.org/t/p/original/wjAb2Gu47MkguTignqNfEG8t6Uo.jpg</photo>
+      <role>Nakia</role>
+      <name>Lupita Nyong'o</name>
+    </item>
+    <item index="3">
+      <photo>http://image.tmdb.org/t/p/original/xgo39kFf6rAynb1i9J1BeLfSXxg.jpg</photo>
+      <role>Okoye</role>
+      <name>Danai Gurira</name>
+    </item>
+    <item index="4">
+      <photo>http://image.tmdb.org/t/p/original/ashlWz2KDQTbo8NPUbVOwcB3zXJ.jpg</photo>
+      <role>Everett K. Ross</role>
+      <name>Martin Freeman</name>
+    </item>
+    <item index="5">
+      <photo>http://image.tmdb.org/t/p/original/24trqMr2PBwAmttp9X4F3ZErgt4.jpg</photo>
+      <role>W'Kabi</role>
+      <name>Daniel Kaluuya</name>
+    </item>
+    <item index="6">
+      <photo>http://image.tmdb.org/t/p/original/iWL9HWJ1FhX3F7qRQCCSTIBP8Lt.jpg</photo>
+      <role>Shuri</role>
+      <name>Letitia Wright</name>
+    </item>
+    <item index="7">
+      <photo>http://image.tmdb.org/t/p/original/MhBiZbryibwuoEtPL9Ns8pYHC1.jpg</photo>
+      <role>M'Baku</role>
+      <name>Winston Duke</name>
+    </item>
+    <item index="8">
+      <photo>http://image.tmdb.org/t/p/original/qvIFNQLWzWyqjykiU0ONQ7u6Ihz.jpg</photo>
+      <role>Ramonda</role>
+      <name>Angela Bassett</name>
+    </item>
+    <item index="9">
+      <photo>http://image.tmdb.org/t/p/original/4pMQkelS5lK661m9Kz3oIxLYiyS.jpg</photo>
+      <role>Zuri</role>
+      <name>Forest Whitaker</name>
+    </item>
+    <item index="10">
+      <photo>http://image.tmdb.org/t/p/original/eNGqhebQ4cDssjVeNFrKtUvweV5.jpg</photo>
+      <role>Ulysses Klaue / Klaw</role>
+      <name>Andy Serkis</name>
+    </item>
+    <item index="11">
+      <photo>http://image.tmdb.org/t/p/original/iOKWcdeCNbEREAWMWIZBy6p805j.jpg</photo>
+      <role>T'Chaka</role>
+      <name>John Kani</name>
+    </item>
+    <item index="12">
+      <photo>http://image.tmdb.org/t/p/original/l0Zth6GbkZbMpyl52RPMCO7GQA5.jpg</photo>
+      <role>N'Jobu</role>
+      <name>Sterling K. Brown</name>
+    </item>
+    <item index="13">
+      <photo>http://image.tmdb.org/t/p/original/bO4OGAf932dxyW9LRNgHsYra758.jpg</photo>
+      <role>Young Killmonger</role>
+      <name>Seth Carr</name>
+    </item>
+    <item index="14">
+      <photo>http://image.tmdb.org/t/p/original/yN4ZZDDDJI2UoKVI1BlIWwd5mp8.jpg</photo>
+      <role>Young Zuri</role>
+      <name>Denzel Whitaker</name>
+    </item>
+    <item index="15">
+      <photo>http://image.tmdb.org/t/p/original/oLKR9435H3sjeCWWvD0rLGsL5t9.jpg</photo>
+      <role>Ayo</role>
+      <name>Florence Kasumba</name>
+    </item>
+    <item index="16">
+      <photo>http://image.tmdb.org/t/p/original/pr2AoaFlgQfdbIIv88UhCyp8wuF.jpg</photo>
+      <role>River Tribe Elder</role>
+      <name>Isaach De Bankolé</name>
+    </item>
+    <item index="17">
+      <photo>http://image.tmdb.org/t/p/original/4VeGdZjOEMCdO6AHbYiLI7FdT39.jpg</photo>
+      <role>Border Tribe Elder</role>
+      <name>Danny Sapani</name>
+    </item>
+    <item index="18">
+      <photo>http://image.tmdb.org/t/p/original/39EkTMquEQenyyRkXYCPpKsOKnY.jpg</photo>
+      <role>Xoliswa</role>
+      <name>Sydelle Noel</name>
+    </item>
+    <item index="19">
+      <photo>http://image.tmdb.org/t/p/original/7jfm3qieBQgwG6hpinh9NUEAZtF.jpg</photo>
+      <role>Dora Milaje</role>
+      <name>Janeshia Adams-Ginyard</name>
+    </item>
+    <item index="20">
+      <photo>http://image.tmdb.org/t/p/original/n4tOkOkzpiNFhEDzZHgNzJAe79w.jpg</photo>
+      <role>Dora Milaje</role>
+      <name>Jénel Stevens</name>
+    </item>
+    <item index="21">
+      <photo>http://image.tmdb.org/t/p/original/fPjeTxxE2sB0bQUcAoO13mKsKK5.jpg</photo>
+      <role>Dora Milaje</role>
+      <name>Shaunette Renée Wilson</name>
+    </item>
+    <item index="22">
+      <photo>http://image.tmdb.org/t/p/original/dTr2gJPL7jELKVkcjtoNx80uVKR.jpg</photo>
+      <role>Casino Patron</role>
+      <name>Stan Lee</name>
+    </item>
+    <item index="23">
+      <photo>http://image.tmdb.org/t/p/original/8MOp9cazWpC4CrGLZnD11A6Dv8c.jpg</photo>
+      <role>James "Bucky" Barnes</role>
+      <name>Sebastian Stan</name>
+    </item>
+    <item index="24">
+      <photo>http://image.tmdb.org/t/p/original/eYlzlI6dVc96gnFEBJe3MPFGMrV.jpg</photo>
+      <role>Military Leader</role>
+      <name>Bambadjan Bamba</name>
+    </item>
+    <item index="25">
+      <photo>http://image.tmdb.org/t/p/original/eD0QPs81GFucXeNx9B1SzSgONqG.jpg</photo>
+      <role>Jabari Fisherman</role>
+      <name>Jeremy Sample</name>
+    </item>
+    <item index="26">
+      <photo>http://image.tmdb.org/t/p/original/tPWSMWE2PgT6NTbMo281JarKYkO.jpg</photo>
+      <role>Shaman</role>
+      <name>Sope Aluko</name>
+    </item>
+    <item index="27">
+      <photo>http://image.tmdb.org/t/p/original/vu4RAoiD4eXXt0KRA882IwmZQAE.jpg</photo>
+      <role>Sophia</role>
+      <name>Alexis Rhee</name>
+    </item>
+    <item index="28">
+      <photo>http://image.tmdb.org/t/p/original/63aehtREPF3tWAxReTkJeMhqZGF.jpg</photo>
+      <role>U.N. Official</role>
+      <name>Tahseen Ghauri</name>
+    </item>
+    <item index="29">
+      <photo>http://image.tmdb.org/t/p/original/zDdG3uBSPQCBFGYMIhtbv3uKzUG.jpg</photo>
+      <role>Casino Dealer</role>
+      <name>Danny Chung</name>
+    </item>
+    <item index="30">
+      <photo>http://image.tmdb.org/t/p/original/jcQP0Uonk5cIiYjdmC2toGCpo6w.jpg</photo>
+      <role>Limbani</role>
+      <name>David S. Lee</name>
+    </item>
+    <item index="31">
+      <photo>http://image.tmdb.org/t/p/original/jWBtSHaP3iSmQJC7GTPca8GNPc1.jpg</photo>
+      <role>Security Guard</role>
+      <name>Mark Ashworth</name>
+    </item>
+    <item index="32">
+      <photo>http://image.tmdb.org/t/p/original/NPn8XIKB9wvICevya40bvbsBNB.jpg</photo>
+      <role>Actor</role>
+      <name>Shad Gaspard</name>
+    </item>
+    <item index="33">
+      <photo>http://image.tmdb.org/t/p/original/jQvNTAIgN7ZrDOSHD2jKGi1ZJ7f.jpg</photo>
+      <role>Museum Guard</role>
+      <name>William Cowboy Reed</name>
+    </item>
+    <item index="34">
+      <photo>http://image.tmdb.org/t/p/original/rWUu41SSz4bTiphToue2BrAlqZv.jpg</photo>
+      <role>Young Oakland Kid</role>
+      <name>Alex Hibbert</name>
+    </item>
+    <item index="35">
+      <photo>http://image.tmdb.org/t/p/original/nTcf3wQBsSSQNMCJt9AtLH20OBg.jpg</photo>
+      <role>BBC Reporter</role>
+      <name>Lucy Hockings</name>
+    </item>
+    <item index="36">
+      <photo/>
+      <role>Young T'Challa</role>
+      <name>Ashton Tyler</name>
+    </item>
+    <item index="37">
+      <photo/>
+      <role>Young T'Chaka</role>
+      <name>Atandwa Kani</name>
+    </item>
+    <item index="38">
+      <photo/>
+      <role>Mining Tribe Elder</role>
+      <name>Connie Chiume</name>
+    </item>
+    <item index="39">
+      <photo/>
+      <role>Merchant Tribe Elder</role>
+      <name>Dorothy  Steel</name>
+    </item>
+    <item index="40">
+      <photo/>
+      <role>Dora Milaje</role>
+      <name>Marija Abney</name>
+    </item>
+    <item index="41">
+      <photo/>
+      <role>Dora Milaje</role>
+      <name>Maria Hippolyte</name>
+    </item>
+    <item index="42">
+      <photo/>
+      <role>Dora Milaje</role>
+      <name>Marie Mouroum</name>
+    </item>
+    <item index="43">
+      <photo/>
+      <role>Dora Milaje</role>
+      <name>Zola Williams</name>
+    </item>
+    <item index="44">
+      <photo/>
+      <role>Dora Milaje</role>
+      <name>Christine Hollingsworth</name>
+    </item>
+    <item index="45">
+      <photo/>
+      <role>Linda</role>
+      <name>Nabiyah Be</name>
+    </item>
+    <item index="46">
+      <photo/>
+      <role>Ambassador</role>
+      <name>Michael David Yuhl</name>
+    </item>
+    <item index="47">
+      <photo/>
+      <role>CIA Agent</role>
+      <name>Elizabeth Elkins</name>
+    </item>
+    <item index="48">
+      <photo/>
+      <role>Korean Market Shopper</role>
+      <name>Raven Wynn</name>
+    </item>
+    <item index="49">
+      <photo/>
+      <role>Bueze</role>
+      <name>Amechi Okocha</name>
+    </item>
+    <item index="50">
+      <photo/>
+      <role>French Ambassador</role>
+      <name>Tony Sears</name>
+    </item>
+    <item index="51">
+      <photo/>
+      <role>Museum Director</role>
+      <name>Francesca Faridany</name>
+    </item>
+    <item index="52">
+      <photo/>
+      <role>Young Military</role>
+      <name>Roland Kilumbu</name>
+    </item>
+    <item index="53">
+      <photo/>
+      <role>UN Security Guard</role>
+      <name>Timothy Carr</name>
+    </item>
+    <item index="54">
+      <photo>http://image.tmdb.org/t/p/original/fw6pIImSmsw6ywXuJzdhszULxkO.jpg</photo>
+      <role>Fish Market Shopper</role>
+      <name>Apollo GT</name>
+    </item>
+    <item index="55">
+      <photo/>
+      <role>U.N. Official / Translator</role>
+      <name>James Siderits</name>
+    </item>
+    <item index="56">
+      <photo/>
+      <role>Jabari Warrior</role>
+      <name>Travis Love</name>
+    </item>
+    <item index="57">
+      <photo/>
+      <role>Young Nakia</role>
+      <name>Lidya Jewett</name>
+    </item>
+    <item index="58">
+      <photo/>
+      <role>School Child / Playground Kid</role>
+      <name>Alona Leoine</name>
+    </item>
+    <item index="59">
+      <photo/>
+      <role>Uptown Patron</role>
+      <name>Kinley Fleurejuste</name>
+    </item>
+    <item index="60">
+      <photo/>
+      <role>Kings Guard</role>
+      <name>Ofu Obekpa</name>
+    </item>
+    <item index="61">
+      <photo/>
+      <role>Security Guard</role>
+      <name>Michael R. Ciminna</name>
+    </item>
+    <item index="62">
+      <photo/>
+      <role>Casino Dealer</role>
+      <name>John Y Lee</name>
+    </item>
+    <item index="63">
+      <photo/>
+      <role>Wakandan</role>
+      <name>Byron Coolie</name>
+    </item>
+    <item index="64">
+      <photo/>
+      <role>Museum Security Guard</role>
+      <name>William Walker</name>
+    </item>
+    <item index="65">
+      <photo/>
+      <role>Citizen of Wakanda</role>
+      <name>Joseph Akharoh Jr.</name>
+    </item>
+    <item index="66">
+      <photo/>
+      <role>Merchant Tribe Warrior</role>
+      <name>Stanley Aughtry</name>
+    </item>
+    <item index="67">
+      <photo/>
+      <role>Casino Patron</role>
+      <name>Raenen Golez</name>
+    </item>
+    <item index="68">
+      <photo/>
+      <role>Casino Bartender</role>
+      <name>Leo De Rivera</name>
+    </item>
+    <item index="69">
+      <photo/>
+      <role>Guard</role>
+      <name>Tevin Beech</name>
+    </item>
+    <item index="70">
+      <photo/>
+      <role>Jabari Drummer</role>
+      <name>Tari Omoro</name>
+    </item>
+    <item index="71">
+      <photo/>
+      <role>Casino Guest</role>
+      <name>Andrea Antonio Canal</name>
+    </item>
+    <item index="72">
+      <photo/>
+      <role>Citizen of Wakanda</role>
+      <name>David Dunston</name>
+    </item>
+    <item index="73">
+      <photo/>
+      <role>UN Philippine Represenitive</role>
+      <name>Emelita T. Gonzalez</name>
+    </item>
+    <item index="74">
+      <photo/>
+      <role>Mining Tribe</role>
+      <name>Josue Louis-Charles</name>
+    </item>
+    <item index="75">
+      <photo/>
+      <role>Mining Tribe #2</role>
+      <name>Isaac Phillips</name>
+    </item>
+    <item index="76">
+      <photo>http://image.tmdb.org/t/p/original/6ZVI1hFMabppjZn2BKm7xQAugFz.jpg</photo>
+      <role>Griot (voice)</role>
+      <name>Trevor Noah</name>
+    </item>
+    <item index="77">
+      <photo/>
+      <role>Merchant (uncredited)</role>
+      <name>Jamel Chambers</name>
+    </item>
+  </roles>
+  <similar>
+    <item index="0">Thor: Ragnarok</item>
+    <item index="1">Avengers: Infinity War</item>
+    <item index="2">Justice League</item>
+    <item index="3">Ready Player One</item>
+    <item index="4">Spider-Man: Homecoming</item>
+    <item index="5">Star Wars: The Last Jedi</item>
+    <item index="6">Deadpool 2</item>
+    <item index="7">Guardians of the Galaxy Vol. 2</item>
+    <item index="8">Tomb Raider</item>
+    <item index="9">Kingsman: The Golden Circle</item>
+    <item index="10">Wonder Woman</item>
+    <item index="11">Jumanji: Welcome to the Jungle</item>
+    <item index="12">The Shape of Water</item>
+    <item index="13">Doctor Strange</item>
+    <item index="14">Maze Runner: The Death Cure</item>
+    <item index="15">Pacific Rim: Uprising</item>
+    <item index="16">Annihilation</item>
+    <item index="17">A Quiet Place</item>
+    <item index="18">Baby Driver</item>
+    <item index="19">Coco</item>
+  </similar>
+  <studio>Walt Disney Pictures</studio>
+  <summary>King T'Challa returns home from America to the reclusive, technologically advanced African nation of Wakanda to serve as his country's new leader. However, T'Challa soon finds that he is challenged for the throne by factions within his own country as well as without. Using powers reserved to Wakandan kings, T'Challa assumes the Black Panther mantel to join with girlfriend Nakia, the queen-mother, his princess-kid sister, members of the Dora Milaje (the Wakandan 'special forces') and an American secret agent, to prevent Wakanda from being dragged into a world war.</summary>
+  <tagline>Long live the king</tagline>
+  <tags/>
+  <themes/>
+  <title>Black Panther</title>
+  <writers>
+    <item index="0">
+      <photo>http://image.tmdb.org/t/p/original/7BShwadFBLSnwPtdZDKzwZC4Mtr.jpg</photo>
+      <role/>
+      <name>Joe Robert Cole</name>
+    </item>
+    <item index="1">
+      <photo>http://image.tmdb.org/t/p/original/ddGaRFrlDdyR0OBTd1hAMWnfvim.jpg</photo>
+      <role/>
+      <name>Ryan Coogler</name>
+    </item>
+  </writers>
+  <year>2018</year>
+</Movie>

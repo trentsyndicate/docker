@@ -1,0 +1,329 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Movie>
+  <art>
+    <item external="True" url="http://image.tmdb.org/t/p/original/8VJaMHEAAwvILWk4Vf3XaSqhHpo.jpg" sort_order="1" provider="com.plexapp.agents.imdb" media="com.plexapp.agents.imdb_e26b4615663ed2d2da12ed129d9c2d6e80ec3527"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/zmDW12j4Ic8bpsdtAOLay0dPMZV.jpg" preview="com.plexapp.agents.imdb_61961d6147a68ecb2d0bd46cc36170a91f7dd70c" sort_order="2" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/57qG1EF8rJoOk9DBIsDmnwLdi2W.jpg" preview="com.plexapp.agents.imdb_8b2ef66655811d8c9c6f7d3c2df9c3164ae8909d" sort_order="3" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/zL6GpSqaEyRwNMkqKVXsROinzSa.jpg" preview="com.plexapp.agents.imdb_891bf7e575dcf2ba7ccac0fd2dac27999e9b0015" sort_order="4" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/a3Xc0wbSIHvWH07FAQB9r3J7lYq.jpg" preview="com.plexapp.agents.imdb_c929cf0b2d043a7306018c9087110f85916fc044" sort_order="5" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/a1OH8MAXrnqqW91Rjxwfm4lIBzp.jpg" preview="com.plexapp.agents.imdb_e8c8020ed57289c7b002e0088a05996fb7107482" sort_order="6" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/jnTtPR3EuMfzAmBKvfbViVRq1gJ.jpg" preview="com.plexapp.agents.imdb_cf2095ca6ecd9e73273603bcff3d990958592ce3" sort_order="7" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/d2jpPSrB4XQE3mwjcVbOlfkrC9y.jpg" preview="com.plexapp.agents.imdb_e0ddeaa2f6b1fac593ddc298dcd7fea93d3ccc5d" sort_order="8" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/gfCq2boBHkhxoUlp03r7nEZJR2V.jpg" preview="com.plexapp.agents.imdb_8d3b6319db10827ffc3b7eb0c01c698d6fe9901b" sort_order="9" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/t4zGJSjk934hmuB7CrVoevpRAAZ.jpg" preview="com.plexapp.agents.imdb_6b59b1e6e31ce7ffea6b56bd15335ecdf7048acb" sort_order="10" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/4mgULCJfe94IUozO5sBKJEfUrvx.jpg" preview="com.plexapp.agents.imdb_788687db458752cb57f54a17feaf77bd24f6da01" sort_order="11" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/d4abJWBIb5JXKtiFZocTXl8qgjV.jpg" preview="com.plexapp.agents.imdb_ffddf02e347d0157519bd6ab9c526a8e4f4cb5b7" sort_order="12" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/oe6BUx0ZTv3oZc78lwaqwxBQsIB.jpg" preview="com.plexapp.agents.imdb_6b9ff5d93495b22099322de09bfa73c736114c4d" sort_order="13" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/sy2yElXrcefTs5uEycj0ZN5Dzjg.jpg" preview="com.plexapp.agents.imdb_a8cc7863d2775c88226fef1b2ec15c016a57a259" sort_order="14" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/qCFTjDAkF6mhycc891AvJRilevo.jpg" preview="com.plexapp.agents.imdb_c87581451468ef1ad2fe02c6298ce652f1aeb960" sort_order="15" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/iW6wPdiHLFqLkhAnyNdnC9xRMkk.jpg" preview="com.plexapp.agents.imdb_83dea957d9e07372ae9fceb1178f0db0bde38a2f" sort_order="16" provider="com.plexapp.agents.imdb"/>
+  </art>
+  <banners/>
+  <chapters>
+    <item index="0">
+      <title>1. A Monster</title>
+      <end_time_offset>333000</end_time_offset>
+      <start_time_offset>0</start_time_offset>
+    </item>
+    <item index="1">
+      <title>2. Yard Sale</title>
+      <end_time_offset>517000</end_time_offset>
+      <start_time_offset>333000</start_time_offset>
+    </item>
+    <item index="2">
+      <title>3. Strangely Comfortable</title>
+      <end_time_offset>921000</end_time_offset>
+      <start_time_offset>517000</start_time_offset>
+    </item>
+    <item index="3">
+      <title>4. Closure</title>
+      <end_time_offset>1162000</end_time_offset>
+      <start_time_offset>921000</start_time_offset>
+    </item>
+    <item index="4">
+      <title>5. Recruitment</title>
+      <end_time_offset>1348000</end_time_offset>
+      <start_time_offset>1162000</start_time_offset>
+    </item>
+    <item index="5">
+      <title>6. The Funny Man</title>
+      <end_time_offset>1594000</end_time_offset>
+      <start_time_offset>1348000</start_time_offset>
+    </item>
+    <item index="6">
+      <title>7. Dropping In</title>
+      <end_time_offset>1989000</end_time_offset>
+      <start_time_offset>1594000</start_time_offset>
+    </item>
+    <item index="7">
+      <title>8. Pay the Toll</title>
+      <end_time_offset>2158000</end_time_offset>
+      <start_time_offset>1989000</start_time_offset>
+    </item>
+    <item index="8">
+      <title>9. Suit Up</title>
+      <end_time_offset>2421000</end_time_offset>
+      <start_time_offset>2158000</start_time_offset>
+    </item>
+    <item index="9">
+      <title>10. Call to Duty</title>
+      <end_time_offset>2690000</end_time_offset>
+      <start_time_offset>2421000</start_time_offset>
+    </item>
+    <item index="10">
+      <title>11. Feed the Dogs</title>
+      <end_time_offset>2983000</end_time_offset>
+      <start_time_offset>2690000</start_time_offset>
+    </item>
+    <item index="11">
+      <title>12. Just a Bar Fight</title>
+      <end_time_offset>3248000</end_time_offset>
+      <start_time_offset>2983000</start_time_offset>
+    </item>
+    <item index="12">
+      <title>13. Need a Favor</title>
+      <end_time_offset>3541000</end_time_offset>
+      <start_time_offset>3248000</start_time_offset>
+    </item>
+    <item index="13">
+      <title>14. Classic Forensics</title>
+      <end_time_offset>3778000</end_time_offset>
+      <start_time_offset>3541000</start_time_offset>
+    </item>
+    <item index="14">
+      <title>15. St. Patty's Day</title>
+      <end_time_offset>4035000</end_time_offset>
+      <start_time_offset>3778000</start_time_offset>
+    </item>
+    <item index="15">
+      <title>16. Main Credits/Indifference of Good Men</title>
+      <end_time_offset>4287000</end_time_offset>
+      <start_time_offset>4035000</start_time_offset>
+    </item>
+    <item index="16">
+      <title>17. Party Crashers</title>
+      <end_time_offset>4627000</end_time_offset>
+      <start_time_offset>4287000</start_time_offset>
+    </item>
+    <item index="17">
+      <title>18. Armageddon</title>
+      <end_time_offset>4889000</end_time_offset>
+      <start_time_offset>4627000</start_time_offset>
+    </item>
+    <item index="18">
+      <title>19. Liability</title>
+      <end_time_offset>5169000</end_time_offset>
+      <start_time_offset>4889000</start_time_offset>
+    </item>
+    <item index="19">
+      <title>20. Advice</title>
+      <end_time_offset>5454000</end_time_offset>
+      <start_time_offset>5169000</start_time_offset>
+    </item>
+    <item index="20">
+      <title>21. Saint Down</title>
+      <end_time_offset>5609000</end_time_offset>
+      <start_time_offset>5454000</start_time_offset>
+    </item>
+    <item index="21">
+      <title>22. Entertainment</title>
+      <end_time_offset>5933000</end_time_offset>
+      <start_time_offset>5609000</start_time_offset>
+    </item>
+    <item index="22">
+      <title>23. Justice</title>
+      <end_time_offset>6188000</end_time_offset>
+      <start_time_offset>5933000</start_time_offset>
+    </item>
+    <item index="23">
+      <title>24. Saint Hunt/End Credits</title>
+      <end_time_offset>-1</end_time_offset>
+      <start_time_offset>6188000</start_time_offset>
+    </item>
+  </chapters>
+  <collections/>
+  <content_rating>R</content_rating>
+  <countries>
+    <item index="0">USA</item>
+  </countries>
+  <directors>
+    <item index="0">
+      <photo>http://image.tmdb.org/t/p/original/b0BYI0zTyCCLIqPwAQflOm3RHfO.jpg</photo>
+      <role/>
+      <name>Troy Duffy</name>
+    </item>
+  </directors>
+  <duration>6480000</duration>
+  <genres>
+    <item index="0">Action</item>
+    <item index="1">Crime</item>
+    <item index="2">Thriller</item>
+  </genres>
+  <originally_available_at>1999-01-22</originally_available_at>
+  <posters>
+    <item external="True" url="http://image.tmdb.org/t/p/original/fg6fhyKg3vbdGtnf9Hq27Q5gS3r.jpg" sort_order="1" provider="com.plexapp.agents.imdb" media="com.plexapp.agents.imdb_e4d76df68bdf2a867a27bfa443ef3fa1d4a38fee"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/n7iqB7s63IlIfBazefpDXEM0Ppk.jpg" preview="com.plexapp.agents.imdb_f53c828803b4fbc1192f5f147734c88f0c5836b2" sort_order="2" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/atPDm2Dp4OCOvGjwP5zwPYPPx8Z.jpg" preview="com.plexapp.agents.imdb_ced8c016a332f4d79304cd73e7ceee4fae059ede" sort_order="3" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/9X2WyFxwBLmTIKhWwT8UIweLy8T.jpg" preview="com.plexapp.agents.imdb_d7b84b649ec1793a7beef9c788181df4d96a4f60" sort_order="4" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/kPj36SRRrhdujopOlmxRZb0VPEk.jpg" preview="com.plexapp.agents.imdb_991893c4b170627c2043b8222c0653205643c3cd" sort_order="5" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/gxGVLGB9liA2c7ucWufxQ2LSU6J.jpg" preview="com.plexapp.agents.imdb_fcec423832ac1c60fe58f00a9a47b48758ffb1ff" sort_order="6" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/o4uhrmUBxXFkvRhhG9tuplS5qJu.jpg" preview="com.plexapp.agents.imdb_608b7457cdccd4563007f9fe4662d472f40f721b" sort_order="7" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/f4G0iB6oHtJ7Dar2JhNWJtZ78El.jpg" preview="com.plexapp.agents.imdb_7d9429e5097afc16197effb9393b98f4685ce36a" sort_order="8" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/tVDUTojZ8GVOgiVOXWNOTqrWKsL.jpg" preview="com.plexapp.agents.imdb_3bfe0bccad9b04b3755398f81240f4e83471523b" sort_order="9" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/tfjBeForrrGvdPByso5n0WGgSby.jpg" preview="com.plexapp.agents.imdb_f4473cbbac786bffd397843a5389f33476758c34" sort_order="10" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/p63sW2urcKyTsRrFYbjh48QQ4Y0.jpg" preview="com.plexapp.agents.imdb_2b345e4d4044653cbf1502a8d7fd32e836abb262" sort_order="11" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/h6b02tvVrnW7vf4sWMSEUUIs6La.jpg" preview="com.plexapp.agents.imdb_1e968f41f54ea68f247c81d3bd28eb8a4dfe627c" sort_order="12" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/x8eTyepYPV9XYYxxzJafXibXktL.jpg" preview="com.plexapp.agents.imdb_ce679f393489862e0328835170799315393785a6" sort_order="13" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/91XVwoqgO8SDmGyEyA90QQgF6Rc.jpg" preview="com.plexapp.agents.imdb_a3c58244f4e16c225f7b80eddea3116eea4e0236" sort_order="14" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/lkWLRf0yHA6v3mAwlLUHFz53XP8.jpg" preview="com.plexapp.agents.imdb_3969c879e2c6ee6c18625996fc45a23ae2eb3ba0" sort_order="15" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/zddxEgxKnt6N7EoOAcXTtN12TuG.jpg" preview="com.plexapp.agents.imdb_5b97d1c0de16cbdd6708ccdcb066d22a1c5f2465" sort_order="16" provider="com.plexapp.agents.imdb"/>
+  </posters>
+  <producers>
+    <item index="0">
+      <photo/>
+      <role/>
+      <name>Chris Brinker</name>
+    </item>
+    <item index="1">
+      <photo/>
+      <role/>
+      <name>Robert N. Fried</name>
+    </item>
+    <item index="2">
+      <photo/>
+      <role/>
+      <name>Elie Samaha</name>
+    </item>
+    <item index="3">
+      <photo/>
+      <role/>
+      <name>Lloyd Segan</name>
+    </item>
+  </producers>
+  <rating>2.0</rating>
+  <rating_image>rottentomatoes://image.rating.rotten</rating_image>
+  <audience_rating>9.1</audience_rating>
+  <audience_rating_image>rottentomatoes://image.rating.upright</audience_rating_image>
+  <reviews>
+    <item index="0">
+      <text>Satire or self-parody would be vastly preferable to the film's unironic endorsement of outlaw justice, but you'd be hard pressed to find anything resembling irony or subversiveness in this exercise in lovingly rendered ultra-violence.</text>
+      <source>AV Club</source>
+      <image>rottentomatoes://image.review.rotten</image>
+      <link>http://www.avclub.com/articles/the-boondock-saints,19871/</link>
+      <author>Nathan Rabin</author>
+    </item>
+  </reviews>
+  <roles>
+    <item index="0">
+      <photo>http://image.tmdb.org/t/p/original/7t8fhfaFBoS9VOo3OPXCfK516eI.jpg</photo>
+      <role>Paul Smecker</role>
+      <name>Willem Dafoe</name>
+    </item>
+    <item index="1">
+      <photo>http://image.tmdb.org/t/p/original/ozHPdO5jAt7ozzdZUgyRAMNPSDW.jpg</photo>
+      <role>Murphy McManus</role>
+      <name>Norman Reedus</name>
+    </item>
+    <item index="2">
+      <photo>http://image.tmdb.org/t/p/original/1xgb9WblosYkvTGoh0yDuZII9ok.jpg</photo>
+      <role>Connor McManus</role>
+      <name>Sean Patrick Flanery</name>
+    </item>
+    <item index="3">
+      <photo>http://image.tmdb.org/t/p/original/pgzIf45tq5R58K9ZWMlrAa9J62Z.jpg</photo>
+      <role>Rocco</role>
+      <name>David Della Rocco</name>
+    </item>
+    <item index="4">
+      <photo>http://image.tmdb.org/t/p/original/bzz3Vx2QavSL6ODXDLubvFR3L54.jpg</photo>
+      <role>Detective Dolly</role>
+      <name>David Ferry</name>
+    </item>
+    <item index="5">
+      <photo>http://image.tmdb.org/t/p/original/v6pTsqgOHE5TldFV63Kr44idQNe.jpg</photo>
+      <role>Detective Duffy</role>
+      <name>Brian Mahoney</name>
+    </item>
+    <item index="6">
+      <photo>http://image.tmdb.org/t/p/original/7e1rVdJah2r0DaMpovrhbR2dHPS.jpg</photo>
+      <role>II Duce</role>
+      <name>Billy Connolly</name>
+    </item>
+    <item index="7">
+      <photo>http://image.tmdb.org/t/p/original/la9pYae8JBRdoeTPZSYzO5TKCNG.jpg</photo>
+      <role>Yakavetta</role>
+      <name>Carlo Rota</name>
+    </item>
+    <item index="8">
+      <photo>http://image.tmdb.org/t/p/original/l4aDQlLafsG3N4pJ3W6YjpMXWI3.jpg</photo>
+      <role>Vincenzo Lipazzi</role>
+      <name>Ron Jeremy</name>
+    </item>
+    <item index="9">
+      <photo>http://image.tmdb.org/t/p/original/qtvL2i75yqBZ0kpUgbHfR11OVwG.jpg</photo>
+      <role>Detective Greenly</role>
+      <name>Bob Marley</name>
+    </item>
+    <item index="10">
+      <photo>http://image.tmdb.org/t/p/original/8TOv7jLMt0ueCsdfCgCV5uwai42.jpg</photo>
+      <role>The Chief</role>
+      <name>Richard Fitzpatrick</name>
+    </item>
+    <item index="11">
+      <photo>http://image.tmdb.org/t/p/original/pdMrTtOzZmBIcB3KSwrguhvHlEe.jpg</photo>
+      <role>Macklepenny</role>
+      <name>Robert Pemberton</name>
+    </item>
+    <item index="12">
+      <photo>http://image.tmdb.org/t/p/original/8nZu0mVlKoNc1odkXR9QiiNl73e.jpg</photo>
+      <role>Rosengurtle Baumgartener</role>
+      <name>Dot Jones</name>
+    </item>
+    <item index="13">
+      <photo>http://image.tmdb.org/t/p/original/yDrlaIP6ExNqSbIbKf4KtH5O92G.jpg</photo>
+      <role>Sick Mob Man</role>
+      <name>Markus Parilo</name>
+    </item>
+    <item index="14">
+      <photo>http://image.tmdb.org/t/p/original/o6OlX4X3tSmdgOlLTiolDhkOwvL.jpg</photo>
+      <role>Bartender</role>
+      <name>Jeffrey R. Smith</name>
+    </item>
+  </roles>
+  <similar>
+    <item index="0">The Boondock Saints II: All Saints Day</item>
+    <item index="1">Smokin' Aces</item>
+    <item index="2">Office Space</item>
+    <item index="3">Mallrats</item>
+    <item index="4">Desperado</item>
+    <item index="5">Dogma</item>
+    <item index="6">Jay and Silent Bob Strike Back</item>
+    <item index="7">Super Troopers</item>
+    <item index="8">Clerks</item>
+    <item index="9">Clerks II</item>
+    <item index="10">Layer Cake</item>
+    <item index="11">Three Kings</item>
+    <item index="12">Running Scared</item>
+    <item index="13">Payback</item>
+    <item index="14">Old School</item>
+    <item index="15">Kiss Kiss Bang Bang</item>
+    <item index="16">Brick</item>
+    <item index="17">Chasing Amy</item>
+    <item index="18">Shoot 'Em Up</item>
+    <item index="19">Equilibrium</item>
+  </similar>
+  <studio>20th Century Fox</studio>
+  <summary>With a God-inspired moral obligation to act against evil, twin brothers Conner and Murphy set out to rid Boston of criminals. However, rather than working within the system, these Irish Americans decide to take swift retribution into their own hands.</summary>
+  <tagline>Thy Kingdom Come. Thy Will Be Done.</tagline>
+  <tags/>
+  <themes/>
+  <title>The Boondock Saints</title>
+  <writers>
+    <item index="0">
+      <photo>http://image.tmdb.org/t/p/original/b0BYI0zTyCCLIqPwAQflOm3RHfO.jpg</photo>
+      <role/>
+      <name>Troy Duffy</name>
+    </item>
+  </writers>
+  <year>1999</year>
+</Movie>

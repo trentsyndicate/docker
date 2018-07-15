@@ -1,0 +1,362 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Movie>
+  <art>
+    <item external="True" url="http://image.tmdb.org/t/p/original/ilxkkjCeA2UyYNBPU7lBbC8pdJl.jpg" sort_order="1" provider="com.plexapp.agents.imdb" media="com.plexapp.agents.imdb_88e77b35a0db455ac394d54784ccc2aae5a31da7"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/99A24uMW0lZO4wqu7ngys9rpdaF.jpg" preview="com.plexapp.agents.imdb_38b7436108b804bbea380da93744158b8a333b07" sort_order="2" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/zJA1g18NK3aiuMZBGDZ4CRq9iL7.jpg" preview="com.plexapp.agents.imdb_9ed9985ccaa9a2d40980387f8c4066d3c6f0d63a" sort_order="3" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/ncF0ozvDnIVFzKF0J5iqwEIezRJ.jpg" preview="com.plexapp.agents.imdb_d8813ec359e68cda2cb228b5ff6b4d63e67df565" sort_order="4" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/1Q6thcZHsDiJ0iRMXZWf7IEtX2b.jpg" preview="com.plexapp.agents.imdb_7fef0439d9d87e4e3f957b1be014d798181c95c3" sort_order="5" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/q97ewRPoXgY9t0TkbDIvveshC1w.jpg" preview="com.plexapp.agents.imdb_9540ac0d63144d2e49cf5167e35849b8da040f4b" sort_order="6" provider="com.plexapp.agents.imdb"/>
+  </art>
+  <banners/>
+  <chapters>
+    <item index="0">
+      <title>Prison Break</title>
+      <end_time_offset>505000</end_time_offset>
+      <start_time_offset>0</start_time_offset>
+    </item>
+    <item index="1">
+      <title>Boy Scout's in Trouble</title>
+      <end_time_offset>715000</end_time_offset>
+      <start_time_offset>505000</start_time_offset>
+    </item>
+    <item index="2">
+      <title>The Bishop Files</title>
+      <end_time_offset>1150000</end_time_offset>
+      <start_time_offset>715000</start_time_offset>
+    </item>
+    <item index="3">
+      <title>Vietnam</title>
+      <end_time_offset>1680000</end_time_offset>
+      <start_time_offset>1150000</start_time_offset>
+    </item>
+    <item index="4">
+      <title>Bishop Press Leak</title>
+      <end_time_offset>2003000</end_time_offset>
+      <start_time_offset>1680000</start_time_offset>
+    </item>
+    <item index="5">
+      <title>Bishop's Recruitment</title>
+      <end_time_offset>2415000</end_time_offset>
+      <start_time_offset>2003000</start_time_offset>
+    </item>
+    <item index="6">
+      <title>Operation Rodeo</title>
+      <end_time_offset>2876000</end_time_offset>
+      <start_time_offset>2415000</start_time_offset>
+    </item>
+    <item index="7">
+      <title>Berlin Rooftop</title>
+      <end_time_offset>3051000</end_time_offset>
+      <start_time_offset>2876000</start_time_offset>
+    </item>
+    <item index="8">
+      <title>Sideshow</title>
+      <end_time_offset>3439000</end_time_offset>
+      <start_time_offset>3051000</start_time_offset>
+    </item>
+    <item index="9">
+      <title>Map Room</title>
+      <end_time_offset>3708000</end_time_offset>
+      <start_time_offset>3439000</start_time_offset>
+    </item>
+    <item index="10">
+      <title>Elizabeth Hadley</title>
+      <end_time_offset>4098000</end_time_offset>
+      <start_time_offset>3708000</start_time_offset>
+    </item>
+    <item index="11">
+      <title>Breakfast in Beirut</title>
+      <end_time_offset>4507000</end_time_offset>
+      <start_time_offset>4098000</start_time_offset>
+    </item>
+    <item index="12">
+      <title>The Restaurant Scene</title>
+      <end_time_offset>4948000</end_time_offset>
+      <start_time_offset>4507000</start_time_offset>
+    </item>
+    <item index="13">
+      <title>Waiting for the Doctor</title>
+      <end_time_offset>5096000</end_time_offset>
+      <start_time_offset>4948000</start_time_offset>
+    </item>
+    <item index="14">
+      <title>My Name is Tom</title>
+      <end_time_offset>5166000</end_time_offset>
+      <start_time_offset>5096000</start_time_offset>
+    </item>
+    <item index="15">
+      <title>Race to Nebaa</title>
+      <end_time_offset>5425000</end_time_offset>
+      <start_time_offset>5166000</start_time_offset>
+    </item>
+    <item index="16">
+      <title>Nebaa Building Blow</title>
+      <end_time_offset>5735000</end_time_offset>
+      <start_time_offset>5425000</start_time_offset>
+    </item>
+    <item index="17">
+      <title>Airport Scene</title>
+      <end_time_offset>5906000</end_time_offset>
+      <start_time_offset>5735000</start_time_offset>
+    </item>
+    <item index="18">
+      <title>CIA Cat and Mouse</title>
+      <end_time_offset>6533000</end_time_offset>
+      <start_time_offset>5906000</start_time_offset>
+    </item>
+    <item index="19">
+      <title>Harker Accuses Muir</title>
+      <end_time_offset>6877000</end_time_offset>
+      <start_time_offset>6533000</start_time_offset>
+    </item>
+    <item index="20">
+      <title>Operation Dinner Out</title>
+      <end_time_offset>7295000</end_time_offset>
+      <start_time_offset>6877000</start_time_offset>
+    </item>
+    <item index="21">
+      <title>End Titles</title>
+      <end_time_offset>-1</end_time_offset>
+      <start_time_offset>7295000</start_time_offset>
+    </item>
+  </chapters>
+  <collections/>
+  <content_rating>R</content_rating>
+  <countries>
+    <item index="0">Germany</item>
+  </countries>
+  <directors>
+    <item index="0">
+      <photo>http://image.tmdb.org/t/p/original/hL7Tt1faZvA68G4bw9hC4X0Zp7d.jpg</photo>
+      <role/>
+      <name>Tony Scott</name>
+    </item>
+  </directors>
+  <duration>7560000</duration>
+  <genres>
+    <item index="0">Action</item>
+    <item index="1">Crime</item>
+    <item index="2">Thriller</item>
+  </genres>
+  <originally_available_at>2001-11-18</originally_available_at>
+  <posters>
+    <item external="True" url="http://image.tmdb.org/t/p/original/hsb8hBeU3tkTX8SUYW6YYw6JPYD.jpg" sort_order="1" provider="com.plexapp.agents.imdb" media="com.plexapp.agents.imdb_85688f6f9a4db1435e5ac08db8fc65b458e34e8e"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/yJv2k86Sx0bkYE3bxEXZRq7jev0.jpg" preview="com.plexapp.agents.imdb_fb974b2e6ecce48e86d1a3822ef00d65a1bb6432" sort_order="2" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/qCkSj0xeszJ0dp0ZXU9bsfQt06O.jpg" preview="com.plexapp.agents.imdb_3fa46fdee98d2aab7eadaaa59bc4717dbfa82d02" sort_order="3" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/hjjzE2i1qh3R2e3xmLX14rKK57Y.jpg" preview="com.plexapp.agents.imdb_c197ceeedbf2c213d7af3d24a7ff7bb6ff4f2150" sort_order="4" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/pbbGhKVZdZTpHobA66JG7xIglxg.jpg" preview="com.plexapp.agents.imdb_2b07863d3a6446c3fa8a140572877e9368c0d406" sort_order="5" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/yOZaEah5YKwLHriMQAlg2eRNrga.jpg" preview="com.plexapp.agents.imdb_a734fec5d1f24f73699072a8960f672825171300" sort_order="6" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/pExDb6HzpT8eZU7ZxzYMi7NDrpp.jpg" preview="com.plexapp.agents.imdb_b772502b66c72d4ec3f1f956cf9c11907547b613" sort_order="7" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/moNnoT0Mkp87qWfU2PxPIQFO8K7.jpg" preview="com.plexapp.agents.imdb_1f77066f7df0b0a4165045a18f753f88062d1705" sort_order="8" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/6aTbN7YVblZpJrIb5xzS0n9BcxE.jpg" preview="com.plexapp.agents.imdb_0069055151b744cafb8d73052fd3961f1af6ba08" sort_order="9" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/tcxPIwNLs6ke6XWd7EhJ2B6E808.jpg" preview="com.plexapp.agents.imdb_2ce0adf1df8f771e4510b954d8f6387634496015" sort_order="10" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/1jOOdmX03k8k0vPWN0QZ0FE3MPF.jpg" preview="com.plexapp.agents.imdb_70cc3c133b927054cc67f5e82ea25e64bbf958de" sort_order="11" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/9TzYjZqPfmC2WDAPBNX4F1pLXse.jpg" preview="com.plexapp.agents.imdb_1bbbd35857ef1fe24a9af05c5f387776386a11b9" sort_order="12" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/7MAhNdMvJWRGDG1EFEPxbvGryrz.jpg" preview="com.plexapp.agents.imdb_4e2753be3a4a6eb03f534a042b003a92ba4887a2" sort_order="13" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/5JLnEWHYzDKRfM3yIyDT4WIsu1B.jpg" preview="com.plexapp.agents.imdb_a4a5e7df58137ec82cef0d0108a679e175746741" sort_order="14" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/aREGo4nOkijJK35EZqQpgBeZop3.jpg" preview="com.plexapp.agents.imdb_a75006510614bfae18c69272befe8721b73ac174" sort_order="15" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/t4c4JHpyk7xutEBLuXyjuJVRWjY.jpg" preview="com.plexapp.agents.imdb_5eaef5b779ad56a262f6238d645ad9f6fdc38e6f" sort_order="16" provider="com.plexapp.agents.imdb"/>
+  </posters>
+  <producers>
+    <item index="0">
+      <photo>http://image.tmdb.org/t/p/original/cpj3Rg8jmHPfqZxRaW2B36R5D91.jpg</photo>
+      <role/>
+      <name>Marc Abraham</name>
+    </item>
+    <item index="1">
+      <photo/>
+      <role/>
+      <name>Douglas Wick</name>
+    </item>
+  </producers>
+  <rating>6.6</rating>
+  <rating_image>rottentomatoes://image.rating.ripe</rating_image>
+  <audience_rating>7.5</audience_rating>
+  <audience_rating_image>rottentomatoes://image.rating.upright</audience_rating_image>
+  <reviews>
+    <item index="0">
+      <text>Enjoy it for what it is, a fleet, handsome fantasy of globe-hopping blond demigods.</text>
+      <source>Newsweek</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>http://www.newsweek.com/spies-who-loved-us-149815</link>
+      <author>David Ansen</author>
+    </item>
+    <item index="1">
+      <text>The performances are the biggest asset.</text>
+      <source>Minneapolis Star Tribune</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>http://www.startribune.com/stories/389/843015.html</link>
+      <author>Jeff Strickler</author>
+    </item>
+    <item index="2">
+      <text>It's clever and shows great control of craft, but it doesn't care, and so it's hard for us to care about.</text>
+      <source>Chicago Sun-Times</source>
+      <image>rottentomatoes://image.review.rotten</image>
+      <link>http://www.rogerebert.com/reviews/spy-game-2001</link>
+      <author>Roger Ebert</author>
+    </item>
+    <item index="3">
+      <text>A yawn, and the two glamour boys (who, by the way, look awful) are both snoring.</text>
+      <source>New York Observer</source>
+      <image>rottentomatoes://image.review.rotten</image>
+      <link>http://www.nyobserver.com/pages/story.asp?ID=5148</link>
+      <author>Rex Reed</author>
+    </item>
+    <item index="4">
+      <text>Happily, beneath the film's nostalgic veneer and tooth-rattling visual and aural effects lies a mature ambiguity that's unusual for a holiday blockbuster.</text>
+      <source>Village Voice</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>http://www.villagevoice.com/issues/0148/holcomb.php</link>
+      <author>Mark Holcomb</author>
+    </item>
+    <item index="5">
+      <text>Redford dazzles in his best role in decades.</text>
+      <source>San Francisco Chronicle</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>http://www.sfgate.com/cgi-bin/article.cgi?f=/c/a/2001/11/21/DD146436.DTL</link>
+      <author>Edward Guthmann</author>
+    </item>
+    <item index="6">
+      <text>Scott films every scene, no matter how routine, as if he's covering the launch of a nuclear missile.</text>
+      <source>CNN.com</source>
+      <image>rottentomatoes://image.review.rotten</image>
+      <link>http://www.cnn.com/2001/SHOWBIZ/Movies/11/21/review.spy.game/</link>
+      <author>Paul Tatara</author>
+    </item>
+    <item index="7">
+      <text>If you can't find a copy of Condor, you can learn everything you probably need to know about espionage by pairing Spy Game with Spy Kids.</text>
+      <source>USA Today</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>http://www.usatoday.com/life/enter/movies/2001-11-21-spy-game-review.htm</link>
+      <author>Mike Clark</author>
+    </item>
+    <item index="8">
+      <text>Enemies can bury the hatchet; journalists can bury the lead; but who would have thought that a screenwriter could bury the plot.</text>
+      <source>Globe and Mail</source>
+      <image>rottentomatoes://image.review.rotten</image>
+      <link>http://www.globeandmail.com/servlet/ArticleNews/movie/MOVIEREVIEWS/20011121/RVSPYY</link>
+      <author>Rick Groen</author>
+    </item>
+    <item index="9">
+      <text>At times, it just seems like the movie is engaged in a game, itself, to keep us from noticing its faults.</text>
+      <source>Denver Post</source>
+      <image>rottentomatoes://image.review.rotten</image>
+      <link>http://www.denverpost.com/Stories/0,1002,82%257E232802,00.html</link>
+      <author>Steven Rosen</author>
+    </item>
+  </reviews>
+  <roles>
+    <item index="0">
+      <photo>http://image.tmdb.org/t/p/original/b4mJIBWvEyzB8yyZWbmvfzwrdtp.jpg</photo>
+      <role>Nathan D. Muir</role>
+      <name>Robert Redford</name>
+    </item>
+    <item index="1">
+      <photo>http://image.tmdb.org/t/p/original/kU3B75TyRiCgE270EyZnHjfivoq.jpg</photo>
+      <role>Tom Bishop</role>
+      <name>Brad Pitt</name>
+    </item>
+    <item index="2">
+      <photo>http://image.tmdb.org/t/p/original/a8Jszh3rHQ2T4u1VyE4lXrb0uDI.jpg</photo>
+      <role>Elizabeth Hadley</role>
+      <name>Catherine McCormack</name>
+    </item>
+    <item index="3">
+      <photo>http://image.tmdb.org/t/p/original/4LOq4XUIsUTO1VdwqL1BWZIMRL3.jpg</photo>
+      <role>Charles Harker</role>
+      <name>Stephen Dillane</name>
+    </item>
+    <item index="4">
+      <photo>http://image.tmdb.org/t/p/original/fc7XC4C0DayJ6g8ReydAWjwY3IX.jpg</photo>
+      <role>Troy Folger</role>
+      <name>Larry Bryggman</name>
+    </item>
+    <item index="5">
+      <photo>http://image.tmdb.org/t/p/original/7C1Ubphw4o1Gv200pAwlgohdxcV.jpg</photo>
+      <role>Gladys Jennip</role>
+      <name>Marianne Jean-Baptiste</name>
+    </item>
+    <item index="6">
+      <photo>http://image.tmdb.org/t/p/original/mFE7r9hfFHxl2U55S64vGdNGmaZ.jpg</photo>
+      <role>Dr. William Byars</role>
+      <name>Matthew Marsh</name>
+    </item>
+    <item index="7">
+      <photo>http://image.tmdb.org/t/p/original/3TxjK0D3zuTg57ArfJFKxrnYNi2.jpg</photo>
+      <role>Robert Aiken</role>
+      <name>Todd Boyce</name>
+    </item>
+    <item index="8">
+      <photo>http://image.tmdb.org/t/p/original/c9HqJlG7nuutKW5aYq8ODctCT1w.jpg</photo>
+      <role>Vincent Vy Ngo</role>
+      <name>Michael Paul Chan</name>
+    </item>
+    <item index="9">
+      <photo>http://image.tmdb.org/t/p/original/lZYitsCPzlwevNuHzqaSZMQiuUa.jpg</photo>
+      <role>CIA Director Cy Wilson</role>
+      <name>Garrick Hagon</name>
+    </item>
+    <item index="10">
+      <photo/>
+      <role>Andrew Unger</role>
+      <name>Andrew Grainger</name>
+    </item>
+    <item index="11">
+      <photo>http://image.tmdb.org/t/p/original/iBzJ8s7GqgtRfGH3q0Ep5OKnaGf.jpg</photo>
+      <role>Tran</role>
+      <name>Benedict Wong</name>
+    </item>
+    <item index="12">
+      <photo>http://image.tmdb.org/t/p/original/iuggCphmBfNoUFaUWfpJCTxX4e6.jpg</photo>
+      <role>Anne Cathcart</role>
+      <name>Charlotte Rampling</name>
+    </item>
+    <item index="13">
+      <photo>http://image.tmdb.org/t/p/original/kftJqCNab1x5W29b46rLUeXkwZi.jpg</photo>
+      <role>Li</role>
+      <name>Ken Leung</name>
+    </item>
+  </roles>
+  <similar>
+    <item index="0">The Recruit</item>
+    <item index="1">The Score</item>
+    <item index="2">Ronin</item>
+    <item index="3">The Devil's Own</item>
+    <item index="4">Patriot Games</item>
+    <item index="5">Payback</item>
+    <item index="6">Syriana</item>
+    <item index="7">The Jackal</item>
+    <item index="8">The Siege</item>
+    <item index="9">The Interpreter</item>
+    <item index="10">Proof of Life</item>
+    <item index="11">Ransom</item>
+    <item index="12">The Sum of All Fears</item>
+    <item index="13">The Negotiator</item>
+    <item index="14">Michael Clayton</item>
+    <item index="15">The Last Boy Scout</item>
+    <item index="16">U.S. Marshals</item>
+    <item index="17">Crimson Tide</item>
+    <item index="18">In the Line of Fire</item>
+    <item index="19">State of Play</item>
+  </similar>
+  <studio>Universal Pictures</studio>
+  <summary>Veteran spy Nathan Muir is on the verge of retiring from the CIA when he learns that his one-time protégé and close friend, Tom Bishop, is a political prisoner sentenced to die in Beijing. Although their friendship has been marred by bad blood and resentment, Muir agrees to take on the most dangerous mission of his career and rescue Bishop.</summary>
+  <tagline>It's not how you play the game. It's how the game plays you.</tagline>
+  <tags/>
+  <themes/>
+  <title>Spy Game</title>
+  <writers>
+    <item index="0">
+      <photo/>
+      <role/>
+      <name>Michael Frost Beckner</name>
+    </item>
+    <item index="1">
+      <photo/>
+      <role/>
+      <name>David Arata</name>
+    </item>
+  </writers>
+  <year>2001</year>
+</Movie>

@@ -1,0 +1,840 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Movie>
+  <art>
+    <item external="True" url="http://image.tmdb.org/t/p/original/u6deTnFjq7Aev9c8XssU2hqRo5m.jpg" sort_order="1" provider="com.plexapp.agents.imdb" media="com.plexapp.agents.imdb_48bdd19f0979f4e7efc089a85c5253bb85c01907"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/4sAwZITfzKWoY73maAkbbMOEyNq.jpg" preview="com.plexapp.agents.imdb_466e1a411767c76bafd09b4051afb83f880ee407" sort_order="2" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/7Ob69bIkJ3CjQa8jcEWRKIv2YAh.jpg" preview="com.plexapp.agents.imdb_c3f8a37ef00760a70a4b59ffec8bce77ffab81df" sort_order="3" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/TPgaW029gurM1RBxdkWy7pQnyH.jpg" preview="com.plexapp.agents.imdb_50ee73e5c0b7321b2ef0f4878dbafee418ca7692" sort_order="4" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/xRmW76FDDkQe07Pf8QM4cWGXUJ4.jpg" preview="com.plexapp.agents.imdb_dc6d60fa4b6b9e5cd769d6036a23ac5e75e6a4cf" sort_order="5" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/4rGIxrfJTIugr7gihHK9aK3hVZj.jpg" preview="com.plexapp.agents.imdb_4d9af4986cfc3c264f300dd37e397fb4b3264534" sort_order="6" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/1SzFIxpfIrgwelw655TbklecFbv.jpg" preview="com.plexapp.agents.imdb_faf30280a7b3d74ea85d10bccc17852184a2132d" sort_order="7" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/mcLO4ySTvEb7ieMfEv4bYr3dRPo.jpg" preview="com.plexapp.agents.imdb_97c7f53ce9a6684cb265070ce33bfa41c57e63d8" sort_order="8" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/3CCDZwZRlxMmWdiT8uizUQTaZz8.jpg" preview="com.plexapp.agents.imdb_701f3132b3afed581c7f8caa47b161f6a8853225" sort_order="9" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/qEv1QJzm3GQAJj3C4K0X4ohq1Md.jpg" preview="com.plexapp.agents.imdb_241da6dc98ceba7d3c533c39e5ca17a0ee7e5275" sort_order="10" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/ewMSszqEvI3G1U21SfYbOeoKdxS.jpg" preview="com.plexapp.agents.imdb_74eac5e04ef213ba93177aa2fa65ad47947e4d8e" sort_order="11" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/4E2xKGrU2qcqUE2S3Nl27hwZdqy.jpg" preview="com.plexapp.agents.imdb_45ced61cbe41e95b2ff5cedec6261720fb0283d4" sort_order="12" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/iNJgJxXaEmCVLqSKBezGDbPQgvZ.jpg" preview="com.plexapp.agents.imdb_102ada78ecd241a88f8b1630237e12c068fa6146" sort_order="13" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/ak6QBMXV3Pb8C6m5S1kSl3CF0kg.jpg" preview="com.plexapp.agents.imdb_0eaf10f1922b164b81ee87458d557b39c4e4a69e" sort_order="14" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/lL4z5AybIhZBjGeZqjXDUeDrKjd.jpg" preview="com.plexapp.agents.imdb_83fc2c42053a818f538cec39636161b6e696b5a9" sort_order="15" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/uzyVHYSHyz90YtumCuTv1ReIt9K.jpg" preview="com.plexapp.agents.imdb_499238ea29b334524696c502d889b683088c14af" sort_order="16" provider="com.plexapp.agents.imdb"/>
+  </art>
+  <banners/>
+  <chapters>
+    <item index="0">
+      <title>Opening Titles/July 2</title>
+      <end_time_offset>163000</end_time_offset>
+      <start_time_offset>0</start_time_offset>
+    </item>
+    <item index="1">
+      <title>Contact</title>
+      <end_time_offset>301000</end_time_offset>
+      <start_time_offset>163000</start_time_offset>
+    </item>
+    <item index="2">
+      <title>At the White House</title>
+      <end_time_offset>425000</end_time_offset>
+      <start_time_offset>301000</start_time_offset>
+    </item>
+    <item index="3">
+      <title>Approaching Earth</title>
+      <end_time_offset>455000</end_time_offset>
+      <start_time_offset>425000</start_time_offset>
+    </item>
+    <item index="4">
+      <title>Chess Game</title>
+      <end_time_offset>534000</end_time_offset>
+      <start_time_offset>455000</start_time_offset>
+    </item>
+    <item index="5">
+      <title>Compact Cable Chaos</title>
+      <end_time_offset>602000</end_time_offset>
+      <start_time_offset>534000</start_time_offset>
+    </item>
+    <item index="6">
+      <title>Imperial Valley, California</title>
+      <end_time_offset>699000</end_time_offset>
+      <start_time_offset>602000</start_time_offset>
+    </item>
+    <item index="7">
+      <title>Deployment/Def Con 3</title>
+      <end_time_offset>812000</end_time_offset>
+      <start_time_offset>699000</start_time_offset>
+    </item>
+    <item index="8">
+      <title>Visual Range</title>
+      <end_time_offset>1052000</end_time_offset>
+      <start_time_offset>812000</start_time_offset>
+    </item>
+    <item index="9">
+      <title>The Code for Panic</title>
+      <end_time_offset>1449000</end_time_offset>
+      <start_time_offset>1052000</start_time_offset>
+    </item>
+    <item index="10">
+      <title>Wake Up Call</title>
+      <end_time_offset>1559000</end_time_offset>
+      <start_time_offset>1449000</start_time_offset>
+    </item>
+    <item index="11">
+      <title>Countdown to Extinction</title>
+      <end_time_offset>1726000</end_time_offset>
+      <start_time_offset>1559000</start_time_offset>
+    </item>
+    <item index="12">
+      <title>Duty Calls</title>
+      <end_time_offset>1854000</end_time_offset>
+      <start_time_offset>1726000</start_time_offset>
+    </item>
+    <item index="13">
+      <title>Get Out of Town</title>
+      <end_time_offset>1968000</end_time_offset>
+      <start_time_offset>1854000</start_time_offset>
+    </item>
+    <item index="14">
+      <title>Trailer Camp Confrontation</title>
+      <end_time_offset>2058000</end_time_offset>
+      <start_time_offset>1968000</start_time_offset>
+    </item>
+    <item index="15">
+      <title>Fighter Pilots Report</title>
+      <end_time_offset>2155000</end_time_offset>
+      <start_time_offset>2058000</start_time_offset>
+    </item>
+    <item index="16">
+      <title>Strip Club</title>
+      <end_time_offset>2225000</end_time_offset>
+      <start_time_offset>2155000</start_time_offset>
+    </item>
+    <item index="17">
+      <title>Nice Driving</title>
+      <end_time_offset>2249000</end_time_offset>
+      <start_time_offset>2225000</start_time_offset>
+    </item>
+    <item index="18">
+      <title>Look Up the Number</title>
+      <end_time_offset>2317000</end_time_offset>
+      <start_time_offset>2249000</start_time_offset>
+    </item>
+    <item index="19">
+      <title>Attempts to Communicate</title>
+      <end_time_offset>2417000</end_time_offset>
+      <start_time_offset>2317000</start_time_offset>
+    </item>
+    <item index="20">
+      <title>The Clock Is Ticking</title>
+      <end_time_offset>2502000</end_time_offset>
+      <start_time_offset>2417000</start_time_offset>
+    </item>
+    <item index="21">
+      <title>Communication Breakdown</title>
+      <end_time_offset>2667000</end_time_offset>
+      <start_time_offset>2502000</start_time_offset>
+    </item>
+    <item index="22">
+      <title>Panic or Party</title>
+      <end_time_offset>2781000</end_time_offset>
+      <start_time_offset>2667000</start_time_offset>
+    </item>
+    <item index="23">
+      <title>Time's Up</title>
+      <end_time_offset>3003000</end_time_offset>
+      <start_time_offset>2781000</start_time_offset>
+    </item>
+    <item index="24">
+      <title>July 3</title>
+      <end_time_offset>3181000</end_time_offset>
+      <start_time_offset>3003000</start_time_offset>
+    </item>
+    <item index="25">
+      <title>Battle Plans</title>
+      <end_time_offset>3224000</end_time_offset>
+      <start_time_offset>3181000</start_time_offset>
+    </item>
+    <item index="26">
+      <title>First Attack</title>
+      <end_time_offset>3530000</end_time_offset>
+      <start_time_offset>3224000</start_time_offset>
+    </item>
+    <item index="27">
+      <title>Two on Two</title>
+      <end_time_offset>3609000</end_time_offset>
+      <start_time_offset>3530000</start_time_offset>
+    </item>
+    <item index="28">
+      <title>Canyon Chase</title>
+      <end_time_offset>3697000</end_time_offset>
+      <start_time_offset>3609000</start_time_offset>
+    </item>
+    <item index="29">
+      <title>Welcome to Earth</title>
+      <end_time_offset>3752000</end_time_offset>
+      <start_time_offset>3697000</start_time_offset>
+    </item>
+    <item index="30">
+      <title>Desert RV Caravan</title>
+      <end_time_offset>3797000</end_time_offset>
+      <start_time_offset>3752000</start_time_offset>
+    </item>
+    <item index="31">
+      <title>The Truth Is Out There</title>
+      <end_time_offset>3979000</end_time_offset>
+      <start_time_offset>3797000</start_time_offset>
+    </item>
+    <item index="32">
+      <title>Urban Survivors</title>
+      <end_time_offset>4040000</end_time_offset>
+      <start_time_offset>3979000</start_time_offset>
+    </item>
+    <item index="33">
+      <title>Do You Know the Way to Area 51?</title>
+      <end_time_offset>4148000</end_time_offset>
+      <start_time_offset>4040000</start_time_offset>
+    </item>
+    <item index="34">
+      <title>Area 51</title>
+      <end_time_offset>4379000</end_time_offset>
+      <start_time_offset>4148000</start_time_offset>
+    </item>
+    <item index="35">
+      <title>The Freak Show</title>
+      <end_time_offset>4505000</end_time_offset>
+      <start_time_offset>4379000</start_time_offset>
+    </item>
+    <item index="36">
+      <title>Arriving with the Alien</title>
+      <end_time_offset>4675000</end_time_offset>
+      <start_time_offset>4505000</start_time_offset>
+    </item>
+    <item index="37">
+      <title>In the Ruins of El Toro</title>
+      <end_time_offset>4784000</end_time_offset>
+      <start_time_offset>4675000</start_time_offset>
+    </item>
+    <item index="38">
+      <title>Alien Surgery</title>
+      <end_time_offset>5240000</end_time_offset>
+      <start_time_offset>4784000</start_time_offset>
+    </item>
+    <item index="39">
+      <title>Nuclear Attack</title>
+      <end_time_offset>5447000</end_time_offset>
+      <start_time_offset>5240000</start_time_offset>
+    </item>
+    <item index="40">
+      <title>Rescue at El Toro</title>
+      <end_time_offset>5510000</end_time_offset>
+      <start_time_offset>5447000</start_time_offset>
+    </item>
+    <item index="41">
+      <title>The First Lady's Death</title>
+      <end_time_offset>5687000</end_time_offset>
+      <start_time_offset>5510000</start_time_offset>
+    </item>
+    <item index="42">
+      <title>July 4 - Solutions</title>
+      <end_time_offset>6088000</end_time_offset>
+      <start_time_offset>5687000</start_time_offset>
+    </item>
+    <item index="43">
+      <title>Worldwide Plans</title>
+      <end_time_offset>6320000</end_time_offset>
+      <start_time_offset>6088000</start_time_offset>
+    </item>
+    <item index="44">
+      <title>A Wedding</title>
+      <end_time_offset>6416000</end_time_offset>
+      <start_time_offset>6320000</start_time_offset>
+    </item>
+    <item index="45">
+      <title>Independence Day</title>
+      <end_time_offset>6694000</end_time_offset>
+      <start_time_offset>6416000</start_time_offset>
+    </item>
+    <item index="46">
+      <title>Using the Alien Attacker</title>
+      <end_time_offset>6958000</end_time_offset>
+      <start_time_offset>6694000</start_time_offset>
+    </item>
+    <item index="47">
+      <title>Into the Mother Ship</title>
+      <end_time_offset>7176000</end_time_offset>
+      <start_time_offset>6958000</start_time_offset>
+    </item>
+    <item index="48">
+      <title>Engage the Enemy</title>
+      <end_time_offset>7365000</end_time_offset>
+      <start_time_offset>7176000</start_time_offset>
+    </item>
+    <item index="49">
+      <title>Adversity Makes Strange Bedfellows</title>
+      <end_time_offset>7387000</end_time_offset>
+      <start_time_offset>7365000</start_time_offset>
+    </item>
+    <item index="50">
+      <title>Time for a Hero</title>
+      <end_time_offset>7716000</end_time_offset>
+      <start_time_offset>7387000</start_time_offset>
+    </item>
+    <item index="51">
+      <title>Execute "Jolly Roger"</title>
+      <end_time_offset>7952000</end_time_offset>
+      <start_time_offset>7716000</start_time_offset>
+    </item>
+    <item index="52">
+      <title>Victory</title>
+      <end_time_offset>8164000</end_time_offset>
+      <start_time_offset>7952000</start_time_offset>
+    </item>
+    <item index="53">
+      <title>Credits</title>
+      <end_time_offset>8688000</end_time_offset>
+      <start_time_offset>8164000</start_time_offset>
+    </item>
+    <item index="54">
+      <title>Execute "Jolly Roger"</title>
+      <end_time_offset>-1</end_time_offset>
+      <start_time_offset>8688000</start_time_offset>
+    </item>
+  </chapters>
+  <collections/>
+  <content_rating>PG-13</content_rating>
+  <countries>
+    <item index="0">USA</item>
+  </countries>
+  <directors>
+    <item index="0">
+      <photo>http://image.tmdb.org/t/p/original/brsGRCjTcIYvQMMoNsbyOKmarMy.jpg</photo>
+      <role/>
+      <name>Roland Emmerich</name>
+    </item>
+  </directors>
+  <duration>8700000</duration>
+  <genres>
+    <item index="0">Action</item>
+    <item index="1">Adventure</item>
+    <item index="2">Sci-Fi</item>
+  </genres>
+  <originally_available_at>1996-06-25</originally_available_at>
+  <posters>
+    <item external="True" url="http://image.tmdb.org/t/p/original/bqLlWZJdhrS0knfEJRkquW7L8z2.jpg" sort_order="1" provider="com.plexapp.agents.imdb" media="com.plexapp.agents.imdb_7e324f26c744cb9014d5eaf210308ba092b28c60"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/h4gMBvwSGu1obsWO3te19PBVbfn.jpg" preview="com.plexapp.agents.imdb_612dd2993e25348a5a0c5ec129b8f8ad00510f88" sort_order="2" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/oMocLiAs9lxHzda2cNtP5aSGLTS.jpg" preview="com.plexapp.agents.imdb_10d1216e0e9289d8ad76b5daeb6cc30a39978e46" sort_order="3" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/9zvXDAuYL4zxN0KRXGgtTtzQUcd.jpg" preview="com.plexapp.agents.imdb_47d9c81d6740f447eb4ffa41f67ed0d3b66a68e2" sort_order="4" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/Ac5OBW8xUFDKX86fQkvBBDOhFzr.jpg" preview="com.plexapp.agents.imdb_ad1b7b0e9451d361f68da743504d22c1cd427c5c" sort_order="5" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/ppqGipkRQPNHdfSJYnAWizaYztL.jpg" preview="com.plexapp.agents.imdb_77daf2fb5c187a8ba39589b12e519a0eeadcb1a0" sort_order="6" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/qKSerOMikhd1iUfx9rnZIXbhy5z.jpg" preview="com.plexapp.agents.imdb_ba032032ad52e201ee3ec29320fe02f20d7ad06e" sort_order="7" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/oOBuGEQtOFhDEuuXZjrYSDtI7FZ.jpg" preview="com.plexapp.agents.imdb_cb9c8f44c72aaba7f8201c866e73c32bcc8b8d3d" sort_order="8" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/rHGCqm9M6czNLwFcfiQrAnq4mHb.jpg" preview="com.plexapp.agents.imdb_21ebcbc42ef202af12a17e52eb7c4d504bdcdbd2" sort_order="9" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/9eQWh2JNMHCj0aJ4c2AyKZPPmuv.jpg" preview="com.plexapp.agents.imdb_86314a6d042d2dd271cbaf1775121f29909c383d" sort_order="10" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/utfw3N1DvFhPqJEC12yEWGp1MmF.jpg" preview="com.plexapp.agents.imdb_f60d564728a214b5efd3cf178ddc1576e535cdd4" sort_order="11" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/jdoQ7CEcRs553gHqIJncpaXES7m.jpg" preview="com.plexapp.agents.imdb_2bd3f6e103affe9a4930d31c1b9bd37f9941b5f8" sort_order="12" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/uiv2ah6YF5qW2HHOcl783VICb4i.jpg" preview="com.plexapp.agents.imdb_11694c41d739121f517f07cca4d041bbd0de2585" sort_order="13" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/kKbW4KKMPRx3GWpAQ6fgcxi6udo.jpg" preview="com.plexapp.agents.imdb_3a591fc864e63d8b9deb772e8c5491ed0c001c1d" sort_order="14" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/nkj3HRG3g2zjlKRWmjJHvElhX4y.jpg" preview="com.plexapp.agents.imdb_399d583465186f7ec7451fd5abbb72f240d2b0b0" sort_order="15" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/jy3RuKJ8Ya8RdxnLmhsu7twutra.jpg" preview="com.plexapp.agents.imdb_d725bf465d1a4fd0f200cf6735cb2c7f212d27c0" sort_order="16" provider="com.plexapp.agents.imdb"/>
+  </posters>
+  <producers>
+    <item index="0">
+      <photo>http://image.tmdb.org/t/p/original/zPeGiLiogQe3udUk7g6tlpERtW9.jpg</photo>
+      <role/>
+      <name>Dean Devlin</name>
+    </item>
+  </producers>
+  <rating>6.3</rating>
+  <rating_image>rottentomatoes://image.rating.ripe</rating_image>
+  <audience_rating>7.5</audience_rating>
+  <audience_rating_image>rottentomatoes://image.rating.upright</audience_rating_image>
+  <reviews>
+    <item index="0">
+      <text>A sci-fi story constellation of the brightest star elements. With German director Emmerich at the helm, Independence Day soars as filmic uber-craft.</text>
+      <source>Hollywood Reporter</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>https://www.hollywoodreporter.com/review/independence-day-1996-movie-original-905775</link>
+      <author>Duane Byrge</author>
+    </item>
+    <item index="1">
+      <text>Sonnenfeld has directed with gusto and precision from a vaguely plotted but often hilarious screenplay, and his view of Manhattan as a holding pen for intergalactic refugees has the touch of authentic experience fundamental to all great comedy.</text>
+      <source>New York Daily News</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>http://www.nydailynews.com/entertainment/tv-movies/daily-news-archives-smith-independence-day-films-article-1.292442</link>
+      <author>Dave Kehr</author>
+    </item>
+    <item index="2">
+      <text>"ID4" presses all the current hot buttons with great efficiency which will make it hard to keep in mind that just because a movie kicks major butt doesn't mean it's good.</text>
+      <source>New York Daily News</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>http://www.nydailynews.com/entertainment/tv-movies/daily-news-archives-smith-independence-day-films-article-1.292442</link>
+      <author>Jami Bernard</author>
+    </item>
+    <item index="3">
+      <text>Splendidly cheesy entertainment.</text>
+      <source>CNN.com</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>http://www.cnn.com/SHOWBIZ/9607/03/id4/index.html</link>
+      <author>Carol Buckland</author>
+    </item>
+    <item index="4">
+      <text>It's the first futuristic disaster movie that's as cute as a button. Which, when all the special effects blow over, is what we Americans like in a monster hit.</text>
+      <source>Entertainment Weekly</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>http://www.ew.com/ew/article/0,,293279,00.html</link>
+      <author>Lisa Schwarzbaum</author>
+    </item>
+    <item index="5">
+      <text>If I were a 10-year-old boy, I'd probably think it was the coolest movie going.</text>
+      <source>Newsweek</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>http://www.msnbc.com/m/nw/a/m/mv_i.asp#Independence%20Day</link>
+      <author>David Ansen</author>
+    </item>
+    <item index="6">
+      <text>Maybe the moviemakers' mission was to boldly go where everyone in Hollywood has gone before: the bank.</text>
+      <source>Washington Post</source>
+      <image>rottentomatoes://image.review.rotten</image>
+      <link>http://www.washingtonpost.com/wp-srv/style/longterm/review96/independencedaykemp.htm</link>
+      <author>Rita Kempley</author>
+    </item>
+    <item index="7">
+      <text>The earnestness, the effects, and the notion of a whole world forgetting its differences to defeat a common foe carry a certain charm.</text>
+      <source>Chicago Reader</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>http://onfilm.chicagoreader.com/movies/capsules/13648_INDEPENDENCE_DAY</link>
+      <author>Jonathan Rosenbaum</author>
+    </item>
+    <item index="8">
+      <text>Everything feels anti-climactic after the fireworks, but the moral is clear: it's the end of the world as we know it. And we feel fine.</text>
+      <source>Time Out</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>http://www.timeout.com/film/reviews/75965/independence_day.html</link>
+      <author/>
+    </item>
+    <item index="9">
+      <text>The picture is ultimately fun, thanks mostly to the colorful characters and the mock-hero ic spirit that kicks in full-throttle after the world has almost been destroyed.</text>
+      <source>San Francisco Chronicle</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>http://www.sfgate.com/cgi-bin/article.cgi?f=/c/a/1996/11/22/DD10356.DTL</link>
+      <author>Mick LaSalle</author>
+    </item>
+    <item index="10">
+      <text>So much about ID4 is so old it's inevitable that homesick audiences, eager for familiar scenarios, will embrace it as if it's nothing but new.</text>
+      <source>Los Angeles Times</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>http://www.calendarlive.com/movies/reviews/cl-movie960716-1,0,5743998.story</link>
+      <author>Kenneth Turan</author>
+    </item>
+    <item index="11">
+      <text>Unfortunately, and perhaps not unexpectedly, it doesn't live up to the hype.</text>
+      <source>ReelViews</source>
+      <image>rottentomatoes://image.review.rotten</image>
+      <link>http://www.reelviews.net/php_review_template.php?identifier=132</link>
+      <author>James Berardinelli</author>
+    </item>
+    <item index="12">
+      <text>There's precious little reward in plumbing the world-historical implications of the screenplay.</text>
+      <source>Salon.com</source>
+      <image>rottentomatoes://image.review.rotten</image>
+      <link>http://www.salon.com/weekly/movies960708.html</link>
+      <author>Scott Rosenberg</author>
+    </item>
+    <item index="13">
+      <text>The aliens, when we finally see them, are a serious disappointment; couldn't they think of anything more interesting than octopus men?</text>
+      <source>Chicago Sun-Times</source>
+      <image>rottentomatoes://image.review.rotten</image>
+      <link>http://www.rogerebert.com/reviews/independence-day-1996</link>
+      <author>Roger Ebert</author>
+    </item>
+  </reviews>
+  <roles>
+    <item index="0">
+      <photo>http://image.tmdb.org/t/p/original/5V4OKHQpIEffF9rqgzGYK4TNaGg.jpg</photo>
+      <role>Captain Steven Hiller</role>
+      <name>Will Smith</name>
+    </item>
+    <item index="1">
+      <photo>http://image.tmdb.org/t/p/original/pIpTEQVbDif8m8OdjAxQKNCj0D6.jpg</photo>
+      <role>President Thomas J. Whitmore</role>
+      <name>Bill Pullman</name>
+    </item>
+    <item index="2">
+      <photo>http://image.tmdb.org/t/p/original/ceSmXnD0FUSTaq2WIrnZu9caL0t.jpg</photo>
+      <role>David Levinson</role>
+      <name>Jeff Goldblum</name>
+    </item>
+    <item index="3">
+      <photo>http://image.tmdb.org/t/p/original/4NcE9BcnLB3oWns51r9peH8GhN8.jpg</photo>
+      <role>First Lady Marilyn Whitmore</role>
+      <name>Mary McDonnell</name>
+    </item>
+    <item index="4">
+      <photo>http://image.tmdb.org/t/p/original/kJbzvenJjBndXa6XpTQxVWF3ERr.jpg</photo>
+      <role>Julius Levinson</role>
+      <name>Judd Hirsch</name>
+    </item>
+    <item index="5">
+      <photo>http://image.tmdb.org/t/p/original/7xtU12KT12xjy4UY1O6VKpw7FLx.jpg</photo>
+      <role>General William Grey</role>
+      <name>Robert Loggia</name>
+    </item>
+    <item index="6">
+      <photo>http://image.tmdb.org/t/p/original/7rywy6gbSTG60xQWepRktD0feek.jpg</photo>
+      <role>Russell Casse</role>
+      <name>Randy Quaid</name>
+    </item>
+    <item index="7">
+      <photo>http://image.tmdb.org/t/p/original/A9nBbgguaRqjssJyqTfoFIQgADV.jpg</photo>
+      <role>Constance Spano</role>
+      <name>Margaret Colin</name>
+    </item>
+    <item index="8">
+      <photo>http://image.tmdb.org/t/p/original/uxTOzgRhk0VkbK1ZiOrQSTYuzAl.jpg</photo>
+      <role>Jasmine Dubrow</role>
+      <name>Vivica A. Fox</name>
+    </item>
+    <item index="9">
+      <photo>http://image.tmdb.org/t/p/original/cRbeDNPpcWKP0nLkXo5Bi1tq61w.jpg</photo>
+      <role>Albert Nimzicki</role>
+      <name>James Rebhorn</name>
+    </item>
+    <item index="10">
+      <photo>http://image.tmdb.org/t/p/original/eh53YLoB8SeTUD0prET8lCo0Cfo.jpg</photo>
+      <role>Marty Gilbert</role>
+      <name>Harvey Fierstein</name>
+    </item>
+    <item index="11">
+      <photo>http://image.tmdb.org/t/p/original/vhZ8AD36h09mBLuyIXboglRLgIu.jpg</photo>
+      <role>Major Mitchell</role>
+      <name>Adam Baldwin</name>
+    </item>
+    <item index="12">
+      <photo>http://image.tmdb.org/t/p/original/ydlb3Rp5vkle9codpcfBWxFmUYr.jpg</photo>
+      <role>Miguel Casse</role>
+      <name>James Duval</name>
+    </item>
+    <item index="13">
+      <photo>http://image.tmdb.org/t/p/original/1iw0l7zewS6L1FzQCKJTHu5Eg0e.jpg</photo>
+      <role>Alicia Casse</role>
+      <name>Lisa Jakub</name>
+    </item>
+    <item index="14">
+      <photo>http://image.tmdb.org/t/p/original/tWAjcA240TR9x4GqGKj2gL4p68B.jpg</photo>
+      <role>Troy Casse</role>
+      <name>Giuseppe Andrews</name>
+    </item>
+    <item index="15">
+      <photo>http://image.tmdb.org/t/p/original/zdIXPJyfpje8BGBjNQAe73CzSTx.jpg</photo>
+      <role>Captain Jimmy Wilder</role>
+      <name>Harry Connick Jr.</name>
+    </item>
+    <item index="16">
+      <photo>http://image.tmdb.org/t/p/original/1QxlJQ1LmfxFQJEZSwwlabRr6a6.jpg</photo>
+      <role>Patricia Whitmore</role>
+      <name>Mae Whitman</name>
+    </item>
+    <item index="17">
+      <photo>http://image.tmdb.org/t/p/original/nzbUkAYhC6x3Zwdmm93nusN5vg6.jpg</photo>
+      <role>Tiffany</role>
+      <name>Kiersten Warren</name>
+    </item>
+    <item index="18">
+      <photo>http://image.tmdb.org/t/p/original/iMqMEVnzUUs3gxcS51GrOP85yjf.jpg</photo>
+      <role>Dr. Isaacs</role>
+      <name>John Storey</name>
+    </item>
+    <item index="19">
+      <photo>http://image.tmdb.org/t/p/original/qD6p4ZqXU5HmX1h2qTL4B43dMfc.jpg</photo>
+      <role>Teddy</role>
+      <name>Frank Novak</name>
+    </item>
+    <item index="20">
+      <photo>http://image.tmdb.org/t/p/original/9mw9fqm1dtxObQbG6lUGvlvXvt7.jpg</photo>
+      <role>Philip</role>
+      <name>Devon Gummersall</name>
+    </item>
+    <item index="21">
+      <photo>http://image.tmdb.org/t/p/original/2XnpH5LOE7Ln0JMhFTT73QscLQh.jpg</photo>
+      <role>Technician/ Medical Assistant 1</role>
+      <name>Leland Orser</name>
+    </item>
+    <item index="22">
+      <photo>http://image.tmdb.org/t/p/original/ozlYwIqYAzwhqfCWZK2GqtG8XWz.jpg</photo>
+      <role>Aide</role>
+      <name>Mirron E. Willis</name>
+    </item>
+    <item index="23">
+      <photo>http://image.tmdb.org/t/p/original/jseRsA15GLR88mGV3gvg9UTyo0U.jpg</photo>
+      <role>Aide</role>
+      <name>Ross Lacy</name>
+    </item>
+    <item index="24">
+      <photo>http://image.tmdb.org/t/p/original/d7E1CW5DfYEFvlxOGQ5IioQbW8t.jpg</photo>
+      <role>Whitmore's Aide</role>
+      <name>David Pressman</name>
+    </item>
+    <item index="25">
+      <photo>http://image.tmdb.org/t/p/original/dqJaYxVxOKJjMcIzOnAf3ef1RfR.jpg</photo>
+      <role>Commander / Tech</role>
+      <name>Raphael Sbarge</name>
+    </item>
+    <item index="26">
+      <photo>http://image.tmdb.org/t/p/original/sGdelSFgmBYH3pKKZktIBUzqp9S.jpg</photo>
+      <role>Commanding Officer</role>
+      <name>Bobby Hosea</name>
+    </item>
+    <item index="27">
+      <photo>http://image.tmdb.org/t/p/original/uxJWnRJoSkpGbK882ptdNi2WrtP.jpg</photo>
+      <role>Commanding Officer</role>
+      <name>Dan Lauria</name>
+    </item>
+    <item index="28">
+      <photo>http://image.tmdb.org/t/p/original/aIMSzuRTYTWHlaAUfzc2uS6KIJf.jpg</photo>
+      <role>Radar Technician</role>
+      <name>Steve Giannelli</name>
+    </item>
+    <item index="29">
+      <photo>http://image.tmdb.org/t/p/original/mLnNCYfvcJJ37jg4KDBYU4aKhv9.jpg</photo>
+      <role>Radar Technician</role>
+      <name>Eric Paskel</name>
+    </item>
+    <item index="30">
+      <photo>http://image.tmdb.org/t/p/original/mf5a9afrahmA2bOwgfaJVjDrzpJ.jpg</photo>
+      <role>Radar Operator</role>
+      <name>Carlos Lacámara</name>
+    </item>
+    <item index="31">
+      <photo>http://image.tmdb.org/t/p/original/bzFhwuXsdZiOHRtBgz4XVELIFYO.jpg</photo>
+      <role>Secret Service Agent</role>
+      <name>John Bennett Perry</name>
+    </item>
+    <item index="32">
+      <photo/>
+      <role>Secret Service Agent</role>
+      <name>Troy Willis</name>
+    </item>
+    <item index="33">
+      <photo>http://image.tmdb.org/t/p/original/y1sYHWkXNeW09Iy2BUed4SveKl7.jpg</photo>
+      <role>Technician</role>
+      <name>Tim Kelleher</name>
+    </item>
+    <item index="34">
+      <photo>http://image.tmdb.org/t/p/original/r5GVLXdvJovWZiBUzgFsWlpIwVW.jpg</photo>
+      <role>Area 51 Technician</role>
+      <name>Wayne Wilderson</name>
+    </item>
+    <item index="35">
+      <photo>http://image.tmdb.org/t/p/original/7nTfBxzeO6jBzUSdukF2OWm5uBo.jpg</photo>
+      <role>Area 51 Guard</role>
+      <name>Jay Acovone</name>
+    </item>
+    <item index="36">
+      <photo>http://image.tmdb.org/t/p/original/vxwpMDXUfvBpJ53SOcfv7oNI2J3.jpg</photo>
+      <role>SETI Technician 3</role>
+      <name>Jana Marie Hupp</name>
+    </item>
+    <item index="37">
+      <photo>http://image.tmdb.org/t/p/original/dZTRdcp57vdnCtxIp8vNYR6pOtp.jpg</photo>
+      <role>Chief of Staff</role>
+      <name>Robert Pine</name>
+    </item>
+    <item index="38">
+      <photo>http://image.tmdb.org/t/p/original/3EwGgjGSmA6AUwqkkPerLm1BVk.jpg</photo>
+      <role>Secret Service Agent</role>
+      <name>David Channell</name>
+    </item>
+    <item index="39">
+      <photo>http://image.tmdb.org/t/p/original/sQuJV9o2FSXr5UBo2MaiTLObXiY.jpg</photo>
+      <role>Mario</role>
+      <name>John Capodice</name>
+    </item>
+    <item index="40">
+      <photo>http://image.tmdb.org/t/p/original/cktymLohUtHbTZh4WlS81WAOh1p.jpg</photo>
+      <role>Military Aide</role>
+      <name>Greg Collins</name>
+    </item>
+    <item index="41">
+      <photo>http://image.tmdb.org/t/p/original/fO1jwo6ZYSffBALSv92kJ1RmoPs.jpg</photo>
+      <role>Sky Crane Pilot</role>
+      <name>Derek Webster</name>
+    </item>
+    <item index="42">
+      <photo>http://image.tmdb.org/t/p/original/A46OLuNRFPu1NA61VQBf0NzQNFN.jpg</photo>
+      <role>Pilot</role>
+      <name>Mark Fite</name>
+    </item>
+    <item index="43">
+      <photo>http://image.tmdb.org/t/p/original/36mEusN0UbOvwsq8DVDgYOpoaet.jpg</photo>
+      <role>Russian Pilot (Levani)</role>
+      <name>Levan Uchaneishvili</name>
+    </item>
+    <item index="44">
+      <photo>http://image.tmdb.org/t/p/original/glLoabE6ofcj9gEW0ejwvN3CyB4.jpg</photo>
+      <role>Russian Pilot</role>
+      <name>Kristof Konrad</name>
+    </item>
+    <item index="45">
+      <photo>http://image.tmdb.org/t/p/original/8sX4lmfYnU0q0XXoxfbxju4c4tW.jpg</photo>
+      <role>Tank Commander</role>
+      <name>Kevin Sifuentes</name>
+    </item>
+    <item index="46">
+      <photo>http://image.tmdb.org/t/p/original/33ubq4IENRuOcLt1iqU3k5jOnF2.jpg</photo>
+      <role>Soldier</role>
+      <name>Elston Ridgle</name>
+    </item>
+    <item index="47">
+      <photo>http://image.tmdb.org/t/p/original/i6Zrn7JKMnemYZysNqhkcGs9cjk.jpg</photo>
+      <role>Mechanic</role>
+      <name>Randy Oglesby</name>
+    </item>
+    <item index="48">
+      <photo>http://image.tmdb.org/t/p/original/5vplad1c1016jguS31AqqOGQ3p2.jpg</photo>
+      <role>Mechanic</role>
+      <name>Jack Moore</name>
+    </item>
+    <item index="49">
+      <photo>http://image.tmdb.org/t/p/original/8uUOdG0fTnPYNkSgPpQDhzxSrjw.jpg</photo>
+      <role>Street Preacher</role>
+      <name>Barry Del Sherman</name>
+    </item>
+    <item index="50">
+      <photo>http://image.tmdb.org/t/p/original/lL1dAVbBcSU4O2wD4XZcsmOCcRZ.jpg</photo>
+      <role>Secret Service Agent</role>
+      <name>Lyman Ward</name>
+    </item>
+    <item index="51">
+      <photo>http://image.tmdb.org/t/p/original/3oZXNW4V0AeT1JjwDTu4lUOZNH3.jpg</photo>
+      <role>Lincoln</role>
+      <name>Anthony Crivello</name>
+    </item>
+    <item index="52">
+      <photo>http://image.tmdb.org/t/p/original/o5tlyRPkZXtkXOTDcwKTUfGldhM.jpg</photo>
+      <role>Ed</role>
+      <name>Richard Speight Jr.</name>
+    </item>
+    <item index="53">
+      <photo>http://image.tmdb.org/t/p/original/6Qp1ino2A6MP9MKZeCc6Q6hM9Si.jpg</photo>
+      <role>Reporter</role>
+      <name>Joe Fowler</name>
+    </item>
+    <item index="54">
+      <photo>http://image.tmdb.org/t/p/original/qJhvCSCXHD9Duvz5pP0sLQQl6n2.jpg</photo>
+      <role>Reporter</role>
+      <name>Sharon Tay</name>
+    </item>
+    <item index="55">
+      <photo>http://image.tmdb.org/t/p/original/bQgIi61v5NBhDDZjArvzSpjwxxg.jpg</photo>
+      <role>Russian Reporter</role>
+      <name>Peter J. Lucas</name>
+    </item>
+    <item index="56">
+      <photo>http://image.tmdb.org/t/p/original/kdA28JAPdY7Yru5469KFVGNOfDM.jpg</photo>
+      <role>Russian Newscaster</role>
+      <name>Yelena Danova</name>
+    </item>
+    <item index="57">
+      <photo>http://image.tmdb.org/t/p/original/Akh2IyKfZ4rXWb1k0c8U50d53Ew.jpg</photo>
+      <role>Korean Newscaster</role>
+      <name>Johnny Kim</name>
+    </item>
+    <item index="58">
+      <photo/>
+      <role>Newscaster</role>
+      <name>Vanessa J. Wells</name>
+    </item>
+    <item index="59">
+      <photo>http://image.tmdb.org/t/p/original/wMpSb8QfErr5a0NBKWc2a3Zxj47.jpg</photo>
+      <role>Arab Pilot</role>
+      <name>Sayed Badreya</name>
+    </item>
+    <item index="60">
+      <photo>http://image.tmdb.org/t/p/original/cW697JowVOiLwq3bw30aCZdsRwc.jpg</photo>
+      <role>Sailor</role>
+      <name>Adam Tomei</name>
+    </item>
+    <item index="61">
+      <photo>http://image.tmdb.org/t/p/original/37xJ1PZaKxZALqdKHUrnDu4PYBQ.jpg</photo>
+      <role>Lucas</role>
+      <name>John Bradley</name>
+    </item>
+    <item index="62">
+      <photo>http://image.tmdb.org/t/p/original/wt7KIBun88QLlxlXnPj7Tp9lwkB.jpg</photo>
+      <role>Housewife</role>
+      <name>Kimberly Beck</name>
+    </item>
+    <item index="63">
+      <photo>http://image.tmdb.org/t/p/original/98PX1sKUois0GhoMxvq2Ez9nhy9.jpg</photo>
+      <role>Older Boy</role>
+      <name>Andrew Keegan</name>
+    </item>
+    <item index="64">
+      <photo>http://image.tmdb.org/t/p/original/vdsY1X3LBvXzX84kl9sxCNaTxjw.jpg</photo>
+      <role>Reginald</role>
+      <name>Jim Piddock</name>
+    </item>
+    <item index="65">
+      <photo>http://image.tmdb.org/t/p/original/yz3OrX0JKWcNDLLc8TBoRUhWAcC.jpg</photo>
+      <role>Redneck</role>
+      <name>Pat Skipper</name>
+    </item>
+    <item index="66">
+      <photo>http://image.tmdb.org/t/p/original/aO53uKgLUCID9rCI0SRAIEdsIex.jpg</photo>
+      <role>SETI Chief</role>
+      <name>Erick Avari</name>
+    </item>
+    <item index="67">
+      <photo>http://image.tmdb.org/t/p/original/gYaOWwycKcSEPQzUOITt9DA5AcY.jpg</photo>
+      <role>Dr. Brackish Okun</role>
+      <name>Brent Spiner</name>
+    </item>
+    <item index="68">
+      <photo>http://image.tmdb.org/t/p/original/4zcqnXXDzSpjRksD2qJaegbZpXp.jpg</photo>
+      <role>SETI Technician 1</role>
+      <name>James Wong</name>
+    </item>
+    <item index="69">
+      <photo>http://image.tmdb.org/t/p/original/b3gImArbw13mMKJIe9leFc9YYb7.jpg</photo>
+      <role>Special Vocal Effects (voice)</role>
+      <name>Frank Welker</name>
+    </item>
+  </roles>
+  <similar>
+    <item index="0">Armageddon</item>
+    <item index="1">Men in Black II</item>
+    <item index="2">Men in Black</item>
+    <item index="3">Starship Troopers</item>
+    <item index="4">Total Recall</item>
+    <item index="5">Terminator 3: Rise of the Machines</item>
+    <item index="6">Speed</item>
+    <item index="7">Mission: Impossible</item>
+    <item index="8">Signs</item>
+    <item index="9">Minority Report</item>
+    <item index="10">Predator</item>
+    <item index="11">I, Robot</item>
+    <item index="12">RoboCop</item>
+    <item index="13">Die Hard 2</item>
+    <item index="14">The Mummy</item>
+    <item index="15">Con Air</item>
+    <item index="16">War of the Worlds</item>
+    <item index="17">Mission: Impossible II</item>
+    <item index="18">True Lies</item>
+    <item index="19">Face/Off</item>
+  </similar>
+  <studio>20th Century Fox</studio>
+  <summary>On July 2, a giant alien mothership enters orbit around Earth and deploys several dozen saucer-shaped 'destroyer' spacecraft that quickly lay waste to major cities around the planet. On July 3, the United States conducts a coordinated counterattack that fails. On July 4, a plan is devised to gain access to the interior of the alien mothership in space, in order to plant a nuclear missile.</summary>
+  <tagline>Earth. Take a good look. It might be your last.</tagline>
+  <tags/>
+  <themes/>
+  <title>Independence Day</title>
+  <writers>
+    <item index="0">
+      <photo>http://image.tmdb.org/t/p/original/zPeGiLiogQe3udUk7g6tlpERtW9.jpg</photo>
+      <role/>
+      <name>Dean Devlin</name>
+    </item>
+    <item index="1">
+      <photo>http://image.tmdb.org/t/p/original/brsGRCjTcIYvQMMoNsbyOKmarMy.jpg</photo>
+      <role/>
+      <name>Roland Emmerich</name>
+    </item>
+  </writers>
+  <year>1996</year>
+</Movie>

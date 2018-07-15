@@ -1,0 +1,480 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Movie id="tt2034800">
+  <rating>3.5</rating>
+  <title_sort/>
+  <art>
+    <item external="True" url="http://image.tmdb.org/t/p/original/aA65IcGg5K4tQXRcnDyZHe1HRAX.jpg" preview="b37a27d8399d873cc41807ffccb567a2c4e7d51e" sort_order="1"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/517g7LIW3GFsQqF6nTiuCnsI7iv.jpg" preview="b143fb20bca847318dd9b67a168eff2dd7c89b31" sort_order="2"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/fqndCyYW8A0BH5DIZJppd9zQVbB.jpg" preview="549399f37fba600750bbaa005fc67551bc9e7325" sort_order="3"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/rym1ecQJVj1NhZnigRePtiusorF.jpg" preview="b111eba695d08186a84a95330d1ac6cf6a5e26b9" sort_order="4"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/3giF1xJIfEJck0NyGmGMCmW0AUL.jpg" preview="185058e5780402bf8af083af174ee956175f103a" sort_order="5"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/2TQc4BM78nfz4oqDHpkathCDEV4.jpg" preview="51e3fe82e0c6191245b79cfb056e45a97a849856" sort_order="6"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/fvG75x8sdEzNYJ2mC1vuiaqy3BI.jpg" preview="8935c258ecdc5face13e1d6c333f355b52054c6d" sort_order="7"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/yESCAoZkaxZ2AMiHojl9jYYd9zD.jpg" preview="4324c7cb8e4ff1f3360b4d881463c19048fbca4d" sort_order="8"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/xeHe0f7RdsZzjW76si6fGUmu2Qq.jpg" preview="9c020cd1bbabf0be39ea62d7d93d755dc282a576" sort_order="9"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/msTKLzcFyt03J9WiA3OYJJnDnbr.jpg" preview="79d464d43c77af254f2a64e5420f42f02542d086" sort_order="10"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/iTiGp00mtBN0xYAfkgDDzJfIlqZ.jpg" preview="a64c9f7eac97292786fb76a87f045d0aec56c732" sort_order="11"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/rQp0YIvAUk7RFKNTGD6Gkm9qt4q.jpg" preview="d7e3b3794c20b1ce8cab3cfd0cdfd2c6a2ecb11c" sort_order="12"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/pYvaSn3lysbtb6lvarEmezPYce2.jpg" preview="1df529b707efd857406f2f6b9f89b1047542f2e9" sort_order="13"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/8kXH1Brlitb1fqApwHDyIZrxIho.jpg" preview="6acfbf0b79059f65f0054e556c541bf802da5eaf" sort_order="14"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/rtcKnSjZbzBBYDCP35iQDW09ioP.jpg" preview="bbd8d7a884396c1cecbad08b8a43128dd1157bea" sort_order="15"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/eYfJ7v18KCeQtQfRigKTma2cXOw.jpg" preview="cea3e1c2654228e6d7930813c695d43a2b3e34b1" sort_order="16"/>
+  </art>
+  <writers>
+    <item index="0">
+      <photo/>
+      <role/>
+      <name>Doug Miro</name>
+    </item>
+    <item index="1">
+      <photo>http://image.tmdb.org/t/p/original/9HOtDgcO6F4Fa4BaIjt0t3Vbxrj.jpg</photo>
+      <role/>
+      <name>Tony Gilroy</name>
+    </item>
+    <item index="2">
+      <photo/>
+      <role/>
+      <name>Carlo Bernard</name>
+    </item>
+  </writers>
+  <chapters>
+    <item index="0">
+      <title>Chapter 1</title>
+      <end_time_offset>358000</end_time_offset>
+      <start_time_offset>0</start_time_offset>
+    </item>
+    <item index="1">
+      <title>Chapter 2</title>
+      <end_time_offset>706000</end_time_offset>
+      <start_time_offset>358000</start_time_offset>
+    </item>
+    <item index="2">
+      <title>Chapter 3</title>
+      <end_time_offset>1012000</end_time_offset>
+      <start_time_offset>706000</start_time_offset>
+    </item>
+    <item index="3">
+      <title>Chapter 4</title>
+      <end_time_offset>1212000</end_time_offset>
+      <start_time_offset>1012000</start_time_offset>
+    </item>
+    <item index="4">
+      <title>Chapter 5</title>
+      <end_time_offset>1509000</end_time_offset>
+      <start_time_offset>1212000</start_time_offset>
+    </item>
+    <item index="5">
+      <title>Chapter 6</title>
+      <end_time_offset>1733000</end_time_offset>
+      <start_time_offset>1509000</start_time_offset>
+    </item>
+    <item index="6">
+      <title>Chapter 7</title>
+      <end_time_offset>2035000</end_time_offset>
+      <start_time_offset>1733000</start_time_offset>
+    </item>
+    <item index="7">
+      <title>Chapter 8</title>
+      <end_time_offset>2271000</end_time_offset>
+      <start_time_offset>2035000</start_time_offset>
+    </item>
+    <item index="8">
+      <title>Chapter 9</title>
+      <end_time_offset>2560000</end_time_offset>
+      <start_time_offset>2271000</start_time_offset>
+    </item>
+    <item index="9">
+      <title>Chapter 10</title>
+      <end_time_offset>2776000</end_time_offset>
+      <start_time_offset>2560000</start_time_offset>
+    </item>
+    <item index="10">
+      <title>Chapter 11</title>
+      <end_time_offset>3024000</end_time_offset>
+      <start_time_offset>2776000</start_time_offset>
+    </item>
+    <item index="11">
+      <title>Chapter 12</title>
+      <end_time_offset>3402000</end_time_offset>
+      <start_time_offset>3024000</start_time_offset>
+    </item>
+    <item index="12">
+      <title>Chapter 13</title>
+      <end_time_offset>3714000</end_time_offset>
+      <start_time_offset>3402000</start_time_offset>
+    </item>
+    <item index="13">
+      <title>Chapter 14</title>
+      <end_time_offset>4028000</end_time_offset>
+      <start_time_offset>3714000</start_time_offset>
+    </item>
+    <item index="14">
+      <title>Chapter 15</title>
+      <end_time_offset>4324000</end_time_offset>
+      <start_time_offset>4028000</start_time_offset>
+    </item>
+    <item index="15">
+      <title>Chapter 16</title>
+      <end_time_offset>4696000</end_time_offset>
+      <start_time_offset>4324000</start_time_offset>
+    </item>
+    <item index="16">
+      <title>Chapter 17</title>
+      <end_time_offset>5000000</end_time_offset>
+      <start_time_offset>4696000</start_time_offset>
+    </item>
+    <item index="17">
+      <title>Chapter 18</title>
+      <end_time_offset>5241000</end_time_offset>
+      <start_time_offset>5000000</start_time_offset>
+    </item>
+    <item index="18">
+      <title>Chapter 19</title>
+      <end_time_offset>5469000</end_time_offset>
+      <start_time_offset>5241000</start_time_offset>
+    </item>
+    <item index="19">
+      <title>Chapter 20</title>
+      <end_time_offset>6175000</end_time_offset>
+      <start_time_offset>5469000</start_time_offset>
+    </item>
+    <item index="20">
+      <title>Chapter 21</title>
+      <end_time_offset>-1</end_time_offset>
+      <start_time_offset>6175000</start_time_offset>
+    </item>
+  </chapters>
+  <themes/>
+  <quotes/>
+  <year>2016</year>
+  <duration>6180000</duration>
+  <genres>
+    <item index="0">Action</item>
+    <item index="1">Adventure</item>
+    <item index="2">Fantasy</item>
+    <item index="3">Thriller</item>
+  </genres>
+  <title>The Great Wall</title>
+  <tagline>1700 years to build. 5500 miles long. What were they trying to keep out?</tagline>
+  <content_rating_age/>
+  <rating_count/>
+  <collections/>
+  <trivia/>
+  <tags/>
+  <audience_rating_image>rottentomatoes://image.rating.spilled</audience_rating_image>
+  <rating_image>rottentomatoes://image.rating.rotten</rating_image>
+  <producers>
+    <item index="0">
+      <photo/>
+      <role/>
+      <name>Jon Jashni</name>
+    </item>
+    <item index="1">
+      <photo/>
+      <role/>
+      <name>Peter Loehr</name>
+    </item>
+    <item index="2">
+      <photo>http://image.tmdb.org/t/p/original/4uJLoVstC1CBcArXFOe53N2fDr1.jpg</photo>
+      <role/>
+      <name>Charles Roven</name>
+    </item>
+    <item index="3">
+      <photo>http://image.tmdb.org/t/p/original/5UG4FK7rsmhzJDYxpU28acqfxtu.jpg</photo>
+      <role/>
+      <name>Thomas Tull</name>
+    </item>
+  </producers>
+  <audience_rating>4.2</audience_rating>
+  <studio>Universal Pictures</studio>
+  <posters>
+    <item external="True" url="http://image.tmdb.org/t/p/original/gpkTwudOGh4ItvoTsyGzSscHtHU.jpg" preview="0555cc06cef8434871539fb3031db3be83011c56" sort_order="1"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/p70dq1YxabemdZDm5K6Q8G10wSn.jpg" preview="f65eacb13330e5281eca54f12576b1090f277e92" sort_order="2"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/hodlFSvJftThzylcwFs1W0PsVuF.jpg" preview="33907a40cbeaf6a3ae7bfd969fa6118381eb791a" sort_order="3"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/z8kebWDZsl1yhCEMfcZAtprFWDY.jpg" preview="d47268ab974c27112147b706a1ce4e1bc4785fb8" sort_order="4"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/qvrmjQF1ijp6dI8V7xSsBMXh10s.jpg" preview="89b06733ef8753ceabb610f78490e874361545c6" sort_order="5"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/75o5YBe0EXivikeh6UrPXTfoOuS.jpg" preview="21c82d578c9909e792acf52d320c22b324a03aa1" sort_order="6"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/bWMWYKA8hQY3xDR3ZZNsHH5YOWR.jpg" preview="980adbb8502efd3b8ff2fa25860eddb085edb42f" sort_order="7"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/IS05aZfPd5ttIbHrSIBZdIehMd.jpg" preview="0f982a2972142276d42a331c9c4c8066a551509d" sort_order="8"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/punYlGGybfC30yNCnf4Olrh69uG.jpg" preview="c44525cf195c692c5e7c4d04959fa0114e89bd52" sort_order="9"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/1ujNHRq05TgLmBSyNiZi4mJ12Qi.jpg" preview="f82643e8d509c85ad94112c676d51109cf5dddc9" sort_order="10"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/bxwKbnNfQdmUjdBoABxdJJAaj45.jpg" preview="2a32a5118874df587b877b71dd0ebec9913fb8d9" sort_order="11"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/uQJtdMdmzInlo9vzRtYqEa9PMSL.jpg" preview="35b7ccb393460e3966c21abc82dbb01fc1ef600d" sort_order="12"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/8RVb2wCPpfjtGTwDQHVBZs3lxmN.jpg" preview="9f8ef7f65fcca3cb31f535bf5f4f51548ebf9d4c" sort_order="13"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/rW44e8rrupSpY0ATaWVB6wn7QOF.jpg" preview="38c201061c4bbdbd65de91847c50c0407b5f2553" sort_order="14"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/gYTI8nwEpaj36u0M9RJSW0mHHFD.jpg" preview="4768c04a1d6e3c5a581c790bbf798012a1e7ae46" sort_order="15"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/mTOsx5s7FuxCfRiD5bKeiAWtzxD.jpg" preview="3d252d1c86f29dadb6edb64c27b569fe7cb51dbf" sort_order="16"/>
+  </posters>
+  <originally_available_at>2016-12-16</originally_available_at>
+  <roles>
+    <item index="0">
+      <photo>http://image.tmdb.org/t/p/original/elSlNgV8xVifsbHpFsqrPGxJToZ.jpg</photo>
+      <role>William Garin</role>
+      <name>Matt Damon</name>
+    </item>
+    <item index="1">
+      <photo>http://image.tmdb.org/t/p/original/kofshu6S97vdYoYbc7uOFBHiNaw.jpg</photo>
+      <role>General Lin Mei</role>
+      <name>Jing Tian</name>
+    </item>
+    <item index="2">
+      <photo>http://image.tmdb.org/t/p/original/7t8fhfaFBoS9VOo3OPXCfK516eI.jpg</photo>
+      <role>Ballard</role>
+      <name>Willem Dafoe</name>
+    </item>
+    <item index="3">
+      <photo>http://image.tmdb.org/t/p/original/mrGR5igHcVWdUP1X8yIt1qBMX1L.jpg</photo>
+      <role>Wang Junshi</role>
+      <name>Andy Lau</name>
+    </item>
+    <item index="4">
+      <photo>http://image.tmdb.org/t/p/original/8HP2vzmDR4Q9tmciUwFmzQJoJzP.jpg</photo>
+      <role>Pero Tovar</role>
+      <name>Pedro Pascal</name>
+    </item>
+    <item index="5">
+      <photo>http://image.tmdb.org/t/p/original/90wvD7Xim2nwwMOX0O4mQtf536z.jpg</photo>
+      <role>General Shao</role>
+      <name>Zhang Hanyu</name>
+    </item>
+    <item index="6">
+      <photo>http://image.tmdb.org/t/p/original/vXoGDLg8i9fro5v5AyK079EbeYP.jpg</photo>
+      <role>Peng Yong</role>
+      <name>Lu Han</name>
+    </item>
+    <item index="7">
+      <photo>http://image.tmdb.org/t/p/original/uo7e4jI7cD3oCiZmXP8vJPM515G.jpg</photo>
+      <role>Commander Chen</role>
+      <name>Lin Gengxin</name>
+    </item>
+    <item index="8">
+      <photo>http://image.tmdb.org/t/p/original/y6fFFxd6L5aQ9OrvnJ8C7tVONsG.jpg</photo>
+      <role>Commander Wu</role>
+      <name>Eddie Peng</name>
+    </item>
+    <item index="9">
+      <photo>http://image.tmdb.org/t/p/original/rkOPF7JgPslkR0vKi6tpSlUk4Ol.jpg</photo>
+      <role>Commander Deng</role>
+      <name>Huang Xuan</name>
+    </item>
+    <item index="10">
+      <photo>http://image.tmdb.org/t/p/original/jWB0e7UzTzuvnEfWya9eQ046jva.jpg</photo>
+      <role>Shen</role>
+      <name>Ryan Zheng Kai</name>
+    </item>
+    <item index="11">
+      <photo>http://image.tmdb.org/t/p/original/90UaLRRcDuov24E3D7P5pcH91Qa.jpg</photo>
+      <role>Imperial Officer</role>
+      <name>Cheney Chen</name>
+    </item>
+    <item index="12">
+      <photo>http://image.tmdb.org/t/p/original/r0Z1eqyYcJYGy0x9MqgIKDHUrHG.jpg</photo>
+      <role>Bouchard</role>
+      <name>Pilou Asbæk</name>
+    </item>
+    <item index="13">
+      <photo>http://image.tmdb.org/t/p/original/cJ0wLZDcyFKbRslfVNtiyl3XJqC.jpg</photo>
+      <role>Najid</role>
+      <name>Numan Acar</name>
+    </item>
+    <item index="14">
+      <photo>http://image.tmdb.org/t/p/original/1kvtcZNurBnWU3bA0wnvV6unvOT.jpg</photo>
+      <role>Lin Mae's 2nd Lieutenant Li Qing</role>
+      <name>Bing Liu</name>
+    </item>
+    <item index="15">
+      <photo>http://image.tmdb.org/t/p/original/gl1ibG6gEDy0XKAkSDbzEieDZq0.jpg</photo>
+      <role>Emperor</role>
+      <name>Karry Wang</name>
+    </item>
+    <item index="16">
+      <photo/>
+      <role>Rizzetti</role>
+      <name>Johnny Cicco</name>
+    </item>
+    <item index="17">
+      <photo/>
+      <role>Lieutenant Xiao Yu</role>
+      <name>Vicky Yu</name>
+    </item>
+  </roles>
+  <countries>
+    <item index="0">USA</item>
+  </countries>
+  <content_rating>PG-13</content_rating>
+  <original_title/>
+  <summary>European mercenaries searching for black powder become embroiled in the defense of the Great Wall of China against a horde of monstrous creatures.</summary>
+  <reviews>
+    <item index="0">
+      <text>Zhang's moments of visual splendor-a battalion of hot-air balloonists, the queen-monster and her royal guard of fan-frilled monstrosities-are weighed down by a script and performances almost dutiful in their dullness.</text>
+      <source>The Atlantic</source>
+      <image>rottentomatoes://image.review.rotten</image>
+      <link>https://www.theatlantic.com/entertainment/archive/2017/02/the-disappointments-of-the-great-wall/517086/</link>
+      <author>Christopher Orr</author>
+    </item>
+    <item index="1">
+      <text>Its epic imagery - the rows of soldiers, the rain of spears, the surging forces - is undercut by the Saturday-matinee cheesiness of the concept.</text>
+      <source>Chicago Reader</source>
+      <image>rottentomatoes://image.review.rotten</image>
+      <link>http://www.chicagoreader.com/chicago/the-great-wall/MovieTimes?oid=25114391</link>
+      <author>J. R. Jones</author>
+    </item>
+    <item index="2">
+      <text>If this is the future for motion pictures, god help us all.</text>
+      <source>ReelViews</source>
+      <image>rottentomatoes://image.review.rotten</image>
+      <link>http://www.reelviews.net/reelviews/great-wall-the</link>
+      <author>James Berardinelli</author>
+    </item>
+    <item index="3">
+      <text>To watch it is to be aware of how little movies this size have to do with art and how much they are product, the result of a calculation involving actorly appeal and spectacle, because spectacle, not story, has the... most universal draw.</text>
+      <source>BuzzFeed News</source>
+      <image>rottentomatoes://image.review.rotten</image>
+      <link>https://www.buzzfeed.com/alisonwillmore/the-great-wall-is-a-glimpse-into-our-terrible-movie-future?utm_term=.ucxzA6NmB#.go1GBJEgX</link>
+      <author>Alison Willmore</author>
+    </item>
+    <item index="4">
+      <text>Damon's wild-haired gringo claims to have soldiered under "many flags," which would explain his shape-shifting accent that's Irish except for when it sounds beamed from Mars.</text>
+      <source>MTV</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>http://www.mtv.com/news/2984786/the-great-wall-gives-history-the-middle-finger/</link>
+      <author>Amy Nicholson</author>
+    </item>
+    <item index="5">
+      <text>What a bummer that all Chinese master Zhang Yimou and Hollywood star Matt Damon come up with is a B-level creature feature with delusions of grandeur.</text>
+      <source>Rolling Stone</source>
+      <image>rottentomatoes://image.review.rotten</image>
+      <link>http://www.rollingstone.com/movies/reviews/peter-travers-the-great-wall-movie-review-w466886</link>
+      <author>Peter Travers</author>
+    </item>
+    <item index="6">
+      <text>As pure spectacle, The Great Wall is absolutely dazzling.</text>
+      <source>Village Voice</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>http://www.villagevoice.com/film/in-praise-of-the-great-wall-and-its-gorgeous-meaningless-spectacle-9689004</link>
+      <author>Bilge Ebiri</author>
+    </item>
+    <item index="7">
+      <text>If you calibrate your expectations to "monster movie for eight-year-olds," you may find some fun in this energetic and blissfully brief (a mere 103 minutes!) tale of the Chinese army battling alien beasties in the Song Dynasty era.</text>
+      <source>TheWrap</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>http://www.thewrap.com/the-great-wall-review-matt-damon-zhang-yimou/</link>
+      <author>Alonso Duralde</author>
+    </item>
+    <item index="8">
+      <text>Zhang does an impressive job of staging the battles... But there is barely a whiff of genuine transcendence in this grand-scale extravaganza.</text>
+      <source>Christian Science Monitor</source>
+      <image>rottentomatoes://image.review.rotten</image>
+      <link>http://www.csmonitor.com/The-Culture/Movies/2017/0217/Grand-scale-extravaganza-in-The-Great-Wall-lacks-transcendence</link>
+      <author>Peter Rainer</author>
+    </item>
+    <item index="9">
+      <text>A well-paced action movie that doesn't waste much time on preliminaries or explanations before plunging headlong into a prolonged, elaborately orchestrated fight against a horde of ghastly creatures.</text>
+      <source>CNN.com</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>http://www.cnn.com/2017/02/17/entertainment/the-great-wall-review/index.html</link>
+      <author>Brian Lowry</author>
+    </item>
+    <item index="10">
+      <text>Its real accomplishment is that, with so much money behind it and a true visionary at the helm, it manages to feel so dated.</text>
+      <source>Arizona Republic</source>
+      <image>rottentomatoes://image.review.rotten</image>
+      <link>http://www.azcentral.com/story/entertainment/movies/2017/02/16/great-wall-movie-review-matt-damon/98001040/</link>
+      <author>Barbara VanDenburgh</author>
+    </item>
+    <item index="11">
+      <text>The absurdity is what makes it such a hoot-and-a-half.</text>
+      <source>New York Magazine/Vulture</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>http://www.vulture.com/2017/02/the-great-wall-movie-review.html</link>
+      <author>David Edelstein</author>
+    </item>
+    <item index="12">
+      <text>The Great Wall is unlike any American blockbuster you've seen, a conservative movie with action set pieces that are actually inventive and thrilling enough to be worthwhile.</text>
+      <source>RogerEbert.com</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>http://www.rogerebert.com/reviews/the-great-wall-2017</link>
+      <author>Simon Abrams</author>
+    </item>
+    <item index="13">
+      <text>It's the flat characters and cursory storytelling that let the project down.</text>
+      <source>Globe and Mail</source>
+      <image>rottentomatoes://image.review.rotten</image>
+      <link>http://www.theglobeandmail.com/arts/film/film-reviews/the-great-wall-is-bogged-down-by-flat-characters-hasty-story/article34050792/</link>
+      <author>Kate Taylor</author>
+    </item>
+    <item index="14">
+      <text>It's meant to play to as broad an audience as possible, so everything about it is spread thin, and its attempts at humor warrant light chuckles at best.</text>
+      <source>Detroit News</source>
+      <image>rottentomatoes://image.review.rotten</image>
+      <link>http://www.detroitnews.com/story/entertainment/movies/2017/02/16/movie-review-fantasy-epic-great-wall-crumbles/98019226/</link>
+      <author>Adam Graham</author>
+    </item>
+    <item index="15">
+      <text>It turns out to be little more than a monster movie (and a poor one at that) that says more about corporate-driven global moviemaking than anything about either culture.</text>
+      <source>Associated Press</source>
+      <image>rottentomatoes://image.review.rotten</image>
+      <link>http://bigstory.ap.org/article/9e495fd53f9b49a686517f7b95d3fc0e/review-monsters-intrude-culture-clash-great-wall</link>
+      <author>Jake Coyle</author>
+    </item>
+    <item index="16">
+      <text>You might call it The Not-Bad Wall. But as a showcase for Damon's considerable talents, and as a canvas for the gifted Chinese director Zhang Yimou, this ostentatious mythical epic isn't quite the movie it should be.</text>
+      <source>TIME Magazine</source>
+      <image>rottentomatoes://image.review.rotten</image>
+      <link>http://time.com/4671848/review-the-great-wall-matt-damon/</link>
+      <author>Stephanie Zacharek</author>
+    </item>
+    <item index="17">
+      <text>Think of the result as The 13th Warrior as remade by Leni Riefenstahl.</text>
+      <source>AV Club</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>http://www.avclub.com/review/great-wall-stupidly-awesome-eyeful-250431</link>
+      <author>Ignatiy Vishnevetsky</author>
+    </item>
+    <item index="18">
+      <text>Director Yimou is an amazing visual stylist and he delivers a few wonderfully outrageous sequences, but what we're getting here is basically a pricey monster movie with uninteresting monsters, and [one-dimensional] human characters.</text>
+      <source>Chicago Sun-Times</source>
+      <image>rottentomatoes://image.review.rotten</image>
+      <link>http://chicago.suntimes.com/entertainment/the-great-wall-a-ridiculous-monster-epic-made-in-china/</link>
+      <author>Richard Roeper</author>
+    </item>
+    <item index="19">
+      <text>Something bland and familiar to make the keening wail of the (beautiful) funeral ceremony a little less foreign, and the brightly color-coded armor of the Great Wall's defenders a little less outlandish.</text>
+      <source>San Diego Reader</source>
+      <image>rottentomatoes://image.review.rotten</image>
+      <link>http://www.sandiegoreader.com/movies/the-great-wall/</link>
+      <author>Matthew Lickona</author>
+    </item>
+  </reviews>
+  <directors>
+    <item index="0">
+      <photo>http://image.tmdb.org/t/p/original/uU5vECl94jDQYjiRk4eOpVRMEi9.jpg</photo>
+      <role/>
+      <name>Zhang Yimou</name>
+    </item>
+  </directors>
+  <extras external="True" extension="xml"/>
+  <banners/>
+  <similar>
+    <item index="0">Assassin's Creed</item>
+    <item index="1">Warcraft</item>
+    <item index="2">King Arthur: Legend of the Sword</item>
+    <item index="3">Kong: Skull Island</item>
+    <item index="4">The Mummy</item>
+    <item index="5">xXx: Return of Xander Cage</item>
+    <item index="6">Gods of Egypt</item>
+    <item index="7">Jack Reacher: Never Go Back</item>
+    <item index="8">Life</item>
+    <item index="9">The Accountant</item>
+    <item index="10">The Magnificent Seven</item>
+    <item index="11">Power Rangers</item>
+    <item index="12">Ghost in the Shell</item>
+    <item index="13">Deepwater Horizon</item>
+    <item index="14">Resident Evil: The Final Chapter</item>
+    <item index="15">The Last Witch Hunter</item>
+    <item index="16">Independence Day: Resurgence</item>
+    <item index="17">The Dark Tower</item>
+    <item index="18">Ben-Hur</item>
+    <item index="19">Transformers: The Last Knight</item>
+  </similar>
+</Movie>

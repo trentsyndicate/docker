@@ -1,0 +1,103 @@
+<?xml version='1.0' encoding='utf-8'?>
+<MediaContainer size="5">
+  <Video url="iva://api.internetvideoarchive.com/2.0/DataService/VideoAssets(169)?lang=en&amp;bitrates=80,212,450,750,1500,2500,5000,8000&amp;duration=100&amp;adaptive=1&amp;dts=0" key="/system/services/url/lookup?url=iva%3A%2F%2Fapi.internetvideoarchive.com%2F2.0%2FDataService%2FVideoAssets%28169%29%3Flang%3Den%26bitrates%3D80%2C212%2C450%2C750%2C1500%2C2500%2C5000%2C8000%26duration%3D100%26adaptive%3D1%26dts%3D0" type="clip" relationType="trailer" year="2015" title="Rocky" originallyAvailableAt="2015-06-12" thumb="https://iva-images.plex.tv/content/hdphotos/003/000003/000003_1200x675_169_038.jpg" ratingKey="iva://api.internetvideoarchive.com/2.0/DataService/VideoAssets(169)?lang=en&amp;bitrates=80,212,450,750,1500,2500,5000,8000&amp;duration=100&amp;adaptive=1&amp;dts=0">
+    <Media container="mp4" height="1080" width="1920" audioCodec="aac" duration="100000" videoCodec="h264" bitrate="2500">
+      <Part duration="100000" key="/services/iva/assets/169/video.mp4?bitrate=2500" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="1080" width="1920" codec="h264" bitrate="2500" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+    <Media container="mp4" height="720" width="1280" audioCodec="aac" duration="100000" videoCodec="h264" bitrate="1500">
+      <Part duration="100000" key="/services/iva/assets/169/video.mp4?bitrate=1500" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="720" width="1280" codec="h264" bitrate="1500" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+    <Media container="mp4" height="480" width="640" audioCodec="aac" duration="100000" videoCodec="h264" bitrate="450">
+      <Part duration="100000" key="/services/iva/assets/169/video.mp4?bitrate=450" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="480" width="640" codec="h264" bitrate="450" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+  </Video>
+  <Video url="iva://api.internetvideoarchive.com/2.0/DataService/VideoAssets(267524)?lang=en&amp;bitrates=80,212,450,750,1500,2500,5000,8000&amp;duration=77&amp;adaptive=1&amp;dts=0" key="/system/services/url/lookup?url=iva%3A%2F%2Fapi.internetvideoarchive.com%2F2.0%2FDataService%2FVideoAssets%28267524%29%3Flang%3Den%26bitrates%3D80%2C212%2C450%2C750%2C1500%2C2500%2C5000%2C8000%26duration%3D77%26adaptive%3D1%26dts%3D0" type="clip" relationType="behindTheScenes" year="2014" title="Rocky Heavyweight Collection: Intro To Cast And Crew" originallyAvailableAt="2014-03-12" thumb="https://iva-images.plex.tv/content/hdphotos/8933/008933/008933_1280x720_267524_026.jpg" ratingKey="iva://api.internetvideoarchive.com/2.0/DataService/VideoAssets(267524)?lang=en&amp;bitrates=80,212,450,750,1500,2500,5000,8000&amp;duration=77&amp;adaptive=1&amp;dts=0">
+    <Media container="mp4" height="1080" width="1920" audioCodec="aac" duration="77000" videoCodec="h264" bitrate="2500">
+      <Part duration="77000" key="/services/iva/assets/267524/video.mp4?bitrate=2500" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="1080" width="1920" codec="h264" bitrate="2500" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+    <Media container="mp4" height="720" width="1280" audioCodec="aac" duration="77000" videoCodec="h264" bitrate="1500">
+      <Part duration="77000" key="/services/iva/assets/267524/video.mp4?bitrate=1500" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="720" width="1280" codec="h264" bitrate="1500" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+    <Media container="mp4" height="480" width="640" audioCodec="aac" duration="77000" videoCodec="h264" bitrate="450">
+      <Part duration="77000" key="/services/iva/assets/267524/video.mp4?bitrate=450" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="480" width="640" codec="h264" bitrate="450" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+  </Video>
+  <Video url="iva://api.internetvideoarchive.com/2.0/DataService/VideoAssets(461695)?lang=en&amp;bitrates=80,212,450,750,1500,2500,5000,8000&amp;duration=60&amp;adaptive=1&amp;dts=0" key="/system/services/url/lookup?url=iva%3A%2F%2Fapi.internetvideoarchive.com%2F2.0%2FDataService%2FVideoAssets%28461695%29%3Flang%3Den%26bitrates%3D80%2C212%2C450%2C750%2C1500%2C2500%2C5000%2C8000%26duration%3D60%26adaptive%3D1%26dts%3D0" type="clip" relationType="behindTheScenes" year="2014" title="Rocky Heavyweight Collection: Shooting In Philadelphia" originallyAvailableAt="2014-03-12" thumb="https://iva-images.plex.tv/content/hdphotos/8934/008934/008934_1280x720_461695_017.jpg" ratingKey="iva://api.internetvideoarchive.com/2.0/DataService/VideoAssets(461695)?lang=en&amp;bitrates=80,212,450,750,1500,2500,5000,8000&amp;duration=60&amp;adaptive=1&amp;dts=0">
+    <Media container="mp4" height="1080" width="1920" audioCodec="aac" duration="60000" videoCodec="h264" bitrate="2500">
+      <Part duration="60000" key="/services/iva/assets/461695/video.mp4?bitrate=2500" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="1080" width="1920" codec="h264" bitrate="2500" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+    <Media container="mp4" height="720" width="1280" audioCodec="aac" duration="60000" videoCodec="h264" bitrate="1500">
+      <Part duration="60000" key="/services/iva/assets/461695/video.mp4?bitrate=1500" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="720" width="1280" codec="h264" bitrate="1500" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+    <Media container="mp4" height="480" width="640" audioCodec="aac" duration="60000" videoCodec="h264" bitrate="450">
+      <Part duration="60000" key="/services/iva/assets/461695/video.mp4?bitrate=450" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="480" width="640" codec="h264" bitrate="450" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+  </Video>
+  <Video url="iva://api.internetvideoarchive.com/2.0/DataService/VideoAssets(744046)?lang=en&amp;bitrates=80,212,450,750,1500,2500,5000,8000&amp;duration=57&amp;adaptive=1&amp;dts=0" key="/system/services/url/lookup?url=iva%3A%2F%2Fapi.internetvideoarchive.com%2F2.0%2FDataService%2FVideoAssets%28744046%29%3Flang%3Den%26bitrates%3D80%2C212%2C450%2C750%2C1500%2C2500%2C5000%2C8000%26duration%3D57%26adaptive%3D1%26dts%3D0" type="clip" relationType="behindTheScenes" year="2014" title="Rocky Heavyweight Collection: Shooting At Mickey's Gym" originallyAvailableAt="2014-03-12" thumb="https://iva-images.plex.tv/content/hdphotos/8933/008933/008933_1280x720_744046_033.jpg" ratingKey="iva://api.internetvideoarchive.com/2.0/DataService/VideoAssets(744046)?lang=en&amp;bitrates=80,212,450,750,1500,2500,5000,8000&amp;duration=57&amp;adaptive=1&amp;dts=0">
+    <Media container="mp4" height="1080" width="1920" audioCodec="aac" duration="57000" videoCodec="h264" bitrate="2500">
+      <Part duration="57000" key="/services/iva/assets/744046/video.mp4?bitrate=2500" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="1080" width="1920" codec="h264" bitrate="2500" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+    <Media container="mp4" height="720" width="1280" audioCodec="aac" duration="57000" videoCodec="h264" bitrate="1500">
+      <Part duration="57000" key="/services/iva/assets/744046/video.mp4?bitrate=1500" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="720" width="1280" codec="h264" bitrate="1500" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+    <Media container="mp4" height="480" width="640" audioCodec="aac" duration="57000" videoCodec="h264" bitrate="450">
+      <Part duration="57000" key="/services/iva/assets/744046/video.mp4?bitrate=450" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="480" width="640" codec="h264" bitrate="450" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+  </Video>
+  <Video url="iva://api.internetvideoarchive.com/2.0/DataService/VideoAssets(71691)?lang=en&amp;bitrates=80,212,450,750,1500,2500,5000,8000&amp;duration=39&amp;adaptive=1&amp;dts=0" key="/system/services/url/lookup?url=iva%3A%2F%2Fapi.internetvideoarchive.com%2F2.0%2FDataService%2FVideoAssets%2871691%29%3Flang%3Den%26bitrates%3D80%2C212%2C450%2C750%2C1500%2C2500%2C5000%2C8000%26duration%3D39%26adaptive%3D1%26dts%3D0" type="clip" relationType="behindTheScenes" year="2014" title="Rocky Heavyweight Collection: Rigging The Car" originallyAvailableAt="2014-03-12" thumb="https://iva-images.plex.tv/content/hdphotos/8933/008933/008933_1280x720_71691_016.jpg" ratingKey="iva://api.internetvideoarchive.com/2.0/DataService/VideoAssets(71691)?lang=en&amp;bitrates=80,212,450,750,1500,2500,5000,8000&amp;duration=39&amp;adaptive=1&amp;dts=0">
+    <Media container="mp4" height="1080" width="1920" audioCodec="aac" duration="39000" videoCodec="h264" bitrate="2500">
+      <Part duration="39000" key="/services/iva/assets/71691/video.mp4?bitrate=2500" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="1080" width="1920" codec="h264" bitrate="2500" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+    <Media container="mp4" height="720" width="1280" audioCodec="aac" duration="39000" videoCodec="h264" bitrate="1500">
+      <Part duration="39000" key="/services/iva/assets/71691/video.mp4?bitrate=1500" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="720" width="1280" codec="h264" bitrate="1500" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+    <Media container="mp4" height="480" width="640" audioCodec="aac" duration="39000" videoCodec="h264" bitrate="450">
+      <Part duration="39000" key="/services/iva/assets/71691/video.mp4?bitrate=450" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="480" width="640" codec="h264" bitrate="450" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+  </Video>
+</MediaContainer>

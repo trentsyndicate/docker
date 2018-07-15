@@ -1,0 +1,586 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Movie>
+  <art>
+    <item external="True" url="http://image.tmdb.org/t/p/original/9VV44SrSe1SsQcdgj9sMlCTCn5g.jpg" sort_order="1" provider="com.plexapp.agents.imdb" media="com.plexapp.agents.imdb_5b41cb2e7d9ac5fbb5798b40174b2df65032d58a"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/uin0o1eWH59kAVJ0bmRLCWNX2aA.jpg" preview="com.plexapp.agents.imdb_72cc505242c28f6d17ed8eafd4b778c6a879126f" sort_order="2" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/eHzTOOao6IHCDUVRdC3WZHZaSS5.jpg" preview="com.plexapp.agents.imdb_c622d1ccb21cdca58aee401ee192d9d8b81b31c2" sort_order="3" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/LXNMeisGBRDMERehjNQDnz9qKI.jpg" preview="com.plexapp.agents.imdb_02a72cc8e9578e549a05b24912e0a44e19dfed12" sort_order="4" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/jjAq3tCezdlQduusgtMhpY2XzW0.jpg" preview="com.plexapp.agents.imdb_e7277dcd4193cfaebd784a6c8a9f066cf1fb7431" sort_order="5" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/3OdCNIDzEWkOivqZHQnpz7rbPKg.jpg" preview="com.plexapp.agents.imdb_bce47fa53447874b29ed30e8d5f82dadc7bacd37" sort_order="6" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/338bG8RMF9ywjImeLYN49em1vbC.jpg" preview="com.plexapp.agents.imdb_742256455e48564327b8c1d7db0bfaa0a634f96c" sort_order="7" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/zd7QRMl6RBbnuC3V7oCVwmhfIFn.jpg" preview="com.plexapp.agents.imdb_6d70642a289a5f9b8e0828e4055c4e2c23dde2aa" sort_order="8" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/yMpwrZ9NsR650U7LAuVMRTegwTL.jpg" preview="com.plexapp.agents.imdb_1db63e4c37890d11ec7df809dc73869ea035adb5" sort_order="9" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/lDiE2RSuhlof3upWv8IqMegQ4dO.jpg" preview="com.plexapp.agents.imdb_bc1f9af4734648ae15821936c6b2cd1be4c8d69a" sort_order="10" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/hZyPdyepRjJLPsT4GZU3XwfKlYB.jpg" preview="com.plexapp.agents.imdb_8ddb08d2bcb757d5ddea7c899c31e0846c9c17fb" sort_order="11" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/nb9Xrl3CVRVTx7ZJnZj1tBqRkPZ.jpg" preview="com.plexapp.agents.imdb_80f3adb7c42bfc702b3b7aa161ca97c9f2e371ce" sort_order="12" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/b6PdaANuQFERThORqwaoPjG6QXB.jpg" preview="com.plexapp.agents.imdb_e20f11a63fb6122fcca1aa36a71c44a316e5dbf7" sort_order="13" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/ebYrYmrKYmZ9A78BSwut0jtvli2.jpg" preview="com.plexapp.agents.imdb_0c0e1e223e3fc4495d2c3c125131897340264ad7" sort_order="14" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/kZk9GhvA77bUwitD6qiu2Z5sRqy.jpg" preview="com.plexapp.agents.imdb_80025e593993b01528a6d14fc42f187696dfb609" sort_order="15" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/dA7tbLxpImhemrGFLY0sMmgT6Do.jpg" preview="com.plexapp.agents.imdb_7bb0a40d49c2a7331bf37aeef74f27f11162e2f7" sort_order="16" provider="com.plexapp.agents.imdb"/>
+  </art>
+  <banners/>
+  <chapters>
+    <item index="0">
+      <title>Introduction</title>
+      <end_time_offset>531000</end_time_offset>
+      <start_time_offset>0</start_time_offset>
+    </item>
+    <item index="1">
+      <title>Bilbo and Frodo</title>
+      <end_time_offset>778000</end_time_offset>
+      <start_time_offset>531000</start_time_offset>
+    </item>
+    <item index="2">
+      <title>60 Years Earlier</title>
+      <end_time_offset>994000</end_time_offset>
+      <start_time_offset>778000</start_time_offset>
+    </item>
+    <item index="3">
+      <title>Unexpected Guests</title>
+      <end_time_offset>1250000</end_time_offset>
+      <start_time_offset>994000</start_time_offset>
+    </item>
+    <item index="4">
+      <title>Dinner Time</title>
+      <end_time_offset>1509000</end_time_offset>
+      <start_time_offset>1250000</start_time_offset>
+    </item>
+    <item index="5">
+      <title>Thorin Oakenshield</title>
+      <end_time_offset>1994000</end_time_offset>
+      <start_time_offset>1509000</start_time_offset>
+    </item>
+    <item index="6">
+      <title>Difficult Decision</title>
+      <end_time_offset>2306000</end_time_offset>
+      <start_time_offset>1994000</start_time_offset>
+    </item>
+    <item index="7">
+      <title>Decision Made</title>
+      <end_time_offset>2620000</end_time_offset>
+      <start_time_offset>2306000</start_time_offset>
+    </item>
+    <item index="8">
+      <title>The Battle of Moria</title>
+      <end_time_offset>3012000</end_time_offset>
+      <start_time_offset>2620000</start_time_offset>
+    </item>
+    <item index="9">
+      <title>Radagast</title>
+      <end_time_offset>3316000</end_time_offset>
+      <start_time_offset>3012000</start_time_offset>
+    </item>
+    <item index="10">
+      <title>Gandalf Leaves</title>
+      <end_time_offset>3424000</end_time_offset>
+      <start_time_offset>3316000</start_time_offset>
+    </item>
+    <item index="11">
+      <title>Trolls</title>
+      <end_time_offset>4071000</end_time_offset>
+      <start_time_offset>3424000</start_time_offset>
+    </item>
+    <item index="12">
+      <title>The Troll Hoard</title>
+      <end_time_offset>4331000</end_time_offset>
+      <start_time_offset>4071000</start_time_offset>
+    </item>
+    <item index="13">
+      <title>Radagast Arrives</title>
+      <end_time_offset>4563000</end_time_offset>
+      <start_time_offset>4331000</start_time_offset>
+    </item>
+    <item index="14">
+      <title>Warg Pursuit</title>
+      <end_time_offset>4926000</end_time_offset>
+      <start_time_offset>4563000</start_time_offset>
+    </item>
+    <item index="15">
+      <title>Rivendell</title>
+      <end_time_offset>5329000</end_time_offset>
+      <start_time_offset>4926000</start_time_offset>
+    </item>
+    <item index="16">
+      <title>Moon Runes</title>
+      <end_time_offset>5523000</end_time_offset>
+      <start_time_offset>5329000</start_time_offset>
+    </item>
+    <item index="17">
+      <title>Azog's Rage</title>
+      <end_time_offset>5622000</end_time_offset>
+      <start_time_offset>5523000</start_time_offset>
+    </item>
+    <item index="18">
+      <title>Galadriel</title>
+      <end_time_offset>6029000</end_time_offset>
+      <start_time_offset>5622000</start_time_offset>
+    </item>
+    <item index="19">
+      <title>The Edge of The Wild</title>
+      <end_time_offset>6186000</end_time_offset>
+      <start_time_offset>6029000</start_time_offset>
+    </item>
+    <item index="20">
+      <title>Stone Giants</title>
+      <end_time_offset>6552000</end_time_offset>
+      <start_time_offset>6186000</start_time_offset>
+    </item>
+    <item index="21">
+      <title>Captured by Goblins</title>
+      <end_time_offset>6844000</end_time_offset>
+      <start_time_offset>6552000</start_time_offset>
+    </item>
+    <item index="22">
+      <title>The Goblin King</title>
+      <end_time_offset>7018000</end_time_offset>
+      <start_time_offset>6844000</start_time_offset>
+    </item>
+    <item index="23">
+      <title>Gollum</title>
+      <end_time_offset>7827000</end_time_offset>
+      <start_time_offset>7018000</start_time_offset>
+    </item>
+    <item index="24">
+      <title>The Goblin Song</title>
+      <end_time_offset>7946000</end_time_offset>
+      <start_time_offset>7827000</start_time_offset>
+    </item>
+    <item index="25">
+      <title>Bilbo Flees</title>
+      <end_time_offset>8017000</end_time_offset>
+      <start_time_offset>7946000</start_time_offset>
+    </item>
+    <item index="26">
+      <title>Escape From Goblin Town</title>
+      <end_time_offset>8279000</end_time_offset>
+      <start_time_offset>8017000</start_time_offset>
+    </item>
+    <item index="27">
+      <title>Bilbo's Mercy</title>
+      <end_time_offset>8409000</end_time_offset>
+      <start_time_offset>8279000</start_time_offset>
+    </item>
+    <item index="28">
+      <title>Reunion</title>
+      <end_time_offset>8579000</end_time_offset>
+      <start_time_offset>8409000</start_time_offset>
+    </item>
+    <item index="29">
+      <title>Azog Attacks</title>
+      <end_time_offset>9238000</end_time_offset>
+      <start_time_offset>8579000</start_time_offset>
+    </item>
+    <item index="30">
+      <title>Eagles</title>
+      <end_time_offset>9567000</end_time_offset>
+      <start_time_offset>9238000</start_time_offset>
+    </item>
+    <item index="31">
+      <title>Credits</title>
+      <end_time_offset>-1</end_time_offset>
+      <start_time_offset>9567000</start_time_offset>
+    </item>
+  </chapters>
+  <collections/>
+  <content_rating>PG-13</content_rating>
+  <countries>
+    <item index="0">USA</item>
+  </countries>
+  <directors>
+    <item index="0">
+      <photo>http://image.tmdb.org/t/p/original/kSrfI3TbMdIMmPVOflLQ56OfscB.jpg</photo>
+      <role/>
+      <name>Peter Jackson</name>
+    </item>
+  </directors>
+  <duration>10140000</duration>
+  <genres>
+    <item index="0">Adventure</item>
+    <item index="1">Family</item>
+    <item index="2">Fantasy</item>
+  </genres>
+  <originally_available_at>2012-11-26</originally_available_at>
+  <posters>
+    <item external="True" url="http://image.tmdb.org/t/p/original/h1XjBJoWdOh8aegBoVYKgABQZSL.jpg" sort_order="1" provider="com.plexapp.agents.imdb" media="com.plexapp.agents.imdb_ac38cea022e065c893d90c860d763b5e9dbbdfa5"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/ysX7vDmSh5O19vFjAi56WL7l4nk.jpg" preview="com.plexapp.agents.imdb_7f1c10f687801d499d302023412c723bc0931e4f" sort_order="2" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/mfSAahVkAIYFkx1GVFSlCEdn0mt.jpg" preview="com.plexapp.agents.imdb_fba7311f060bb5c2c3b8e965c2c7e429e1777a2a" sort_order="3" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/w29Guo6FX6fxzH86f8iAbEhQEFC.jpg" preview="com.plexapp.agents.imdb_7105ca92848c96791c612c868947ce3822d79b32" sort_order="4" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/nGLrjWHsFcz62Xw6Epz84j5faWZ.jpg" preview="com.plexapp.agents.imdb_00d8dfefbfba64be3a95e212e61fe877dbf7f00a" sort_order="5" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/di9KRjLhZp9CePuPHUY51JaTRyF.jpg" preview="com.plexapp.agents.imdb_a03e81e7660c12f9e235530769b14ef57b78dd73" sort_order="6" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/An9PIe3MICuN5I49jnUXBsxmXFF.jpg" preview="com.plexapp.agents.imdb_22f1015dce9de6b57a5944f283627a72baaf5205" sort_order="7" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/9I5pUgMuZuddyQaLRIWAfJSA7yn.jpg" preview="com.plexapp.agents.imdb_c2f9e7257855cea8fad240f7005c096e3790722c" sort_order="8" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/7SLXnXzaVqyrdsd756DMc6zghVJ.jpg" preview="com.plexapp.agents.imdb_9d0a754de41b3d171ac190b88c1abf7760e7754f" sort_order="9" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/7MfL892sBQGGiflrW2JEUaWM34U.jpg" preview="com.plexapp.agents.imdb_cdb77463896ed79c637cbdebc5939785662ae1b1" sort_order="10" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/2ofYFSn6P7XmlVP7p4TLAncp7gz.jpg" preview="com.plexapp.agents.imdb_87214176c82112ff0ad8a0c8d0835ee6a5576712" sort_order="11" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/7gxKoLVC3Qsb3GPcCslL047mLen.jpg" preview="com.plexapp.agents.imdb_434f6f358d61bc466f549d490b28fd8ca28bbbeb" sort_order="12" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/ezup96uIvpT2OI04cpr0oe0pxbE.jpg" preview="com.plexapp.agents.imdb_84c08edbe75f7ae22514c8d0c6240dcdd362a1c6" sort_order="13" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/edmlNHYsrzCNmNp7k3mEtW5zjDi.jpg" preview="com.plexapp.agents.imdb_aa027a251ed394e9cc20913d29d37b77882e1145" sort_order="14" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/JfEm3Z2VVWLySY0KsjmCB2Nlyd.jpg" preview="com.plexapp.agents.imdb_01c805f79ce6337c8cc554496b941c84fa65788a" sort_order="15" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/9rvThrfl7ZOR5G1aI6OZfgeserW.jpg" preview="com.plexapp.agents.imdb_ae3cc101273543010d9364953ce69e75e10ec0b1" sort_order="16" provider="com.plexapp.agents.imdb"/>
+  </posters>
+  <producers>
+    <item index="0">
+      <photo/>
+      <role/>
+      <name>Carolynne Cunningham</name>
+    </item>
+    <item index="1">
+      <photo>http://image.tmdb.org/t/p/original/kSrfI3TbMdIMmPVOflLQ56OfscB.jpg</photo>
+      <role/>
+      <name>Peter Jackson</name>
+    </item>
+    <item index="2">
+      <photo>http://image.tmdb.org/t/p/original/roXPta5fAmGzqdOIvUQbDavZy8Y.jpg</photo>
+      <role/>
+      <name>Fran Walsh</name>
+    </item>
+    <item index="3">
+      <photo/>
+      <role/>
+      <name>Zane Weiner</name>
+    </item>
+  </producers>
+  <rating>6.5</rating>
+  <rating_image>rottentomatoes://image.rating.ripe</rating_image>
+  <audience_rating>8.3</audience_rating>
+  <audience_rating_image>rottentomatoes://image.rating.upright</audience_rating_image>
+  <reviews>
+    <item index="0">
+      <text>It frequently seems as though Jackson was less interested in making The Hobbit than in remaking his own fabulously successful Lord of the Rings series.</text>
+      <source>The Atlantic</source>
+      <image>rottentomatoes://image.review.rotten</image>
+      <link>http://www.theatlantic.com/entertainment/archive/2012/12/the-oversized-ambitions-of-the-hobbit/266256/</link>
+      <author>Christopher Orr</author>
+    </item>
+    <item index="1">
+      <text>My first thought in watching The Hobbit was: Do we really need this movie? It was my last thought, too.</text>
+      <source>Christian Science Monitor</source>
+      <image>rottentomatoes://image.review.rotten</image>
+      <link>http://www.csmonitor.com/The-Culture/Movies/2012/1214/The-Hobbit-An-Unexpected-Journey-Is-it-really-necessary</link>
+      <author>Peter Rainer</author>
+    </item>
+    <item index="2">
+      <text>There's no denying the majesty in Peter Jackson's visuals but he's taken a relatively slim children's book and stretched it beyond the limits.</text>
+      <source>Richard Roeper.com</source>
+      <image>rottentomatoes://image.review.rotten</image>
+      <link>http://www.richardroeper.com/reviews/thehobbitanunexpectedjourney.aspx</link>
+      <author>Richard Roeper</author>
+    </item>
+    <item index="3">
+      <text>The repeated iterations of fight, flight and respite here get wearing. Especially perhaps because, with Jackson's fetish for detail, they take more time to watch on screen than to read about.</text>
+      <source>Globe and Mail</source>
+      <image>rottentomatoes://image.review.rotten</image>
+      <link>http://www.theglobeandmail.com/arts/film/film-reviews/the-hobbit-an-epic-adventure-thats-hard-on-the-eyes/article6326856/</link>
+      <author>Liam Lacey</author>
+    </item>
+    <item index="4">
+      <text>"The Hobbit: An Unexpected Journey" has finally arrived, not on wings of gossamer fancy but with a hairy-footed thud.</text>
+      <source>Washington Post</source>
+      <image>rottentomatoes://image.review.rotten</image>
+      <link>http://www.washingtonpost.com/gog/movies/the-hobbit-an-unexpected-journey-an-imax-3d-experience-in-hfr,1244311/critic-review.html</link>
+      <author>Ann Hornaday</author>
+    </item>
+    <item index="5">
+      <text>An overlong adventure enlivened by wonders.</text>
+      <source>Wall Street Journal</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>http://online.wsj.com/article/SB10001424127887324481204578177191746934894.html</link>
+      <author>Joe Morgenstern</author>
+    </item>
+    <item index="6">
+      <text>An Unexpected Journey is a major comedown, a muddle-headed and cumbersome piece of filmmaking that betrays Jackson's mercenary motives -- Tolkien's book, too.</text>
+      <source>CNN.com</source>
+      <image>rottentomatoes://image.review.rotten</image>
+      <link>http://www.cnn.com/2012/12/13/showbiz/movies/the-hobbit-review-charity/?hpt=en_c1</link>
+      <author>Tom Charity</author>
+    </item>
+    <item index="7">
+      <text>If you loved the earlier films, these are moments you will hold on to, but they're very few, and they're not enough.</text>
+      <source>San Francisco Chronicle</source>
+      <image>rottentomatoes://image.review.rotten</image>
+      <link>http://www.sfgate.com/entertainment/article/The-Hobbit-review-Chore-of-the-Rings-4116150.php</link>
+      <author>Mick LaSalle</author>
+    </item>
+    <item index="8">
+      <text>Part One of director Peter Jackson's planned film trilogy of J.R.R. Tolkien's The Hobbit forces audiences to run an obstacle course before the fun kicks in.</text>
+      <source>Rolling Stone</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>http://www.rollingstone.com/movies/reviews/the-hobbit-an-unexpected-journey-20121213</link>
+      <author>Peter Travers</author>
+    </item>
+    <item index="9">
+      <text>Between its lighter tone and a decade's worth of improvements in digital film techniques, there should be enough of a novelty factor to delight most fans.</text>
+      <source>NPR</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>http://www.npr.org/2012/12/13/166063975/a-hobbit-off-on-his-unhurried-journey?ft=1&amp;f=1045</link>
+      <author>Bob Mondello</author>
+    </item>
+    <item index="10">
+      <text>I was impressed with how much of the story's good humor Jackson and Co. manage to weave into the spectacle. It's there in the close shave with a gang of hungry trolls, and it really lifts off once Andy Serkis' uncanny Gollum enters the picture.</text>
+      <source>Dallas Morning News</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>http://www.dallasnews.com/entertainment/movies/reviews/20121213-occasionally-a-slog-the-hobbit-also-has-a-fair-amount-of-charm-b.ece</link>
+      <author>Chris Vognar</author>
+    </item>
+    <item index="11">
+      <text>The last hour of this movie is pretty much nonstop, and it's a gas.</text>
+      <source>Detroit News</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>http://www.detroitnews.com/article/20121213/OPINION03/212130302/1034/ent02/Review-Unfocused-Hobbit-takes-its-time-getting-roller-coaster</link>
+      <author>Tom Long</author>
+    </item>
+    <item index="12">
+      <text>Little about the storytelling suggests a beating heart beneath the visuals; once the journey has begun, the characters find themselves in life-threatening danger with stupefying regularity.</text>
+      <source>Chicago Reader</source>
+      <image>rottentomatoes://image.review.rotten</image>
+      <link>http://www.chicagoreader.com/chicago/the-hobbit-an-unexpected-journey-3d/Film?oid=7866905</link>
+      <author>Ben Sachs</author>
+    </item>
+    <item index="13">
+      <text>This is not about a reluctant hero drawing courage from some deep personal well. It's not about dread and danger. It's about visual effects.</text>
+      <source>Philadelphia Inquirer</source>
+      <image>rottentomatoes://image.review.rotten</image>
+      <link>http://www.philly.com/philly/entertainment/movies/20121213_The_Hobbit__An_Unexpected_Journey__What_happened_to_the_magic_.html</link>
+      <author>Steven Rea</author>
+    </item>
+    <item index="14">
+      <text>"The Hobbit: An Unexpected Journey" is not the worst film of the year, but it may be the most disappointing.</text>
+      <source>Minneapolis Star Tribune</source>
+      <image>rottentomatoes://image.review.rotten</image>
+      <link>http://www.startribune.com/entertainment/movies/183364261.html?refer=y</link>
+      <author>Colin Covert</author>
+    </item>
+    <item index="15">
+      <text>I'm afraid that whoever it was in the New York Film Critics Circle who voted for "The Hobbit" as best animated film had a point. And so did the people who suspected that this whole thing was a bad idea.</text>
+      <source>Salon.com</source>
+      <image>rottentomatoes://image.review.rotten</image>
+      <link>http://www.salon.com/2012/12/13/the_hobbit_middle_earth_faces_a_phantom_menace/</link>
+      <author>Andrew O'Hehir</author>
+    </item>
+    <item index="16">
+      <text>The film is worthy of both your attention and of the Tolkien legendarium in which Jackson, his actors and his Weta Workshop technical crew are so firmly situated.</text>
+      <source>Toronto Star</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>http://www.thestar.com/entertainment/movies/article/1300716--the-hobbit-review-an-unexpected-epic-with-footnotes</link>
+      <author>Peter Howell</author>
+    </item>
+  </reviews>
+  <roles>
+    <item index="0">
+      <photo>http://image.tmdb.org/t/p/original/ashlWz2KDQTbo8NPUbVOwcB3zXJ.jpg</photo>
+      <role>Bilbo</role>
+      <name>Martin Freeman</name>
+    </item>
+    <item index="1">
+      <photo>http://image.tmdb.org/t/p/original/coWjgMEYJjk2OrNddlXCBm8EIr3.jpg</photo>
+      <role>Gandalf</role>
+      <name>Ian McKellen</name>
+    </item>
+    <item index="2">
+      <photo>http://image.tmdb.org/t/p/original/m20NkRrJ5sLrteiCcXJKxGXMCso.jpg</photo>
+      <role>Thorin</role>
+      <name>Richard Armitage</name>
+    </item>
+    <item index="3">
+      <photo>http://image.tmdb.org/t/p/original/eNGqhebQ4cDssjVeNFrKtUvweV5.jpg</photo>
+      <role>Gollum</role>
+      <name>Andy Serkis</name>
+    </item>
+    <item index="4">
+      <photo>http://image.tmdb.org/t/p/original/eE98pTm0Q2xIn0710VBC603IE5Q.jpg</photo>
+      <role>Galadriel</role>
+      <name>Cate Blanchett</name>
+    </item>
+    <item index="5">
+      <photo>http://image.tmdb.org/t/p/original/aVzp6zflzedmdKPLxaPqcZ05PDK.jpg</photo>
+      <role>Saruman</role>
+      <name>Christopher Lee</name>
+    </item>
+    <item index="6">
+      <photo>http://image.tmdb.org/t/p/original/ysED1kp94bpnweNVaDoVQQ6iy8X.jpg</photo>
+      <role>Elrond</role>
+      <name>Hugo Weaving</name>
+    </item>
+    <item index="7">
+      <photo>http://image.tmdb.org/t/p/original/wz3MRiMmoz6b5X3oSzMRC9nLxY1.jpg</photo>
+      <role>Necromancer</role>
+      <name>Benedict Cumberbatch</name>
+    </item>
+    <item index="8">
+      <photo>http://image.tmdb.org/t/p/original/k3cTzbPHmSmGPzVC3zSOWskVLTo.jpg</photo>
+      <role>Radagast</role>
+      <name>Sylvester McCoy</name>
+    </item>
+    <item index="9">
+      <photo>http://image.tmdb.org/t/p/original/27SAk1v043GdOeAxT5pPoMUYhGg.jpg</photo>
+      <role>Older Bilbo</role>
+      <name>Ian Holm</name>
+    </item>
+    <item index="10">
+      <photo>http://image.tmdb.org/t/p/original/hHzLAVspGGuPg1KW5JAEsyRvnUT.jpg</photo>
+      <role>Frodo</role>
+      <name>Elijah Wood</name>
+    </item>
+    <item index="11">
+      <photo>http://image.tmdb.org/t/p/original/7ZThizJB7FLoUNl2V8fqG08rVyv.jpg</photo>
+      <role>Balin</role>
+      <name>Ken Stott</name>
+    </item>
+    <item index="12">
+      <photo>http://image.tmdb.org/t/p/original/eqxR4TGXcY0vLLqR5RkfgVXBgrS.jpg</photo>
+      <role>Dwalin</role>
+      <name>Graham McTavish</name>
+    </item>
+    <item index="13">
+      <photo>http://image.tmdb.org/t/p/original/lJFfJeCKRD1h9cvBK6Dla03B42J.jpg</photo>
+      <role>Kili</role>
+      <name>Aidan Turner</name>
+    </item>
+    <item index="14">
+      <photo>http://image.tmdb.org/t/p/original/lSXxMaASqm9TfnKaDNaxolEOW3A.jpg</photo>
+      <role>Fili</role>
+      <name>Dean O'Gorman</name>
+    </item>
+    <item index="15">
+      <photo>http://image.tmdb.org/t/p/original/k6JoHrkyGMH0b13yZxtLKtW1npz.jpg</photo>
+      <role>Oin</role>
+      <name>John Callen</name>
+    </item>
+    <item index="16">
+      <photo>http://image.tmdb.org/t/p/original/jcsOAVVLyAnJpnZRAWoGtuI4nlk.jpg</photo>
+      <role>Gloin</role>
+      <name>Peter Hambleton</name>
+    </item>
+    <item index="17">
+      <photo>http://image.tmdb.org/t/p/original/qNBpe4BKgKrLF6yZrCtCjFMRFJv.jpg</photo>
+      <role>Dori</role>
+      <name>Mark Hadlow</name>
+    </item>
+    <item index="18">
+      <photo>http://image.tmdb.org/t/p/original/fwW8QetiTgvGH9Dxj8sDtQUr2hB.jpg</photo>
+      <role>Nori</role>
+      <name>Jed Brophy</name>
+    </item>
+    <item index="19">
+      <photo>http://image.tmdb.org/t/p/original/54iHvIA8ZTNfvKpb2ZxRY73A5MZ.jpg</photo>
+      <role>Ori</role>
+      <name>Adam Brown</name>
+    </item>
+    <item index="20">
+      <photo>http://image.tmdb.org/t/p/original/pgSkxH8LeJhNWKwG3D5690ZTLbs.jpg</photo>
+      <role>Bifur/Tom Troll</role>
+      <name>William Kircher</name>
+    </item>
+    <item index="21">
+      <photo>http://image.tmdb.org/t/p/original/n9NorD6bQfFJlW4IcJ6WoGiAKcR.jpg</photo>
+      <role>Bofur</role>
+      <name>James Nesbitt</name>
+    </item>
+    <item index="22">
+      <photo>http://image.tmdb.org/t/p/original/xGKavu5mcGBOQMSawk9voZeEzN6.jpg</photo>
+      <role>Bombur</role>
+      <name>Stephen Hunter</name>
+    </item>
+    <item index="23">
+      <photo>http://image.tmdb.org/t/p/original/93N1awB9SAUgXTejEFCXUDfi6hP.jpg</photo>
+      <role>Thranduil</role>
+      <name>Lee Pace</name>
+    </item>
+    <item index="24">
+      <photo>http://image.tmdb.org/t/p/original/8mlrCTSXDInF15w6CO4IYgbPKg7.jpg</photo>
+      <role>Bolg</role>
+      <name>Conan Stevens</name>
+    </item>
+    <item index="25">
+      <photo>http://image.tmdb.org/t/p/original/tEP4b5bTpSxJUHOYItg5xrZh43F.jpg</photo>
+      <role>Lindir</role>
+      <name>Bret McKenzie</name>
+    </item>
+    <item index="26">
+      <photo>http://image.tmdb.org/t/p/original/ccJHmzU8wzOe4sAmeVeScu5mygl.jpg</photo>
+      <role>Great Goblin</role>
+      <name>Barry Humphries</name>
+    </item>
+    <item index="27">
+      <photo>http://image.tmdb.org/t/p/original/vLO7WJKnAxDV6IBH8fBAmsTnmzI.jpg</photo>
+      <role>King Thror</role>
+      <name>Jeffrey Thomas</name>
+    </item>
+    <item index="28">
+      <photo>http://image.tmdb.org/t/p/original/8mU0TgK5z15yXGDatbU9O51Ir5g.jpg</photo>
+      <role>Bain</role>
+      <name>John Bell</name>
+    </item>
+    <item index="29">
+      <photo>http://image.tmdb.org/t/p/original/r9P5l3CgpqpEr4ATbv8AMFqOiF.jpg</photo>
+      <role>Azog</role>
+      <name>Manu Bennett</name>
+    </item>
+    <item index="30">
+      <photo>http://image.tmdb.org/t/p/original/7e1rVdJah2r0DaMpovrhbR2dHPS.jpg</photo>
+      <role>Dain</role>
+      <name>Billy Connolly</name>
+    </item>
+    <item index="31">
+      <photo>http://image.tmdb.org/t/p/original/jcCb9u4sGJbpf5kWUCQmTDcOH0e.jpg</photo>
+      <role>Goblin (uncredited)</role>
+      <name>Tim McLachlan</name>
+    </item>
+    <item index="32">
+      <photo>http://image.tmdb.org/t/p/original/hIwDLupV2EOi6EqpHa1DNjrNRZU.jpg</photo>
+      <role>Goblin (uncredited)</role>
+      <name>Terry Notary</name>
+    </item>
+  </roles>
+  <similar>
+    <item index="0">The Hobbit: The Desolation of Smaug</item>
+    <item index="1">The Hobbit: The Battle of the Five Armies</item>
+    <item index="2">The Lord of the Rings: The Return of the King</item>
+    <item index="3">The Lord of the Rings: The Two Towers</item>
+    <item index="4">The Lord of the Rings: The Fellowship of the Ring</item>
+    <item index="5">The Dark Knight Rises</item>
+    <item index="6">Skyfall</item>
+    <item index="7">Star Trek Into Darkness</item>
+    <item index="8">Pirates of the Caribbean: On Stranger Tides</item>
+    <item index="9">Iron Man 3</item>
+    <item index="10">Man of Steel</item>
+    <item index="11">Star Trek</item>
+    <item index="12">Pirates of the Caribbean: At World's End</item>
+    <item index="13">Pirates of the Caribbean: Dead Man's Chest</item>
+    <item index="14">Sherlock Holmes: A Game of Shadows</item>
+    <item index="15">X-Men: First Class</item>
+    <item index="16">The Amazing Spider-Man</item>
+    <item index="17">Star Wars: Episode III - Revenge of the Sith</item>
+    <item index="18">Prometheus</item>
+    <item index="19">Star Wars: Episode II - Attack of the Clones</item>
+  </similar>
+  <studio>WingNut Films</studio>
+  <summary>Bilbo Baggins, a hobbit enjoying his quiet life, is swept into an epic quest by Gandalf the Grey and thirteen dwarves who seek to reclaim their mountain home from Smaug, the dragon.</summary>
+  <tagline>From the smallest beginnings come the greatest legends.</tagline>
+  <tags/>
+  <themes/>
+  <title>The Hobbit: An Unexpected Journey</title>
+  <writers>
+    <item index="0">
+      <photo>http://image.tmdb.org/t/p/original/roXPta5fAmGzqdOIvUQbDavZy8Y.jpg</photo>
+      <role/>
+      <name>Fran Walsh</name>
+    </item>
+    <item index="1">
+      <photo>http://image.tmdb.org/t/p/original/keVPZy02zLh2BEUPkZivJrh6o6U.jpg</photo>
+      <role/>
+      <name>Philippa Boyens</name>
+    </item>
+    <item index="2">
+      <photo>http://image.tmdb.org/t/p/original/kSrfI3TbMdIMmPVOflLQ56OfscB.jpg</photo>
+      <role/>
+      <name>Peter Jackson</name>
+    </item>
+    <item index="3">
+      <photo>http://image.tmdb.org/t/p/original/aBPPwt3jcFw2ridEkKTgchfPaic.jpg</photo>
+      <role/>
+      <name>Guillermo del Toro</name>
+    </item>
+  </writers>
+  <year>2012</year>
+</Movie>

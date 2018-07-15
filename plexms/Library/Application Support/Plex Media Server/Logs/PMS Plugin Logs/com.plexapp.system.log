@@ -1,0 +1,299 @@
+2018-07-14 22:34:43,937 (7f4d9fc4e700) :  INFO (core:349) - Starting framework core - Version: 2.6.3, Build: fd05be3 (Fri Jun 08 17:33:50 UTC 2018)
+2018-07-14 22:34:43,937 (7f4d9fc4e700) :  DEBUG (core:361) - Using the elevated policy
+2018-07-14 22:34:43,937 (7f4d9fc4e700) :  DEBUG (core:365) - Extending whitelist: ['cgi', 'tempfile']
+2018-07-14 22:34:43,937 (7f4d9fc4e700) :  DEBUG (core:450) - Starting runtime component.
+2018-07-14 22:34:43,939 (7f4d9fc4e700) :  DEBUG (core:450) - Starting caching component.
+2018-07-14 22:34:43,939 (7f4d9fc4e700) :  DEBUG (core:450) - Starting data component.
+2018-07-14 22:34:43,939 (7f4d9fc4e700) :  DEBUG (core:450) - Starting networking component.
+2018-07-14 22:34:43,939 (7f4d9fc4e700) :  DEBUG (networking:284) - Loaded HTTP cookies
+2018-07-14 22:34:43,940 (7f4d9fc4e700) :  DEBUG (networking:452) - Setting the default network timeout to 20.0
+2018-07-14 22:34:43,940 (7f4d9fc4e700) :  DEBUG (core:450) - Starting localization component.
+2018-07-14 22:34:43,940 (7f4d9fc4e700) :  INFO (localization:409) - Setting the default locale to en-us
+2018-07-14 22:34:43,940 (7f4d9fc4e700) :  DEBUG (localization:427) - Loaded en strings
+2018-07-14 22:34:43,940 (7f4d9fc4e700) :  DEBUG (core:450) - Starting messaging component.
+2018-07-14 22:34:43,940 (7f4d9fc4e700) :  DEBUG (core:450) - Starting debugging component.
+2018-07-14 22:34:43,941 (7f4d9fc4e700) :  DEBUG (core:450) - Starting services component.
+2018-07-14 22:34:43,941 (7f4d9fc4e700) :  DEBUG (core:450) - Starting myplex component.
+2018-07-14 22:34:43,941 (7f4d9fc4e700) :  DEBUG (core:450) - Starting notifications component.
+2018-07-14 22:34:44,017 (7f4d9fc4e700) :  DEBUG (accessor:68) - Creating a new model access point for provider com.plexapp.system in namespace 'metadata'
+2018-07-14 22:34:44,024 (7f4d77fff700) :  DEBUG (services:265) - Plug-in is not daemonized - loading services from system
+2018-07-14 22:34:44,024 (7f4d9fc4e700) :  DEBUG (runtime:1117) - Created a thread named 'load_all_services'
+2018-07-14 22:34:44,025 (7f4d77fff700) :  DEBUG (networking:166) - Requesting 'http://127.0.0.1:32400/:/plugins/com.plexapp.system/messaging/function/X0J1bmRsZVNlcnZpY2U6QWxsU2VydmljZXM_/Y2VyZWFsMQoxCmxpc3QKMApyMAo_/Y2VyZWFsMQoxCmRpY3QKMApyMAo_'
+2018-07-14 22:34:44,026 (7f4d9fc4e700) :  DEBUG (runtime:1117) - Created a thread named 'get_server_info'
+2018-07-14 22:34:44,026 (7f4d9fc4e700) :  DEBUG (core:150) - Finished starting framework core
+2018-07-14 22:34:44,026 (7f4d9fc4e700) :  DEBUG (core:560) - Loading plug-in code
+2018-07-14 22:34:44,026 (7f4d76ffd700) :  DEBUG (networking:166) - Requesting 'http://127.0.0.1:32400'
+2018-07-14 22:34:44,040 (7f4d9fc4e700) :  DEBUG (core:566) - Finished loading plug-in code
+2018-07-14 22:34:44,040 (7f4d9fc4e700) :  DEBUG (runtime:640) - Adding a prefix handler for 'System' ('/system')
+2018-07-14 22:34:44,617 (7f4d9fc4e700) :  INFO (__init__:40) - Starting System fd05be3 (Fri Jun 08 17:33:50 UTC 2018)
+2018-07-14 22:34:44,617 (7f4d9fc4e700) :  DEBUG (runtime:640) - Adding a prefix handler for 'Player' ('/player')
+2018-07-14 22:34:44,621 (7f4d9fc4e700) :  INFO (datakit:93) - Loaded the dictionary file
+2018-07-14 22:34:44,621 (7f4d9fc4e700) :  DEBUG (agentservice:48) - Starting the agent service
+2018-07-14 22:34:44,687 (7f4d9fc4e700) :  DEBUG (accessor:68) - Creating a new model access point for provider com.plexapp.system in namespace 'metadata'
+2018-07-14 22:34:44,691 (7f4d9fc4e700) :  DEBUG (bundleservice:69) - Starting the bundle service
+2018-07-14 22:34:44,691 (7f4d9fc4e700) :  DEBUG (runtime:1117) - Created a thread named 'start'
+2018-07-14 22:34:44,691 (7f4d9fc4e700) :  DEBUG (helpservice:14) - Starting the help service
+2018-07-14 22:34:44,692 (7f4d9fc4e700) :  DEBUG (storeservice:198) - Starting the store service
+2018-07-14 22:34:44,695 (7f4d9fc4e700) :  DEBUG (runtime:1117) - Created a thread named 'start'
+2018-07-14 22:34:44,695 (7f4d9fc4e700) :  DEBUG (installservice:30) - Starting the install service
+2018-07-14 22:34:44,697 (7f4d9fc4e700) :  DEBUG (playerservice:12) - Starting the player service
+2018-07-14 22:34:44,697 (7f4d9fc4e700) :  DEBUG (flagservice:13) - Starting the media flag service
+2018-07-14 22:34:44,698 (7f4d53fff700) :  DEBUG (networking:166) - Requesting 'http://127.0.0.1:32400'
+2018-07-14 22:34:44,698 (7f4d9fc4e700) :  DEBUG (runtime:1117) - Created a thread named 'start'
+2018-07-14 22:34:44,698 (7f4d9fc4e700) :  DEBUG (peerservice:141) - Starting the peer service
+2018-07-14 22:34:44,699 (7f4d9fc4e700) :  DEBUG (runtime:1117) - Created a thread named 'refresh_servers'
+2018-07-14 22:34:44,699 (7f4d52ffd700) :  DEBUG (peerservice:164) - Fetching the current list of servers
+2018-07-14 22:34:44,699 (7f4d52ffd700) :  DEBUG (networking:166) - Requesting 'http://127.0.0.1:32400/servers'
+2018-07-14 22:34:44,700 (7f4d9fc4e700) :  DEBUG (runtime:1150) - Scheduled a timed thread named 'refresh_servers'
+2018-07-14 22:34:44,700 (7f4d9fc4e700) :  DEBUG (streamservice:18) - Starting the stream service
+2018-07-14 22:34:44,700 (7f4d9fc4e700) :  CRITICAL (runtime:709) - Private handlers are no longer supported; couldn't register <bound method StreamService.token_handler of <streamservice.StreamService object at 0x7f4d942c4f10>>
+2018-07-14 22:34:44,700 (7f4d9fc4e700) :  DEBUG (runtime:1150) - Scheduled a timed thread named 'invalidation_timer'
+2018-07-14 22:34:44,700 (7f4d9fc4e700) :  DEBUG (proxyservice:12) - Starting the proxy service
+2018-07-14 22:34:44,701 (7f4d9fc4e700) :  DEBUG (runtime:1117) - Created a thread named 'update_attribution_flags_inner'
+2018-07-14 22:34:44,701 (7f4d9fc4e700) :  INFO (core:611) - Started plug-in
+2018-07-14 22:34:44,701 (7f4d9fc4e700) :  DEBUG (socketinterface:160) - Starting socket server
+2018-07-14 22:34:44,702 (7f4d9fc4e700) :  DEBUG (runtime:1117) - Created a thread named 'start'
+2018-07-14 22:34:44,702 (7f4d9fc4e700) :  INFO (socketinterface:184) - Socket server started on port 35577
+2018-07-14 22:34:44,702 (7f4d9fc4e700) :  INFO (pipeinterface:25) - Entering run loop
+2018-07-14 22:34:44,702 (7f4d9fc4e700) :  DEBUG (runtime:717) - Handling request GET /:/prefixes
+2018-07-14 22:34:44,703 (7f4d9fc4e700) :  DEBUG (runtime:814) - Found route matching /:/prefixes
+2018-07-14 22:34:44,704 (7f4d9fc4e700) :  DEBUG (runtime:924) - Response: [200] MediaContainer, 486 bytes
+2018-07-14 22:34:44,705 (7f4d7523a700) :  DEBUG (runtime:1117) - Created a thread named 'ensure_agent_info_exists_inner'
+2018-07-14 22:34:44,706 (7f4d7523a700) :  DEBUG (runtime:1117) - Created a thread named 'ensure_agent_info_exists_inner'
+2018-07-14 22:34:44,707 (7f4d7523a700) :  DEBUG (runtime:1117) - Created a thread named 'ensure_agent_info_exists_inner'
+2018-07-14 22:34:44,708 (7f4d7523a700) :  DEBUG (runtime:1117) - Created a thread named 'ensure_agent_info_exists_inner'
+2018-07-14 22:34:44,709 (7f4d7523a700) :  DEBUG (runtime:1117) - Created a thread named 'ensure_agent_info_exists_inner'
+2018-07-14 22:34:44,709 (7f4d7523a700) :  DEBUG (runtime:1117) - Created a thread named 'ensure_agent_info_exists_inner'
+2018-07-14 22:34:44,710 (7f4d7523a700) :  DEBUG (runtime:1117) - Created a thread named 'ensure_agent_info_exists_inner'
+2018-07-14 22:34:44,710 (7f4d7523a700) :  DEBUG (runtime:1117) - Created a thread named 'ensure_agent_info_exists_inner'
+2018-07-14 22:34:44,711 (7f4d7523a700) :  DEBUG (runtime:1117) - Created a thread named 'ensure_agent_info_exists_inner'
+2018-07-14 22:34:44,711 (7f4d7523a700) :  DEBUG (runtime:1117) - Created a thread named 'ensure_agent_info_exists_inner'
+2018-07-14 22:34:44,712 (7f4d7523a700) :  DEBUG (runtime:1117) - Created a thread named 'ensure_agent_info_exists_inner'
+2018-07-14 22:34:44,713 (7f4d7523a700) :  DEBUG (runtime:1117) - Created a thread named 'ensure_agent_info_exists_inner'
+2018-07-14 22:34:44,714 (7f4d7523a700) :  DEBUG (runtime:1117) - Created a thread named 'ensure_agent_info_exists_inner'
+2018-07-14 22:34:44,733 (7f4d74a39700) :  DEBUG (runtime:717) - Handling request GET /system/agents
+2018-07-14 22:34:44,735 (7f4d7523a700) :  DEBUG (runtime:1117) - Created a thread named 'remove_unavailable_agents'
+2018-07-14 22:34:44,735 (7f4d7523a700) :  DEBUG (bundleservice:85) - Started the bundle service
+2018-07-14 22:34:44,737 (7f4d517fa700) :  INFO (agentservice:121) - Agent info: {'com.plexapp.agents.fanarttv': [{'media_types': ['Movie'], 'primary_provider': False, 'fallback_agent': None, 'contributes_to': ['com.plexapp.agents.imdb', 'com.plexapp.agents.themoviedb'], 'has_attribution': True, 'languages': ['xn'], 'persist_stored_files': True, 'version': 0, 'accepts_from': None, 'prefs': True, 'name': 'Fanart.tv'}, {'media_types': ['TV_Show'], 'primary_provider': False, 'fallback_agent': None, 'contributes_to': ['com.plexapp.agents.thetvdb', 'com.plexapp.agents.themoviedb'], 'has_attribution': True, 'languages': ['xn'], 'persist_stored_files': True, 'version': 0, 'accepts_from': None, 'prefs': True, 'name': 'Fanart.tv'}, {'media_types': ['Artist'], 'primary_provider': False, 'fallback_agent': None, 'contributes_to': ['com.plexapp.agents.lastfm'], 'has_attribution': True, 'languages': ['xn'], 'persist_stored_files': True, 'version': 0, 'accepts_from': None, 'prefs': True, 'name': 'Fanart.tv'}, {'media_types': ['Album'], 'primary_provider': False, 'fallback_agent': None, 'contributes_to': ['com.plexapp.agents.lastfm'], 'has_attribution': True, 'languages': ['xn'], 'persist_stored_files': True, 'version': 0, 'accepts_from': None, 'prefs': True, 'name': 'Fanart.tv'}], 'com.plexapp.agents.none': [{'media_types': ['Movie'], 'primary_provider': True, 'fallback_agent': None, 'contributes_to': None, 'has_attribution': False, 'languages': ['xn'], 'persist_stored_files': True, 'version': 0, 'accepts_from': None, 'prefs': False, 'name': 'Personal Media'}, {'media_types': ['TV_Show'], 'primary_provider': True, 'fallback_agent': None, 'contributes_to': None, 'has_attribution': False, 'languages': ['xn'], 'persist_stored_files': True, 'version': 0, 'accepts_from': None, 'prefs': False, 'name': 'Personal Media Shows'}, {'media_types': ['Artist'], 'primary_provider': True, 'fallback_agent': None, 'contributes_to': None, 'has_attribution': False, 'languages': ['xn'], 'persist_stored_files': True, 'version': 0, 'accepts_from': None, 'prefs': False, 'name': 'Personal Media Artists'}, {'media_types': ['Album'], 'primary_provider': True, 'fallback_agent': None, 'contributes_to': None, 'has_attribution': False, 'languages': ['xn'], 'persist_stored_files': True, 'version': 0, 'accepts_from': None, 'prefs': False, 'name': 'Personal Media Albums'}, {'media_types': ['Photo'], 'primary_provider': True, 'fallback_agent': None, 'contributes_to': None, 'has_attribution': False, 'languages': ['en', 'ar', 'bg', 'ca', 'cs', 'cy', 'da', 'de', 'el', 'es', 'et', 'fa', 'fi', 'fr', 'he', 'hi', 'hr', 'ht', 'hu', 'id', 'it', 'ja', 'ko', 'lt', 'lv', 'ms', 'mt', 'nl', 'no', 'pl', 'pt', 'ro', 'ru', 'sk', 'sv', 'sl', 'sr', 'th', 'tr', 'uk', 'ur', 'vi', 'zh', 'xn'], 'persist_stored_files': True, 'version': 0, 'accepts_from': None, 'prefs': False, 'name': 'Photos'}], 'com.plexapp.agents.plexmusic': [{'media_types': ['Artist'], 'primary_provider': True, 'fallback_agent': None, 'contributes_to': ['com.plexapp.agents.localmedia'], 'has_attribution': True, 'languages': ['en', 'ar', 'bg', 'zh', 'hr', 'cs', 'da', 'nl', 'fi', 'fr', 'de', 'el', 'hu', 'id', 'it', 'ja', 'ko', 'nn', 'pl', 'pt', 'ro', 'ru', 'sr', 'sk', 'es', 'sv', 'th', 'tr', 'vi'], 'persist_stored_files': True, 'version': 0, 'accepts_from': None, 'prefs': True, 'name': 'Plex Premium Music'}, {'media_types': ['Album'], 'primary_provider': True, 'fallback_agent': None, 'contributes_to': ['com.plexapp.agents.localmedia'], 'has_attribution': True, 'languages': ['en', 'ar', 'bg', 'zh', 'hr', 'cs', 'da', 'nl', 'fi', 'fr', 'de', 'el', 'hu', 'id', 'it', 'ja', 'ko', 'nn', 'pl', 'pt', 'ro', 'ru', 'sr', 'sk', 'es', 'sv', 'th', 'tr', 'vi'], 'persist_stored_files': True, 'version': 0, 'accepts_from': None, 'prefs': True, 'name': 'Plex Premium Music'}], 'com.plexapp.agents.htbackdrops': [{'media_types': ['Artist'], 'primary_provider': False, 'fallback_agent': None, 'contributes_to': ['com.plexapp.agents.lastfm'], 'has_attribution': True, 'languages': ['ab', 'aa', 'af', 'ak', 'sq', 'am', 'ar', 'an', 'hy', 'as', 'av', 'ae', 'ay', 'az', 'bm', 'ba', 'eu', 'be', 'bn', 'bh', 'bi', 'bs', 'pb', 'br', 'bg', 'my', 'ca', 'ch', 'ce', 'ny', 'zh', 'cu', 'cv', 'kw', 'co', 'cr', 'hr', 'cs', 'da', 'dv', 'nl', 'dz', 'en', 'eo', 'et', 'ee', 'fo', 'fj', 'fi', 'fr', 'fy', 'ff', 'gd', 'gl', 'lg', 'ka', 'de', 'el', 'gn', 'gu', 'ht', 'ha', 'he', 'hz', 'hi', 'ho', 'hu', 'is', 'io', 'ig', 'id', 'ia', 'ie', 'iu', 'ik', 'ga', 'it', 'ja', 'jv', 'kl', 'kn', 'kr', 'ks', 'kk', 'km', 'ki', 'rw', 'ky', 'kv', 'kg', 'ko', 'kj', 'ku', 'lo', 'la', 'lv', 'li', 'ln', 'lt', 'lu', 'lb', 'mk', 'mg', 'ms', 'ml', 'mt', 'gv', 'mi', 'mr', 'mh', 'mo', 'mn', 'na', 'nv', 'ng', 'ne', 'xn', 'nd', 'no', 'nb', 'nn', 'oc', 'oj', 'or', 'om', 'os', 'pi', 'pa', 'fa', 'pl', 'pt', 'ps', 'qu', 'rm', 'ro', 'rn', 'ru', 'se', 'sm', 'sg', 'sa', 'sc', 'sr', 'sn', 'ii', 'sd', 'si', 'sk', 'sl', 'so', 'st', 'nr', 'es', 'su', 'sw', 'ss', 'sv', 'tl', 'ty', 'tg', 'ta', 'tt', 'te', 'th', 'bo', 'ti', 'to', 'ts', 'tn', 'tr', 'tk', 'tw', 'ug', 'uk', 'ur', 'uz', 've', 'vi', 'vo', 'wa', 'cy', 'wo', 'xh', 'yi', 'yo', 'za', 'zu'], 'persist_stored_files': True, 'version': 0, 'accepts_from': None, 'prefs': False, 'name': 'Home Theater Backdrops'}], 'com.plexapp.agents.imdb': [{'media_types': ['Movie'], 'accepts_from': ['com.plexapp.agents.localmedia'], 'fallback_agent': None, 'contributes_to': ['com.plexapp.agents.themoviedb'], 'has_attribution': True, 'languages': ['en', 'sv', 'fr', 'es', 'nl', 'de', 'it', 'da', 'ar', 'ca', 'zh', 'cs', 'et', 'fi', 'el', 'he', 'hi', 'hu', 'id', 'ja', 'ko', 'lv', 'no', 'fa', 'pl', 'pt', 'ro', 'ru', 'sk', 'th', 'tr', 'uk', 'vi'], 'persist_stored_files': True, 'version': 0, 'primary_provider': True, 'prefs': True, 'name': 'Plex Movie'}], 'com.plexapp.agents.lyricfind': [{'media_types': ['Album'], 'primary_provider': False, 'fallback_agent': None, 'contributes_to': ['com.plexapp.agents.plexmusic', 'com.plexapp.agents.localmedia', 'com.plexapp.agents.lastfm'], 'has_attribution': True, 'languages': ['xn'], 'persist_stored_files': True, 'version': 0, 'accepts_from': None, 'prefs': False, 'name': 'LyricFind'}], 'com.plexapp.agents.thetvdb': [{'media_types': ['TV_Show'], 'primary_provider': True, 'fallback_agent': None, 'contributes_to': None, 'has_attribution': True, 'languages': ['en', 'fr', 'zh', 'sv', 'no', 'da', 'fi', 'nl', 'de', 'it', 'es', 'pl', 'hu', 'el', 'tr', 'ru', 'he', 'ja', 'pt', 'cs', 'ko', 'sl', 'hr'], 'persist_stored_files': True, 'version': 0, 'accepts_from': None, 'prefs': True, 'name': 'TheTVDB'}], 'com.plexapp.agents.lastfm': [{'media_types': ['Artist'], 'primary_provider': True, 'fallback_agent': None, 'contributes_to': None, 'has_attribution': True, 'languages': ['en', 'sv', 'fr', 'es', 'de', 'pl', 'it', 'pt', 'ja', 'tr', 'ru', 'zh'], 'persist_stored_files': True, 'version': 0, 'accepts_from': None, 'prefs': True, 'name': 'Last.fm'}, {'media_types': ['Album'], 'primary_provider': True, 'fallback_agent': None, 'contributes_to': None, 'has_attribution': True, 'languages': ['en', 'sv', 'fr', 'es', 'de', 'pl', 'it', 'pt', 'ja', 'tr', 'ru', 'zh'], 'persist_stored_files': True, 'version': 0, 'accepts_from': None, 'prefs': True, 'name': 'Last.fm'}], 'com.plexapp.agents.themoviedb': [{'media_types': ['Movie'], 'primary_provider': True, 'fallback_agent': None, 'contributes_to': None, 'has_attribution': True, 'languages': ['en', 'cs', 'da', 'de', 'el', 'es', 'fi', 'fr', 'he', 'hr', 'hu', 'it', 'lv', 'lt', 'nl', 'no', 'pl', 'pt', 'ru', 'sk', 'sv', 'th', 'tr', 'vi', 'zh', 'ko'], 'persist_stored_files': True, 'version': 0, 'accepts_from': ['com.plexapp.agents.localmedia'], 'prefs': True, 'name': 'The Movie Database'}, {'media_types': ['TV_Show'], 'primary_provider': True, 'fallback_agent': None, 'contributes_to': ['com.plexapp.agents.thetvdb'], 'has_attribution': True, 'languages': ['en', 'cs', 'da', 'de', 'el', 'es', 'fi', 'fr', 'he', 'hr', 'hu', 'it', 'lv', 'lt', 'nl', 'no', 'pl', 'pt', 'ru', 'sk', 'sv', 'th', 'tr', 'vi', 'zh', 'ko'], 'persist_stored_files': True, 'version': 0, 'accepts_from': ['com.plexapp.agents.localmedia', 'com.plexapp.agents.thetvdb'], 'prefs': True, 'name': 'The Movie Database'}], 'com.plexapp.agents.opensubtitles': [{'media_types': ['Movie'], 'primary_provider': False, 'fallback_agent': None, 'contributes_to': ['com.plexapp.agents.imdb'], 'has_attribution': False, 'languages': ['xn'], 'persist_stored_files': True, 'version': 0, 'accepts_from': None, 'prefs': True, 'name': 'OpenSubtitles.org'}, {'media_types': ['TV_Show'], 'primary_provider': False, 'fallback_agent': None, 'contributes_to': ['com.plexapp.agents.thetvdb'], 'has_attribution': False, 'languages': ['xn'], 'persist_stored_files': True, 'version': 0, 'accepts_from': None, 'prefs': True, 'name': 'OpenSubtitles.org'}], 'com.plexapp.agents.movieposterdb': [{'media_types': ['Movie'], 'primary_provider': False, 'fallback_agent': None, 'contributes_to': ['com.plexapp.agents.imdb'], 'has_attribution': True, 'languages': ['xn'], 'persist_stored_files': True, 'version': 0, 'accepts_from': None, 'prefs': False, 'name': 'CineMaterial'}], 'com.plexapp.agents.localmedia': [{'media_types': ['Movie'], 'primary_provider': False, 'fallback_agent': None, 'contributes_to': ['com.plexapp.agents.imdb', 'com.plexapp.agents.none'], 'has_attribution': False, 'languages': ['xn'], 'persist_stored_files': False, 'version': 0, 'accepts_from': None, 'prefs': True, 'name': 'Local Media Assets (Movies)'}, {'media_types': ['TV_Show'], 'primary_provider': False, 'fallback_agent': None, 'contributes_to': ['com.plexapp.agents.thetvdb', 'com.plexapp.agents.none'], 'has_attribution': False, 'languages': ['xn'], 'persist_stored_files': False, 'version': 0, 'accepts_from': None, 'prefs': True, 'name': 'Local Media Assets (TV)'}, {'media_types': ['Artist'], 'primary_provider': False, 'fallback_agent': None, 'contributes_to': ['com.plexapp.agents.discogs', 'com.plexapp.agents.lastfm', 'com.plexapp.agents.plexmusic', 'com.plexapp.agents.none'], 'has_attribution': False, 'languages': ['xn'], 'persist_stored_files': False, 'version': 0, 'accepts_from': None, 'prefs': True, 'name': 'Local Media Assets (Artists)'}, {'media_types': ['Artist'], 'primary_provider': False, 'fallback_agent': None, 'contributes_to': ['com.plexapp.agents.plexmusic'], 'has_attribution': False, 'languages': ['xn'], 'persist_stored_files': False, 'version': 2, 'accepts_from': None, 'prefs': True, 'name': 'Local Media Assets (Artists)'}, {'media_types': ['Album'], 'primary_provider': False, 'fallback_agent': None, 'contributes_to': ['com.plexapp.agents.discogs', 'com.plexapp.agents.lastfm', 'com.plexapp.agents.plexmusic', 'com.plexapp.agents.none'], 'has_attribution': False, 'languages': ['xn'], 'persist_stored_files': False, 'version': 0, 'accepts_from': None, 'prefs': True, 'name': 'Local Media Assets (Albums)'}], 'com.plexapp.agents.plexthememusic': [{'media_types': ['TV_Show'], 'primary_provider': False, 'fallback_agent': None, 'contributes_to': ['com.plexapp.agents.thetvdb', 'com.plexapp.agents.thetvdbdvdorder', 'com.plexapp.agents.themoviedb'], 'has_attribution': False, 'languages': ['xn'], 'persist_stored_files': True, 'version': 0, 'accepts_from': None, 'prefs': False, 'name': 'Plex Theme Music'}]}
+2018-07-14 22:34:44,741 (7f4d517fa700) :  INFO (datakit:131) - Saved the dictionary file
+2018-07-14 22:34:44,750 (7f4d4fff7700) :  DEBUG (runtime:717) - Handling request GET /system/notify/serverUpdated?host=127.0.0.1
+2018-07-14 22:34:44,757 (7f4d537fe700) :  DEBUG (flagservice:46) - Started the media flag service
+2018-07-14 22:34:44,758 (7f4d74a39700) :  DEBUG (runtime:814) - Found route matching /system/agents
+2018-07-14 22:34:44,813 (7f4d74a39700) :  DEBUG (runtime:924) - Response: [200] MediaContainer, 9036 bytes
+2018-07-14 22:34:44,813 (7f4d537fe700) :  DEBUG (runtime:717) - Handling request GET /:/plugins/com.plexapp.system/messaging/function/X0J1bmRsZVNlcnZpY2U6QWxsU2VydmljZXM_/Y2VyZWFsMQoxCmxpc3QKMApyMAo_/Y2VyZWFsMQoxCmRpY3QKMApyMAo_
+2018-07-14 22:34:44,818 (7f4d52ffd700) :  DEBUG (peerservice:171) - Refreshing local server
+2018-07-14 22:34:44,818 (7f4d52ffd700) :  DEBUG (peerservice:189) - Updating servers (True/False True/True/True)
+2018-07-14 22:34:44,819 (7f4d76ffd700) :  DEBUG (core:538) - Machine identifier is 3ed2b02a097ae0dbd8131e18952f0fd286cb9cf6
+2018-07-14 22:34:44,819 (7f4d76ffd700) :  DEBUG (core:539) - Server version is 1.13.2.5154-fd05be322
+2018-07-14 22:34:44,820 (7f4d53fff700) :  DEBUG (core:521) - Attribute 'machineIdentifier' set to '3ed2b02a097ae0dbd8131e18952f0fd286cb9cf6'
+2018-07-14 22:34:44,820 (7f4d53fff700) :  DEBUG (networking:166) - Requesting 'http://127.0.0.1:32400'
+2018-07-14 22:34:44,821 (7f4d52ffd700) :  DEBUG (peerservice:198) - Found 1 servers
+2018-07-14 22:34:44,821 (7f4d52ffd700) :  DEBUG (peerservice:230) - Creating new server docker (3ed2b02a097ae0dbd8131e18952f0fd286cb9cf6)
+2018-07-14 22:34:44,821 (7f4d52ffd700) :  DEBUG (networking:166) - Requesting 'http://127.0.0.1:32400/library/sections'
+2018-07-14 22:34:44,823 (7f4d53fff700) :  DEBUG (core:521) - Attribute 'platformVersion' set to '4.15.0-24-generic (#26-Ubuntu SMP Wed Jun 13 08:44:47 UTC 2018)'
+2018-07-14 22:34:44,824 (7f4d53fff700) :  DEBUG (networking:166) - Requesting 'https://plugins.plex.tv/apps/all.json?frameworkVersion=2.6.3&machineIdentifier=3ed2b02a097ae0dbd8131e18952f0fd286cb9cf6&os=Linux&osVersion=4.15.0-24-generic%20%28%2326-Ubuntu%20SMP%20Wed%20Jun%2013%2008%3A44%3A47%20UTC%202018%29&cpu=i386&serverVersion=1.13.2.5154-fd05be322&systemRevision=fd05be3'
+2018-07-14 22:34:44,827 (7f4d52ffd700) :  DEBUG (networking:166) - Requesting 'http://127.0.0.1:32400/channels/all'
+2018-07-14 22:34:44,840 (7f4d52ffd700) :  DEBUG (runtime:1117) - Created a thread named 'background_refresh'
+2018-07-14 22:34:44,840 (7f4d76ffd700) :  DEBUG (peerservice:176) - Background-refreshing remote servers
+2018-07-14 22:34:44,841 (7f4d76ffd700) :  DEBUG (peerservice:189) - Updating servers (True/False True/True/True)
+2018-07-14 22:34:44,842 (7f4d76ffd700) :  DEBUG (peerservice:198) - Found 1 servers
+2018-07-14 22:34:44,842 (7f4d76ffd700) :  DEBUG (peerservice:233) - Updating existing server docker (3ed2b02a097ae0dbd8131e18952f0fd286cb9cf6)
+2018-07-14 22:34:44,842 (7f4d76ffd700) :  DEBUG (networking:166) - Requesting 'http://127.0.0.1:32400/library/sections'
+2018-07-14 22:34:44,845 (7f4d76ffd700) :  DEBUG (networking:166) - Requesting 'http://127.0.0.1:32400/channels/all'
+2018-07-14 22:34:44,905 (7f4d537fe700) :  DEBUG (runtime:814) - Found route matching /:/plugins/com.plexapp.system/messaging/function/X0J1bmRsZVNlcnZpY2U6QWxsU2VydmljZXM_/Y2VyZWFsMQoxCmxpc3QKMApyMAo_/Y2VyZWFsMQoxCmRpY3QKMApyMAo_
+2018-07-14 22:34:44,917 (7f4d537fe700) :  DEBUG (runtime:88) - Sending packed state data (99 bytes)
+2018-07-14 22:34:44,917 (7f4d537fe700) :  DEBUG (runtime:924) - Response: [200] str, 59972 bytes
+2018-07-14 22:34:44,926 (7f4d4fff7700) :  DEBUG (runtime:814) - Found route matching /system/notify/serverUpdated
+2018-07-14 22:34:44,926 (7f4d4fff7700) :  DEBUG (peerservice:386) - Handling server update notification (127.0.0.1)
+2018-07-14 22:34:44,927 (7f4d4fff7700) :  DEBUG (peerservice:189) - Updating servers (True/False True/True/True)
+2018-07-14 22:34:44,927 (7f4d4fff7700) :  DEBUG (peerservice:164) - Fetching the current list of servers
+2018-07-14 22:34:44,947 (7f4d4fff7700) :  DEBUG (networking:166) - Requesting 'http://127.0.0.1:32400/servers'
+2018-07-14 22:34:44,974 (7f4d77fff700) :  DEBUG (services:362) - Loaded services
+2018-07-14 22:34:44,977 (7f4d777fe700) :  DEBUG (services:438) - No shared code to load
+2018-07-14 22:34:44,977 (7f4d53fff700) :  DEBUG (preferences:258) - Loaded preferences from DefaultPrefs.json
+2018-07-14 22:34:44,977 (7f4d53fff700) :  DEBUG (preferences:178) - Loaded the user preferences for com.plexapp.system
+2018-07-14 22:34:44,978 (7f4d53fff700) :  INFO (storeservice:495) - No beta plugins.
+2018-07-14 22:34:44,981 (7f4d53fff700) :  INFO (storeservice:334) - Starting automatic update thread
+2018-07-14 22:34:44,982 (7f4d4fff7700) :  DEBUG (peerservice:198) - Found 1 servers
+2018-07-14 22:34:44,982 (7f4d4fff7700) :  DEBUG (peerservice:214) - Ignoring 3ed2b02a097ae0dbd8131e18952f0fd286cb9cf6 because host != 127.0.0.1 (192.168.1.203)
+2018-07-14 22:34:44,983 (7f4d4fff7700) :  DEBUG (networking:166) - Requesting 'http://127.0.0.1:32400/library/sections'
+2018-07-14 22:34:44,986 (7f4d4fff7700) :  DEBUG (networking:166) - Requesting 'http://127.0.0.1:32400/channels/all'
+2018-07-14 22:34:44,989 (7f4d4fff7700) :  DEBUG (runtime:924) - Response: [200] str, 0 bytes
+2018-07-14 22:34:44,991 (7f4d53fff700) :  DEBUG (runtime:1150) - Scheduled a timed thread named 'auto_update_thread'
+2018-07-14 22:34:44,991 (7f4d53fff700) :  DEBUG (storeservice:328) - Started the store service
+2018-07-14 22:34:45,431 (7f4d53fff700) :  DEBUG (runtime:717) - Handling request GET /system/messaging/clear_events/com.plexapp.agents.imdb
+2018-07-14 22:34:45,432 (7f4d53fff700) :  DEBUG (runtime:814) - Found route matching /system/messaging/clear_events/com.plexapp.agents.imdb
+2018-07-14 22:34:45,432 (7f4d53fff700) :  DEBUG (runtime:88) - Sending packed state data (99 bytes)
+2018-07-14 22:34:45,433 (7f4d53fff700) :  DEBUG (runtime:924) - Response: [200] str, 0 bytes
+2018-07-14 22:34:45,508 (7f4d53fff700) :  DEBUG (runtime:717) - Handling request GET /:/plugins/com.plexapp.system/resourceHashes
+2018-07-14 22:34:45,509 (7f4d53fff700) :  DEBUG (runtime:814) - Found route matching /:/plugins/com.plexapp.system/resourceHashes
+2018-07-14 22:34:45,509 (7f4d53fff700) :  DEBUG (networking:166) - Requesting 'http://resources-cdn.plexapp.com/hashes.json'
+2018-07-14 22:34:45,538 (7f4d53fff700) :  DEBUG (runtime:88) - Sending packed state data (99 bytes)
+2018-07-14 22:34:45,539 (7f4d53fff700) :  DEBUG (runtime:924) - Response: [200] str, 13276 bytes
+2018-07-14 22:34:45,550 (7f4d53fff700) :  DEBUG (runtime:717) - Handling request GET /:/plugins/com.plexapp.system/messaging/function/X0J1bmRsZVNlcnZpY2U6QWxsU2VydmljZXM_/Y2VyZWFsMQoxCmxpc3QKMApyMAo_/Y2VyZWFsMQoxCmRpY3QKMApyMAo_
+2018-07-14 22:34:45,550 (7f4d53fff700) :  DEBUG (runtime:49) - Received packed state data (80 bytes)
+2018-07-14 22:34:45,551 (7f4d53fff700) :  DEBUG (runtime:814) - Found route matching /:/plugins/com.plexapp.system/messaging/function/X0J1bmRsZVNlcnZpY2U6QWxsU2VydmljZXM_/Y2VyZWFsMQoxCmxpc3QKMApyMAo_/Y2VyZWFsMQoxCmRpY3QKMApyMAo_
+2018-07-14 22:34:45,578 (7f4d53fff700) :  DEBUG (runtime:88) - Sending packed state data (99 bytes)
+2018-07-14 22:34:45,579 (7f4d53fff700) :  DEBUG (runtime:924) - Response: [200] str, 59972 bytes
+2018-07-14 22:34:46,086 (7f4d53fff700) :  DEBUG (runtime:717) - Handling request GET /:/plugins/com.plexapp.system/messaging/function/X0FnZW50U2VydmljZTpVcGRhdGVJbmZv/Y2VyZWFsMQoxCmxpc3QKMApyMAo_/Y2VyZWFsMQo3CmRpY3QKbGlzdApkaWN0Cmxpc3QKbGlzdApsaXN0Cmxpc3QKMgpzMjMKY29tLnBsZXhhcHAuYWdlbnRzLmltZGJzMTAKaWRlbnRpZmllcnIxCnMxMAphZ2VudF9pbmZvMQpyMgoxMApyMwpzMTEKbWVkaWFfdHlwZXNyNApzMTIKYWNjZXB0c19mcm9tbnMxNApmYWxsYmFja19hZ2VudHI1CnMxNApjb250cmlidXRlc190b3I2CnM5Cmxhbmd1YWdlc2IxczIwCnBlcnNpc3Rfc3RvcmVkX2ZpbGVzaTAKczcKdmVyc2lvbmIxczE2CnByaW1hcnlfcHJvdmlkZXJiMXM1CnByZWZzczEwClBsZXggTW92aWVzNApuYW1lMQpzNQpNb3ZpZTEKczI5CmNvbS5wbGV4YXBwLmFnZW50cy5sb2NhbG1lZGlhMQpzMjkKY29tLnBsZXhhcHAuYWdlbnRzLnRoZW1vdmllZGIzMwpzMgplbnMyCnN2czIKZnJzMgplc3MyCm5sczIKZGVzMgppdHMyCmRhczIKYXJzMgpjYXMyCnpoczIKY3NzMgpldHMyCmZpczIKZWxzMgpoZXMyCmhpczIKaHVzMgppZHMyCmphczIKa29zMgpsdnMyCm5vczIKZmFzMgpwbHMyCnB0czIKcm9zMgpydXMyCnNrczIKdGhzMgp0cnMyCnVrczIKdmlyMAo_
+2018-07-14 22:34:46,087 (7f4d53fff700) :  DEBUG (runtime:49) - Received packed state data (80 bytes)
+2018-07-14 22:34:46,087 (7f4d53fff700) :  DEBUG (runtime:814) - Found route matching /:/plugins/com.plexapp.system/messaging/function/X0FnZW50U2VydmljZTpVcGRhdGVJbmZv/Y2VyZWFsMQoxCmxpc3QKMApyMAo_/Y2VyZWFsMQo3CmRpY3QKbGlzdApkaWN0Cmxpc3QKbGlzdApsaXN0Cmxpc3QKMgpzMjMKY29tLnBsZXhhcHAuYWdlbnRzLmltZGJzMTAKaWRlbnRpZmllcnIxCnMxMAphZ2VudF9pbmZvMQpyMgoxMApyMwpzMTEKbWVkaWFfdHlwZXNyNApzMTIKYWNjZXB0c19mcm9tbnMxNApmYWxsYmFja19hZ2VudHI1CnMxNApjb250cmlidXRlc190b3I2CnM5Cmxhbmd1YWdlc2IxczIwCnBlcnNpc3Rfc3RvcmVkX2ZpbGVzaTAKczcKdmVyc2lvbmIxczE2CnByaW1hcnlfcHJvdmlkZXJiMXM1CnByZWZzczEwClBsZXggTW92aWVzNApuYW1lMQpzNQpNb3ZpZTEKczI5CmNvbS5wbGV4YXBwLmFnZW50cy5sb2NhbG1lZGlhMQpzMjkKY29tLnBsZXhhcHAuYWdlbnRzLnRoZW1vdmllZGIzMwpzMgplbnMyCnN2czIKZnJzMgplc3MyCm5sczIKZGVzMgppdHMyCmRhczIKYXJzMgpjYXMyCnpoczIKY3NzMgpldHMyCmZpczIKZWxzMgpoZXMyCmhpczIKaHVzMgppZHMyCmphczIKa29zMgpsdnMyCm5vczIKZmFzMgpwbHMyCnB0czIKcm9zMgpydXMyCnNrczIKdGhzMgp0cnMyCnVrczIKdmlyMAo_
+2018-07-14 22:34:46,088 (7f4d53fff700) :  INFO (agentservice:167) - Receiving agent info from com.plexapp.agents.imdb: [{'media_types': ['Movie'], 'primary_provider': True, 'fallback_agent': None, 'contributes_to': ['com.plexapp.agents.themoviedb'], 'languages': ['en', 'sv', 'fr', 'es', 'nl', 'de', 'it', 'da', 'ar', 'ca', 'zh', 'cs', 'et', 'fi', 'el', 'he', 'hi', 'hu', 'id', 'ja', 'ko', 'lv', 'no', 'fa', 'pl', 'pt', 'ro', 'ru', 'sk', 'th', 'tr', 'uk', 'vi'], 'persist_stored_files': True, 'version': 0, 'accepts_from': ['com.plexapp.agents.localmedia'], 'prefs': True, 'name': 'Plex Movie'}]
+2018-07-14 22:34:46,088 (7f4d53fff700) :  DEBUG (runtime:88) - Sending packed state data (99 bytes)
+2018-07-14 22:34:46,089 (7f4d53fff700) :  DEBUG (runtime:924) - Response: [200] str, 16 bytes
+2018-07-14 22:34:49,754 (7f4d7523a700) :  INFO (datakit:131) - Saved the dictionary file
+2018-07-14 22:35:44,992 (7f4d777fe700) :  DEBUG (runtime:1156) - Starting timed thread named 'auto_update_thread'
+2018-07-14 22:35:44,992 (7f4d777fe700) :  INFO (storeservice:356) - Starting automatic update check
+2018-07-14 22:35:44,995 (7f4d777fe700) :  DEBUG (runtime:1117) - Created a thread named 'remove_unavailable_agents'
+2018-07-14 22:35:45,001 (7f4d777fe700) :  DEBUG (networking:166) - Requesting 'https://plugins.plex.tv/apps/all.json?frameworkVersion=2.6.3&machineIdentifier=3ed2b02a097ae0dbd8131e18952f0fd286cb9cf6&os=Linux&osVersion=4.15.0-24-generic%20%28%2326-Ubuntu%20SMP%20Wed%20Jun%2013%2008%3A44%3A47%20UTC%202018%29&cpu=i386&serverVersion=1.13.2.5154-fd05be322&systemRevision=fd05be3'
+2018-07-14 22:35:45,103 (7f4d777fe700) :  INFO (storeservice:495) - No beta plugins.
+2018-07-14 22:35:45,115 (7f4d777fe700) :  INFO (storeservice:531) - 'Services' plug-in [com.plexapp.system.services] is up to date (4c6d3fe)
+2018-07-14 22:35:45,115 (7f4d777fe700) :  INFO (storeservice:362) - All plug-ins are up to date
+2018-07-14 22:35:45,116 (7f4d777fe700) :  DEBUG (runtime:1150) - Scheduled a timed thread named 'auto_update_thread'
+2018-07-14 22:35:50,022 (7f4d53fff700) :  INFO (datakit:131) - Saved the dictionary file
+2018-07-14 22:36:44,700 (7f4d527fc700) :  DEBUG (runtime:1156) - Starting timed thread named 'refresh_servers'
+2018-07-14 22:36:44,701 (7f4d527fc700) :  DEBUG (peerservice:164) - Fetching the current list of servers
+2018-07-14 22:36:44,702 (7f4d527fc700) :  DEBUG (networking:166) - Requesting 'http://127.0.0.1:32400/servers'
+2018-07-14 22:36:44,711 (7f4d527fc700) :  DEBUG (peerservice:171) - Refreshing local server
+2018-07-14 22:36:44,711 (7f4d527fc700) :  DEBUG (peerservice:189) - Updating servers (True/False True/True/True)
+2018-07-14 22:36:44,712 (7f4d527fc700) :  DEBUG (peerservice:198) - Found 1 servers
+2018-07-14 22:36:44,713 (7f4d527fc700) :  DEBUG (peerservice:233) - Updating existing server docker (3ed2b02a097ae0dbd8131e18952f0fd286cb9cf6)
+2018-07-14 22:36:44,714 (7f4d527fc700) :  DEBUG (networking:166) - Requesting 'http://127.0.0.1:32400/library/sections'
+2018-07-14 22:36:44,749 (7f4d527fc700) :  DEBUG (networking:166) - Requesting 'http://127.0.0.1:32400/channels/all'
+2018-07-14 22:36:44,753 (7f4d53fff700) :  DEBUG (peerservice:176) - Background-refreshing remote servers
+2018-07-14 22:36:44,754 (7f4d53fff700) :  DEBUG (peerservice:189) - Updating servers (True/False True/True/True)
+2018-07-14 22:36:44,754 (7f4d53fff700) :  DEBUG (peerservice:198) - Found 1 servers
+2018-07-14 22:36:44,755 (7f4d527fc700) :  DEBUG (runtime:1117) - Created a thread named 'background_refresh'
+2018-07-14 22:36:44,755 (7f4d53fff700) :  DEBUG (peerservice:233) - Updating existing server docker (3ed2b02a097ae0dbd8131e18952f0fd286cb9cf6)
+2018-07-14 22:36:44,756 (7f4d53fff700) :  DEBUG (networking:166) - Requesting 'http://127.0.0.1:32400/library/sections'
+2018-07-14 22:36:44,763 (7f4d53fff700) :  DEBUG (networking:166) - Requesting 'http://127.0.0.1:32400/channels/all'
+2018-07-14 23:34:44,701 (7f4d51ffb700) :  DEBUG (runtime:1156) - Starting timed thread named 'invalidation_timer'
+2018-07-15 02:13:20,676 (7f4d51ffb700) :  DEBUG (runtime:717) - Handling request GET /system/agents/update?mediaType=1&force=1&guid=tt1464482&id=4922&agent=com.plexapp.agents.localmedia&async=0
+2018-07-15 02:13:20,677 (7f4d51ffb700) :  DEBUG (runtime:814) - Found route matching /system/agents/update
+2018-07-15 02:13:20,677 (7f4d51ffb700) :  CRITICAL (agentservice:364) - Exception in update request handler (most recent call last):
+  File "/usr/lib/plexmediaserver/Resources/Plug-ins-fd05be322/System.bundle/Contents/Code/agentservice.py", line 291, in update
+    (root_type, identifier, id, lang, base_guid) = self.parse_guid(int(mediaType), guid)
+  File "/usr/lib/plexmediaserver/Resources/Plug-ins-fd05be322/System.bundle/Contents/Code/agentservice.py", line 1073, in parse_guid
+    (identifier, parts) = guid.split('://')
+ValueError: need more than 1 value to unpack
+
+2018-07-15 02:13:20,678 (7f4d51ffb700) :  DEBUG (runtime:924) - Response: [200] InitiateUpdateResponse, 632 bytes
+2018-07-15 04:17:47,116 (7f4d7523a700) :  DEBUG (runtime:1156) - Starting timed thread named 'auto_update_thread'
+2018-07-15 04:17:47,121 (7f4d7523a700) :  INFO (storeservice:356) - Starting automatic update check
+2018-07-15 04:17:47,124 (7f4d7523a700) :  DEBUG (runtime:1117) - Created a thread named 'remove_unavailable_agents'
+2018-07-15 04:17:47,153 (7f4d7523a700) :  DEBUG (networking:166) - Requesting 'https://plugins.plex.tv/apps/all.json?frameworkVersion=2.6.3&machineIdentifier=3ed2b02a097ae0dbd8131e18952f0fd286cb9cf6&os=Linux&osVersion=4.15.0-24-generic%20%28%2326-Ubuntu%20SMP%20Wed%20Jun%2013%2008%3A44%3A47%20UTC%202018%29&cpu=i386&serverVersion=1.13.2.5154-fd05be322&systemRevision=fd05be3'
+2018-07-15 04:17:47,310 (7f4d7523a700) :  INFO (storeservice:495) - No beta plugins.
+2018-07-15 04:17:47,319 (7f4d7523a700) :  INFO (storeservice:531) - 'Services' plug-in [com.plexapp.system.services] is up to date (4c6d3fe)
+2018-07-15 04:17:47,319 (7f4d7523a700) :  INFO (storeservice:362) - All plug-ins are up to date
+2018-07-15 04:17:47,321 (7f4d7523a700) :  DEBUG (runtime:1150) - Scheduled a timed thread named 'auto_update_thread'
+2018-07-15 04:17:52,167 (7f4d53fff700) :  INFO (datakit:131) - Saved the dictionary file
+2018-07-15 09:10:44,663 (7f4d53fff700) :  DEBUG (runtime:717) - Handling request GET /system/agents/media/get?guid=com%2Eplexapp%2Eagents%2Ethetvdb%3A%2F%2F95441%3Flang%3Den&mediaType=2&url=metadata%3A%2F%2Fart%2Fcom%2Eplexapp%2Eagents%2Ethetvdb_8573319b924e71a306f582926414955e6b1bb14b
+2018-07-15 09:10:44,664 (7f4d53fff700) :  DEBUG (runtime:814) - Found route matching /system/agents/media/get
+2018-07-15 09:10:44,666 (7f4d53fff700) :  DEBUG (accessor:68) - Creating a new read-only model access point for provider com.plexapp.agents.thetvdb in namespace 'metadata'
+2018-07-15 09:10:44,689 (7f4d53fff700) :  DEBUG (agentservice:1032) - Returning stored data for metadata://art/com.plexapp.agents.thetvdb_8573319b924e71a306f582926414955e6b1bb14b (in com.plexapp.agents.thetvdb)
+2018-07-15 09:10:44,692 (7f4d53fff700) :  DEBUG (runtime:924) - Response: [200] str, 794419 bytes
+2018-07-15 09:10:44,701 (7f4d53fff700) :  DEBUG (runtime:717) - Handling request GET /system/agents/media/get?guid=com%2Eplexapp%2Eagents%2Ethetvdb%3A%2F%2F95441%3Flang%3Den&mediaType=2&url=metadata%3A%2F%2Fposters%2Fcom%2Eplexapp%2Eagents%2Ethetvdb_c78d3e7667ca746744f073a66dd7fe41c0cd3f99
+2018-07-15 09:10:44,701 (7f4d53fff700) :  DEBUG (runtime:814) - Found route matching /system/agents/media/get
+2018-07-15 09:10:44,702 (7f4d53fff700) :  DEBUG (agentservice:1032) - Returning stored data for metadata://posters/com.plexapp.agents.thetvdb_c78d3e7667ca746744f073a66dd7fe41c0cd3f99 (in com.plexapp.agents.thetvdb)
+2018-07-15 09:10:44,704 (7f4d53fff700) :  DEBUG (runtime:924) - Response: [200] str, 461098 bytes
+2018-07-15 09:10:44,944 (7f4d53fff700) :  DEBUG (runtime:717) - Handling request GET /system/agents/media/get?guid=com%2Eplexapp%2Eagents%2Eimdb%3A%2F%2Ftt1677720%3Flang%3Den&mediaType=1&url=metadata%3A%2F%2Fposters%2Fcom%2Eplexapp%2Eagents%2Eimdb_abac9a37949f6e572d6031cd7c9b645f3b8f08b1
+2018-07-15 09:10:44,946 (7f4d53fff700) :  DEBUG (runtime:814) - Found route matching /system/agents/media/get
+2018-07-15 09:10:44,947 (7f4d53fff700) :  DEBUG (accessor:68) - Creating a new read-only model access point for provider com.plexapp.agents.imdb in namespace 'metadata'
+2018-07-15 09:10:44,952 (7f4d7523a700) :  DEBUG (runtime:717) - Handling request GET /system/agents/media/get?guid=com%2Eplexapp%2Eagents%2Eimdb%3A%2F%2Ftt2231461%3Flang%3Den&mediaType=1&url=metadata%3A%2F%2Fposters%2Fcom%2Eplexapp%2Eagents%2Eimdb_0a7a635de710cdd99bc5e89fbb86daa1002049c2
+2018-07-15 09:10:44,952 (7f4d7523a700) :  DEBUG (runtime:814) - Found route matching /system/agents/media/get
+2018-07-15 09:10:44,956 (7f4d53fff700) :  DEBUG (agentservice:1032) - Returning stored data for metadata://posters/com.plexapp.agents.imdb_abac9a37949f6e572d6031cd7c9b645f3b8f08b1 (in com.plexapp.agents.imdb)
+2018-07-15 09:10:44,959 (7f4d7523a700) :  DEBUG (agentservice:1032) - Returning stored data for metadata://posters/com.plexapp.agents.imdb_0a7a635de710cdd99bc5e89fbb86daa1002049c2 (in com.plexapp.agents.imdb)
+2018-07-15 09:10:44,961 (7f4d7523a700) :  DEBUG (runtime:924) - Response: [200] str, 289416 bytes
+2018-07-15 09:10:44,971 (7f4d53fff700) :  DEBUG (runtime:924) - Response: [200] str, 1656436 bytes
+2018-07-15 09:10:44,988 (7f4d53fff700) :  DEBUG (runtime:717) - Handling request GET /system/agents/media/get?guid=com%2Eplexapp%2Eagents%2Eimdb%3A%2F%2Ftt0092675%3Flang%3Den&mediaType=1&url=metadata%3A%2F%2Fposters%2Fcom%2Eplexapp%2Eagents%2Eimdb_16ad740ef92bc220a21d709132c53b0b71ba917e
+2018-07-15 09:10:44,988 (7f4d53fff700) :  DEBUG (runtime:814) - Found route matching /system/agents/media/get
+2018-07-15 09:10:44,995 (7f4d53fff700) :  DEBUG (agentservice:1032) - Returning stored data for metadata://posters/com.plexapp.agents.imdb_16ad740ef92bc220a21d709132c53b0b71ba917e (in com.plexapp.agents.imdb)
+2018-07-15 09:10:44,996 (7f4d53fff700) :  DEBUG (runtime:924) - Response: [200] str, 180420 bytes
+2018-07-15 09:10:45,044 (7f4d53fff700) :  DEBUG (runtime:717) - Handling request GET /system/agents/media/get?guid=com%2Eplexapp%2Eagents%2Eimdb%3A%2F%2Ftt0758774%3Flang%3Den&mediaType=1&url=metadata%3A%2F%2Fposters%2Fcom%2Eplexapp%2Eagents%2Eimdb_24670b89bfe61cca3f1f1db7a671f2a354ca7b0a
+2018-07-15 09:10:45,045 (7f4d53fff700) :  DEBUG (runtime:814) - Found route matching /system/agents/media/get
+2018-07-15 09:10:45,045 (7f4d7523a700) :  DEBUG (runtime:717) - Handling request GET /system/agents/media/get?guid=com%2Eplexapp%2Eagents%2Eimdb%3A%2F%2Ftt2294629%3Flang%3Den&mediaType=1&url=metadata%3A%2F%2Fposters%2Fcom%2Eplexapp%2Eagents%2Eimdb_ec7135c245fba55d68e11890668acf6f0932eb5f
+2018-07-15 09:10:45,046 (7f4d7523a700) :  DEBUG (runtime:814) - Found route matching /system/agents/media/get
+2018-07-15 09:10:45,046 (7f4d527fc700) :  DEBUG (runtime:717) - Handling request GET /system/agents/media/get?guid=com%2Eplexapp%2Eagents%2Eimdb%3A%2F%2Ftt0372784%3Flang%3Den&mediaType=1&url=metadata%3A%2F%2Fposters%2Fcom%2Eplexapp%2Eagents%2Eimdb_381b03d658b2b0d8dab114053655a51401cfca18
+2018-07-15 09:10:45,047 (7f4d527fc700) :  DEBUG (runtime:814) - Found route matching /system/agents/media/get
+2018-07-15 09:10:45,049 (7f4d53fff700) :  DEBUG (agentservice:1032) - Returning stored data for metadata://posters/com.plexapp.agents.imdb_24670b89bfe61cca3f1f1db7a671f2a354ca7b0a (in com.plexapp.agents.imdb)
+2018-07-15 09:10:45,049 (7f4d7523a700) :  DEBUG (agentservice:1032) - Returning stored data for metadata://posters/com.plexapp.agents.imdb_ec7135c245fba55d68e11890668acf6f0932eb5f (in com.plexapp.agents.imdb)
+2018-07-15 09:10:45,051 (7f4d7523a700) :  DEBUG (runtime:924) - Response: [200] str, 744937 bytes
+2018-07-15 09:10:45,053 (7f4d527fc700) :  DEBUG (agentservice:1032) - Returning stored data for metadata://posters/com.plexapp.agents.imdb_381b03d658b2b0d8dab114053655a51401cfca18 (in com.plexapp.agents.imdb)
+2018-07-15 09:10:45,057 (7f4d777fe700) :  DEBUG (runtime:717) - Handling request GET /system/agents/media/get?guid=com%2Eplexapp%2Eagents%2Eimdb%3A%2F%2Ftt1051904%3Flang%3Den&mediaType=1&url=metadata%3A%2F%2Fposters%2Fcom%2Eplexapp%2Eagents%2Eimdb_726fe97c55729b414947262a528109bcb0e0af11
+2018-07-15 09:10:45,058 (7f4d777fe700) :  DEBUG (runtime:814) - Found route matching /system/agents/media/get
+2018-07-15 09:10:45,059 (7f4d7523a700) :  DEBUG (runtime:717) - Handling request GET /system/agents/media/get?guid=com%2Eplexapp%2Eagents%2Eimdb%3A%2F%2Ftt0119099%3Flang%3Den&mediaType=1&url=metadata%3A%2F%2Fposters%2Fcom%2Eplexapp%2Eagents%2Eimdb_5387b4ec8175881c31752009a3f78e7b401d17e2
+2018-07-15 09:10:45,059 (7f4d7523a700) :  DEBUG (runtime:814) - Found route matching /system/agents/media/get
+2018-07-15 09:10:45,061 (7f4d7523a700) :  DEBUG (agentservice:1032) - Returning stored data for metadata://posters/com.plexapp.agents.imdb_5387b4ec8175881c31752009a3f78e7b401d17e2 (in com.plexapp.agents.imdb)
+2018-07-15 09:10:45,061 (7f4d777fe700) :  DEBUG (agentservice:1032) - Returning stored data for metadata://posters/com.plexapp.agents.imdb_726fe97c55729b414947262a528109bcb0e0af11 (in com.plexapp.agents.imdb)
+2018-07-15 09:10:45,063 (7f4d7523a700) :  DEBUG (runtime:924) - Response: [200] str, 230857 bytes
+2018-07-15 09:10:45,064 (7f4d777fe700) :  DEBUG (runtime:924) - Response: [200] str, 940615 bytes
+2018-07-15 09:10:45,068 (7f4d53fff700) :  DEBUG (runtime:924) - Response: [200] str, 166766 bytes
+2018-07-15 09:10:45,069 (7f4d527fc700) :  DEBUG (runtime:924) - Response: [200] str, 175432 bytes
+2018-07-15 09:10:45,218 (7f4d527fc700) :  DEBUG (runtime:717) - Handling request GET /system/agents/media/get?guid=com%2Eplexapp%2Eagents%2Eimdb%3A%2F%2Ftt0829150%3Flang%3Den&mediaType=1&url=metadata%3A%2F%2Fposters%2Fcom%2Eplexapp%2Eagents%2Eimdb_e414e927fd394c90a8d97e2740c92f55ce0e00ca
+2018-07-15 09:10:45,218 (7f4d527fc700) :  DEBUG (runtime:814) - Found route matching /system/agents/media/get
+2018-07-15 09:10:45,230 (7f4d53fff700) :  DEBUG (runtime:717) - Handling request GET /system/agents/media/get?guid=com%2Eplexapp%2Eagents%2Eimdb%3A%2F%2Ftt0066995%3Flang%3Den&mediaType=1&url=metadata%3A%2F%2Fposters%2Fcom%2Eplexapp%2Eagents%2Eimdb_77c0770673609a5da80e49b7f0e088528f3825b0
+2018-07-15 09:10:45,231 (7f4d53fff700) :  DEBUG (runtime:814) - Found route matching /system/agents/media/get
+2018-07-15 09:10:45,232 (7f4d527fc700) :  DEBUG (agentservice:1032) - Returning stored data for metadata://posters/com.plexapp.agents.imdb_e414e927fd394c90a8d97e2740c92f55ce0e00ca (in com.plexapp.agents.imdb)
+2018-07-15 09:10:45,233 (7f4d53fff700) :  DEBUG (agentservice:1032) - Returning stored data for metadata://posters/com.plexapp.agents.imdb_77c0770673609a5da80e49b7f0e088528f3825b0 (in com.plexapp.agents.imdb)
+2018-07-15 09:10:45,234 (7f4d53fff700) :  DEBUG (runtime:924) - Response: [200] str, 327960 bytes
+2018-07-15 09:10:45,236 (7f4d527fc700) :  DEBUG (runtime:924) - Response: [200] str, 532268 bytes
+2018-07-15 09:10:45,316 (7f4d527fc700) :  DEBUG (runtime:717) - Handling request GET /system/agents/media/get?guid=com%2Eplexapp%2Eagents%2Ethetvdb%3A%2F%2F266883%3Flang%3Den&mediaType=2&url=metadata%3A%2F%2Fposters%2Fcom%2Eplexapp%2Eagents%2Ethetvdb_0d060057f78dee61d06e4aa05a287f02c0ae1eb6
+2018-07-15 09:10:45,318 (7f4d527fc700) :  DEBUG (runtime:814) - Found route matching /system/agents/media/get
+2018-07-15 09:10:45,321 (7f4d53fff700) :  DEBUG (runtime:717) - Handling request GET /system/agents/media/get?guid=com%2Eplexapp%2Eagents%2Ethetvdb%3A%2F%2F280619%3Flang%3Den&mediaType=2&url=metadata%3A%2F%2Fposters%2Fcom%2Eplexapp%2Eagents%2Ethetvdb_67943f51a4425e96e595182cc7ded8f58994fe02
+2018-07-15 09:10:45,321 (7f4d53fff700) :  DEBUG (runtime:814) - Found route matching /system/agents/media/get
+2018-07-15 09:10:45,322 (7f4d777fe700) :  DEBUG (runtime:717) - Handling request GET /system/agents/media/get?guid=com%2Eplexapp%2Eagents%2Ethetvdb%3A%2F%2F95441%2F6%3Flang%3Den&mediaType=3&url=metadata%3A%2F%2Fseasons%2F6%2Fposters%2Fcom%2Eplexapp%2Eagents%2Ethetvdb_88e4972ea1d2e2007539e3bf08e22133a52bdc81
+2018-07-15 09:10:45,322 (7f4d777fe700) :  DEBUG (runtime:814) - Found route matching /system/agents/media/get
+2018-07-15 09:10:45,323 (7f4d7523a700) :  DEBUG (runtime:717) - Handling request GET /system/agents/media/get?guid=com%2Eplexapp%2Eagents%2Ethetvdb%3A%2F%2F284210%3Flang%3Den&mediaType=2&url=metadata%3A%2F%2Fposters%2Fcom%2Eplexapp%2Eagents%2Ethetvdb_ddb90e86880c03094a4fb251840af1222195410f
+2018-07-15 09:10:45,323 (7f4d7523a700) :  DEBUG (runtime:814) - Found route matching /system/agents/media/get
+2018-07-15 09:10:45,326 (7f4d777fe700) :  DEBUG (agentservice:1032) - Returning stored data for metadata://seasons/6/posters/com.plexapp.agents.thetvdb_88e4972ea1d2e2007539e3bf08e22133a52bdc81 (in com.plexapp.agents.thetvdb)
+2018-07-15 09:10:45,327 (7f4d777fe700) :  DEBUG (runtime:924) - Response: [200] str, 96382 bytes
+2018-07-15 09:10:45,330 (7f4d53fff700) :  DEBUG (agentservice:1032) - Returning stored data for metadata://posters/com.plexapp.agents.thetvdb_67943f51a4425e96e595182cc7ded8f58994fe02 (in com.plexapp.agents.thetvdb)
+2018-07-15 09:10:45,330 (7f4d777fe700) :  DEBUG (runtime:717) - Handling request GET /system/agents/media/get?guid=com%2Eplexapp%2Eagents%2Ethetvdb%3A%2F%2F110381%3Flang%3Den&mediaType=2&url=metadata%3A%2F%2Fposters%2Fcom%2Eplexapp%2Eagents%2Ethetvdb_4016ab38217cfb673fd206c0548fad1209086d35
+2018-07-15 09:10:45,331 (7f4d777fe700) :  DEBUG (runtime:814) - Found route matching /system/agents/media/get
+2018-07-15 09:10:45,332 (7f4d53fff700) :  DEBUG (runtime:924) - Response: [200] str, 300690 bytes
+2018-07-15 09:10:45,336 (7f4d777fe700) :  DEBUG (agentservice:1032) - Returning stored data for metadata://posters/com.plexapp.agents.thetvdb_4016ab38217cfb673fd206c0548fad1209086d35 (in com.plexapp.agents.thetvdb)
+2018-07-15 09:10:45,337 (7f4d527fc700) :  DEBUG (agentservice:1032) - Returning stored data for metadata://posters/com.plexapp.agents.thetvdb_0d060057f78dee61d06e4aa05a287f02c0ae1eb6 (in com.plexapp.agents.thetvdb)
+2018-07-15 09:10:45,337 (7f4d7523a700) :  DEBUG (agentservice:1032) - Returning stored data for metadata://posters/com.plexapp.agents.thetvdb_ddb90e86880c03094a4fb251840af1222195410f (in com.plexapp.agents.thetvdb)
+2018-07-15 09:10:45,338 (7f4d777fe700) :  DEBUG (runtime:924) - Response: [200] str, 199071 bytes
+2018-07-15 09:10:45,340 (7f4d7523a700) :  DEBUG (runtime:924) - Response: [200] str, 388123 bytes
+2018-07-15 09:10:45,342 (7f4d777fe700) :  DEBUG (runtime:717) - Handling request GET /system/agents/media/get?guid=com%2Eplexapp%2Eagents%2Ethetvdb%3A%2F%2F260449%2F5%3Flang%3Den&mediaType=3&url=metadata%3A%2F%2Fseasons%2F5%2Fposters%2Fcom%2Eplexapp%2Eagents%2Ethetvdb_b96380982a38c5c19e50af1d7b21f1e62e97710a
+2018-07-15 09:10:45,342 (7f4d777fe700) :  DEBUG (runtime:814) - Found route matching /system/agents/media/get
+2018-07-15 09:10:45,364 (7f4d527fc700) :  DEBUG (runtime:924) - Response: [200] str, 132250 bytes
+2018-07-15 09:10:45,413 (7f4d777fe700) :  DEBUG (agentservice:1032) - Returning stored data for metadata://seasons/5/posters/com.plexapp.agents.thetvdb_b96380982a38c5c19e50af1d7b21f1e62e97710a (in com.plexapp.agents.thetvdb)
+2018-07-15 09:10:45,419 (7f4d527fc700) :  DEBUG (runtime:717) - Handling request GET /system/agents/media/get?guid=com%2Eplexapp%2Eagents%2Ethetvdb%3A%2F%2F289096%2F2%3Flang%3Den&mediaType=3&url=metadata%3A%2F%2Fseasons%2F2%2Fposters%2Fcom%2Eplexapp%2Eagents%2Ethetvdb_209a4f70276b5fb11d0d4e4ea01d7258af630ab9
+2018-07-15 09:10:45,434 (7f4d527fc700) :  DEBUG (runtime:814) - Found route matching /system/agents/media/get
+2018-07-15 09:10:45,435 (7f4d777fe700) :  DEBUG (runtime:924) - Response: [200] str, 276687 bytes
+2018-07-15 09:10:45,445 (7f4d527fc700) :  DEBUG (agentservice:1032) - Returning stored data for metadata://seasons/2/posters/com.plexapp.agents.thetvdb_209a4f70276b5fb11d0d4e4ea01d7258af630ab9 (in com.plexapp.agents.thetvdb)
+2018-07-15 09:10:45,449 (7f4d527fc700) :  DEBUG (runtime:924) - Response: [200] str, 139224 bytes
+2018-07-15 09:10:45,456 (7f4d527fc700) :  DEBUG (runtime:717) - Handling request GET /system/agents/media/get?guid=com%2Eplexapp%2Eagents%2Ethetvdb%3A%2F%2F77398%2F11%3Flang%3Den&mediaType=3&url=metadata%3A%2F%2Fseasons%2F11%2Fposters%2Fcom%2Eplexapp%2Eagents%2Ethetvdb_b7098dc305d0989c74f5632caceeaecd9eba43d8
+2018-07-15 09:10:45,457 (7f4d527fc700) :  DEBUG (runtime:814) - Found route matching /system/agents/media/get
+2018-07-15 09:10:45,458 (7f4d777fe700) :  DEBUG (runtime:717) - Handling request GET /system/agents/media/get?guid=com%2Eplexapp%2Eagents%2Ethetvdb%3A%2F%2F311892%3Flang%3Den&mediaType=2&url=metadata%3A%2F%2Fposters%2Fcom%2Eplexapp%2Eagents%2Ethetvdb_d7f947d5702ddf943c98f2429060334d9f8a34e1
+2018-07-15 09:10:45,458 (7f4d777fe700) :  DEBUG (runtime:814) - Found route matching /system/agents/media/get
+2018-07-15 09:10:45,459 (7f4d7523a700) :  DEBUG (runtime:717) - Handling request GET /system/agents/media/get?guid=com%2Eplexapp%2Eagents%2Ethetvdb%3A%2F%2F311714%2F1%3Flang%3Den&mediaType=3&url=metadata%3A%2F%2Fseasons%2F1%2Fposters%2Fcom%2Eplexapp%2Eagents%2Ethetvdb_2d11f3bb632cd415fabc200ba7b1f2865946705d
+2018-07-15 09:10:45,459 (7f4d7523a700) :  DEBUG (runtime:814) - Found route matching /system/agents/media/get
+2018-07-15 09:10:45,474 (7f4d7523a700) :  DEBUG (agentservice:1032) - Returning stored data for metadata://seasons/1/posters/com.plexapp.agents.thetvdb_2d11f3bb632cd415fabc200ba7b1f2865946705d (in com.plexapp.agents.thetvdb)
+2018-07-15 09:10:45,476 (7f4d777fe700) :  DEBUG (agentservice:1032) - Returning stored data for metadata://posters/com.plexapp.agents.thetvdb_d7f947d5702ddf943c98f2429060334d9f8a34e1 (in com.plexapp.agents.thetvdb)
+2018-07-15 09:10:45,477 (7f4d777fe700) :  DEBUG (runtime:924) - Response: [200] str, 165444 bytes
+2018-07-15 09:10:45,482 (7f4d7523a700) :  DEBUG (runtime:924) - Response: [200] str, 290635 bytes
+2018-07-15 09:10:45,483 (7f4d527fc700) :  DEBUG (agentservice:1032) - Returning stored data for metadata://seasons/11/posters/com.plexapp.agents.thetvdb_b7098dc305d0989c74f5632caceeaecd9eba43d8 (in com.plexapp.agents.thetvdb)
+2018-07-15 09:10:45,486 (7f4d527fc700) :  DEBUG (runtime:924) - Response: [200] str, 405875 bytes
+2018-07-15 09:10:49,873 (7f4d527fc700) :  DEBUG (runtime:717) - Handling request GET /system/notify/serverUpdated?host=192.168.1.203
+2018-07-15 09:10:49,877 (7f4d527fc700) :  DEBUG (runtime:814) - Found route matching /system/notify/serverUpdated
+2018-07-15 09:10:49,878 (7f4d527fc700) :  DEBUG (peerservice:386) - Handling server update notification (192.168.1.203)
+2018-07-15 09:10:49,879 (7f4d527fc700) :  DEBUG (peerservice:189) - Updating servers (True/False True/True/True)
+2018-07-15 09:10:49,880 (7f4d527fc700) :  DEBUG (peerservice:164) - Fetching the current list of servers
+2018-07-15 09:10:49,885 (7f4d527fc700) :  DEBUG (networking:166) - Requesting 'http://127.0.0.1:32400/servers'
+2018-07-15 09:10:49,906 (7f4d527fc700) :  DEBUG (peerservice:198) - Found 2 servers
+2018-07-15 09:10:49,906 (7f4d527fc700) :  DEBUG (peerservice:233) - Updating existing server docker (3ed2b02a097ae0dbd8131e18952f0fd286cb9cf6)
+2018-07-15 09:10:49,907 (7f4d527fc700) :  DEBUG (networking:166) - Requesting 'http://127.0.0.1:32400/library/sections'
+2018-07-15 09:10:49,914 (7f4d527fc700) :  DEBUG (networking:166) - Requesting 'http://127.0.0.1:32400/channels/all'
+2018-07-15 09:10:49,923 (7f4d527fc700) :  DEBUG (runtime:924) - Response: [200] str, 0 bytes
+2018-07-15 09:51:12,322 (7f4d51ffb700) :  DEBUG (runtime:1156) - Starting timed thread named 'auto_update_thread'
+2018-07-15 09:51:12,322 (7f4d51ffb700) :  INFO (storeservice:356) - Starting automatic update check
+2018-07-15 09:51:12,323 (7f4d51ffb700) :  DEBUG (runtime:1117) - Created a thread named 'remove_unavailable_agents'
+2018-07-15 09:51:12,325 (7f4d51ffb700) :  DEBUG (networking:166) - Requesting 'https://plugins.plex.tv/apps/all.json?frameworkVersion=2.6.3&machineIdentifier=3ed2b02a097ae0dbd8131e18952f0fd286cb9cf6&os=Linux&osVersion=4.15.0-24-generic%20%28%2326-Ubuntu%20SMP%20Wed%20Jun%2013%2008%3A44%3A47%20UTC%202018%29&cpu=i386&serverVersion=1.13.2.5154-fd05be322&systemRevision=fd05be3'
+2018-07-15 09:51:12,603 (7f4d51ffb700) :  INFO (storeservice:495) - No beta plugins.
+2018-07-15 09:51:12,622 (7f4d51ffb700) :  INFO (storeservice:531) - 'Services' plug-in [com.plexapp.system.services] is up to date (4c6d3fe)
+2018-07-15 09:51:12,623 (7f4d51ffb700) :  INFO (storeservice:362) - All plug-ins are up to date
+2018-07-15 09:51:12,623 (7f4d51ffb700) :  DEBUG (runtime:1150) - Scheduled a timed thread named 'auto_update_thread'
+2018-07-15 09:51:17,340 (7f4d7523a700) :  INFO (datakit:131) - Saved the dictionary file

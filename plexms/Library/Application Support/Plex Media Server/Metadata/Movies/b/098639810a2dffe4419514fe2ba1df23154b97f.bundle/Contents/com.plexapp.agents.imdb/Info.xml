@@ -1,0 +1,568 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Movie id="tt0090605">
+  <rating>9.8</rating>
+  <title_sort/>
+  <art>
+    <item external="True" url="http://image.tmdb.org/t/p/original/r2zB2vGLDQVxlRZISH7KzQ6reiC.jpg" preview="4e6c900149e34455229d979d92045b1327492663" sort_order="1"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/fYoe6SqpNpTjUIIZhLGHfHu1Nt8.jpg" preview="c201f176ba7a9523e71baf574695f336ce25c73b" sort_order="2"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/i5deAMe2EOlW7GOIgnTXPq97BsE.jpg" preview="8fe73be9d7fbb544c9e9fed07240578d41b5ed01" sort_order="3"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/txnX9JQtpA12eC8B5HqT6ZNvDyy.jpg" preview="2d464a69a6e4657e8613532f3459465b492b7d5e" sort_order="4"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/3kWleErCSCPCwKE0ojg19xiEiTl.jpg" preview="8a9b203ffce368f40eaa526f351bbbd707246fe3" sort_order="5"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/8kLlzUh1pHygwflXs0MPYcf2Xlp.jpg" preview="2e01777f9694cb0db258f304c635473d6d1e2d7e" sort_order="6"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/tgXaHtpmxj4SkMxBTi1Desl6Mc6.jpg" preview="afc690a2bdfeba01c637b88af9ba84f89a1311f2" sort_order="7"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/vcyknd5qWIAtg0PoJam2IyG3nt1.jpg" preview="70967b8ab58fb7df74b2a41f2b94757a30537340" sort_order="8"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/7YDcKfZExUV1ZqPj0EZe8aIySTY.jpg" preview="0f2f3b46ef0cf1db3ddbef87edf8840d35aecdfa" sort_order="9"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/3fh04nS5lZYWopDkOOLCSvYpMzn.jpg" preview="9cf2faea4e1cf3e8ecefe11b957a9f5ddefb0f4a" sort_order="10"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/vYKHZ86Yxwif4zwcU4LsR8Kj2oU.jpg" preview="bbac6e83964c8a77b3ab3ad9f9c1f2ac7961a87e" sort_order="11"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/yAthI77I08GaUq7ZpvqxYB5kpBz.jpg" preview="fe94b23893e66133eead89746095ad4bff9848ff" sort_order="12"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/84GNgkwsX70DrCBKnhJNRbHbwgc.jpg" preview="3c9bab59c325a196f506708307f8565e3a848c08" sort_order="13"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/bDBD6rngDAqex339KjB0sO996v2.jpg" preview="31eb5e4b92e3166b938e7b0f40e683a578354b76" sort_order="14"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/hKUR0VqHRazTM2wg0m3UKkgB6k8.jpg" preview="2887011a8434748f859a9c55c53bc7163e7f3008" sort_order="15"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/419GfpzSip2cXf17x8FKIRHSSPK.jpg" preview="0adeb2cb2374f06e98377e5d0927f0027104e917" sort_order="16"/>
+  </art>
+  <writers>
+    <item index="0">
+      <photo>http://image.tmdb.org/t/p/original/zy2foCd8PEtvCcsX48cROdQdDLB.jpg</photo>
+      <role/>
+      <name>James Cameron</name>
+    </item>
+  </writers>
+  <chapters>
+    <item index="0">
+      <title>Main Titles</title>
+      <end_time_offset>126000</end_time_offset>
+      <start_time_offset>0</start_time_offset>
+    </item>
+    <item index="1">
+      <title>Human Salvage</title>
+      <end_time_offset>315000</end_time_offset>
+      <start_time_offset>126000</start_time_offset>
+    </item>
+    <item index="2">
+      <title>57 Years</title>
+      <end_time_offset>514000</end_time_offset>
+      <start_time_offset>315000</start_time_offset>
+    </item>
+    <item index="3">
+      <title>The Park</title>
+      <end_time_offset>652000</end_time_offset>
+      <start_time_offset>514000</start_time_offset>
+    </item>
+    <item index="4">
+      <title>Inquest</title>
+      <end_time_offset>913000</end_time_offset>
+      <start_time_offset>652000</start_time_offset>
+    </item>
+    <item index="5">
+      <title>Lv-426</title>
+      <end_time_offset>1045000</end_time_offset>
+      <start_time_offset>913000</start_time_offset>
+    </item>
+    <item index="6">
+      <title>The Big Score</title>
+      <end_time_offset>1254000</end_time_offset>
+      <start_time_offset>1045000</start_time_offset>
+    </item>
+    <item index="7">
+      <title>Home Alone</title>
+      <end_time_offset>1502000</end_time_offset>
+      <start_time_offset>1254000</start_time_offset>
+    </item>
+    <item index="8">
+      <title>Ripley's Decision</title>
+      <end_time_offset>1557000</end_time_offset>
+      <start_time_offset>1502000</start_time_offset>
+    </item>
+    <item index="9">
+      <title>Sulaco</title>
+      <end_time_offset>1803000</end_time_offset>
+      <start_time_offset>1557000</start_time_offset>
+    </item>
+    <item index="10">
+      <title>The Android</title>
+      <end_time_offset>1973000</end_time_offset>
+      <start_time_offset>1803000</start_time_offset>
+    </item>
+    <item index="11">
+      <title>Briefing</title>
+      <end_time_offset>2156000</end_time_offset>
+      <start_time_offset>1973000</start_time_offset>
+    </item>
+    <item index="12">
+      <title>The Loader</title>
+      <end_time_offset>2283000</end_time_offset>
+      <start_time_offset>2156000</start_time_offset>
+    </item>
+    <item index="13">
+      <title>Express Elevator to Hell</title>
+      <end_time_offset>2740000</end_time_offset>
+      <start_time_offset>2283000</start_time_offset>
+    </item>
+    <item index="14">
+      <title>Arrival</title>
+      <end_time_offset>3148000</end_time_offset>
+      <start_time_offset>2740000</start_time_offset>
+    </item>
+    <item index="15">
+      <title>Memories</title>
+      <end_time_offset>3288000</end_time_offset>
+      <start_time_offset>3148000</start_time_offset>
+    </item>
+    <item index="16">
+      <title>Lab Specimens</title>
+      <end_time_offset>3369000</end_time_offset>
+      <start_time_offset>3288000</start_time_offset>
+    </item>
+    <item index="17">
+      <title>Movement</title>
+      <end_time_offset>3611000</end_time_offset>
+      <start_time_offset>3369000</start_time_offset>
+    </item>
+    <item index="18">
+      <title>Newt</title>
+      <end_time_offset>3887000</end_time_offset>
+      <start_time_offset>3611000</start_time_offset>
+    </item>
+    <item index="19">
+      <title>Rescue Mission</title>
+      <end_time_offset>4210000</end_time_offset>
+      <start_time_offset>3887000</start_time_offset>
+    </item>
+    <item index="20">
+      <title>Cocoons</title>
+      <end_time_offset>4371000</end_time_offset>
+      <start_time_offset>4210000</start_time_offset>
+    </item>
+    <item index="21">
+      <title>The Battle</title>
+      <end_time_offset>4582000</end_time_offset>
+      <start_time_offset>4371000</start_time_offset>
+    </item>
+    <item index="22">
+      <title>Ripley's Rescue</title>
+      <end_time_offset>4882000</end_time_offset>
+      <start_time_offset>4582000</start_time_offset>
+    </item>
+    <item index="23">
+      <title>Altercation</title>
+      <end_time_offset>4997000</end_time_offset>
+      <start_time_offset>4882000</start_time_offset>
+    </item>
+    <item index="24">
+      <title>Stranded</title>
+      <end_time_offset>5181000</end_time_offset>
+      <start_time_offset>4997000</start_time_offset>
+    </item>
+    <item index="25">
+      <title>Barricade</title>
+      <end_time_offset>5482000</end_time_offset>
+      <start_time_offset>5181000</start_time_offset>
+    </item>
+    <item index="26">
+      <title>A Mother's Love</title>
+      <end_time_offset>5677000</end_time_offset>
+      <start_time_offset>5482000</start_time_offset>
+    </item>
+    <item index="27">
+      <title>Speculation</title>
+      <end_time_offset>5845000</end_time_offset>
+      <start_time_offset>5677000</start_time_offset>
+    </item>
+    <item index="28">
+      <title>The Tunnel</title>
+      <end_time_offset>5920000</end_time_offset>
+      <start_time_offset>5845000</start_time_offset>
+    </item>
+    <item index="29">
+      <title>Bad News</title>
+      <end_time_offset>6083000</end_time_offset>
+      <start_time_offset>5920000</start_time_offset>
+    </item>
+    <item index="30">
+      <title>The Corridor</title>
+      <end_time_offset>6303000</end_time_offset>
+      <start_time_offset>6083000</start_time_offset>
+    </item>
+    <item index="31">
+      <title>Dreamland</title>
+      <end_time_offset>6435000</end_time_offset>
+      <start_time_offset>6303000</start_time_offset>
+    </item>
+    <item index="32">
+      <title>Not a Dream</title>
+      <end_time_offset>6701000</end_time_offset>
+      <start_time_offset>6435000</start_time_offset>
+    </item>
+    <item index="33">
+      <title>For a Percentage</title>
+      <end_time_offset>6778000</end_time_offset>
+      <start_time_offset>6701000</start_time_offset>
+    </item>
+    <item index="34">
+      <title>"Game Time"</title>
+      <end_time_offset>7330000</end_time_offset>
+      <start_time_offset>6778000</start_time_offset>
+    </item>
+    <item index="35">
+      <title>Little Girl Lost</title>
+      <end_time_offset>7554000</end_time_offset>
+      <start_time_offset>7330000</start_time_offset>
+    </item>
+    <item index="36">
+      <title>Ripley's Promise</title>
+      <end_time_offset>7661000</end_time_offset>
+      <start_time_offset>7554000</start_time_offset>
+    </item>
+    <item index="37">
+      <title>Reluctant Soldier</title>
+      <end_time_offset>7995000</end_time_offset>
+      <start_time_offset>7661000</start_time_offset>
+    </item>
+    <item index="38">
+      <title>The Nest</title>
+      <end_time_offset>8249000</end_time_offset>
+      <start_time_offset>7995000</start_time_offset>
+    </item>
+    <item index="39">
+      <title>The Final Countdown</title>
+      <end_time_offset>8544000</end_time_offset>
+      <start_time_offset>8249000</start_time_offset>
+    </item>
+    <item index="40">
+      <title>It's Over</title>
+      <end_time_offset>8596000</end_time_offset>
+      <start_time_offset>8544000</start_time_offset>
+    </item>
+    <item index="41">
+      <title>Final Confrontation</title>
+      <end_time_offset>9016000</end_time_offset>
+      <start_time_offset>8596000</start_time_offset>
+    </item>
+    <item index="42">
+      <title>Dreams</title>
+      <end_time_offset>9096000</end_time_offset>
+      <start_time_offset>9016000</start_time_offset>
+    </item>
+    <item index="43">
+      <title>End Titles</title>
+      <end_time_offset>-1</end_time_offset>
+      <start_time_offset>9096000</start_time_offset>
+    </item>
+  </chapters>
+  <themes/>
+  <quotes/>
+  <year>1986</year>
+  <duration>8220000</duration>
+  <genres>
+    <item index="0">Action</item>
+    <item index="1">Adventure</item>
+    <item index="2">Sci-Fi</item>
+    <item index="3">Thriller</item>
+  </genres>
+  <title>Aliens</title>
+  <tagline>This Time It's War</tagline>
+  <content_rating_age/>
+  <rating_count/>
+  <collections/>
+  <trivia/>
+  <tags/>
+  <audience_rating_image>rottentomatoes://image.rating.upright</audience_rating_image>
+  <rating_image>rottentomatoes://image.rating.ripe</rating_image>
+  <producers>
+    <item index="0">
+      <photo>http://image.tmdb.org/t/p/original/oRWGpXdIm2lu870aaKpgO3wy19n.jpg</photo>
+      <role/>
+      <name>Gale Anne Hurd</name>
+    </item>
+  </producers>
+  <audience_rating>9.4</audience_rating>
+  <studio>20th Century Fox</studio>
+  <posters>
+    <item external="True" url="http://image.tmdb.org/t/p/original/4dw4JX6uqGPO5v5bJYusaGNSON2.jpg" preview="9e2ab748738b4698a318133d44ec73c0a121acfa" sort_order="1"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/nORMXEkYEbzkU5WkMWMgRDJwjSZ.jpg" preview="763cc538b31b61b398d360ee43dcefff8f1ee848" sort_order="2"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/a3oSMsYy5MuQTmsgLlB6pT8ocwy.jpg" preview="c65fa25e2c8088c44540ec9f20b2383ffae32684" sort_order="3"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/jzFWqYsUwcSLB4mh4f0zofLEalZ.jpg" preview="dd71adbb7339e9da2042cb1c4c609032c719eabc" sort_order="4"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/jglUgWgo0CBY72DR9Le55fBL7Pw.jpg" preview="f82d46fba16895ac703a654ee97ac2aafbcfbb56" sort_order="5"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/jxxbbxSqPpTBn8D4G6yXgAU0Umw.jpg" preview="ff7f230091582e11e174227535d1b53719056c06" sort_order="6"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/7ieYQJv5JlMhY3CnoApBqe5UAI0.jpg" preview="7835c63450e40484dd4442e94ee1edeb7f45b495" sort_order="7"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/eZKjGaTxVZC3Cxi5R8WeNWlw1NX.jpg" preview="5aaa6c8b1bf196904f16eca24c8ad37738d06711" sort_order="8"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/exVSwUMka3jnJszSxPtvKQ8e9dh.jpg" preview="7d8ca42ea6f651266732c9a8e88def3dedfbea35" sort_order="9"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/zqjV81jPHMFXlS5Jo5bTjmevlnJ.jpg" preview="32d881c6448271bbcdd8e82f19f4dff21cae4e15" sort_order="10"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/vCDTn9zl0XHbvrlkao8LLwzchIQ.jpg" preview="b7d4e60c28f6779da8eb63f86627d9e22a2812b8" sort_order="11"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/rKk44esuoJx9ePrZSdt0NwmJmkI.jpg" preview="fde78f9404ecd1b7cedd92c84809c79be68628bb" sort_order="12"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/qJOP1VGPeUkKK8JXlCpIHQvCaQM.jpg" preview="83eca45cb154b7ad429a6bb76a00ca6553ec7e39" sort_order="13"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/qet8RDq99dRteBfSRfGeZeqY9xe.jpg" preview="e199a0d2d8f44950a9f61c7f0776cd3c999dbd65" sort_order="14"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/4lUx26j6TgR6j5LmMkwnW15ikQj.jpg" preview="ba1b471d535eca89544d3ca4daeaf487b32556fa" sort_order="15"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/aSGTD8oPSxq13FrducN6RofISn6.jpg" preview="944e068bfffbc7a1e4721185cec7700693144bdc" sort_order="16"/>
+  </posters>
+  <originally_available_at>1986-07-18</originally_available_at>
+  <roles>
+    <item index="0">
+      <photo>http://image.tmdb.org/t/p/original/gxBIAr3CnBjkNRoPovVJCvEGqP0.jpg</photo>
+      <role>Lt. Ellen Louise Ripley</role>
+      <name>Sigourney Weaver</name>
+    </item>
+    <item index="1">
+      <photo>http://image.tmdb.org/t/p/original/uZvJIfVirbv32OK4nba5bMZ6t9G.jpg</photo>
+      <role>Cpl. Dwayne Hicks</role>
+      <name>Michael Biehn</name>
+    </item>
+    <item index="2">
+      <photo>http://image.tmdb.org/t/p/original/fr53dQQrDGfETgbliCktwKqteRU.jpg</photo>
+      <role>Carter J. Burke</role>
+      <name>Paul Reiser</name>
+    </item>
+    <item index="3">
+      <photo>http://image.tmdb.org/t/p/original/wf4Pr9RxsHGd0O9fLPiB3Al8IVC.jpg</photo>
+      <role>Lance Bishop</role>
+      <name>Lance Henriksen</name>
+    </item>
+    <item index="4">
+      <photo>http://image.tmdb.org/t/p/original/pQezLMMjYw6k2sQKmsNbWNcGgHx.jpg</photo>
+      <role>Rebecca "Newt" Jorden</role>
+      <name>Carrie Henn</name>
+    </item>
+    <item index="5">
+      <photo>http://image.tmdb.org/t/p/original/53Ln1wTC0OCLzBF4HNlwhMXYgOU.jpg</photo>
+      <role>Pvt. William L. Hudson</role>
+      <name>Bill Paxton</name>
+    </item>
+    <item index="6">
+      <photo>http://image.tmdb.org/t/p/original/c8ItCgPO3nujp4Etx8Hy0MzOpfM.jpg</photo>
+      <role>Lt. Scott Gorman</role>
+      <name>William Hope</name>
+    </item>
+    <item index="7">
+      <photo>http://image.tmdb.org/t/p/original/wCcO7cqHJVtnfRlvAJvo7jKd6Bq.jpg</photo>
+      <role>Pvt. Jenette Vasquez</role>
+      <name>Jenette Goldstein</name>
+    </item>
+    <item index="8">
+      <photo>http://image.tmdb.org/t/p/original/eyqyrq96kaJCeZYuCGzl26DPx1x.jpg</photo>
+      <role>Sgt. Al Apone</role>
+      <name>Al Matthews</name>
+    </item>
+    <item index="9">
+      <photo>http://image.tmdb.org/t/p/original/bsh3cqDNwVvux4NdaY1Bj4S7mNS.jpg</photo>
+      <role>Pvt. Mark Drake</role>
+      <name>Mark Rolston</name>
+    </item>
+    <item index="10">
+      <photo>http://image.tmdb.org/t/p/original/oxKgoS69eWyEwyZ6FdkTaevjIQA.jpg</photo>
+      <role>Pvt. Ricco Frost</role>
+      <name>Ricco Ross</name>
+    </item>
+    <item index="11">
+      <photo>http://image.tmdb.org/t/p/original/jcTRt3qCuuJldcYIysrxdafSvGS.jpg</photo>
+      <role>Cpl. Colette Ferro</role>
+      <name>Colette Hiller</name>
+    </item>
+    <item index="12">
+      <photo>http://image.tmdb.org/t/p/original/v8xa3aFbdk0t7RXpXiLlXI7QepH.jpg</photo>
+      <role>Pvt. Daniel Spunkmeyer</role>
+      <name>Daniel Kash</name>
+    </item>
+    <item index="13">
+      <photo>http://image.tmdb.org/t/p/original/cBrZS9bmSrRclBVHG6QeSuUj1Q9.jpg</photo>
+      <role>Cpl. Cynthia Dietrich</role>
+      <name>Cynthia Dale Scott</name>
+    </item>
+    <item index="14">
+      <photo>http://image.tmdb.org/t/p/original/66FK4lBsNfTiKoDhxUgilP5RK3O.jpg</photo>
+      <role>Pvt. Tim Crowe</role>
+      <name>Tip Tipping</name>
+    </item>
+    <item index="15">
+      <photo>http://image.tmdb.org/t/p/original/A0cRMvlXSXIAixCxSimHXsiRXCC.jpg</photo>
+      <role>Pvt. Trevor "Ski" Wierzbowski</role>
+      <name>Trevor Steedman</name>
+    </item>
+    <item index="16">
+      <photo>http://image.tmdb.org/t/p/original/vioUXrSIz2OV0yWCPIJNZqHI9n0.jpg</photo>
+      <role>Van Leuwen</role>
+      <name>Paul Maxwell</name>
+    </item>
+    <item index="17">
+      <photo/>
+      <role>Aliens / Alien Queen</role>
+      <name>Carl Toop</name>
+    </item>
+    <item index="18">
+      <photo>http://image.tmdb.org/t/p/original/qlaLpyJVIv5sZJSlEVyM0Dshd00.jpg</photo>
+      <role>ECA Rep</role>
+      <name>Valerie Colgan</name>
+    </item>
+    <item index="19">
+      <photo>http://image.tmdb.org/t/p/original/qJlJSoQZ1C2OsTecqvPGFnF1D9q.jpg</photo>
+      <role>Insurance Man</role>
+      <name>Alan Polonsky</name>
+    </item>
+    <item index="20">
+      <photo>http://image.tmdb.org/t/p/original/w3dbJGwMQoCllW2vn4M8QmZWdJN.jpg</photo>
+      <role>Med Tech</role>
+      <name>Alibe Parsons</name>
+    </item>
+    <item index="21">
+      <photo>http://image.tmdb.org/t/p/original/fqf61EB1ID529vXH9yENdJSjTV8.jpg</photo>
+      <role>Doctor</role>
+      <name>Blain Fairman</name>
+    </item>
+    <item index="22">
+      <photo>http://image.tmdb.org/t/p/original/dteLo0HYOOaG1OmFqBb7sH6Q0Es.jpg</photo>
+      <role>Cocooned Woman</role>
+      <name>Barbara Coles</name>
+    </item>
+    <item index="23">
+      <photo>http://image.tmdb.org/t/p/original/nmBcFm0m1vb1UhrYdrn7xM5Ehj8.jpg</photo>
+      <role>Alien Warrior</role>
+      <name>Eddie Powell</name>
+    </item>
+    <item index="24">
+      <photo>http://image.tmdb.org/t/p/original/AeSuQlBclvWqztlpkf9nIhvvhsc.jpg</photo>
+      <role>Hicks body double</role>
+      <name>James Remar</name>
+    </item>
+    <item index="25">
+      <photo>http://image.tmdb.org/t/p/original/qbL81AfB15T85st6UeWVz4AzsEp.jpg</photo>
+      <role>Newt's Father (uncredited)</role>
+      <name>Jay Benedict</name>
+    </item>
+  </roles>
+  <countries>
+    <item index="0">USA</item>
+  </countries>
+  <content_rating>R</content_rating>
+  <original_title/>
+  <summary>When Ripley's lifepod is found by a salvage crew over 50 years later, she finds that terra-formers are on the very planet they found the alien species. When the company sends a family of colonists out to investigate her story, all contact is lost with the planet and colonists. They enlist Ripley and the colonial marines to return and search for answers.</summary>
+  <reviews>
+    <item index="0">
+      <text>Scene to scene, encounter to encounter, its tension builds unrelentingly. So, fasten your seat belts. It`s a blast.</text>
+      <source>Chicago Tribune</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>http://articles.chicagotribune.com/1986-07-18/entertainment/8602220050_1_marines-land-1979-s-alien-marine-cpl</link>
+      <author>Rick Kogan</author>
+    </item>
+    <item index="1">
+      <text>[Aliens] is a spectacular example of state-of-the-art science fiction simply because it never tries to be overtly spectacular.</text>
+      <source>Philadelphia Inquirer</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>http://articles.philly.com/1986-07-18/entertainment/26095907_1_aliens-ripley-returns-james-cameron</link>
+      <author>Desmond Ryan</author>
+    </item>
+    <item index="2">
+      <text>It's blaster action, not Gothic future-horror. Fortunately, director-screenwriter James Cameron has shaped his film around the defiant intelligence and sensual athleticism of Weaver, and that's where Aliens works best.</text>
+      <source>Los Angeles Times</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>http://articles.latimes.com/1986-07-18/entertainment/ca-16778_1_aliens</link>
+      <author>Sheila Benson</author>
+    </item>
+    <item index="3">
+      <text>This film is also the best monster movie of the year and the best picture of any kind to open so far this summer. Put it another way: Aliens is the Jaws of the '80s.</text>
+      <source>Orlando Sentinel</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>http://articles.orlandosentinel.com/1986-07-27/entertainment/0240130212_1_aliens-officer-ripley-james-cameron</link>
+      <author>Jay Boyar</author>
+    </item>
+    <item index="4">
+      <text>Action thrillers assail but rarely test us; this is the tautest, most provoking, and altogether most draining example ever made.</text>
+      <source>New Yorker</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>http://www.newyorker.com/arts/critics/notebook/2009/06/01/090601gonb_GOAT_notebook_lane</link>
+      <author>Anthony Lane</author>
+    </item>
+    <item index="5">
+      <text>Count me out of the fan club for this one.</text>
+      <source>Chicago Tribune</source>
+      <image>rottentomatoes://image.review.rotten</image>
+      <link>http://articles.chicagotribune.com/1986-08-08/entertainment/8602270452_1_flicks-film-ditch</link>
+      <author>Gene Siskel</author>
+    </item>
+    <item index="6">
+      <text>The trouble Ripley has found this time is exponentially bigger and scarier than anything she encountered in Ridley Scott's memorably minimalist, eerily elegant 1979 film.</text>
+      <source>TIME Magazine</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>http://www.time.com/time/magazine/article/0,9171,961839,00.html?promoid=googlep</link>
+      <author>Richard Schickel</author>
+    </item>
+    <item index="7">
+      <text>One sequel that surpasses the original.</text>
+      <source>Chicago Reader</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>http://onfilm.chicagoreader.com/movies/capsules/192_ALIENS</link>
+      <author>Dave Kehr</author>
+    </item>
+    <item index="8">
+      <text>There is always an interesting tension in Cameron's work between masculine and feminine qualities. When it finally hits the fan here, we're in for the mother of all battles.</text>
+      <source>Time Out</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>http://www.timeout.com/film/reviews/77700/aliens.html</link>
+      <author>Tom Charity</author>
+    </item>
+    <item index="9">
+      <text>Aliens ends up as a wild and woolly roller-coaster ride of a movie which should attract anxious crowds of thrill fans as it cuts a swath through theaters from here to Alpha Centauri.</text>
+      <source>Hollywood Reporter</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>http://www.hollywoodreporter.com/review/aliens-review-1986-movie-1022037</link>
+      <author>Dennis Fischer</author>
+    </item>
+    <item index="10">
+      <text>A flaming, flashing, crashing, crackling blow-'em-up show that keeps you popping from your seat despite your better instincts and the basically conventional scare tactics.</text>
+      <source>New York Times</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>http://www.nytimes.com/1986/07/18/movies/film-sigourney-weaver-in-aliens.html</link>
+      <author>Walter Goodman</author>
+    </item>
+    <item index="11">
+      <text>Makes up for lack of surprise with sheer volume of thrills and chills.</text>
+      <source>Variety</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>http://www.variety.com/review/VE1117789177.html?categoryid=31&amp;cs=1</link>
+      <author>Variety Staff</author>
+    </item>
+    <item index="12">
+      <text>When it comes to the logical marriage of action, adventure, and science fiction, few films are as effective or accomplished as Aliens.</text>
+      <source>ReelViews</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>http://www.reelviews.net/php_review_template.php?identifier=170</link>
+      <author>James Berardinelli</author>
+    </item>
+    <item index="13">
+      <text>The ads for Aliens claim that this movie will frighten you as few movies have, and, for once, the ads don't lie.</text>
+      <source>Chicago Sun-Times</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>http://www.rogerebert.com/reviews/aliens-1986</link>
+      <author>Roger Ebert</author>
+    </item>
+  </reviews>
+  <directors>
+    <item index="0">
+      <photo>http://image.tmdb.org/t/p/original/zy2foCd8PEtvCcsX48cROdQdDLB.jpg</photo>
+      <role/>
+      <name>James Cameron</name>
+    </item>
+  </directors>
+  <extras external="True" extension="xml"/>
+  <banners/>
+  <similar>
+    <item index="0">Alien</item>
+    <item index="1">Alien³</item>
+    <item index="2">Alien Resurrection</item>
+    <item index="3">Predator</item>
+    <item index="4">Terminator 2: Judgment Day</item>
+    <item index="5">The Terminator</item>
+    <item index="6">Total Recall</item>
+    <item index="7">The Thing</item>
+    <item index="8">Starship Troopers</item>
+    <item index="9">RoboCop</item>
+    <item index="10">AVP: Alien vs. Predator</item>
+    <item index="11">Terminator 3: Rise of the Machines</item>
+    <item index="12">Terminator Salvation</item>
+    <item index="13">Indiana Jones and the Last Crusade</item>
+    <item index="14">Die Hard</item>
+    <item index="15">Predator 2</item>
+    <item index="16">The Abyss</item>
+    <item index="17">Raiders of the Lost Ark</item>
+    <item index="18">Die Hard 2</item>
+    <item index="19">Die Hard: With a Vengeance</item>
+  </similar>
+</Movie>

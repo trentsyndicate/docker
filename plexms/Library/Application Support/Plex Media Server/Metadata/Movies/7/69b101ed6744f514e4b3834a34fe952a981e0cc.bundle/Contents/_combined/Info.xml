@@ -1,0 +1,465 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Movie>
+  <art>
+    <item external="True" url="http://image.tmdb.org/t/p/original/9hd5KF5rOXK25qO1nfdKo5sfa3X.jpg" sort_order="1" provider="com.plexapp.agents.imdb" media="com.plexapp.agents.imdb_4664d7de5252e5d596db0c50d90324530a7b4d1a"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/m8dQJ1bmsDQboXmAUR7vHHu0GRX.jpg" preview="com.plexapp.agents.imdb_4901e25a79a51f4185994b0a5013d894e4635e86" sort_order="2" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/gy5ItoprIPOT7Z1c2YhNhart39l.jpg" preview="com.plexapp.agents.imdb_f0e868bfbd2cbae828bea0f11cee29552da8da52" sort_order="3" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/6UPlIYKxZqUR6Xbpgu1JKG0J7UC.jpg" preview="com.plexapp.agents.imdb_52be1f3b69c568cd9c223827961ff3f1f93d5ffe" sort_order="4" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/xDiCTlgzI2OdjiImDO4mDXFFCRM.jpg" preview="com.plexapp.agents.imdb_74494e888bf2cb6bd72c9ce91e9bd10e11dc2100" sort_order="5" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/2xMeyivx58ZchOog1oNnvUMGeqe.jpg" preview="com.plexapp.agents.imdb_1c8765e0e5dd54aa9e74d6f669c385bab66c8bf4" sort_order="6" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/qFL4TY9FCKp3komw29E9Coff03V.jpg" preview="com.plexapp.agents.imdb_b925c55b139199d701c067c5bebe59cfe1aa79b8" sort_order="7" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/yKBmBv8B8hgUYS3lD0FYrfdypp5.jpg" preview="com.plexapp.agents.imdb_7811a0e7ea44cb0e0e1ea2830e38d502e663a3f8" sort_order="8" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/ir6s58ToCls4A2FEM9DLW4ycF96.jpg" preview="com.plexapp.agents.imdb_4e34a060289e2c507140fea98738aae2679bce71" sort_order="9" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/nIbaIVHAA1epxF2n0yN0iKKayu8.jpg" preview="com.plexapp.agents.imdb_5c33f8fbf04716a6d1a51182bd982105bc5a84e6" sort_order="10" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/ehiwvITAULzSHSZ73Kz7SVRRvTi.jpg" preview="com.plexapp.agents.imdb_6ea742b4813b28b47d73431721d1634c409cd32a" sort_order="11" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/5nPFhrsycBC135V3ezwgXkTCTLE.jpg" preview="com.plexapp.agents.imdb_7524fa7c83c03c0d3da4572173659277c4c29c24" sort_order="12" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/9dTSSseosGnQNlxuyLqjpJ6PKxo.jpg" preview="com.plexapp.agents.imdb_c1987fe4e3fec23e73403155c74dbf1504678073" sort_order="13" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/hNSgt3c4yxyU1IiaYYEL0P05nbs.jpg" preview="com.plexapp.agents.imdb_b53ba274ec01a75ad99dd95e54709bd7babe12ad" sort_order="14" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/oBV4HFPYmmUL0xzt1qFsi4170Qz.jpg" preview="com.plexapp.agents.imdb_9fa943b18b5316f927fd11a386c7d7bf2081ff9d" sort_order="15" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/cZ0YUn69m0z1ov5e9Tt1O7ooe1W.jpg" preview="com.plexapp.agents.imdb_794d43ce947c7f08e6b40479757e945e667acf76" sort_order="16" provider="com.plexapp.agents.imdb"/>
+  </art>
+  <banners/>
+  <chapters>
+    <item index="0">
+      <title>Chapter 1</title>
+      <end_time_offset>247000</end_time_offset>
+      <start_time_offset>0</start_time_offset>
+    </item>
+    <item index="1">
+      <title>Chapter 2</title>
+      <end_time_offset>440000</end_time_offset>
+      <start_time_offset>247000</start_time_offset>
+    </item>
+    <item index="2">
+      <title>Chapter 3</title>
+      <end_time_offset>692000</end_time_offset>
+      <start_time_offset>440000</start_time_offset>
+    </item>
+    <item index="3">
+      <title>Chapter 4</title>
+      <end_time_offset>990000</end_time_offset>
+      <start_time_offset>692000</start_time_offset>
+    </item>
+    <item index="4">
+      <title>Chapter 5</title>
+      <end_time_offset>1373000</end_time_offset>
+      <start_time_offset>990000</start_time_offset>
+    </item>
+    <item index="5">
+      <title>Chapter 6</title>
+      <end_time_offset>1823000</end_time_offset>
+      <start_time_offset>1373000</start_time_offset>
+    </item>
+    <item index="6">
+      <title>Chapter 7</title>
+      <end_time_offset>2056000</end_time_offset>
+      <start_time_offset>1823000</start_time_offset>
+    </item>
+    <item index="7">
+      <title>Chapter 8</title>
+      <end_time_offset>2337000</end_time_offset>
+      <start_time_offset>2056000</start_time_offset>
+    </item>
+    <item index="8">
+      <title>Chapter 9</title>
+      <end_time_offset>2580000</end_time_offset>
+      <start_time_offset>2337000</start_time_offset>
+    </item>
+    <item index="9">
+      <title>Chapter 10</title>
+      <end_time_offset>2823000</end_time_offset>
+      <start_time_offset>2580000</start_time_offset>
+    </item>
+    <item index="10">
+      <title>Chapter 11</title>
+      <end_time_offset>3196000</end_time_offset>
+      <start_time_offset>2823000</start_time_offset>
+    </item>
+    <item index="11">
+      <title>Chapter 12</title>
+      <end_time_offset>3459000</end_time_offset>
+      <start_time_offset>3196000</start_time_offset>
+    </item>
+    <item index="12">
+      <title>Chapter 13</title>
+      <end_time_offset>3647000</end_time_offset>
+      <start_time_offset>3459000</start_time_offset>
+    </item>
+    <item index="13">
+      <title>Chapter 14</title>
+      <end_time_offset>3870000</end_time_offset>
+      <start_time_offset>3647000</start_time_offset>
+    </item>
+    <item index="14">
+      <title>Chapter 15</title>
+      <end_time_offset>4152000</end_time_offset>
+      <start_time_offset>3870000</start_time_offset>
+    </item>
+    <item index="15">
+      <title>Chapter 16</title>
+      <end_time_offset>4367000</end_time_offset>
+      <start_time_offset>4152000</start_time_offset>
+    </item>
+    <item index="16">
+      <title>Chapter 17</title>
+      <end_time_offset>4631000</end_time_offset>
+      <start_time_offset>4367000</start_time_offset>
+    </item>
+    <item index="17">
+      <title>Chapter 18</title>
+      <end_time_offset>4912000</end_time_offset>
+      <start_time_offset>4631000</start_time_offset>
+    </item>
+    <item index="18">
+      <title>Chapter 19</title>
+      <end_time_offset>5102000</end_time_offset>
+      <start_time_offset>4912000</start_time_offset>
+    </item>
+    <item index="19">
+      <title>Credits</title>
+      <end_time_offset>-1</end_time_offset>
+      <start_time_offset>5102000</start_time_offset>
+    </item>
+  </chapters>
+  <collections/>
+  <content_rating>PG-13</content_rating>
+  <countries>
+    <item index="0">USA</item>
+  </countries>
+  <directors>
+    <item index="0">
+      <photo/>
+      <role/>
+      <name>Gary Shore</name>
+    </item>
+  </directors>
+  <duration>5520000</duration>
+  <genres>
+    <item index="0">Action</item>
+    <item index="1">Drama</item>
+    <item index="2">Fantasy</item>
+    <item index="3">Horror</item>
+    <item index="4">War</item>
+  </genres>
+  <originally_available_at>2014-10-01</originally_available_at>
+  <posters>
+    <item external="True" url="http://image.tmdb.org/t/p/original/5nGlZd3Z7dZoOrLQWItTqjvFdfV.jpg" sort_order="1" provider="com.plexapp.agents.imdb" media="com.plexapp.agents.imdb_e414e927fd394c90a8d97e2740c92f55ce0e00ca"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/4oy4e0DP6LRwRszfx8NY8EYBj8V.jpg" preview="com.plexapp.agents.imdb_0ef20f944583b5001410de11a381fac0fe31cf6b" sort_order="2" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/7IYNle97oASoSgLKDOa53Hqbmbt.jpg" preview="com.plexapp.agents.imdb_333f84aa792c5d819de20bb0e2c8228cf4cd2c81" sort_order="3" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/8jEBCN344mjNYIExrWWB5vioePA.jpg" preview="com.plexapp.agents.imdb_0a7b6f98c1427916fd2509b7d996d1342141db02" sort_order="4" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/qNKGb3aGU90zhnuuHruA84VrvJC.jpg" preview="com.plexapp.agents.imdb_4efbba1165b721796eafc96e9751639b6d5644bc" sort_order="5" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/qGnh1B8rm5pmlxVSdUcTPm0RQPB.jpg" preview="com.plexapp.agents.imdb_60955cce44e192d2d6d43359f9e31e97a7a0420d" sort_order="6" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/5IFVkWAlvzAbIKIyblXspwWXrO1.jpg" preview="com.plexapp.agents.imdb_62b550e0ae8067c87e951dc417607e8937b51235" sort_order="7" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/6jkNiPkBcrCPNz8OBusMOscKOdi.jpg" preview="com.plexapp.agents.imdb_4c6ab0dfdf0235d9aba92fed47290f3e76b7e7fb" sort_order="8" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/gzQaNg088RRdmUfMmIkbyXRmaYf.jpg" preview="com.plexapp.agents.imdb_4fb73a52052d60a4f092261955bacb7f3a402679" sort_order="9" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/mfsL9XmZGI6KcRFDWdMVFBa8wWJ.jpg" preview="com.plexapp.agents.imdb_9b9d01b9677b8548dcc971e1c167eebefa9c7461" sort_order="10" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/1ucdXj6U3233YN7HXhtuh7jSFau.jpg" preview="com.plexapp.agents.imdb_3d26f2e9b191d9bbae26e22dc2038575673b2f5f" sort_order="11" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/vTdmODiZHZbDF7N6yKzxJUnPYvy.jpg" preview="com.plexapp.agents.imdb_d77cf664f8811ecac4bd41c93ed3fd84f8642608" sort_order="12" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/rh9gIV20I4zqqH1DaEUM85yyRrp.jpg" preview="com.plexapp.agents.imdb_c7750b9c3706258f75266760fd9d278ad818ff34" sort_order="13" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/iUaMRm56cXt3G5tEiJxfPTlj9tr.jpg" preview="com.plexapp.agents.imdb_140d4c3ba9ff2b75a614ef7387b93f6ac6481ddf" sort_order="14" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/unKvRizkDNJec9divr9WLJco79z.jpg" preview="com.plexapp.agents.imdb_f9aeee652eeacf06b31c88dea6e80b28e23ac8c2" sort_order="15" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/22rMOlqHTJKU7LaQHSsv8t0kIie.jpg" preview="com.plexapp.agents.imdb_6560358967f9c3d4fbecbc78f00638b7e51fc001" sort_order="16" provider="com.plexapp.agents.imdb"/>
+  </posters>
+  <producers>
+    <item index="0">
+      <photo/>
+      <role/>
+      <name>Michael De Luca</name>
+    </item>
+  </producers>
+  <rating>2.4</rating>
+  <rating_image>rottentomatoes://image.rating.rotten</rating_image>
+  <audience_rating>5.7</audience_rating>
+  <audience_rating_image>rottentomatoes://image.rating.spilled</audience_rating_image>
+  <reviews>
+    <item index="0">
+      <text>[Evans] carries Untold by admirably fulfilling the two essential functions of a period-movie hero: to enunciate comic-book dialogue with Shakespearean authority and to look great with his shirt off.</text>
+      <source>TIME Magazine</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>http://time.com/3494453/dracula-untold-review/</link>
+      <author>Richard Corliss</author>
+    </item>
+    <item index="1">
+      <text>Most of the time, I found myself feeling like I was waiting for a turn with the gaming controls.</text>
+      <source>Grantland</source>
+      <image>rottentomatoes://image.review.rotten</image>
+      <link>http://grantland.com/hollywood-prospectus/the-judge-robert-downey-jr-dracula-movie-review/</link>
+      <author>Wesley Morris</author>
+    </item>
+    <item index="2">
+      <text>If you can selectively ignore this litany of inanity, you may find some substantial earthy pleasures in "Dracula Untold."</text>
+      <source>RogerEbert.com</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>http://www.rogerebert.com/reviews/dracula-untold-2014</link>
+      <author>Simon Abrams</author>
+    </item>
+    <item index="3">
+      <text>A generic vampire tale in the Underworld vein that comes closer to the infamous Van Helsing than a memorable re-interpretation of a legendary monster.</text>
+      <source>ReelViews</source>
+      <image>rottentomatoes://image.review.rotten</image>
+      <link>http://www.reelviews.net/php_review_template.php?identifier=2816</link>
+      <author>James Berardinelli</author>
+    </item>
+    <item index="4">
+      <text>The movie is the latest multiplex filler to co-opt a classic tale only to drown it in computer-generated murk. Even the title has the ring of something created by committee.</text>
+      <source>New York Times</source>
+      <image>rottentomatoes://image.review.rotten</image>
+      <link>http://www.nytimes.com/2014/10/10/movies/dracula-untold-in-which-prince-vlad-battles-the-turks.html?partner=rss&amp;emc=rss</link>
+      <author>Ben Kenigsberg</author>
+    </item>
+    <item index="5">
+      <text>It's not so much untold as rewritten - if not by J.R.R. Tolkien than by some clever 12-year-old overstimulated by "The Lord of the Rings."</text>
+      <source>Boston Globe</source>
+      <image>rottentomatoes://image.review.rotten</image>
+      <link>http://www.bostonglobe.com/arts/movies/2014/10/09/movie-review-dracula-untold-offers-new-take-vlad-backstory/rPZSFfhJND2A8WKt1aa2ZM/story.html</link>
+      <author>Peter Keough</author>
+    </item>
+    <item index="6">
+      <text>Whatever possessed the makers of Dracula Untold to think we'd be interested in a tragically unhip romance that backstories the infamous bloodsucker?</text>
+      <source>Toronto Star</source>
+      <image>rottentomatoes://image.review.rotten</image>
+      <link>http://www.thestar.com/entertainment/movies/2014/10/09/dracula_untold_could_drive_you_batty_review.html</link>
+      <author>Peter Howell</author>
+    </item>
+    <item index="7">
+      <text>At times Dracula Untold flirts with dullness so much that it might as well just stick a stake in the heart of Bram Stoker's legacy.</text>
+      <source>USA Today</source>
+      <image>rottentomatoes://image.review.rotten</image>
+      <link>http://www.usatoday.com/story/life/movies/2014/10/09/dracula-untold-review/16452913/</link>
+      <author>Brian Truitt</author>
+    </item>
+    <item index="8">
+      <text>This Vlad the Impaler has all the edge of Vlasic the pickle.</text>
+      <source>New York Post</source>
+      <image>rottentomatoes://image.review.rotten</image>
+      <link>http://nypost.com/2014/10/09/origins-story-dracula-untold-is-dracula-unbold/</link>
+      <author>Kyle Smith</author>
+    </item>
+    <item index="9">
+      <text>"Dracula Untold" feels longer than its 95-minute running time.</text>
+      <source>St. Louis Post-Dispatch</source>
+      <image>rottentomatoes://image.review.rotten</image>
+      <link>http://www.stltoday.com/entertainment/movies/reviews/latest-installment-of-dracula-is-best-left-untold/article_435c33a2-b440-5ab2-a6fc-fb528874242b.html</link>
+      <author>Kevin C. Johnson</author>
+    </item>
+    <item index="10">
+      <text>The weapons, Turkish helmets and Romanian interiors are all gorgeous. If only the rest of this "Lord of the Rings" wanna-be were at the same level.</text>
+      <source>New York Daily News</source>
+      <image>rottentomatoes://image.review.rotten</image>
+      <link>http://www.nydailynews.com/entertainment/movies/dracula-untold-movie-review-article-1.1968816</link>
+      <author>Jordan Hoffman</author>
+    </item>
+    <item index="11">
+      <text>The film's problems aren't limited to liberal cadging from comic books. In fact, that's precisely what's best about the film, which occasionally boasts gorgeous visuals. But the movie doesn't know when to stop stealing.</text>
+      <source>Washington Post</source>
+      <image>rottentomatoes://image.review.rotten</image>
+      <link>http://www.washingtonpost.com/goingoutguide/movies/dracula-untold-movie-review/2014/10/09/1310972e-4ef6-11e4-8c24-487e92bc997b_story.html</link>
+      <author>Michael O'Sullivan</author>
+    </item>
+    <item index="12">
+      <text>Here we have a vampire movie that brings together elements from other more popular movies.</text>
+      <source>San Francisco Chronicle</source>
+      <image>rottentomatoes://image.review.rotten</image>
+      <link>http://www.sfgate.com/movies/article/Dracula-Untold-review-The-sadness-of-5810726.php</link>
+      <author>Mick LaSalle</author>
+    </item>
+    <item index="13">
+      <text>I don't want to oversell this film. But in an era in which we've seen a lot of failed attempts to reinvent classic fantasy tales as CGI-action spectacles, it feels remarkably assured.</text>
+      <source>New York Magazine/Vulture</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>http://t.co/hpGS6Gafll</link>
+      <author>Bilge Ebiri</author>
+    </item>
+    <item index="14">
+      <text>Neither the Dracula we need nor the one we deserve.</text>
+      <source>AV Club</source>
+      <image>rottentomatoes://image.review.rotten</image>
+      <link>http://www.avclub.com/review/dracula-should-have-remained-untold-210237</link>
+      <author>A.A. Dowd</author>
+    </item>
+    <item index="15">
+      <text>If this Dracula can kill hundreds of enemies by himself - and he can, and does, in several dull and protracted battle scenes - then where's the suspense? If he's become a monster for noble reasons, then where's the dark conflict?</text>
+      <source>Newark Star-Ledger</source>
+      <image>rottentomatoes://image.review.rotten</image>
+      <link>http://www.nj.com/entertainment/index.ssf/2014/10/dracula_untold_review_fangs_for_nothing.html</link>
+      <author>Stephen Whitty</author>
+    </item>
+    <item index="16">
+      <text>Don't go looking for horror, gore, or vampiric sexytimes; this here is an old-fashioned tragedy that just happens to involve a guy who can turn into a cloud of bats.</text>
+      <source>San Diego Reader</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>http://www.sandiegoreader.com/movies/dracula-untold/</link>
+      <author>Matthew Lickona</author>
+    </item>
+    <item index="17">
+      <text>It works neither as a sweeping historical epic nor as an action-horror hybrid.</text>
+      <source>Entertainment Weekly</source>
+      <image>rottentomatoes://image.review.rotten</image>
+      <link>http://www.ew.com/ew/article/0,,20859840,00.html</link>
+      <author>Kyle Anderson</author>
+    </item>
+  </reviews>
+  <roles>
+    <item index="0">
+      <photo>http://image.tmdb.org/t/p/original/1d31uDYub8TaLOPWfgX78OotduD.jpg</photo>
+      <role>Dracula / Vlad Tepes</role>
+      <name>Luke Evans</name>
+    </item>
+    <item index="1">
+      <photo>http://image.tmdb.org/t/p/original/2wBgDSA2zk00KXpNSucdIGscu5b.jpg</photo>
+      <role>Mirena / Mina Murray</role>
+      <name>Sarah Gadon</name>
+    </item>
+    <item index="2">
+      <photo>http://image.tmdb.org/t/p/original/z4eKEtwZXVespbZCS2qjYZaztyv.jpg</photo>
+      <role>Mehmed II</role>
+      <name>Dominic Cooper</name>
+    </item>
+    <item index="3">
+      <photo>http://image.tmdb.org/t/p/original/snAhEzKVIc70wQcKtF24nlwDDLe.jpg</photo>
+      <role>Ingeras</role>
+      <name>Art Parkinson</name>
+    </item>
+    <item index="4">
+      <photo>http://image.tmdb.org/t/p/original/bLT03rnI29YmbYWjA1JJCl4xVXw.jpg</photo>
+      <role>Master Vampire</role>
+      <name>Charles Dance</name>
+    </item>
+    <item index="5">
+      <photo>http://image.tmdb.org/t/p/original/mGYuCYKnPojosNhviSoB1BifofA.jpg</photo>
+      <role>Dimitru</role>
+      <name>Diarmaid Murtagh</name>
+    </item>
+    <item index="6">
+      <photo>http://image.tmdb.org/t/p/original/gc1DrDlzfQcA7gxx9Ke7Ul8vgww.jpg</photo>
+      <role>Cazan</role>
+      <name>William Houston</name>
+    </item>
+    <item index="7">
+      <photo>http://image.tmdb.org/t/p/original/dAwfkCqQOFqADngR4vAE9lG7D8Z.jpg</photo>
+      <role>Captain Petru</role>
+      <name>Noah Huntley</name>
+    </item>
+    <item index="8">
+      <photo>http://image.tmdb.org/t/p/original/3mCxRbHuq1aJwrFqLwk3OSdqva9.jpg</photo>
+      <role>Simion</role>
+      <name>Ronan Vibert</name>
+    </item>
+    <item index="9">
+      <photo>http://image.tmdb.org/t/p/original/mrnpQbd7n0twHvtfWIx6LqF67M0.jpg</photo>
+      <role>Shkelgim</role>
+      <name>Zach McGowan</name>
+    </item>
+    <item index="10">
+      <photo>http://image.tmdb.org/t/p/original/vCdJlraqnOIJXiELExpO79y8O5M.jpg</photo>
+      <role>Hamza Bey</role>
+      <name>Ferdinand Kingsley</name>
+    </item>
+    <item index="11">
+      <photo>http://image.tmdb.org/t/p/original/1VnK6vr9eUM07DXmaZbXUP0qT3Y.jpg</photo>
+      <role>General Omer</role>
+      <name>Joseph Long</name>
+    </item>
+    <item index="12">
+      <photo>http://image.tmdb.org/t/p/original/bibqxPEMchCdFvKsaImW1scdMvp.jpg</photo>
+      <role>Bright Eyes</role>
+      <name>Thor Kristjansson</name>
+    </item>
+    <item index="13">
+      <photo>http://image.tmdb.org/t/p/original/i3DzV8gL6DAMHn2MC8uFWLHENbk.jpg</photo>
+      <role>Acemi</role>
+      <name>Jakub Gierszał</name>
+    </item>
+    <item index="14">
+      <photo>http://image.tmdb.org/t/p/original/3lLRxI9rjji23A5FOPBVey8H2si.jpg</photo>
+      <role>Governess</role>
+      <name>Dilan Gwyn</name>
+    </item>
+    <item index="15">
+      <photo>http://image.tmdb.org/t/p/original/szTRTFzkTlyLmRPf9BOlBueD2nX.jpg</photo>
+      <role>The Village Elder</role>
+      <name>J.J. Murphy</name>
+    </item>
+    <item index="16">
+      <photo>http://image.tmdb.org/t/p/original/hQHptsWpzIDtgHRXEn05CzIdY7E.jpg</photo>
+      <role>Brother Lucian</role>
+      <name>Paul Kaye</name>
+    </item>
+    <item index="17">
+      <photo>http://image.tmdb.org/t/p/original/mpxwhCFcb53B3PJQzri5nKmgnUb.jpg</photo>
+      <role>Mirena's Handmaiden</role>
+      <name>Louise Parker</name>
+    </item>
+    <item index="18">
+      <photo>http://image.tmdb.org/t/p/original/9sqRfr1nFvdnKloeAsuQF4ifw7U.jpg</photo>
+      <role>Handmaiden (uncredited)</role>
+      <name>Joana Metrass</name>
+    </item>
+    <item index="19">
+      <photo/>
+      <role>Nicolae</role>
+      <name>Paul Bullion</name>
+    </item>
+    <item index="20">
+      <photo>http://image.tmdb.org/t/p/original/sAynqBOykz03qlcWM9hOKXUfH6y.jpg</photo>
+      <role>Andrei</role>
+      <name>Mish Boyko</name>
+    </item>
+    <item index="21">
+      <photo>http://image.tmdb.org/t/p/original/kIOImbkenpoLLPKMl8IJ2bwwhOL.jpg</photo>
+      <role>General Ismail</role>
+      <name>Arkie Reece</name>
+    </item>
+    <item index="22">
+      <photo>http://image.tmdb.org/t/p/original/z2ez59LFrgPUqkOkQ06MjT7MWOs.jpg</photo>
+      <role>Turkish General</role>
+      <name>Tom Benedict Knight</name>
+    </item>
+    <item index="23">
+      <photo/>
+      <role>Boyar Man</role>
+      <name>Gordon Bell</name>
+    </item>
+  </roles>
+  <similar>
+    <item index="0">Hercules</item>
+    <item index="1">Seventh Son</item>
+    <item index="2">Exodus: Gods and Kings</item>
+    <item index="3">47 Ronin</item>
+    <item index="4">Teenage Mutant Ninja Turtles</item>
+    <item index="5">I, Frankenstein</item>
+    <item index="6">300: Rise of an Empire</item>
+    <item index="7">Transformers: Age of Extinction</item>
+    <item index="8">The Expendables 3</item>
+    <item index="9">Jupiter Ascending</item>
+    <item index="10">Priest</item>
+    <item index="11">RoboCop</item>
+    <item index="12">Van Helsing</item>
+    <item index="13">Godzilla</item>
+    <item index="14">The Last Witch Hunter</item>
+    <item index="15">Underworld: Rise of the Lycans</item>
+    <item index="16">Taken 3</item>
+    <item index="17">Abraham Lincoln: Vampire Hunter</item>
+    <item index="18">The Equalizer</item>
+    <item index="19">R.I.P.D.</item>
+  </similar>
+  <studio>Universal Pictures</studio>
+  <summary>Vlad Tepes is a great hero, but when he learns the Sultan is preparing for battle and needs to form an army of 1,000 boys, including Vlad's son, he vows to find a way to protect his family. Vlad turns to dark forces in order to get the power to destroy his enemies and agrees to go from hero to monster as he's turned into the mythological vampire Dracula.</summary>
+  <tagline>Every bloodline has a beginning</tagline>
+  <tags/>
+  <themes/>
+  <title>Dracula Untold</title>
+  <writers>
+    <item index="0">
+      <photo>http://image.tmdb.org/t/p/original/vfYuk0NTHNQT6KHzdupi6sqS9mi.jpg</photo>
+      <role/>
+      <name>Matt Sazama</name>
+    </item>
+    <item index="1">
+      <photo>http://image.tmdb.org/t/p/original/ciQUbLMC6Jdpk9ArWpcpA5Nwl6n.jpg</photo>
+      <role/>
+      <name>Burk Sharpless</name>
+    </item>
+  </writers>
+  <year>2014</year>
+</Movie>

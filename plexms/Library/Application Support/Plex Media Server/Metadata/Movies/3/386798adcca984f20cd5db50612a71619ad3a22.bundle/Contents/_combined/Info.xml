@@ -1,0 +1,589 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Movie>
+  <art>
+    <item external="True" url="http://image.tmdb.org/t/p/original/36h3Sw4y4COqMeNg31ST0h5xRae.jpg" sort_order="1" provider="com.plexapp.agents.imdb" media="com.plexapp.agents.imdb_178b9d6f68968edc6d113f8c08426e38138d3b05"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/7cjYqUHbloiE65bd3nSRm64OWpV.jpg" preview="com.plexapp.agents.imdb_2642f12ab2aa1c5ee030c6fec715cc53680adf94" sort_order="2" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/rND0GSv8X2Zzs7VhyFAs9BCEmYE.jpg" preview="com.plexapp.agents.imdb_c4ca5810b121500710a526ef9a70de6b77955eb7" sort_order="3" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/kqL4hOlQaf5bJqqqBJFzLgAV2U9.jpg" preview="com.plexapp.agents.imdb_4ef9cb2a8abae9806fed153d995b12f713a42dae" sort_order="4" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/nI8esXkj5w2tunOByJuflMdct2Y.jpg" preview="com.plexapp.agents.imdb_3595daf7ff3b449e7f293148e842bcbbbcd36ef5" sort_order="5" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/ajHQD0QGVxfeh8rqu1lRVxsZfzE.jpg" preview="com.plexapp.agents.imdb_1668d35206b8764a9b99d03c949c4ff3f4beb976" sort_order="6" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/6M4uK8futkQZcRryd0KjPFTwCSQ.jpg" preview="com.plexapp.agents.imdb_db49b2431c15531a039679ad1f6b8255b301ed7c" sort_order="7" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/eXTjmClopilyoFu5o2H1PpmK8RD.jpg" preview="com.plexapp.agents.imdb_7a39713761b0643077b3775c5b220af52faa64eb" sort_order="8" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/d1zfVkdmp1ITPfdMtRHVYRQ6z2H.jpg" preview="com.plexapp.agents.imdb_cafbd2506ec152661dfaf516bdfe59b9a2834dcb" sort_order="9" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/oD7HA17X704VMeeraeesAdoWSER.jpg" preview="com.plexapp.agents.imdb_89e1c2603670e5df2104c7c0c81e62f400620ebb" sort_order="10" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/wpFDGHlfwP0fnW8SKu1VQjk60UV.jpg" preview="com.plexapp.agents.imdb_0b7563adc37586726f4632742c66e74982a4f6a3" sort_order="11" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/kDfqdzNuH0xA0Mani4TiGrkLBMO.jpg" preview="com.plexapp.agents.imdb_786d2d079eec3a90e123da0df31a52e6c535f33e" sort_order="12" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/c0FsjEar0B9m5PadTV7T2PiB0MY.jpg" preview="com.plexapp.agents.imdb_38f221883f76c4b4d39261c0a5950c85502ad11a" sort_order="13" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/4mlS1MitcOqdPLhxEFyk9Qwf5rr.jpg" preview="com.plexapp.agents.imdb_1c62fa84376c47eb4b49c2e7e699f155ab38f753" sort_order="14" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/g9U8VnvBfsfnpV45p8rNHkwuCst.jpg" preview="com.plexapp.agents.imdb_95591571aa7f54b3a8190f4375b820c2e67f5a41" sort_order="15" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/7qQJ0FZ1WFqOybO8k3lXWVslP8f.jpg" preview="com.plexapp.agents.imdb_06855be88af595e309e0eae903cffb7ad6d5e11c" sort_order="16" provider="com.plexapp.agents.imdb"/>
+  </art>
+  <banners/>
+  <chapters>
+    <item index="0">
+      <title>Champ McQueen</title>
+      <end_time_offset>297000</end_time_offset>
+      <start_time_offset>0</start_time_offset>
+    </item>
+    <item index="1">
+      <title>Storm Front</title>
+      <end_time_offset>654000</end_time_offset>
+      <start_time_offset>297000</start_time_offset>
+    </item>
+    <item index="2">
+      <title>Crash</title>
+      <end_time_offset>839000</end_time_offset>
+      <start_time_offset>654000</start_time_offset>
+    </item>
+    <item index="3">
+      <title>Wake-up Call</title>
+      <end_time_offset>1095000</end_time_offset>
+      <start_time_offset>839000</start_time_offset>
+    </item>
+    <item index="4">
+      <title>Phone Call</title>
+      <end_time_offset>1267000</end_time_offset>
+      <start_time_offset>1095000</start_time_offset>
+    </item>
+    <item index="5">
+      <title>Modern Training</title>
+      <end_time_offset>2048000</end_time_offset>
+      <start_time_offset>1267000</start_time_offset>
+    </item>
+    <item index="6">
+      <title>Deal</title>
+      <end_time_offset>2272000</end_time_offset>
+      <start_time_offset>2048000</start_time_offset>
+    </item>
+    <item index="7">
+      <title>Beach</title>
+      <end_time_offset>2564000</end_time_offset>
+      <start_time_offset>2272000</start_time_offset>
+    </item>
+    <item index="8">
+      <title>Crazy Eight</title>
+      <end_time_offset>2984000</end_time_offset>
+      <start_time_offset>2564000</start_time_offset>
+    </item>
+    <item index="9">
+      <title>Cruz's Dream</title>
+      <end_time_offset>3237000</end_time_offset>
+      <start_time_offset>2984000</start_time_offset>
+    </item>
+    <item index="10">
+      <title>Facetime</title>
+      <end_time_offset>3497000</end_time_offset>
+      <start_time_offset>3237000</start_time_offset>
+    </item>
+    <item index="11">
+      <title>Olive Branch</title>
+      <end_time_offset>3567000</end_time_offset>
+      <start_time_offset>3497000</start_time_offset>
+    </item>
+    <item index="12">
+      <title>Smokey</title>
+      <end_time_offset>3735000</end_time_offset>
+      <start_time_offset>3567000</start_time_offset>
+    </item>
+    <item index="13">
+      <title>Hud's Win</title>
+      <end_time_offset>3995000</end_time_offset>
+      <start_time_offset>3735000</start_time_offset>
+    </item>
+    <item index="14">
+      <title>It's Over</title>
+      <end_time_offset>4113000</end_time_offset>
+      <start_time_offset>3995000</start_time_offset>
+    </item>
+    <item index="15">
+      <title>Old School Training</title>
+      <end_time_offset>4548000</end_time_offset>
+      <start_time_offset>4113000</start_time_offset>
+    </item>
+    <item index="16">
+      <title>Florida Arrival</title>
+      <end_time_offset>4857000</end_time_offset>
+      <start_time_offset>4548000</start_time_offset>
+    </item>
+    <item index="17">
+      <title>Pit Stop</title>
+      <end_time_offset>5382000</end_time_offset>
+      <start_time_offset>4857000</start_time_offset>
+    </item>
+    <item index="18">
+      <title>Victory Lane</title>
+      <end_time_offset>5537000</end_time_offset>
+      <start_time_offset>5382000</start_time_offset>
+    </item>
+    <item index="19">
+      <title>Epilogue</title>
+      <end_time_offset>5640000</end_time_offset>
+      <start_time_offset>5537000</start_time_offset>
+    </item>
+    <item index="20">
+      <title>End Credits</title>
+      <end_time_offset>-1</end_time_offset>
+      <start_time_offset>5640000</start_time_offset>
+    </item>
+  </chapters>
+  <collections/>
+  <content_rating>G</content_rating>
+  <countries>
+    <item index="0">USA</item>
+  </countries>
+  <directors>
+    <item index="0">
+      <photo/>
+      <role/>
+      <name>Brian Fee</name>
+    </item>
+  </directors>
+  <duration>6120000</duration>
+  <genres>
+    <item index="0">Animation</item>
+    <item index="1">Adventure</item>
+    <item index="2">Comedy</item>
+    <item index="3">Family</item>
+    <item index="4">Sport</item>
+  </genres>
+  <originally_available_at>2017-06-15</originally_available_at>
+  <posters>
+    <item external="True" url="http://image.tmdb.org/t/p/original/fyy1nDC8wm553FCiBDojkJmKLCs.jpg" sort_order="1" provider="com.plexapp.agents.imdb" media="com.plexapp.agents.imdb_af469e257ef8521b27f5038fd301c93907c57858"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/jJ8TnHvWHaVadW5JJjGYsM07j9i.jpg" preview="com.plexapp.agents.imdb_e72e26e54078082e8276014b6d9910e978e1017e" sort_order="2" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/oVoeHqDBPf7u5YRcVS9Lu5cCzmj.jpg" preview="com.plexapp.agents.imdb_36664f0030d5467f5bfbeb54e3c7ae4534822663" sort_order="3" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/6DcQvNeixKAeYhxcT9SV2bBYEvR.jpg" preview="com.plexapp.agents.imdb_5d1965f407f07acf9737a8550e6d74844aebf4dd" sort_order="4" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/vN8lUsQtciuRVroWdJUvrX7obNR.jpg" preview="com.plexapp.agents.imdb_45797ec7b9ee68e9d52144d981579fa68e1a73c9" sort_order="5" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/qpEBKH9c4iZsPxwzRpFdxr84bTI.jpg" preview="com.plexapp.agents.imdb_404a7adb0acdbabdc7343105a9a713827ec858a6" sort_order="6" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/uLX6kzhnbhiNFOccxOI2xh0TKIA.jpg" preview="com.plexapp.agents.imdb_a72ebfb1ecebd52323d2075b58afe8af4c5d9fa0" sort_order="7" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/qzMYbBpaJzp4977xfKooMAQqm0X.jpg" preview="com.plexapp.agents.imdb_94cf574b409fb3381c3e60b073b87af069d0ab83" sort_order="8" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/g1knHTmo7QLm2jSGmaOIsW9rtoj.jpg" preview="com.plexapp.agents.imdb_442bda459cb98c9b765feb6f5c38021990964c59" sort_order="9" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/95WpDcYQkrQPVI4SrcFhLmsGRFV.jpg" preview="com.plexapp.agents.imdb_e3cabd04cc77ba0d826a456a2b55235e74050a65" sort_order="10" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/hw9evOvs5rwP81oY1rkPZx8CSgL.jpg" preview="com.plexapp.agents.imdb_fbdb953ba6c6a1a463a01a228e1aba5a0539bed5" sort_order="11" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/bSbDiAsKpiVaJC2nBNV0YvcZaHB.jpg" preview="com.plexapp.agents.imdb_5108f33e90f032d77d6efd28f5b0657aae54f690" sort_order="12" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/rSiqTtJrT9PLCJRShwLkqG2V5xe.jpg" preview="com.plexapp.agents.imdb_bf98143869bfc1c9e7fc445b7aec97a75e2bb744" sort_order="13" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/3abHRmiBH2V6qFpfBgMJQHpHd9j.jpg" preview="com.plexapp.agents.imdb_fd6085e622521e198fec57366c79582444f0c274" sort_order="14" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/5lCZCCF9rB8K4yQ4KLf9JjHIaHg.jpg" preview="com.plexapp.agents.imdb_b4f2714a7dda2961dd238a2640ef204914510843" sort_order="15" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/sktfdGXO5iFvR1LPSAOoMYLhGDa.jpg" preview="com.plexapp.agents.imdb_867b765767c8f1335138be42bf1210d5aef24224" sort_order="16" provider="com.plexapp.agents.imdb"/>
+  </posters>
+  <producers>
+    <item index="0">
+      <photo/>
+      <role/>
+      <name>Kevin Reher</name>
+    </item>
+  </producers>
+  <rating>6.8</rating>
+  <rating_image>rottentomatoes://image.rating.ripe</rating_image>
+  <audience_rating>7.0</audience_rating>
+  <audience_rating_image>rottentomatoes://image.rating.upright</audience_rating_image>
+  <reviews>
+    <item index="0">
+      <text>Corporate synergy, as they say, is a cruel mistress.</text>
+      <source>The Atlantic</source>
+      <image>rottentomatoes://image.review.rotten</image>
+      <link>https://www.theatlantic.com/entertainment/archive/2017/06/cars-3-is-pixar-running-out-of-gas/530502/</link>
+      <author>Christopher Orr</author>
+    </item>
+    <item index="1">
+      <text>The final chapter of the trilogy has saved the best for last and will at least deflect the most serious concerns of those who think this series has taken too many extra laps.</text>
+      <source>ReelViews</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>http://www.reelviews.net/reelviews/cars-3</link>
+      <author>James Berardinelli</author>
+    </item>
+    <item index="2">
+      <text>Onscreen and in the audience, youth will be served.</text>
+      <source>San Diego Reader</source>
+      <image>rottentomatoes://image.review.rotten</image>
+      <link>https://www.sandiegoreader.com/movies/cars-3/</link>
+      <author>Matthew Lickona</author>
+    </item>
+    <item index="3">
+      <text>It's a reasonably diverting, somewhat sluggish attempt to reinstall the "heart" of the first installment.</text>
+      <source>Christian Science Monitor</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>http://www.csmonitor.com/The-Culture/Movies/2017/0616/Cars-3-is-reasonably-diverting-but-somewhat-sluggish</link>
+      <author>Peter Rainer</author>
+    </item>
+    <item index="4">
+      <text>It's all well and good for the under-12s, but this movie never packs the kind of emotional punch we know Pixar is capable of.</text>
+      <source>Time Out</source>
+      <image>rottentomatoes://image.review.rotten</image>
+      <link>https://www.timeout.com/us/film/cars-3</link>
+      <author>Ellie Walker-Arnott</author>
+    </item>
+    <item index="5">
+      <text>We get a lot of repetitive racetrack scenes - only a demolition derby stands out for the inventiveness of its animation - and a familiar message about believing in yourself.</text>
+      <source>Globe and Mail</source>
+      <image>rottentomatoes://image.review.rotten</image>
+      <link>https://www.theglobeandmail.com/arts/film/film-reviews/review-with-cars-3-the-animated-franchise-is-running-on-fumes/article35317676/</link>
+      <author>Kate Taylor</author>
+    </item>
+    <item index="6">
+      <text>"Cars 3" hums along the track, and while its heart and humor could use minor tune-ups, it does enough visually to earn a checkered flag and keep this franchise from the scrapheap - for now, at least.</text>
+      <source>Detroit News</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>http://www.detroitnews.com/story/entertainment/movies/2017/06/15/movie-review-cars-worth-another-lap-around-track/102903160/</link>
+      <author>Adam Graham</author>
+    </item>
+    <item index="7">
+      <text>Pixar's level of ambition has always gone beyond producing movies strictly for children, which makes the retread aspects of something like Cars 3 feel a bit more deflating.</text>
+      <source>CNN.com</source>
+      <image>rottentomatoes://image.review.rotten</image>
+      <link>http://www.cnn.com/2017/06/15/entertainment/cars-3-review/index.html</link>
+      <author>Brian Lowry</author>
+    </item>
+    <item index="8">
+      <text>It's surprising that the slick-looking Cars 3 picks up steam in the emotional big-picture department.</text>
+      <source>Toronto Sun</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>http://www.torontosun.com/2017/06/15/cars-3-review-owen-wilsons-lightning-mcqueen-back-in-the-fast-lane</link>
+      <author>Mark Daniell</author>
+    </item>
+    <item index="9">
+      <text>Cars 3 happily gets back to where it belongs, not just to home turf Radiator Springs (for a brief spell) but also to the storytelling essentials of making us care about anthropomorphic automobiles.</text>
+      <source>Toronto Star</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>https://www.thestar.com/entertainment/movies/2017/06/15/cars-3-gets-lightning-to-strike-again-review.html</link>
+      <author>Peter Howell</author>
+    </item>
+    <item index="10">
+      <text>While the third Cars lap is an improvement over the zero-depth spy spoofery of the second film, it's not very convincing when it tries to peddle the sense of an ending.</text>
+      <source>NPR</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>http://www.npr.org/2017/06/15/532302666/cars-3-comes-roaring-back-with-a-swapped-out-story-engine</link>
+      <author>Andrew Lapin</author>
+    </item>
+    <item index="11">
+      <text>This warmly sentimental G-rated film about facing new realities and recapturing lost dreams has, despite its relatively adult story line, a beguilingly effortless feeling to it, as if it had nothing to prove.</text>
+      <source>Los Angeles Times</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>http://www.latimes.com/entertainment/movies/la-et-mn-cars-3-review-20170615-story.html</link>
+      <author>Kenneth Turan</author>
+    </item>
+    <item index="12">
+      <text>[Cars 3] feels like the series, at the end of the road, is running on fumes of nostalgia for its earliest self.</text>
+      <source>Wall Street Journal</source>
+      <image>rottentomatoes://image.review.rotten</image>
+      <link>https://www.wsj.com/articles/cars-3-review-once-too-often-around-the-track-1497546397</link>
+      <author>Joe Morgenstern</author>
+    </item>
+    <item index="13">
+      <text>Cars 3 is a lovely, clever and entertaining generational tale with tons of heart, a simple and effective storyline, wonderful candy-colored visuals and winning voice work from the talented cast of returning regulars and welcome newcomers.</text>
+      <source>Chicago Sun-Times</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>http://chicago.suntimes.com/entertainment/clever-enjoyable-cars-3-tunes-up-the-pixar-franchise/</link>
+      <author>Richard Roeper</author>
+    </item>
+    <item index="14">
+      <text>"Cars 3" feels like it may be time for a trade-in.</text>
+      <source>Washington Post</source>
+      <image>rottentomatoes://image.review.rotten</image>
+      <link>https://www.washingtonpost.com/goingoutguide/movies/cars-3-once-more-around-the-track-for-old-times-sake/2017/06/14/b5efac32-5051-11e7-b064-828ba60fbb98_story.html?utm_term=.6d40a96d1007</link>
+      <author>Michael O'Sullivan</author>
+    </item>
+    <item index="15">
+      <text>While all Pixar movies are fine-tuned to keep adults as well as kids engaged, it's still fascinating to see workaday grownup fears addressed so openly.</text>
+      <source>TIME Magazine</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>http://time.com/4819576/cars-3-review/</link>
+      <author>Stephanie Zacharek</author>
+    </item>
+    <item index="16">
+      <text>Viewing it is like watching 132 laps at a NASCAR speedway. It's not the sort of additional chapter you would call "eagerly awaited."</text>
+      <source>Minneapolis Star Tribune</source>
+      <image>rottentomatoes://image.review.rotten</image>
+      <link>http://www.startribune.com/cars-3-sputters-to-what-we-hope-is-the-finish-line/428676333/</link>
+      <author>Colin Covert</author>
+    </item>
+    <item index="17">
+      <text>No matter how slack the storytelling can get, the animation conveying that storytelling is borderline miraculous.</text>
+      <source>Boston Globe</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>https://www.bostonglobe.com/arts/movies/2017/06/14/pixar-revs-its-engines-for-latest-cars-sequel/vAtPzQJHnNgmG0E67HvJAL/story.html</link>
+      <author>Mark Feeney</author>
+    </item>
+    <item index="18">
+      <text>The first "Cars," such as it is, remains the most appealing in a relatively weak field. But if "Cars 3" pays for another "Ratatouille" or "Inside Out," I say: slum away, slum away.</text>
+      <source>Chicago Tribune</source>
+      <image>rottentomatoes://image.review.rotten</image>
+      <link>http://www.chicagotribune.com/entertainment/movies/ct-cars-3-mov-rev-20170612-column.html#nt=oft03a-1la1</link>
+      <author>Michael Phillips</author>
+    </item>
+    <item index="19">
+      <text>A kinetic and emotionally resonant sports film that's big on character - and blessedly light on Mater.</text>
+      <source>Arizona Republic</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>http://www.azcentral.com/story/entertainment/movies/2017/06/14/cars-movie-review-pixar/396607001/</link>
+      <author>Barbara VanDenburgh</author>
+    </item>
+  </reviews>
+  <roles>
+    <item index="0">
+      <photo>http://image.tmdb.org/t/p/original/j7oYgvfDiO34VcFdSB7GhM2CSle.jpg</photo>
+      <role>Lightning McQueen (voice)</role>
+      <name>Owen Wilson</name>
+    </item>
+    <item index="1">
+      <photo>http://image.tmdb.org/t/p/original/6e3U7A40XH8nd7xva2gcR5YqOXg.jpg</photo>
+      <role>Cruz Ramirez (voice)</role>
+      <name>Cristela Alonzo</name>
+    </item>
+    <item index="2">
+      <photo>http://image.tmdb.org/t/p/original/ytZY7YofdiAZyiyr4NyiB77lwwQ.jpg</photo>
+      <role>Smokey Yunick (voice)</role>
+      <name>Chris Cooper</name>
+    </item>
+    <item index="3">
+      <photo>http://image.tmdb.org/t/p/original/2zq984Jrw53AxDshTQPKpTPGLe8.jpg</photo>
+      <role>Jackson Storm (voice)</role>
+      <name>Armie Hammer</name>
+    </item>
+    <item index="4">
+      <photo>http://image.tmdb.org/t/p/original/uKAfrFRZYnHFAxw53Jldbs8yIZO.jpg</photo>
+      <role>Sally Careera (Voice)</role>
+      <name>Bonnie Hunt</name>
+    </item>
+    <item index="5">
+      <photo>http://image.tmdb.org/t/p/original/9yGwJBveIvLidqJEQI4PRuKQhMr.jpg</photo>
+      <role>Mater (Voice)</role>
+      <name>Larry the Cable Guy</name>
+    </item>
+    <item index="6">
+      <photo>http://image.tmdb.org/t/p/original/B7VTVtnKyFk0AtYjEbqzBQlPec.jpg</photo>
+      <role>Sterling (voice)</role>
+      <name>Nathan Fillion</name>
+    </item>
+    <item index="7">
+      <photo>http://image.tmdb.org/t/p/original/yufNCkn9YuYei9ThzSgApczUe4K.jpg</photo>
+      <role>Natalie Certain (voice)</role>
+      <name>Kerry Washington</name>
+    </item>
+    <item index="8">
+      <photo>http://image.tmdb.org/t/p/original/478i0znkMw2dFgd5WOTgMegUhC3.jpg</photo>
+      <role>Miss Fritter (voice)</role>
+      <name>Lea DeLaria</name>
+    </item>
+    <item index="9">
+      <photo>http://image.tmdb.org/t/p/original/jXzlVxS8u64XEZUoNPiuhGcQXDW.jpg</photo>
+      <role>Luigi (voice)</role>
+      <name>Tony Shalhoub</name>
+    </item>
+    <item index="10">
+      <photo>http://image.tmdb.org/t/p/original/qfnm3XzrMljLhU3HoNfYk0YGoBw.jpg</photo>
+      <role>Guido (voice)</role>
+      <name>Guido Quaroni</name>
+    </item>
+    <item index="11">
+      <photo>http://image.tmdb.org/t/p/original/xoYG4Qvd2RFPnVMuHQI3eQWkXfT.jpg</photo>
+      <role>Fillmore (voice)</role>
+      <name>Lloyd Sherr</name>
+    </item>
+    <item index="12">
+      <photo>http://image.tmdb.org/t/p/original/rnzvqo7oR2IwSfN2Ayh3ysc4WNt.jpg</photo>
+      <role>Sarge</role>
+      <name>Paul Dooley</name>
+    </item>
+    <item index="13">
+      <photo>http://image.tmdb.org/t/p/original/efuXbXg7JpORy5hPDU7Zityq3k3.jpg</photo>
+      <role>Ramone (Voice)</role>
+      <name>Cheech Marin</name>
+    </item>
+    <item index="14">
+      <photo>http://image.tmdb.org/t/p/original/yMClokTiKKwa3KWSfxT1wsy9YZ.jpg</photo>
+      <role>Flo (voice)</role>
+      <name>Jenifer Lewis</name>
+    </item>
+    <item index="15">
+      <photo>http://image.tmdb.org/t/p/original/xstxLSZAjVY3RbLW19I44bD5eE8.jpg</photo>
+      <role>Hamilton</role>
+      <name>Lewis Hamilton</name>
+    </item>
+    <item index="16">
+      <photo>http://image.tmdb.org/t/p/original/fJ6N8FzKQ0bd57rNJSJCSvrRFO8.jpg</photo>
+      <role>Bob Cutlass (voice)</role>
+      <name>Bob Costas</name>
+    </item>
+    <item index="17">
+      <photo>http://image.tmdb.org/t/p/original/13YNM8lBKnK26MYd2Lp3OpU6JdI.jpg</photo>
+      <role>Chick Hicks</role>
+      <name>Bob Peterson</name>
+    </item>
+    <item index="18">
+      <photo>http://image.tmdb.org/t/p/original/m7o1IEKIabcTWz5Qr4yUEoCNHDE.jpg</photo>
+      <role>Lizzie (voice)</role>
+      <name>Katherine Helmond</name>
+    </item>
+    <item index="19">
+      <photo>http://image.tmdb.org/t/p/original/yGechiKWL6TJDfVE2KPSJYqdMsY.jpg</photo>
+      <role>Mack (voice)</role>
+      <name>John Ratzenberger</name>
+    </item>
+    <item index="20">
+      <photo>http://image.tmdb.org/t/p/original/4LuttJxXdNZgSDPeY0IOaczfajj.jpg</photo>
+      <role>Sheriff (voice)</role>
+      <name>Michael Wallis</name>
+    </item>
+    <item index="21">
+      <photo>http://image.tmdb.org/t/p/original/kuFaKYABpQV02njwawLuHWsCTQd.jpg</photo>
+      <role>Dusty (voice)</role>
+      <name>Ray Magliozzi</name>
+    </item>
+    <item index="22">
+      <photo>http://image.tmdb.org/t/p/original/xRi01zAHlwvZp80EGhQoU5QPDak.jpg</photo>
+      <role>Rusty (voice)</role>
+      <name>Tom Magliozzi</name>
+    </item>
+    <item index="23">
+      <photo>http://image.tmdb.org/t/p/original/yLaKPYOvrea7dU0Xa86SY1WN7Gc.jpg</photo>
+      <role>River Scott (voice)</role>
+      <name>Isiah Whitlock Jr.</name>
+    </item>
+    <item index="24">
+      <photo/>
+      <role>Junior 'Midnight' Moon (voice)</role>
+      <name>Junior Johnson</name>
+    </item>
+    <item index="25">
+      <photo>http://image.tmdb.org/t/p/original/4YmmVgOGKsDsGGLunCHmigj2TbV.jpg</photo>
+      <role>Louise 'Barnstormer' Nash (voice)</role>
+      <name>Margo Martindale</name>
+    </item>
+    <item index="26">
+      <photo/>
+      <role/>
+      <name>Chase Elliott</name>
+    </item>
+    <item index="27">
+      <photo/>
+      <role/>
+      <name>Ryan Blaney</name>
+    </item>
+    <item index="28">
+      <photo/>
+      <role/>
+      <name>Darrell Wallace Jr.</name>
+    </item>
+    <item index="29">
+      <photo>http://image.tmdb.org/t/p/original/3iMeZsKQ9FH31tmdsEb36GfrQZP.jpg</photo>
+      <role>Darrell Cartrip</role>
+      <name>Darrell Waltrip</name>
+    </item>
+    <item index="30">
+      <photo/>
+      <role/>
+      <name>Shannon Spake</name>
+    </item>
+    <item index="31">
+      <photo/>
+      <role/>
+      <name>Humpy Wheeler</name>
+    </item>
+    <item index="32">
+      <photo>http://image.tmdb.org/t/p/original/fRNBZT78R8PNJAYaJGBF9pP6z5x.jpg</photo>
+      <role/>
+      <name>Jeff Gordon</name>
+    </item>
+    <item index="33">
+      <photo/>
+      <role/>
+      <name>Daniel Suárez</name>
+    </item>
+    <item index="34">
+      <photo>http://image.tmdb.org/t/p/original/Akmt3TVzFDD4bgcTxX1VScFpXm5.jpg</photo>
+      <role/>
+      <name>Kyle Petty</name>
+    </item>
+    <item index="35">
+      <photo/>
+      <role/>
+      <name>Mike Joy</name>
+    </item>
+    <item index="36">
+      <photo/>
+      <role/>
+      <name>Ray Evernham</name>
+    </item>
+    <item index="37">
+      <photo>http://image.tmdb.org/t/p/original/xPjbuyCfkBKSXK0W9y8TiMJoIOJ.jpg</photo>
+      <role>Strip "The King" Weathers (voice)</role>
+      <name>Richard Petty</name>
+    </item>
+    <item index="38">
+      <photo>http://image.tmdb.org/t/p/original/my0Blo9IBy1WZ0QKbuxUzS0QwV5.jpg</photo>
+      <role>Doc Hudson (voice)</role>
+      <name>Paul Newman</name>
+    </item>
+    <item index="39">
+      <photo>http://image.tmdb.org/t/p/original/2q6KfNytYUiHuf8Rx9HyBGoD1T7.jpg</photo>
+      <role>Radio Sports Talk DJ (Voice)</role>
+      <name>Jason Pace</name>
+    </item>
+    <item index="40">
+      <photo>http://image.tmdb.org/t/p/original/hNPiq6iUZh426UPtOhZSzUdAhiY.jpg</photo>
+      <role>Bobby Swift (voice)</role>
+      <name>Angel Oquendo</name>
+    </item>
+    <item index="41">
+      <photo>http://image.tmdb.org/t/p/original/wrnJbVuxcEzmsU5FukVnFmS54Xo.jpg</photo>
+      <role>Maddy McGear (voice)</role>
+      <name>Madeleine McGraw</name>
+    </item>
+  </roles>
+  <similar>
+    <item index="0">Cars 2</item>
+    <item index="1">Despicable Me 3</item>
+    <item index="2">Cars</item>
+    <item index="3">The Emoji Movie</item>
+    <item index="4">Ice Age: Collision Course</item>
+    <item index="5">Kung Fu Panda 3</item>
+    <item index="6">Transformers: The Last Knight</item>
+    <item index="7">The Good Dinosaur</item>
+    <item index="8">Smurfs: The Lost Village</item>
+    <item index="9">Storks</item>
+    <item index="10">The Lego Batman Movie</item>
+    <item index="11">Captain Underpants: The First Epic Movie</item>
+    <item index="12">Baywatch</item>
+    <item index="13">Sing</item>
+    <item index="14">Power Rangers</item>
+    <item index="15">Spider-Man: Homecoming</item>
+    <item index="16">The Angry Birds Movie</item>
+    <item index="17">Pirates of the Caribbean: Dead Men Tell No Tales</item>
+    <item index="18">The LEGO Ninjago Movie</item>
+    <item index="19">The Boss Baby</item>
+  </similar>
+  <studio>Pixar</studio>
+  <summary>Blindsided by a new generation of blazing-fast racers, the legendary Lightning McQueen is suddenly pushed out of the sport he loves. To get back in the game, he will need the help of an eager young race technician with her own plan to win, inspiration from the late Fabulous Hudson Hornet, and a few unexpected turns. Proving that #95 isn't through yet will test the heart of a champion on Piston Cup Racing’s biggest stage!</summary>
+  <tagline>It's not over until lightning strikes.</tagline>
+  <tags/>
+  <themes/>
+  <title>Cars 3</title>
+  <writers>
+    <item index="0">
+      <photo>http://image.tmdb.org/t/p/original/okdPZRcL1eZCxBb5BqkLRlTgK5v.jpg</photo>
+      <role/>
+      <name>Robert L. Baird</name>
+    </item>
+    <item index="1">
+      <photo>http://image.tmdb.org/t/p/original/amOuK3ytWV7KXeWrpl9joCglRlF.jpg</photo>
+      <role/>
+      <name>Daniel Gerson</name>
+    </item>
+    <item index="2">
+      <photo/>
+      <role/>
+      <name>Kiel Murray</name>
+    </item>
+    <item index="3">
+      <photo>http://image.tmdb.org/t/p/original/13YNM8lBKnK26MYd2Lp3OpU6JdI.jpg</photo>
+      <role/>
+      <name>Bob Peterson</name>
+    </item>
+    <item index="4">
+      <photo/>
+      <role/>
+      <name>Mike Rich</name>
+    </item>
+  </writers>
+  <year>2017</year>
+</Movie>

@@ -1,0 +1,460 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Movie>
+  <art>
+    <item external="True" url="http://image.tmdb.org/t/p/original/v1zha33ACsU0ifzSAOShHS0MuMg.jpg" sort_order="1" provider="com.plexapp.agents.imdb" media="com.plexapp.agents.imdb_234043aad66e5ee613e17ea8a22599c49ce91356"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/4sRYRzyiQsBfC3epcOPXiy135AE.jpg" preview="com.plexapp.agents.imdb_265eac25bf1635f59bbe7055841d73cdcab2c521" sort_order="2" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/6grBtqIQ0mRm9wcW1adKAlBqvQx.jpg" preview="com.plexapp.agents.imdb_4b433890fc7ba813444612a8210eae724a290d7d" sort_order="3" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/diLtotlecYYoAFJ4ToECscoHDCT.jpg" preview="com.plexapp.agents.imdb_a746e6a06d53fd4845ba81eac9da88b75f1d4455" sort_order="4" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/eyiE1vuizMKVu8MoZkg2xsramFl.jpg" preview="com.plexapp.agents.imdb_5bcd9a242e0a33d7247d1dd41f919b47d435f07c" sort_order="5" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/nOKeCIPvQW0JtoD6TaJGgOXpOEt.jpg" preview="com.plexapp.agents.imdb_2eafbc6fb24934b8f2fed2f2d7d5c35f786628ed" sort_order="6" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/sINaCfdCWfqCoLMKWLxFxhe089k.jpg" preview="com.plexapp.agents.imdb_e1db4a1fbad6be3bf8739e7c7f4b5d577bfa2df1" sort_order="7" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/mEiZQfudGTMEacof5tbgx3PCUFw.jpg" preview="com.plexapp.agents.imdb_1a2fe2309af5159ce8caa5b74cdcbc36a37550ee" sort_order="8" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/xELCjnMyQIGIBD22CKUfpV4d1aN.jpg" preview="com.plexapp.agents.imdb_6cd2e76e48d224e25c0101082e3fee281ef4c05b" sort_order="9" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/2UfHJsQmohYAul6RVMVGh8Fd8pV.jpg" preview="com.plexapp.agents.imdb_75be72b765153f29cf840848755b5131277bd8fc" sort_order="10" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/mPuUYU8t5N85fz1vrOoQeU5aZXe.jpg" preview="com.plexapp.agents.imdb_f45279c08e7395e2376a0909c710ea3b6bde4202" sort_order="11" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/duAyRCghNYPNpNLzeTskhCFp6ym.jpg" preview="com.plexapp.agents.imdb_ced9d04542b08814a403b1b4f4f729d2061bd14f" sort_order="12" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/cZsYiHL0UtTiIMAnFhxTvCHjyiG.jpg" preview="com.plexapp.agents.imdb_bd460999f800558f335ec22f9569771afc5f8592" sort_order="13" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/8sxkEXrCvrpAqCcCvU91L9YrOhU.jpg" preview="com.plexapp.agents.imdb_d2190df84cf0dc91a21059574a25cf1b5d4d108b" sort_order="14" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/rXTYsHr2fM5lTE9rogtLdc0pBeN.jpg" preview="com.plexapp.agents.imdb_04b16abaf46527f70b5ca3709c25d816b6956fe6" sort_order="15" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/9PpaHX0lYu91a3jSt0yPygsHmRL.jpg" preview="com.plexapp.agents.imdb_2bfbe6d970fe5dda43cb41da278f7d2dbcba6628" sort_order="16" provider="com.plexapp.agents.imdb"/>
+  </art>
+  <banners/>
+  <chapters>
+    <item index="0">
+      <title>Chapter 1</title>
+      <end_time_offset>234000</end_time_offset>
+      <start_time_offset>0</start_time_offset>
+    </item>
+    <item index="1">
+      <title>Chapter 2</title>
+      <end_time_offset>635000</end_time_offset>
+      <start_time_offset>234000</start_time_offset>
+    </item>
+    <item index="2">
+      <title>Chapter 3</title>
+      <end_time_offset>969000</end_time_offset>
+      <start_time_offset>635000</start_time_offset>
+    </item>
+    <item index="3">
+      <title>Chapter 4</title>
+      <end_time_offset>1275000</end_time_offset>
+      <start_time_offset>969000</start_time_offset>
+    </item>
+    <item index="4">
+      <title>Chapter 5</title>
+      <end_time_offset>1796000</end_time_offset>
+      <start_time_offset>1275000</start_time_offset>
+    </item>
+    <item index="5">
+      <title>Chapter 6</title>
+      <end_time_offset>2213000</end_time_offset>
+      <start_time_offset>1796000</start_time_offset>
+    </item>
+    <item index="6">
+      <title>Chapter 7</title>
+      <end_time_offset>2474000</end_time_offset>
+      <start_time_offset>2213000</start_time_offset>
+    </item>
+    <item index="7">
+      <title>Chapter 8</title>
+      <end_time_offset>2984000</end_time_offset>
+      <start_time_offset>2474000</start_time_offset>
+    </item>
+    <item index="8">
+      <title>Chapter 9</title>
+      <end_time_offset>3246000</end_time_offset>
+      <start_time_offset>2984000</start_time_offset>
+    </item>
+    <item index="9">
+      <title>Chapter 10</title>
+      <end_time_offset>3534000</end_time_offset>
+      <start_time_offset>3246000</start_time_offset>
+    </item>
+    <item index="10">
+      <title>Chapter 11</title>
+      <end_time_offset>3909000</end_time_offset>
+      <start_time_offset>3534000</start_time_offset>
+    </item>
+    <item index="11">
+      <title>Chapter 12</title>
+      <end_time_offset>4303000</end_time_offset>
+      <start_time_offset>3909000</start_time_offset>
+    </item>
+    <item index="12">
+      <title>Chapter 13</title>
+      <end_time_offset>4531000</end_time_offset>
+      <start_time_offset>4303000</start_time_offset>
+    </item>
+    <item index="13">
+      <title>Chapter 14</title>
+      <end_time_offset>4875000</end_time_offset>
+      <start_time_offset>4531000</start_time_offset>
+    </item>
+    <item index="14">
+      <title>Chapter 15</title>
+      <end_time_offset>-1</end_time_offset>
+      <start_time_offset>4875000</start_time_offset>
+    </item>
+  </chapters>
+  <collections/>
+  <content_rating>PG</content_rating>
+  <countries>
+    <item index="0">USA</item>
+  </countries>
+  <directors>
+    <item index="0">
+      <photo>http://image.tmdb.org/t/p/original/opLn7bTvqUOkio2OrZU5Ejam6cV.jpg</photo>
+      <role/>
+      <name>Jennifer Yuh Nelson</name>
+    </item>
+  </directors>
+  <duration>5400000</duration>
+  <genres>
+    <item index="0">Animation</item>
+    <item index="1">Action</item>
+    <item index="2">Adventure</item>
+    <item index="3">Comedy</item>
+    <item index="4">Family</item>
+    <item index="5">Fantasy</item>
+  </genres>
+  <originally_available_at>2011-05-25</originally_available_at>
+  <posters>
+    <item external="True" url="http://image.tmdb.org/t/p/original/v9Pwk5ZrIdL3EU3pa07OsdnXHWZ.jpg" sort_order="1" provider="com.plexapp.agents.imdb" media="com.plexapp.agents.imdb_d706e66a0e8b33745fce54738dec6277c5c942a9"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/Fzyy2dauoKxjUzUPYYo3kJkJAW.jpg" preview="com.plexapp.agents.imdb_ec86071caecbabccf99d9a43b9b6777f96562ade" sort_order="2" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/eyamEilImfxTt26ocVw6WCzbh30.jpg" preview="com.plexapp.agents.imdb_1eb785924805f0a759adc9f379ae9b7ee8c74d57" sort_order="3" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/9wCrh57WO3mPmn1hWnJRcvdFtIb.jpg" preview="com.plexapp.agents.imdb_ae0a6f50857960bd9ea707b8681ccd10ee86c715" sort_order="4" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/tc72yGCiwTaPTLspEUxBDCSnSSS.jpg" preview="com.plexapp.agents.imdb_b7f193370302b58b27ce9556972b640d4a40fdda" sort_order="5" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/1DumZW8J7WTCxviwKnIlPh7B4Pj.jpg" preview="com.plexapp.agents.imdb_69f5529f3316d7ee1549d6a50e601515c462c687" sort_order="6" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/xOQ4a44r3bYH1AwifOoDBv7lSsn.jpg" preview="com.plexapp.agents.imdb_e2fbbf4d7509b18b5dc6a890a159ad9642126685" sort_order="7" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/dLjTgggLMvG36dHnZhc5ur8os4i.jpg" preview="com.plexapp.agents.imdb_56b4725559b4b88e880ff61b184184771297f3d1" sort_order="8" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/sIoLshge5rUVBp6n1L3viytKgCy.jpg" preview="com.plexapp.agents.imdb_c91ac449a7836c67fb2db8020e668331b4a40cbd" sort_order="9" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/fTztLcGmOe7BzPbJzRaHXdEI2WG.jpg" preview="com.plexapp.agents.imdb_2770a487833859a1ec9bed944c14e92edc69c2ce" sort_order="10" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/qX7DpcP6Rxb9W6Fk004e15WvDKP.jpg" preview="com.plexapp.agents.imdb_0057c43b51ab04bea97e66ecf6abf9cd0131fd1b" sort_order="11" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/xBUIuHLmP0ZK54RTbE2ly3NjgI5.jpg" preview="com.plexapp.agents.imdb_b3d87922999264ed68af3f8bb559a973a72b4d18" sort_order="12" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/qcOllk2Pxd2z3Ra719e0NP94a52.jpg" preview="com.plexapp.agents.imdb_bf0b4644d6e1973f0d73c9317ba739218a1ed02b" sort_order="13" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/c7Uogg09WRiGhayQeP2d4HBU0L7.jpg" preview="com.plexapp.agents.imdb_f8aab128bb17c9c889d108e84620632773e04b0e" sort_order="14" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/8jhaj2UKmPlixvbcFdYoDopVDer.jpg" preview="com.plexapp.agents.imdb_50281f335e019db7dd5557f71fda1c26bbe8544e" sort_order="15" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/8VxnSlIJLppjsjRckrlcqqDWbvh.jpg" preview="com.plexapp.agents.imdb_65e7185781f1585b0228bd764c8ba3d2709ea333" sort_order="16" provider="com.plexapp.agents.imdb"/>
+  </posters>
+  <producers>
+    <item index="0">
+      <photo/>
+      <role/>
+      <name>Melissa Cobb</name>
+    </item>
+  </producers>
+  <rating>8.1</rating>
+  <rating_image>rottentomatoes://image.rating.ripe</rating_image>
+  <audience_rating>7.4</audience_rating>
+  <audience_rating_image>rottentomatoes://image.rating.upright</audience_rating_image>
+  <reviews>
+    <item index="0">
+      <text>[A] satisfying, if less than sensational, sequel to the funny, charming and action-packed animated feature from 2008.</text>
+      <source>Washington Post</source>
+      <image>rottentomatoes://image.review.rotten</image>
+      <link>http://www.washingtonpost.com/gog/movies/kung-fu-panda-2,1158871.html</link>
+      <author>Michael O'Sullivan</author>
+    </item>
+    <item index="1">
+      <text>A solid slice of summer entertainment: forgettable, perhaps, but plenty of fun while it lasts.</text>
+      <source>Time Out</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>http://www.timeout.com/film/reviews/89558/kung-fu-panda-2.html</link>
+      <author>Tom Huddleston</author>
+    </item>
+    <item index="2">
+      <text>Jack Black once again shows his excellence as a voice actor.</text>
+      <source>ReelViews</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>http://www.reelviews.net/php_review_template.php?identifier=2314</link>
+      <author>James Berardinelli</author>
+    </item>
+    <item index="3">
+      <text>Hardly a scene goes by that isn't visually striking or kinetically thrilling, and all of it enhanced by 3-D.</text>
+      <source>Wall Street Journal</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>http://online.wsj.com/article/SB10001424052702304066504576347242496083716.html?mod=WSJ_ArtsEnt_LifestyleArtEnt_2</link>
+      <author>Joe Morgenstern</author>
+    </item>
+    <item index="4">
+      <text>Po and friends redeem themselves with a terrific third act, the animation (in three distinct styles) is superb and there's enough hiii-YA-ing to keep the kids yipping throughout.</text>
+      <source>New York Post</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>http://www.nypost.com/p/entertainment/movies/deftly_pandas_to_its_audience_nLp0CHGD346SwZriJFi30N?CMP=OTC-rss&amp;FEEDNAME=</link>
+      <author>Kyle Smith</author>
+    </item>
+    <item index="5">
+      <text>No, we're not talking about Lord Voldemort and Harry Potter, although it does feel that way early on in the animated Kung Fu Panda 2.</text>
+      <source>Dallas Morning News</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>http://www.dallasnews.com/entertainment/movies/reviews/20110525-kung-fu-panda-2-b-.ece</link>
+      <author>Nancy Churnin</author>
+    </item>
+    <item index="6">
+      <text>Alas, this time there are about three or four mild laughs in the whole picture, and the entire visual aspect of the movie is a botched disappointment.</text>
+      <source>San Francisco Chronicle</source>
+      <image>rottentomatoes://image.review.rotten</image>
+      <link>http://www.sfgate.com/cgi-bin/article.cgi?f=/c/a/2011/05/25/DDOH1JKKT3.DTL</link>
+      <author>Mick LaSalle</author>
+    </item>
+    <item index="7">
+      <text>Has a bright palette, an amiable vibe and enough vivacity to keep kids entertained and any accompanying moms from bolting for Bridesmaids.</text>
+      <source>TIME Magazine</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>http://www.time.com/time/arts/article/0,8599,2073983,00.html</link>
+      <author>Richard Corliss</author>
+    </item>
+    <item index="8">
+      <text>The original film was a compelling surprise, an unusually fun and sophisticated take on the wacky-animal CGI movie. The sequel remains visually beautiful and strikingly designed, but otherwise, it's a surprise in all the wrong ways.</text>
+      <source>AV Club</source>
+      <image>rottentomatoes://image.review.rotten</image>
+      <link>http://www.avclub.com/articles/kung-fu-panda-2,56673/?utm_medium=RSS&amp;utm_campaign=feeds&amp;utm_source=channel_film</link>
+      <author>Tasha Robinson</author>
+    </item>
+    <item index="9">
+      <text>For a movie touting "inner peace," this 3-D sequel sure goes in for its share of battle scenes, but for the most part they are excitingly conceived by director Jennifer Yuh Nelson and her writers, Jonathan Aibel and Glenn Berger.</text>
+      <source>Christian Science Monitor</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>http://www.csmonitor.com/The-Culture/Movies/2011/0526/Kung-Fu-Panda-2-movie-review</link>
+      <author>Peter Rainer</author>
+    </item>
+    <item index="10">
+      <text>The kinder, gentler Kung Fu Panda 2 will surely try the patience of older children and fun-seeking parents.</text>
+      <source>Globe and Mail</source>
+      <image>rottentomatoes://image.review.rotten</image>
+      <link>http://www.theglobeandmail.com/news/arts/movies/kung-fu-panda-2-fluffy-sequel-lacks-kick-of-the-original/article2034723/</link>
+      <author>Stephen Cole</author>
+    </item>
+    <item index="11">
+      <text>What really makes the film work... is director Yuh's sense of timing. She knows how to get in and out of a joke before beating it to death. A quick Pac-Man reference during a chase comes and goes, delighting without ever dragging.</text>
+      <source>Detroit News</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>http://www.detnews.com/article/20110526/ENT02/105260317/1034/ent02/Review--Second-%E2%80%98Kung-Fu-Panda%E2%80%99-quicker--smarter-than-the-first</link>
+      <author>Tom Long</author>
+    </item>
+    <item index="12">
+      <text>Nearly matches the original in charm and kicks.</text>
+      <source>Film.com</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>http://www.film.com/movies/review-kung-fu-panda-2</link>
+      <author>William Goss</author>
+    </item>
+    <item index="13">
+      <text>With its mix of vibrant CG and classical elements, the movie dazzles.</text>
+      <source>Philadelphia Inquirer</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>http://www.philly.com/philly_movies.rss</link>
+      <author>Steven Rea</author>
+    </item>
+    <item index="14">
+      <text>Director Jennifer Yuh Nelson's true cannon fist is how seamlessly "Panda's" wild skirmishes mesh with its eloquent narrative, even if there are less pauses for reflection this time 'round.</text>
+      <source>New York Daily News</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>http://www.nydailynews.com/entertainment/movies/2011/05/26/2011-05-26_kung_fu_panda_2_review_familyfriendly_flick_combines_action_with_heart.html?r=entertainment/movies</link>
+      <author>Joe Neumaier</author>
+    </item>
+  </reviews>
+  <roles>
+    <item index="0">
+      <photo>http://image.tmdb.org/t/p/original/vMXgtzMdt2jSAjOECFQ5F53blbr.jpg</photo>
+      <role>Po (voice)</role>
+      <name>Jack Black</name>
+    </item>
+    <item index="1">
+      <photo>http://image.tmdb.org/t/p/original/wdrSStdTmiSHhynCV5CtTJTuzY1.jpg</photo>
+      <role>Tigress (voice)</role>
+      <name>Angelina Jolie</name>
+    </item>
+    <item index="2">
+      <photo>http://image.tmdb.org/t/p/original/zN03MlLSFeTFT5TtX282mHD1rqF.jpg</photo>
+      <role>Shifu (voice)</role>
+      <name>Dustin Hoffman</name>
+    </item>
+    <item index="3">
+      <photo>http://image.tmdb.org/t/p/original/tofLS5A6lBXNjeROGvgpfe2JwaT.jpg</photo>
+      <role>Lord Shen (voice)</role>
+      <name>Gary Oldman</name>
+    </item>
+    <item index="4">
+      <photo>http://image.tmdb.org/t/p/original/pmKJ4sGvPQ3imzXaFnjW4Vk5Gyc.jpg</photo>
+      <role>Monkey (voice)</role>
+      <name>Jackie Chan</name>
+    </item>
+    <item index="5">
+      <photo>http://image.tmdb.org/t/p/original/9nbtjqsx3De7hO2XDtrBQ7M9VCH.jpg</photo>
+      <role>Viper (voice)</role>
+      <name>Lucy Liu</name>
+    </item>
+    <item index="6">
+      <photo>http://image.tmdb.org/t/p/original/aQc8O52P4vWDRfuxCLsz9rvnwf3.jpg</photo>
+      <role>Mantis (voice)</role>
+      <name>Seth Rogen</name>
+    </item>
+    <item index="7">
+      <photo>http://image.tmdb.org/t/p/original/aHSmsfJ48W59WlGB5ZiTjK67I0D.jpg</photo>
+      <role>Crane (voice)</role>
+      <name>David Cross</name>
+    </item>
+    <item index="8">
+      <photo>http://image.tmdb.org/t/p/original/OhW6BfeZBRn7iupeI8elngV2EN.jpg</photo>
+      <role>The Soothsayer (voice)</role>
+      <name>Michelle Yeoh</name>
+    </item>
+    <item index="9">
+      <photo>http://image.tmdb.org/t/p/original/8k4RrDRsqkvJDePU8ciMOOx5Zso.jpg</photo>
+      <role>Mr. Ping (voice)</role>
+      <name>James Hong</name>
+    </item>
+    <item index="10">
+      <photo>http://image.tmdb.org/t/p/original/44DW4hNukuxNhGwyMScNNKhwflN.jpg</photo>
+      <role>Wolf Boss (voice)</role>
+      <name>Danny McBride</name>
+    </item>
+    <item index="11">
+      <photo>http://image.tmdb.org/t/p/original/mcP4D8C20QsdWBIdhKhf8rT0Nhl.jpg</photo>
+      <role>Master Storming Ox (voice)</role>
+      <name>Dennis Haysbert</name>
+    </item>
+    <item index="12">
+      <photo>http://image.tmdb.org/t/p/original/aqZ9RjL5j44HMlBMvTaawhHiGOH.jpg</photo>
+      <role>Master Croc (voice)</role>
+      <name>Jean-Claude Van Damme</name>
+    </item>
+    <item index="13">
+      <photo>http://image.tmdb.org/t/p/original/xFgPEfVEqz7Li2xoyjRPEKCjCrH.jpg</photo>
+      <role>Master Thundering Rhino (voice)</role>
+      <name>Victor Garber</name>
+    </item>
+    <item index="14">
+      <photo/>
+      <role>Gorilla Guard 1 (voice) (as Michael Patrick Bell)</role>
+      <name>Mike Bell</name>
+    </item>
+    <item index="15">
+      <photo/>
+      <role>Antelope Driver (voice)</role>
+      <name>Jason Bertsch</name>
+    </item>
+    <item index="16">
+      <photo/>
+      <role>Happy Bunny (voice)</role>
+      <name>Michael DeMaio</name>
+    </item>
+    <item index="17">
+      <photo/>
+      <role>Wolf Soldier 4 (voice)</role>
+      <name>Shane Glick</name>
+    </item>
+    <item index="18">
+      <photo/>
+      <role>Pig Fan / Bunny (voice)</role>
+      <name>Lena Golia</name>
+    </item>
+    <item index="19">
+      <photo>http://image.tmdb.org/t/p/original/4aEhS9jo49HJshCWL8rEQ0xb5Al.jpg</photo>
+      <role>Mop Bunny (voice)</role>
+      <name>April Hong</name>
+    </item>
+    <item index="20">
+      <photo/>
+      <role>Wolf Soldier 1 (voice)</role>
+      <name>Joseph Izzo</name>
+    </item>
+    <item index="21">
+      <photo/>
+      <role>Bunny Fan (voice) (as Alexandra Jourden)</role>
+      <name>Alexandra Gold Jourden</name>
+    </item>
+    <item index="22">
+      <photo>http://image.tmdb.org/t/p/original/bEMGAE4kdMmcF61kgYWHLM7EfsT.jpg</photo>
+      <role>Musician Pig / Awesome Pig (voice)</role>
+      <name>Stephen Kearin</name>
+    </item>
+    <item index="23">
+      <photo>http://image.tmdb.org/t/p/original/wRbymzWWRJ6OXJrIENZCvUfazRR.jpg</photo>
+      <role>Baby Po (voice)</role>
+      <name>Liam Knight</name>
+    </item>
+    <item index="24">
+      <photo>http://image.tmdb.org/t/p/original/2ooiA3X9Y0cpyBIAHTpU5Q3Q7em.jpg</photo>
+      <role>Musician Bunny (voice)</role>
+      <name>Paul Mazursky</name>
+    </item>
+    <item index="25">
+      <photo/>
+      <role>Stain Pig / Wolf Soldier 2 (voice)</role>
+      <name>Dan O'Connor</name>
+    </item>
+    <item index="26">
+      <photo/>
+      <role>Dumpling Bunny (voice)</role>
+      <name>Jeremy Shipp</name>
+    </item>
+    <item index="27">
+      <photo>http://image.tmdb.org/t/p/original/rSkzuJePHnnUSqkdC0rDv6GgTWe.jpg</photo>
+      <role>Wolf Soldier 3 (voice)</role>
+      <name>Maury Sterling</name>
+    </item>
+    <item index="28">
+      <photo>http://image.tmdb.org/t/p/original/lNe4zn9fJ302GehQVaFk5BNcGGM.jpg</photo>
+      <role>Panda Dad / Gorilla Guard 2 (voice)</role>
+      <name>Fred Tatasciore</name>
+    </item>
+    <item index="29">
+      <photo>http://image.tmdb.org/t/p/original/oXU7sZOTjlALqz3UYYi2sWBAYAl.jpg</photo>
+      <role>Market Sheep (voice)</role>
+      <name>Lauren Tom</name>
+    </item>
+    <item index="30">
+      <photo>http://image.tmdb.org/t/p/original/dzhrqpUa7W6lVjuigj0G28WrHQz.jpg</photo>
+      <role>Pig Mother (voice)</role>
+      <name>Romy Rosemont</name>
+    </item>
+    <item index="31">
+      <photo>http://image.tmdb.org/t/p/original/kSyVrs8NtLoQhfBXFBhnTWzC7Vm.jpg</photo>
+      <role>Boar (voice)</role>
+      <name>Conrad Vernon</name>
+    </item>
+  </roles>
+  <similar>
+    <item index="0">Kung Fu Panda</item>
+    <item index="1">Madagascar: Escape 2 Africa</item>
+    <item index="2">Madagascar 3: Europe's Most Wanted</item>
+    <item index="3">Ice Age: Dawn of the Dinosaurs</item>
+    <item index="4">Megamind</item>
+    <item index="5">Shrek Forever After</item>
+    <item index="6">Shrek the Third</item>
+    <item index="7">Rio</item>
+    <item index="8">Kung Fu Panda 3</item>
+    <item index="9">Ice Age: The Meltdown</item>
+    <item index="10">Bolt</item>
+    <item index="11">Madagascar</item>
+    <item index="12">Monsters vs Aliens</item>
+    <item index="13">Cloudy with a Chance of Meatballs</item>
+    <item index="14">Shrek 2</item>
+    <item index="15">Cars 2</item>
+    <item index="16">Ice Age: Continental Drift</item>
+    <item index="17">Happy Feet</item>
+    <item index="18">Shark Tale</item>
+    <item index="19">Over the Hedge</item>
+  </similar>
+  <studio>DreamWorks Animation</studio>
+  <summary>Po is now living his dream as The Dragon Warrior, protecting the Valley of Peace alongside his friends and fellow kung fu masters, The Furious Five - Tigress, Crane, Mantis, Viper and Monkey. But Po’s new life of awesomeness is threatened by the emergence of a formidable villain, who plans to use a secret, unstoppable weapon to conquer China and destroy kung fu. It is up to Po and The Furious Five to journey across China to face this threat and vanquish it. But how can Po stop a weapon that can stop kung fu? He must look to his past and uncover the secrets of his mysterious origins; only then will he be able to unlock the strength he needs to succeed.</summary>
+  <tagline>Prepare for the Year of Awesomeness!</tagline>
+  <tags/>
+  <themes/>
+  <title>Kung Fu Panda 2</title>
+  <writers>
+    <item index="0">
+      <photo/>
+      <role/>
+      <name>Jonathan Aibel</name>
+    </item>
+    <item index="1">
+      <photo>http://image.tmdb.org/t/p/original/jMy1SnrYNScYpgHMiwj7crdWJNc.jpg</photo>
+      <role/>
+      <name>Glenn Berger</name>
+    </item>
+  </writers>
+  <year>2011</year>
+</Movie>

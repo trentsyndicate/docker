@@ -1,0 +1,440 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Movie>
+  <art>
+    <item external="True" url="http://image.tmdb.org/t/p/original/6uF4SFdZCr0b6EtlUGR6V5Bt23k.jpg" sort_order="1" provider="com.plexapp.agents.imdb" media="com.plexapp.agents.imdb_a88fd4c5751738f8c5ed7972a102f0f6db814a05"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/AkwLeC0Q8GIkYJ6ZI0tc0118AY6.jpg" preview="com.plexapp.agents.imdb_12d10c3449315256b4c79764b583d94774c3f106" sort_order="2" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/gSy6JhlAtslenIHM3HrHaXjtDXD.jpg" preview="com.plexapp.agents.imdb_48315f56824030fcaa7823fad92d0a87649b33ab" sort_order="3" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/jlF1GGzQmCXVfJs8vOCKcQwFn33.jpg" preview="com.plexapp.agents.imdb_09e16024ad6a8020601416e3d3f748eb95db91d2" sort_order="4" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/A0NjxqfYCrMZRlSQVYbehjaj3wu.jpg" preview="com.plexapp.agents.imdb_d31280d455b4e87a024dba9fab795fac0de1ebbc" sort_order="5" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/rj8yRaddqON9JexItlQIy013u3L.jpg" preview="com.plexapp.agents.imdb_3e04fbaf3959f948d05477df5bdc27449e4c81d3" sort_order="6" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/1WAIMWv3AlaX1a5GfZ4dcQPqvno.jpg" preview="com.plexapp.agents.imdb_6f2d193fa1efe3ea2d20905c40a6bbb08436baec" sort_order="7" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/a7UiStbHbjlanwrYmot59zubk1K.jpg" preview="com.plexapp.agents.imdb_c2af091581b2536af0987562fda2b1bbe803573f" sort_order="8" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/115v9Gq52US86Iu1AUBLJrnMYFl.jpg" preview="com.plexapp.agents.imdb_c4dd9f19c4a2a05cf4b25ea6bf599d295ee357eb" sort_order="9" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/v3bqaDc00Yq5rHMH3CRMUqQi30S.jpg" preview="com.plexapp.agents.imdb_eeaa907f040be684d4d254edde4093d861aa1ffc" sort_order="10" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/qtamfYGFfDLfGRcucx1zNwohRts.jpg" preview="com.plexapp.agents.imdb_82cbedba658c966905ee2fd65ac580064e440f80" sort_order="11" provider="com.plexapp.agents.imdb"/>
+  </art>
+  <banners/>
+  <chapters>
+    <item index="0">
+      <title>Om Mani Padme Boom!</title>
+      <end_time_offset>385000</end_time_offset>
+      <start_time_offset>0</start_time_offset>
+    </item>
+    <item index="1">
+      <title>Main Title/NORAD</title>
+      <end_time_offset>571000</end_time_offset>
+      <start_time_offset>385000</start_time_offset>
+    </item>
+    <item index="2">
+      <title>The Deployment Debate</title>
+      <end_time_offset>730000</end_time_offset>
+      <start_time_offset>571000</start_time_offset>
+    </item>
+    <item index="3">
+      <title>Meet WOPR/War Games</title>
+      <end_time_offset>844000</end_time_offset>
+      <start_time_offset>730000</start_time_offset>
+    </item>
+    <item index="4">
+      <title>David/"Your Wife?"</title>
+      <end_time_offset>1052000</end_time_offset>
+      <start_time_offset>844000</start_time_offset>
+    </item>
+    <item index="5">
+      <title>Penciling In New Grades</title>
+      <end_time_offset>1353000</end_time_offset>
+      <start_time_offset>1052000</start_time_offset>
+    </item>
+    <item index="6">
+      <title>Replacing The Key Men</title>
+      <end_time_offset>1400000</end_time_offset>
+      <start_time_offset>1353000</start_time_offset>
+    </item>
+    <item index="7">
+      <title>Perusing Protovision</title>
+      <end_time_offset>1561000</end_time_offset>
+      <start_time_offset>1400000</start_time_offset>
+    </item>
+    <item index="8">
+      <title>Tickets To Paris/Games</title>
+      <end_time_offset>1857000</end_time_offset>
+      <start_time_offset>1561000</start_time_offset>
+    </item>
+    <item index="9">
+      <title>"Definitely Military"</title>
+      <end_time_offset>2140000</end_time_offset>
+      <start_time_offset>1857000</start_time_offset>
+    </item>
+    <item index="10">
+      <title>Thermonuclear War</title>
+      <end_time_offset>2489000</end_time_offset>
+      <start_time_offset>2140000</start_time_offset>
+    </item>
+    <item index="11">
+      <title>Missile Warning</title>
+      <end_time_offset>2670000</end_time_offset>
+      <start_time_offset>2489000</start_time_offset>
+    </item>
+    <item index="12">
+      <title>Parental Interruptus</title>
+      <end_time_offset>2790000</end_time_offset>
+      <start_time_offset>2670000</start_time_offset>
+    </item>
+    <item index="13">
+      <title>In The News/"Screwed!"</title>
+      <end_time_offset>2982000</end_time_offset>
+      <start_time_offset>2790000</start_time_offset>
+    </item>
+    <item index="14">
+      <title>Computer Callbacks</title>
+      <end_time_offset>3061000</end_time_offset>
+      <start_time_offset>2982000</start_time_offset>
+    </item>
+    <item index="15">
+      <title>Nabbed By Feds</title>
+      <end_time_offset>3202000</end_time_offset>
+      <start_time_offset>3061000</start_time_offset>
+    </item>
+    <item index="16">
+      <title>DefCon 4/Seattle Spy</title>
+      <end_time_offset>3362000</end_time_offset>
+      <start_time_offset>3202000</start_time_offset>
+    </item>
+    <item index="17">
+      <title>Meeting McKittrick</title>
+      <end_time_offset>3572000</end_time_offset>
+      <start_time_offset>3362000</start_time_offset>
+    </item>
+    <item index="18">
+      <title>DefCon 3/Robert Hume</title>
+      <end_time_offset>3792000</end_time_offset>
+      <start_time_offset>3572000</start_time_offset>
+    </item>
+    <item index="19">
+      <title>Playback Is Swell</title>
+      <end_time_offset>4104000</end_time_offset>
+      <start_time_offset>3792000</start_time_offset>
+    </item>
+    <item index="20">
+      <title>Escape/Phoney Change</title>
+      <end_time_offset>4530000</end_time_offset>
+      <start_time_offset>4104000</start_time_offset>
+    </item>
+    <item index="21">
+      <title>Goose Island, Oregon</title>
+      <end_time_offset>4759000</end_time_offset>
+      <start_time_offset>4530000</start_time_offset>
+    </item>
+    <item index="22">
+      <title>DefCon 2/Ghost Planes</title>
+      <end_time_offset>4877000</end_time_offset>
+      <start_time_offset>4759000</start_time_offset>
+    </item>
+    <item index="23">
+      <title>A Game Of Futility</title>
+      <end_time_offset>5184000</end_time_offset>
+      <start_time_offset>4877000</start_time_offset>
+    </item>
+    <item index="24">
+      <title>"I Can't Swim!"/Copter</title>
+      <end_time_offset>5404000</end_time_offset>
+      <start_time_offset>5184000</start_time_offset>
+    </item>
+    <item index="25">
+      <title>DefCon 1/Almost Doorjam</title>
+      <end_time_offset>5608000</end_time_offset>
+      <start_time_offset>5404000</start_time_offset>
+    </item>
+    <item index="26">
+      <title>Incoming Warheads</title>
+      <end_time_offset>5936000</end_time_offset>
+      <start_time_offset>5608000</start_time_offset>
+    </item>
+    <item index="27">
+      <title>Lock Out Change</title>
+      <end_time_offset>6119000</end_time_offset>
+      <start_time_offset>5936000</start_time_offset>
+    </item>
+    <item index="28">
+      <title>"He Got One"</title>
+      <end_time_offset>6245000</end_time_offset>
+      <start_time_offset>6119000</start_time_offset>
+    </item>
+    <item index="29">
+      <title>Tic Tac Toe</title>
+      <end_time_offset>6384000</end_time_offset>
+      <start_time_offset>6245000</start_time_offset>
+    </item>
+    <item index="30">
+      <title>Strobing Strategies</title>
+      <end_time_offset>6578000</end_time_offset>
+      <start_time_offset>6384000</start_time_offset>
+    </item>
+    <item index="31">
+      <title>End Credits</title>
+      <end_time_offset>-1</end_time_offset>
+      <start_time_offset>6578000</start_time_offset>
+    </item>
+  </chapters>
+  <collections/>
+  <content_rating>PG</content_rating>
+  <countries>
+    <item index="0">USA</item>
+  </countries>
+  <directors>
+    <item index="0">
+      <photo>http://image.tmdb.org/t/p/original/vWzb3cQz4qYtfXQ6qyCrSTw61xA.jpg</photo>
+      <role/>
+      <name>John Badham</name>
+    </item>
+  </directors>
+  <duration>6840000</duration>
+  <genres>
+    <item index="0">Sci-Fi</item>
+    <item index="1">Thriller</item>
+  </genres>
+  <originally_available_at>1983-06-03</originally_available_at>
+  <posters>
+    <item external="True" url="http://image.tmdb.org/t/p/original/aRVbuwhDt2LHecoGIuETucqeNXC.jpg" sort_order="1" provider="com.plexapp.agents.imdb" media="com.plexapp.agents.imdb_6ceabc2c4453bbe4672061d2df6d47b38289c723"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/akPIXEzNgjmtiz5FTtaLBHJassh.jpg" preview="com.plexapp.agents.imdb_ea1fda840b39be3427f5e7c75d476c4fa2e22a9a" sort_order="2" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/tsQjYZCx8AcKC0SCUwwg1dFYhT3.jpg" preview="com.plexapp.agents.imdb_fc9a4d09212f4c9d5f3be7406843e1c3a4190ecc" sort_order="3" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/bcNIShALVyNZIkKknwifcge1eOV.jpg" preview="com.plexapp.agents.imdb_90cb812fb731984a83b14f1e33a4259f833efcab" sort_order="4" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/pbY6eBoyP1t96aUsCvytIgI0IX6.jpg" preview="com.plexapp.agents.imdb_be6c2d3a0c1a03222a5aaa4a6e9be70a94273ed9" sort_order="5" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/m0oQKlA3PJzjyKmVEqIOxUkSCAY.jpg" preview="com.plexapp.agents.imdb_462010edd3a2392e20c767821d01d97cdd99fd1e" sort_order="6" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/kvYuTorpCEjYGIZrCirFvgRhsjl.jpg" preview="com.plexapp.agents.imdb_0a2fba585639fad93a88751b939cc9e7ea010bb6" sort_order="7" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/xUNB9YUJ8sG8EXzIzARNPyBvfVm.jpg" preview="com.plexapp.agents.imdb_e6080929e7eddbf2786af2c2838f96ce920646d2" sort_order="8" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/rQocmooj7bFKS2vZfzWBB5O12eR.jpg" preview="com.plexapp.agents.imdb_25537b0948efe31b33c53d57f1766e6dbdf54392" sort_order="9" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/w3ZO94Q2NkooqibzwnfRWOGMoyH.jpg" preview="com.plexapp.agents.imdb_626f66a40d09d779f8edfddd8ea33f0d3ed3fe5c" sort_order="10" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/wLYswIEjcTeHfIUbCbRXNXy3nq4.jpg" preview="com.plexapp.agents.imdb_9401de3ee5bba2cf0a74a7d05ca5c8d3cabb212a" sort_order="11" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/bbMoFW0iMe8md62TKPvG78Cebld.jpg" preview="com.plexapp.agents.imdb_073c4c359cebce9e74592628c1b2e5af18f0d5f2" sort_order="12" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/6RQIuAu1mugON0LB46HwAui2P2Z.jpg" preview="com.plexapp.agents.imdb_5fd659d2c4f00208b063991b9361af4456f03bb6" sort_order="13" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/sQzQ6FDV2hDNMxaud5LeHbJ0Wfy.jpg" preview="com.plexapp.agents.imdb_319ef741435d015f6bee15a04411aae37ea8fa8d" sort_order="14" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/6aAcTKsZD9epQqrYYMxSNI9V1gK.jpg" preview="com.plexapp.agents.imdb_dfdcab7207cbb593f422cf0dc3f08cafe84755d2" sort_order="15" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/lUqS6469Jaiv0MWBUfpgkmyCNgW.jpg" preview="com.plexapp.agents.imdb_db801aa2fb3abab8c726fb928730d7af4663b91c" sort_order="16" provider="com.plexapp.agents.imdb"/>
+  </posters>
+  <producers>
+    <item index="0">
+      <photo/>
+      <role/>
+      <name>Richard Hashimoto</name>
+    </item>
+    <item index="1">
+      <photo/>
+      <role/>
+      <name>Harold Schneider</name>
+    </item>
+  </producers>
+  <rating>7.1</rating>
+  <rating_image>imdb://image.rating</rating_image>
+  <audience_rating>0.0</audience_rating>
+  <audience_rating_image/>
+  <reviews/>
+  <roles>
+    <item index="0">
+      <photo>http://image.tmdb.org/t/p/original/j9ETatVKFxYR5Ijk8l5tzKO4HPn.jpg</photo>
+      <role>David Lightman</role>
+      <name>Matthew Broderick</name>
+    </item>
+    <item index="1">
+      <photo>http://image.tmdb.org/t/p/original/95I1LdB2PS2RcAL4mqUzAmJWI5x.jpg</photo>
+      <role>Dr. John McKittrick</role>
+      <name>Dabney Coleman</name>
+    </item>
+    <item index="2">
+      <photo>http://image.tmdb.org/t/p/original/xfNrfzgDwyvmczadJWw4fN70siS.jpg</photo>
+      <role>Jennifer Katherine Mack</role>
+      <name>Ally Sheedy</name>
+    </item>
+    <item index="3">
+      <photo>http://image.tmdb.org/t/p/original/bWt4JT9eGxFtu3q0iCAKFtNv5XK.jpg</photo>
+      <role>Dr. Stephen Falken</role>
+      <name>John Wood</name>
+    </item>
+    <item index="4">
+      <photo>http://image.tmdb.org/t/p/original/38AilHla20EFhEYAqoz6EzfsrQf.jpg</photo>
+      <role>General Jack Beringer</role>
+      <name>Barry Corbin</name>
+    </item>
+    <item index="5">
+      <photo>http://image.tmdb.org/t/p/original/rSAhf4lbBTAyFnvf8vtxrhqTaGH.jpg</photo>
+      <role>Pat Healy</role>
+      <name>Juanin Clay</name>
+    </item>
+    <item index="6">
+      <photo>http://image.tmdb.org/t/p/original/tquRqAOXg6PUq1hEqOCbTCqWCVE.jpg</photo>
+      <role>Arthur Cabot</role>
+      <name>Kent Williams</name>
+    </item>
+    <item index="7">
+      <photo>http://image.tmdb.org/t/p/original/24Rwjg1GHJiGO6qfuzJqxEqt8Fs.jpg</photo>
+      <role>Lyle Watson</role>
+      <name>Dennis Lipscomb</name>
+    </item>
+    <item index="8">
+      <photo/>
+      <role>Col. Joe Conley</role>
+      <name>Joe Dorsey</name>
+    </item>
+    <item index="9">
+      <photo/>
+      <role>Paul Richter</role>
+      <name>Irving Metzman</name>
+    </item>
+    <item index="10">
+      <photo>http://image.tmdb.org/t/p/original/nyTn32fU0E1pQpIUeuiTAehaAee.jpg</photo>
+      <role>Beringer's Aide</role>
+      <name>Michael Ensign</name>
+    </item>
+    <item index="11">
+      <photo/>
+      <role>Mr. Lightman</role>
+      <name>William Bogert</name>
+    </item>
+    <item index="12">
+      <photo/>
+      <role>Mrs. Lightman</role>
+      <name>Susan Davis</name>
+    </item>
+    <item index="13">
+      <photo>http://image.tmdb.org/t/p/original/mB9vHaDMzy5Z5pPWOliA6MJ3gTq.jpg</photo>
+      <role>Nigan</role>
+      <name>James Tolkan</name>
+    </item>
+    <item index="14">
+      <photo/>
+      <role>Stockman</role>
+      <name>David Clover</name>
+    </item>
+    <item index="15">
+      <photo>http://image.tmdb.org/t/p/original/xW8V4eZaFRm0J2FCNNrcojN8yOg.jpg</photo>
+      <role>Ayers</role>
+      <name>Drew Snyder</name>
+    </item>
+    <item index="16">
+      <photo/>
+      <role>Corporal in the Infirmary</role>
+      <name>John Garber</name>
+    </item>
+    <item index="17">
+      <photo/>
+      <role>Major Lem</role>
+      <name>Duncan Wilmore</name>
+    </item>
+    <item index="18">
+      <photo/>
+      <role>Radar Analyst</role>
+      <name>Billy Ray Sharkey</name>
+    </item>
+    <item index="19">
+      <photo>http://image.tmdb.org/t/p/original/9sU5FEzlf921n6NxHmXgJB3994T.jpg</photo>
+      <role>Jerry</role>
+      <name>John Spencer</name>
+    </item>
+    <item index="20">
+      <photo>http://image.tmdb.org/t/p/original/azCognW0p1hl2bJFH31ZNtcTJ3R.jpg</photo>
+      <role>Steve</role>
+      <name>Michael Madsen</name>
+    </item>
+    <item index="21">
+      <photo/>
+      <role>Commander</role>
+      <name>Erik Stern</name>
+    </item>
+    <item index="22">
+      <photo/>
+      <role>Deputy</role>
+      <name>Gary Bisig</name>
+    </item>
+    <item index="23">
+      <photo/>
+      <role>Technician</role>
+      <name>Gary Sexton</name>
+    </item>
+    <item index="24">
+      <photo>http://image.tmdb.org/t/p/original/yeb5CHrEHJgVE73IOEPtd1vSzzF.jpg</photo>
+      <role>Captain Knewt</role>
+      <name>Jason Bernard</name>
+    </item>
+    <item index="25">
+      <photo/>
+      <role>Airman Fields</role>
+      <name>Frankie Hill</name>
+    </item>
+    <item index="26">
+      <photo>http://image.tmdb.org/t/p/original/m8Cx2LpZuZPwljY4wftXWv4oLQa.jpg</photo>
+      <role>Sergeant</role>
+      <name>Jesse D. Goins</name>
+    </item>
+    <item index="27">
+      <photo>http://image.tmdb.org/t/p/original/2ag56MvKkTuhGnUFgJza4hJZl8u.jpg</photo>
+      <role>Mr. Liggett</role>
+      <name>Alan Blumenfeld</name>
+    </item>
+    <item index="28">
+      <photo/>
+      <role>Boys Vice Principal</role>
+      <name>Len Lawson</name>
+    </item>
+    <item index="29">
+      <photo>http://image.tmdb.org/t/p/original/jhJgkb5P0oAW7QtULjqD2kaN0ez.jpg</photo>
+      <role>Jim Sting</role>
+      <name>Maury Chaykin</name>
+    </item>
+    <item index="30">
+      <photo>http://image.tmdb.org/t/p/original/ippZciGOX0PKn4QexVlcym4LZNS.jpg</photo>
+      <role>Malvin</role>
+      <name>Eddie Deezen</name>
+    </item>
+    <item index="31">
+      <photo>http://image.tmdb.org/t/p/original/vCZ2iTJpXXhG2oAV95GZCz2k9X2.jpg</photo>
+      <role>Airman</role>
+      <name>Stack Pierce</name>
+    </item>
+    <item index="32">
+      <photo>http://image.tmdb.org/t/p/original/8TXy2oH8AaeMY8sQCZK5O5TgY1e.jpg</photo>
+      <role>NORAD Officer</role>
+      <name>William H. Macy</name>
+    </item>
+  </roles>
+  <similar>
+    <item index="0">Cocoon</item>
+    <item index="1">Outbreak</item>
+    <item index="2">Sneakers</item>
+    <item index="3">Tron</item>
+    <item index="4">The Jewel of the Nile</item>
+    <item index="5">Patriot Games</item>
+    <item index="6">Short Circuit</item>
+    <item index="7">Logan's Run</item>
+    <item index="8">Weird Science</item>
+    <item index="9">Innerspace</item>
+    <item index="10">Romancing the Stone</item>
+    <item index="11">The Last Starfighter</item>
+    <item index="12">The Running Man</item>
+    <item index="13">Risky Business</item>
+    <item index="14">Dune</item>
+    <item index="15">Clear and Present Danger</item>
+    <item index="16">48 Hrs.</item>
+    <item index="17">Star Trek III: The Search for Spock</item>
+    <item index="18">Flatliners</item>
+    <item index="19">Johnny Mnemonic</item>
+  </similar>
+  <studio>United Artists</studio>
+  <summary>High School student David Lightman (Matthew Broderick) has a talent for hacking. But while trying to hack into a computer system to play unreleased video games, he unwittingly taps into the Defense Department's war computer and initiates a confrontation of global proportions! Together with his girlfriend (Ally Sheedy) and a wizardly computer genius (John Wood), David must race against time to outwit his opponent...and prevent a nuclear Armageddon.</summary>
+  <tagline>Is it a game, or is it real?</tagline>
+  <tags/>
+  <themes/>
+  <title>WarGames</title>
+  <writers>
+    <item index="0">
+      <photo/>
+      <role/>
+      <name>Lawrence Lasker</name>
+    </item>
+    <item index="1">
+      <photo/>
+      <role/>
+      <name>Walter F. Parkes</name>
+    </item>
+  </writers>
+  <year>1983</year>
+</Movie>

@@ -1,0 +1,927 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Movie>
+  <art>
+    <item external="True" url="http://image.tmdb.org/t/p/original/pyNIx3gOnQGMsKPlu0mzsdr6Owo.jpg" sort_order="1" provider="com.plexapp.agents.imdb" media="com.plexapp.agents.imdb_756e294dc823ba4c5f972bad1b60dff0aab0172b"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/xniozTQSuimoQGEdV6ieUQPRTyu.jpg" preview="com.plexapp.agents.imdb_250d8dcc07fdd0dd9e26d9ddaa37df7ea7a5147e" sort_order="2" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/5rYnygKCkmqWuMv1O5yAnzGF8gV.jpg" preview="com.plexapp.agents.imdb_f99f2160b715f84d95c6d5b94f7d2babdea4fd57" sort_order="3" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/7WjMTRF6LDa4latRUIDM25xnDO0.jpg" preview="com.plexapp.agents.imdb_d2ea9ed0c7d8666ed5e02a944eb2a72a5a2c750a" sort_order="4" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/AbFTnjto4RtccrUVx5zszV69X1B.jpg" preview="com.plexapp.agents.imdb_c03ee9be96a2e0ca977b24c853cd4f7022aa068f" sort_order="5" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/3nBIWfqA9TlsgH8rWmblHeF5AyX.jpg" preview="com.plexapp.agents.imdb_f7a0274dce30e0be4d8914b2b86cfdadace185ab" sort_order="6" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/o9PJL6DQe4pJH0obDTXfF00dnPD.jpg" preview="com.plexapp.agents.imdb_24bb4938af6febb002d22bb9562d7014360b9d78" sort_order="7" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/nqpEcpBKF6GuTI8Kk5D63L5L3S1.jpg" preview="com.plexapp.agents.imdb_c7306b7d127ba9da799d112f4029b44f650dcf5b" sort_order="8" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/ijSpwvltmafs3NePRIDVfOSSlkp.jpg" preview="com.plexapp.agents.imdb_f2e0e14ba1f84c9ad2c49f643b787d583b9bce6b" sort_order="9" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/8B2chViHqMjs5e7mn5AbHOkMEq6.jpg" preview="com.plexapp.agents.imdb_a962797f2f54e58b7507036bd723e5813fe23ac8" sort_order="10" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/p0Sd6gFQ9MX4aN9koDIWQYc3LoF.jpg" preview="com.plexapp.agents.imdb_adff7cb4e5b2bff990db058345c28e479f177944" sort_order="11" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/p5SlNnPgR81Xt3BqJrApqNkr5b1.jpg" preview="com.plexapp.agents.imdb_392d39de887d2866e8577fdfbeac925879314d1e" sort_order="12" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/hqtW9Jvtc3PjiuCePaLhkBlBlAR.jpg" preview="com.plexapp.agents.imdb_65c4949bce988e509e9313e764d43d51f97b4b59" sort_order="13" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/wIf304BO1WnxIu6mtFbSeHOJCH2.jpg" preview="com.plexapp.agents.imdb_0b3e75ff77c9bc10459bdb22901ff049733094c5" sort_order="14" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/fUMjjwZY15mICh7HXbaSNoVHEUL.jpg" preview="com.plexapp.agents.imdb_4e38a63a3198a7c3a1432a27f6af378ab06235ea" sort_order="15" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/o6OhxtsgMurL4h68Uqei0aSPMNr.jpg" preview="com.plexapp.agents.imdb_1f92b0d87d6bae9ba429619834fa3a71decc6336" sort_order="16" provider="com.plexapp.agents.imdb"/>
+  </art>
+  <banners/>
+  <chapters>
+    <item index="0">
+      <title/>
+      <end_time_offset>749000</end_time_offset>
+      <start_time_offset>0</start_time_offset>
+    </item>
+    <item index="1">
+      <title/>
+      <end_time_offset>1043000</end_time_offset>
+      <start_time_offset>749000</start_time_offset>
+    </item>
+    <item index="2">
+      <title/>
+      <end_time_offset>1410000</end_time_offset>
+      <start_time_offset>1043000</start_time_offset>
+    </item>
+    <item index="3">
+      <title/>
+      <end_time_offset>1960000</end_time_offset>
+      <start_time_offset>1410000</start_time_offset>
+    </item>
+    <item index="4">
+      <title/>
+      <end_time_offset>2473000</end_time_offset>
+      <start_time_offset>1960000</start_time_offset>
+    </item>
+    <item index="5">
+      <title/>
+      <end_time_offset>2829000</end_time_offset>
+      <start_time_offset>2473000</start_time_offset>
+    </item>
+    <item index="6">
+      <title/>
+      <end_time_offset>3366000</end_time_offset>
+      <start_time_offset>2829000</start_time_offset>
+    </item>
+    <item index="7">
+      <title/>
+      <end_time_offset>3859000</end_time_offset>
+      <start_time_offset>3366000</start_time_offset>
+    </item>
+    <item index="8">
+      <title/>
+      <end_time_offset>4282000</end_time_offset>
+      <start_time_offset>3859000</start_time_offset>
+    </item>
+    <item index="9">
+      <title/>
+      <end_time_offset>4819000</end_time_offset>
+      <start_time_offset>4282000</start_time_offset>
+    </item>
+    <item index="10">
+      <title/>
+      <end_time_offset>5287000</end_time_offset>
+      <start_time_offset>4819000</start_time_offset>
+    </item>
+    <item index="11">
+      <title/>
+      <end_time_offset>5748000</end_time_offset>
+      <start_time_offset>5287000</start_time_offset>
+    </item>
+    <item index="12">
+      <title/>
+      <end_time_offset>6087000</end_time_offset>
+      <start_time_offset>5748000</start_time_offset>
+    </item>
+    <item index="13">
+      <title/>
+      <end_time_offset>6812000</end_time_offset>
+      <start_time_offset>6087000</start_time_offset>
+    </item>
+    <item index="14">
+      <title/>
+      <end_time_offset>7336000</end_time_offset>
+      <start_time_offset>6812000</start_time_offset>
+    </item>
+    <item index="15">
+      <title/>
+      <end_time_offset>-1</end_time_offset>
+      <start_time_offset>7336000</start_time_offset>
+    </item>
+  </chapters>
+  <collections/>
+  <content_rating>PG-13</content_rating>
+  <countries>
+    <item index="0">France</item>
+  </countries>
+  <directors>
+    <item index="0">
+      <photo>http://image.tmdb.org/t/p/original/2TzRsqSx0xb1DK3HsEQKSXhRGcu.jpg</photo>
+      <role/>
+      <name>Luc Besson</name>
+    </item>
+  </directors>
+  <duration>8160000</duration>
+  <genres>
+    <item index="0">Action</item>
+    <item index="1">Adventure</item>
+    <item index="2">Fantasy</item>
+    <item index="3">Sci-Fi</item>
+  </genres>
+  <originally_available_at>2017-07-20</originally_available_at>
+  <posters>
+    <item external="True" url="http://image.tmdb.org/t/p/original/5ov7TYjasIaXDg8Jm2UeZA2aZtg.jpg" sort_order="1" provider="com.plexapp.agents.imdb" media="com.plexapp.agents.imdb_9181fb207f618dec0a5e7bb6f022b5f9e0bb6abb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/jfIpMh79fGRqYJ6PwZLCntzgxlF.jpg" preview="com.plexapp.agents.imdb_2f52b54de6a0ade9729ccd270c9fc06f4331a099" sort_order="2" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/vlc95gl3PtrjxSEuM8RhTtSm2xU.jpg" preview="com.plexapp.agents.imdb_f41a47e473ae161b22a6c423fba617651074b81b" sort_order="3" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/5sO4Vs4KNPpkkMdofO0LKgi1L94.jpg" preview="com.plexapp.agents.imdb_c56b5c78ea15235214d3fac5f2a26698aac5342c" sort_order="4" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/swZ0si1ZEbQa0qEznxdkUTMiolD.jpg" preview="com.plexapp.agents.imdb_57627b39903abfce6190d1a9908bcd12aae8677f" sort_order="5" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/faRnfKIRkgkrHale0sGedFvXMzH.jpg" preview="com.plexapp.agents.imdb_74b414d556d03d6d78da318145355ba0f7cd649b" sort_order="6" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/tRlYG0ejhaW34QHCseXzHmkVLFJ.jpg" preview="com.plexapp.agents.imdb_ba82c7e84e9454ab94d37330455d5a4bf8ba4de5" sort_order="7" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/2Vqi3b52T6PcVtcGdBUTLEVjAd2.jpg" preview="com.plexapp.agents.imdb_c1c508771a9bd138c6fd2fa73396c9d0673deb7b" sort_order="8" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/vtxv0Zx1CpFsWyqTFoLDEcYUQwU.jpg" preview="com.plexapp.agents.imdb_b25949dc6513bcd97e513e78d0e44d94524dac24" sort_order="9" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/jD0fDeLt0SIU7sGSNbZvvq4Au2A.jpg" preview="com.plexapp.agents.imdb_999c4f1e3aa5280dcb4d46f16427462645776b54" sort_order="10" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/1gAUf4f1748wSukyC3j1OtMRbeA.jpg" preview="com.plexapp.agents.imdb_0b16a1f671166f2271de99904389c171f718b9f1" sort_order="11" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/rhhGBFZJlCRKJdjBAhNYrgJNfVK.jpg" preview="com.plexapp.agents.imdb_28cf2d0da4b6a063f168708fce816fefd8f82a04" sort_order="12" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/c4FLpeUiIYNd2Y6cGMIPvMCsrhe.jpg" preview="com.plexapp.agents.imdb_c86784bb0ad96edd75175640787ab9d33c510339" sort_order="13" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/y9gcbFWmdIAmt4LwZP9bLtAu3JD.jpg" preview="com.plexapp.agents.imdb_62c5b5479607cf3809cd483a44908a0c05a6ffdb" sort_order="14" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/6Zk9cn8DF5hFLhgyDyq0FeQz2Ne.jpg" preview="com.plexapp.agents.imdb_59252aa9e0a6bb12404746a221deb32f60446c69" sort_order="15" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/gNeZ5s7LDSvvlFWOB9pp8tPWuxa.jpg" preview="com.plexapp.agents.imdb_b8f68e1e7eda3daa5aeda76bc7ffb30d41d8d070" sort_order="16" provider="com.plexapp.agents.imdb"/>
+  </posters>
+  <producers>
+    <item index="0">
+      <photo>http://image.tmdb.org/t/p/original/2TzRsqSx0xb1DK3HsEQKSXhRGcu.jpg</photo>
+      <role/>
+      <name>Luc Besson</name>
+    </item>
+    <item index="1">
+      <photo/>
+      <role/>
+      <name>Virginie Besson-Silla</name>
+    </item>
+  </producers>
+  <rating>4.9</rating>
+  <rating_image>rottentomatoes://image.rating.rotten</rating_image>
+  <audience_rating>5.4</audience_rating>
+  <audience_rating_image>rottentomatoes://image.rating.spilled</audience_rating_image>
+  <reviews>
+    <item index="0">
+      <text>You don't watch The Fifth Element for its storytelling, you watch it for its joyous, ridiculous sense of place and style, and that's doubly true for Valerian -- a movie that isn't nearly as memorable, but that works just fine as a tribute.</text>
+      <source>BuzzFeed News</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>https://www.buzzfeed.com/alisonwillmore/valerian-and-the-leeloo-dallas-multipass?utm_term=.pgO3Wgbj8#.hqM7yVBN1</link>
+      <author>Alison Willmore</author>
+    </item>
+    <item index="1">
+      <text>You come away admiring the effort while lamenting the execution, but swinging and missing is always better than not swinging at all.</text>
+      <source>Detroit News</source>
+      <image>rottentomatoes://image.review.rotten</image>
+      <link>http://www.detroitnews.com/story/entertainment/movies/2017/07/20/movie-review-valerians-city-thousand-planets/103878174/</link>
+      <author>Adam Graham</author>
+    </item>
+    <item index="2">
+      <text>A ripe visual adventure of limitless imagination hamstrung by an undercooked plot propelled by lackluster heroes.</text>
+      <source>New York Observer</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>http://observer.com/2017/07/review-valerian-luc-besson-rihanna/</link>
+      <author>Thelma Adams</author>
+    </item>
+    <item index="3">
+      <text>Utterly unreal space story from Luc Besson (he of The Fifth Element fame), who seems to have watched James Cameron's Avatar and decided he could make it sillier, more scattered, and less emotionally engaging.</text>
+      <source>San Diego Reader</source>
+      <image>rottentomatoes://image.review.rotten</image>
+      <link>https://www.sandiegoreader.com/movies/valerian-and-the-city-of-a-thousand-planets/</link>
+      <author>Matthew Lickona</author>
+    </item>
+    <item index="4">
+      <text>If nothing else, those who lament Hollywood's over-reliance on special effects have a shiny new example of such excess by way of Europe, situated in a faraway galaxy that mostly makes one yearn to escape into the sunlight of planet Earth.</text>
+      <source>CNN.com</source>
+      <image>rottentomatoes://image.review.rotten</image>
+      <link>http://www.cnn.com/2017/07/20/movies/valerian-review/index.html</link>
+      <author>Brian Lowry</author>
+    </item>
+    <item index="5">
+      <text>As a complete motion picture experience, it falls considerably short.</text>
+      <source>ReelViews</source>
+      <image>rottentomatoes://image.review.rotten</image>
+      <link>http://www.reelviews.net/reelviews/valerian-and-the-city-of-a-thousand-planets</link>
+      <author>James Berardinelli</author>
+    </item>
+    <item index="6">
+      <text>Besson's trying to cram in as much as he possibly can, but the more he overstuffs the movie, the emptier it feels.</text>
+      <source>Slate</source>
+      <image>rottentomatoes://image.review.rotten</image>
+      <link>https://slate.com/arts/2017/07/valerian-and-the-city-of-a-thousand-planets-review.html</link>
+      <author>Sam Adams</author>
+    </item>
+    <item index="7">
+      <text>The City might be an interesting place to spend some time if a busy and chaotic story didn't keep getting in the way, and if we were allowed to hang out for a little while longer with Ethan Hawke and Rihanna.</text>
+      <source>New York Times</source>
+      <image>rottentomatoes://image.review.rotten</image>
+      <link>https://www.nytimes.com/2017/07/20/movies/valerian-and-the-city-of-a-thousand-planets-review.html</link>
+      <author>A.O. Scott</author>
+    </item>
+    <item index="8">
+      <text>Valerian is exuberant, extravagant, and generally likable. Yet many parts of the movie just don't work. Sticklers for things like acting and dialogue are likely to be dissatisfied.</text>
+      <source>NPR</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>http://www.npr.org/2017/07/20/538126230/besson-s-dazzling-but-dull-valerian-and-the-city-of-a-thousand-planets?utm_medium=RSS&amp;utm_campaign=movies</link>
+      <author>Mark Jenkins</author>
+    </item>
+    <item index="9">
+      <text>Valerian is sci-fi at its most fantastical. It's a shame that the dialogue, acting and anything involving humans too often feels stilted and unbelievable.</text>
+      <source>Dallas Morning News</source>
+      <image>rottentomatoes://image.review.rotten</image>
+      <link>https://www.guidelive.com/movie-reviews/2017/07/19/valerian-city-thousand-planets</link>
+      <author>Britton Peele</author>
+    </item>
+    <item index="10">
+      <text>There is more candy here, of the retinal variety, than a jumbo bag of Airheads.</text>
+      <source>Washington Post</source>
+      <image>rottentomatoes://image.review.rotten</image>
+      <link>https://www.washingtonpost.com/goingoutguide/movies/valerian-and-the-city-of-a-thousand-planets-little-more-than-meets-the-eye/2017/07/20/9502585a-68af-11e7-9928-22d00a47778f_story.html?utm_term=.6eb8abd5dc5e</link>
+      <author>Michael O'Sullivan</author>
+    </item>
+    <item index="11">
+      <text>Besson's commercial instincts for sleek, violent fantasy are often sound, but "Valerian" is more sedative than show.</text>
+      <source>Chicago Tribune</source>
+      <image>rottentomatoes://image.review.rotten</image>
+      <link>http://www.chicagotribune.com/entertainment/movies/sc-valerian-city-mov-rev-0717-20170717-column.html#nt=oft13a-2gp1</link>
+      <author>Michael Phillips</author>
+    </item>
+    <item index="12">
+      <text>Besson styles him as a cocky space rogue, but Valerian is weak sauce. And so is this movie.</text>
+      <source>New York Post</source>
+      <image>rottentomatoes://image.review.rotten</image>
+      <link>http://nypost.com/2017/07/20/rihanna-is-the-only-good-part-of-valerian/</link>
+      <author>Sara Stewart</author>
+    </item>
+    <item index="13">
+      <text>Technology can't generate verve -- at least not yet -- or the sort of chemistry that's entirely absent in the pairing of these attractive performers.</text>
+      <source>Wall Street Journal</source>
+      <image>rottentomatoes://image.review.rotten</image>
+      <link>https://www.wsj.com/articles/valerian-and-the-city-of-a-thousand-planets-review-for-our-eyes-only-1500570794</link>
+      <author>Joe Morgenstern</author>
+    </item>
+    <item index="14">
+      <text>The plot is beside the point. Besson loads the picture with enough loopy visual splendor to keep us pleasurably distracted for long stretches.</text>
+      <source>TIME Magazine</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>http://time.com/4865967/valerian-and-the-city-of-a-thousand-planets-review/</link>
+      <author>Stephanie Zacharek</author>
+    </item>
+    <item index="15">
+      <text>"Valerian" has some cool visuals. But there's more to science fiction than pretty pictures.</text>
+      <source>St. Louis Post-Dispatch</source>
+      <image>rottentomatoes://image.review.rotten</image>
+      <link>http://www.stltoday.com/entertainment/movies/reviews/valerian-is-a-trip-worth-skipping/article_1f42fe4f-accc-5caf-a202-26a799edb199.html</link>
+      <author>Calvin Wilson</author>
+    </item>
+    <item index="16">
+      <text>Much is wrong with Valerian and the City of a Thousand Planets, but just looking at this thing is such an astonishing trip that you'll hardly notice.</text>
+      <source>Toronto Sun</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>http://www.torontosun.com/2017/07/20/valerian-and-the-city-of-a-thousand-planets-review-luc-bessons-space-opera-is-all-looks-no-substance</link>
+      <author>Liz Braun</author>
+    </item>
+    <item index="17">
+      <text>This is a movie that will make you scream - in confusion, in delight, in anger, in ecstasy. Sometimes all at once.</text>
+      <source>Globe and Mail</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>https://www.theglobeandmail.com/arts/film/film-reviews/review-valerian-and-the-city-of-a-thousand-planets-has-the-best-and-worst-of-luc-besson/article35750062/</link>
+      <author>Barry Hertz</author>
+    </item>
+    <item index="18">
+      <text>[A] bizarre and bloated and clunky pop sci-fi epic.</text>
+      <source>Chicago Sun-Times</source>
+      <image>rottentomatoes://image.review.rotten</image>
+      <link>http://chicago.suntimes.com/entertainment/sci-fi-goes-awry-in-luc-bessons-bizarre-bloated-valerian/</link>
+      <author>Richard Roeper</author>
+    </item>
+    <item index="19">
+      <text>The movie's wonderful, dopey high-summer space nonsense ... that allows the writer-director to match his fizzing visual sensibility to the source's camp (but not really) "Flash Gordon" sci-fi head-trip.</text>
+      <source>Boston Globe</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>https://www.bostonglobe.com/arts/movies/2017/07/20/valerian-and-city-thousand-planets-eye-candy-from-luc-besson/rdW3DR78EQ8L9zPikOQWzJ/story.html</link>
+      <author>Ty Burr</author>
+    </item>
+  </reviews>
+  <roles>
+    <item index="0">
+      <photo>http://image.tmdb.org/t/p/original/vZ7ix8UeRYgepFPFc4FIVKDLKDX.jpg</photo>
+      <role>Valerian</role>
+      <name>Dane DeHaan</name>
+    </item>
+    <item index="1">
+      <photo>http://image.tmdb.org/t/p/original/fxpve7evj6H1kl8rTnDqNyIdObI.jpg</photo>
+      <role>Laureline</role>
+      <name>Cara Delevingne</name>
+    </item>
+    <item index="2">
+      <photo>http://image.tmdb.org/t/p/original/jm2as6tLcvHCYQvmMYM4VK6JEnr.jpg</photo>
+      <role>Commander Arün Filitt</role>
+      <name>Clive Owen</name>
+    </item>
+    <item index="3">
+      <photo>http://image.tmdb.org/t/p/original/piXUA7L0gWQNtnDPXtBe24C9FF6.jpg</photo>
+      <role>Bubble</role>
+      <name>Rihanna</name>
+    </item>
+    <item index="4">
+      <photo>http://image.tmdb.org/t/p/original/kcby6VYk6Gb0036nUyh8chY5ZAJ.jpg</photo>
+      <role>Jolly the Pimp</role>
+      <name>Ethan Hawke</name>
+    </item>
+    <item index="5">
+      <photo>http://image.tmdb.org/t/p/original/hiYIvYhh7jnU2O5RLLdTEVv1a1l.jpg</photo>
+      <role>Defence Minister</role>
+      <name>Herbie Hancock</name>
+    </item>
+    <item index="6">
+      <photo>http://image.tmdb.org/t/p/original/gwtLPwmv54umE5RhtDOEWzahmy.jpg</photo>
+      <role>Sergeant Neza</role>
+      <name>Kris Wu</name>
+    </item>
+    <item index="7">
+      <photo>http://image.tmdb.org/t/p/original/2x1S2VAUvZXZuDjZ4E9iEKINvNu.jpg</photo>
+      <role>President of the World State Federation</role>
+      <name>Rutger Hauer</name>
+    </item>
+    <item index="8">
+      <photo>http://image.tmdb.org/t/p/original/eOIx8zj1vYIRhVY2bK5cjIQfua0.jpg</photo>
+      <role>Igon Siruss (voice)</role>
+      <name>John Goodman</name>
+    </item>
+    <item index="9">
+      <photo>http://image.tmdb.org/t/p/original/yUB5Q0pE7e81tYCWNkaOTdhVkWZ.jpg</photo>
+      <role>Emperor Haban-Limaï (voice)</role>
+      <name>Elizabeth Debicki</name>
+    </item>
+    <item index="10">
+      <photo>http://image.tmdb.org/t/p/original/ksZuHMo5c5CqFTbGIb8Rk6e44bP.jpg</photo>
+      <role>General Okto Bar</role>
+      <name>Sam Spruell</name>
+    </item>
+    <item index="11">
+      <photo>http://image.tmdb.org/t/p/original/9erOklGX0LeL5iJxBK8M7Y9Pyvo.jpg</photo>
+      <role>Major Gibson</role>
+      <name>Ola Rapace</name>
+    </item>
+    <item index="12">
+      <photo>http://image.tmdb.org/t/p/original/zR39m8iQ2OWn753WLwQ3oiH1qRc.jpg</photo>
+      <role>Bob the Pirate</role>
+      <name>Alain Chabat</name>
+    </item>
+    <item index="13">
+      <photo/>
+      <role>Pirates (voice)</role>
+      <name>Thom Findlay</name>
+    </item>
+    <item index="14">
+      <photo>http://image.tmdb.org/t/p/original/3FRBEdKKlxhvPWPt0jzgmSjeHwn.jpg</photo>
+      <role>Hawker</role>
+      <name>Mathieu Kassovitz</name>
+    </item>
+    <item index="15">
+      <photo>http://image.tmdb.org/t/p/original/tY4WSGJvSqiAIbsv7ynT8olRR3q.jpg</photo>
+      <role>Emperor Haban-Limaï</role>
+      <name>Aymeline Valade</name>
+    </item>
+    <item index="16">
+      <photo>http://image.tmdb.org/t/p/original/bW8CJSqzWXQtf4H7Y3p7LtDmycK.jpg</photo>
+      <role>Princess Lïhio-Minaa / Creature 'Candy Dress'</role>
+      <name>Sasha Luss</name>
+    </item>
+    <item index="17">
+      <photo>http://image.tmdb.org/t/p/original/vJUXTqpkOQlrV815MLCI97PAilA.jpg</photo>
+      <role>Empress Aloï / Creature 'Swing Angel'</role>
+      <name>Pauline Hoarau</name>
+    </item>
+    <item index="18">
+      <photo>http://image.tmdb.org/t/p/original/yti6Pj05UzCIc2lLKHcpl8kNEzB.jpg</photo>
+      <role>K-Tron Warrior / Control Room Soldier</role>
+      <name>Jonas Bloquet</name>
+    </item>
+    <item index="19">
+      <photo/>
+      <role>Creature 'Jessica Rabbit'</role>
+      <name>Sand Van Roy</name>
+    </item>
+    <item index="20">
+      <photo>http://image.tmdb.org/t/p/original/54rsjgcmdZj2wymmKy3FPRgkrie.jpg</photo>
+      <role>Captain Welcoming Mercurys</role>
+      <name>Louis Leterrier</name>
+    </item>
+    <item index="21">
+      <photo>http://image.tmdb.org/t/p/original/kihfuDNnnl41DyYz3uRiMG9pYgU.jpg</photo>
+      <role>Captain Welcoming KCO2</role>
+      <name>Olivier Megaton</name>
+    </item>
+    <item index="22">
+      <photo>http://image.tmdb.org/t/p/original/hGtVDo5BF4utyCbrEUm3RDNA28B.jpg</photo>
+      <role>Male Tourist</role>
+      <name>Sam Douglas</name>
+    </item>
+    <item index="23">
+      <photo/>
+      <role>Mâatri (Tsûuri's Friend)</role>
+      <name>Diva Cam</name>
+    </item>
+    <item index="24">
+      <photo>http://image.tmdb.org/t/p/original/kB3Wsk2zv1Co6N57eZ3pPR2etlg.jpg</photo>
+      <role>Guide Thaziit</role>
+      <name>Eric Lampaert</name>
+    </item>
+    <item index="25">
+      <photo>http://image.tmdb.org/t/p/original/dHUFe11rTbWp8dqV5zXuPZwUACh.jpg</photo>
+      <role>Captain Kris</role>
+      <name>Alexandre Willaume-Jantzen</name>
+    </item>
+    <item index="26">
+      <photo/>
+      <role>Sergent Cooper</role>
+      <name>Gavin Drea</name>
+    </item>
+    <item index="27">
+      <photo/>
+      <role>Major Samk</role>
+      <name>Réginal Kudiwu</name>
+    </item>
+    <item index="28">
+      <photo>http://image.tmdb.org/t/p/original/eDVI88UZgkKztveG1A8WntaLclz.jpg</photo>
+      <role>Pearl Tsuuri (voice)</role>
+      <name>David Michie</name>
+    </item>
+    <item index="29">
+      <photo/>
+      <role>Pearl</role>
+      <name>Marion Roussignol</name>
+    </item>
+    <item index="30">
+      <photo/>
+      <role>Pearl</role>
+      <name>Emilie Pommelet</name>
+    </item>
+    <item index="31">
+      <photo>http://image.tmdb.org/t/p/original/h3QJHBqZXlpd4Tmf80TVMwVGsV7.jpg</photo>
+      <role>Boulan Bathor</role>
+      <name>Roman Blomme</name>
+    </item>
+    <item index="32">
+      <photo/>
+      <role>Bubble Dancer</role>
+      <name>Emilie Livingston</name>
+    </item>
+    <item index="33">
+      <photo>http://image.tmdb.org/t/p/original/k0GAl6RqtJE7rbeh8YbVqYNmHCS.jpg</photo>
+      <role>Japanese Delegate</role>
+      <name>Alexandre Nguyen</name>
+    </item>
+    <item index="34">
+      <photo/>
+      <role>Igon Sirus Guard</role>
+      <name>Aurelien Gaya</name>
+    </item>
+    <item index="35">
+      <photo/>
+      <role>Paradise Alley Soldier</role>
+      <name>Mikael Buxton</name>
+    </item>
+    <item index="36">
+      <photo>http://image.tmdb.org/t/p/original/dTpuriVsx87igaTxpDb9cf8Rf64.jpg</photo>
+      <role>Valley Chinois</role>
+      <name>Yun Lai</name>
+    </item>
+    <item index="37">
+      <photo/>
+      <role>Police Officer</role>
+      <name>Anders Heinrichsen</name>
+    </item>
+    <item index="38">
+      <photo>http://image.tmdb.org/t/p/original/yYu0W1RIHJ9ec2fYKYbLaaxy58x.jpg</photo>
+      <role>Roper</role>
+      <name>Tristan Robin</name>
+    </item>
+    <item index="39">
+      <photo/>
+      <role>Controller of the Technical Chamber</role>
+      <name>Yun-Ping He</name>
+    </item>
+    <item index="40">
+      <photo/>
+      <role>Guide #2</role>
+      <name>James Flynn</name>
+    </item>
+    <item index="41">
+      <photo/>
+      <role>Astronaut</role>
+      <name>David Clark</name>
+    </item>
+    <item index="42">
+      <photo/>
+      <role>Commander Arün Filitt Guard</role>
+      <name>Ben Mauro</name>
+    </item>
+    <item index="43">
+      <photo/>
+      <role>Igon Sirus Guard</role>
+      <name>Jean-François Lenogue</name>
+    </item>
+    <item index="44">
+      <photo/>
+      <role>Igon Sirus Guard</role>
+      <name>Peter Eberst</name>
+    </item>
+    <item index="45">
+      <photo/>
+      <role>Captain Crowford</role>
+      <name>Peter Hudson</name>
+    </item>
+    <item index="46">
+      <photo>http://image.tmdb.org/t/p/original/x4GsNbUh35yq8QdvoYC40MdBM6G.jpg</photo>
+      <role>Captain Norton</role>
+      <name>Xavier Giannoli</name>
+    </item>
+    <item index="47">
+      <photo/>
+      <role>Captain Welcoming Palm Müret</role>
+      <name>Eric Rochant</name>
+    </item>
+    <item index="48">
+      <photo>http://image.tmdb.org/t/p/original/gQ9Mxt0uYIcFs0g1byxYqI2FoZx.jpg</photo>
+      <role>Captain Welcoming Arysum</role>
+      <name>Benoît Jacquot</name>
+    </item>
+    <item index="49">
+      <photo>http://image.tmdb.org/t/p/original/kU4UlASZQDRuGvYgIRkcamXgZ0e.jpg</photo>
+      <role>Captain Welcoming Martapuraïs</role>
+      <name>Gérard Krawczyk</name>
+    </item>
+    <item index="50">
+      <photo/>
+      <role>Kortan Dahük</role>
+      <name>Pierre Cachia</name>
+    </item>
+    <item index="51">
+      <photo/>
+      <role>Kortan Dahük</role>
+      <name>David Saada</name>
+    </item>
+    <item index="52">
+      <photo/>
+      <role>Kortan Dahük</role>
+      <name>Hippolyte Burkhart-Uhlen</name>
+    </item>
+    <item index="53">
+      <photo/>
+      <role>Mercury</role>
+      <name>Florian Guichard</name>
+    </item>
+    <item index="54">
+      <photo/>
+      <role>Mercury</role>
+      <name>Stéphane Mir</name>
+    </item>
+    <item index="55">
+      <photo/>
+      <role>Mercury</role>
+      <name>Thierry Barthe</name>
+    </item>
+    <item index="56">
+      <photo/>
+      <role>Palm Müret</role>
+      <name>Pier Ewudu</name>
+    </item>
+    <item index="57">
+      <photo/>
+      <role>Palm Müret</role>
+      <name>Andrew Tisba</name>
+    </item>
+    <item index="58">
+      <photo/>
+      <role>Palm Müret</role>
+      <name>Yannick Lorté</name>
+    </item>
+    <item index="59">
+      <photo/>
+      <role>Arysum-Kormn</role>
+      <name>Charly Akakpo</name>
+    </item>
+    <item index="60">
+      <photo/>
+      <role>Arysum-Kormn</role>
+      <name>Clément Beauruelle</name>
+    </item>
+    <item index="61">
+      <photo/>
+      <role>Arysum-Kormn</role>
+      <name>Audrey Kamp</name>
+    </item>
+    <item index="62">
+      <photo/>
+      <role>Martapuraï</role>
+      <name>Anthony Hornez</name>
+    </item>
+    <item index="63">
+      <photo/>
+      <role>Martapuraï</role>
+      <name>Julien Bleitrach</name>
+    </item>
+    <item index="64">
+      <photo/>
+      <role>Martapuraï</role>
+      <name>Maxime Babara Touré</name>
+    </item>
+    <item index="65">
+      <photo/>
+      <role>Empress Aloï (voice)</role>
+      <name>Barbare Weber Scaff</name>
+    </item>
+    <item index="66">
+      <photo/>
+      <role>Tsûuri</role>
+      <name>Marilhéa Peillard</name>
+    </item>
+    <item index="67">
+      <photo>http://image.tmdb.org/t/p/original/oGGmSHo458dsfoVtAUDEYvfDjiQ.jpg</photo>
+      <role>Tsûuri / Tourist (voice)</role>
+      <name>Lee Delong</name>
+    </item>
+    <item index="68">
+      <photo/>
+      <role>Mâatri (Tsûuri's Friend) (voice)</role>
+      <name>Judith Brunett</name>
+    </item>
+    <item index="69">
+      <photo/>
+      <role>Tsûuri Child</role>
+      <name>Marie Barrouillet</name>
+    </item>
+    <item index="70">
+      <photo>http://image.tmdb.org/t/p/original/jpRxRzUKp8fKEi49nDybVYvmASn.jpg</photo>
+      <role>Guard</role>
+      <name>Cindy Bruna</name>
+    </item>
+    <item index="71">
+      <photo/>
+      <role>Guard</role>
+      <name>Sija Titko</name>
+    </item>
+    <item index="72">
+      <photo/>
+      <role>Tortured Pearl</role>
+      <name>Daphnée Kbidi</name>
+    </item>
+    <item index="73">
+      <photo/>
+      <role>Tortured Pearl (voice)</role>
+      <name>Nick Marzock</name>
+    </item>
+    <item index="74">
+      <photo>http://image.tmdb.org/t/p/original/a2K38HvGtmkePyR3sF4pxMw7wBL.jpg</photo>
+      <role>Captain Zito</role>
+      <name>Stefan Konarske</name>
+    </item>
+    <item index="75">
+      <photo>http://image.tmdb.org/t/p/original/lel3y68NUFXmCTU9vW8pVZn42S1.jpg</photo>
+      <role>Major Gibon's Soldier / Igon Junio</role>
+      <name>Mahamadou Coulibaly</name>
+    </item>
+    <item index="76">
+      <photo/>
+      <role>Major Gibon's Soldier</role>
+      <name>Julien Marlin</name>
+    </item>
+    <item index="77">
+      <photo/>
+      <role>Major Gibon's Soldier</role>
+      <name>Yvan Lucker</name>
+    </item>
+    <item index="78">
+      <photo/>
+      <role>Major Gibon's Soldier</role>
+      <name>Tom Hygreck</name>
+    </item>
+    <item index="79">
+      <photo>http://image.tmdb.org/t/p/original/stIntGjOYvTK38SHQdVrG1eu0B2.jpg</photo>
+      <role>Bus Driver</role>
+      <name>Abel Jafri</name>
+    </item>
+    <item index="80">
+      <photo/>
+      <role>Igon Siruss / Doghan Dagui</role>
+      <name>Laurent Ferraro</name>
+    </item>
+    <item index="81">
+      <photo/>
+      <role>Igon Sirus Guard</role>
+      <name>Jean-Robert Lombard</name>
+    </item>
+    <item index="82">
+      <photo/>
+      <role>Igon Sirus Guard</role>
+      <name>Leonid Glushchenko</name>
+    </item>
+    <item index="83">
+      <photo>http://image.tmdb.org/t/p/original/bAHzQIRiZ5UvCAb1ZrJ1FiERcaH.jpg</photo>
+      <role>Igon Sirus Guard</role>
+      <name>Akim Chir</name>
+    </item>
+    <item index="84">
+      <photo/>
+      <role>Igon Sirus Guard</role>
+      <name>Laminé Ba</name>
+    </item>
+    <item index="85">
+      <photo>http://image.tmdb.org/t/p/original/5oBHK9zCp67W59B730QaELSCCVe.jpg</photo>
+      <role>Siirt Guard / Siirt Salesman</role>
+      <name>Paul Lefèvre</name>
+    </item>
+    <item index="86">
+      <photo/>
+      <role>Siirt Salesman</role>
+      <name>Guillaume Maison</name>
+    </item>
+    <item index="87">
+      <photo/>
+      <role>Siirt Salesman</role>
+      <name>Jean-Christophe Brizard</name>
+    </item>
+    <item index="88">
+      <photo/>
+      <role>Siirt Cop</role>
+      <name>Patrick Cottet-Moine</name>
+    </item>
+    <item index="89">
+      <photo/>
+      <role>Female Tourist</role>
+      <name>Irene Palko</name>
+    </item>
+    <item index="90">
+      <photo>http://image.tmdb.org/t/p/original/6osT2lZvotuNnk9VE9vXUhBPREE.jpg</photo>
+      <role>DA / Doghan-Dagui</role>
+      <name>Tonio Descanvelle</name>
+    </item>
+    <item index="91">
+      <photo/>
+      <role>Tourist</role>
+      <name>Velvet D'Amour</name>
+    </item>
+    <item index="92">
+      <photo>http://image.tmdb.org/t/p/original/iWXA5jVkULBIPOn5znW9e4K0Ifr.jpg</photo>
+      <role>Doghan-Dagui</role>
+      <name>Doug Rand</name>
+    </item>
+    <item index="93">
+      <photo/>
+      <role>Doghan-Dagui (voice)</role>
+      <name>Grant Moninger</name>
+    </item>
+    <item index="94">
+      <photo>http://image.tmdb.org/t/p/original/bFpVHAJNNKOPQ230ALYLepwm1yE.jpg</photo>
+      <role>Doghan-Dagui (voice)</role>
+      <name>Robbie Rist</name>
+    </item>
+    <item index="95">
+      <photo/>
+      <role>Doghan-Dagui (voice)</role>
+      <name>Christopher Swindel</name>
+    </item>
+    <item index="96">
+      <photo>http://image.tmdb.org/t/p/original/hfDgetPGGLOi5EqZ5BmjK3SG5lD.jpg</photo>
+      <role>Bubble / Glamopod / Control Room Sergeant</role>
+      <name>Claire Tran</name>
+    </item>
+    <item index="97">
+      <photo/>
+      <role>Club Bouncer</role>
+      <name>Alain Etoundi</name>
+    </item>
+    <item index="98">
+      <photo/>
+      <role>Club Bouncer</role>
+      <name>Fayet Nsumoto</name>
+    </item>
+    <item index="99">
+      <photo/>
+      <role>Creature 'Twin'</role>
+      <name>Kristina Kachinskaya</name>
+    </item>
+    <item index="100">
+      <photo/>
+      <role>Creature 'Twin'</role>
+      <name>Veronika Khayla</name>
+    </item>
+    <item index="101">
+      <photo>http://image.tmdb.org/t/p/original/uhxsNtWXtDyGGU2fFXYaOjHnnZ2.jpg</photo>
+      <role>Creature 'Louis XVI'</role>
+      <name>Sissi Duparc</name>
+    </item>
+    <item index="102">
+      <photo/>
+      <role>Creature 'Bird Woman'</role>
+      <name>Noam Frost</name>
+    </item>
+    <item index="103">
+      <photo/>
+      <role>Creature 'Tattoo'</role>
+      <name>Pauline Serreau</name>
+    </item>
+    <item index="104">
+      <photo>http://image.tmdb.org/t/p/original/mSxJy1FeSjyvC7dQejLUkYs3qyu.jpg</photo>
+      <role>Hero Merchant</role>
+      <name>Philippe Rigot</name>
+    </item>
+    <item index="105">
+      <photo>http://image.tmdb.org/t/p/original/oAjnOiz04EhlY2MBS6Nx2wBy2vN.jpg</photo>
+      <role>Red Zone Captain</role>
+      <name>Étienne Ménard</name>
+    </item>
+    <item index="106">
+      <photo/>
+      <role>Warship Captain</role>
+      <name>Peter Lamarque</name>
+    </item>
+    <item index="107">
+      <photo/>
+      <role>K-Tron Captain</role>
+      <name>Maximilien Seweryn</name>
+    </item>
+    <item index="108">
+      <photo/>
+      <role>K-Tron Warrior</role>
+      <name>Zouheir Zerhouni</name>
+    </item>
+    <item index="109">
+      <photo/>
+      <role>K-Tron Warrior</role>
+      <name>Tristan Zerbib</name>
+    </item>
+    <item index="110">
+      <photo/>
+      <role>Interrogation Room Captain</role>
+      <name>Elliot Jenicot</name>
+    </item>
+    <item index="111">
+      <photo/>
+      <role>Control Room Soldier</role>
+      <name>Staiv Gentis</name>
+    </item>
+    <item index="112">
+      <photo/>
+      <role>Alex-Intruder's Voice (voice)</role>
+      <name>Chloe Hollings</name>
+    </item>
+    <item index="113">
+      <photo/>
+      <role>Boulan Bathor Emperor</role>
+      <name>Aguendia Fotabong</name>
+    </item>
+    <item index="114">
+      <photo>http://image.tmdb.org/t/p/original/20rzffTBUgxypIyo1wdWpFNk2VZ.jpg</photo>
+      <role>Boulan Bathor Emperor's Wife</role>
+      <name>Tania Dessources</name>
+    </item>
+    <item index="115">
+      <photo/>
+      <role>Fisherman</role>
+      <name>Gaëtan Cotigny</name>
+    </item>
+    <item index="116">
+      <photo/>
+      <role>Fisherman</role>
+      <name>François Bredon</name>
+    </item>
+    <item index="117">
+      <photo>http://image.tmdb.org/t/p/original/42eN6L1YzPaTokfB1w6gGRgS2kS.jpg</photo>
+      <role>Bubble / Boulan-Bathor / Valerian</role>
+      <name>Cédric Chevalme</name>
+    </item>
+  </roles>
+  <similar>
+    <item index="0">The Dark Tower</item>
+    <item index="1">Kingsman: The Golden Circle</item>
+    <item index="2">Ghost in the Shell</item>
+    <item index="3">The Mummy</item>
+    <item index="4">Atomic Blonde</item>
+    <item index="5">King Arthur: Legend of the Sword</item>
+    <item index="6">What Happened to Monday</item>
+    <item index="7">The Hitman's Bodyguard</item>
+    <item index="8">War for the Planet of the Apes</item>
+    <item index="9">Justice League</item>
+    <item index="10">Pirates of the Caribbean: Dead Men Tell No Tales</item>
+    <item index="11">Transformers: The Last Knight</item>
+    <item index="12">Guardians of the Galaxy Vol. 2</item>
+    <item index="13">Power Rangers</item>
+    <item index="14">Star Wars: The Last Jedi</item>
+    <item index="15">Blade Runner 2049</item>
+    <item index="16">The Great Wall</item>
+    <item index="17">Baby Driver</item>
+    <item index="18">Bright</item>
+    <item index="19">Spider-Man: Homecoming</item>
+  </similar>
+  <studio>TF1 Films Production</studio>
+  <summary>In the 28th century, Valerian and Laureline are special operatives charged with keeping order throughout the human territories. On assignment from the Minister of Defense, the two undertake a mission to Alpha, an ever-expanding metropolis where species from across the universe have converged over centuries to share knowledge, intelligence, and cultures. At the center of Alpha is a mysterious dark force which threatens the peaceful existence of the City of a Thousand Planets, and Valerian and Laureline must race to identify the menace and safeguard not just Alpha, but the future of the universe.</summary>
+  <tags/>
+  <themes/>
+  <title>Valerian and the City of a Thousand Planets</title>
+  <writers>
+    <item index="0">
+      <photo>http://image.tmdb.org/t/p/original/2TzRsqSx0xb1DK3HsEQKSXhRGcu.jpg</photo>
+      <role/>
+      <name>Luc Besson</name>
+    </item>
+  </writers>
+  <year>2017</year>
+</Movie>

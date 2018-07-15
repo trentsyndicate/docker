@@ -1,0 +1,93 @@
+Jul 15, 2018 03:34:52.749 [0x7fb1a8fff700] INFO - Plex Media Scanner v1.13.2.5154-fd05be322 - ubuntu docker x86_64 - build: linux-ubuntu-x86_64 - GMT -04:00
+Jul 15, 2018 03:34:52.749 [0x7fb1a8fff700] INFO - Linux version: 4.15.0-24-generic (#26-Ubuntu SMP Wed Jun 13 08:44:47 UTC 2018), language: C
+Jul 15, 2018 03:34:52.749 [0x7fb1a8fff700] INFO - Processor Intel(R) Core(TM) i7-4770R CPU @ 3.20GHz
+Jul 15, 2018 03:34:52.749 [0x7fb1a8fff700] INFO - /usr/lib/plexmediaserver/Plex Media Scanner --analyze-deeply --item 5064 --log-file-suffix  Deep Analysis
+Jul 15, 2018 03:34:52.752 [0x7fb1b46f0800] DEBUG - Opening 20 database sessions to library (com.plexapp.plugins.library), SQLite 3.13.0, threadsafe=1
+Jul 15, 2018 03:34:52.840 [0x7fb1b46f0800] DEBUG - [MI] Opening input file: "/movies/Ironman.2008.720p.BluRay.AAC.X264.REsuRRecTioN-Obfuscated/da6a0c236617df3087d24338efbfbdaef5c64c75.mkv"
+Jul 15, 2018 03:34:52.840 [0x7fb1b46f0800] DEBUG - [FFMPEG] - Opening '/movies/Ironman.2008.720p.BluRay.AAC.X264.REsuRRecTioN-Obfuscated/da6a0c236617df3087d24338efbfbdaef5c64c75.mkv' for reading
+Jul 15, 2018 03:34:52.840 [0x7fb1b46f0800] DEBUG - [FFMPEG] - Setting default whitelist 'file,crypto'
+Jul 15, 2018 03:34:52.938 [0x7fb1b46f0800] DEBUG - [FFMPEG] - Format matroska,webm probed with size=2048 and score=100
+Jul 15, 2018 03:34:52.942 [0x7fb1b46f0800] DEBUG - [FFMPEG] - st:0 removing common factor 1000000 from timebase
+Jul 15, 2018 03:34:52.942 [0x7fb1b46f0800] DEBUG - [FFMPEG] - st:1 removing common factor 1000000 from timebase
+Jul 15, 2018 03:34:52.943 [0x7fb1b46f0800] DEBUG - [FFMPEG] - Before avformat_find_stream_info() pos: 4667 bytes read:60068 seeks:2 nb_streams:2
+Jul 15, 2018 03:34:52.945 [0x7fb1b46f0800] DEBUG - [FFMPEG] - nal_unit_type: 7, nal_ref_idc: 3
+Jul 15, 2018 03:34:52.945 [0x7fb1b46f0800] DEBUG - [FFMPEG] - nal_unit_type: 8, nal_ref_idc: 3
+Jul 15, 2018 03:34:52.948 [0x7fb1b46f0800] DEBUG - [FFMPEG] - nal_unit_type: 7, nal_ref_idc: 3
+Jul 15, 2018 03:34:52.948 [0x7fb1b46f0800] DEBUG - [FFMPEG] - nal_unit_type: 8, nal_ref_idc: 3
+Jul 15, 2018 03:34:52.949 [0x7fb1b46f0800] DEBUG - [FFMPEG] - nal_unit_type: 6, nal_ref_idc: 0
+Jul 15, 2018 03:34:52.949 [0x7fb1b46f0800] DEBUG - [FFMPEG] - nal_unit_type: 5, nal_ref_idc: 3
+Jul 15, 2018 03:34:52.949 [0x7fb1b46f0800] DEBUG - [FFMPEG] - Format yuv420p chosen by get_format().
+Jul 15, 2018 03:34:52.950 [0x7fb1b46f0800] DEBUG - [FFMPEG] - no picture 
+Jul 15, 2018 03:34:52.952 [0x7fb1b46f0800] DEBUG - [FFMPEG] - nal_unit_type: 1, nal_ref_idc: 2
+Jul 15, 2018 03:34:52.953 [0x7fb1b46f0800] DEBUG - [FFMPEG] - no picture 
+Jul 15, 2018 03:34:52.954 [0x7fb1b46f0800] DEBUG - [FFMPEG] - nal_unit_type: 1, nal_ref_idc: 2
+Jul 15, 2018 03:34:52.956 [0x7fb1b46f0800] DEBUG - [FFMPEG] - nal_unit_type: 1, nal_ref_idc: 0
+Jul 15, 2018 03:34:52.959 [0x7fb1b46f0800] DEBUG - [FFMPEG] - nal_unit_type: 1, nal_ref_idc: 0
+Jul 15, 2018 03:34:52.962 [0x7fb1b46f0800] DEBUG - [FFMPEG] - nal_unit_type: 1, nal_ref_idc: 2
+Jul 15, 2018 03:34:52.963 [0x7fb1b46f0800] DEBUG - [FFMPEG] - nal_unit_type: 1, nal_ref_idc: 2
+Jul 15, 2018 03:34:52.964 [0x7fb1b46f0800] DEBUG - [FFMPEG] - nal_unit_type: 1, nal_ref_idc: 0
+Jul 15, 2018 03:34:52.966 [0x7fb1b46f0800] DEBUG - [FFMPEG] - nal_unit_type: 1, nal_ref_idc: 0
+Jul 15, 2018 03:34:52.968 [0x7fb1b46f0800] DEBUG - [FFMPEG] - All info found
+Jul 15, 2018 03:34:52.968 [0x7fb1b46f0800] DEBUG - [FFMPEG] - After avformat_find_stream_info() pos: 6339 bytes read:92836 seeks:2 frames:33
+Jul 15, 2018 03:34:53.410 [0x7fb1b46f0800] DEBUG - Deep Analysis: Read 10000 packets at 141.141000
+Jul 15, 2018 03:34:53.861 [0x7fb1b46f0800] DEBUG - Deep Analysis: Read 20000 packets at 282.261000
+Jul 15, 2018 03:34:54.354 [0x7fb1b46f0800] DEBUG - Deep Analysis: Read 30000 packets at 423.402000
+Jul 15, 2018 03:34:54.723 [0x7fb1b46f0800] DEBUG - Deep Analysis: Read 40000 packets at 564.565000
+Jul 15, 2018 03:34:55.068 [0x7fb1b46f0800] DEBUG - Deep Analysis: Read 50000 packets at 705.539000
+Jul 15, 2018 03:34:55.425 [0x7fb1b46f0800] DEBUG - Deep Analysis: Read 60000 packets at 846.826000
+Jul 15, 2018 03:34:55.836 [0x7fb1b46f0800] DEBUG - Deep Analysis: Read 70000 packets at 987.968000
+Jul 15, 2018 03:34:56.042 [0x7fb1b46f0800] DEBUG - Deep Analysis: Read 80000 packets at 1129.109000
+Jul 15, 2018 03:34:56.338 [0x7fb1b46f0800] DEBUG - Deep Analysis: Read 90000 packets at 1270.250000
+Jul 15, 2018 03:34:56.615 [0x7fb1b46f0800] DEBUG - Deep Analysis: Read 100000 packets at 1411.392000
+Jul 15, 2018 03:34:56.909 [0x7fb1b46f0800] DEBUG - Deep Analysis: Read 110000 packets at 1552.533000
+Jul 15, 2018 03:34:57.350 [0x7fb1b46f0800] DEBUG - Deep Analysis: Read 120000 packets at 1693.528000
+Jul 15, 2018 03:34:57.589 [0x7fb1b46f0800] DEBUG - Deep Analysis: Read 130000 packets at 1834.837000
+Jul 15, 2018 03:34:57.886 [0x7fb1b46f0800] DEBUG - Deep Analysis: Read 140000 packets at 1975.957000
+Jul 15, 2018 03:34:58.212 [0x7fb1b46f0800] DEBUG - Deep Analysis: Read 150000 packets at 2117.098000
+Jul 15, 2018 03:34:58.563 [0x7fb1b46f0800] DEBUG - Deep Analysis: Read 160000 packets at 2258.240000
+Jul 15, 2018 03:34:59.315 [0x7fb1b46f0800] DEBUG - Deep Analysis: Read 170000 packets at 2399.381000
+Jul 15, 2018 03:35:00.002 [0x7fb1b46f0800] DEBUG - Deep Analysis: Read 180000 packets at 2540.565000
+Jul 15, 2018 03:35:00.472 [0x7fb1b46f0800] DEBUG - Deep Analysis: Read 190000 packets at 2681.664000
+Jul 15, 2018 03:35:00.883 [0x7fb1b46f0800] DEBUG - Deep Analysis: Read 200000 packets at 2822.826000
+Jul 15, 2018 03:35:01.299 [0x7fb1b46f0800] DEBUG - Deep Analysis: Read 210000 packets at 2963.946000
+Jul 15, 2018 03:35:01.557 [0x7fb1b46f0800] DEBUG - Deep Analysis: Read 220000 packets at 3104.940000
+Jul 15, 2018 03:35:02.057 [0x7fb1b46f0800] DEBUG - Deep Analysis: Read 230000 packets at 3246.250000
+Jul 15, 2018 03:35:02.609 [0x7fb1b46f0800] DEBUG - Deep Analysis: Read 240000 packets at 3387.392000
+Jul 15, 2018 03:35:03.037 [0x7fb1b46f0800] DEBUG - Deep Analysis: Read 250000 packets at 3528.512000
+Jul 15, 2018 03:35:03.518 [0x7fb1b46f0800] DEBUG - Deep Analysis: Read 260000 packets at 3669.674000
+Jul 15, 2018 03:35:04.090 [0x7fb1b46f0800] DEBUG - Deep Analysis: Read 270000 packets at 3810.794000
+Jul 15, 2018 03:35:04.459 [0x7fb1b46f0800] DEBUG - Deep Analysis: Read 280000 packets at 3951.957000
+Jul 15, 2018 03:35:04.948 [0x7fb1b46f0800] DEBUG - Deep Analysis: Read 290000 packets at 4093.098000
+Jul 15, 2018 03:35:05.452 [0x7fb1b46f0800] DEBUG - Deep Analysis: Read 300000 packets at 4234.218000
+Jul 15, 2018 03:35:05.822 [0x7fb1b46f0800] DEBUG - Deep Analysis: Read 310000 packets at 4375.360000
+Jul 15, 2018 03:35:06.274 [0x7fb1b46f0800] DEBUG - Deep Analysis: Read 320000 packets at 4516.501000
+Jul 15, 2018 03:35:06.830 [0x7fb1b46f0800] DEBUG - Deep Analysis: Read 330000 packets at 4657.642000
+Jul 15, 2018 03:35:07.332 [0x7fb1b46f0800] DEBUG - Deep Analysis: Read 340000 packets at 4798.784000
+Jul 15, 2018 03:35:07.733 [0x7fb1b46f0800] DEBUG - Deep Analysis: Read 350000 packets at 4939.925000
+Jul 15, 2018 03:35:08.221 [0x7fb1b46f0800] DEBUG - Deep Analysis: Read 360000 packets at 5081.066000
+Jul 15, 2018 03:35:08.514 [0x7fb1b46f0800] DEBUG - Deep Analysis: Read 370000 packets at 5222.229000
+Jul 15, 2018 03:35:08.754 [0x7fb1b46f0800] DEBUG - Deep Analysis: Read 380000 packets at 5363.370000
+Jul 15, 2018 03:35:09.113 [0x7fb1b46f0800] DEBUG - Deep Analysis: Read 390000 packets at 5504.512000
+Jul 15, 2018 03:35:09.565 [0x7fb1b46f0800] DEBUG - Deep Analysis: Read 400000 packets at 5645.632000
+Jul 15, 2018 03:35:09.932 [0x7fb1b46f0800] DEBUG - Deep Analysis: Read 410000 packets at 5786.773000
+Jul 15, 2018 03:35:10.355 [0x7fb1b46f0800] DEBUG - Deep Analysis: Read 420000 packets at 5927.936000
+Jul 15, 2018 03:35:10.793 [0x7fb1b46f0800] DEBUG - Deep Analysis: Read 430000 packets at 6069.056000
+Jul 15, 2018 03:35:11.156 [0x7fb1b46f0800] DEBUG - Deep Analysis: Read 440000 packets at 6210.197000
+Jul 15, 2018 03:35:11.622 [0x7fb1b46f0800] DEBUG - Deep Analysis: Read 450000 packets at 6351.338000
+Jul 15, 2018 03:35:12.210 [0x7fb1b46f0800] DEBUG - Deep Analysis: Read 460000 packets at 6492.480000
+Jul 15, 2018 03:35:12.642 [0x7fb1b46f0800] DEBUG - Deep Analysis: Read 470000 packets at 6633.621000
+Jul 15, 2018 03:35:13.154 [0x7fb1b46f0800] DEBUG - Deep Analysis: Read 480000 packets at 6774.762000
+Jul 15, 2018 03:35:13.603 [0x7fb1b46f0800] DEBUG - Deep Analysis: Read 490000 packets at 6915.925000
+Jul 15, 2018 03:35:13.979 [0x7fb1b46f0800] DEBUG - Deep Analysis: Read 500000 packets at 7057.045000
+Jul 15, 2018 03:35:14.227 [0x7fb1b46f0800] DEBUG - Deep Analysis: Read 510000 packets at 7198.186000
+Jul 15, 2018 03:35:14.421 [0x7fb1b46f0800] DEBUG - Deep Analysis: Read 520000 packets at 7339.328000
+Jul 15, 2018 03:35:14.676 [0x7fb1b46f0800] DEBUG - Deep Analysis: Read 530000 packets at 7480.490000
+Jul 15, 2018 03:35:14.789 [0x7fb1b46f0800] DEBUG - Deep Analysis: Sorting packets
+Jul 15, 2018 03:35:14.825 [0x7fb1b46f0800] DEBUG - Deep Analysis: Performing file bitrate analysis
+Jul 15, 2018 03:35:14.884 [0x7fb1b46f0800] DEBUG - Deep Analysis: Performing stream bitrate analysis on stream 0
+Jul 15, 2018 03:35:14.900 [0x7fb1b46f0800] DEBUG - Deep Analysis: Performing stream bitrate analysis on stream 1
+Jul 15, 2018 03:35:14.959 [0x7fb1b46f0800] DEBUG - Deep Analysis: Saving GoP analysis for stream 0
+Jul 15, 2018 03:35:14.963 [0x7fb1b46f0800] DEBUG - Deep Analysis: Saving bitrate analysis
+Jul 15, 2018 03:35:14.972 [0x7fb1b46f0800] DEBUG - Updating part with ID=9532 [/movies/Ironman.2008.720p.BluRay.AAC.X264.REsuRRecTioN-Obfuscated/da6a0c236617df3087d24338efbfbdaef5c64c75.mkv]
+Jul 15, 2018 03:35:14.991 [0x7fb1b46f0800] DEBUG - [MI] Closing input file: /movies/Ironman.2008.720p.BluRay.AAC.X264.REsuRRecTioN-Obfuscated/da6a0c236617df3087d24338efbfbdaef5c64c75.mkv
+Jul 15, 2018 03:35:14.992 [0x7fb1b46f0800] DEBUG - [FFMPEG] - Statistics: 3330273597 bytes read, 3 seeks

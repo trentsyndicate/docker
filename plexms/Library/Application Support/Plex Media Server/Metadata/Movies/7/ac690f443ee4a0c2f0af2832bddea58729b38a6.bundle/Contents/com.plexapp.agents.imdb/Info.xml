@@ -1,0 +1,831 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Movie id="tt2380307">
+  <rating>9.7</rating>
+  <title_sort/>
+  <art>
+    <item external="True" url="http://image.tmdb.org/t/p/original/wSJHuSD7ojzoXifWjOAjxV7UpEL.jpg" preview="41ed70dd97ffe8c8d8d4410e3af6bf2c80ac1dfe" sort_order="1"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/v1rUdgTXJ5Klx4WEfg3xhccUViY.jpg" preview="7b7169e8e55e21310ad1c6d86aec1da3210e0956" sort_order="2"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/askg3SMvhqEl4OL52YuvdtY40Yb.jpg" preview="23fd016e8776c1cb3b64442f767571d40773a644" sort_order="3"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/lxfCCC41yC4KEHBYtB7E0YsWA9c.jpg" preview="fb6c9592ce7e99b1ed0066d4d813c3886e2430b3" sort_order="4"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/gqk6fLXiJnuHRF3IC2sNAfnRJo6.jpg" preview="cabccc3f4517b059caa0b9b8f10b73d6d99aac7d" sort_order="5"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/gKZAQ3b9yApxFunUBlS5Mp74QG4.jpg" preview="d464f1f8c70cb78978a00bdfa68d7e306e3bd638" sort_order="6"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/pDUsu66LTidULuDQWlj3yOquNtL.jpg" preview="28f982e8863dc5786b2c3495bc24835b9ee00f0b" sort_order="7"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/hWGEEuYpT0KnjEVRUYmNijjQ6G8.jpg" preview="55102550ae1a3b0f6a37dd30b77af0069a398abc" sort_order="8"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/bnkf3C2ZMF6i7MLOemWqEHDMqfh.jpg" preview="23221f2ae1f3a68439dfa112dc9c167eab25484e" sort_order="9"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/ekGnVD29gg7T4BMbTiBur6pO4Gz.jpg" preview="4cd2ec8409cf1fd5b54ac44bd7c54a0509f5c0dd" sort_order="10"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/g7CHF8gTLGooTbP4GznIGwaqAGL.jpg" preview="3464fb70f9e1ad1a018032ad61dc97ce1417bf25" sort_order="11"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/4AwT5SCq8Pww71Ai0FIpIDZFCMS.jpg" preview="7036e1471459acf8204b3ce2377d3f4de3b48f4b" sort_order="12"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/bueuppQU4jyVtncUIaGfLtNCSAl.jpg" preview="ae6a4ab09e35c8ceeb2edafbbc94690a19e94b94" sort_order="13"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/jV57KgLOd68OahYgmm2MOdjxcnX.jpg" preview="6e69b036653958d029375f9769148322c11e6f8e" sort_order="14"/>
+  </art>
+  <writers>
+    <item index="0">
+      <photo/>
+      <role/>
+      <name>Adrian Molina</name>
+    </item>
+    <item index="1">
+      <photo/>
+      <role/>
+      <name>Matthew Aldrich</name>
+    </item>
+  </writers>
+  <chapters>
+    <item index="0">
+      <title>Prologue</title>
+      <end_time_offset>400000</end_time_offset>
+      <start_time_offset>0</start_time_offset>
+    </item>
+    <item index="1">
+      <title>Meet Miguel</title>
+      <end_time_offset>521000</end_time_offset>
+      <start_time_offset>400000</start_time_offset>
+    </item>
+    <item index="2">
+      <title>Shoemakers</title>
+      <end_time_offset>673000</end_time_offset>
+      <start_time_offset>521000</start_time_offset>
+    </item>
+    <item index="3">
+      <title>Much Needed Advice</title>
+      <end_time_offset>860000</end_time_offset>
+      <start_time_offset>673000</start_time_offset>
+    </item>
+    <item index="4">
+      <title>Secret Discovery</title>
+      <end_time_offset>1026000</end_time_offset>
+      <start_time_offset>860000</start_time_offset>
+    </item>
+    <item index="5">
+      <title>Dream Shattered</title>
+      <end_time_offset>1100000</end_time_offset>
+      <start_time_offset>1026000</start_time_offset>
+    </item>
+    <item index="6">
+      <title>Unholy Act</title>
+      <end_time_offset>1325000</end_time_offset>
+      <start_time_offset>1100000</start_time_offset>
+    </item>
+    <item index="7">
+      <title>Skeletons</title>
+      <end_time_offset>1459000</end_time_offset>
+      <start_time_offset>1325000</start_time_offset>
+    </item>
+    <item index="8">
+      <title>Crossing the Bridge</title>
+      <end_time_offset>1664000</end_time_offset>
+      <start_time_offset>1459000</start_time_offset>
+    </item>
+    <item index="9">
+      <title>Department of Family Reunions</title>
+      <end_time_offset>1747000</end_time_offset>
+      <start_time_offset>1664000</start_time_offset>
+    </item>
+    <item index="10">
+      <title>Setting the Rules</title>
+      <end_time_offset>1935000</end_time_offset>
+      <start_time_offset>1747000</start_time_offset>
+    </item>
+    <item index="11">
+      <title>Escape from Family</title>
+      <end_time_offset>2118000</end_time_offset>
+      <start_time_offset>1935000</start_time_offset>
+    </item>
+    <item index="12">
+      <title>Rehearsal</title>
+      <end_time_offset>2485000</end_time_offset>
+      <start_time_offset>2118000</start_time_offset>
+    </item>
+    <item index="13">
+      <title>The Final Death</title>
+      <end_time_offset>2824000</end_time_offset>
+      <start_time_offset>2485000</start_time_offset>
+    </item>
+    <item index="14">
+      <title>Backstage Bonding</title>
+      <end_time_offset>3054000</end_time_offset>
+      <start_time_offset>2824000</start_time_offset>
+    </item>
+    <item index="15">
+      <title>Talent Show</title>
+      <end_time_offset>3263000</end_time_offset>
+      <start_time_offset>3054000</start_time_offset>
+    </item>
+    <item index="16">
+      <title>On His Own</title>
+      <end_time_offset>3405000</end_time_offset>
+      <start_time_offset>3263000</start_time_offset>
+    </item>
+    <item index="17">
+      <title>Meet de la Cruz</title>
+      <end_time_offset>3702000</end_time_offset>
+      <start_time_offset>3405000</start_time_offset>
+    </item>
+    <item index="18">
+      <title>Kindred Spirits</title>
+      <end_time_offset>3808000</end_time_offset>
+      <start_time_offset>3702000</start_time_offset>
+    </item>
+    <item index="19">
+      <title>The Awful Truth</title>
+      <end_time_offset>4138000</end_time_offset>
+      <start_time_offset>3808000</start_time_offset>
+    </item>
+    <item index="20">
+      <title>Remember Me</title>
+      <end_time_offset>4517000</end_time_offset>
+      <start_time_offset>4138000</start_time_offset>
+    </item>
+    <item index="21">
+      <title>Reconciliation</title>
+      <end_time_offset>4736000</end_time_offset>
+      <start_time_offset>4517000</start_time_offset>
+    </item>
+    <item index="22">
+      <title>Find the Photo</title>
+      <end_time_offset>4891000</end_time_offset>
+      <start_time_offset>4736000</start_time_offset>
+    </item>
+    <item index="23">
+      <title>Sunrise Spectacular</title>
+      <end_time_offset>5071000</end_time_offset>
+      <start_time_offset>4891000</start_time_offset>
+    </item>
+    <item index="24">
+      <title>Blessing Received</title>
+      <end_time_offset>5303000</end_time_offset>
+      <start_time_offset>5071000</start_time_offset>
+    </item>
+    <item index="25">
+      <title>Song for Coco</title>
+      <end_time_offset>5594000</end_time_offset>
+      <start_time_offset>5303000</start_time_offset>
+    </item>
+    <item index="26">
+      <title>One Year Later</title>
+      <end_time_offset>5770000</end_time_offset>
+      <start_time_offset>5594000</start_time_offset>
+    </item>
+    <item index="27">
+      <title>End Credits</title>
+      <end_time_offset>-1</end_time_offset>
+      <start_time_offset>5770000</start_time_offset>
+    </item>
+  </chapters>
+  <themes/>
+  <quotes/>
+  <year>2017</year>
+  <duration>6300000</duration>
+  <genres>
+    <item index="0">Animation</item>
+    <item index="1">Adventure</item>
+    <item index="2">Comedy</item>
+    <item index="3">Family</item>
+    <item index="4">Fantasy</item>
+    <item index="5">Music</item>
+    <item index="6">Mystery</item>
+  </genres>
+  <title>Coco</title>
+  <tagline>The celebration of a lifetime</tagline>
+  <content_rating_age/>
+  <rating_count/>
+  <collections/>
+  <trivia/>
+  <tags/>
+  <audience_rating_image>rottentomatoes://image.rating.upright</audience_rating_image>
+  <rating_image>rottentomatoes://image.rating.ripe</rating_image>
+  <producers>
+    <item index="0">
+      <photo/>
+      <role/>
+      <name>Darla K. Anderson</name>
+    </item>
+  </producers>
+  <audience_rating>9.4</audience_rating>
+  <studio>Pixar</studio>
+  <posters>
+    <item external="True" url="http://image.tmdb.org/t/p/original/eKi8dIrr8voobbaGzDpe8w0PVbC.jpg" preview="e806ea60dc3d59d84b8fd5c417e98529cd2d8204" sort_order="1"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/8AECsRLEDLoNvZ8JqrTFm0zBPqH.jpg" preview="722d96349fe7fd9ebf49c10fa8025b345472aaeb" sort_order="2"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/s6auPXBYxNP9EnYNBELxHhHXL1V.jpg" preview="b551784d77cc34a3c4103c5d054cbda251e98fcf" sort_order="3"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/6Ryitt95xrO8KXuqRGm1fUuNwqF.jpg" preview="e236c75293519179c8f2861722193058e67496a3" sort_order="4"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/98G7zRNJBGuJiJmWcCTv0whXltA.jpg" preview="c5123088b7a5cb6121267e2c0a1d192fe9d57cb7" sort_order="5"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/gGEsBPAijhVUFoiNpgZXqRVWJt2.jpg" preview="a4a7724aa9ae78369f9e1b78c9031da70cf5fe65" sort_order="6"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/1FGQ8FLHVmOqN8ZjNHwCMvDBcUw.jpg" preview="94a70312dafaf9438567d3a223c4eda657985e40" sort_order="7"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/yAvisTUocxmXQZQJZ521dL9a36p.jpg" preview="0cd8677ec88e17a16d4bf2b77f5b5d611141b599" sort_order="8"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/qEwkpOWgtlAQHnuo50loXkF9LKc.jpg" preview="aaf8e66ee248d54a15d99e7e3a47effea45c2409" sort_order="9"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/vHRDx02Es8lo5if0Q8HAUwCjjMj.jpg" preview="b4b14dd2d9c33e8cf12e01a306315556995a6f28" sort_order="10"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/n8T7S8ALJ07lrjl8oj3hLttVceD.jpg" preview="54be5a2da3fe895e47a28d9b69639876ff0e3c69" sort_order="11"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/4oMuH3l5TA9vkXKGiiM4rjmRfhI.jpg" preview="09794f1c59b48932f61b57ee44d833d5fc8409c6" sort_order="12"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/iPkyOnfQW8JKZNFXlUeFfQsuHZm.jpg" preview="9670997ae63031de12fad2cb18b4d36c23844430" sort_order="13"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/obfU8AADQT9nWuG0KYF8dvzeJiw.jpg" preview="89b983f293d396f01a681db59290c76ac88ad0a7" sort_order="14"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/ccZBGwQ5euWVN22zoh6cDWxdDqy.jpg" preview="d84cdc94d10cd658b19b0398b49a904009342aaa" sort_order="15"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/v6TfP70yfNi8W46oYM3NUxu49Hh.jpg" preview="871e35f46ed1f3216b55d71cfdf98a1b4678f37d" sort_order="16"/>
+  </posters>
+  <originally_available_at>2017-10-27</originally_available_at>
+  <roles>
+    <item index="0">
+      <photo>http://image.tmdb.org/t/p/original/3SfBmj35OfL8eVIQt9nTixWqVJH.jpg</photo>
+      <role>Miguel Rivera (voice)</role>
+      <name>Anthony Gonzalez</name>
+    </item>
+    <item index="1">
+      <photo>http://image.tmdb.org/t/p/original/o4sdHKTBbF8GpooIwp5bvliubyY.jpg</photo>
+      <role>Héctor (voice)</role>
+      <name>Gael García Bernal</name>
+    </item>
+    <item index="2">
+      <photo>http://image.tmdb.org/t/p/original/5g88fU683ZXhFn0VSsBMjLHsXG1.jpg</photo>
+      <role>Ernesto de la Cruz (voice)</role>
+      <name>Benjamin Bratt</name>
+    </item>
+    <item index="3">
+      <photo>http://image.tmdb.org/t/p/original/g0GOzbSDAzhMxoCBNofiMxHIJJj.jpg</photo>
+      <role>Mamá Imelda Rivera (voice)</role>
+      <name>Alanna Ubach</name>
+    </item>
+    <item index="4">
+      <photo>http://image.tmdb.org/t/p/original/wAVDqwFhQsRQgO6VIYq6T9Wbbx8.jpg</photo>
+      <role>Elena Rivera (voice)</role>
+      <name>Renée Victor</name>
+    </item>
+    <item index="5">
+      <photo>http://image.tmdb.org/t/p/original/5aL5IK9erDuVGiRE172YGnTs952.jpg</photo>
+      <role>Mamá Socorro "Coco" Rivera (voice)</role>
+      <name>Ana Ofelia Murguía</name>
+    </item>
+    <item index="6">
+      <photo>http://image.tmdb.org/t/p/original/i7zKqsFqL5L1HPmAMeSA1xZzlD5.jpg</photo>
+      <role>Chicharrón (voice)</role>
+      <name>Edward James Olmos</name>
+    </item>
+    <item index="7">
+      <photo/>
+      <role>Ernesto de la Cruz (singing voice)</role>
+      <name>Antonio Sol</name>
+    </item>
+    <item index="8">
+      <photo>http://image.tmdb.org/t/p/original/Agw6LyoGlrfJaBvTOQYzdxwUWHh.jpg</photo>
+      <role>Papá Julio Rivera (voice)</role>
+      <name>Alfonso Aráu</name>
+    </item>
+    <item index="9">
+      <photo/>
+      <role>Tía Rosita Rivera (voice)</role>
+      <name>Selene Luna</name>
+    </item>
+    <item index="10">
+      <photo>http://image.tmdb.org/t/p/original/fRNvwWADALgp6vRJY73HXovtS3p.jpg</photo>
+      <role>Tía Victoria Rivera (voice)</role>
+      <name>Dyana Ortelli</name>
+    </item>
+    <item index="11">
+      <photo>http://image.tmdb.org/t/p/original/3N3hUAIO9k1ZaPwO2Ojb6pbOQ5I.jpg</photo>
+      <role>Tío Oscar Rivera / Tío Felipe Rivera (voice)</role>
+      <name>Herbert Siguenza</name>
+    </item>
+    <item index="12">
+      <photo>http://image.tmdb.org/t/p/original/3hxkykBr2ou03hvWKen8FKPDRwm.jpg</photo>
+      <role>Papá Enrique Rivera (voice)</role>
+      <name>Jaime Camil</name>
+    </item>
+    <item index="13">
+      <photo/>
+      <role>Mamá Luisa Rivera (voice)</role>
+      <name>Sofía Espinosa</name>
+    </item>
+    <item index="14">
+      <photo/>
+      <role>Tío Berto Rivera / Don Hidalgo (voice)</role>
+      <name>Luis Valdez</name>
+    </item>
+    <item index="15">
+      <photo/>
+      <role>Abel Rivera (voice)</role>
+      <name>Polo Rojas</name>
+    </item>
+    <item index="16">
+      <photo/>
+      <role>Rosa Rivera (voice)</role>
+      <name>Montse Hernandez</name>
+    </item>
+    <item index="17">
+      <photo>http://image.tmdb.org/t/p/original/7zmk3iK1liMrbCnstNtbmYY3zFN.jpg</photo>
+      <role>Mariachi / Gustavo (voice)</role>
+      <name>Lombardo Boyar</name>
+    </item>
+    <item index="18">
+      <photo/>
+      <role>Arrival Agent (voice)</role>
+      <name>Octavio Solis</name>
+    </item>
+    <item index="19">
+      <photo>http://image.tmdb.org/t/p/original/n4RRL96ftX4dYWSZyEiakbpHnz1.jpg</photo>
+      <role>Head Clerk (voice)</role>
+      <name>Gabriel Iglesias</name>
+    </item>
+    <item index="20">
+      <photo>http://image.tmdb.org/t/p/original/efuXbXg7JpORy5hPDU7Zityq3k3.jpg</photo>
+      <role>Corrections Officer (voice)</role>
+      <name>Cheech Marin</name>
+    </item>
+    <item index="21">
+      <photo/>
+      <role>Departure Agent (voice)</role>
+      <name>Carla Medina</name>
+    </item>
+    <item index="22">
+      <photo/>
+      <role>Emcee (voice)</role>
+      <name>Blanca Araceli</name>
+    </item>
+    <item index="23">
+      <photo>http://image.tmdb.org/t/p/original/hm3qzlcxmJavLYzEfjtKoxSWfI5.jpg</photo>
+      <role>Frida Kahlo (voice)</role>
+      <name>Natalia Córdova-Buckley</name>
+    </item>
+    <item index="24">
+      <photo/>
+      <role>Security Guard (voice)</role>
+      <name>Salvador Reyes</name>
+    </item>
+    <item index="25">
+      <photo>http://image.tmdb.org/t/p/original/yGechiKWL6TJDfVE2KPSJYqdMsY.jpg</photo>
+      <role>Juan Ortodoncia (voice)</role>
+      <name>John Ratzenberger</name>
+    </item>
+    <item index="26">
+      <photo/>
+      <role>Additional voices (voice)</role>
+      <name>Memo Aponte</name>
+    </item>
+    <item index="27">
+      <photo/>
+      <role>Additional voices (voice)</role>
+      <name>Liliana Barba Meinecke</name>
+    </item>
+    <item index="28">
+      <photo/>
+      <role>Additional voices (voice)</role>
+      <name>Emmanuel Bernal</name>
+    </item>
+    <item index="29">
+      <photo/>
+      <role>Additional voices (voice)</role>
+      <name>David Beron</name>
+    </item>
+    <item index="30">
+      <photo/>
+      <role>Additional voices (voice)</role>
+      <name>Denise Blasor</name>
+    </item>
+    <item index="31">
+      <photo>http://image.tmdb.org/t/p/original/aW1GoGeGCjqcbSCih71moLfqxE4.jpg</photo>
+      <role>Additional voices (voice)</role>
+      <name>Wilma Bonet</name>
+    </item>
+    <item index="32">
+      <photo/>
+      <role>Additional voices (voice)</role>
+      <name>Alex Castillo</name>
+    </item>
+    <item index="33">
+      <photo>http://image.tmdb.org/t/p/original/2lvvQ1RYLqk9zpinYso5b7WAkQ0.jpg</photo>
+      <role>Additional voices (voice)</role>
+      <name>Vicki Davis</name>
+    </item>
+    <item index="34">
+      <photo/>
+      <role>Additional voices (voice)</role>
+      <name>Daniel Diaz</name>
+    </item>
+    <item index="35">
+      <photo/>
+      <role>Additional voices (voice)</role>
+      <name>Roberto Donati</name>
+    </item>
+    <item index="36">
+      <photo>http://image.tmdb.org/t/p/original/4LXc47bgpkxJ1GjF69Y9rNN5bWd.jpg</photo>
+      <role>Additional voices (voice)</role>
+      <name>Efrain Figueroa</name>
+    </item>
+    <item index="37">
+      <photo/>
+      <role>Additional voices (voice)</role>
+      <name>Deb Fink</name>
+    </item>
+    <item index="38">
+      <photo/>
+      <role>Additional voices (voice)</role>
+      <name>Libertad García Fonzi</name>
+    </item>
+    <item index="39">
+      <photo/>
+      <role>Additional voices (voice)</role>
+      <name>Emilio Fuentes</name>
+    </item>
+    <item index="40">
+      <photo/>
+      <role>Additional voices (voice)</role>
+      <name>Daniella Garcia-Lorido</name>
+    </item>
+    <item index="41">
+      <photo/>
+      <role>Additional voices (voice)</role>
+      <name>Mike Gomez</name>
+    </item>
+    <item index="42">
+      <photo/>
+      <role>Additional voices (voice)</role>
+      <name>Lillian Groag</name>
+    </item>
+    <item index="43">
+      <photo/>
+      <role>Additional voices (voice)</role>
+      <name>Joshua Guerrero</name>
+    </item>
+    <item index="44">
+      <photo/>
+      <role>Additional voices (voice)</role>
+      <name>Montse Hernandez</name>
+    </item>
+    <item index="45">
+      <photo/>
+      <role>Additional voices (voice)</role>
+      <name>Marabina Jaimes</name>
+    </item>
+    <item index="46">
+      <photo/>
+      <role>Additional voices (voice)</role>
+      <name>Jossara Jinaro</name>
+    </item>
+    <item index="47">
+      <photo/>
+      <role>Additional voices (voice)</role>
+      <name>Christian Lanz</name>
+    </item>
+    <item index="48">
+      <photo/>
+      <role>Additional voices (voice)</role>
+      <name>Constanza Lechuga</name>
+    </item>
+    <item index="49">
+      <photo/>
+      <role>Additional voices (voice)</role>
+      <name>Luisa Leschin</name>
+    </item>
+    <item index="50">
+      <photo/>
+      <role>Additional voices (voice)</role>
+      <name>Ruth Livier</name>
+    </item>
+    <item index="51">
+      <photo/>
+      <role>Additional voices (voice)</role>
+      <name>Maria Dominique Lopez</name>
+    </item>
+    <item index="52">
+      <photo/>
+      <role>Additional voices (voice)</role>
+      <name>Valeria Maldonado</name>
+    </item>
+    <item index="53">
+      <photo>http://image.tmdb.org/t/p/original/gdFeh5Zh1KqSNSKXBvMRYf2PSkO.jpg</photo>
+      <role>Additional voices (voice)</role>
+      <name>Richard Miro</name>
+    </item>
+    <item index="54">
+      <photo/>
+      <role>Additional voices (voice)</role>
+      <name>Adrian Molina</name>
+    </item>
+    <item index="55">
+      <photo>http://image.tmdb.org/t/p/original/scmTCYlbPGGP7DdprgfcfMoOSHk.jpg</photo>
+      <role>Additional voices (voice)</role>
+      <name>Daniel Edward Mora</name>
+    </item>
+    <item index="56">
+      <photo/>
+      <role>Additional voices (voice)</role>
+      <name>Vivianne Nacif</name>
+    </item>
+    <item index="57">
+      <photo/>
+      <role>Additional voices (voice)</role>
+      <name>Adriana Sevahn Nichols</name>
+    </item>
+    <item index="58">
+      <photo/>
+      <role>Additional voices (voice)</role>
+      <name>Jonathan Nichols</name>
+    </item>
+    <item index="59">
+      <photo/>
+      <role>Additional voices (voice)</role>
+      <name>Arthur Ortiz</name>
+    </item>
+    <item index="60">
+      <photo/>
+      <role>Additional voices (voice)</role>
+      <name>Jessica Pacheco</name>
+    </item>
+    <item index="61">
+      <photo/>
+      <role>Additional voices (voice)</role>
+      <name>Juan Pacheco</name>
+    </item>
+    <item index="62">
+      <photo>http://image.tmdb.org/t/p/original/12C1gjNg73tCKLUUgTuIGjZZdw9.jpg</photo>
+      <role>Additional voices (voice)</role>
+      <name>Jacqueline Pinol</name>
+    </item>
+    <item index="63">
+      <photo/>
+      <role>Additional voices (voice)</role>
+      <name>James Ponce</name>
+    </item>
+    <item index="64">
+      <photo>http://image.tmdb.org/t/p/original/kyQSlxHVnla3MfXzs2XhKCRHWMw.jpg</photo>
+      <role>Additional voices (voice)</role>
+      <name>Al Rodrigo</name>
+    </item>
+    <item index="65">
+      <photo>http://image.tmdb.org/t/p/original/4Qem01rtO9dynlbbVmxlZckBD7Q.jpg</photo>
+      <role>Additional voices (voice)</role>
+      <name>J. Francisco Rodriguez</name>
+    </item>
+    <item index="66">
+      <photo/>
+      <role>Additional voices (voice)</role>
+      <name>Polo Rojas</name>
+    </item>
+    <item index="67">
+      <photo>http://image.tmdb.org/t/p/original/tvxOuEfRHfutqg2PyIHXhq9NARI.jpg</photo>
+      <role>Additional voices (voice)</role>
+      <name>Eduardo Roman</name>
+    </item>
+    <item index="68">
+      <photo>http://image.tmdb.org/t/p/original/559tixUHIB6CiK3nFcL5mbuts95.jpg</photo>
+      <role>Additional voices (voice)</role>
+      <name>Eddie Santiago</name>
+    </item>
+    <item index="69">
+      <photo>http://image.tmdb.org/t/p/original/dg05PZ0a99ttosAHkJ12297Y4Uo.jpg</photo>
+      <role>Additional voices (voice)</role>
+      <name>Melissa Santos</name>
+    </item>
+    <item index="70">
+      <photo/>
+      <role>Additional voices (voice)</role>
+      <name>Luis Solís</name>
+    </item>
+    <item index="71">
+      <photo/>
+      <role>Additional voices (voice)</role>
+      <name>Rosalba Sotelo</name>
+    </item>
+    <item index="72">
+      <photo/>
+      <role>Additional voices (voice)</role>
+      <name>Chris Triana</name>
+    </item>
+    <item index="73">
+      <photo/>
+      <role>Additional voices (voice)</role>
+      <name>Trujo</name>
+    </item>
+    <item index="74">
+      <photo>http://image.tmdb.org/t/p/original/bdTCCXjgOV3YyaNmLGYGOxFQMOc.jpg</photo>
+      <role>Additional voices (voice)</role>
+      <name>Lee Unkrich</name>
+    </item>
+    <item index="75">
+      <photo/>
+      <role>Additional voices (voice)</role>
+      <name>Ruth Zalduondo</name>
+    </item>
+    <item index="76">
+      <photo/>
+      <role>Additional voices (voice)</role>
+      <name>James Zavaleta</name>
+    </item>
+    <item index="77">
+      <photo/>
+      <role>Additional voices (voice)</role>
+      <name>Bernardo Cubria</name>
+    </item>
+    <item index="78">
+      <photo>http://image.tmdb.org/t/p/original/13kjmeYYdJzdeccnJEXo56KH7CO.jpg</photo>
+      <role>Additional voices (voice)</role>
+      <name>Gary Carlos Cervantes</name>
+    </item>
+    <item index="79">
+      <photo>http://image.tmdb.org/t/p/original/dKM3WYwjtKe9dOSKkPiK2xI9LWr.jpg</photo>
+      <role>Additional voices (voice)</role>
+      <name>Johnny A. Sanchez</name>
+    </item>
+    <item index="80">
+      <photo/>
+      <role>Additional voices (voice)</role>
+      <name>Levi Nunez</name>
+    </item>
+    <item index="81">
+      <photo/>
+      <role>Additional voices (voice)</role>
+      <name>Óscar Bonfiglio</name>
+    </item>
+    <item index="82">
+      <photo/>
+      <role>Additional voices (voice)</role>
+      <name>Lalo Alcaraz</name>
+    </item>
+    <item index="83">
+      <photo/>
+      <role>Additional voices (voice)</role>
+      <name>Marcela Davison Aviles</name>
+    </item>
+    <item index="84">
+      <photo/>
+      <role>Additional voices (voice)</role>
+      <name>Carolina Ángel</name>
+    </item>
+  </roles>
+  <countries>
+    <item index="0">USA</item>
+  </countries>
+  <content_rating>PG</content_rating>
+  <original_title/>
+  <summary>Despite his family’s baffling generations-old ban on music, Miguel dreams of becoming an accomplished musician like his idol, Ernesto de la Cruz. Desperate to prove his talent, Miguel finds himself in the stunning and colorful Land of the Dead following a mysterious chain of events. Along the way, he meets charming trickster Hector, and together, they set off on an extraordinary journey to unlock the real story behind Miguel's family history.</summary>
+  <reviews>
+    <item index="0">
+      <text>Of every Pixar film that deals with family, memory, and loss, ask, "Is there sufficient reason for the tears that will inevitably run down my face by the end?" Yes, thanks in no small part to the ingenious use of De La Cruz's hit song, "Remember Me."</text>
+      <source>San Diego Reader</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>https://www.sandiegoreader.com/news/2017/nov/22/movie-pixar-coco/</link>
+      <author>Matthew Lickona</author>
+    </item>
+    <item index="1">
+      <text>Does Coco rise to the heights of Pixar's very best work? No. But it is a generous, heartfelt film, full of color and music, one that offers a timely Thanksgiving tribute to the intergenerational importance of family.</text>
+      <source>The Atlantic</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>https://www.theatlantic.com/entertainment/archive/2017/11/coco-is-among-pixars-best-movies-in-years/546695/</link>
+      <author>Christopher Orr</author>
+    </item>
+    <item index="2">
+      <text>None of Coco's few flaws can fatally undermine the film because it is, most of all, a smart and enduring piece of storytelling with a satisfyingly twisting narrative and richly complex theme.</text>
+      <source>Globe and Mail</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>https://www.theglobeandmail.com/arts/film/film-reviews/review-coco-is-a-compelling-story-about-family-ancestry-and-remembrance/article37029899/</link>
+      <author>Kate Taylor</author>
+    </item>
+    <item index="3">
+      <text>This engaging Pixar animation plays magnificently with elements of Mexican folklore and fine art.</text>
+      <source>Chicago Reader</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>https://www.chicagoreader.com/chicago/coco-3d/MovieTimes?oid=33580956</link>
+      <author>Ben Sachs</author>
+    </item>
+    <item index="4">
+      <text>Pixar rebounds nicely with Coco, a big, spangly animated fiesta with its fair share of "heart."</text>
+      <source>Christian Science Monitor</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>https://www.csmonitor.com/The-Culture/Movies/2017/1122/Spangly-Coco-has-moments-as-powerful-as-anything-in-the-Pixar-canon</link>
+      <author>Peter Rainer</author>
+    </item>
+    <item index="5">
+      <text>Enchanting and dazzling, Coco is a resplendent love letter to Mexico.</text>
+      <source>Remezcla</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>http://remezcla.com/lists/film/latino-film-critics-review-pixar-coco/</link>
+      <author>Claudia Puig</author>
+    </item>
+    <item index="6">
+      <text>Pixar's Day-of-the-Dead gem pays loving tribute to Mexican culture with animation that brims over with visual pleasures, comic energy and emotional wallop.</text>
+      <source>Rolling Stone</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>http://www.rollingstone.com/movies/reviews/peter-travers-pixars-day-of-the-dead-coco-is-as-lively-as-they-come-w512244</link>
+      <author>Peter Travers</author>
+    </item>
+    <item index="7">
+      <text>Its backgrounds ... have a vibrancy, and its atmosphere carries a warmth. And even after it's done, both linger, just a bit -- like a perfectly struck guitar chord.</text>
+      <source>Newark Star-Ledger</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>http://www.nj.com/entertainment/index.ssf/2017/11/coco_review_disney_and_pixar_set_out_a_mexican_fea.html</link>
+      <author>Stephen Whitty</author>
+    </item>
+    <item index="8">
+      <text>The plot, arguably, comes packed with more complications and psychedelic spirit-critters than it really needs. But you can't blame Pixar's animators for having a field day with the film's imagery ...</text>
+      <source>NPR</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>https://www.npr.org/2017/11/22/564869134/in-coco-pixar-finds-joyous-life-in-death?utm_medium=RSS&amp;utm_campaign=movies</link>
+      <author>Bob Mondello</author>
+    </item>
+    <item index="9">
+      <text>It's a whimsical, touching and heartfelt celebration of Mexican traditions and folklore, and it's one of the more original stories the acclaimed animation studio has told in years.</text>
+      <source>Dallas Morning News</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>https://www.guidelive.com/movie-reviews/2017/11/20/coco-disney-pixar</link>
+      <author>Britton Peele</author>
+    </item>
+    <item index="10">
+      <text>The colorful visuals are matched with lively music, especially de la Cruz's signature song, "Remember Me."</text>
+      <source>St. Louis Post-Dispatch</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>http://www.stltoday.com/entertainment/movies/reviews/pixar-s-coco-is-a-vivid-tale-of-following-dreams/article_5da9a2e4-9481-586c-93f8-27c677093457.html</link>
+      <author>Jody Mitori</author>
+    </item>
+    <item index="11">
+      <text>"Coco" worked on me in ways I hadn't expected.</text>
+      <source>Arizona Republic</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>https://www.azcentral.com/story/entertainment/movies/billgoodykoontz/2017/11/21/disney-pixar-coco-movie-review/871357001/</link>
+      <author>Bill Goodykoontz</author>
+    </item>
+    <item index="12">
+      <text>In the end, it's all too much, yet at the same time not enough. Despite its efforts, Coco can't rise above mid-tier Pixar.</text>
+      <source>Detroit News</source>
+      <image>rottentomatoes://image.review.rotten</image>
+      <link>http://www.detroitnews.com/story/entertainment/movies/2017/11/21/movie-review-convoluted-coco-tries-hard-entertain/107918508/</link>
+      <author>Adam Graham</author>
+    </item>
+    <item index="13">
+      <text>... the film is exuberant and heartfelt, and the hero's journey takes him through spectacular territory...</text>
+      <source>Wall Street Journal</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>https://www.wsj.com/articles/coco-review-delight-of-the-living-dead-1511299118</link>
+      <author>Joe Morgenstern</author>
+    </item>
+    <item index="14">
+      <text>Coco settles into something gentler but still irrefutably sweet: a movie that plays safe with the status quo, even as it breaks with it.</text>
+      <source>Entertainment Weekly</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>http://ew.com/movies/2017/11/21/pixar-coco-review/</link>
+      <author>Leah Greenblatt</author>
+    </item>
+    <item index="15">
+      <text>Twin touchstones from two of the most famous all-American flicks of the '80s feel like Pixar ensuring that audiences will feel at home in this foreign land.</text>
+      <source>Uproxx</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>http://uproxx.com/movies/coco-review-pixar/</link>
+      <author>Amy Nicholson</author>
+    </item>
+    <item index="16">
+      <text>Not only is it a wholly original story, but it also honors a culture that's so often overlooked by the movie industry. That alone might have made it a hit, but Coco has so much more to offer.</text>
+      <source>Washington Post</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>https://www.washingtonpost.com/goingoutguide/movies/coco-puts-a-fresh-face-on-the-dependable-pixar-formula/2017/11/21/e82739ea-ca4a-11e7-8321-481fd63f174d_story.html?utm_term=.ff15d73905ef</link>
+      <author>Stephanie Merry</author>
+    </item>
+    <item index="17">
+      <text>Every step of the way in Coco is a visual and sonic delight.</text>
+      <source>Toronto Star</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>https://www.thestar.com/entertainment/movies/review/2017/11/21/coco-is-a-romp-full-of-life-through-the-land-of-the-dead.html</link>
+      <author>Peter Howell</author>
+    </item>
+    <item index="18">
+      <text>The script's ghoulish touches and mordant flashes of wit turn out to be its most disarming qualities.</text>
+      <source>Los Angeles Times</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>http://beta.latimes.com/entertainment/movies/la-et-mn-coco-review-20171121-story.html</link>
+      <author>Justin Chang</author>
+    </item>
+    <item index="19">
+      <text>Dazzling visuals along with intricately structured and deeply moving storytelling are the hallmarks of the best of the studio's animated movies. "Coco" has those in spades ...</text>
+      <source>Seattle Times</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>https://www.seattletimes.com/entertainment/movies/coco-review-pixars-day-of-the-dead-tale-comes-to-dazzling-life/?utm_source=RSS&amp;utm_medium=Referral&amp;utm_campaign=RSS_movies</link>
+      <author>Soren Anderson</author>
+    </item>
+  </reviews>
+  <directors>
+    <item index="0">
+      <photo>http://image.tmdb.org/t/p/original/bdTCCXjgOV3YyaNmLGYGOxFQMOc.jpg</photo>
+      <role/>
+      <name>Lee Unkrich</name>
+    </item>
+  </directors>
+  <extras external="True" extension="xml"/>
+  <banners/>
+  <similar>
+    <item index="0">The Shape of Water</item>
+    <item index="1">The Greatest Showman</item>
+    <item index="2">Three Billboards Outside Ebbing, Missouri</item>
+    <item index="3">Thor: Ragnarok</item>
+    <item index="4">Lady Bird</item>
+    <item index="5">Star Wars: The Last Jedi</item>
+    <item index="6">Ferdinand</item>
+    <item index="7">Justice League</item>
+    <item index="8">Ready Player One</item>
+    <item index="9">Murder on the Orient Express</item>
+    <item index="10">Black Panther</item>
+    <item index="11">Jumanji: Welcome to the Jungle</item>
+    <item index="12">Wonder</item>
+    <item index="13">Moana</item>
+    <item index="14">I, Tonya</item>
+    <item index="15">Zootopia</item>
+    <item index="16">Kingsman: The Golden Circle</item>
+    <item index="17">Call Me by Your Name</item>
+    <item index="18">Baby Driver</item>
+    <item index="19">Spider-Man: Homecoming</item>
+  </similar>
+</Movie>

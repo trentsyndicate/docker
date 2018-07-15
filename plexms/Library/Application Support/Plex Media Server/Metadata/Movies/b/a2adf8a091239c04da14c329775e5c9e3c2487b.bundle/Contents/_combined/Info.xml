@@ -1,0 +1,363 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Movie>
+  <art>
+    <item external="True" url="http://image.tmdb.org/t/p/original/7g8JUzwESKfhWspI4JA1U9EXG86.jpg" sort_order="1" provider="com.plexapp.agents.imdb" media="com.plexapp.agents.imdb_2d377d4e3f7e130d453f0187af7b080884a6b9b6"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/zUFY9ldB818mBpvQ9QYH8F77WMy.jpg" preview="com.plexapp.agents.imdb_c7ee9e5c2abd5e0feaca320000a36f6f2ab4bd29" sort_order="2" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/i4ORwQCubBChanWM5AsEyACFTD3.jpg" preview="com.plexapp.agents.imdb_85b2dae1d1958c3e8b416220a56ca07a3ddd15d3" sort_order="3" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/6pYDEhJMrudpffe4IWsGr35opX5.jpg" preview="com.plexapp.agents.imdb_d4585b5f751f2e8b6f76bbb52f2973bc06218b5c" sort_order="4" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/BjQC6yJdlPAMaWoQkS20v3KYFS.jpg" preview="com.plexapp.agents.imdb_f5503dd90dd58b31cb4e3d4eef643401dd4f6252" sort_order="5" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/6T9DT1eMg65cNnkEyPRvJa2XDBh.jpg" preview="com.plexapp.agents.imdb_80053af3ea1efc143cd5cff74740b12422b4010e" sort_order="6" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/eoDtSEEjdUGtgMLB1HA2JZreo8w.jpg" preview="com.plexapp.agents.imdb_4f30f9d351d8027b22cdaac31269e99e6ab60604" sort_order="7" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/9ExEbiY5UySa0jCLFQCvb4szkaV.jpg" preview="com.plexapp.agents.imdb_0879609235a03006c439e4318d052af419275282" sort_order="8" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/8eyMPtU32pu3nQForp66MlgsnWt.jpg" preview="com.plexapp.agents.imdb_bbe1d7851ecb88a1519c9e9035cbcc74937e0314" sort_order="9" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/1KgWiR0lICGIqkKaE0FBXFM4nSM.jpg" preview="com.plexapp.agents.imdb_916dc8f12c6339ac1338cbe748e5144e5795edd4" sort_order="10" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/yZ6beArMaevTKMdBuUPlMEIJCBp.jpg" preview="com.plexapp.agents.imdb_0012e79dd7949aeebc388beb0d1a10169e5c42de" sort_order="11" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/nGKVFS2It77ZjFQifgFvqN65wrL.jpg" preview="com.plexapp.agents.imdb_4d95c78eab189ae9cd3ea22cbbb2e8a49800b2a0" sort_order="12" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/j91foLWWUJDtrMlb91YsgJ6Rl9E.jpg" preview="com.plexapp.agents.imdb_1d50ad3f30f874d89300fb1b47ed22503f80ddfc" sort_order="13" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/gZuUlL2hFUEX1igdhK7e3CdouMt.jpg" preview="com.plexapp.agents.imdb_25129d13c4e9c293ad40a35622532d47638f79b4" sort_order="14" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/xTqycHZkap52GQUpdX7np7bRah5.jpg" preview="com.plexapp.agents.imdb_68b5e2c8bfacc5aa2a35a72217ce82f8bc5a787f" sort_order="15" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/iIFX04DXNuklvIrcrbqBopRxcOH.jpg" preview="com.plexapp.agents.imdb_2be9da164270a9885179d0c7056f385c15a19d49" sort_order="16" provider="com.plexapp.agents.imdb"/>
+  </art>
+  <banners/>
+  <chapters>
+    <item index="0">
+      <title>1. The Huntsville Grind</title>
+      <end_time_offset>472000</end_time_offset>
+      <start_time_offset>0</start_time_offset>
+    </item>
+    <item index="1">
+      <title>2. For sale to Benyon</title>
+      <end_time_offset>639000</end_time_offset>
+      <start_time_offset>472000</start_time_offset>
+    </item>
+    <item index="2">
+      <title>3. Swimming in freedom</title>
+      <end_time_offset>927000</end_time_offset>
+      <start_time_offset>639000</start_time_offset>
+    </item>
+    <item index="3">
+      <title>4. Nervous reunion</title>
+      <end_time_offset>1279000</end_time_offset>
+      <start_time_offset>927000</start_time_offset>
+    </item>
+    <item index="4">
+      <title>5. Doc's job, Benyon's show</title>
+      <end_time_offset>1442000</end_time_offset>
+      <start_time_offset>1279000</start_time_offset>
+    </item>
+    <item index="5">
+      <title>6. Preparations</title>
+      <end_time_offset>1617000</end_time_offset>
+      <start_time_offset>1442000</start_time_offset>
+    </item>
+    <item index="6">
+      <title>7. Making sure everybody understands</title>
+      <end_time_offset>1847000</end_time_offset>
+      <start_time_offset>1617000</start_time_offset>
+    </item>
+    <item index="7">
+      <title>8. The heist begins</title>
+      <end_time_offset>2251000</end_time_offset>
+      <start_time_offset>1847000</start_time_offset>
+    </item>
+    <item index="8">
+      <title>9. Robbery gone bad</title>
+      <end_time_offset>2446000</end_time_offset>
+      <start_time_offset>2251000</start_time_offset>
+    </item>
+    <item index="9">
+      <title>10. Didn't make it; Rudy's vow</title>
+      <end_time_offset>2708000</end_time_offset>
+      <start_time_offset>2446000</start_time_offset>
+    </item>
+    <item index="10">
+      <title>11. Doing it Doc's way</title>
+      <end_time_offset>2854000</end_time_offset>
+      <start_time_offset>2708000</start_time_offset>
+    </item>
+    <item index="11">
+      <title>12. Doc and Benyon get the picture</title>
+      <end_time_offset>3045000</end_time_offset>
+      <start_time_offset>2854000</start_time_offset>
+    </item>
+    <item index="12">
+      <title>13. No way to explain it</title>
+      <end_time_offset>3206000</end_time_offset>
+      <start_time_offset>3045000</start_time_offset>
+    </item>
+    <item index="13">
+      <title>14. Rudy's travel plans</title>
+      <end_time_offset>3353000</end_time_offset>
+      <start_time_offset>3206000</start_time_offset>
+    </item>
+    <item index="14">
+      <title>15. The McCoys' travel plans</title>
+      <end_time_offset>3453000</end_time_offset>
+      <start_time_offset>3353000</start_time_offset>
+    </item>
+    <item index="15">
+      <title>16. Inspecting Fran</title>
+      <end_time_offset>3599000</end_time_offset>
+      <start_time_offset>3453000</start_time_offset>
+    </item>
+    <item index="16">
+      <title>17. Bagging the bagman</title>
+      <end_time_offset>4168000</end_time_offset>
+      <start_time_offset>3599000</start_time_offset>
+    </item>
+    <item index="17">
+      <title>18. Headed for the Laughlin Hotel</title>
+      <end_time_offset>4266000</end_time_offset>
+      <start_time_offset>4168000</start_time_offset>
+    </item>
+    <item index="18">
+      <title>19. Full of ifs</title>
+      <end_time_offset>4593000</end_time_offset>
+      <start_time_offset>4266000</start_time_offset>
+    </item>
+    <item index="19">
+      <title>20. Blasting out of a tight spot</title>
+      <end_time_offset>5069000</end_time_offset>
+      <start_time_offset>4593000</start_time_offset>
+    </item>
+    <item index="20">
+      <title>21. Food game</title>
+      <end_time_offset>5179000</end_time_offset>
+      <start_time_offset>5069000</start_time_offset>
+    </item>
+    <item index="21">
+      <title>22. Burgers and bullets</title>
+      <end_time_offset>5425000</end_time_offset>
+      <start_time_offset>5179000</start_time_offset>
+    </item>
+    <item index="22">
+      <title>23. Getting trashed</title>
+      <end_time_offset>5630000</end_time_offset>
+      <start_time_offset>5425000</start_time_offset>
+    </item>
+    <item index="23">
+      <title>24. Harold's hangup</title>
+      <end_time_offset>5655000</end_time_offset>
+      <start_time_offset>5630000</start_time_offset>
+    </item>
+    <item index="24">
+      <title>25. Getting dumped</title>
+      <end_time_offset>5844000</end_time_offset>
+      <start_time_offset>5655000</start_time_offset>
+    </item>
+    <item index="25">
+      <title>26. I chose you, not him</title>
+      <end_time_offset>6016000</end_time_offset>
+      <start_time_offset>5844000</start_time_offset>
+    </item>
+    <item index="26">
+      <title>27. Rudy's new rules</title>
+      <end_time_offset>6181000</end_time_offset>
+      <start_time_offset>6016000</start_time_offset>
+    </item>
+    <item index="27">
+      <title>28. Checking into Room 318</title>
+      <end_time_offset>6402000</end_time_offset>
+      <start_time_offset>6181000</start_time_offset>
+    </item>
+    <item index="28">
+      <title>29. Doc plays a lunch</title>
+      <end_time_offset>6610000</end_time_offset>
+      <start_time_offset>6402000</start_time_offset>
+    </item>
+    <item index="29">
+      <title>30. The shooting starts</title>
+      <end_time_offset>6864000</end_time_offset>
+      <start_time_offset>6610000</start_time_offset>
+    </item>
+    <item index="30">
+      <title>31. Advice to the hitchhikers</title>
+      <end_time_offset>7042000</end_time_offset>
+      <start_time_offset>6864000</start_time_offset>
+    </item>
+    <item index="31">
+      <title>32. A deal on wheels</title>
+      <end_time_offset>7210000</end_time_offset>
+      <start_time_offset>7042000</start_time_offset>
+    </item>
+    <item index="32">
+      <title>33. End Credits</title>
+      <end_time_offset>-1</end_time_offset>
+      <start_time_offset>7210000</start_time_offset>
+    </item>
+  </chapters>
+  <collections/>
+  <content_rating>PG</content_rating>
+  <countries>
+    <item index="0">USA</item>
+  </countries>
+  <directors>
+    <item index="0">
+      <photo>http://image.tmdb.org/t/p/original/hXrHVHdNivFu8dMbyp40ds5YXYD.jpg</photo>
+      <role/>
+      <name>Sam Peckinpah</name>
+    </item>
+  </directors>
+  <duration>7380000</duration>
+  <genres>
+    <item index="0">Action</item>
+    <item index="1">Crime</item>
+    <item index="2">Thriller</item>
+  </genres>
+  <originally_available_at>1972-12-13</originally_available_at>
+  <posters>
+    <item external="True" url="http://image.tmdb.org/t/p/original/7KOC8DferBKJI3n6RHuthDG0fDp.jpg" sort_order="1" provider="com.plexapp.agents.imdb" media="com.plexapp.agents.imdb_3e878ebef603e385b4f1e3241ecf9c9d02b6ba7b"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/rNRGW5SOm90CemRDpJsdXAUpWyW.jpg" preview="com.plexapp.agents.imdb_8371907c51719a0521e95a3a6c5e39a93a4dcac6" sort_order="2" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/e1f6V9niRDxyXnYzvwhr5SrxVUN.jpg" preview="com.plexapp.agents.imdb_20c29d06b08dfb6431f1d5f768d95369407b6c83" sort_order="3" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/clU9HZo5EesXgk67iaEBd5ChiJR.jpg" preview="com.plexapp.agents.imdb_9a539904782522936b2a64c573d964e30f78877b" sort_order="4" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/e8P3tk6qGFDn39F0uTLRaZdWIu7.jpg" preview="com.plexapp.agents.imdb_9288e2b221fd39d073d20c6872722e109511abfb" sort_order="5" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/9DJS7m4khu77JJIB8cBRoLmTRUu.jpg" preview="com.plexapp.agents.imdb_8b59b151c79d067317c7edc9dab79f92b3b23843" sort_order="6" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/vf6fy1cjaPYCR41CLPlXrXDzSJ7.jpg" preview="com.plexapp.agents.imdb_8555a278053771eaddc58dcb11811cbe706c08d1" sort_order="7" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/cXOw808dj9934BYRpOb40UhkzKe.jpg" preview="com.plexapp.agents.imdb_67a746e81e4cc6c6fd7fb4fce0b8a713f76b198c" sort_order="8" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/z1uONiPWAElAWDK7uZpSC7Tpvuq.jpg" preview="com.plexapp.agents.imdb_5d130e0af366cc80491aa5e54b899850e4c0c40e" sort_order="9" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/4EXOkkeWgvfjcp5O3Qhd1PBkl0A.jpg" preview="com.plexapp.agents.imdb_b50bee000b3707d3b675c90b3996622c91e6db79" sort_order="10" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/qd3YdCf7LxreCRgSnDYpmTlnIe0.jpg" preview="com.plexapp.agents.imdb_a725fbc0402ef5512bd71827d918b3e330fbaa01" sort_order="11" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/pLSMTNbRtu4gmzN39ohFpRrA2yg.jpg" preview="com.plexapp.agents.imdb_f22ed61fbdf00d0e2041f1f79246ee7ad574577f" sort_order="12" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/97RyL6vmGvAsZbMjCqTQL5dwRTJ.jpg" preview="com.plexapp.agents.imdb_b3d51ff0971b193d347be966620f6c6ed453ef13" sort_order="13" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/nURWR4qsPpZDT2UMT5FCX2lYUtw.jpg" preview="com.plexapp.agents.imdb_a29fef68ee5d75beab63ee80c2a3704574bd0ea9" sort_order="14" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/jvwIQVJrIeaaQP3viDiCEONmbrZ.jpg" preview="com.plexapp.agents.imdb_1013abad4634b510fddb8b0a79748425e9b1d35a" sort_order="15" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/8dwAJ7ds4PnW7di2YzTMfcctLu0.jpg" preview="com.plexapp.agents.imdb_4ba2f3c4d2034aa9bfb2f1f9014e0389f7eb0257" sort_order="16" provider="com.plexapp.agents.imdb"/>
+  </posters>
+  <producers>
+    <item index="0">
+      <photo>http://image.tmdb.org/t/p/original/5XcWMR9BEEqWgIhBopMvnHJWbsk.jpg</photo>
+      <role/>
+      <name>David Foster</name>
+    </item>
+  </producers>
+  <rating>8.5</rating>
+  <rating_image>rottentomatoes://image.rating.ripe</rating_image>
+  <audience_rating>8.1</audience_rating>
+  <audience_rating_image>rottentomatoes://image.rating.upright</audience_rating_image>
+  <reviews>
+    <item index="0">
+      <text>The action and the violence of The Getaway are supported by no particular themes whatsoever. The movie just unravels.</text>
+      <source>New York Times</source>
+      <image>rottentomatoes://image.review.rotten</image>
+      <link>http://movies.nytimes.com/movie/review?res=9401E2DB1E3DEF34BC4851DFB4678389669EDE&amp;partner=Rotten+Tomatoes</link>
+      <author>Vincent Canby</author>
+    </item>
+  </reviews>
+  <roles>
+    <item index="0">
+      <photo>http://image.tmdb.org/t/p/original/ddL8NHnuVCPOLSiNGjrmIQK9kdO.jpg</photo>
+      <role>Doc McCoy</role>
+      <name>Steve McQueen</name>
+    </item>
+    <item index="1">
+      <photo>http://image.tmdb.org/t/p/original/1dkzU8WnF1YzhjQRm9dKe6sHsSP.jpg</photo>
+      <role>Carol McCoy</role>
+      <name>Ali MacGraw</name>
+    </item>
+    <item index="2">
+      <photo>http://image.tmdb.org/t/p/original/yqPEXD23jLYxmCCLNWtyQ3tJ89V.jpg</photo>
+      <role>Jack Beynon</role>
+      <name>Ben Johnson</name>
+    </item>
+    <item index="3">
+      <photo>http://image.tmdb.org/t/p/original/uTzNiDToGv513rvxQMx37mz0q9V.jpg</photo>
+      <role>Rudy Butler</role>
+      <name>Al Lettieri</name>
+    </item>
+    <item index="4">
+      <photo>http://image.tmdb.org/t/p/original/dKYNw09OtpSb8Y2CNH3o9UDZjoL.jpg</photo>
+      <role>Fran Clinton</role>
+      <name>Sally Struthers</name>
+    </item>
+    <item index="5">
+      <photo>http://image.tmdb.org/t/p/original/xO2rvqSBgZRJKjkVrFy1xeygxLF.jpg</photo>
+      <role>Cowboy</role>
+      <name>Slim Pickens</name>
+    </item>
+    <item index="6">
+      <photo>http://image.tmdb.org/t/p/original/k2P17sxGhh7Dafidxn9Ub5YbF7n.jpg</photo>
+      <role>Dieb</role>
+      <name>Richard Bright</name>
+    </item>
+    <item index="7">
+      <photo>http://image.tmdb.org/t/p/original/g5vMuFyxkJukeJlNaKBWExuqZ0d.jpg</photo>
+      <role>Harold Clinton</role>
+      <name>Jack Dodson</name>
+    </item>
+    <item index="8">
+      <photo>http://image.tmdb.org/t/p/original/rOP2Q3SidVsZn30CEk70bHz6k48.jpg</photo>
+      <role>Laughlin</role>
+      <name>Dub Taylor</name>
+    </item>
+    <item index="9">
+      <photo>http://image.tmdb.org/t/p/original/tfned4hs0rrq7L5PPuS5GnlHFc6.jpg</photo>
+      <role>Frank Jackson</role>
+      <name>Bo Hopkins</name>
+    </item>
+    <item index="10">
+      <photo>http://image.tmdb.org/t/p/original/swkMoVqkIw3CKTKkIzR2yHEfyF3.jpg</photo>
+      <role>Cully</role>
+      <name>Roy Jenson</name>
+    </item>
+    <item index="11">
+      <photo/>
+      <role>The Accountant</role>
+      <name>John Bryson</name>
+    </item>
+    <item index="12">
+      <photo>http://image.tmdb.org/t/p/original/x5HALsJmh4jSUzqFIUCYtgFhGD4.jpg</photo>
+      <role>Swain</role>
+      <name>Bill Hart</name>
+    </item>
+    <item index="13">
+      <photo/>
+      <role>Hayhoe</role>
+      <name>Tom Runyon</name>
+    </item>
+    <item index="14">
+      <photo/>
+      <role>The Soldier</role>
+      <name>Whitney Jones</name>
+    </item>
+    <item index="15">
+      <photo>http://image.tmdb.org/t/p/original/xfziwL5Dz26Py4OuDQKWsvONNr3.jpg</photo>
+      <role>Cowboy's Helper</role>
+      <name>Tommy Bush</name>
+    </item>
+  </roles>
+  <similar>
+    <item index="0">Bullitt</item>
+    <item index="1">Bring Me the Head of Alfredo Garcia</item>
+    <item index="2">The Thomas Crown Affair</item>
+    <item index="3">High Plains Drifter</item>
+    <item index="4">The Cincinnati Kid</item>
+    <item index="5">Hard Times</item>
+    <item index="6">The Taking of Pelham One Two Three</item>
+    <item index="7">Birdman of Alcatraz</item>
+    <item index="8">The Professionals</item>
+    <item index="9">The Day of the Jackal</item>
+    <item index="10">Death Wish</item>
+    <item index="11">Bad Day at Black Rock</item>
+    <item index="12">White Heat</item>
+    <item index="13">Play Misty for Me</item>
+    <item index="14">The Outlaw Josey Wales</item>
+    <item index="15">Straw Dogs</item>
+    <item index="16">Point Blank</item>
+    <item index="17">Jeremiah Johnson</item>
+    <item index="18">Vera Cruz</item>
+    <item index="19">The Man Who Would Be King</item>
+  </similar>
+  <studio>Solar Productions</studio>
+  <summary>A recently released ex-con and his loyal wife go on the run after a heist goes awry.</summary>
+  <tags/>
+  <themes/>
+  <title>The Getaway</title>
+  <writers>
+    <item index="0">
+      <photo>http://image.tmdb.org/t/p/original/gCU3dgnNaZuvmArtBJgjCUMmimd.jpg</photo>
+      <role/>
+      <name>Walter Hill</name>
+    </item>
+  </writers>
+  <year>1972</year>
+</Movie>

@@ -1,0 +1,497 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Movie>
+  <art>
+    <item external="True" url="http://image.tmdb.org/t/p/original/o0HBoiOnHibs3HVz0kwJotPCl0Z.jpg" sort_order="1" provider="com.plexapp.agents.imdb" media="com.plexapp.agents.imdb_2e134860f5f16e3af3e7f14df237b6406106c3fe"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/lj3wkYkJGkfmDfXkKrVarSJpFD4.jpg" preview="com.plexapp.agents.imdb_fab560b86146810ec9c5fd985cc181214d3b5834" sort_order="2" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/g3hni0i9iAQ13jDGOFWavJFlojc.jpg" preview="com.plexapp.agents.imdb_3df0d274c966e27031b6185e7b20c779bb4d7d5c" sort_order="3" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/kTvkVkiplWcn1QaMQU5KcQRDDPq.jpg" preview="com.plexapp.agents.imdb_01682260c1c819a36a8960332c066816efd257f4" sort_order="4" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/aiQl6H0C3LEE7GHCfHQf4GDl5a9.jpg" preview="com.plexapp.agents.imdb_ba020a94b1d99060e415058cdb9f6ab29d712b82" sort_order="5" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/6rMSVBboTSNJcptAOYIWp7rTkb3.jpg" preview="com.plexapp.agents.imdb_8503c266bc4e4b059d50ebe7c553216e60d989fa" sort_order="6" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/uhxpr963RGH8roxG3ShAflmdq1E.jpg" preview="com.plexapp.agents.imdb_b72e3c516338b728e0496e5c2217d68c0aa772a3" sort_order="7" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/9fhv5HaZs2pDBPc1y9ATNBqCbwo.jpg" preview="com.plexapp.agents.imdb_917c64732144ceff903b9b8618d6abf31c0ed5f8" sort_order="8" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/e0e4hNHk2hmYqBuS08iiH6Jn873.jpg" preview="com.plexapp.agents.imdb_a93c3ca067e78539b7084e05d0bb82857c464436" sort_order="9" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/ekIHnFwXtSMJQppLUGvfenZBhnC.jpg" preview="com.plexapp.agents.imdb_6d84d22d90c39e191f54532fb7f50b8750cbf76d" sort_order="10" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/vgaIOHSEHG4ZDnbmHMrQgLoNn63.jpg" preview="com.plexapp.agents.imdb_aacda7ff062b5051b0644978c0b085d91e2ac6fc" sort_order="11" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/poEbo4mx46ZHSdRZMhop3aeNHL3.jpg" preview="com.plexapp.agents.imdb_7e12311093db22dedd96945a15570f09cb0d6946" sort_order="12" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/wgdRk3Mrr0VWUVo8yU89kh7Ufc7.jpg" preview="com.plexapp.agents.imdb_3e55f7757cce79ce20d2ffde835023647a59191e" sort_order="13" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/iYAdDqAJn72dyWLwrRAtUHhzXwq.jpg" preview="com.plexapp.agents.imdb_ea9cd1b4a0a4e67cea7dc76708091f70318f3cf3" sort_order="14" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/iqSadpzzIa1ck2MyU3rNJMY4wnB.jpg" preview="com.plexapp.agents.imdb_9a6d834fff8201745d8084f6c574347bf52135f6" sort_order="15" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/oByhfREYSye2oh53nH1rUzueEfn.jpg" preview="com.plexapp.agents.imdb_6f9265199cd9e36b56c3fa57fc7b829034ac7bfc" sort_order="16" provider="com.plexapp.agents.imdb"/>
+  </art>
+  <banners/>
+  <chapters>
+    <item index="0">
+      <title>Chapter 1</title>
+      <end_time_offset>407000</end_time_offset>
+      <start_time_offset>0</start_time_offset>
+    </item>
+    <item index="1">
+      <title>Chapter 2</title>
+      <end_time_offset>662000</end_time_offset>
+      <start_time_offset>407000</start_time_offset>
+    </item>
+    <item index="2">
+      <title>Chapter 3</title>
+      <end_time_offset>1096000</end_time_offset>
+      <start_time_offset>662000</start_time_offset>
+    </item>
+    <item index="3">
+      <title>Chapter 4</title>
+      <end_time_offset>1454000</end_time_offset>
+      <start_time_offset>1096000</start_time_offset>
+    </item>
+    <item index="4">
+      <title>Chapter 5</title>
+      <end_time_offset>1665000</end_time_offset>
+      <start_time_offset>1454000</start_time_offset>
+    </item>
+    <item index="5">
+      <title>Chapter 6</title>
+      <end_time_offset>1968000</end_time_offset>
+      <start_time_offset>1665000</start_time_offset>
+    </item>
+    <item index="6">
+      <title>Chapter 7</title>
+      <end_time_offset>2178000</end_time_offset>
+      <start_time_offset>1968000</start_time_offset>
+    </item>
+    <item index="7">
+      <title>Chapter 8</title>
+      <end_time_offset>2443000</end_time_offset>
+      <start_time_offset>2178000</start_time_offset>
+    </item>
+    <item index="8">
+      <title>Chapter 9</title>
+      <end_time_offset>2872000</end_time_offset>
+      <start_time_offset>2443000</start_time_offset>
+    </item>
+    <item index="9">
+      <title>Chapter 10</title>
+      <end_time_offset>3190000</end_time_offset>
+      <start_time_offset>2872000</start_time_offset>
+    </item>
+    <item index="10">
+      <title>Chapter 11</title>
+      <end_time_offset>3590000</end_time_offset>
+      <start_time_offset>3190000</start_time_offset>
+    </item>
+    <item index="11">
+      <title>Chapter 12</title>
+      <end_time_offset>3809000</end_time_offset>
+      <start_time_offset>3590000</start_time_offset>
+    </item>
+    <item index="12">
+      <title>Chapter 13</title>
+      <end_time_offset>4079000</end_time_offset>
+      <start_time_offset>3809000</start_time_offset>
+    </item>
+    <item index="13">
+      <title>Chapter 14</title>
+      <end_time_offset>4248000</end_time_offset>
+      <start_time_offset>4079000</start_time_offset>
+    </item>
+    <item index="14">
+      <title>Chapter 15</title>
+      <end_time_offset>4702000</end_time_offset>
+      <start_time_offset>4248000</start_time_offset>
+    </item>
+    <item index="15">
+      <title>Chapter 16</title>
+      <end_time_offset>5063000</end_time_offset>
+      <start_time_offset>4702000</start_time_offset>
+    </item>
+    <item index="16">
+      <title>Chapter 17</title>
+      <end_time_offset>5558000</end_time_offset>
+      <start_time_offset>5063000</start_time_offset>
+    </item>
+    <item index="17">
+      <title>Chapter 18</title>
+      <end_time_offset>6120000</end_time_offset>
+      <start_time_offset>5558000</start_time_offset>
+    </item>
+    <item index="18">
+      <title>Chapter 19</title>
+      <end_time_offset>6494000</end_time_offset>
+      <start_time_offset>6120000</start_time_offset>
+    </item>
+    <item index="19">
+      <title>Chapter 20</title>
+      <end_time_offset>6877000</end_time_offset>
+      <start_time_offset>6494000</start_time_offset>
+    </item>
+    <item index="20">
+      <title>Chapter 21</title>
+      <end_time_offset>-1</end_time_offset>
+      <start_time_offset>6877000</start_time_offset>
+    </item>
+  </chapters>
+  <collections/>
+  <content_rating>R</content_rating>
+  <countries>
+    <item index="0">Germany</item>
+  </countries>
+  <directors>
+    <item index="0">
+      <photo>http://image.tmdb.org/t/p/original/eVSgvAIsP6mwuVbbhVb4HkVvmsu.jpg</photo>
+      <role/>
+      <name>David Leitch</name>
+    </item>
+  </directors>
+  <duration>6900000</duration>
+  <genres>
+    <item index="0">Action</item>
+    <item index="1">Mystery</item>
+    <item index="2">Thriller</item>
+  </genres>
+  <originally_available_at>2017-07-26</originally_available_at>
+  <posters>
+    <item external="True" url="http://image.tmdb.org/t/p/original/kV9R5h0Yct1kR8Hf8sJ1nX0Vz4x.jpg" sort_order="1" provider="com.plexapp.agents.imdb" media="com.plexapp.agents.imdb_58844a757ef06096bbb02df2b67a5807eacc6860"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/ApXiD6hHQ0pZLoVUuiI1NKkpDgS.jpg" preview="com.plexapp.agents.imdb_94d853d69ccca83bd58e725a7dbb28d27443df2e" sort_order="2" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/1VmJ0kEdzKL6poNVQOKqhthLcfI.jpg" preview="com.plexapp.agents.imdb_5db6a29655c593dd1f9c8c1326d8ca4b71b8448d" sort_order="3" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/i56mjD0ExIDHBLnX9K0vFNSzlP7.jpg" preview="com.plexapp.agents.imdb_03bac4e7b2e66bd5a4f94eaf0ce46a330b1693c0" sort_order="4" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/ubdfqMYbHSUP1J0H3KL50DGn4i4.jpg" preview="com.plexapp.agents.imdb_36728210a6b05d93beb73c947d13eb3b7df44a4e" sort_order="5" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/bQfbUEjyGqCFiHp2BeswQm2A2Kv.jpg" preview="com.plexapp.agents.imdb_a07f4d1e9f572d38364b1daecde92b418844c943" sort_order="6" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/o53HwtYMfYExOf5W1OvSztXST4U.jpg" preview="com.plexapp.agents.imdb_dc77a6b99e81e472a9619eab63227f45d1168d7f" sort_order="7" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/tCZRyRiOOgTeOFeG2xAdGsU2nuM.jpg" preview="com.plexapp.agents.imdb_a5463e49091d7ff7b49fe7d4417640946da0e2ba" sort_order="8" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/ewbhQQcZKVaMgDyMNnB5sCBK79k.jpg" preview="com.plexapp.agents.imdb_c174b80c1de31f5c299d4ee356f90e9f2ad1b5cc" sort_order="9" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/2DwxuP8Krg9XnYC1e1zVzdm2nfG.jpg" preview="com.plexapp.agents.imdb_bccd9179a8b4f0016a86495779d6cdfc3f85b345" sort_order="10" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/7NqzmOIhXiUiRrl4chGYbNri6Zx.jpg" preview="com.plexapp.agents.imdb_93f98324cc9669919a3d2bf9c24fe3e063dfd1ed" sort_order="11" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/oHDhfuwNE0hPOBivW1LtXNXDOOv.jpg" preview="com.plexapp.agents.imdb_47a987f20cd2d413d3dfa503df7a980b144e6b81" sort_order="12" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/nEfVxbtvRPiNZbLjpa2ZQEkI2mz.jpg" preview="com.plexapp.agents.imdb_238151de30c56192f168b749ae324b34f67a34dd" sort_order="13" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/tomDCnb0IhZn0w2nEhMNAxrqV1z.jpg" preview="com.plexapp.agents.imdb_3fed921e82307291f02a2fd00e5e8d6ad3b6fb9c" sort_order="14" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/1NkXRRXlyzkntAXPbzaS68Z3riS.jpg" preview="com.plexapp.agents.imdb_706ee54fe7b72fef004627070d5dcc8a33a8d55a" sort_order="15" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/nwPnGqvEvVoyFPqS75ErA6sEQEc.jpg" preview="com.plexapp.agents.imdb_6dd980847f3b52a68a43c5b7136284fefb160e72" sort_order="16" provider="com.plexapp.agents.imdb"/>
+  </posters>
+  <producers>
+    <item index="0">
+      <photo>http://image.tmdb.org/t/p/original/aHOB9UMgSI7MlXF3GMZaVQXqfQg.jpg</photo>
+      <role/>
+      <name>Charlize Theron</name>
+    </item>
+    <item index="1">
+      <photo/>
+      <role/>
+      <name>A.J. Dix</name>
+    </item>
+    <item index="2">
+      <photo/>
+      <role/>
+      <name>Eric Gitter</name>
+    </item>
+    <item index="3">
+      <photo/>
+      <role/>
+      <name>Beth Kono</name>
+    </item>
+    <item index="4">
+      <photo/>
+      <role/>
+      <name>Kelly McCormick</name>
+    </item>
+    <item index="5">
+      <photo/>
+      <role/>
+      <name>Peter Schwerin</name>
+    </item>
+  </producers>
+  <rating>7.7</rating>
+  <rating_image>rottentomatoes://image.rating.ripe</rating_image>
+  <audience_rating>6.4</audience_rating>
+  <audience_rating_image>rottentomatoes://image.rating.spilled</audience_rating_image>
+  <reviews>
+    <item index="0">
+      <text>While it's not a perfect female-centric spy thriller (let's keep trying), Atomic Blonde winks to the future with exciting possibilities.</text>
+      <source>Time Out</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>https://www.timeout.com/us/film/atomic-blonde</link>
+      <author>Tomris Laffly</author>
+    </item>
+    <item index="1">
+      <text>Adapting Sam Hart and Antony Johnston's graphic novel The Coldest City, Kurt Johnstad has written a smart exploitation thriller.</text>
+      <source>Chicago Reader</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>https://www.chicagoreader.com/chicago/atomic-blonde/MovieTimes?oid=27680982</link>
+      <author>Andrea Gronvall</author>
+    </item>
+    <item index="2">
+      <text>The action in Atomic Blonde is top-shelf; but the plot that knits it together, crucial to any good spy film, is a whole lot flimsier.</text>
+      <source>The Atlantic</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>https://www.theatlantic.com/entertainment/archive/2017/07/atomic-blonde-review/535203/</link>
+      <author>David Sims</author>
+    </item>
+    <item index="3">
+      <text>It's a calorie-free serving of simple pleasures, and sometimes that's exactly what you need.</text>
+      <source>BuzzFeed News</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>https://www.buzzfeed.com/alisonwillmore/atomic-blonde-is-awesome?utm_term=.iqAKLoMB7#.erRv7wlD6</link>
+      <author>Alison Willmore</author>
+    </item>
+    <item index="4">
+      <text>Can a woman step into James Bond's shoes? Duh, says Charlize Theron as she performs the cold-as-ice secret agent shtick backwards, and in red patent-leather stilettos, in the engaging spy-vs-spy thriller Atomic Blonde.</text>
+      <source>New York Observer</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>http://observer.com/2017/07/atomic-blonde-review-charlize-theron-james-bond/</link>
+      <author>Thelma Adams</author>
+    </item>
+    <item index="5">
+      <text>You don't go to operas for dancing or ballets for singing, and you don't see Atomic Blonde for anything but a badass female protagonist crunching bones and pulping faces in gratifyingly long takes or remarkable simulations thereof.</text>
+      <source>New York Magazine/Vulture</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>http://www.vulture.com/2017/07/atomic-blonde-has-a-messy-plot-but-the-action-is-smashing.html</link>
+      <author>David Edelstein</author>
+    </item>
+    <item index="6">
+      <text>Perhaps it's not surprising that [Leitch] winds up with something that feels like a tough-minded drama rejiggered into a hard-bodied action-adventure. But it is a bit disappointing. Still, there are consolations.</text>
+      <source>San Diego Reader</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>https://www.sandiegoreader.com/movies/atomic-blonde/</link>
+      <author>Matthew Lickona</author>
+    </item>
+    <item index="7">
+      <text>Atomic Blonde is bold, brazen and frequently bonkers. But it's also killer.</text>
+      <source>Globe and Mail</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>https://www.theglobeandmail.com/arts/film/film-reviews/review-atomic-blonde-blows-up-action-cinema-from-the-inside-out/article35817307/</link>
+      <author>Barry Hertz</author>
+    </item>
+    <item index="8">
+      <text>The way it detonates off the screen makes the film live up to its name. It's atomic, and it's a blast.</text>
+      <source>Detroit News</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>http://www.detroitnews.com/story/entertainment/movies/2017/07/27/review-ice-cold-atomic-blonde-packs-serious-punch/104064562/</link>
+      <author>Adam Graham</author>
+    </item>
+    <item index="9">
+      <text>Theron makes one hell of a superspy, and it's high time she got her "John Wick" moment.</text>
+      <source>New York Post</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>http://nypost.com/2017/07/27/atomic-blonde-is-sexy-ass-kicking-fun/</link>
+      <author>Sara Stewart</author>
+    </item>
+    <item index="10">
+      <text>While it's still an enjoyable novelty to spend time during an action movie wondering where I could buy the hero's boots, it's no substitute for a good story.</text>
+      <source>Seattle Times</source>
+      <image>rottentomatoes://image.review.rotten</image>
+      <link>http://www.seattletimes.com/entertainment/movies/atomic-blonde-review-new-sleek-superspy-deserves-a-stronger-story/?utm_source=RSS&amp;utm_medium=Referral&amp;utm_campaign=RSS_movies</link>
+      <author>Moira MacDonald</author>
+    </item>
+    <item index="11">
+      <text>Atomic Blonde may be high in empty calories, but craftsmanship of this level is rare and exhilarating, and worth surviving some muddled plotting to appreciate.</text>
+      <source>NPR</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>http://www.npr.org/2017/07/27/539213483/-atomic-blonde-is-a-blast?utm_medium=RSS&amp;utm_campaign=movies</link>
+      <author>Scott Tobias</author>
+    </item>
+    <item index="12">
+      <text>Atomic Blonde is the proverbial stained-glass window, only made of very bright and unsubtle neon. Unhindered by other pretensions, however, it marks a brilliant new phase in Theron's career.</text>
+      <source>The New Republic</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>https://newrepublic.com/article/144037/atomic-blonde-charlize-theron-ice</link>
+      <author>Josephine Livingstone</author>
+    </item>
+    <item index="13">
+      <text>As strong and formidable and commandingly tall as Ms. Theron is, she can't rise above the gloom.</text>
+      <source>Wall Street Journal</source>
+      <image>rottentomatoes://image.review.rotten</image>
+      <link>https://www.wsj.com/articles/atomic-blonde-review-explosive-action-fails-to-ignite-1501181060</link>
+      <author>Joe Morgenstern</author>
+    </item>
+    <item index="14">
+      <text>Should this be a series, audiences can look back on Atomic Blonde as the erratic-but-on-to-something near miss that it is, in the way that 007 fans honor Dr. No but acknowledge Goldfinger was where the franchise really took flight.</text>
+      <source>TheWrap</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>http://www.thewrap.com/atomic-blonde-review-charlize-theron/</link>
+      <author>Alonso Duralde</author>
+    </item>
+    <item index="15">
+      <text>If the James Bond franchise people ever get creative and cast a female 007, Charlize Theron will have to be high on their list of possible candidates.</text>
+      <source>Toronto Star</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>https://www.thestar.com/entertainment/movies/2017/07/27/atomic-blonde-makes-case-for-butt-kicking-charlize-theron-as-bond-review.html</link>
+      <author>Peter Howell</author>
+    </item>
+    <item index="16">
+      <text>"Atomic Blonde" may be a delirious exercise in outré nonsense, but it can also be a brutally effective action picture when the inspiration strikes.</text>
+      <source>Los Angeles Times</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>http://www.latimes.com/entertainment/movies/la-et-mn-atomic-blonde-review-20170721-story.html</link>
+      <author>Justin Chang</author>
+    </item>
+    <item index="17">
+      <text>The visuals in Atomic Blonde pop right off the screen. Leitch periodically zooms in for tight close-ups of the stunning Theron, who conveys a world of emotions with a subtle movement of the eyes.</text>
+      <source>Chicago Sun-Times</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>http://chicago.suntimes.com/entertainment/charlize-theron-joins-actions-top-echelon-with-slick-atomic-blonde/</link>
+      <author>Richard Roeper</author>
+    </item>
+    <item index="18">
+      <text>Headlined by a committed Charlize Theron, Atomic Blonde offers the kind of kick-ass female action hero the non-superhero side of the genre could use more of.</text>
+      <source>ReelViews</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>http://www.reelviews.net/reelviews/atomic-blonde</link>
+      <author>James Berardinelli</author>
+    </item>
+    <item index="19">
+      <text>An absolute blast, with a never-sexier Theron in some of the best action scenes to hit a screen.</text>
+      <source>Newsday</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>http://www.newsday.com/entertainment/movies/atomic-blonde-review-charlize-theron-shines-in-explosive-spy-thriller-1.13846440</link>
+      <author>Rafer Guzman</author>
+    </item>
+  </reviews>
+  <roles>
+    <item index="0">
+      <photo>http://image.tmdb.org/t/p/original/aHOB9UMgSI7MlXF3GMZaVQXqfQg.jpg</photo>
+      <role>Lorraine Broughton</role>
+      <name>Charlize Theron</name>
+    </item>
+    <item index="1">
+      <photo>http://image.tmdb.org/t/p/original/oPIfGm3mf4lbmO5pWwMvfTt5BM1.jpg</photo>
+      <role>David Percival</role>
+      <name>James McAvoy</name>
+    </item>
+    <item index="2">
+      <photo>http://image.tmdb.org/t/p/original/btLeUFNIGTxG7FecTMRztSALj6L.jpg</photo>
+      <role>Delphine Lasalle</role>
+      <name>Sofia Boutella</name>
+    </item>
+    <item index="3">
+      <photo>http://image.tmdb.org/t/p/original/scV617yo35FrKYSXEOAROfcblOm.jpg</photo>
+      <role>Spyglass</role>
+      <name>Eddie Marsan</name>
+    </item>
+    <item index="4">
+      <photo>http://image.tmdb.org/t/p/original/9FUBqeLZZGz8Jmk9B18LODG6aky.jpg</photo>
+      <role>Eric Gray</role>
+      <name>Toby Jones</name>
+    </item>
+    <item index="5">
+      <photo>http://image.tmdb.org/t/p/original/eOIx8zj1vYIRhVY2bK5cjIQfua0.jpg</photo>
+      <role>Emmett Kurzfeld</role>
+      <name>John Goodman</name>
+    </item>
+    <item index="6">
+      <photo>http://image.tmdb.org/t/p/original/mRQ9URazBbImeV0NxHZsGS3Px7D.jpg</photo>
+      <role>Watchmaker</role>
+      <name>Til Schweiger</name>
+    </item>
+    <item index="7">
+      <photo>http://image.tmdb.org/t/p/original/dNBVysW90WipOgX81sAsvxtvddF.jpg</photo>
+      <role>Merkel</role>
+      <name>Bill Skarsgård</name>
+    </item>
+    <item index="8">
+      <photo>http://image.tmdb.org/t/p/original/hIXsvwjcSwwn9elGLOCOD51M7Nb.jpg</photo>
+      <role>Chief 'C'</role>
+      <name>James Faulkner</name>
+    </item>
+    <item index="9">
+      <photo>http://image.tmdb.org/t/p/original/dwiea1eFTI6N4KlvNOP7dnFyPUD.jpg</photo>
+      <role>Aleksander Bremovych</role>
+      <name>Roland Møller</name>
+    </item>
+    <item index="10">
+      <photo>http://image.tmdb.org/t/p/original/yoBwA59oJtaMaWBk4wFmsMLnGNJ.jpg</photo>
+      <role>James Gasciogne</role>
+      <name>Sam Hargrave</name>
+    </item>
+    <item index="11">
+      <photo>http://image.tmdb.org/t/p/original/hPpWez6kcvBd8Y0Jb0L5u969adL.jpg</photo>
+      <role>Yuri Bakhtin</role>
+      <name>Jóhannes Haukur Jóhannesson</name>
+    </item>
+    <item index="12">
+      <photo>http://image.tmdb.org/t/p/original/gd9XPRPfZXSpEI2u5DGzWrIiu1q.jpg</photo>
+      <role>Helena</role>
+      <name>Lili Gesler</name>
+    </item>
+    <item index="13">
+      <photo/>
+      <role>Audrey</role>
+      <name>Sara Natasa Szonda</name>
+    </item>
+    <item index="14">
+      <photo>http://image.tmdb.org/t/p/original/fjbYJtD0Ci2k7ImRgcKpNBbiruM.jpg</photo>
+      <role>Boris</role>
+      <name>Cale Schultz</name>
+    </item>
+    <item index="15">
+      <photo>http://image.tmdb.org/t/p/original/mGKhBMI9P2teTXC1v9HgS3WtL73.jpg</photo>
+      <role>Coroner</role>
+      <name>Barbara Sukowa</name>
+    </item>
+    <item index="16">
+      <photo>http://image.tmdb.org/t/p/original/8QdXIFpA4eCSM97wVyD0MD7Bw8R.jpg</photo>
+      <role>East German Guard #1</role>
+      <name>Attila Árpa</name>
+    </item>
+    <item index="17">
+      <photo>http://image.tmdb.org/t/p/original/wUNLjf41QjFeLgkYiYOJVzT7dfx.jpg</photo>
+      <role>East German Guard #2</role>
+      <name>Martin Angerbauer</name>
+    </item>
+    <item index="18">
+      <photo>http://image.tmdb.org/t/p/original/h4ngh7xvyRIwTT18g6En7xGwyHo.jpg</photo>
+      <role>Driver</role>
+      <name>Declan Hannigan</name>
+    </item>
+    <item index="19">
+      <photo/>
+      <role>Gentleman</role>
+      <name>Balázs Lengyel</name>
+    </item>
+    <item index="20">
+      <photo>http://image.tmdb.org/t/p/original/iLjQxDKgMP3Ou8T59800KSyyt0v.jpg</photo>
+      <role>Sniper</role>
+      <name>Daniel Hargrave</name>
+    </item>
+    <item index="21">
+      <photo>http://image.tmdb.org/t/p/original/5O3grBZl0Fg4bST6IDBmHhnBFKb.jpg</photo>
+      <role>Spotter</role>
+      <name>Greg Rementer</name>
+    </item>
+    <item index="22">
+      <photo>http://image.tmdb.org/t/p/original/xu8MSrkaP5PH2VlkOAfdRYF8wnB.jpg</photo>
+      <role>Soldier</role>
+      <name>Daniel Bernhardt</name>
+    </item>
+  </roles>
+  <similar>
+    <item index="0">American Made</item>
+    <item index="1">The Hitman's Bodyguard</item>
+    <item index="2">The Dark Tower</item>
+    <item index="3">Kingsman: The Golden Circle</item>
+    <item index="4">Baby Driver</item>
+    <item index="5">Valerian and the City of a Thousand Planets</item>
+    <item index="6">Wind River</item>
+    <item index="7">Logan Lucky</item>
+    <item index="8">Ghost in the Shell</item>
+    <item index="9">King Arthur: Legend of the Sword</item>
+    <item index="10">Blade Runner 2049</item>
+    <item index="11">John Wick: Chapter 2</item>
+    <item index="12">The Mummy</item>
+    <item index="13">War for the Planet of the Apes</item>
+    <item index="14">The Foreigner</item>
+    <item index="15">Justice League</item>
+    <item index="16">Life</item>
+    <item index="17">American Assassin</item>
+    <item index="18">Unlocked</item>
+    <item index="19">Colossal</item>
+  </similar>
+  <studio>Denver and Delilah Productions</studio>
+  <summary>An undercover MI6 agent is sent to Berlin during the Cold War to investigate the murder of a fellow agent and recover a missing list of double agents.</summary>
+  <tagline>Talents can be overrated.</tagline>
+  <tags/>
+  <themes/>
+  <title>Atomic Blonde</title>
+  <writers>
+    <item index="0">
+      <photo>http://image.tmdb.org/t/p/original/tY7geoJ3T4kBnehGe4i26YQx4yL.jpg</photo>
+      <role/>
+      <name>Kurt Johnstad</name>
+    </item>
+  </writers>
+  <year>2017</year>
+</Movie>

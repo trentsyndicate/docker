@@ -1,0 +1,458 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Movie>
+  <art>
+    <item external="True" url="http://image.tmdb.org/t/p/original/4aYLyhoMCuAz44k92nt1xJq5wu5.jpg" sort_order="1" provider="com.plexapp.agents.imdb" media="com.plexapp.agents.imdb_2b66f1dc1a16eb1d4589a5b7cb84f97f8af3b68c"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/vJfivaGbEvDLJgZGthUUVBLeFB5.jpg" preview="com.plexapp.agents.imdb_ef60eaceb0fd03463dc6e0dc5fa057e8f7cc9415" sort_order="2" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/41vanBJhYWuACVHvX7rk2Jmqbb4.jpg" preview="com.plexapp.agents.imdb_79a8cdb08323942b320d19acf9733565f934e63f" sort_order="3" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/7m9oCNqS6cFZBSNBWNEP1TFN1lm.jpg" preview="com.plexapp.agents.imdb_a51fb079b9832775b318347e7561aebaa88ea6e8" sort_order="4" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/w1oNwdtLbfARmvwh3envfo7QV1f.jpg" preview="com.plexapp.agents.imdb_435f16212d965316058b22e5067a944128280372" sort_order="5" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/2N5F2Uhc5zFccLsBkZnedWeKLiJ.jpg" preview="com.plexapp.agents.imdb_c6b80f0f4fe8ef8948cb8983b7df5a0d8b272bb4" sort_order="6" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/A6cGrnTo4TeDr8RrZAvfqYDDFDo.jpg" preview="com.plexapp.agents.imdb_003624cae1d0e6c6cafadee315d6b4045128243a" sort_order="7" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/cY0orPcbvIdQzQ3lZ5CKgT6dOp6.jpg" preview="com.plexapp.agents.imdb_b09aec4160f255fb1f16e2eff19151e4c90de38a" sort_order="8" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/aZoZ0NglXgiBMToem9HhTAYYamw.jpg" preview="com.plexapp.agents.imdb_4ecc8c89cffce4fd4bf7530bddde296cea1f775c" sort_order="9" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/tnooCTz7FvBIQvq5ZW7wtXacChy.jpg" preview="com.plexapp.agents.imdb_e0352d5d7d5f2162214a08d7ac90c1be23ff254a" sort_order="10" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/yJ5tUMjqVlOLqlaxL4ATDJivjLD.jpg" preview="com.plexapp.agents.imdb_05165632c5e570656d183f5655212ab3a7aedc98" sort_order="11" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/8K13ChawvPbQQAFEwlmikcmZyUD.jpg" preview="com.plexapp.agents.imdb_13d18b7c3efef585f7e453e08c4881329775a3b3" sort_order="12" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/xWHyjaqeSxyWyiptL9fuWlYPugq.jpg" preview="com.plexapp.agents.imdb_de814a71a686508951e6cbe65c0bc62850432188" sort_order="13" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/qcWUzAumOrQyypDk0jcKlInhUgk.jpg" preview="com.plexapp.agents.imdb_fa53613b9943da5d564c6b07bd7b369781fd701d" sort_order="14" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/9Gm1SysTyoZ2Fn1AwqiHnz26nM3.jpg" preview="com.plexapp.agents.imdb_e15930059576039ded9b414bcfb2369914e323d5" sort_order="15" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/97fGAcmT4TSXarqWlABcLaoGJGJ.jpg" preview="com.plexapp.agents.imdb_6b887e4955a35b97b1ea406998fd40cb7dcd608c" sort_order="16" provider="com.plexapp.agents.imdb"/>
+  </art>
+  <banners/>
+  <chapters>
+    <item index="0">
+      <title>Chapter 1</title>
+      <end_time_offset>727000</end_time_offset>
+      <start_time_offset>0</start_time_offset>
+    </item>
+    <item index="1">
+      <title>Chapter 2</title>
+      <end_time_offset>1279000</end_time_offset>
+      <start_time_offset>727000</start_time_offset>
+    </item>
+    <item index="2">
+      <title>Chapter 3</title>
+      <end_time_offset>2011000</end_time_offset>
+      <start_time_offset>1279000</start_time_offset>
+    </item>
+    <item index="3">
+      <title>Chapter 4</title>
+      <end_time_offset>2557000</end_time_offset>
+      <start_time_offset>2011000</start_time_offset>
+    </item>
+    <item index="4">
+      <title>Chapter 5</title>
+      <end_time_offset>3092000</end_time_offset>
+      <start_time_offset>2557000</start_time_offset>
+    </item>
+    <item index="5">
+      <title>Chapter 6</title>
+      <end_time_offset>4005000</end_time_offset>
+      <start_time_offset>3092000</start_time_offset>
+    </item>
+    <item index="6">
+      <title>Chapter 7</title>
+      <end_time_offset>4394000</end_time_offset>
+      <start_time_offset>4005000</start_time_offset>
+    </item>
+    <item index="7">
+      <title>Chapter 8</title>
+      <end_time_offset>5003000</end_time_offset>
+      <start_time_offset>4394000</start_time_offset>
+    </item>
+    <item index="8">
+      <title>Chapter 9</title>
+      <end_time_offset>5627000</end_time_offset>
+      <start_time_offset>5003000</start_time_offset>
+    </item>
+    <item index="9">
+      <title>Chapter 10</title>
+      <end_time_offset>6202000</end_time_offset>
+      <start_time_offset>5627000</start_time_offset>
+    </item>
+    <item index="10">
+      <title>Chapter 11</title>
+      <end_time_offset>6780000</end_time_offset>
+      <start_time_offset>6202000</start_time_offset>
+    </item>
+    <item index="11">
+      <title>Chapter 12</title>
+      <end_time_offset>-1</end_time_offset>
+      <start_time_offset>6780000</start_time_offset>
+    </item>
+  </chapters>
+  <collections/>
+  <content_rating>PG-13</content_rating>
+  <countries>
+    <item index="0">USA</item>
+  </countries>
+  <directors>
+    <item index="0">
+      <photo>http://image.tmdb.org/t/p/original/qdtdnNLSsaXZmpwOqXuQB3xU2uL.jpg</photo>
+      <role/>
+      <name>Ron Howard</name>
+    </item>
+  </directors>
+  <duration>7320000</duration>
+  <genres>
+    <item index="0">Action</item>
+    <item index="1">Adventure</item>
+    <item index="2">Biography</item>
+    <item index="3">Drama</item>
+    <item index="4">History</item>
+    <item index="5">Thriller</item>
+  </genres>
+  <originally_available_at>2015-11-20</originally_available_at>
+  <posters>
+    <item external="True" url="http://image.tmdb.org/t/p/original/uekIGnzTACciWrfR7jOuof7xHgR.jpg" sort_order="1" provider="com.plexapp.agents.imdb" media="com.plexapp.agents.imdb_4b9dd5baa94eeaeeb987b20b3e5441bad7cb07cd"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/zVmWh0Zfg4UhbvdGI8LQrn1lQZJ.jpg" preview="com.plexapp.agents.imdb_f804ab89ba87061465e101c6a9e5ab78f135615b" sort_order="2" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/fhZGM0R1E4utCb94avpgB0xzk8V.jpg" preview="com.plexapp.agents.imdb_3ada129cf76f85b3f637d51590b102ddda1a15d3" sort_order="3" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/hFMtlvrkusoN4roS2LLepqxKKya.jpg" preview="com.plexapp.agents.imdb_b96c1c400acff0b268e3d5f09a40c6c43cd4f7bf" sort_order="4" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/gLZEULfcS3uhfWDSEclOUgWiN41.jpg" preview="com.plexapp.agents.imdb_dc7d90e23ecf8d36eefcffc3384b7362cd745831" sort_order="5" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/mVdrmJSVb3wNjbaBzBMkTsPIdOL.jpg" preview="com.plexapp.agents.imdb_76f9f8db38e93e194545f7ff3e928121fffd7d31" sort_order="6" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/jz5eZTCgryF39AQEVRyf07QXeSD.jpg" preview="com.plexapp.agents.imdb_288dfbdb80032858f770b6f472f87e4cf13f158d" sort_order="7" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/8l38zOcY887bh4BhQpA3OxUYXCa.jpg" preview="com.plexapp.agents.imdb_b2c96f4fb8032f7cc59e4902d5adbe0880ba7ac8" sort_order="8" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/v9Y3wxLu876vyJ4PoHiQSkKn8pd.jpg" preview="com.plexapp.agents.imdb_6e4d67a8e3696af9358f3ad7d6ded4c3d9fb9db4" sort_order="9" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/tlUAPWD7cZloCzCCs74BlbOvt5M.jpg" preview="com.plexapp.agents.imdb_3a9f47c1455fc9cfc99fd012245c0654520c2d88" sort_order="10" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/9VoVZQsQdE05whBsmJeO0rhjbNt.jpg" preview="com.plexapp.agents.imdb_212fda1c7396b82bfcf071c6d3aaae1c0572745b" sort_order="11" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/lZh0Sv7leKLVVIpLgTWKYk5f9RC.jpg" preview="com.plexapp.agents.imdb_bbb88f7c6ec15f7615a1d58fe87d911fe03ec098" sort_order="12" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/msv0AKP9J0vw5Il7AVaqPNoydpr.jpg" preview="com.plexapp.agents.imdb_f5f14070c0f3e39cedbd33c2c0ca55ffed23d897" sort_order="13" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/zEVSjtJsyL8nVytHDgAZtPjw428.jpg" preview="com.plexapp.agents.imdb_59f14328fd65a5e806c1f4896288d7b2c624d4ff" sort_order="14" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/yChB1BBfkSXFU1WmwFIEfZwUZFe.jpg" preview="com.plexapp.agents.imdb_0120d5ffcd3a894bd288294f248be1e95f60a0cd" sort_order="15" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/1Tz9CXESi3qXlY3xlOQ803jJyzf.jpg" preview="com.plexapp.agents.imdb_a741a32b293ae63779012193342724c465c0c8a0" sort_order="16" provider="com.plexapp.agents.imdb"/>
+  </posters>
+  <producers>
+    <item index="0">
+      <photo/>
+      <role/>
+      <name>Will Ward</name>
+    </item>
+    <item index="1">
+      <photo>http://image.tmdb.org/t/p/original/yqiKX3auDuorea0BOtuB6Ifhyp6.jpg</photo>
+      <role/>
+      <name>Brian Grazer</name>
+    </item>
+    <item index="2">
+      <photo>http://image.tmdb.org/t/p/original/qdtdnNLSsaXZmpwOqXuQB3xU2uL.jpg</photo>
+      <role/>
+      <name>Ron Howard</name>
+    </item>
+    <item index="3">
+      <photo>http://image.tmdb.org/t/p/original/lUtmB3mtMPrA5hhoEwZBeX1U5uL.jpg</photo>
+      <role/>
+      <name>Joe Roth</name>
+    </item>
+    <item index="4">
+      <photo/>
+      <role/>
+      <name>Paula Weinstein</name>
+    </item>
+  </producers>
+  <rating>4.2</rating>
+  <rating_image>rottentomatoes://image.rating.rotten</rating_image>
+  <audience_rating>5.3</audience_rating>
+  <audience_rating_image>rottentomatoes://image.rating.spilled</audience_rating_image>
+  <reviews>
+    <item index="0">
+      <text>Warner Bros. would have been better off sticking with the film's original March release date and selling it as a horror movie.</text>
+      <source>New York Post</source>
+      <image>rottentomatoes://image.review.rotten</image>
+      <link>http://nypost.com/2015/12/10/ron-howards-new-moby-dick-movie-is-not-see-worthy/</link>
+      <author>Lou Lumenick</author>
+    </item>
+    <item index="1">
+      <text>If you want a Ron Howard movie about a man obsessed with a creature from the deep, "In the Heart of the Sea," sadly, is not the place to start. Try "Splash."</text>
+      <source>New Yorker</source>
+      <image>rottentomatoes://image.review.rotten</image>
+      <link>http://www.newyorker.com/magazine/2015/12/21/deep-and-dark</link>
+      <author>Anthony Lane</author>
+    </item>
+    <item index="2">
+      <text>If a silent whale is your most magnetic screen presence, he should probably appear for more than a few minutes.</text>
+      <source>The Atlantic</source>
+      <image>rottentomatoes://image.review.rotten</image>
+      <link>http://www.theatlantic.com/entertainment/archive/2015/12/in-the-heart-of-the-sea-review/420027/</link>
+      <author>David Sims</author>
+    </item>
+    <item index="3">
+      <text>There's a hollow at the heart of things, a strange decency and politeness for a film that strives to depict, in epic form, man's dark and visceral struggle with the world and himself.</text>
+      <source>San Diego Reader</source>
+      <image>rottentomatoes://image.review.rotten</image>
+      <link>http://www.sandiegoreader.com/movies/in-the-heart-of-the-sea/</link>
+      <author>Matthew Lickona</author>
+    </item>
+    <item index="4">
+      <text>If the movie accomplishes nothing else, though, I hope it inspires the curious to actually sit down and finally read Moby-Dick.</text>
+      <source>Christian Science Monitor</source>
+      <image>rottentomatoes://image.review.rotten</image>
+      <link>http://www.csmonitor.com/The-Culture/Movies/2015/1211/In-the-Heart-of-the-Sea-is-serviceable-but-mostly-unstirring</link>
+      <author>Peter Rainer</author>
+    </item>
+    <item index="5">
+      <text>Most of the second half is spent drifting with them on lifeboats. In these interminable minutes, we don't get anything resembling an understanding of how they survived (or didn't) either mentally or physically.</text>
+      <source>Associated Press</source>
+      <image>rottentomatoes://image.review.rotten</image>
+      <link>http://www.ocregister.com/articles/melville-695435-big-something.html</link>
+      <author>Lindsey Bahr</author>
+    </item>
+    <item index="6">
+      <text>A few scenes in In the Heart of the Sea hint at how effective the film might have been if told purely as a gripping story of man versus nature.</text>
+      <source>The New Republic</source>
+      <image>rottentomatoes://image.review.rotten</image>
+      <link>https://newrepublic.com/article/125601/hollywood-chases-white-whale</link>
+      <author>Gwyneth Kelly</author>
+    </item>
+    <item index="7">
+      <text>The meat-and-potatoes Howard is uncomfortable in the realm of the spirit, or the metaphysical. He can film objects, and he can film people, but he can't quite film emptiness. The cosmic vastness of the sea eludes him.</text>
+      <source>New York Magazine/Vulture</source>
+      <image>rottentomatoes://image.review.rotten</image>
+      <link>http://www.vulture.com/2015/12/review-in-the-heart-of-the-sea.html</link>
+      <author>Bilge Ebiri</author>
+    </item>
+    <item index="8">
+      <text>At the heart of the problem with this period piece is an absence of a riveting scene or a memorable slice of dialogue.</text>
+      <source>Globe and Mail</source>
+      <image>rottentomatoes://image.review.rotten</image>
+      <link>http://www.theglobeandmail.com/arts/film/film-reviews/in-the-heart-of-the-sea-action-film-is-an-underwhelming-voyage/article27691709/</link>
+      <author>Brad Wheeler</author>
+    </item>
+    <item index="9">
+      <text>A lumbering sea adventure that never finds its bearings, Ron Howard's "In the Heart of the Sea" is a whale of a dud.</text>
+      <source>Detroit News</source>
+      <image>rottentomatoes://image.review.rotten</image>
+      <link>http://www.detroitnews.com/story/entertainment/movies/2015/12/10/movie-review-whale-tale-heart-sea-wet/77129932/</link>
+      <author>Adam Graham</author>
+    </item>
+    <item index="10">
+      <text>It is so very many different things, but they all feel detached from each other, almost like a bunch of self-contained mini-movies stitched end-to-end, with the framing device serving as needle and thread.</text>
+      <source>RogerEbert.com</source>
+      <image>rottentomatoes://image.review.rotten</image>
+      <link>http://www.rogerebert.com/reviews/in-the-heart-of-the-sea-2015</link>
+      <author>Matt Zoller Seitz</author>
+    </item>
+    <item index="11">
+      <text>Howard creates an immersive, gorgeously shot experience pitting man against beast in the ocean for the film's most spectacular scenes, which are reminiscent of old-school scope of Mutiny on the Bounty and other watery adventures of yesteryear.</text>
+      <source>USA Today</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>http://www.usatoday.com/story/life/movies/2015/12/10/review-in-the-heart-of-the-sea-movie/77059200/</link>
+      <author>Brian Truitt</author>
+    </item>
+    <item index="12">
+      <text>All the accents in this movie sound as if the actors had been coached to talk like Red Sox fans magically transported to the 1820s.</text>
+      <source>Boston Globe</source>
+      <image>rottentomatoes://image.review.rotten</image>
+      <link>http://www.bostonglobe.com/arts/movies/2015/12/10/heart-sea-epic-and-ridiculous/DTQNrmuO03dDervDH5BhTO/story.html</link>
+      <author>Ty Burr</author>
+    </item>
+    <item index="13">
+      <text>Visually and viscerally, the film provides reasons to pay the price of admission and see it in a theater.</text>
+      <source>ReelViews</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>http://www.reelviews.net/reelviews/in-the-heart-of-the-sea</link>
+      <author>James Berardinelli</author>
+    </item>
+    <item index="14">
+      <text>The biggest mistake here ... is a misbegotten decorousness that sinks the movie, stoving it as calamitously as an enraged whale.</text>
+      <source>New York Times</source>
+      <image>rottentomatoes://image.review.rotten</image>
+      <link>http://www.nytimes.com/2015/12/11/movies/review-in-the-heart-of-the-sea-its-man-vs-leviathan.html?partner=rss&amp;emc=rss</link>
+      <author>Manohla Dargis</author>
+    </item>
+    <item index="15">
+      <text>The Essex becomes a stand-in for humanity's relationship with vengeful God and it's too much for the film to handle, especially when it relies so much on the author himself to give it significance. Leave that to Moby-Dick.</text>
+      <source>NPR</source>
+      <image>rottentomatoes://image.review.rotten</image>
+      <link>http://www.npr.org/2015/12/10/459120696/theres-entirely-too-much-melville-in-the-heart-of-the-sea?utm_medium=RSS&amp;utm_campaign=movies</link>
+      <author>Scott Tobias</author>
+    </item>
+    <item index="16">
+      <text>It is mounted as a handsome period piece in period style, except for the modern special effects to make the close-ups of the whale look real. But it is also a bridge to modern thinking and a desperately thrilling adventure story.</text>
+      <source>Toronto Sun</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>http://www.torontosun.com/2015/12/10/in-the-heart-of-the-sea-review-chris-hemsworth-and-ron-howards-latest-a-breathtaking-adventure</link>
+      <author>Bruce Kirkland</author>
+    </item>
+    <item index="17">
+      <text>Alternately awesome and wooden.</text>
+      <source>Chicago Reader</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>http://www.chicagoreader.com/chicago/in-the-heart-of-the-sea/MovieTimes?oid=20134536</link>
+      <author>J. R. Jones</author>
+    </item>
+    <item index="18">
+      <text>Ron Howard's grand maritime adventure has spectacular effects, literary polish and just the right touch of modern-day relevance.</text>
+      <source>Newsday</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>http://www.newsday.com/entertainment/movies/in-the-heart-of-the-sea-review-ron-howard-s-whale-tale-1.11214962</link>
+      <author>Rafer Guzman</author>
+    </item>
+  </reviews>
+  <roles>
+    <item index="0">
+      <photo>http://image.tmdb.org/t/p/original/lrhth7yK9p3vy6p7AabDUM1THKl.jpg</photo>
+      <role>Owen Chase</role>
+      <name>Chris Hemsworth</name>
+    </item>
+    <item index="1">
+      <photo>http://image.tmdb.org/t/p/original/zd56RC1ifqvQyA90cjtvYD4sO3I.jpg</photo>
+      <role>George Pollard</role>
+      <name>Benjamin Walker</name>
+    </item>
+    <item index="2">
+      <photo>http://image.tmdb.org/t/p/original/gybXt7gjFCeV67l3jgJtp6Pxm77.jpg</photo>
+      <role>Matthew Joy</role>
+      <name>Cillian Murphy</name>
+    </item>
+    <item index="3">
+      <photo>http://image.tmdb.org/t/p/original/pUTBk2sqFgg4aFBXHckD0qKLUYP.jpg</photo>
+      <role>Old Thomas Nickerson</role>
+      <name>Brendan Gleeson</name>
+    </item>
+    <item index="4">
+      <photo>http://image.tmdb.org/t/p/original/e74Cz65ifeNb9zHfUTvF5rTix0d.jpg</photo>
+      <role>Herman Melville</role>
+      <name>Ben Whishaw</name>
+    </item>
+    <item index="5">
+      <photo>http://image.tmdb.org/t/p/original/j8lQfEPHCKWV2QCiJJuH97CnoBX.jpg</photo>
+      <role>Mrs. Nickerson</role>
+      <name>Michelle Fairley</name>
+    </item>
+    <item index="6">
+      <photo>http://image.tmdb.org/t/p/original/dO9FYcPPShhiYQ9D50Takd2W8xo.jpg</photo>
+      <role>Young Thomas Nickerson</role>
+      <name>Tom Holland</name>
+    </item>
+    <item index="7">
+      <photo>http://image.tmdb.org/t/p/original/nds5rTBZvJ4rEsP4N6OaoEgQDkW.jpg</photo>
+      <role>Thomas Chappel</role>
+      <name>Paul Anderson</name>
+    </item>
+    <item index="8">
+      <photo>http://image.tmdb.org/t/p/original/jdNfDnobcHRrw424GWwmkkktE5x.jpg</photo>
+      <role>Owen Coffin</role>
+      <name>Frank Dillane</name>
+    </item>
+    <item index="9">
+      <photo>http://image.tmdb.org/t/p/original/bJVvO7h2OVoboF5H8sTjjnfM8Ov.jpg</photo>
+      <role>Benjamin Lawrence</role>
+      <name>Joseph Mawle</name>
+    </item>
+    <item index="10">
+      <photo>http://image.tmdb.org/t/p/original/zO5aQY69zkHddWhvyKNcAairFVm.jpg</photo>
+      <role>Barzallai Ray</role>
+      <name>Edward Ashley</name>
+    </item>
+    <item index="11">
+      <photo>http://image.tmdb.org/t/p/original/oZyfvDJaTdQXAJmwGDCSZJdydjW.jpg</photo>
+      <role>Ramsdell</role>
+      <name>Sam Keeley</name>
+    </item>
+    <item index="12">
+      <photo>http://image.tmdb.org/t/p/original/xXG5aCvSUmnW3Fe0OyBnvjROaij.jpg</photo>
+      <role>Richard Peterson</role>
+      <name>Osy Ikhile</name>
+    </item>
+    <item index="13">
+      <photo>http://image.tmdb.org/t/p/original/wAfCxTHdhMpG7FX8OrCgyqzUeDG.jpg</photo>
+      <role>William Bond</role>
+      <name>Gary Beadle</name>
+    </item>
+    <item index="14">
+      <photo>http://image.tmdb.org/t/p/original/92BcXrr2W7gZri6xVlLhpLLaPsf.jpg</photo>
+      <role>Isaac Cole</role>
+      <name>Jamie Sives</name>
+    </item>
+    <item index="15">
+      <photo>http://image.tmdb.org/t/p/original/bIm8qHQXklaukpQgOa3ghmFZ3IU.jpg</photo>
+      <role>Sheppard</role>
+      <name>Morgan Chetcuti</name>
+    </item>
+    <item index="16">
+      <photo>http://image.tmdb.org/t/p/original/pkiZKysfb0oXvaBBm6zWQkWSvVu.jpg</photo>
+      <role>Peggy</role>
+      <name>Charlotte Riley</name>
+    </item>
+    <item index="17">
+      <photo>http://image.tmdb.org/t/p/original/y71QhccNtxrU0XoX7Rc8EEuiy4H.jpg</photo>
+      <role>Pollard Senior</role>
+      <name>Nicholas Jones</name>
+    </item>
+    <item index="18">
+      <photo>http://image.tmdb.org/t/p/original/gqNTtHmpiUs4bbGhHTNPSJUR6ZW.jpg</photo>
+      <role>Paul Macy</role>
+      <name>Donald Sumpter</name>
+    </item>
+    <item index="19">
+      <photo>http://image.tmdb.org/t/p/original/eRLxQ7sTWqtI24OPo5wz3p95RI3.jpg</photo>
+      <role>Benjamin Fuller</role>
+      <name>Richard Bremmer</name>
+    </item>
+    <item index="20">
+      <photo>http://image.tmdb.org/t/p/original/2XEuPT0T9SRwcpsOXD9vMpm4Vad.jpg</photo>
+      <role>Spanish Captain</role>
+      <name>Jordi Mollà</name>
+    </item>
+    <item index="21">
+      <photo>http://image.tmdb.org/t/p/original/7FIjLagr4FeAMuCFDVz6HrnN5b4.jpg</photo>
+      <role>Nantucket Townswoman</role>
+      <name>Hayley Joanne Bacon</name>
+    </item>
+    <item index="22">
+      <photo>http://image.tmdb.org/t/p/original/eeDWSSZNHbM9M5kiCoDe1ywT2GE.jpg</photo>
+      <role>Customs Officer</role>
+      <name>Andrew Crayford</name>
+    </item>
+    <item index="23">
+      <photo>http://image.tmdb.org/t/p/original/qH8uAk54Sj4RjBKjA4nGaC2oDok.jpg</photo>
+      <role>Nantucket Townswoman</role>
+      <name>Claudia Newman</name>
+    </item>
+    <item index="24">
+      <photo>http://image.tmdb.org/t/p/original/yvblj5nqxW7QOTnDWEooKLyGfB3.jpg</photo>
+      <role>Nantucket Passenger</role>
+      <name>Daniel Westwood</name>
+    </item>
+    <item index="25">
+      <photo>http://image.tmdb.org/t/p/original/pBqaMoCdnJdgw0M4gQFe1k486Fo.jpg</photo>
+      <role>John Sanborn</role>
+      <name>Andy Wareham</name>
+    </item>
+  </roles>
+  <similar>
+    <item index="0">Everest</item>
+    <item index="1">The Finest Hours</item>
+    <item index="2">Victor Frankenstein</item>
+    <item index="3">The Last Witch Hunter</item>
+    <item index="4">Black Mass</item>
+    <item index="5">The Walk</item>
+    <item index="6">Exodus: Gods and Kings</item>
+    <item index="7">Bridge of Spies</item>
+    <item index="8">The 33</item>
+    <item index="9">Concussion</item>
+    <item index="10">Legend</item>
+    <item index="11">No Escape</item>
+    <item index="12">Point Break</item>
+    <item index="13">Pan</item>
+    <item index="14">Black Sea</item>
+    <item index="15">London Has Fallen</item>
+    <item index="16">The Huntsman: Winter's War</item>
+    <item index="17">Self/less</item>
+    <item index="18">Creed</item>
+    <item index="19">Gods of Egypt</item>
+  </similar>
+  <studio>Imagine Entertainment</studio>
+  <summary>In the winter of 1820, the New England whaling ship Essex was assaulted by something no one could believe: a whale of mammoth size and will, and an almost human sense of vengeance.  The real-life maritime disaster would inspire Herman Melville’s Moby Dick.  But that told only half the story.  “Heart of the Sea” reveals the encounter’s harrowing aftermath, as the ship’s surviving crew is pushed to their limits and forced to do the unthinkable to stay alive.  Braving storms, starvation, panic and despair, the men will call into question their deepest beliefs, from the value of their lives to the morality of their trade, as their captain searches for direction on the open sea and his first mate still seeks to bring the great whale down.</summary>
+  <tagline>Based on the incredible true story that inspired Moby Dick</tagline>
+  <tags/>
+  <themes/>
+  <title>In the Heart of the Sea</title>
+  <writers>
+    <item index="0">
+      <photo/>
+      <role/>
+      <name>Charles Leavitt</name>
+    </item>
+  </writers>
+  <year>2015</year>
+</Movie>

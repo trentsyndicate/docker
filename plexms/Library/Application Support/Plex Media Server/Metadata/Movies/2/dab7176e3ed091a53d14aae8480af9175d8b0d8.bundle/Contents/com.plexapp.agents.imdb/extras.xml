@@ -1,0 +1,83 @@
+<?xml version='1.0' encoding='utf-8'?>
+<MediaContainer size="4" identifier="com.plexapp.agents.imdb" mediaTagPrefix="/system/bundle/media/flags/" prefsKey="/:/plugins/com.plexapp.agents.imdb/prefs">
+  <Video url="iva://api.internetvideoarchive.com/2.0/DataService/VideoAssets(124030)?lang=en&amp;bitrates=80,212,450,750,1500,2500,5000,8000&amp;duration=138&amp;adaptive=1&amp;dts=0" key="/system/services/url/lookup?url=iva%3A%2F%2Fapi.internetvideoarchive.com%2F2.0%2FDataService%2FVideoAssets%28124030%29%3Flang%3Den%26bitrates%3D80%2C212%2C450%2C750%2C1500%2C2500%2C5000%2C8000%26duration%3D138%26adaptive%3D1%26dts%3D0" type="clip" relationType="trailer" year="2015" title="The Bourne Ultimatum" originallyAvailableAt="2015-04-08" thumb="https://iva-images.plex.tv/content/hdphotos/9526/009526/009526_1280x720_124030_008_1.jpg" ratingKey="iva://api.internetvideoarchive.com/2.0/DataService/VideoAssets(124030)?lang=en&amp;bitrates=80,212,450,750,1500,2500,5000,8000&amp;duration=138&amp;adaptive=1&amp;dts=0">
+    <Media container="mp4" height="1080" width="1920" audioCodec="aac" duration="138000" videoCodec="h264" bitrate="2500">
+      <Part duration="138000" key="/services/iva/assets/124030/video.mp4?bitrate=2500" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="1080" width="1920" codec="h264" bitrate="2500" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+    <Media container="mp4" height="720" width="1280" audioCodec="aac" duration="138000" videoCodec="h264" bitrate="1500">
+      <Part duration="138000" key="/services/iva/assets/124030/video.mp4?bitrate=1500" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="720" width="1280" codec="h264" bitrate="1500" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+    <Media container="mp4" height="480" width="640" audioCodec="aac" duration="138000" videoCodec="h264" bitrate="450">
+      <Part duration="138000" key="/services/iva/assets/124030/video.mp4?bitrate=450" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="480" width="640" codec="h264" bitrate="450" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+  </Video>
+  <Video url="iva://api.internetvideoarchive.com/2.0/DataService/VideoAssets(274450)?lang=en&amp;bitrates=80,212,450,750,1500,8000&amp;duration=131&amp;adaptive=1&amp;dts=0" key="/system/services/url/lookup?url=iva%3A%2F%2Fapi.internetvideoarchive.com%2F2.0%2FDataService%2FVideoAssets%28274450%29%3Flang%3Den%26bitrates%3D80%2C212%2C450%2C750%2C1500%2C8000%26duration%3D131%26adaptive%3D1%26dts%3D0" type="clip" relationType="behindTheScenes" year="2009" title="Featurette (A Look Inside)" originallyAvailableAt="2009-06-01" thumb="https://iva-images.plex.tv/content/hdphotos/1134/001134/001134_555x312_274450_054.jpg" ratingKey="iva://api.internetvideoarchive.com/2.0/DataService/VideoAssets(274450)?lang=en&amp;bitrates=80,212,450,750,1500,8000&amp;duration=131&amp;adaptive=1&amp;dts=0">
+    <Media container="mp4" height="720" width="1280" audioCodec="aac" duration="131000" videoCodec="h264" bitrate="1500">
+      <Part duration="131000" key="/services/iva/assets/274450/video.mp4?bitrate=1500" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="720" width="1280" codec="h264" bitrate="1500" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+    <Media container="mp4" height="480" width="640" audioCodec="aac" duration="131000" videoCodec="h264" bitrate="750">
+      <Part duration="131000" key="/services/iva/assets/274450/video.mp4?bitrate=750" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="480" width="640" codec="h264" bitrate="750" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+    <Media container="mp4" height="480" width="640" audioCodec="aac" duration="131000" videoCodec="h264" bitrate="450">
+      <Part duration="131000" key="/services/iva/assets/274450/video.mp4?bitrate=450" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="480" width="640" codec="h264" bitrate="450" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+  </Video>
+  <Video url="iva://api.internetvideoarchive.com/2.0/DataService/VideoAssets(534889)?lang=en&amp;bitrates=80,212,450,750,1500,8000&amp;duration=122&amp;adaptive=1&amp;dts=0" key="/system/services/url/lookup?url=iva%3A%2F%2Fapi.internetvideoarchive.com%2F2.0%2FDataService%2FVideoAssets%28534889%29%3Flang%3Den%26bitrates%3D80%2C212%2C450%2C750%2C1500%2C8000%26duration%3D122%26adaptive%3D1%26dts%3D0" type="clip" relationType="behindTheScenes" year="2009" title="Featurette (Shooting In Tangier)" originallyAvailableAt="2009-06-01" thumb="https://iva-images.plex.tv/content/photos/1134/047659_41.jpg" ratingKey="iva://api.internetvideoarchive.com/2.0/DataService/VideoAssets(534889)?lang=en&amp;bitrates=80,212,450,750,1500,8000&amp;duration=122&amp;adaptive=1&amp;dts=0">
+    <Media container="mp4" height="720" width="1280" audioCodec="aac" duration="122000" videoCodec="h264" bitrate="1500">
+      <Part duration="122000" key="/services/iva/assets/534889/video.mp4?bitrate=1500" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="720" width="1280" codec="h264" bitrate="1500" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+    <Media container="mp4" height="480" width="640" audioCodec="aac" duration="122000" videoCodec="h264" bitrate="750">
+      <Part duration="122000" key="/services/iva/assets/534889/video.mp4?bitrate=750" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="480" width="640" codec="h264" bitrate="750" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+    <Media container="mp4" height="480" width="640" audioCodec="aac" duration="122000" videoCodec="h264" bitrate="450">
+      <Part duration="122000" key="/services/iva/assets/534889/video.mp4?bitrate=450" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="480" width="640" codec="h264" bitrate="450" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+  </Video>
+  <Video url="iva://api.internetvideoarchive.com/2.0/DataService/VideoAssets(900769)?lang=en&amp;bitrates=80,212,450,750,1500,8000&amp;duration=130&amp;adaptive=1&amp;dts=0" key="/system/services/url/lookup?url=iva%3A%2F%2Fapi.internetvideoarchive.com%2F2.0%2FDataService%2FVideoAssets%28900769%29%3Flang%3Den%26bitrates%3D80%2C212%2C450%2C750%2C1500%2C8000%26duration%3D130%26adaptive%3D1%26dts%3D0" type="clip" relationType="behindTheScenes" year="2009" title="Bourne Ultimatum: Featurette (Shooting In Ny)" originallyAvailableAt="2009-06-01" thumb="https://iva-images.plex.tv/content/hdphotos/1134/001134/001134_530x298_900769_028.jpg" ratingKey="iva://api.internetvideoarchive.com/2.0/DataService/VideoAssets(900769)?lang=en&amp;bitrates=80,212,450,750,1500,8000&amp;duration=130&amp;adaptive=1&amp;dts=0">
+    <Media container="mp4" height="720" width="1280" audioCodec="aac" duration="130000" videoCodec="h264" bitrate="1500">
+      <Part duration="130000" key="/services/iva/assets/900769/video.mp4?bitrate=1500" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="720" width="1280" codec="h264" bitrate="1500" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+    <Media container="mp4" height="480" width="640" audioCodec="aac" duration="130000" videoCodec="h264" bitrate="750">
+      <Part duration="130000" key="/services/iva/assets/900769/video.mp4?bitrate=750" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="480" width="640" codec="h264" bitrate="750" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+    <Media container="mp4" height="480" width="640" audioCodec="aac" duration="130000" videoCodec="h264" bitrate="450">
+      <Part duration="130000" key="/services/iva/assets/900769/video.mp4?bitrate=450" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="480" width="640" codec="h264" bitrate="450" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+  </Video>
+</MediaContainer>

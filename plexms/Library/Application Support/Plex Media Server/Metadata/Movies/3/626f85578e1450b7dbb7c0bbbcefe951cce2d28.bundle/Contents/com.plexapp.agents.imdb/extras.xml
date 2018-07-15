@@ -1,0 +1,223 @@
+<?xml version='1.0' encoding='utf-8'?>
+<MediaContainer size="11" identifier="com.plexapp.agents.imdb" mediaTagPrefix="/system/bundle/media/flags/" prefsKey="/:/plugins/com.plexapp.agents.imdb/prefs">
+  <Video url="iva://api.internetvideoarchive.com/2.0/DataService/VideoAssets(415200)?lang=en&amp;bitrates=80,212,450,750,1500,2500,5000,8000&amp;duration=104&amp;adaptive=1&amp;dts=0" key="/system/services/url/lookup?url=iva%3A%2F%2Fapi.internetvideoarchive.com%2F2.0%2FDataService%2FVideoAssets%28415200%29%3Flang%3Den%26bitrates%3D80%2C212%2C450%2C750%2C1500%2C2500%2C5000%2C8000%26duration%3D104%26adaptive%3D1%26dts%3D0" type="clip" relationType="trailer" year="2017" title="Valerian and the City of a Thousand Planets (Clean Trailer)" originallyAvailableAt="2017-12-08" thumb="https://iva-images.plex.tv/content/hdphotos/11583/011583/011583_1280x720_415200_144.jpg" ratingKey="iva://api.internetvideoarchive.com/2.0/DataService/VideoAssets(415200)?lang=en&amp;bitrates=80,212,450,750,1500,2500,5000,8000&amp;duration=104&amp;adaptive=1&amp;dts=0">
+    <Media container="mp4" height="1080" width="1920" audioCodec="aac" duration="104000" videoCodec="h264" bitrate="2500">
+      <Part duration="104000" key="/services/iva/assets/415200/video.mp4?bitrate=2500" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="1080" width="1920" codec="h264" bitrate="2500" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+    <Media container="mp4" height="720" width="1280" audioCodec="aac" duration="104000" videoCodec="h264" bitrate="1500">
+      <Part duration="104000" key="/services/iva/assets/415200/video.mp4?bitrate=1500" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="720" width="1280" codec="h264" bitrate="1500" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+    <Media container="mp4" height="480" width="640" audioCodec="aac" duration="104000" videoCodec="h264" bitrate="450">
+      <Part duration="104000" key="/services/iva/assets/415200/video.mp4?bitrate=450" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="480" width="640" codec="h264" bitrate="450" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+  </Video>
+  <Video url="iva://api.internetvideoarchive.com/2.0/DataService/VideoAssets(545437)?lang=en&amp;bitrates=80,212,450,750,1500,2500,5000,8000&amp;duration=107&amp;adaptive=1&amp;dts=0" key="/system/services/url/lookup?url=iva%3A%2F%2Fapi.internetvideoarchive.com%2F2.0%2FDataService%2FVideoAssets%28545437%29%3Flang%3Den%26bitrates%3D80%2C212%2C450%2C750%2C1500%2C2500%2C5000%2C8000%26duration%3D107%26adaptive%3D1%26dts%3D0" type="clip" relationType="behindTheScenes" year="2017" title="Valerian And The City Of A Thousand Planets: Luc Besson On Bubble" originallyAvailableAt="2017-07-06" thumb="https://iva-images.plex.tv/content/hdphotos/11244/011244/011244_1280x720_545437_008.jpg" ratingKey="iva://api.internetvideoarchive.com/2.0/DataService/VideoAssets(545437)?lang=en&amp;bitrates=80,212,450,750,1500,2500,5000,8000&amp;duration=107&amp;adaptive=1&amp;dts=0">
+    <Media container="mp4" height="1080" width="1920" audioCodec="aac" duration="107000" videoCodec="h264" bitrate="2500">
+      <Part duration="107000" key="/services/iva/assets/545437/video.mp4?bitrate=2500" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="1080" width="1920" codec="h264" bitrate="2500" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+    <Media container="mp4" height="720" width="1280" audioCodec="aac" duration="107000" videoCodec="h264" bitrate="1500">
+      <Part duration="107000" key="/services/iva/assets/545437/video.mp4?bitrate=1500" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="720" width="1280" codec="h264" bitrate="1500" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+    <Media container="mp4" height="480" width="640" audioCodec="aac" duration="107000" videoCodec="h264" bitrate="450">
+      <Part duration="107000" key="/services/iva/assets/545437/video.mp4?bitrate=450" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="480" width="640" codec="h264" bitrate="450" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+  </Video>
+  <Video url="iva://api.internetvideoarchive.com/2.0/DataService/VideoAssets(537882)?lang=en&amp;bitrates=80,212,450,750,1500,2500,5000,8000&amp;duration=94&amp;adaptive=1&amp;dts=0" key="/system/services/url/lookup?url=iva%3A%2F%2Fapi.internetvideoarchive.com%2F2.0%2FDataService%2FVideoAssets%28537882%29%3Flang%3Den%26bitrates%3D80%2C212%2C450%2C750%2C1500%2C2500%2C5000%2C8000%26duration%3D94%26adaptive%3D1%26dts%3D0" type="clip" relationType="behindTheScenes" year="2017" title="Valerian And The City Of A Thousand Planets: Virginie Besson-Silla On Alpha" originallyAvailableAt="2017-07-06" thumb="https://iva-images.plex.tv/content/hdphotos/11244/011244/011244_1280x720_537882_006.jpg" ratingKey="iva://api.internetvideoarchive.com/2.0/DataService/VideoAssets(537882)?lang=en&amp;bitrates=80,212,450,750,1500,2500,5000,8000&amp;duration=94&amp;adaptive=1&amp;dts=0">
+    <Media container="mp4" height="1080" width="1920" audioCodec="aac" duration="94000" videoCodec="h264" bitrate="2500">
+      <Part duration="94000" key="/services/iva/assets/537882/video.mp4?bitrate=2500" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="1080" width="1920" codec="h264" bitrate="2500" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+    <Media container="mp4" height="720" width="1280" audioCodec="aac" duration="94000" videoCodec="h264" bitrate="1500">
+      <Part duration="94000" key="/services/iva/assets/537882/video.mp4?bitrate=1500" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="720" width="1280" codec="h264" bitrate="1500" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+    <Media container="mp4" height="480" width="640" audioCodec="aac" duration="94000" videoCodec="h264" bitrate="450">
+      <Part duration="94000" key="/services/iva/assets/537882/video.mp4?bitrate=450" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="480" width="640" codec="h264" bitrate="450" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+  </Video>
+  <Video url="iva://api.internetvideoarchive.com/2.0/DataService/VideoAssets(906748)?lang=en&amp;bitrates=80,212,450,750,1500,2500,5000,8000&amp;duration=46&amp;adaptive=1&amp;dts=0" key="/system/services/url/lookup?url=iva%3A%2F%2Fapi.internetvideoarchive.com%2F2.0%2FDataService%2FVideoAssets%28906748%29%3Flang%3Den%26bitrates%3D80%2C212%2C450%2C750%2C1500%2C2500%2C5000%2C8000%26duration%3D46%26adaptive%3D1%26dts%3D0" type="clip" relationType="behindTheScenes" year="2017" title="Valerian And The City Of A Thousand Planets: Luc Besson On The Comic Books" originallyAvailableAt="2017-07-06" thumb="https://iva-images.plex.tv/content/hdphotos/11244/011244/011244_1280x720_906748_009.jpg" ratingKey="iva://api.internetvideoarchive.com/2.0/DataService/VideoAssets(906748)?lang=en&amp;bitrates=80,212,450,750,1500,2500,5000,8000&amp;duration=46&amp;adaptive=1&amp;dts=0">
+    <Media container="mp4" height="1080" width="1920" audioCodec="aac" duration="46000" videoCodec="h264" bitrate="2500">
+      <Part duration="46000" key="/services/iva/assets/906748/video.mp4?bitrate=2500" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="1080" width="1920" codec="h264" bitrate="2500" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+    <Media container="mp4" height="720" width="1280" audioCodec="aac" duration="46000" videoCodec="h264" bitrate="1500">
+      <Part duration="46000" key="/services/iva/assets/906748/video.mp4?bitrate=1500" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="720" width="1280" codec="h264" bitrate="1500" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+    <Media container="mp4" height="480" width="640" audioCodec="aac" duration="46000" videoCodec="h264" bitrate="450">
+      <Part duration="46000" key="/services/iva/assets/906748/video.mp4?bitrate=450" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="480" width="640" codec="h264" bitrate="450" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+  </Video>
+  <Video url="iva://api.internetvideoarchive.com/2.0/DataService/VideoAssets(290076)?lang=en&amp;bitrates=80,212,450,750,1500,2500,5000,8000&amp;duration=115&amp;adaptive=1&amp;dts=0" key="/system/services/url/lookup?url=iva%3A%2F%2Fapi.internetvideoarchive.com%2F2.0%2FDataService%2FVideoAssets%28290076%29%3Flang%3Den%26bitrates%3D80%2C212%2C450%2C750%2C1500%2C2500%2C5000%2C8000%26duration%3D115%26adaptive%3D1%26dts%3D0" type="clip" relationType="behindTheScenes" year="2017" title="Valerian And The City Of A Thousand Planets: Luc Besson On The Big Market" originallyAvailableAt="2017-07-06" thumb="https://iva-images.plex.tv/content/hdphotos/11244/011244/011244_1280x720_290076_009.jpg" ratingKey="iva://api.internetvideoarchive.com/2.0/DataService/VideoAssets(290076)?lang=en&amp;bitrates=80,212,450,750,1500,2500,5000,8000&amp;duration=115&amp;adaptive=1&amp;dts=0">
+    <Media container="mp4" height="1080" width="1920" audioCodec="aac" duration="115000" videoCodec="h264" bitrate="2500">
+      <Part duration="115000" key="/services/iva/assets/290076/video.mp4?bitrate=2500" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="1080" width="1920" codec="h264" bitrate="2500" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+    <Media container="mp4" height="720" width="1280" audioCodec="aac" duration="115000" videoCodec="h264" bitrate="1500">
+      <Part duration="115000" key="/services/iva/assets/290076/video.mp4?bitrate=1500" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="720" width="1280" codec="h264" bitrate="1500" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+    <Media container="mp4" height="480" width="640" audioCodec="aac" duration="115000" videoCodec="h264" bitrate="450">
+      <Part duration="115000" key="/services/iva/assets/290076/video.mp4?bitrate=450" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="480" width="640" codec="h264" bitrate="450" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+  </Video>
+  <Video url="iva://api.internetvideoarchive.com/2.0/DataService/VideoAssets(974844)?lang=en&amp;bitrates=80,212,450,750,1500,2500,5000,8000&amp;duration=104&amp;adaptive=1&amp;dts=0" key="/system/services/url/lookup?url=iva%3A%2F%2Fapi.internetvideoarchive.com%2F2.0%2FDataService%2FVideoAssets%28974844%29%3Flang%3Den%26bitrates%3D80%2C212%2C450%2C750%2C1500%2C2500%2C5000%2C8000%26duration%3D104%26adaptive%3D1%26dts%3D0" type="clip" relationType="behindTheScenes" year="2017" title="Valerian And The City Of A Thousand Planets: Luc Besson On Laureline" originallyAvailableAt="2017-07-06" thumb="https://iva-images.plex.tv/content/hdphotos/11244/011244/011244_1280x720_974844_063.jpg" ratingKey="iva://api.internetvideoarchive.com/2.0/DataService/VideoAssets(974844)?lang=en&amp;bitrates=80,212,450,750,1500,2500,5000,8000&amp;duration=104&amp;adaptive=1&amp;dts=0">
+    <Media container="mp4" height="1080" width="1920" audioCodec="aac" duration="104000" videoCodec="h264" bitrate="2500">
+      <Part duration="104000" key="/services/iva/assets/974844/video.mp4?bitrate=2500" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="1080" width="1920" codec="h264" bitrate="2500" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+    <Media container="mp4" height="720" width="1280" audioCodec="aac" duration="104000" videoCodec="h264" bitrate="1500">
+      <Part duration="104000" key="/services/iva/assets/974844/video.mp4?bitrate=1500" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="720" width="1280" codec="h264" bitrate="1500" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+    <Media container="mp4" height="480" width="640" audioCodec="aac" duration="104000" videoCodec="h264" bitrate="450">
+      <Part duration="104000" key="/services/iva/assets/974844/video.mp4?bitrate=450" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="480" width="640" codec="h264" bitrate="450" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+  </Video>
+  <Video url="iva://api.internetvideoarchive.com/2.0/DataService/VideoAssets(102821)?lang=en&amp;bitrates=80,212,450,750,1500,2500,5000,8000&amp;duration=54&amp;adaptive=1&amp;dts=0" key="/system/services/url/lookup?url=iva%3A%2F%2Fapi.internetvideoarchive.com%2F2.0%2FDataService%2FVideoAssets%28102821%29%3Flang%3Den%26bitrates%3D80%2C212%2C450%2C750%2C1500%2C2500%2C5000%2C8000%26duration%3D54%26adaptive%3D1%26dts%3D0" type="clip" relationType="behindTheScenes" year="2017" title="Valerian And The City Of A Thousand Planets: Rihanna On How She Got Involved" originallyAvailableAt="2017-07-06" thumb="https://iva-images.plex.tv/content/hdphotos/11242/011242/011242_1280x720_102821_004.jpg" ratingKey="iva://api.internetvideoarchive.com/2.0/DataService/VideoAssets(102821)?lang=en&amp;bitrates=80,212,450,750,1500,2500,5000,8000&amp;duration=54&amp;adaptive=1&amp;dts=0">
+    <Media container="mp4" height="1080" width="1920" audioCodec="aac" duration="54000" videoCodec="h264" bitrate="2500">
+      <Part duration="54000" key="/services/iva/assets/102821/video.mp4?bitrate=2500" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="1080" width="1920" codec="h264" bitrate="2500" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+    <Media container="mp4" height="720" width="1280" audioCodec="aac" duration="54000" videoCodec="h264" bitrate="1500">
+      <Part duration="54000" key="/services/iva/assets/102821/video.mp4?bitrate=1500" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="720" width="1280" codec="h264" bitrate="1500" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+    <Media container="mp4" height="480" width="640" audioCodec="aac" duration="54000" videoCodec="h264" bitrate="450">
+      <Part duration="54000" key="/services/iva/assets/102821/video.mp4?bitrate=450" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="480" width="640" codec="h264" bitrate="450" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+  </Video>
+  <Video url="iva://api.internetvideoarchive.com/2.0/DataService/VideoAssets(367971)?lang=en&amp;bitrates=80,212,450,750,1500,2500,5000,8000&amp;duration=40&amp;adaptive=1&amp;dts=0" key="/system/services/url/lookup?url=iva%3A%2F%2Fapi.internetvideoarchive.com%2F2.0%2FDataService%2FVideoAssets%28367971%29%3Flang%3Den%26bitrates%3D80%2C212%2C450%2C750%2C1500%2C2500%2C5000%2C8000%26duration%3D40%26adaptive%3D1%26dts%3D0" type="clip" relationType="behindTheScenes" year="2017" title="Valerian And The City Of A Thousand Planets: Dane Dehaan On His Character 'Valerian'" originallyAvailableAt="2017-07-06" thumb="https://iva-images.plex.tv/content/hdphotos/11242/011242/011242_1280x720_367971_009.jpg" ratingKey="iva://api.internetvideoarchive.com/2.0/DataService/VideoAssets(367971)?lang=en&amp;bitrates=80,212,450,750,1500,2500,5000,8000&amp;duration=40&amp;adaptive=1&amp;dts=0">
+    <Media container="mp4" height="1080" width="1920" audioCodec="aac" duration="40000" videoCodec="h264" bitrate="2500">
+      <Part duration="40000" key="/services/iva/assets/367971/video.mp4?bitrate=2500" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="1080" width="1920" codec="h264" bitrate="2500" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+    <Media container="mp4" height="720" width="1280" audioCodec="aac" duration="40000" videoCodec="h264" bitrate="1500">
+      <Part duration="40000" key="/services/iva/assets/367971/video.mp4?bitrate=1500" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="720" width="1280" codec="h264" bitrate="1500" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+    <Media container="mp4" height="480" width="640" audioCodec="aac" duration="40000" videoCodec="h264" bitrate="450">
+      <Part duration="40000" key="/services/iva/assets/367971/video.mp4?bitrate=450" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="480" width="640" codec="h264" bitrate="450" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+  </Video>
+  <Video url="iva://api.internetvideoarchive.com/2.0/DataService/VideoAssets(119499)?lang=en&amp;bitrates=80,212,450,750,1500,2500,5000,8000&amp;duration=16&amp;adaptive=1&amp;dts=0" key="/system/services/url/lookup?url=iva%3A%2F%2Fapi.internetvideoarchive.com%2F2.0%2FDataService%2FVideoAssets%28119499%29%3Flang%3Den%26bitrates%3D80%2C212%2C450%2C750%2C1500%2C2500%2C5000%2C8000%26duration%3D16%26adaptive%3D1%26dts%3D0" type="clip" relationType="behindTheScenes" year="2017" title="Valerian And The City Of A Thousand Planets: Clive Owen On His Character" originallyAvailableAt="2017-07-06" thumb="https://iva-images.plex.tv/content/hdphotos/11242/011242/011242_1280x720_119499_008.jpg" ratingKey="iva://api.internetvideoarchive.com/2.0/DataService/VideoAssets(119499)?lang=en&amp;bitrates=80,212,450,750,1500,2500,5000,8000&amp;duration=16&amp;adaptive=1&amp;dts=0">
+    <Media container="mp4" height="1080" width="1920" audioCodec="aac" duration="16000" videoCodec="h264" bitrate="2500">
+      <Part duration="16000" key="/services/iva/assets/119499/video.mp4?bitrate=2500" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="1080" width="1920" codec="h264" bitrate="2500" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+    <Media container="mp4" height="720" width="1280" audioCodec="aac" duration="16000" videoCodec="h264" bitrate="1500">
+      <Part duration="16000" key="/services/iva/assets/119499/video.mp4?bitrate=1500" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="720" width="1280" codec="h264" bitrate="1500" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+    <Media container="mp4" height="480" width="640" audioCodec="aac" duration="16000" videoCodec="h264" bitrate="450">
+      <Part duration="16000" key="/services/iva/assets/119499/video.mp4?bitrate=450" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="480" width="640" codec="h264" bitrate="450" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+  </Video>
+  <Video url="iva://api.internetvideoarchive.com/2.0/DataService/VideoAssets(218772)?lang=en&amp;bitrates=80,212,450,750,1500,2500,5000,8000&amp;duration=21&amp;adaptive=1&amp;dts=0" key="/system/services/url/lookup?url=iva%3A%2F%2Fapi.internetvideoarchive.com%2F2.0%2FDataService%2FVideoAssets%28218772%29%3Flang%3Den%26bitrates%3D80%2C212%2C450%2C750%2C1500%2C2500%2C5000%2C8000%26duration%3D21%26adaptive%3D1%26dts%3D0" type="clip" relationType="behindTheScenes" year="2017" title="Valerian And The City Of A Thousand Planets: Cara Delevingne On What Drew Her To Her Character" originallyAvailableAt="2017-07-06" thumb="https://iva-images.plex.tv/content/hdphotos/11242/011242/011242_1280x720_218772_005.jpg" ratingKey="iva://api.internetvideoarchive.com/2.0/DataService/VideoAssets(218772)?lang=en&amp;bitrates=80,212,450,750,1500,2500,5000,8000&amp;duration=21&amp;adaptive=1&amp;dts=0">
+    <Media container="mp4" height="1080" width="1920" audioCodec="aac" duration="21000" videoCodec="h264" bitrate="2500">
+      <Part duration="21000" key="/services/iva/assets/218772/video.mp4?bitrate=2500" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="1080" width="1920" codec="h264" bitrate="2500" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+    <Media container="mp4" height="720" width="1280" audioCodec="aac" duration="21000" videoCodec="h264" bitrate="1500">
+      <Part duration="21000" key="/services/iva/assets/218772/video.mp4?bitrate=1500" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="720" width="1280" codec="h264" bitrate="1500" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+    <Media container="mp4" height="480" width="640" audioCodec="aac" duration="21000" videoCodec="h264" bitrate="450">
+      <Part duration="21000" key="/services/iva/assets/218772/video.mp4?bitrate=450" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="480" width="640" codec="h264" bitrate="450" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+  </Video>
+  <Video url="iva://api.internetvideoarchive.com/2.0/DataService/VideoAssets(520437)?lang=en&amp;bitrates=80,212,450,750,1500,2500,5000,8000&amp;duration=224&amp;adaptive=1&amp;dts=0" key="/system/services/url/lookup?url=iva%3A%2F%2Fapi.internetvideoarchive.com%2F2.0%2FDataService%2FVideoAssets%28520437%29%3Flang%3Den%26bitrates%3D80%2C212%2C450%2C750%2C1500%2C2500%2C5000%2C8000%26duration%3D224%26adaptive%3D1%26dts%3D0" type="clip" relationType="behindTheScenes" year="2017" title="Valerian And The City Of A Thousand Planets: See You In Space (Featurette)" originallyAvailableAt="2017-06-19" thumb="https://iva-images.plex.tv/content/hdphotos/11205/011205/011205_1280x720_520437_286.jpg" ratingKey="iva://api.internetvideoarchive.com/2.0/DataService/VideoAssets(520437)?lang=en&amp;bitrates=80,212,450,750,1500,2500,5000,8000&amp;duration=224&amp;adaptive=1&amp;dts=0">
+    <Media container="mp4" height="1080" width="1920" audioCodec="aac" duration="224000" videoCodec="h264" bitrate="2500">
+      <Part duration="224000" key="/services/iva/assets/520437/video.mp4?bitrate=2500" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="1080" width="1920" codec="h264" bitrate="2500" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+    <Media container="mp4" height="720" width="1280" audioCodec="aac" duration="224000" videoCodec="h264" bitrate="1500">
+      <Part duration="224000" key="/services/iva/assets/520437/video.mp4?bitrate=1500" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="720" width="1280" codec="h264" bitrate="1500" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+    <Media container="mp4" height="480" width="640" audioCodec="aac" duration="224000" videoCodec="h264" bitrate="450">
+      <Part duration="224000" key="/services/iva/assets/520437/video.mp4?bitrate=450" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="480" width="640" codec="h264" bitrate="450" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+  </Video>
+</MediaContainer>

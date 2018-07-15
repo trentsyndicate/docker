@@ -1,0 +1,647 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Movie id="tt3532216">
+  <rating>8.6</rating>
+  <title_sort/>
+  <art>
+    <item external="True" url="http://image.tmdb.org/t/p/original/jcKzxRGYiXuS7ctTHLdw9wH8d7V.jpg" preview="15a05d66b9e99618963fdfcc40581a1a9015d9eb" sort_order="1"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/thBankgTBZAM3YkdeeF7fuDvkcD.jpg" preview="ab729a45f5fd5375d95432c2f52906c63d8c59f8" sort_order="2"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/Qkj9al2Q5zwA6yr8dr9F25Lvr2.jpg" preview="ab3ecfd7dffc75cd5c949ce0de82db97f30d5ffa" sort_order="3"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/yPXW7E4Tu1Eltb5lxQSwHNLEzlx.jpg" preview="93a93e93b3c5f3b0f877d155624da32828b5a03d" sort_order="4"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/hrmnN9ZSLVrAl5xlb9VGLOv4RGH.jpg" preview="5a21eb73938d2c4cec0e91e0f4a268d6dc4bc5b7" sort_order="5"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/gJhXPDS3g4li5wwY5x1WW0YAzRC.jpg" preview="1a168ba341a7294b965ed8e63e5065705e3b402d" sort_order="6"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/A3gpvDhcrmnWJV62ED0ohT7hupC.jpg" preview="6b2ed8c103b1855a00d78eb55bf861518348a9cf" sort_order="7"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/raLgQP6Mghev8mpFjiHhj7igfDL.jpg" preview="d81369e1871c21a5854bb0344f22ca559eaff5bd" sort_order="8"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/jrD11r1HZkXvsqKeb0zSWeeskZ7.jpg" preview="1e802bbebd4f5602f548f50f71a035326b97100a" sort_order="9"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/3DFHkmuASRre27MyJUdgc6pCpOh.jpg" preview="a996401040ccf6311bb9087cc20a7ffbf5dcc080" sort_order="10"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/qphzPbr42CaV6cayxOAsUbk8nLV.jpg" preview="2cadcdbd365a0037b5732ae1b098aa12739470e1" sort_order="11"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/geFmiQV58gGPyjw74dHUeR4F3bI.jpg" preview="b117254df57e490b921ccfdb6e9a8f91dd9d0a28" sort_order="12"/>
+  </art>
+  <writers>
+    <item index="0">
+      <photo/>
+      <role/>
+      <name>Gary Spinelli</name>
+    </item>
+  </writers>
+  <chapters>
+    <item index="0">
+      <title>Chapter 1</title>
+      <end_time_offset>360000</end_time_offset>
+      <start_time_offset>0</start_time_offset>
+    </item>
+    <item index="1">
+      <title>Chapter 2</title>
+      <end_time_offset>642000</end_time_offset>
+      <start_time_offset>360000</start_time_offset>
+    </item>
+    <item index="2">
+      <title>Chapter 3</title>
+      <end_time_offset>876000</end_time_offset>
+      <start_time_offset>642000</start_time_offset>
+    </item>
+    <item index="3">
+      <title>Chapter 4</title>
+      <end_time_offset>1279000</end_time_offset>
+      <start_time_offset>876000</start_time_offset>
+    </item>
+    <item index="4">
+      <title>Chapter 5</title>
+      <end_time_offset>1645000</end_time_offset>
+      <start_time_offset>1279000</start_time_offset>
+    </item>
+    <item index="5">
+      <title>Chapter 6</title>
+      <end_time_offset>2027000</end_time_offset>
+      <start_time_offset>1645000</start_time_offset>
+    </item>
+    <item index="6">
+      <title>Chapter 7</title>
+      <end_time_offset>2462000</end_time_offset>
+      <start_time_offset>2027000</start_time_offset>
+    </item>
+    <item index="7">
+      <title>Chapter 8</title>
+      <end_time_offset>2776000</end_time_offset>
+      <start_time_offset>2462000</start_time_offset>
+    </item>
+    <item index="8">
+      <title>Chapter 9</title>
+      <end_time_offset>3117000</end_time_offset>
+      <start_time_offset>2776000</start_time_offset>
+    </item>
+    <item index="9">
+      <title>Chapter 10</title>
+      <end_time_offset>3299000</end_time_offset>
+      <start_time_offset>3117000</start_time_offset>
+    </item>
+    <item index="10">
+      <title>Chapter 11</title>
+      <end_time_offset>3598000</end_time_offset>
+      <start_time_offset>3299000</start_time_offset>
+    </item>
+    <item index="11">
+      <title>Chapter 12</title>
+      <end_time_offset>4049000</end_time_offset>
+      <start_time_offset>3598000</start_time_offset>
+    </item>
+    <item index="12">
+      <title>Chapter 13</title>
+      <end_time_offset>4386000</end_time_offset>
+      <start_time_offset>4049000</start_time_offset>
+    </item>
+    <item index="13">
+      <title>Chapter 14</title>
+      <end_time_offset>4632000</end_time_offset>
+      <start_time_offset>4386000</start_time_offset>
+    </item>
+    <item index="14">
+      <title>Chapter 15</title>
+      <end_time_offset>5001000</end_time_offset>
+      <start_time_offset>4632000</start_time_offset>
+    </item>
+    <item index="15">
+      <title>Chapter 16</title>
+      <end_time_offset>5176000</end_time_offset>
+      <start_time_offset>5001000</start_time_offset>
+    </item>
+    <item index="16">
+      <title>Chapter 17</title>
+      <end_time_offset>5614000</end_time_offset>
+      <start_time_offset>5176000</start_time_offset>
+    </item>
+    <item index="17">
+      <title>Chapter 18</title>
+      <end_time_offset>5919000</end_time_offset>
+      <start_time_offset>5614000</start_time_offset>
+    </item>
+    <item index="18">
+      <title>Chapter 19</title>
+      <end_time_offset>6376000</end_time_offset>
+      <start_time_offset>5919000</start_time_offset>
+    </item>
+    <item index="19">
+      <title>Chapter 20</title>
+      <end_time_offset>-1</end_time_offset>
+      <start_time_offset>6376000</start_time_offset>
+    </item>
+  </chapters>
+  <themes/>
+  <quotes/>
+  <year>2017</year>
+  <duration>6900000</duration>
+  <genres>
+    <item index="0">Action</item>
+    <item index="1">Biography</item>
+    <item index="2">Comedy</item>
+    <item index="3">Crime</item>
+    <item index="4">Thriller</item>
+  </genres>
+  <title>American Made</title>
+  <tagline>Based on a True Lie</tagline>
+  <content_rating_age/>
+  <rating_count/>
+  <collections/>
+  <trivia/>
+  <tags/>
+  <audience_rating_image>rottentomatoes://image.rating.upright</audience_rating_image>
+  <rating_image>rottentomatoes://image.rating.ripe</rating_image>
+  <producers>
+    <item index="0">
+      <photo/>
+      <role/>
+      <name>Ray Angelic</name>
+    </item>
+    <item index="1">
+      <photo/>
+      <role/>
+      <name>Doug Davison</name>
+    </item>
+    <item index="2">
+      <photo>http://image.tmdb.org/t/p/original/yqiKX3auDuorea0BOtuB6Ifhyp6.jpg</photo>
+      <role/>
+      <name>Brian Grazer</name>
+    </item>
+    <item index="3">
+      <photo>http://image.tmdb.org/t/p/original/jjRoepjAT6nDzNEglANnM9ppPxa.jpg</photo>
+      <role/>
+      <name>Brian Oliver</name>
+    </item>
+    <item index="4">
+      <photo/>
+      <role/>
+      <name>Kim Roth</name>
+    </item>
+    <item index="5">
+      <photo/>
+      <role/>
+      <name>Tyler Thompson</name>
+    </item>
+  </producers>
+  <audience_rating>7.8</audience_rating>
+  <studio>Imagine Entertainment</studio>
+  <posters>
+    <item external="True" url="http://image.tmdb.org/t/p/original/8dTWj3c74RDhXfSUZpuyVNJrgS.jpg" preview="7404ecef8395811281a986c017b86eba659c2cc3" sort_order="1"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/23ILgoPSO5ShKcTZOuiTVfqFAUB.jpg" preview="02d44ef7ef4b4bbeff2937736961d9e27acabbe8" sort_order="2"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/bABHpgjJqYDbiOTRzWP9wGPjsrm.jpg" preview="e53c8262d35c63d904f102176366301f54287fd2" sort_order="3"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/mWzGg0OAguM2ZWxfMbiEiJdEhB7.jpg" preview="dad9d21dd1cf14bafa58953fa1d144c359f02e02" sort_order="4"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/apgVqw0iOTniVh2O3cXfridDMOd.jpg" preview="6da8f997dd4c6ca588ba3c6ee5ee2884fe7d4515" sort_order="5"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/kvXHiuK0Vf7sdZ4np6XGIMCFelk.jpg" preview="904c76ad6a16d073d9ff900bfc45a5fb0a7cdf78" sort_order="6"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/3SEzFXzr9k5pftLfNEZX4xqxhU9.jpg" preview="22ee86c7e6f4bf33ef8338603771872e4bf8932a" sort_order="7"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/4SIdRCbYsMNo8X4HbKDgnvRFwMx.jpg" preview="4373a27989a563c3e22ee131cec8e78de394c163" sort_order="8"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/prK4pLV5DAn99KNjuwxtpANbNsK.jpg" preview="80f855d1e8ecb67b3ea0aabaaaea0921dc57a791" sort_order="9"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/h6ppsdJPlJnVAvj5RYWdHih0wBm.jpg" preview="895dc81a2ed8ed9596d3670ebbf1dd5f01551cdd" sort_order="10"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/3w8mRv04Vn2w9LO2pGAGXMSM9pJ.jpg" preview="4380bbc1ef4bb5e64631d8839b2868766cfcf459" sort_order="11"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/y9FjaR9tu9vZcRAbL7xPOhruQ9p.jpg" preview="9d6c28982abdf13605fb43d4f738c46eab3bff1e" sort_order="12"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/FuqCQpSupbeNljLS9VR34xONlT.jpg" preview="460125b5dafd14aeaa09eb97720808ba47961d9f" sort_order="13"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/ns1EB0Avlq0FUpEozFtFVZjtMRL.jpg" preview="42bd49204beb9a440243fb9e8a75fbc00005de23" sort_order="14"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/8xova028IF34Ryv89iLA6qZKxIa.jpg" preview="94af3c9b6986120a55d2048f63fb2f42bd13f153" sort_order="15"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/klN2Aw9EZlhGUoLFw8EdqsFD2Zf.jpg" preview="074a6cc1624e4db43386d08c8f65f4f587eface6" sort_order="16"/>
+  </posters>
+  <originally_available_at>2017-08-17</originally_available_at>
+  <roles>
+    <item index="0">
+      <photo>http://image.tmdb.org/t/p/original/3oWEuo0e8Nx8JvkqYCDec2iMY6K.jpg</photo>
+      <role>Barry Seal</role>
+      <name>Tom Cruise</name>
+    </item>
+    <item index="1">
+      <photo>http://image.tmdb.org/t/p/original/fKsu9PJ4DuBVja60yKnvLgPHvq3.jpg</photo>
+      <role>Lucy Seal</role>
+      <name>Sarah Wright</name>
+    </item>
+    <item index="2">
+      <photo>http://image.tmdb.org/t/p/original/nSZ0JZEvHnEJ3sxQ8TWwOvQlMSo.jpg</photo>
+      <role>Monty Schafer</role>
+      <name>Domhnall Gleeson</name>
+    </item>
+    <item index="3">
+      <photo>http://image.tmdb.org/t/p/original/zqCvFCY9kWd3AkVv5Brwi7pZJ9W.jpg</photo>
+      <role>Jorge Ochoa</role>
+      <name>Alejandro Edda</name>
+    </item>
+    <item index="4">
+      <photo>http://image.tmdb.org/t/p/original/tIe830ZAo81lKJy7MRtqHQnHkW.jpg</photo>
+      <role>Pablo Escobar</role>
+      <name>Mauricio Mejía</name>
+    </item>
+    <item index="5">
+      <photo>http://image.tmdb.org/t/p/original/pkpgHy6Ea8sBYrTADOM6t0F57Ns.jpg</photo>
+      <role>Dana Sibota</role>
+      <name>Jayma Mays</name>
+    </item>
+    <item index="6">
+      <photo>http://image.tmdb.org/t/p/original/4fdE4D8e2DEtFL4QgdorQOAI9RT.jpg</photo>
+      <role>Sheriff Downing</role>
+      <name>Jesse Plemons</name>
+    </item>
+    <item index="7">
+      <photo>http://image.tmdb.org/t/p/original/A15rofklzp6kuH6zfvVzBp6Iwnz.jpg</photo>
+      <role>Judy Downing</role>
+      <name>Lola Kirke</name>
+    </item>
+    <item index="8">
+      <photo>http://image.tmdb.org/t/p/original/3voluDVyMEE7lkFAFOXryU9zvN6.jpg</photo>
+      <role>Bill Cooper</role>
+      <name>Jayson Warner Smith</name>
+    </item>
+    <item index="9">
+      <photo>http://image.tmdb.org/t/p/original/dzUWceRKGH1ffcie43S38xx09V0.jpg</photo>
+      <role>Pete Dubois</role>
+      <name>William Mark McCullough</name>
+    </item>
+    <item index="10">
+      <photo>http://image.tmdb.org/t/p/original/aZarz4uBJ8chtvQAEiQIimVnkc7.jpg</photo>
+      <role>Female Reporter (uncredited)</role>
+      <name>Lara Grice</name>
+    </item>
+    <item index="11">
+      <photo/>
+      <role>ATF Special Agent Franks</role>
+      <name>Frank Licari</name>
+    </item>
+    <item index="12">
+      <photo>http://image.tmdb.org/t/p/original/sC7lBTG7TSEvxMRb32J9giTv5K9.jpg</photo>
+      <role>Louis Finkle</role>
+      <name>Jed Rees</name>
+    </item>
+    <item index="13">
+      <photo>http://image.tmdb.org/t/p/original/a5RwSg8YN9JW0VZqekIbiJlLVhJ.jpg</photo>
+      <role>JB</role>
+      <name>Caleb Landry Jones</name>
+    </item>
+    <item index="14">
+      <photo>http://image.tmdb.org/t/p/original/8txD5FPl7Hch5w2854wets47P41.jpg</photo>
+      <role>George W. Bush</role>
+      <name>Connor Trinneer</name>
+    </item>
+    <item index="15">
+      <photo>http://image.tmdb.org/t/p/original/kksOuQSUHZKCWH4AONvjsTiiHWX.jpg</photo>
+      <role>Jenny</role>
+      <name>April Billingsley</name>
+    </item>
+    <item index="16">
+      <photo>http://image.tmdb.org/t/p/original/6cMiGYgjFFYY8sWITXiE0SrEnt8.jpg</photo>
+      <role>James Rangel</role>
+      <name>Benito Martinez</name>
+    </item>
+    <item index="17">
+      <photo/>
+      <role>Waitress (uncredited)</role>
+      <name>Kayla Perkins</name>
+    </item>
+    <item index="18">
+      <photo>http://image.tmdb.org/t/p/original/j3I7uCurLq88wpAq8fWOGEtUett.jpg</photo>
+      <role>Agent Winter</role>
+      <name>Justice Leak</name>
+    </item>
+    <item index="19">
+      <photo>http://image.tmdb.org/t/p/original/fC9nUwBut9uLnGwMxHWHhSZcJ4t.jpg</photo>
+      <role>DEA Agent Grace (uncredited)</role>
+      <name>Sharon Conley</name>
+    </item>
+    <item index="20">
+      <photo>http://image.tmdb.org/t/p/original/6oJOSX84GXwuR9HA9RXTOeTeiKC.jpg</photo>
+      <role>Willie</role>
+      <name>Mike Pniewski</name>
+    </item>
+    <item index="21">
+      <photo>http://image.tmdb.org/t/p/original/iDPgSaDVhwIItvqa2Wn79oaUzf8.jpg</photo>
+      <role>Gary</role>
+      <name>Robert Pralgo</name>
+    </item>
+    <item index="22">
+      <photo>http://image.tmdb.org/t/p/original/ooczOXwYhY6WRampNqYDIM6ecoT.jpg</photo>
+      <role>Agent Craig McCall</role>
+      <name>E. Roger Mitchell</name>
+    </item>
+    <item index="23">
+      <photo/>
+      <role>Sandinista (uncredited)</role>
+      <name>Michael Mercaldi</name>
+    </item>
+    <item index="24">
+      <photo>http://image.tmdb.org/t/p/original/tg45YFRLYuTqq76ORMpxHKHJFcB.jpg</photo>
+      <role>Christina Seal</role>
+      <name>Morgan Hinkleman</name>
+    </item>
+    <item index="25">
+      <photo/>
+      <role>Airplane Passenger (uncredited)</role>
+      <name>Patti Schellhaas</name>
+    </item>
+    <item index="26">
+      <photo>http://image.tmdb.org/t/p/original/g0SMfpMDOxbRTFlQkvvdyjUipwS.jpg</photo>
+      <role>Stewardess</role>
+      <name>Courtney Lakin</name>
+    </item>
+    <item index="27">
+      <photo>http://image.tmdb.org/t/p/original/fQVLd96r8OHsV57vI1fu16SYqsI.jpg</photo>
+      <role>Donor #2 (uncredited)</role>
+      <name>Chris Gann</name>
+    </item>
+    <item index="28">
+      <photo/>
+      <role>Carlos Lehder</role>
+      <name>Fredy Yate Escobar</name>
+    </item>
+    <item index="29">
+      <photo>http://image.tmdb.org/t/p/original/koccaKriOc2tssB35y0Y1ogTv6T.jpg</photo>
+      <role>Oliver North</role>
+      <name>Robert Farrior</name>
+    </item>
+    <item index="30">
+      <photo/>
+      <role>Manuel Noriega</role>
+      <name>Alberto Ospino</name>
+    </item>
+    <item index="31">
+      <photo/>
+      <role>Translator</role>
+      <name>Felipe Bernedette</name>
+    </item>
+    <item index="32">
+      <photo/>
+      <role>Adolfo Calero</role>
+      <name>Daniel Lugo</name>
+    </item>
+    <item index="33">
+      <photo>http://image.tmdb.org/t/p/original/iYtUySKJF6qZ7B1zsPFUPJHsENb.jpg</photo>
+      <role>Secretary</role>
+      <name>Lauren Boyd</name>
+    </item>
+    <item index="34">
+      <photo>http://image.tmdb.org/t/p/original/wwMyxWvFRxQYmi47zQF5VJWGKY3.jpg</photo>
+      <role>Teller</role>
+      <name>Lauren Revard</name>
+    </item>
+    <item index="35">
+      <photo>http://image.tmdb.org/t/p/original/mOlrvlDpYUzDJhG6yc2wiRCdH5X.jpg</photo>
+      <role>Parka</role>
+      <name>Marcus Hester</name>
+    </item>
+    <item index="36">
+      <photo/>
+      <role>ATF #1</role>
+      <name>Alex Collins</name>
+    </item>
+    <item index="37">
+      <photo>http://image.tmdb.org/t/p/original/tVJSL1ifn0EUmdTZRtFfiRalWhv.jpg</photo>
+      <role>ATF #2</role>
+      <name>Scott Poythress</name>
+    </item>
+    <item index="38">
+      <photo/>
+      <role>Judge Linkletter</role>
+      <name>Alpha Trivette</name>
+    </item>
+    <item index="39">
+      <photo>http://image.tmdb.org/t/p/original/ahmMHAEmPBmvpeFC3M4cVQ4tFol.jpg</photo>
+      <role>Agent Horace Wainwright</role>
+      <name>Kevin L. Johnson</name>
+    </item>
+    <item index="40">
+      <photo/>
+      <role>Plain Clothed Man</role>
+      <name>DeVere Jehl</name>
+    </item>
+    <item index="41">
+      <photo/>
+      <role>Héctor (Colombian Driver)</role>
+      <name>Emilio Sierra</name>
+    </item>
+    <item index="42">
+      <photo>http://image.tmdb.org/t/p/original/6yWKCRnzDXNfhHa8x3I0P1OuIPn.jpg</photo>
+      <role>Elderly Man</role>
+      <name>Leon Lamar</name>
+    </item>
+    <item index="43">
+      <photo>http://image.tmdb.org/t/p/original/slp3efuuvxwTFA65zmFAHVo96K9.jpg</photo>
+      <role>NSC Woman</role>
+      <name>Maria Howell</name>
+    </item>
+    <item index="44">
+      <photo>http://image.tmdb.org/t/p/original/5BZyQGMxVQ0DIwjsZuvB6YWCQdh.jpg</photo>
+      <role>Customs Agent</role>
+      <name>Darla Delgado</name>
+    </item>
+    <item index="45">
+      <photo>http://image.tmdb.org/t/p/original/2kA5dkKgymZiaqsjjXroaqJqKeZ.jpg</photo>
+      <role>North's Aide Fawn Hall</role>
+      <name>Mickey Sumner</name>
+    </item>
+    <item index="46">
+      <photo/>
+      <role>CIA Man</role>
+      <name>Daniel Thomas May</name>
+    </item>
+    <item index="47">
+      <photo>http://image.tmdb.org/t/p/original/ulTMGglfaOQP4oerCTa3tlfPiJR.jpg</photo>
+      <role>LeAnn</role>
+      <name>Chloe Swan Sparwath</name>
+    </item>
+    <item index="48">
+      <photo/>
+      <role>Aaron</role>
+      <name>Alex Quarles</name>
+    </item>
+    <item index="49">
+      <photo/>
+      <role>Dean</role>
+      <name>Trip McCarthy</name>
+    </item>
+    <item index="50">
+      <photo/>
+      <role>Dean</role>
+      <name>Zachary Powell</name>
+    </item>
+    <item index="51">
+      <photo>http://image.tmdb.org/t/p/original/slyHfhri1s11DwgHTdMg9B7Ene9.jpg</photo>
+      <role>Himself (archive footage)</role>
+      <name>Ronald Reagan</name>
+    </item>
+    <item index="52">
+      <photo>http://image.tmdb.org/t/p/original/uzU1DU7Cvye66gLHCLmOPnTMKbg.jpg</photo>
+      <role>Herself (archive footage)</role>
+      <name>Nancy Reagan</name>
+    </item>
+  </roles>
+  <countries>
+    <item index="0">USA</item>
+  </countries>
+  <content_rating>R</content_rating>
+  <original_title/>
+  <summary>The true story of pilot Barry Seal, who transported contraband for the CIA and the Medellin cartel in the 1980s.</summary>
+  <reviews>
+    <item index="0">
+      <text>But by the time the movie roared to its shockingly grim, remarkably embittered ending, American Made had won me over.</text>
+      <source>The Atlantic</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>https://www.theatlantic.com/entertainment/archive/2017/09/american-made-review/541359/</link>
+      <author>David Sims</author>
+    </item>
+    <item index="1">
+      <text>It skitters and jumps, shivers and boot-scoots, never, ever sitting still. You could say it's like "Blow," on well, blow. But there's a breezy sunniness to this film, which looks like a faded snapshot reclaimed from an '80s photo album.</text>
+      <source>Tribune News Service</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>http://journalstar.com/entertainment/movies/review-american-made-has-an-undeniable-shaggy-dog-charm/article_591592b5-0d70-554d-a7d8-0a7e47fd35ba.html</link>
+      <author>Katie Walsh</author>
+    </item>
+    <item index="2">
+      <text>One assumes that Cruise got this film made, yet he's a terrible fit for the role: he's always done his best work portraying smart, insightful characters in dramatic stories, but Seal was a yahoo whose sorry escapades are played here for cynical laughs.</text>
+      <source>Chicago Reader</source>
+      <image>rottentomatoes://image.review.rotten</image>
+      <link>https://www.chicagoreader.com/chicago/american-made/MovieTimes?oid=30279066</link>
+      <author>J. R. Jones</author>
+    </item>
+    <item index="3">
+      <text>Without realizing it, American Made is a wincing metaphor for Tom Cruise's movie career-which, come to think of it, is exclusively and embarrassingly American made, too.</text>
+      <source>New York Observer</source>
+      <image>rottentomatoes://image.review.rotten</image>
+      <link>http://observer.com/2017/09/review-american-made-is-another-formulaic-choice-for-tom-cruise/</link>
+      <author>Rex Reed</author>
+    </item>
+    <item index="4">
+      <text>The impetuous pace of the film is at one with its moral shamelessness, and, without thinking, we sign up for both.</text>
+      <source>New Yorker</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>https://www.newyorker.com/magazine/2017/10/02/american-made-and-victoria-and-abdul</link>
+      <author>Anthony Lane</author>
+    </item>
+    <item index="5">
+      <text>[Tom] Cruise gives his energetic all to the role, but he, too, doesn't seem to be quite aware that Seal was morally compromised far beyond the shallow confines of this film.</text>
+      <source>Christian Science Monitor</source>
+      <image>rottentomatoes://image.review.rotten</image>
+      <link>https://www.csmonitor.com/The-Culture/Movies/2017/0929/American-Made-depicts-drug-cartels-as-occasion-for-blithe-derring-do</link>
+      <author>Peter Rainer</author>
+    </item>
+    <item index="6">
+      <text>It's a morbidly fascinating comedy, an insinuating mock documentary, and a twisted take on the American dream, audaciously masquerading as a high-caliber thriller. It's one of the most enjoyable movies of the year.</text>
+      <source>Minneapolis Star Tribune</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>http://www.startribune.com/tom-cruise-is-at-his-best-in-american-made-an-exquisitely-constructed-romp/448496083/</link>
+      <author>Colin Covert</author>
+    </item>
+    <item index="7">
+      <text>There's an aspirational pleasure in seeing Cruise, now in his mid-50s, jump through these hoops. He knows we prefer him when he shades his easy charm with self-doubt, and Barry has a pleasingly sweaty desperation. But not enough ...</text>
+      <source>Globe and Mail</source>
+      <image>rottentomatoes://image.review.rotten</image>
+      <link>https://beta.theglobeandmail.com/arts/film/film-reviews/review-soaring-past-the-facts-of-its-source-material-american-made-feels-like-a-writers-flight-of-fancy/article36426610/</link>
+      <author>Simon Houpt</author>
+    </item>
+    <item index="8">
+      <text>The story at times feels too wild, too crazy to be true, but that's what makes it worth telling. "American Made" is a real whopper.</text>
+      <source>Detroit News</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>http://www.detroitnews.com/story/entertainment/movies/2017/09/28/movie-review-tom-cruise-charm-powers-wily-american-made/106092772/</link>
+      <author>Adam Graham</author>
+    </item>
+    <item index="9">
+      <text>American Made is breezy and fun and makes its points without subjecting the viewer to a browbeating.</text>
+      <source>ReelViews</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>http://www.reelviews.net/reelviews/american-made</link>
+      <author>James Berardinelli</author>
+    </item>
+    <item index="10">
+      <text>If American Made were limited to what Seal knew personally, some of the dangling threads in Gary Spinelli's script could be written off. As it is, they hint at stories we'd like to know better</text>
+      <source>Wall Street Journal</source>
+      <image>rottentomatoes://image.review.rotten</image>
+      <link>https://www.wsj.com/articles/american-made-review-high-flying-history-1506618436</link>
+      <author>John Anderson</author>
+    </item>
+    <item index="11">
+      <text>The point here is not to depict Reagan-era corruption or cartel ruthlessness. The point is a wild ride akin to [the real-life] Barry's own - you may as well enjoy it.</text>
+      <source>San Diego Reader</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>https://www.sandiegoreader.com/movies/american-made/</link>
+      <author>Matthew Lickona</author>
+    </item>
+    <item index="12">
+      <text>The film may be fact-based but that doesn't stop it from feeling generic, like you've seen it all before. The big difference is that Cruise is spreading his starshine over this one and that (still) counts for something.</text>
+      <source>Rolling Stone</source>
+      <image>rottentomatoes://image.review.rotten</image>
+      <link>http://www.rollingstone.com/movies/reviews/peter-travers-american-made-is-stuck-on-cruise-control-w505352</link>
+      <author>Peter Travers</author>
+    </item>
+    <item index="13">
+      <text>Cruise doesn't seem fully suited to the role of lovable reprobate, but he knows how to capture an adrenaline rush and his charisma is, as ever, undimmed.</text>
+      <source>Newsday</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>https://www.newsday.com/entertainment/movies/american-made-review-tom-cruise-action-film-mostly-works-1.14296169</link>
+      <author>Rafer Guzman</author>
+    </item>
+    <item index="14">
+      <text>It's everything you could want from a flashy true-crime biopic skewering the hypocrisy and malice of the Reagan Administration's covert war in Central and South America.</text>
+      <source>NPR</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>http://www.npr.org/2017/09/28/553430762/take-me-to-the-pilot-american-made-soars</link>
+      <author>Chris Klimek</author>
+    </item>
+    <item index="15">
+      <text>"American Made" is a smart, nervy film, a very modern entertainment made with energy, style and a fine sense of humor that keeps us amused until gradually, almost imperceptibly, the laughter starts to stick in our throats.</text>
+      <source>Los Angeles Times</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>http://www.latimes.com/entertainment/movies/la-et-mn-american-made-review-20170928-story.html</link>
+      <author>Kenneth Turan</author>
+    </item>
+    <item index="16">
+      <text>It's nice to be reminded that Tom Cruise has the chops to play somebody other than Tom Cruise, Action Hero.</text>
+      <source>New York Post</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>http://nypost.com/2017/09/28/tom-cruise-is-actually-good-in-american-made/</link>
+      <author>Sara Stewart</author>
+    </item>
+    <item index="17">
+      <text>Just when it seems it may be time to close the book on Tom Cruise's acting career, something comes along to suggest new chapters are possible.</text>
+      <source>Toronto Star</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>https://www.thestar.com/entertainment/movies/2017/09/28/american-made-restores-tom-cruise-as-reckless-rogue-review.html</link>
+      <author>Peter Howell</author>
+    </item>
+    <item index="18">
+      <text>"American Made" goes down easily, especially if you don't let the historical record with its real-world stakes bother you.</text>
+      <source>New York Times</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>https://www.nytimes.com/2017/09/28/movies/american-made-review-tom-cruise.html?_r=0</link>
+      <author>Manohla Dargis</author>
+    </item>
+    <item index="19">
+      <text>Barry is the closest thing Tom Cruise has played to a regular Joe in more than a decade, and the part isn't a snug fit.</text>
+      <source>Slate</source>
+      <image>rottentomatoes://image.review.rotten</image>
+      <link>https://slate.com/arts/2017/09/american-made-tom-cruises-new-movie-reviewed.html</link>
+      <author>Sam Adams</author>
+    </item>
+  </reviews>
+  <directors>
+    <item index="0">
+      <photo>http://image.tmdb.org/t/p/original/cWpE3dSbskWOea4kAGzQpNIkfxM.jpg</photo>
+      <role/>
+      <name>Doug Liman</name>
+    </item>
+  </directors>
+  <extras external="True" extension="xml"/>
+  <banners/>
+  <similar>
+    <item index="0">The Hitman's Bodyguard</item>
+    <item index="1">Logan Lucky</item>
+    <item index="2">Wind River</item>
+    <item index="3">Atomic Blonde</item>
+    <item index="4">The Foreigner</item>
+    <item index="5">American Assassin</item>
+    <item index="6">Kingsman: The Golden Circle</item>
+    <item index="7">Going in Style</item>
+    <item index="8">The Dark Tower</item>
+    <item index="9">Patriots Day</item>
+    <item index="10">Gold</item>
+    <item index="11">Detroit</item>
+    <item index="12">The Mummy</item>
+    <item index="13">The Accountant</item>
+    <item index="14">Geostorm</item>
+    <item index="15">King Arthur: Legend of the Sword</item>
+    <item index="16">Molly's Game</item>
+    <item index="17">Baby Driver</item>
+    <item index="18">Jack Reacher: Never Go Back</item>
+    <item index="19">The Mountain Between Us</item>
+  </similar>
+</Movie>

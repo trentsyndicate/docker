@@ -1,0 +1,61 @@
+<SessionReport version="2" startTime="0" startTimestamp="Jul 15, 2018 09:15:53.821" key="/library/metadata/7203" session="bc63vk7zqxocvuwdx1399nts" transcode="gwie2lx01lswm0ligtubajaz">
+<User id="1" thumb="https://plex.tv/users/6e37435e450fa50f/avatar?c=1531519144" title="mrfoofs" />
+<Player address="192.168.1.189" device="Linux" machineIdentifier="scjgxsjly6l94h3vcwsq36jg" model="" platform="Firefox" platformVersion="52.0" product="Plex Web" remotePublicAddress="100.11.251.15" state="" title="Firefox" vendor="" version="3.53.7" local="1" userID="1" />
+<Variants>
+<Variant id="58582eb9-01a6-434b-a345-34081bd5bc6e" targetBitrate="8576" context="streaming" sourceVideoCodec="h264" sourceAudioCodec="ac3" videoDecision="copy" audioDecision="transcode" protocol="dash" container="mp4" videoCodec="h264" audioCodec="aac" audioChannels="2" transcodeHwRequested="0" transcodeHwFullPipeline="0">
+<Media id="15705" videoProfile="high" audioChannels="2" audioCodec="aac" bitrate="4110" container="mp4" duration="8395680" height="800" optimizedForStreaming="1" protocol="dash" videoCodec="h264" videoFrameRate="24p" videoResolution="1080p" width="1920" selected="1">
+<Part deepAnalysisVersion="2" id="15721" requiredBandwidths="40950,24372,7996,7996,7996,7996,7996,7996" videoProfile="high" bitrate="4110" container="mp4" duration="8395680" height="800" optimizedForStreaming="1" protocol="dash" width="1920" decision="transcode" selected="1">
+<Stream bitrate="3854" chromaLocation="left" codec="h264" colorPrimaries="bt709" colorTrc="bt709" default="1" displayTitle="Unknown (H.264 High)" frameRate="23.975999999999999" height="800" id="34498" requiredBandwidths="40568,23988,7911,7911,7911,7911,7911,7911" streamType="1" width="1920" decision="copy" location="segments-video" />
+<Stream bitrate="256" bitrateMode="cbr" channels="2" codec="aac" default="1" displayTitle="Surround (English AC3 5.1(side))" id="34499" language="English" languageCode="eng" requiredBandwidths="375,375,375,375,375,375,375,375" selected="1" streamType="2" decision="transcode" location="segments-audio" />
+</Part>
+</Media>
+</Variant>
+</Variants>
+<SegmentList>
+<Segment duration="0" startOffset="-1" endOffset="-1">
+<Timelines>
+<Download startTime="200" fileType="audio" variant="58582eb9-01a6-434b-a345-34081bd5bc6e" />
+<Download startTime="215" fileType="video" variant="58582eb9-01a6-434b-a345-34081bd5bc6e" />
+</Timelines>
+</Segment>
+<Segment duration="7549" startOffset="47" endOffset="7596">
+<File name="chunk-stream0-00001.m4s" type="video">
+<FileVariant size="8583620" variant="58582eb9-01a6-434b-a345-34081bd5bc6e" />
+</File>
+<File name="chunk-stream1-00001.m4s" type="audio">
+<FileVariant size="85853" variant="58582eb9-01a6-434b-a345-34081bd5bc6e" />
+</File>
+<Timelines>
+<Transcode startTime="107" endTime="667" complete="1" fileType="video" variant="58582eb9-01a6-434b-a345-34081bd5bc6e" />
+<Transcode startTime="667" endTime="667" complete="1" fileType="audio" variant="58582eb9-01a6-434b-a345-34081bd5bc6e" />
+</Timelines>
+</Segment>
+<Segment duration="7548" startOffset="7596" endOffset="15145">
+<File name="chunk-stream0-00002.m4s" type="video">
+<FileVariant size="545109" variant="58582eb9-01a6-434b-a345-34081bd5bc6e" />
+</File>
+<File name="chunk-stream1-00001.m4s" type="audio">
+<FileVariant size="85853" variant="58582eb9-01a6-434b-a345-34081bd5bc6e" />
+</File>
+<Timelines>
+<Transcode startTime="667" endTime="1073" complete="1" fileType="video" variant="58582eb9-01a6-434b-a345-34081bd5bc6e" />
+<Transcode startTime="1073" endTime="1073" complete="1" fileType="audio" variant="58582eb9-01a6-434b-a345-34081bd5bc6e" />
+</Timelines>
+</Segment>
+<Segment duration="1876" startOffset="15145" endOffset="17022">
+<File name="chunk-stream0-00001.m4s" type="video">
+<FileVariant size="8583620" variant="58582eb9-01a6-434b-a345-34081bd5bc6e" />
+</File>
+<File name="chunk-stream1-00001.m4s" type="audio">
+<FileVariant size="85853" variant="58582eb9-01a6-434b-a345-34081bd5bc6e" />
+</File>
+<Timelines>
+<Transcode startTime="1073" endTime="1073" complete="1" fileType="video" variant="58582eb9-01a6-434b-a345-34081bd5bc6e" />
+<Transcode startTime="1073" endTime="1073" complete="1" fileType="audio" variant="58582eb9-01a6-434b-a345-34081bd5bc6e" />
+</Timelines>
+</Segment>
+</SegmentList>
+<PlaybackReports />
+<StateReports />
+<StateReports />
+</SessionReport>

@@ -1,0 +1,563 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Movie>
+  <art>
+    <item external="True" url="http://image.tmdb.org/t/p/original/3aoRUzIAHTkWiPmfpYNzvYKzRZn.jpg" sort_order="1" provider="com.plexapp.agents.imdb" media="com.plexapp.agents.imdb_e97f5b53af0af1029e77cd5284e21a53d8e69813"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/l7VkXj7GT1U0WYeXqmhFjgaMlgK.jpg" preview="com.plexapp.agents.imdb_3bea4bf06fe5abb14751caa9fd87723e533905b4" sort_order="2" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/eHoVBUrlY7N52uefIGwtQSWjjFj.jpg" preview="com.plexapp.agents.imdb_586da3b02860b3bcef07f904dfe7191822211f2d" sort_order="3" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/pT4LdBhwF1Z9TzunVAWRhpoJ68L.jpg" preview="com.plexapp.agents.imdb_aceee7af94f76568a18cf27811bc104149c590d1" sort_order="4" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/3iSCdXjDmY3DuEOUYsElu35vQU6.jpg" preview="com.plexapp.agents.imdb_29f362bab4945441f4dcbae205ccd9335def8b06" sort_order="5" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/iWRKYHTFlsrxQtfQqFOQyceL83P.jpg" preview="com.plexapp.agents.imdb_bac77b41ff8ce8e6e1049def8d4ffe59afecb88e" sort_order="6" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/qzpDqH1yqG580xB3xxf33SK3R1C.jpg" preview="com.plexapp.agents.imdb_ad8c5485cf55190858bfc040a9b118de4302e8f9" sort_order="7" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/8HthGn2A3E3WiIuPQYqWkAj5MNm.jpg" preview="com.plexapp.agents.imdb_b759ae1ff76ed305cb8c00ce658617352b232e20" sort_order="8" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/z3t2JZMn2lOSvQCXRnYsGYBI8b2.jpg" preview="com.plexapp.agents.imdb_a54f2f8a311a6e0923cc67e1bfd6ae88a7446503" sort_order="9" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/rafB8ck44VxWkY1aJSObkvTeJiX.jpg" preview="com.plexapp.agents.imdb_a13db6355e61ec56ba80d7f7d58f29948a8d4392" sort_order="10" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/uDGU46tQvqNwF3faxQ45uoaPvPd.jpg" preview="com.plexapp.agents.imdb_8f406b8771ef0c254d4895abd7a449d31c6a7dff" sort_order="11" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/lbHcteOgOXeWSIYesnaKbHuvv1G.jpg" preview="com.plexapp.agents.imdb_70d3c67c88787a4efe54585079f3ec002be52b42" sort_order="12" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/71ARlQfeDfqtERmyR3gRcMIrT4X.jpg" preview="com.plexapp.agents.imdb_0b4bcdafc9435350b7038c97abdeca3c0f91145b" sort_order="13" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/rzWGMiTrrMV4OGjBL52Z5QGoVSD.jpg" preview="com.plexapp.agents.imdb_5f4dba552ae17f0e359bdd8bd53cb3942c177168" sort_order="14" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/AnyGHCnWgV4Zcyj8uIj0oypP6cn.jpg" preview="com.plexapp.agents.imdb_b4190511378c65b069472ca3d29916e2e5499e90" sort_order="15" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/2w4dQP8UA2nrxKdUFC5b03P1fgr.jpg" preview="com.plexapp.agents.imdb_9ed81841ba63b16e4204693818af6a697ed3cb2d" sort_order="16" provider="com.plexapp.agents.imdb"/>
+  </art>
+  <banners/>
+  <chapters>
+    <item index="0">
+      <title>Prologue</title>
+      <end_time_offset>155000</end_time_offset>
+      <start_time_offset>0</start_time_offset>
+    </item>
+    <item index="1">
+      <title>Lost At Sea</title>
+      <end_time_offset>410000</end_time_offset>
+      <start_time_offset>155000</start_time_offset>
+    </item>
+    <item index="2">
+      <title>Life With Dory</title>
+      <end_time_offset>653000</end_time_offset>
+      <start_time_offset>410000</start_time_offset>
+    </item>
+    <item index="3">
+      <title>Losing Dory</title>
+      <end_time_offset>813000</end_time_offset>
+      <start_time_offset>653000</start_time_offset>
+    </item>
+    <item index="4">
+      <title>Dory Leads</title>
+      <end_time_offset>925000</end_time_offset>
+      <start_time_offset>813000</start_time_offset>
+    </item>
+    <item index="5">
+      <title>Totally Sick</title>
+      <end_time_offset>1023000</end_time_offset>
+      <start_time_offset>925000</start_time_offset>
+    </item>
+    <item index="6">
+      <title>Shipping Lanes</title>
+      <end_time_offset>1175000</end_time_offset>
+      <start_time_offset>1023000</start_time_offset>
+    </item>
+    <item index="7">
+      <title>Marine Life Institute</title>
+      <end_time_offset>1295000</end_time_offset>
+      <start_time_offset>1175000</start_time_offset>
+    </item>
+    <item index="8">
+      <title>Under Quarantine</title>
+      <end_time_offset>1498000</end_time_offset>
+      <start_time_offset>1295000</start_time_offset>
+    </item>
+    <item index="9">
+      <title>Getting In</title>
+      <end_time_offset>1628000</end_time_offset>
+      <start_time_offset>1498000</start_time_offset>
+    </item>
+    <item index="10">
+      <title>No Pipes</title>
+      <end_time_offset>1833000</end_time_offset>
+      <start_time_offset>1628000</start_time_offset>
+    </item>
+    <item index="11">
+      <title>Manifest Destiny</title>
+      <end_time_offset>2100000</end_time_offset>
+      <start_time_offset>1833000</start_time_offset>
+    </item>
+    <item index="12">
+      <title>Operation Becky</title>
+      <end_time_offset>2272000</end_time_offset>
+      <start_time_offset>2100000</start_time_offset>
+    </item>
+    <item index="13">
+      <title>Stroller Crossing</title>
+      <end_time_offset>2417000</end_time_offset>
+      <start_time_offset>2272000</start_time_offset>
+    </item>
+    <item index="14">
+      <title>Stuck</title>
+      <end_time_offset>2466000</end_time_offset>
+      <start_time_offset>2417000</start_time_offset>
+    </item>
+    <item index="15">
+      <title>Argument</title>
+      <end_time_offset>2550000</end_time_offset>
+      <start_time_offset>2466000</start_time_offset>
+    </item>
+    <item index="16">
+      <title>Touch Pool</title>
+      <end_time_offset>2763000</end_time_offset>
+      <start_time_offset>2550000</start_time_offset>
+    </item>
+    <item index="17">
+      <title>Confession</title>
+      <end_time_offset>2921000</end_time_offset>
+      <start_time_offset>2763000</start_time_offset>
+    </item>
+    <item index="18">
+      <title>Tag</title>
+      <end_time_offset>3027000</end_time_offset>
+      <start_time_offset>2921000</start_time_offset>
+    </item>
+    <item index="19">
+      <title>Childhood Home</title>
+      <end_time_offset>3306000</end_time_offset>
+      <start_time_offset>3027000</start_time_offset>
+    </item>
+    <item index="20">
+      <title>Pipe Travel</title>
+      <end_time_offset>3425000</end_time_offset>
+      <start_time_offset>3306000</start_time_offset>
+    </item>
+    <item index="21">
+      <title>Meeting Marlin</title>
+      <end_time_offset>3641000</end_time_offset>
+      <start_time_offset>3425000</start_time_offset>
+    </item>
+    <item index="22">
+      <title>Off To Cleveland</title>
+      <end_time_offset>3872000</end_time_offset>
+      <start_time_offset>3641000</start_time_offset>
+    </item>
+    <item index="23">
+      <title>All Alone</title>
+      <end_time_offset>4236000</end_time_offset>
+      <start_time_offset>3872000</start_time_offset>
+    </item>
+    <item index="24">
+      <title>Game Plan</title>
+      <end_time_offset>4348000</end_time_offset>
+      <start_time_offset>4236000</start_time_offset>
+    </item>
+    <item index="25">
+      <title>Stop That Truck</title>
+      <end_time_offset>4449000</end_time_offset>
+      <start_time_offset>4348000</start_time_offset>
+    </item>
+    <item index="26">
+      <title>Time To Go</title>
+      <end_time_offset>4706000</end_time_offset>
+      <start_time_offset>4449000</start_time_offset>
+    </item>
+    <item index="27">
+      <title>Big Finish</title>
+      <end_time_offset>5209000</end_time_offset>
+      <start_time_offset>4706000</start_time_offset>
+    </item>
+    <item index="28">
+      <title>Epilogue</title>
+      <end_time_offset>-1</end_time_offset>
+      <start_time_offset>5209000</start_time_offset>
+    </item>
+  </chapters>
+  <collections/>
+  <content_rating>PG</content_rating>
+  <countries>
+    <item index="0">USA</item>
+  </countries>
+  <directors>
+    <item index="0">
+      <photo>http://image.tmdb.org/t/p/original/pvQWsu0qc8JFQhMVJkTHuexUAa1.jpg</photo>
+      <role/>
+      <name>Andrew Stanton</name>
+    </item>
+  </directors>
+  <duration>5820000</duration>
+  <genres>
+    <item index="0">Animation</item>
+    <item index="1">Adventure</item>
+    <item index="2">Comedy</item>
+    <item index="3">Family</item>
+  </genres>
+  <originally_available_at>2016-06-16</originally_available_at>
+  <posters>
+    <item external="True" url="http://image.tmdb.org/t/p/original/z09QAf8WbZncbitewNk6lKYMZsh.jpg" sort_order="1" provider="com.plexapp.agents.imdb" media="com.plexapp.agents.imdb_7125c2cb75afaeac9b4fd47e6aae2ee4f9d5c425"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/xID608ibFzu1jSpdBHyTGOPj363.jpg" preview="com.plexapp.agents.imdb_9fa0d592320e40ea3262f13ce2931507cd9e7b61" sort_order="2" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/r0Nd7mrhXLx8gQWfAU63jWCZCvW.jpg" preview="com.plexapp.agents.imdb_d75be17a21c569287d93563ae31be18c58a5dad3" sort_order="3" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/gBDyYHIvKW80t14gQAQsznv8ygi.jpg" preview="com.plexapp.agents.imdb_29d48cb89209c42f6ebd0868ca8f130c1a263e35" sort_order="4" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/51FyhlxSIZuOGwYetR9icsEdFlu.jpg" preview="com.plexapp.agents.imdb_8952b5517b65c8bed4cb5bd48bc3757a45908b08" sort_order="5" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/iHW36GSJ7rj8MPQABKjXPeQMb8A.jpg" preview="com.plexapp.agents.imdb_2ad834714ab131be22afd73a81206bbe7ac8b547" sort_order="6" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/spI4SD374Fg44SkTEmoDGKt8TdW.jpg" preview="com.plexapp.agents.imdb_b7c934aec3f504d0d6506a1b8697fbe732c68c76" sort_order="7" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/zKDpWdnQnYmCxaAwLHbICxVS2ja.jpg" preview="com.plexapp.agents.imdb_cc56c487a54e1c37b4ceccf7deca89fbe960d825" sort_order="8" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/3UVe8NL1E2ZdUZ9EDlKGJY5UzE.jpg" preview="com.plexapp.agents.imdb_20e8fa8b0cc7dffe6b0e03acc705cb9440eb14bd" sort_order="9" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/ipJx835Tv6rtGht3uT7kA9Nxrnh.jpg" preview="com.plexapp.agents.imdb_4a00988eaf40aaae3cba91c4e5273a4ca0391572" sort_order="10" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/b04qDIjrGSSGLtrIVoSEnlWjmxd.jpg" preview="com.plexapp.agents.imdb_869865667cb8767a79154fac126d05b53caa1eec" sort_order="11" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/7pSJOJ0Bd9fRMPTeLZh4V5A8biS.jpg" preview="com.plexapp.agents.imdb_412a0c06cfeed9e14d4e5fca6607f94fb63aa271" sort_order="12" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/rfEfrffJsBGJhK2vZNQZvYBch0X.jpg" preview="com.plexapp.agents.imdb_89a53c9f5eee203ad0562564f9c507ef38a8cd63" sort_order="13" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/8UcwYpkSvjCFmMeQQjaw6sX43Lh.jpg" preview="com.plexapp.agents.imdb_b87328e1d30cab494da3a8d989084b5645be560c" sort_order="14" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/uINg7eol70vkcEgtvf3McZnYZEE.jpg" preview="com.plexapp.agents.imdb_fd3085d82da6044c3ce0272261ec865ca9460694" sort_order="15" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/3XuQFGeRLFhZ7HnEgMdTkBVL0Tj.jpg" preview="com.plexapp.agents.imdb_9afdd44808927531d4ba939e83de67acc9ec1922" sort_order="16" provider="com.plexapp.agents.imdb"/>
+  </posters>
+  <producers>
+    <item index="0">
+      <photo/>
+      <role/>
+      <name>Lindsey Collins</name>
+    </item>
+  </producers>
+  <rating>9.4</rating>
+  <rating_image>rottentomatoes://image.rating.ripe</rating_image>
+  <audience_rating>8.4</audience_rating>
+  <audience_rating_image>rottentomatoes://image.rating.upright</audience_rating_image>
+  <reviews>
+    <item index="0">
+      <text>Who would have thought one of the deepest films ever made about learning disabilities would star a talking blue fish?</text>
+      <source>Salon.com</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>http://www.salon.com/2016/06/17/finding_dory_is_more_than_just_another_pixar_cartoon_its_a_powerful_portrayal_of_living_with_a_learning_disability/</link>
+      <author>Matthew Rozsa</author>
+    </item>
+    <item index="1">
+      <text>While not as visually dazzling as its predecessor, the film is still colorful and immersive; the script, while predictable, puts an engaging spin on the issues of home and identity.</text>
+      <source>New Yorker</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>http://www.newyorker.com/goings-on-about-town/movies/finding-dory</link>
+      <author>Bruce Diones</author>
+    </item>
+    <item index="2">
+      <text>It's gorgeous. It's lively. It's got terrific performances from a strong voice cast. It's emotionally affecting without being heavy-handed.</text>
+      <source>ChristyLemire.com</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>http://christylemire.com/finding-dory/</link>
+      <author>Christy Lemire</author>
+    </item>
+    <item index="3">
+      <text>Dory's visual palette is such a joy to look at, drawing on the deep blues and greens of the underwater expanse and ocean-dwelling algae.</text>
+      <source>Newsweek</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>http://www.newsweek.com/finding-dory-review-pixar-nemo-472004</link>
+      <author>Zach Schonfeld</author>
+    </item>
+    <item index="4">
+      <text>Finding Dory is enjoyable in its own right, even if its powerful sense of déjà vu keeps it from approaching the pinnacle of the Disney/Pixar collaborations.</text>
+      <source>ReelViews</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>http://www.reelviews.net/reelviews/finding-dory</link>
+      <author>James Berardinelli</author>
+    </item>
+    <item index="5">
+      <text>There are some rollicky moments in Finding Dory... [But] the inventiveness of the animation is not matched by the frayed workmanship of the story line.</text>
+      <source>Christian Science Monitor</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>http://www.csmonitor.com/The-Culture/Movies/2016/0617/Finding-Dory-has-rollicky-moments-but-Finding-Nemo-was-better</link>
+      <author>Peter Rainer</author>
+    </item>
+    <item index="6">
+      <text>It's a sequel that's a continuation of the original film rather than an expansion of it, and it is still a success, though not a triumph.</text>
+      <source>The New Republic</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>https://newrepublic.com/article/134411/finding-dory-swims-forget</link>
+      <author>Will Leitch</author>
+    </item>
+    <item index="7">
+      <text>A sequel that betters the boffo 2003 animated feature Finding Nemo and provides more evidence, after last year's highly original Inside Out, that Pixar has finally emerged from the uninspiring years of the Cars franchise.</text>
+      <source>Globe and Mail</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>http://www.theglobeandmail.com/arts/film/film-reviews/finding-dory-is-a-sunny-sequel-that-stands-up-to-the-original/article30494852/</link>
+      <author>Kate Taylor</author>
+    </item>
+    <item index="8">
+      <text>The film is often visually striking and charming enough, but it's low on two things we've come to expect from Pixar: comedy and moving emotional moments.</text>
+      <source>Detroit News</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>http://www.detroitnews.com/story/entertainment/movies/2016/06/16/review-dory-lacking-special-pixar-sizzle/86017606/</link>
+      <author>Patrick Dunn</author>
+    </item>
+    <item index="9">
+      <text>It's a solid, entertaining, well-paced sequel featuring terrific voice work, a clever script and some ingenious action sequences.</text>
+      <source>Chicago Sun-Times</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>http://chicago.suntimes.com/entertainment/finding-dory-almost-measures-up-to-the-heart-tugging-original/</link>
+      <author>Richard Roeper</author>
+    </item>
+    <item index="10">
+      <text>Finding Dory may be more of a minnow than a whale of a tale for Pixar, but it's still a good catch.</text>
+      <source>Toronto Star</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>https://www.thestar.com/entertainment/movies/2016/06/16/finding-dory-is-a-pixar-minnow-but-still-a-good-catch-review.html</link>
+      <author>Peter Howell</author>
+    </item>
+    <item index="11">
+      <text>As the 13-year gap between "Nemo" and "Dory" indicates, this was not a concept that cried out to be made.</text>
+      <source>Los Angeles Times</source>
+      <image>rottentomatoes://image.review.rotten</image>
+      <link>http://www.latimes.com/entertainment/movies/la-et-mn-finding-dory-review-20160613-snap-story.html#nt=oft03a-1la1</link>
+      <author>Kenneth Turan</author>
+    </item>
+    <item index="12">
+      <text>It is nice, especially at this precise moment, to believe that evil and cruelty don't necessarily have to exist in the world: that even in the great big ocean, a couple of small fish looking for help can always depend on the kindness of strangers.</text>
+      <source>NPR</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>http://www.npr.org/2016/06/16/482000492/finding-dory-but-losing-the-thread?utm_medium=RSS&amp;utm_campaign=movies</link>
+      <author>Andrew Lapin</author>
+    </item>
+    <item index="13">
+      <text>"Finding Dory" can be touching, sweet and tender, but it's compulsively, preposterously and steadfastly funny.</text>
+      <source>Wall Street Journal</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>http://www.wsj.com/articles/finding-dory-review-winning-by-losing-once-again-1466099101</link>
+      <author>Joe Morgenstern</author>
+    </item>
+    <item index="14">
+      <text>There are terrific Pixar sequels ("Toy Story 2" and "3") and OK Pixar sequels ("Cars 2," "Monsters University"). "Finding Dory" is one of the terrific ones, if not quite up to the "Toy Story" standard.</text>
+      <source>Boston Globe</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>http://www.bostonglobe.com/arts/movies/2016/06/15/pixar-finding-dory-lives-finding-nemo/aLZobI69XVENh6zo5Y9kIP/story.html</link>
+      <author>Mark Feeney</author>
+    </item>
+    <item index="15">
+      <text>If there has ever been a better voice performance in an animated film than Ellen DeGeneres' in Pixar's wonderful sequel "Finding Dory," I sure can't think of it.</text>
+      <source>New York Post</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>http://nypost.com/2016/06/16/ellen-degeneres-gives-the-best-voice-performance-ever-in-finding-dory/</link>
+      <author>Lou Lumenick</author>
+    </item>
+    <item index="16">
+      <text>Pixar films are invariably clever and play on multiple levels, and this one is no exception. There's something deeply moving about Dory's plight.</text>
+      <source>CNN.com</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>http://money.cnn.com/2016/06/16/media/finding-dory-review/index.html</link>
+      <author>Brian Lowry</author>
+    </item>
+    <item index="17">
+      <text>The elemental emotions at work and the childlike awe at the undersea world -- rendered once again in colorful, carefully researched, lovingly precise animation -- contribute to the sense of a story timeless and pure.</text>
+      <source>Chicago Reader</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>http://www.chicagoreader.com/chicago/finding-dory/MovieTimes?oid=22262481</link>
+      <author>J. R. Jones</author>
+    </item>
+    <item index="18">
+      <text>Much of Finding Dory is funny, and fun. But there's something kind of haunting about our heroine's memory thing.</text>
+      <source>Philadelphia Inquirer</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>http://www.philly.com/philly/entertainment/movies/20160617_Finding_Dory___Gorgeous_fun_from_Pixar_and_Ellen_DeGeneres_-_but_is_something_fishy_here_.html</link>
+      <author>Steven Rea</author>
+    </item>
+    <item index="19">
+      <text>Finding Dory is delightful throughout, dazzling during its many highlight scenes and just a tad disorienting on rare occasions.</text>
+      <source>Toronto Sun</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>http://www.torontosun.com/2016/06/16/finding-dory-review-parents-and-kids-will-be-enthralled-by-one-of-pixars-best-sequels</link>
+      <author>Bruce Kirkland</author>
+    </item>
+  </reviews>
+  <roles>
+    <item index="0">
+      <photo>http://image.tmdb.org/t/p/original/wBB6C4IGsYlHzIEMW6Q3JIvNAfz.jpg</photo>
+      <role>Dory (voice)</role>
+      <name>Ellen DeGeneres</name>
+    </item>
+    <item index="1">
+      <photo>http://image.tmdb.org/t/p/original/kahlMTdygrPJ28VYRhKPavYD9hs.jpg</photo>
+      <role>Marlin (voice)</role>
+      <name>Albert Brooks</name>
+    </item>
+    <item index="2">
+      <photo>http://image.tmdb.org/t/p/original/nq2yqye8ioIemwmSIz6R76YpiJZ.jpg</photo>
+      <role>Nemo (voice)</role>
+      <name>Hayden Rolence</name>
+    </item>
+    <item index="3">
+      <photo>http://image.tmdb.org/t/p/original/pw37XR7Rvw50GWZ3c7rEibn8oAi.jpg</photo>
+      <role>Hank (voice)</role>
+      <name>Ed O'Neill</name>
+    </item>
+    <item index="4">
+      <photo>http://image.tmdb.org/t/p/original/fzgUMnbOkxC6E3EFcYHWHFaiKyp.jpg</photo>
+      <role>Jenny (voice)</role>
+      <name>Diane Keaton</name>
+    </item>
+    <item index="5">
+      <photo>http://image.tmdb.org/t/p/original/69IBiDjU1gSqtrcGOA7PA7aEYsc.jpg</photo>
+      <role>Charlie (voice)</role>
+      <name>Eugene Levy</name>
+    </item>
+    <item index="6">
+      <photo>http://image.tmdb.org/t/p/original/t8I6YPdmPTBgdY5ymqygCxciMYf.jpg</photo>
+      <role>Destiny (voice)</role>
+      <name>Kaitlin Olson</name>
+    </item>
+    <item index="7">
+      <photo>http://image.tmdb.org/t/p/original/hJeOomahu5I7CgODCU9jh7oPsu6.jpg</photo>
+      <role>Bailey (voice)</role>
+      <name>Ty Burrell</name>
+    </item>
+    <item index="8">
+      <photo>http://image.tmdb.org/t/p/original/fBNfIzrfOqh1KFvQkSxrJoMNYXL.jpg</photo>
+      <role>Fluke (voice)</role>
+      <name>Idris Elba</name>
+    </item>
+    <item index="9">
+      <photo>http://image.tmdb.org/t/p/original/56zmVMiuUhqas13xn700hvXUA32.jpg</photo>
+      <role>Rudder (voice)</role>
+      <name>Dominic West</name>
+    </item>
+    <item index="10">
+      <photo>http://image.tmdb.org/t/p/original/i14Klxn7BN7kfzCcfbfngdFaxkh.jpg</photo>
+      <role>Wife Fish (voice)</role>
+      <name>Kate McKinnon</name>
+    </item>
+    <item index="11">
+      <photo>http://image.tmdb.org/t/p/original/3Z5JsyLw7YTLZgpA3FAlLmFSN9F.jpg</photo>
+      <role>Husband Fish (Stan) (voice)</role>
+      <name>Bill Hader</name>
+    </item>
+    <item index="12">
+      <photo>http://image.tmdb.org/t/p/original/pvQWsu0qc8JFQhMVJkTHuexUAa1.jpg</photo>
+      <role>Crush (voice)</role>
+      <name>Andrew Stanton</name>
+    </item>
+    <item index="13">
+      <photo/>
+      <role>Gerald (voice)</role>
+      <name>Torbin Xan Bullock</name>
+    </item>
+    <item index="14">
+      <photo>http://image.tmdb.org/t/p/original/bi3Zvv95qUcUu4w3BkbmeiZd7BZ.jpg</photo>
+      <role>Squirt (voice)</role>
+      <name>Bennett Dammann</name>
+    </item>
+    <item index="15">
+      <photo>http://image.tmdb.org/t/p/original/13YNM8lBKnK26MYd2Lp3OpU6JdI.jpg</photo>
+      <role>Mr. Ray (voice)</role>
+      <name>Bob Peterson</name>
+    </item>
+    <item index="16">
+      <photo>http://image.tmdb.org/t/p/original/c4EHOhxzwx7uDBxC8zODvKAEFGX.jpg</photo>
+      <role>Passenger Carl (voice)</role>
+      <name>Alexander Gould</name>
+    </item>
+    <item index="17">
+      <photo>http://image.tmdb.org/t/p/original/se4SkPHGzo7RHi9kXbfgyFvLErH.jpg</photo>
+      <role>Chicken Fish (voice)</role>
+      <name>Katherine Ringgold</name>
+    </item>
+    <item index="18">
+      <photo>http://image.tmdb.org/t/p/original/yGechiKWL6TJDfVE2KPSJYqdMsY.jpg</photo>
+      <role>Husband Crab (Bill) (voice)</role>
+      <name>John Ratzenberger</name>
+    </item>
+    <item index="19">
+      <photo>http://image.tmdb.org/t/p/original/7U1mEvzHGNJiC07EOhKIKSl3Qiy.jpg</photo>
+      <role>Sunfish 'Charlie Back and Forth' (voice)</role>
+      <name>Angus MacLane</name>
+    </item>
+    <item index="20">
+      <photo>http://image.tmdb.org/t/p/original/7t8fhfaFBoS9VOo3OPXCfK516eI.jpg</photo>
+      <role>Gill (voice)</role>
+      <name>Willem Dafoe</name>
+    </item>
+    <item index="21">
+      <photo>http://image.tmdb.org/t/p/original/wXihtlnIvqP2oSNj33hiorDd3v9.jpg</photo>
+      <role>Bloat (voice)</role>
+      <name>Brad Garrett</name>
+    </item>
+    <item index="22">
+      <photo>http://image.tmdb.org/t/p/original/hpBKWV1jjoXQbr1s0iUZTSvw582.jpg</photo>
+      <role>Peach (voice)</role>
+      <name>Allison Janney</name>
+    </item>
+    <item index="23">
+      <photo>http://image.tmdb.org/t/p/original/pxcdhd4oAsnhvUg0BalmiiKJyXg.jpg</photo>
+      <role>Gurgle (voice)</role>
+      <name>Austin Pendleton</name>
+    </item>
+    <item index="24">
+      <photo>http://image.tmdb.org/t/p/original/sceCvLiv8xe2jQzrVn39wvosVHG.jpg</photo>
+      <role>Bubbles (voice)</role>
+      <name>Stephen Root</name>
+    </item>
+    <item index="25">
+      <photo>http://image.tmdb.org/t/p/original/vXKKbsYikbLZ3DS1GbCWwMoqDN7.jpg</photo>
+      <role>Deb (&amp;Flo) (voice)</role>
+      <name>Vicki Lewis</name>
+    </item>
+    <item index="26">
+      <photo>http://image.tmdb.org/t/p/original/pmiQZq5JEhCjhdsIuMaP6Fkt0e9.jpg</photo>
+      <role>Jacques (voice)</role>
+      <name>Jerome Ranft</name>
+    </item>
+    <item index="27">
+      <photo/>
+      <role>Young Dory (voice)</role>
+      <name>Sloane Murray</name>
+    </item>
+    <item index="28">
+      <photo/>
+      <role>Tween Dory (voice)</role>
+      <name>Lucia Geddes</name>
+    </item>
+    <item index="29">
+      <photo/>
+      <role>Becky</role>
+      <name>Gabriel C. Brown</name>
+    </item>
+    <item index="30">
+      <photo>http://image.tmdb.org/t/p/original/gxBIAr3CnBjkNRoPovVJCvEGqP0.jpg</photo>
+      <role>Sigourney Weaver (voice)</role>
+      <name>Sigourney Weaver</name>
+    </item>
+    <item index="31">
+      <photo>http://image.tmdb.org/t/p/original/ygzJHdd1PTQCVz0j34hkPnnjX5o.jpg</photo>
+      <role>Additional Voices (voice)</role>
+      <name>Riley Lio</name>
+    </item>
+  </roles>
+  <similar>
+    <item index="0">Zootopia</item>
+    <item index="1">The Secret Life of Pets</item>
+    <item index="2">The Good Dinosaur</item>
+    <item index="3">Finding Nemo</item>
+    <item index="4">Moana</item>
+    <item index="5">The Jungle Book</item>
+    <item index="6">Inside Out</item>
+    <item index="7">Monsters University</item>
+    <item index="8">Ratatouille</item>
+    <item index="9">A Bug's Life</item>
+    <item index="10">Kung Fu Panda 3</item>
+    <item index="11">Toy Story 2</item>
+    <item index="12">Ice Age: Collision Course</item>
+    <item index="13">Sing</item>
+    <item index="14">The Incredibles</item>
+    <item index="15">Alice Through the Looking Glass</item>
+    <item index="16">Sausage Party</item>
+    <item index="17">Frozen</item>
+    <item index="18">Toy Story 3</item>
+    <item index="19">Fantastic Beasts and Where to Find Them</item>
+  </similar>
+  <studio>Pixar</studio>
+  <summary>Dory is reunited with her friends Nemo and Marlin in the search for answers about her past. What can she remember? Who are her parents? And where did she learn to speak Whale?</summary>
+  <tagline>An unforgettable journey she probably won't remember.</tagline>
+  <tags/>
+  <themes/>
+  <title>Finding Dory</title>
+  <writers>
+    <item index="0">
+      <photo>http://image.tmdb.org/t/p/original/pvQWsu0qc8JFQhMVJkTHuexUAa1.jpg</photo>
+      <role/>
+      <name>Andrew Stanton</name>
+    </item>
+    <item index="1">
+      <photo>http://image.tmdb.org/t/p/original/n4ZvLyMQmIGx6257xZnEJb41fP7.jpg</photo>
+      <role/>
+      <name>Victoria Strouse</name>
+    </item>
+  </writers>
+  <year>2016</year>
+</Movie>

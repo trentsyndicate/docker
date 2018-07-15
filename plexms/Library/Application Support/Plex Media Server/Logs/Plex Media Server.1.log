@@ -1,0 +1,415 @@
+Jul 14, 2018 22:34:32.034 [0x7f7d68bfe700] INFO - Plex Media Server v1.13.2.5154-fd05be322 - ubuntu docker x86_64 - build: linux-ubuntu-x86_64 ubuntu - GMT -04:00
+Jul 14, 2018 22:34:32.034 [0x7f7d68bfe700] INFO - Linux version: 4.15.0-24-generic (#26-Ubuntu SMP Wed Jun 13 08:44:47 UTC 2018), language: C
+Jul 14, 2018 22:34:32.034 [0x7f7d68bfe700] INFO - Processor Intel(R) Core(TM) i7-4770R CPU @ 3.20GHz
+Jul 14, 2018 22:34:32.034 [0x7f7d68bfe700] INFO - /usr/lib/plexmediaserver/Plex Media Server
+Jul 14, 2018 22:34:32.033 [0x7f7d74a61800] DEBUG - BPQ: [Idle] -> [Starting]
+Jul 14, 2018 22:34:32.043 [0x7f7d74a61800] DEBUG - Opening 20 database sessions to library (com.plexapp.plugins.library), SQLite 3.13.0, threadsafe=1
+Jul 14, 2018 22:34:32.088 [0x7f7d74a61800] DEBUG - Running migrations.
+Jul 14, 2018 22:34:32.098 [0x7f7d74a61800] DEBUG - ChangestampAllocator: initialized to 46166
+Jul 14, 2018 22:34:32.098 [0x7f7d74a61800] DEBUG - Opening 2 database sessions to library (com.plexapp.plugins.library.blobs), SQLite 3.13.0, threadsafe=1
+Jul 14, 2018 22:34:32.104 [0x7f7d74a61800] DEBUG - Running migrations.
+Jul 14, 2018 22:34:32.117 [0x7f7d74a61800] DEBUG - CERT: Installed certificate with fingerprint b4:6f:ee:3f:e5:ec:4c:b3:25:ee:f2:e8:26:55:73:08:75:b3:84:23.
+Jul 14, 2018 22:34:32.118 [0x7f7d74a61800] DEBUG - CERT: Installed new private key.
+Jul 14, 2018 22:34:32.118 [0x7f7d74a61800] DEBUG - CERT: Subject name is /C=US/ST=California/L=Los Gatos/O=Plex, Inc./CN=*.bcf3dc37105049b7baeac1912839ddb9.plex.direct
+Jul 14, 2018 22:34:32.118 [0x7f7d74a61800] DEBUG - CERT: OCSP requests for stapling will be made to 'http://ocspx.digicert.com/'.
+Jul 14, 2018 22:34:32.119 [0x7f7d74a61800] INFO - OCSP: Successfully retrieved response from cache.
+Jul 14, 2018 22:34:32.119 [0x7f7d74a61800] DEBUG - CERT: Installed intermediate certificate.
+Jul 14, 2018 22:34:32.120 [0x7f7d74a61800] DEBUG - HttpServer: Listening on port 32400 with queue of 128 connections.
+Jul 14, 2018 22:34:32.120 [0x7f7d74a61800] DEBUG - HttpServer: Listening on port 32401 with queue of 128 connections.
+Jul 14, 2018 22:34:32.127 [0x7f7d64bff700] DEBUG - DVR:Grabber: Cleaning up orphaned grabs.
+Jul 14, 2018 22:34:32.128 [0x7f7d74a61800] DEBUG - Media Provider: Registering provider com.plexapp.plugins.library
+Jul 14, 2018 22:34:32.128 [0x7f7d74a61800] DEBUG - Auth: Refreshing tokens inside the token-based authentication filter.
+Jul 14, 2018 22:34:32.128 [0x7f7d74a61800] DEBUG - Relay: read 3 cached entries from hosts file
+Jul 14, 2018 22:34:32.128 [0x7f7d74a61800] DEBUG - MyPlex: using cached data for request for https://plex.tv/servers/3ed2b02a097ae0dbd8131e18952f0fd286cb9cf6/access_tokens.xml?auth_token=xxxxxxxxxxxxxxxxxxxx&includeProfiles=1&includeProviders=1
+Jul 14, 2018 22:34:32.129 [0x7f7d74a61800] DEBUG - MyPlex: updating with 68 access tokens
+Jul 14, 2018 22:34:32.131 [0x7f7d63bff700] DEBUG - Relay: read 3 cached entries from hosts file
+Jul 14, 2018 22:34:32.131 [0x7f7d60bfe700] DEBUG - File /usr/lib/plexmediaserver/Resources/Plug-ins-fd05be322 changed: -1 => 1528568481.
+Jul 14, 2018 22:34:32.131 [0x7f7d63bff700] DEBUG - HTTP requesting GET https://plex.tv/media/providers?X-Plex-Token=xxxxxxxxxxxxxxxxxxxx
+Jul 14, 2018 22:34:32.131 [0x7f7d60bfe700] DEBUG - File /config/Library/Application Support/Plex Media Server/Plug-ins changed: -1 => 1531567562.
+Jul 14, 2018 22:34:32.131 [0x7f7d60bfe700] DEBUG - Scanning for plug-ins in /usr/lib/plexmediaserver/Resources/Plug-ins-fd05be322
+Jul 14, 2018 22:34:32.132 [0x7f7d62bff700] DEBUG - Auth: Refreshing tokens inside the token-based authentication filter.
+Jul 14, 2018 22:34:32.132 [0x7f7d62bff700] DEBUG - HTTP requesting GET https://plex.tv/servers/3ed2b02a097ae0dbd8131e18952f0fd286cb9cf6/access_tokens.xml?auth_token=xxxxxxxxxxxxxxxxxxxx&includeProfiles=1&includeProviders=1
+Jul 14, 2018 22:34:32.149 [0x7f7d60bfe700] DEBUG - Scanning for plug-ins in /config/Library/Application Support/Plex Media Server/Plug-ins
+Jul 14, 2018 22:34:32.150 [0x7f7d60bfe700] DEBUG - PluginRepository::setStartState: 1, startingSystem
+Jul 14, 2018 22:34:32.150 [0x7f7d60bfe700] DEBUG - Starting plug-in /usr/lib/plexmediaserver/Resources/Plug-ins-fd05be322/System.bundle.
+Jul 14, 2018 22:34:32.150 [0x7f7d60bfe700] DEBUG - [com.plexapp.system] Setting plug-in to always running (daemon mode).
+Jul 14, 2018 22:34:32.155 [0x7f7d60bfe700] DEBUG - Starting file watcher for com.plexapp.system
+Jul 14, 2018 22:34:32.157 [0x7f7d60bfe700] DEBUG - Spawned plug-in com.plexapp.system with PID 203
+Jul 14, 2018 22:34:32.157 [0x7f7d60bfe700] DEBUG - [com.plexapp.system] Sending command: GET /:/prefixes
+Jul 14, 2018 22:34:32.410 [0x7f7d64bff700] DEBUG - DVR:Grabber: Cleaned up 0 decrepit directories in 0.0 sec.
+Jul 14, 2018 22:34:32.585 [0x7f7d63bff700] DEBUG - HTTP 200 response from GET https://plex.tv/media/providers?X-Plex-Token=xxxxxxxxxxxxxxxxxxxx
+Jul 14, 2018 22:34:32.619 [0x7f7d62bff700] DEBUG - HTTP 200 response from GET https://plex.tv/servers/3ed2b02a097ae0dbd8131e18952f0fd286cb9cf6/access_tokens.xml?auth_token=xxxxxxxxxxxxxxxxxxxx&includeProfiles=1&includeProviders=1
+Jul 14, 2018 22:34:32.620 [0x7f7d62bff700] DEBUG - MyPlex: updating with 68 access tokens
+Jul 14, 2018 22:34:33.748 [0x7f7d60bfe700] DEBUG - Reading 486 bytes in the body, code is 200
+Jul 14, 2018 22:34:33.748 [0x7f7d60bfe700] DEBUG - [com.plexapp.system] Plug-in running on port 43623.
+Jul 14, 2018 22:34:33.748 [0x7f7d60bfe700] DEBUG -  * Plug-in handles prefix: /system
+Jul 14, 2018 22:34:33.748 [0x7f7d60bfe700] DEBUG -  * Plug-in handles prefix: /player
+Jul 14, 2018 22:34:33.748 [0x7f7d60bfe700] DEBUG - Read configuration for [com.plexapp.system], had 2 prefixes
+Jul 14, 2018 22:34:33.865 [0x7f7d60bfe700] DEBUG - Done with 1 synchronous plug-in starts, starting the rest in parallel.
+Jul 14, 2018 22:34:33.865 [0x7f7d60bfe700] DEBUG - PluginRepository::setStartState: 2, startingPlugins
+Jul 14, 2018 22:34:33.865 [0x7f7d60bfe700] DEBUG - Updating the list of agents known by the system.
+Jul 14, 2018 22:34:33.866 [0x7f7d60bfe700] DEBUG - [com.plexapp.system] Sending command over HTTP (GET): /system/agents
+Jul 14, 2018 22:34:33.866 [0x7f7d60bfe700] DEBUG - HTTP requesting GET http://127.0.0.1:43623/system/agents
+Jul 14, 2018 22:34:33.866 [0x7f7d74a61800] DEBUG - Image transcode cache directory: "/config/Library/Application Support/Plex Media Server/Cache/PhotoTranscoder"
+Jul 14, 2018 22:34:33.866 [0x7f7d74a61800] DEBUG - Transcoder: Cleaning old transcode directories.
+Jul 14, 2018 22:34:33.867 [0x7f7d74a61800] DEBUG - MyPlex: using cached data for request for https://plex.tv/servers/3ed2b02a097ae0dbd8131e18952f0fd286cb9cf6/access_tokens.xml?auth_token=xxxxxxxxxxxxxxxxxxxx&includeProfiles=1&includeProviders=1
+Jul 14, 2018 22:34:33.868 [0x7f7d74a61800] DEBUG - MyPlex: updating with 68 access tokens
+Jul 14, 2018 22:34:33.868 [0x7f7d74a61800] DEBUG - MyPlex: using cached data for request for https://plex.tv/users/account.xml?auth_token=xxxxxxxxxxxxxxxxxxxx&includeGeolocation=1
+Jul 14, 2018 22:34:33.869 [0x7f7d74a61800] DEBUG - MyPlex: username is mrfoofs, login is jdmtrent@gmail.com, home is 0, no pin
+Jul 14, 2018 22:34:33.877 [0x7f7d74a61800] DEBUG - PublicAddressManager: Starting.
+Jul 14, 2018 22:34:33.877 [0x7f7d74a61800] DEBUG - PublicAddressManager: Obtaining public address and mapping port.
+Jul 14, 2018 22:34:33.877 [0x7f7d74a61800] DEBUG - NetworkInterface: Starting watch thread.
+Jul 14, 2018 22:34:33.877 [0x7f7d64bff700] DEBUG - PublicAddressManager: Obtaining public IP.
+Jul 14, 2018 22:34:33.877 [0x7f7d74a61800] DEBUG - Network change.
+Jul 14, 2018 22:34:33.877 [0x7f7d74a61800] DEBUG - NetworkInterface: Notified of network changed (force=0)
+Jul 14, 2018 22:34:33.877 [0x7f7d64bff700] DEBUG - HTTP requesting GET http://plex.tv/pms/:/ip
+Jul 14, 2018 22:34:33.877 [0x7f7d63bff700] DEBUG - NAT: UPnP, attempting port mapping.
+Jul 14, 2018 22:34:33.878 [0x7f7d74a61800] DEBUG - Network interfaces:
+Jul 14, 2018 22:34:33.878 [0x7f7d74a61800] DEBUG -  * 1 lo (127.0.0.1) (loopback: 1)
+Jul 14, 2018 22:34:33.878 [0x7f7d74a61800] DEBUG -  * 2 eth0 (192.168.1.203) (loopback: 0)
+Jul 14, 2018 22:34:33.878 [0x7f7d74a61800] DEBUG -  * 3 br-44ba2d311812 (172.19.0.1) (loopback: 0)
+Jul 14, 2018 22:34:33.878 [0x7f7d74a61800] DEBUG -  * 4 docker0 (172.17.0.1) (loopback: 0)
+Jul 14, 2018 22:34:33.878 [0x7f7d74a61800] DEBUG -  * 5 br-7a7b2cae74e5 (172.20.0.1) (loopback: 0)
+Jul 14, 2018 22:34:33.878 [0x7f7d74a61800] DEBUG -  * 6 br-fbe1fa0a7bab (172.18.0.1) (loopback: 0)
+Jul 14, 2018 22:34:33.878 [0x7f7d74a61800] DEBUG - Creating NetworkServices singleton.
+Jul 14, 2018 22:34:33.878 [0x7f7d74a61800] DEBUG - NetworkServices: Initializing...
+Jul 14, 2018 22:34:33.878 [0x7f7d74a61800] DEBUG - NetworkService: Creating new service.
+Jul 14, 2018 22:34:33.878 [0x7f7d74a61800] DEBUG - NetworkService: Got notification of changed network (first change: 1)
+Jul 14, 2018 22:34:33.878 [0x7f7d74a61800] DEBUG - NetworkService: Quick dispatch of network change.
+Jul 14, 2018 22:34:33.879 [0x7f7d74a61800] DEBUG - NetworkService: Creating new service.
+Jul 14, 2018 22:34:33.879 [0x7f7d74a61800] DEBUG - NetworkService: Got notification of changed network (first change: 1)
+Jul 14, 2018 22:34:33.879 [0x7f7d74a61800] DEBUG - NetworkService: Quick dispatch of network change.
+Jul 14, 2018 22:34:33.879 [0x7f7d74a61800] DEBUG - NetworkService: Creating new service.
+Jul 14, 2018 22:34:33.879 [0x7f7d74a61800] DEBUG - NetworkService: Got notification of changed network (first change: 1)
+Jul 14, 2018 22:34:33.879 [0x7f7d74a61800] DEBUG - NetworkService: Quick dispatch of network change.
+Jul 14, 2018 22:34:33.879 [0x7f7d74a61800] DEBUG - NetworkService: Creating new service.
+Jul 14, 2018 22:34:33.879 [0x7f7d74a61800] DEBUG - NetworkService: Got notification of changed network (first change: 1)
+Jul 14, 2018 22:34:33.879 [0x7f7d74a61800] DEBUG - NetworkService: Quick dispatch of network change.
+Jul 14, 2018 22:34:33.879 [0x7f7d74a61800] DEBUG - NetworkService: Creating new service.
+Jul 14, 2018 22:34:33.879 [0x7f7d74a61800] DEBUG - NetworkService: Got notification of changed network (first change: 1)
+Jul 14, 2018 22:34:33.879 [0x7f7d74a61800] DEBUG - NetworkService: Quick dispatch of network change.
+Jul 14, 2018 22:34:33.879 [0x7f7d74a61800] DEBUG - NetworkService: Creating new service.
+Jul 14, 2018 22:34:33.879 [0x7f7d74a61800] DEBUG - NetworkService: Got notification of changed network (first change: 1)
+Jul 14, 2018 22:34:33.879 [0x7f7d74a61800] DEBUG - NetworkService: Quick dispatch of network change.
+Jul 14, 2018 22:34:33.879 [0x7f7d5d7fb700] DEBUG - Network change for advertiser.
+Jul 14, 2018 22:34:33.879 [0x7f7d5d7fb700] DEBUG - NetworkService: Setting up multicast listener on 0.0.0.0:32414 (outbound: 0)
+Jul 14, 2018 22:34:33.879 [0x7f7d5e7fd700] DEBUG - HTTP requesting GET https://plex.tv/users/account.xml?auth_token=xxxxxxxxxxxxxxxxxxxx
+Jul 14, 2018 22:34:33.879 [0x7f7d5dffc700] DEBUG - NetworkInterface: Watching for changes on the interfaces.
+Jul 14, 2018 22:34:33.905 [0x7f7d60bfe700] DEBUG - HTTP 200 response from GET http://127.0.0.1:43623/system/agents
+Jul 14, 2018 22:34:33.906 [0x7f7d60bfe700] DEBUG - [com.plexapp.system] HTTP reply status 200, with 9036 bytes of content.
+Jul 14, 2018 22:34:33.908 [0x7f7d60bfe700] DEBUG - The system knows about 13 agents.
+Jul 14, 2018 22:34:33.908 [0x7f7d60bfe700] DEBUG - Waiting for 18 plug-ins to finish starting.
+Jul 14, 2018 22:34:33.908 [0x7f7d5d7fb700] DEBUG - Network change for advertiser.
+Jul 14, 2018 22:34:33.909 [0x7f7d5d7fb700] DEBUG - NetworkService: Setting up multicast listener on 0.0.0.0:32410 (outbound: 0)
+Jul 14, 2018 22:34:33.909 [0x7f7d5cffa700] DEBUG - Starting plug-in /usr/lib/plexmediaserver/Resources/Plug-ins-fd05be322/TheMovieDB.bundle.
+Jul 14, 2018 22:34:33.909 [0x7f7d5d7fb700] DEBUG - Network change for advertiser.
+Jul 14, 2018 22:34:33.909 [0x7f7d5d7fb700] DEBUG - NetworkService: Setting up multicast listener on 0.0.0.0:32412 (outbound: 0)
+Jul 14, 2018 22:34:33.909 [0x7f7d5d7fb700] DEBUG - NetworkService: Network change for browser (polled=0), closing 0 browse sockets.
+Jul 14, 2018 22:34:33.909 [0x7f7d5d7fb700] DEBUG - NetworkService: Setting up multicast listener on 0.0.0.0:32413 (outbound: 0)
+Jul 14, 2018 22:34:33.909 [0x7f7d5d7fb700] DEBUG - NetworkService: Browsing on interface 127.0.0.1 on broadcast address 127.255.255.255 (index: 0)
+Jul 14, 2018 22:34:33.909 [0x7f7d5d7fb700] DEBUG - NetworkService: Browsing on interface 192.168.1.203 on broadcast address 192.168.1.255 (index: 1)
+Jul 14, 2018 22:34:33.909 [0x7f7d5d7fb700] DEBUG - NetworkService: Browsing on interface 172.19.0.1 on broadcast address 172.19.255.255 (index: 2)
+Jul 14, 2018 22:34:33.909 [0x7f7d5d7fb700] DEBUG - NetworkService: Browsing on interface 172.17.0.1 on broadcast address 172.17.255.255 (index: 3)
+Jul 14, 2018 22:34:33.909 [0x7f7d5d7fb700] DEBUG - NetworkService: Browsing on interface 172.20.0.1 on broadcast address 172.20.255.255 (index: 4)
+Jul 14, 2018 22:34:33.909 [0x7f7d5d7fb700] DEBUG - NetworkService: Browsing on interface 172.18.0.1 on broadcast address 172.18.255.255 (index: 5)
+Jul 14, 2018 22:34:33.909 [0x7f7d5d7fb700] DEBUG - NetworkService: Network change for browser (polled=1), closing 0 browse sockets.
+Jul 14, 2018 22:34:33.909 [0x7f7d5d7fb700] DEBUG - NetworkService: Browsing on interface 127.0.0.1 on broadcast address 127.255.255.255 (index: 0)
+Jul 14, 2018 22:34:33.909 [0x7f7d5d7fb700] DEBUG - NetworkService: Browsing on interface 192.168.1.203 on broadcast address 192.168.1.255 (index: 1)
+Jul 14, 2018 22:34:33.909 [0x7f7d5d7fb700] DEBUG - NetworkService: Browsing on interface 172.19.0.1 on broadcast address 172.19.255.255 (index: 2)
+Jul 14, 2018 22:34:33.909 [0x7f7d5d7fb700] DEBUG - NetworkService: Browsing on interface 172.17.0.1 on broadcast address 172.17.255.255 (index: 3)
+Jul 14, 2018 22:34:33.909 [0x7f7d5d7fb700] DEBUG - NetworkService: Browsing on interface 172.20.0.1 on broadcast address 172.20.255.255 (index: 4)
+Jul 14, 2018 22:34:33.909 [0x7f7d5d7fb700] DEBUG - NetworkService: Browsing on interface 172.18.0.1 on broadcast address 172.18.255.255 (index: 5)
+Jul 14, 2018 22:34:33.909 [0x7f7d5d7fb700] DEBUG - NetworkService: Network change for browser (polled=0), closing 0 browse sockets.
+Jul 14, 2018 22:34:33.909 [0x7f7d5d7fb700] DEBUG - NetworkService: Setting up multicast listener on 0.0.0.0:1901 (outbound: 0)
+Jul 14, 2018 22:34:33.910 [0x7f7d5d7fb700] DEBUG - NetworkService: Browsing on interface 192.168.1.203 on broadcast address 239.255.255.250 (index: 0)
+Jul 14, 2018 22:34:33.910 [0x7f7d5d7fb700] DEBUG - NetworkService: Browsing on interface 172.19.0.1 on broadcast address 239.255.255.250 (index: 1)
+Jul 14, 2018 22:34:33.910 [0x7f7d5d7fb700] DEBUG - NetworkService: Browsing on interface 172.17.0.1 on broadcast address 239.255.255.250 (index: 2)
+Jul 14, 2018 22:34:33.910 [0x7f7d5d7fb700] DEBUG - NetworkService: Browsing on interface 172.20.0.1 on broadcast address 239.255.255.250 (index: 3)
+Jul 14, 2018 22:34:33.910 [0x7f7d5d7fb700] DEBUG - NetworkService: Browsing on interface 172.18.0.1 on broadcast address 239.255.255.250 (index: 4)
+Jul 14, 2018 22:34:33.910 [0x7f7d5d7fb700] DEBUG - NetworkServiceBrowser: SERVER arrived: 127.0.0.1 (docker)
+Jul 14, 2018 22:34:33.910 [0x7f7d5d7fb700] DEBUG - Notifying the system bundle an update to server /system/notify/serverUpdated?host=127.0.0.1
+Jul 14, 2018 22:34:33.910 [0x7f7d5d7fb700] DEBUG - [com.plexapp.system] Sending command over HTTP (GET): /system/notify/serverUpdated?host=127.0.0.1
+Jul 14, 2018 22:34:33.910 [0x7f7d5d7fb700] DEBUG - HTTP requesting GET http://127.0.0.1:43623/system/notify/serverUpdated?host=127.0.0.1
+Jul 14, 2018 22:34:33.915 [0x7f7d5c7f9700] DEBUG - Starting plug-in /usr/lib/plexmediaserver/Resources/Plug-ins-fd05be322/Media-Flags.bundle.
+Jul 14, 2018 22:34:33.915 [0x7f7d5bff8700] DEBUG - Starting plug-in /usr/lib/plexmediaserver/Resources/Plug-ins-fd05be322/Fanart-TV.bundle.
+Jul 14, 2018 22:34:33.916 [0x7f7d5c7f9700] DEBUG - Starting plug-in /usr/lib/plexmediaserver/Resources/Plug-ins-fd05be322/PlexMusic.bundle.
+Jul 14, 2018 22:34:33.922 [0x7f7d5cffa700] DEBUG - Perfect cache hit, we don't need to start [com.plexapp.agents.themoviedb] yet.
+Jul 14, 2018 22:34:33.922 [0x7f7d5bff8700] DEBUG - Perfect cache hit, we don't need to start [com.plexapp.agents.fanarttv] yet.
+Jul 14, 2018 22:34:33.922 [0x7f7d5cffa700] DEBUG - Starting plug-in /usr/lib/plexmediaserver/Resources/Plug-ins-fd05be322/Scanners.bundle.
+Jul 14, 2018 22:34:33.922 [0x7f7d5bff8700] DEBUG - Starting plug-in /usr/lib/plexmediaserver/Resources/Plug-ins-fd05be322/PlexMovie.bundle.
+Jul 14, 2018 22:34:33.923 [0x7f7d5cffa700] DEBUG - Starting plug-in /usr/lib/plexmediaserver/Resources/Plug-ins-fd05be322/WebClient.bundle.
+Jul 14, 2018 22:34:33.923 [0x7f7d5bff8700] DEBUG - Perfect cache hit, we don't need to start [com.plexapp.agents.imdb] yet.
+Jul 14, 2018 22:34:33.923 [0x7f7d5bff8700] DEBUG - Starting plug-in /usr/lib/plexmediaserver/Resources/Plug-ins-fd05be322/MoviePosterDB.bundle.
+Jul 14, 2018 22:34:33.923 [0x7f7d5cffa700] DEBUG - Starting plug-in /usr/lib/plexmediaserver/Resources/Plug-ins-fd05be322/LastFM.bundle.
+Jul 14, 2018 22:34:33.923 [0x7f7d5c7f9700] DEBUG - Perfect cache hit, we don't need to start [com.plexapp.agents.plexmusic] yet.
+Jul 14, 2018 22:34:33.923 [0x7f7d5c7f9700] DEBUG - Starting plug-in /usr/lib/plexmediaserver/Resources/Plug-ins-fd05be322/LyricFind.bundle.
+Jul 14, 2018 22:34:33.924 [0x7f7d5bff8700] DEBUG - Perfect cache hit, we don't need to start [com.plexapp.agents.movieposterdb] yet.
+Jul 14, 2018 22:34:33.924 [0x7f7d5bff8700] DEBUG - Starting plug-in /usr/lib/plexmediaserver/Resources/Plug-ins-fd05be322/HTbackdrops.bundle.
+Jul 14, 2018 22:34:33.924 [0x7f7d5cffa700] DEBUG - Perfect cache hit, we don't need to start [com.plexapp.agents.lastfm] yet.
+Jul 14, 2018 22:34:33.924 [0x7f7d5cffa700] DEBUG - Starting plug-in /usr/lib/plexmediaserver/Resources/Plug-ins-fd05be322/Framework.bundle.
+Jul 14, 2018 22:34:33.924 [0x7f7d5bff8700] DEBUG - Perfect cache hit, we don't need to start [com.plexapp.agents.htbackdrops] yet.
+Jul 14, 2018 22:34:33.924 [0x7f7d5cffa700] DEBUG - Starting plug-in /usr/lib/plexmediaserver/Resources/Plug-ins-fd05be322/PlexThemeMusic.bundle.
+Jul 14, 2018 22:34:33.924 [0x7f7d5bff8700] DEBUG - Starting plug-in /usr/lib/plexmediaserver/Resources/Plug-ins-fd05be322/PersonalMedia.bundle.
+Jul 14, 2018 22:34:33.925 [0x7f7d5bff8700] DEBUG - Perfect cache hit, we don't need to start [com.plexapp.agents.none] yet.
+Jul 14, 2018 22:34:33.925 [0x7f7d5cffa700] DEBUG - Perfect cache hit, we don't need to start [com.plexapp.agents.plexthememusic] yet.
+Jul 14, 2018 22:34:33.925 [0x7f7d5cffa700] DEBUG - Starting plug-in /usr/lib/plexmediaserver/Resources/Plug-ins-fd05be322/OpenSubtitles.bundle.
+Jul 14, 2018 22:34:33.925 [0x7f7d5bff8700] DEBUG - Starting plug-in /usr/lib/plexmediaserver/Resources/Plug-ins-fd05be322/LocalMedia.bundle.
+Jul 14, 2018 22:34:33.925 [0x7f7d5c7f9700] DEBUG - Perfect cache hit, we don't need to start [com.plexapp.agents.lyricfind] yet.
+Jul 14, 2018 22:34:33.925 [0x7f7d5c7f9700] DEBUG - Starting plug-in /usr/lib/plexmediaserver/Resources/Plug-ins-fd05be322/TheTVDB.bundle.
+Jul 14, 2018 22:34:33.926 [0x7f7d5cffa700] DEBUG - Perfect cache hit, we don't need to start [com.plexapp.agents.opensubtitles] yet.
+Jul 14, 2018 22:34:33.926 [0x7f7d5cffa700] DEBUG - Starting plug-in /config/Library/Application Support/Plex Media Server/Plug-ins/Services.bundle.
+Jul 14, 2018 22:34:33.926 [0x7f7d5c7f9700] DEBUG - Perfect cache hit, we don't need to start [com.plexapp.agents.thetvdb] yet.
+Jul 14, 2018 22:34:33.927 [0x7f7d5bff8700] DEBUG - Perfect cache hit, we don't need to start [com.plexapp.agents.localmedia] yet.
+Jul 14, 2018 22:34:33.935 [0x7f7d74a61800] DEBUG - Gracenote Version 3.07.7.3686 (build: 2015-07-05 11:45-0700)
+Jul 14, 2018 22:34:33.946 [0x7f7d74a61800] DEBUG - Gracenote: Using SQLite 3.13.0
+Jul 14, 2018 22:34:33.947 [0x7f7d5b7f7700] DEBUG - Plex DLNA Server starting.
+Jul 14, 2018 22:34:33.947 [0x7f7d5b7f7700] DEBUG - Job running: '/usr/lib/plexmediaserver/Plex DLNA Server'
+Jul 14, 2018 22:34:33.948 [0x7f7d5b7f7700] DEBUG - Jobs: Starting child process with pid 253
+Jul 14, 2018 22:34:33.948 [0x7f7d74a61800] DEBUG - Starting HTTP server.
+Jul 14, 2018 22:34:33.948 [0x7f7d74a61800] DEBUG - Running server...
+Jul 14, 2018 22:34:33.948 [0x7f7d74a61800] DEBUG - Waiting for server condition to be signaled.
+Jul 14, 2018 22:34:33.948 [0x7f7d60bfe700] DEBUG - Starting scheduled updates, every 3600 seconds
+Jul 14, 2018 22:34:33.948 [0x7f7d60bfe700] INFO - LibraryUpdateManager path watching is disabled
+Jul 14, 2018 22:34:33.948 [0x7f7d60bfe700] DEBUG - Done waiting for all plug-ins to start.
+Jul 14, 2018 22:34:33.948 [0x7f7d60bfe700] DEBUG - PluginRepository::setStartState: 3, complete
+Jul 14, 2018 22:34:33.949 [0x7f7d5aff6700] DEBUG - Plex Tuner Service starting.
+Jul 14, 2018 22:34:33.949 [0x7f7d5aff6700] DEBUG - Job running: '/usr/lib/plexmediaserver/Plex Tuner Service' '/usr/lib/plexmediaserver/Resources/Tuner/Private' '/usr/lib/plexmediaserver/Resources/Tuner/Shared' '1.13.2.5154-fd05be322' '32600' '/waitmutex'
+Jul 14, 2018 22:34:33.950 [0x7f7d5aff6700] DEBUG - Jobs: Starting child process with pid 257
+Jul 14, 2018 22:34:33.950 [0x7f7d5a7f5700] DEBUG - HttpServer: Set up a thread pool with 2 threads.
+Jul 14, 2018 22:34:33.950 [0x7f7d5a7f5700] DEBUG - PublicAddressManager: Obtaining public address and mapping port.
+Jul 14, 2018 22:34:33.951 [0x7f7d5a7f5700] DEBUG - HTTP requesting GET https://plex.tv/api/v2/release_channels?X-Plex-Token=xxxxxxxxxxxxxxxxxxxx
+Jul 14, 2018 22:34:33.952 [0x7f7d59ff4700] DEBUG - Downloading document http://127.0.0.1:32400/:/plugins/com.plexapp.agents.imdb/prefs
+Jul 14, 2018 22:34:33.953 [0x7f7d597f3700] DEBUG - Request: [127.0.0.1:36454 (Loopback)] GET /:/plugins/com.plexapp.system/messaging/function/X0J1bmRsZVNlcnZpY2U6QWxsU2VydmljZXM_/Y2VyZWFsMQoxCmxpc3QKMApyMAo_/Y2VyZWFsMQoxCmRpY3QKMApyMAo_ (6 live) GZIP Signed-in Token (mrfoofs)
+Jul 14, 2018 22:34:33.953 [0x7f7d59ff4700] DEBUG - Translator: Found locale en
+Jul 14, 2018 22:34:33.953 [0x7f7d59ff4700] DEBUG - Translator: Found locale de
+Jul 14, 2018 22:34:33.953 [0x7f7d59ff4700] DEBUG - Translator: Found locale zh_CN
+Jul 14, 2018 22:34:33.953 [0x7f7d59ff4700] DEBUG - Translator: Found locale sv
+Jul 14, 2018 22:34:33.953 [0x7f7d59ff4700] DEBUG - Translator: Found locale nl
+Jul 14, 2018 22:34:33.953 [0x7f7d5c7f9700] DEBUG - Request: [127.0.0.1:36456 (Loopback)] GET / (6 live) GZIP Signed-in Token (mrfoofs)
+Jul 14, 2018 22:34:33.953 [0x7f7d59ff4700] DEBUG - Translator: Found locale et_EE
+Jul 14, 2018 22:34:33.953 [0x7f7d59ff4700] DEBUG - Translator: Found locale pt_BR
+Jul 14, 2018 22:34:33.953 [0x7f7d59ff4700] DEBUG - Translator: Found locale ru
+Jul 14, 2018 22:34:33.953 [0x7f7d59ff4700] DEBUG - Translator: Found locale da
+Jul 14, 2018 22:34:33.953 [0x7f7d5cffa700] DEBUG - Request: [127.0.0.1:36460 (Loopback)] GET /servers (6 live) GZIP Signed-in Token (mrfoofs)
+Jul 14, 2018 22:34:33.953 [0x7f7d59ff4700] DEBUG - Translator: Found locale hu_HU
+Jul 14, 2018 22:34:33.953 [0x7f7d59ff4700] DEBUG - Translator: Found locale he
+Jul 14, 2018 22:34:33.953 [0x7f7d59ff4700] DEBUG - Translator: Found locale cs_CZ
+Jul 14, 2018 22:34:33.953 [0x7f7d59ff4700] DEBUG - Translator: Found locale hr_HR
+Jul 14, 2018 22:34:33.953 [0x7f7d59ff4700] DEBUG - Translator: Found locale nl_BE
+Jul 14, 2018 22:34:33.953 [0x7f7d59ff4700] DEBUG - Translator: Found locale ar
+Jul 14, 2018 22:34:33.953 [0x7f7d59ff4700] DEBUG - Translator: Found locale fr
+Jul 14, 2018 22:34:33.953 [0x7f7d59ff4700] DEBUG - Translator: Found locale it
+Jul 14, 2018 22:34:33.953 [0x7f7d59ff4700] DEBUG - Translator: Found locale ja_JP
+Jul 14, 2018 22:34:33.953 [0x7f7d59ff4700] DEBUG - Translator: Found locale lt
+Jul 14, 2018 22:34:33.953 [0x7f7d59ff4700] DEBUG - Translator: Found locale sr
+Jul 14, 2018 22:34:33.953 [0x7f7d59ff4700] DEBUG - Translator: Found locale es
+Jul 14, 2018 22:34:33.953 [0x7f7d59ff4700] DEBUG - Translator: Found locale ro
+Jul 14, 2018 22:34:33.953 [0x7f7d59ff4700] DEBUG - Translator: Found locale no
+Jul 14, 2018 22:34:33.953 [0x7f7d59ff4700] DEBUG - Translator: Found locale ko
+Jul 14, 2018 22:34:33.955 [0x7f7d58ff2700] DEBUG - Request: [127.0.0.1:36470 (Loopback)] GET /servers (6 live) GZIP Signed-in Token (mrfoofs)
+Jul 14, 2018 22:34:33.955 [0x7f7d5bff8700] DEBUG - Request: [127.0.0.1:36458 (Loopback)] GET / (6 live) GZIP Signed-in Token (mrfoofs)
+Jul 14, 2018 22:34:33.958 [0x7f7d59ff4700] DEBUG - Starting file watcher for com.plexapp.agents.imdb
+Jul 14, 2018 22:34:33.959 [0x7f7d663ff700] DEBUG - Completed: [127.0.0.1:36460] 200 GET /servers (6 live) GZIP 6ms 489 bytes
+Jul 14, 2018 22:34:33.959 [0x7f7d663ff700] DEBUG - Completed: [127.0.0.1:36470] 200 GET /servers (6 live) GZIP 6ms 489 bytes
+Jul 14, 2018 22:34:33.959 [0x7f7d663ff700] DEBUG - Completed: [127.0.0.1:36458] 200 GET / (6 live) GZIP 8ms 1333 bytes
+Jul 14, 2018 22:34:33.960 [0x7f7d597f3700] DEBUG - [com.plexapp.system] Sending command over HTTP (GET): /:/plugins/com.plexapp.system/messaging/function/X0J1bmRsZVNlcnZpY2U6QWxsU2VydmljZXM_/Y2VyZWFsMQoxCmxpc3QKMApyMAo_/Y2VyZWFsMQoxCmRpY3QKMApyMAo_
+Jul 14, 2018 22:34:33.960 [0x7f7d597f3700] DEBUG - HTTP requesting GET http://127.0.0.1:43623/:/plugins/com.plexapp.system/messaging/function/X0J1bmRsZVNlcnZpY2U6QWxsU2VydmljZXM_/Y2VyZWFsMQoxCmxpc3QKMApyMAo_/Y2VyZWFsMQoxCmRpY3QKMApyMAo_
+Jul 14, 2018 22:34:33.960 [0x7f7d663ff700] DEBUG - Completed: [127.0.0.1:36456] 200 GET / (6 live) GZIP 9ms 1333 bytes
+Jul 14, 2018 22:34:33.960 [0x7f7d59ff4700] DEBUG - Spawned plug-in com.plexapp.agents.imdb with PID 264
+Jul 14, 2018 22:34:33.960 [0x7f7d59ff4700] DEBUG - [com.plexapp.agents.imdb] Sending command: GET /:/prefixes
+Jul 14, 2018 22:34:33.967 [0x7f7d5cffa700] DEBUG - Request: [127.0.0.1:36476 (Loopback)] GET / (6 live) GZIP Signed-in Token (mrfoofs)
+Jul 14, 2018 22:34:33.967 [0x7f7d65bfe700] DEBUG - Completed: [127.0.0.1:36476] 200 GET / (6 live) GZIP 3ms 1333 bytes
+Jul 14, 2018 22:34:34.029 [0x7f7d623fe700] DEBUG - Job running: '/usr/lib/plexmediaserver/CrashUploader' '--directory=/config/Library/Application Support/Plex Media Server/Crash Reports/1.13.2.5154-fd05be322' '--version=1.13.2.5154-fd05be322' '--platform=linux-ubuntu-x86_64 (4.15.0-24-generic (#26-Ubuntu SMP Wed Jun 13 08:44:47 UTC 2018))' '--serverUuid=3ed2b02a097ae0dbd8131e18952f0fd286cb9cf6' '--userId=jdmtrent@gmail.com' '--url=https://crashreport.plexapp.com'
+Jul 14, 2018 22:34:34.030 [0x7f7d623fe700] DEBUG - Jobs: Starting child process with pid 266
+Jul 14, 2018 22:34:34.068 [0x7f7d62bff700] DEBUG - Gracenote: Loading 29 locales in 0.1 seconds.
+Jul 14, 2018 22:34:34.077 [0x7f7d64bff700] DEBUG - HTTP 200 response from GET http://plex.tv/pms/:/ip
+Jul 14, 2018 22:34:34.078 [0x7f7d64bff700] DEBUG - PublicAddressManager: Got public IP from http://plex.tv: 100.11.251.15
+Jul 14, 2018 22:34:34.086 [0x7f7d597f3700] DEBUG - HTTP 200 response from GET http://127.0.0.1:43623/:/plugins/com.plexapp.system/messaging/function/X0J1bmRsZVNlcnZpY2U6QWxsU2VydmljZXM_/Y2VyZWFsMQoxCmxpc3QKMApyMAo_/Y2VyZWFsMQoxCmRpY3QKMApyMAo_
+Jul 14, 2018 22:34:34.086 [0x7f7d597f3700] DEBUG - [com.plexapp.system] HTTP reply status 200, with 59972 bytes of content.
+Jul 14, 2018 22:34:34.092 [0x7f7d663ff700] DEBUG - Completed: [127.0.0.1:36454] 200 GET /:/plugins/com.plexapp.system/messaging/function/X0J1bmRsZVNlcnZpY2U6QWxsU2VydmljZXM_/Y2VyZWFsMQoxCmxpc3QKMApyMAo_/Y2VyZWFsMQoxCmRpY3QKMApyMAo_ (6 live) GZIP 142ms 19396 bytes
+Jul 14, 2018 22:34:34.094 [0x7f7d613ff700] DEBUG - Jobs: '/usr/lib/plexmediaserver/CrashUploader' exit code for process 266 is 0 (success)
+Jul 14, 2018 22:34:34.121 [0x7f7d58ff2700] DEBUG - Request: [127.0.0.1:36478 (Loopback)] GET / (6 live) GZIP Signed-in Token (mrfoofs)
+Jul 14, 2018 22:34:34.122 [0x7f7d663ff700] DEBUG - Completed: [127.0.0.1:36478] 200 GET / (6 live) GZIP 0ms 1333 bytes
+Jul 14, 2018 22:34:34.155 [0x7f7d5bff8700] DEBUG - Request: [127.0.0.1:36480 (Loopback)] GET /library/sections (6 live) GZIP Signed-in Token (mrfoofs)
+Jul 14, 2018 22:34:34.157 [0x7f7d65bfe700] DEBUG - Completed: [127.0.0.1:36480] 200 GET /library/sections (6 live) GZIP 1ms 812 bytes
+Jul 14, 2018 22:34:34.159 [0x7f7d5c7f9700] DEBUG - Request: [127.0.0.1:36482 (Loopback)] GET /channels/all (6 live) GZIP Signed-in Token (mrfoofs)
+Jul 14, 2018 22:34:34.160 [0x7f7d65bfe700] DEBUG - Completed: [127.0.0.1:36482] 200 GET /channels/all (6 live) GZIP 0ms 387 bytes
+Jul 14, 2018 22:34:34.187 [0x7f7d5d7fb700] DEBUG - HTTP 200 response from GET http://127.0.0.1:43623/system/notify/serverUpdated?host=127.0.0.1
+Jul 14, 2018 22:34:34.187 [0x7f7d5d7fb700] DEBUG - [com.plexapp.system] HTTP reply status 200, with 0 bytes of content.
+Jul 14, 2018 22:34:34.188 [0x7f7d5d7fb700] DEBUG - NetworkServiceBrowser: SSDP arrived: 192.168.1.1 (http://192.168.1.1:1901/root.xml)
+Jul 14, 2018 22:34:34.188 [0x7f7d5d7fb700] DEBUG - NetworkServiceBrowser: SSDP arrived: 192.168.1.192 (http://192.168.1.192:9080)
+Jul 14, 2018 22:34:34.188 [0x7f7d673ff700] DEBUG - HTTP requesting GET http://192.168.1.1:1901/root.xml
+Jul 14, 2018 22:34:34.188 [0x7f7d623fe700] DEBUG - HTTP requesting GET http://192.168.1.192:9080
+Jul 14, 2018 22:34:34.195 [0x7f7d673ff700] DEBUG - HTTP 200 response from GET http://192.168.1.1:1901/root.xml
+Jul 14, 2018 22:34:34.196 [0x7f7d623fe700] DEBUG - HTTP 200 response from GET http://192.168.1.192:9080
+Jul 14, 2018 22:34:34.196 [0x7f7d623fe700] ERROR - XML: Entity: line 1: 
+Jul 14, 2018 22:34:34.196 [0x7f7d623fe700] ERROR - XML: parser 
+Jul 14, 2018 22:34:34.196 [0x7f7d623fe700] ERROR - XML: error : 
+Jul 14, 2018 22:34:34.196 [0x7f7d623fe700] ERROR - XML: Start tag expected, '<' not found 
+Jul 14, 2018 22:34:34.196 [0x7f7d623fe700] ERROR - XML: status=ok 
+Jul 14, 2018 22:34:34.196 [0x7f7d623fe700] ERROR - XML: ^ 
+Jul 14, 2018 22:34:34.196 [0x7f7d623fe700] ERROR - Error parsing content.
+Jul 14, 2018 22:34:34.230 [0x7f7d623fe700] ERROR - SSDP: Error parsing device schema for http://192.168.1.192:9080
+Jul 14, 2018 22:34:34.237 [0x7f7d5cffa700] DEBUG - Request: [127.0.0.1:36490 (Loopback)] GET /library/sections (6 live) GZIP Signed-in Token (mrfoofs)
+Jul 14, 2018 22:34:34.239 [0x7f7d663ff700] DEBUG - Completed: [127.0.0.1:36490] 200 GET /library/sections (6 live) GZIP 2ms 812 bytes
+Jul 14, 2018 22:34:34.253 [0x7f7d597f3700] DEBUG - Request: [127.0.0.1:36492 (Loopback)] GET /channels/all (7 live) GZIP Signed-in Token (mrfoofs)
+Jul 14, 2018 22:34:34.254 [0x7f7d663ff700] DEBUG - Completed: [127.0.0.1:36492] 200 GET /channels/all (7 live) GZIP 0ms 387 bytes
+Jul 14, 2018 22:34:34.375 [0x7f7d5a7f5700] DEBUG - HTTP 200 response from GET https://plex.tv/api/v2/release_channels?X-Plex-Token=xxxxxxxxxxxxxxxxxxxx
+Jul 14, 2018 22:34:34.382 [0x7f7d5e7fd700] DEBUG - HTTP 200 response from GET https://plex.tv/users/account.xml?auth_token=xxxxxxxxxxxxxxxxxxxx
+Jul 14, 2018 22:34:34.383 [0x7f7d5e7fd700] DEBUG - MyPlex: username is mrfoofs, login is jdmtrent@gmail.com, home is 0, no pin
+Jul 14, 2018 22:34:34.384 [0x7f7d5e7fd700] DEBUG - EventSource: Resolving 45.33.77.214 port 443s
+Jul 14, 2018 22:34:34.384 [0x7f7d62bff700] DEBUG - HTTP requesting GET https://plex.tv/api/v2/server/webhooks?X-Plex-Token=xxxxxxxxxxxxxxxxxxxx
+Jul 14, 2018 22:34:34.384 [0x7f7d5e7fd700] DEBUG - HTTP requesting GET https://plex.tv/api/v2/release_channels?X-Plex-Token=xxxxxxxxxxxxxxxxxxxx
+Jul 14, 2018 22:34:34.385 [0x7f7d663ff700] DEBUG - EventSource: Resolved 45.33.77.214 to 45.33.77.214
+Jul 14, 2018 22:34:34.408 [0x7f7d65bfe700] DEBUG - EventSource: Connected in 18 ms.
+Jul 14, 2018 22:34:34.409 [0x7f7d65bfe700] DEBUG - EventSource: Wrote data, reading reply.
+Jul 14, 2018 22:34:34.492 [0x7f7d58ff2700] DEBUG - Request: [127.0.0.1:36500 (Loopback)] GET /system/messaging/clear_events/com.plexapp.agents.imdb (7 live) GZIP Signed-in Token (mrfoofs)
+Jul 14, 2018 22:34:34.492 [0x7f7d58ff2700] DEBUG - [com.plexapp.system] Sending command over HTTP (GET): /system/messaging/clear_events/com.plexapp.agents.imdb
+Jul 14, 2018 22:34:34.492 [0x7f7d58ff2700] DEBUG - HTTP requesting GET http://127.0.0.1:43623/system/messaging/clear_events/com.plexapp.agents.imdb
+Jul 14, 2018 22:34:34.495 [0x7f7d58ff2700] DEBUG - HTTP 200 response from GET http://127.0.0.1:43623/system/messaging/clear_events/com.plexapp.agents.imdb
+Jul 14, 2018 22:34:34.495 [0x7f7d58ff2700] DEBUG - [com.plexapp.system] HTTP reply status 200, with 0 bytes of content.
+Jul 14, 2018 22:34:34.496 [0x7f7d663ff700] DEBUG - Completed: [127.0.0.1:36500] 200 GET /system/messaging/clear_events/com.plexapp.agents.imdb (7 live) GZIP 3ms 330 bytes
+Jul 14, 2018 22:34:34.606 [0x7f7d5bff8700] DEBUG - Request: [127.0.0.1:36504 (Loopback)] GET /:/plugins/com.plexapp.system/resourceHashes (7 live) GZIP Signed-in Token (mrfoofs)
+Jul 14, 2018 22:34:34.606 [0x7f7d5bff8700] DEBUG - [com.plexapp.system] Sending command over HTTP (GET): /:/plugins/com.plexapp.system/resourceHashes
+Jul 14, 2018 22:34:34.606 [0x7f7d5bff8700] DEBUG - HTTP requesting GET http://127.0.0.1:43623/:/plugins/com.plexapp.system/resourceHashes
+Jul 14, 2018 22:34:34.640 [0x7f7d63bff700] DEBUG - NAT: UPnP, found device <http://192.168.1.152:80/description.xml> with private address <192.168.1.203>
+Jul 14, 2018 22:34:34.640 [0x7f7d63bff700] DEBUG - NAT: UPnP, not an IGD: <http://192.168.1.152:80/description.xml>.
+Jul 14, 2018 22:34:34.653 [0x7f7d63bff700] DEBUG - NAT: UPnP, found device <http://192.168.1.152:80/description.xml> with private address <192.168.1.203>
+Jul 14, 2018 22:34:34.654 [0x7f7d63bff700] DEBUG - NAT: UPnP, not an IGD: <http://192.168.1.152:80/description.xml>.
+Jul 14, 2018 22:34:34.666 [0x7f7d63bff700] DEBUG - NAT: UPnP, found device <http://192.168.1.152:80/description.xml> with private address <192.168.1.203>
+Jul 14, 2018 22:34:34.666 [0x7f7d63bff700] DEBUG - NAT: UPnP, not an IGD: <http://192.168.1.152:80/description.xml>.
+Jul 14, 2018 22:34:34.669 [0x7f7d63bff700] DEBUG - NAT: UPnP, found device <http://192.168.1.1:58099/rootDesc.xml> with private address <192.168.1.203>
+Jul 14, 2018 22:34:34.673 [0x7f7d63bff700] DEBUG - NAT: UPnP, usable device <http://192.168.1.1:58099/rootDesc.xml> with private address <192.168.1.203>.
+Jul 14, 2018 22:34:34.680 [0x7f7d5bff8700] DEBUG - HTTP 200 response from GET http://127.0.0.1:43623/:/plugins/com.plexapp.system/resourceHashes
+Jul 14, 2018 22:34:34.680 [0x7f7d5bff8700] DEBUG - [com.plexapp.system] HTTP reply status 200, with 13276 bytes of content.
+Jul 14, 2018 22:34:34.682 [0x7f7d663ff700] DEBUG - Completed: [127.0.0.1:36504] 200 GET /:/plugins/com.plexapp.system/resourceHashes (7 live) GZIP 76ms 3498 bytes
+Jul 14, 2018 22:34:34.705 [0x7f7d5c7f9700] DEBUG - Request: [127.0.0.1:36524 (Loopback)] GET /:/plugins/com.plexapp.system/messaging/function/X0J1bmRsZVNlcnZpY2U6QWxsU2VydmljZXM_/Y2VyZWFsMQoxCmxpc3QKMApyMAo_/Y2VyZWFsMQoxCmRpY3QKMApyMAo_ (7 live) GZIP Signed-in Token (mrfoofs)
+Jul 14, 2018 22:34:34.705 [0x7f7d5c7f9700] DEBUG - [com.plexapp.system] Sending command over HTTP (GET): /:/plugins/com.plexapp.system/messaging/function/X0J1bmRsZVNlcnZpY2U6QWxsU2VydmljZXM_/Y2VyZWFsMQoxCmxpc3QKMApyMAo_/Y2VyZWFsMQoxCmRpY3QKMApyMAo_
+Jul 14, 2018 22:34:34.706 [0x7f7d5c7f9700] DEBUG - HTTP requesting GET http://127.0.0.1:43623/:/plugins/com.plexapp.system/messaging/function/X0J1bmRsZVNlcnZpY2U6QWxsU2VydmljZXM_/Y2VyZWFsMQoxCmxpc3QKMApyMAo_/Y2VyZWFsMQoxCmRpY3QKMApyMAo_
+Jul 14, 2018 22:34:34.709 [0x7f7d5cffa700] DEBUG - Request: [127.0.0.1:36528 (Loopback)] GET / (7 live) GZIP Signed-in Token (mrfoofs)
+Jul 14, 2018 22:34:34.710 [0x7f7d663ff700] DEBUG - Completed: [127.0.0.1:36528] 200 GET / (7 live) GZIP 1ms 1333 bytes
+Jul 14, 2018 22:34:34.730 [0x7f7d5c7f9700] DEBUG - HTTP 200 response from GET http://127.0.0.1:43623/:/plugins/com.plexapp.system/messaging/function/X0J1bmRsZVNlcnZpY2U6QWxsU2VydmljZXM_/Y2VyZWFsMQoxCmxpc3QKMApyMAo_/Y2VyZWFsMQoxCmRpY3QKMApyMAo_
+Jul 14, 2018 22:34:34.730 [0x7f7d5c7f9700] DEBUG - [com.plexapp.system] HTTP reply status 200, with 59972 bytes of content.
+Jul 14, 2018 22:34:34.733 [0x7f7d663ff700] DEBUG - Completed: [127.0.0.1:36524] 200 GET /:/plugins/com.plexapp.system/messaging/function/X0J1bmRsZVNlcnZpY2U6QWxsU2VydmljZXM_/Y2VyZWFsMQoxCmxpc3QKMApyMAo_/Y2VyZWFsMQoxCmRpY3QKMApyMAo_ (7 live) GZIP 28ms 19396 bytes
+Jul 14, 2018 22:34:34.762 [0x7f7d65bfe700] DEBUG - EventSource: Read HTTP reply header.
+Jul 14, 2018 22:34:34.762 [0x7f7d65bfe700] DEBUG - MyPlex: We appear to have regained Internet connectivity.
+Jul 14, 2018 22:34:34.796 [0x7f7d5e7fd700] DEBUG - HTTP 200 response from GET https://plex.tv/api/v2/release_channels?X-Plex-Token=xxxxxxxxxxxxxxxxxxxx
+Jul 14, 2018 22:34:34.796 [0x7f7d5e7fd700] DEBUG - EventSource: Resolving 45.33.77.214 port 443s
+Jul 14, 2018 22:34:34.797 [0x7f7d5e7fd700] DEBUG - Sync: onMyPlexSignIn
+Jul 14, 2018 22:34:34.797 [0x7f7d5e7fd700] WARN - Sync: Couldn't get sync lists without subscription.
+Jul 14, 2018 22:34:34.797 [0x7f7d663ff700] DEBUG - EventSource: Resolved 45.33.77.214 to 45.33.77.214
+Jul 14, 2018 22:34:34.797 [0x7f7d5e7fd700] DEBUG - HTTP requesting GET https://plex.tv/api/v2/user/privacy?X-Plex-Token=xxxxxxxxxxxxxxxxxxxx
+Jul 14, 2018 22:34:34.820 [0x7f7d63bff700] DEBUG - NAT: UPnP, mapped port 21820 to 192.168.1.203:32400.
+Jul 14, 2018 22:34:34.821 [0x7f7d663ff700] DEBUG - EventSource: Connected in 17 ms.
+Jul 14, 2018 22:34:34.821 [0x7f7d663ff700] DEBUG - EventSource: Wrote data, reading reply.
+Jul 14, 2018 22:34:34.873 [0x7f7d62bff700] DEBUG - HTTP 200 response from GET https://plex.tv/api/v2/server/webhooks?X-Plex-Token=xxxxxxxxxxxxxxxxxxxx
+Jul 14, 2018 22:34:35.180 [0x7f7d663ff700] DEBUG - EventSource: Read HTTP reply header.
+Jul 14, 2018 22:34:35.180 [0x7f7d663ff700] DEBUG - MyPlex: We appear to have regained Internet connectivity.
+Jul 14, 2018 22:34:35.225 [0x7f7d5e7fd700] DEBUG - HTTP 200 response from GET https://plex.tv/api/v2/user/privacy?X-Plex-Token=xxxxxxxxxxxxxxxxxxxx
+Jul 14, 2018 22:34:36.088 [0x7f7d5d7fb700] DEBUG - NetworkServiceBrowser: SSDP arrived: 192.168.1.152 (http://192.168.1.152:80/description.xml)
+Jul 14, 2018 22:34:36.088 [0x7f7d673ff700] DEBUG - HTTP requesting GET http://192.168.1.152:80/description.xml
+Jul 14, 2018 22:34:36.096 [0x7f7d673ff700] DEBUG - HTTP 200 response from GET http://192.168.1.152:80/description.xml
+Jul 14, 2018 22:34:37.085 [0x7f7d64bff700] DEBUG - NAT: UPnP, found device <http://192.168.1.1:58099/rootDesc.xml> with private address <192.168.1.203>
+Jul 14, 2018 22:34:37.089 [0x7f7d64bff700] DEBUG - NAT: UPnP, usable device <http://192.168.1.1:58099/rootDesc.xml> with private address <192.168.1.203>.
+Jul 14, 2018 22:34:37.092 [0x7f7d64bff700] DEBUG - NAT: UPnP, public address is 100.11.251.15
+Jul 14, 2018 22:34:37.095 [0x7f7d65bfe700] DEBUG - PublicAddressManager: Obtaining public address and mapping port.
+Jul 14, 2018 22:34:37.096 [0x7f7d65bfe700] DEBUG - MyPlex: We appear to have regained Internet connectivity.
+Jul 14, 2018 22:34:37.096 [0x7f7d65bfe700] DEBUG - EventSource: Successfully connected to 45.33.77.214.
+Jul 14, 2018 22:34:37.096 [0x7f7d63bff700] DEBUG - PublicAddressManager: Mapping succeeded for 192.168.1.203:21820.
+Jul 14, 2018 22:34:37.097 [0x7f7d597f3700] DEBUG - Request: [127.0.0.1:36550 (Loopback)] GET /:/plugins/com.plexapp.system/messaging/function/X0FnZW50U2VydmljZTpVcGRhdGVJbmZv/Y2VyZWFsMQoxCmxpc3QKMApyMAo_/Y2VyZWFsMQo3CmRpY3QKbGlzdApkaWN0Cmxpc3QKbGlzdApsaXN0Cmxpc3QKMgpzMjMKY29tLnBsZXhhcHAuYWdlbnRzLmltZGJzMTAKaWRlbnRpZmllcnIxCnMxMAphZ2VudF9pbmZvMQpyMgoxMApyMwpzMTEKbWVkaWFfdHlwZXNyNApzMTIKYWNjZXB0c19mcm9tbnMxNApmYWxsYmFja19hZ2VudHI1CnMxNApjb250cmlidXRlc190b3I2CnM5Cmxhbmd1YWdlc2IxczIwCnBlcnNpc3Rfc3RvcmVkX2ZpbGVzaTAKczcKdmVyc2lvbmIxczE2CnByaW1hcnlfcHJvdmlkZXJiMXM1CnByZWZzczEwClBsZXggTW92aWVzNApuYW1lMQpzNQpNb3ZpZTEKczI5CmNvbS5wbGV4YXBwLmFnZW50cy5sb2NhbG1lZGlhMQpzMjkKY29tLnBsZXhhcHAuYWdlbnRzLnRoZW1vdmllZGIzMwpzMgplbnMyCnN2czIKZnJzMgplc3MyCm5sczIKZGVzMgppdHMyCmRhczIKYXJzMgpjYXMyCnpoczIKY3NzMgpldHMyCmZpczIKZWxzMgpoZXMyCmhpczIKaHVzMgppZHMyCmphczIKa29zMgpsdnMyCm5vczIKZmFzMgpwbHMyCnB0czIKcm9zMgpydXMyCnNrczIKdGhzMgp0cnMyCnVrczIKdmlyMAo_ (7 live) GZIP Signed-in Token (mrfoofs)
+Jul 14, 2018 22:34:37.098 [0x7f7d597f3700] DEBUG - [com.plexapp.system] Sending command over HTTP (GET): /:/plugins/com.plexapp.system/messaging/function/X0FnZW50U2VydmljZTpVcGRhdGVJbmZv/Y2VyZWFsMQoxCmxpc3QKMApyMAo_/Y2VyZWFsMQo3CmRpY3QKbGlzdApkaWN0Cmxpc3QKbGlzdApsaXN0Cmxpc3QKMgpzMjMKY29tLnBsZXhhcHAuYWdlbnRzLmltZGJzMTAKaWRlbnRpZmllcnIxCnMxMAphZ2VudF9pbmZvMQpyMgoxMApyMwpzMTEKbWVkaWFfdHlwZXNyNApzMTIKYWNjZXB0c19mcm9tbnMxNApmYWxsYmFja19hZ2VudHI1CnMxNApjb250cmlidXRlc190b3I2CnM5Cmxhbmd1YWdlc2IxczIwCnBlcnNpc3Rfc3RvcmVkX2ZpbGVzaTAKczcKdmVyc2lvbmIxczE2CnByaW1hcnlfcHJvdmlkZXJiMXM1CnByZWZzczEwClBsZXggTW92aWVzNApuYW1lMQpzNQpNb3ZpZTEKczI5CmNvbS5wbGV4YXBwLmFnZW50cy5sb2NhbG1lZGlhMQpzMjkKY29tLnBsZXhhcHAuYWdlbnRzLnRoZW1vdmllZGIzMwpzMgplbnMyCnN2czIKZnJzMgplc3MyCm5sczIKZGVzMgppdHMyCmRhczIKYXJzMgpjYXMyCnpoczIKY3NzMgpldHMyCmZpczIKZWxzMgpoZXMyCmhpczIKaHVzMgppZHMyCmphczIKa29zMgpsdnMyCm5vczIKZmFzMgpwbHMyCnB0czIKcm9zMgpydXMyCnNrczIKdGhzMgp0cnMyCnVrczIKdmlyMAo_
+Jul 14, 2018 22:34:37.098 [0x7f7d597f3700] DEBUG - HTTP requesting GET http://127.0.0.1:43623/:/plugins/com.plexapp.system/messaging/function/X0FnZW50U2VydmljZTpVcGRhdGVJbmZv/Y2VyZWFsMQoxCmxpc3QKMApyMAo_/Y2VyZWFsMQo3CmRpY3QKbGlzdApkaWN0Cmxpc3QKbGlzdApsaXN0Cmxpc3QKMgpzMjMKY29tLnBsZXhhcHAuYWdlbnRzLmltZGJzMTAKaWRlbnRpZmllcnIxCnMxMAphZ2VudF9pbmZvMQpyMgoxMApyMwpzMTEKbWVkaWFfdHlwZXNyNApzMTIKYWNjZXB0c19mcm9tbnMxNApmYWxsYmFja19hZ2VudHI1CnMxNApjb250cmlidXRlc190b3I2CnM5Cmxhbmd1YWdlc2IxczIwCnBlcnNpc3Rfc3RvcmVkX2ZpbGVzaTAKczcKdmVyc2lvbmIxczE2CnByaW1hcnlfcHJvdmlkZXJiMXM1CnByZWZzczEwClBsZXggTW92aWVzNApuYW1lMQpzNQpNb3ZpZTEKczI5CmNvbS5wbGV4YXBwLmFnZW50cy5sb2NhbG1lZGlhMQpzMjkKY29tLnBsZXhhcHAuYWdlbnRzLnRoZW1vdmllZGIzMwpzMgplbnMyCnN2czIKZnJzMgplc3MyCm5sczIKZGVzMgppdHMyCmRhczIKYXJzMgpjYXMyCnpoczIKY3NzMgpldHMyCmZpczIKZWxzMgpoZXMyCmhpczIKaHVzMgppZHMyCmphczIKa29zMgpsdnMyCm5vczIKZmFzMgpwbHMyCnB0czIKcm9zMgpydXMyCnNrczIKdGhzMgp0cnMyCnVrczIKdmlyMAo_
+Jul 14, 2018 22:34:37.099 [0x7f7d623fe700] DEBUG - PublicAddressManager: Obtaining public IP.
+Jul 14, 2018 22:34:37.099 [0x7f7d663ff700] DEBUG - PublicAddressManager: Obtaining public address and mapping port.
+Jul 14, 2018 22:34:37.099 [0x7f7d663ff700] DEBUG - MyPlex: We appear to have regained Internet connectivity.
+Jul 14, 2018 22:34:37.099 [0x7f7d663ff700] DEBUG - EventSource: Successfully connected to 45.33.77.214.
+Jul 14, 2018 22:34:37.099 [0x7f7d62bff700] DEBUG - NAT: UPnP, attempting port mapping.
+Jul 14, 2018 22:34:37.100 [0x7f7d623fe700] DEBUG - HTTP requesting GET http://plex.tv/pms/:/ip
+Jul 14, 2018 22:34:37.104 [0x7f7d5a7f5700] DEBUG - PublicAddressManager: Obtaining public address and mapping port.
+Jul 14, 2018 22:34:37.105 [0x7f7d5a7f5700] DEBUG - Running database fix-ups.
+Jul 14, 2018 22:34:37.108 [0x7f7d5e7fd700] WARN - MyPlex: Invalid connection URL '"http://192.168.1.203:32400/"'.
+Jul 14, 2018 22:34:37.108 [0x7f7d5e7fd700] DEBUG - MyPlex: Updating device connections (from timer: 0)
+Jul 14, 2018 22:34:37.109 [0x7f7d5e7fd700] DEBUG - HTTP requesting PUT https://plex.tv/devices/3ed2b02a097ae0dbd8131e18952f0fd286cb9cf6?Connection[][uri]=http://192.168.1.203:32400&Connection[][uri]=http://172.19.0.1:32400&Connection[][uri]=http://172.17.0.1:32400&Connection[][uri]=http://172.20.0.1:32400&Connection[][uri]=http://172.18.0.1:32400&httpsEnabled=1&httpsRequired=0&X-Plex-Token=xxxxxxxxxxxxxxxxxxxx
+Jul 14, 2018 22:34:37.110 [0x7f7d56bfe700] DEBUG - MyPlex: Sending Server Info to myPlex (user=jdmtrent@gmail.com, ip=, port=21820)
+Jul 14, 2018 22:34:37.110 [0x7f7d56bfe700] DEBUG - HTTP requesting POST https://plex.tv/servers.xml?auth_token=xxxxxxxxxxxxxxxxxxxx&async=1&asyncIdentifier=e6da1c59-e434-48c9-ab7b-b25a13b0f696
+Jul 14, 2018 22:34:37.112 [0x7f7d563fd700] DEBUG - DVR: Starting up.
+Jul 14, 2018 22:34:37.111 [0x7f7d597f3700] DEBUG - HTTP 200 response from GET http://127.0.0.1:43623/:/plugins/com.plexapp.system/messaging/function/X0FnZW50U2VydmljZTpVcGRhdGVJbmZv/Y2VyZWFsMQoxCmxpc3QKMApyMAo_/Y2VyZWFsMQo3CmRpY3QKbGlzdApkaWN0Cmxpc3QKbGlzdApsaXN0Cmxpc3QKMgpzMjMKY29tLnBsZXhhcHAuYWdlbnRzLmltZGJzMTAKaWRlbnRpZmllcnIxCnMxMAphZ2VudF9pbmZvMQpyMgoxMApyMwpzMTEKbWVkaWFfdHlwZXNyNApzMTIKYWNjZXB0c19mcm9tbnMxNApmYWxsYmFja19hZ2VudHI1CnMxNApjb250cmlidXRlc190b3I2CnM5Cmxhbmd1YWdlc2IxczIwCnBlcnNpc3Rfc3RvcmVkX2ZpbGVzaTAKczcKdmVyc2lvbmIxczE2CnByaW1hcnlfcHJvdmlkZXJiMXM1CnByZWZzczEwClBsZXggTW92aWVzNApuYW1lMQpzNQpNb3ZpZTEKczI5CmNvbS5wbGV4YXBwLmFnZW50cy5sb2NhbG1lZGlhMQpzMjkKY29tLnBsZXhhcHAuYWdlbnRzLnRoZW1vdmllZGIzMwpzMgplbnMyCnN2czIKZnJzMgplc3MyCm5sczIKZGVzMgppdHMyCmRhczIKYXJzMgpjYXMyCnpoczIKY3NzMgpldHMyCmZpczIKZWxzMgpoZXMyCmhpczIKaHVzMgppZHMyCmphczIKa29zMgpsdnMyCm5vczIKZmFzMgpwbHMyCnB0czIKcm9zMgpydXMyCnNrczIKdGhzMgp0cnMyCnVrczIKdmlyMAo_
+Jul 14, 2018 22:34:37.112 [0x7f7d563fd700] DEBUG - HTTP requesting GET https://plex.tv/media/providers?X-Plex-Token=xxxxxxxxxxxxxxxxxxxx
+Jul 14, 2018 22:34:37.113 [0x7f7d597f3700] DEBUG - [com.plexapp.system] HTTP reply status 200, with 16 bytes of content.
+Jul 14, 2018 22:34:37.113 [0x7f7d663ff700] DEBUG - Completed: [127.0.0.1:36550] 200 GET /:/plugins/com.plexapp.system/messaging/function/X0FnZW50U2VydmljZTpVcGRhdGVJbmZv/Y2VyZWFsMQoxCmxpc3QKMApyMAo_/Y2VyZWFsMQo3CmRpY3QKbGlzdApkaWN0Cmxpc3QKbGlzdApsaXN0Cmxpc3QKMgpzMjMKY29tLnBsZXhhcHAuYWdlbnRzLmltZGJzMTAKaWRlbnRpZmllcnIxCnMxMAphZ2VudF9pbmZvMQpyMgoxMApyMwpzMTEKbWVkaWFfdHlwZXNyNApzMTIKYWNjZXB0c19mcm9tbnMxNApmYWxsYmFja19hZ2VudHI1CnMxNApjb250cmlidXRlc190b3I2CnM5Cmxhbmd1YWdlc2IxczIwCnBlcnNpc3Rfc3RvcmVkX2ZpbGVzaTAKczcKdmVyc2lvbmIxczE2CnByaW1hcnlfcHJvdmlkZXJiMXM1CnByZWZzczEwClBsZXggTW92aWVzNApuYW1lMQpzNQpNb3ZpZTEKczI5CmNvbS5wbGV4YXBwLmFnZW50cy5sb2NhbG1lZGlhMQpzMjkKY29tLnBsZXhhcHAuYWdlbnRzLnRoZW1vdmllZGIzMwpzMgplbnMyCnN2czIKZnJzMgplc3MyCm5sczIKZGVzMgppdHMyCmRhczIKYXJzMgpjYXMyCnpoczIKY3NzMgpldHMyCmZpczIKZWxzMgpoZXMyCmhpczIKaHVzMgppZHMyCmphczIKa29zMgpsdnMyCm5vczIKZmFzMgpwbHMyCnB0czIKcm9zMgpydXMyCnNrczIKdGhzMgp0cnMyCnVrczIKdmlyMAo_ (7 live) GZIP 16ms 465 bytes
+Jul 14, 2018 22:34:37.122 [0x7f7d59ff4700] DEBUG - Reading 148 bytes in the body, code is 200
+Jul 14, 2018 22:34:37.122 [0x7f7d59ff4700] DEBUG - [com.plexapp.agents.imdb] Plug-in running on port 42307.
+Jul 14, 2018 22:34:37.122 [0x7f7d59ff4700] DEBUG - Read configuration for [com.plexapp.agents.imdb], had 0 prefixes
+Jul 14, 2018 22:34:37.129 [0x7f7d5a7f5700] DEBUG - Database Fixups: Destroyed 0 transient items.
+Jul 14, 2018 22:34:37.136 [0x7f7d59ff4700] DEBUG - [com.plexapp.agents.imdb] Sending command over HTTP (GET): /:/plugins/com.plexapp.agents.imdb/prefs
+Jul 14, 2018 22:34:37.137 [0x7f7d59ff4700] DEBUG - HTTP requesting GET http://127.0.0.1:42307/:/plugins/com.plexapp.agents.imdb/prefs
+Jul 14, 2018 22:34:37.140 [0x7f7d5a7f5700] DEBUG - Collections: Found 1 collections tags in section 1.
+Jul 14, 2018 22:34:37.140 [0x7f7d5a7f5700] DEBUG - Collections: We had 1 collections in the library already.
+Jul 14, 2018 22:34:37.140 [0x7f7d5a7f5700] DEBUG - Collections: Synced tags in section 1 in 1ms.
+Jul 14, 2018 22:34:37.147 [0x7f7d5a7f5700] DEBUG - Collections: Refreshed attributes for 1 collections in section 1 in 6ms.
+Jul 14, 2018 22:34:37.149 [0x7f7d5a7f5700] DEBUG - Collection: Refreshed visibility in section 1 in 1ms.
+Jul 14, 2018 22:34:37.149 [0x7f7d5a7f5700] DEBUG - Collections: Found 0 collections tags in section 2.
+Jul 14, 2018 22:34:37.149 [0x7f7d5a7f5700] DEBUG - Collections: We had 0 collections in the library already.
+Jul 14, 2018 22:34:37.149 [0x7f7d5a7f5700] DEBUG - Collections: Synced tags in section 2 in 0ms.
+Jul 14, 2018 22:34:37.149 [0x7f7d5a7f5700] DEBUG - Collections: Refreshed attributes for 0 collections in section 2 in 0ms.
+Jul 14, 2018 22:34:37.152 [0x7f7d59ff4700] DEBUG - HTTP 200 response from GET http://127.0.0.1:42307/:/plugins/com.plexapp.agents.imdb/prefs
+Jul 14, 2018 22:34:37.152 [0x7f7d59ff4700] DEBUG - [com.plexapp.agents.imdb] HTTP reply status 200, with 2345 bytes of content.
+Jul 14, 2018 22:34:37.152 [0x7f7d5a7f5700] DEBUG - Collection: Refreshed visibility in section 2 in 2ms.
+Jul 14, 2018 22:34:37.152 [0x7f7d59ff4700] DEBUG - Caching document http://127.0.0.1:32400/:/plugins/com.plexapp.agents.imdb/prefs as f6461487fe3503bd0d2318dfd556d87342ac21a8
+Jul 14, 2018 22:34:37.152 [0x7f7d5a7f5700] DEBUG - Running database fix-ups completed in 0.0 seconds.
+Jul 14, 2018 22:34:37.152 [0x7f7d5a7f5700] DEBUG - HTTP requesting GET https://plex.tv/api/v2/user/privacy?X-Plex-Token=xxxxxxxxxxxxxxxxxxxx
+Jul 14, 2018 22:34:37.152 [0x7f7d59ff4700] DEBUG - IVA: Downloading trailer lists.
+Jul 14, 2018 22:34:37.290 [0x7f7d623fe700] DEBUG - HTTP 200 response from GET http://plex.tv/pms/:/ip
+Jul 14, 2018 22:34:37.290 [0x7f7d623fe700] DEBUG - PublicAddressManager: Got public IP from http://plex.tv: 100.11.251.15
+Jul 14, 2018 22:34:37.306 [0x7f7d59ff4700] DEBUG - IVA: Downloaded 38 trailers for source 1.
+Jul 14, 2018 22:34:37.402 [0x7f7d59ff4700] DEBUG - IVA: Downloaded 65 trailers for source 2.
+Jul 14, 2018 22:34:37.570 [0x7f7d5a7f5700] DEBUG - HTTP 200 response from GET https://plex.tv/api/v2/user/privacy?X-Plex-Token=xxxxxxxxxxxxxxxxxxxx
+Jul 14, 2018 22:34:37.582 [0x7f7d563fd700] DEBUG - HTTP 200 response from GET https://plex.tv/media/providers?X-Plex-Token=xxxxxxxxxxxxxxxxxxxx
+Jul 14, 2018 22:34:37.585 [0x7f7d563fd700] DEBUG - Activity: registered new activity 00333a9d-27ed-44b3-8ea7-f97950c941f9 - Processing subscriptions
+Jul 14, 2018 22:34:37.620 [0x7f7d56bfe700] DEBUG - HTTP 201 response from POST https://plex.tv/servers.xml?auth_token=xxxxxxxxxxxxxxxxxxxx&async=1&asyncIdentifier=e6da1c59-e434-48c9-ab7b-b25a13b0f696
+Jul 14, 2018 22:34:37.621 [0x7f7d56bfe700] DEBUG - MyPlex: Published Mapping State response was 201
+Jul 14, 2018 22:34:37.621 [0x7f7d56bfe700] DEBUG - MyPlex: Got response for 3ed2b02a097ae0dbd8131e18952f0fd286cb9cf6 ~ registered 100.11.251.15:21820
+Jul 14, 2018 22:34:37.624 [0x7f7d5e7fd700] DEBUG - HTTP 200 response from PUT https://plex.tv/devices/3ed2b02a097ae0dbd8131e18952f0fd286cb9cf6?Connection[][uri]=http://192.168.1.203:32400&Connection[][uri]=http://172.19.0.1:32400&Connection[][uri]=http://172.17.0.1:32400&Connection[][uri]=http://172.20.0.1:32400&Connection[][uri]=http://172.18.0.1:32400&httpsEnabled=1&httpsRequired=0&X-Plex-Token=xxxxxxxxxxxxxxxxxxxx
+Jul 14, 2018 22:34:37.627 [0x7f7d5e7fd700] DEBUG - CERT: Certificate will not expire soon.
+Jul 14, 2018 22:34:37.696 [0x7f7d5d7fb700] DEBUG - NetworkServiceBrowser: SSDP arrived: 192.168.1.191 (http://192.168.1.191:8060/)
+Jul 14, 2018 22:34:37.696 [0x7f7d673ff700] DEBUG - HTTP requesting GET http://192.168.1.191:8060/
+Jul 14, 2018 22:34:37.713 [0x7f7d673ff700] DEBUG - HTTP 200 response from GET http://192.168.1.191:8060/
+Jul 14, 2018 22:34:37.947 [0x7f7d58ff2700] DEBUG - Request: [52.213.132.78:2846 (WAN)] GET /identity (7 live) TLS Signed-in Token (mrfoofs)
+Jul 14, 2018 22:34:37.949 [0x7f7d663ff700] DEBUG - Completed: [52.213.132.78:2846] 200 GET /identity (7 live) TLS 2ms 357 bytes
+Jul 14, 2018 22:34:38.274 [0x7f7d65bfe700] DEBUG - EventSource: Got event [data] '<Message address="100.11.251.15" port="21820" asyncIdentifier="e6da1c59-e434-48c9-ab7b-b25a13b0f696" connectivity="1" command="notifyConnectivity"/>'
+Jul 14, 2018 22:34:38.275 [0x7f7d663ff700] DEBUG - EventSource: Got event [data] '<Message address="100.11.251.15" port="21820" asyncIdentifier="e6da1c59-e434-48c9-ab7b-b25a13b0f696" connectivity="1" command="notifyConnectivity"/>'
+Jul 14, 2018 22:34:39.799 [0x7f7d563fd700] DEBUG - HTTP requesting GET https://plex.tv/services/pubsub/servers
+Jul 14, 2018 22:34:40.108 [0x7f7d62bff700] DEBUG - NAT: UPnP, found device <http://192.168.1.1:58099/rootDesc.xml> with private address <192.168.1.203>
+Jul 14, 2018 22:34:40.114 [0x7f7d62bff700] DEBUG - NAT: UPnP, usable device <http://192.168.1.1:58099/rootDesc.xml> with private address <192.168.1.203>.
+Jul 14, 2018 22:34:40.117 [0x7f7d62bff700] DEBUG - NAT: UPnP, mapped port 21820 to 192.168.1.203:32400.
+Jul 14, 2018 22:34:40.375 [0x7f7d623fe700] DEBUG - NAT: UPnP, found device <http://192.168.1.1:58099/rootDesc.xml> with private address <192.168.1.203>
+Jul 14, 2018 22:34:40.380 [0x7f7d623fe700] DEBUG - NAT: UPnP, usable device <http://192.168.1.1:58099/rootDesc.xml> with private address <192.168.1.203>.
+Jul 14, 2018 22:34:40.383 [0x7f7d623fe700] DEBUG - NAT: UPnP, public address is 100.11.251.15
+Jul 14, 2018 22:34:40.387 [0x7f7d62bff700] DEBUG - PublicAddressManager: Mapping succeeded for 192.168.1.203:21820.
+Jul 14, 2018 22:34:40.388 [0x7f7d563fd700] DEBUG - HTTP 200 response from GET https://plex.tv/services/pubsub/servers
+Jul 14, 2018 22:34:40.400 [0x7f7d64bff700] DEBUG - MyPlex: Sending Server Info to myPlex (user=jdmtrent@gmail.com, ip=, port=21820)
+Jul 14, 2018 22:34:40.402 [0x7f7d64bff700] DEBUG - HTTP requesting POST https://plex.tv/servers.xml?auth_token=xxxxxxxxxxxxxxxxxxxx&async=1&asyncIdentifier=0189ca62-8fe9-4996-8921-f98bec766854
+Jul 14, 2018 22:34:40.403 [0x7f7d623fe700] WARN - MyPlex: Invalid connection URL '"http://192.168.1.203:32400/"'.
+Jul 14, 2018 22:34:40.403 [0x7f7d623fe700] DEBUG - MyPlex: Last published value didn't change, we're done.
+Jul 14, 2018 22:34:40.405 [0x7f7d62bff700] WARN - MyPlex: Invalid connection URL '"http://192.168.1.203:32400/"'.
+Jul 14, 2018 22:34:40.405 [0x7f7d62bff700] DEBUG - MyPlex: Last published value didn't change, we're done.
+Jul 14, 2018 22:34:40.865 [0x7f7d64bff700] DEBUG - HTTP 201 response from POST https://plex.tv/servers.xml?auth_token=xxxxxxxxxxxxxxxxxxxx&async=1&asyncIdentifier=0189ca62-8fe9-4996-8921-f98bec766854
+Jul 14, 2018 22:34:40.866 [0x7f7d64bff700] DEBUG - MyPlex: Published Mapping State response was 201
+Jul 14, 2018 22:34:40.866 [0x7f7d64bff700] DEBUG - MyPlex: Got response for 3ed2b02a097ae0dbd8131e18952f0fd286cb9cf6 ~ registered 100.11.251.15:21820
+Jul 14, 2018 22:34:40.869 [0x7f7d64bff700] WARN - MyPlex: Invalid connection URL '"http://192.168.1.203:32400/"'.
+Jul 14, 2018 22:34:40.869 [0x7f7d64bff700] DEBUG - MyPlex: Last published value didn't change, we're done.
+Jul 14, 2018 22:34:40.871 [0x7f7d63bff700] DEBUG - MyPlex: Sending Server Info to myPlex (user=jdmtrent@gmail.com, ip=, port=21820)
+Jul 14, 2018 22:34:40.871 [0x7f7d63bff700] DEBUG - HTTP requesting POST https://plex.tv/servers.xml?auth_token=xxxxxxxxxxxxxxxxxxxx&async=1&asyncIdentifier=36a8f944-d468-4da5-9c73-6f013edea5a9
+Jul 14, 2018 22:34:41.380 [0x7f7d63bff700] DEBUG - HTTP 201 response from POST https://plex.tv/servers.xml?auth_token=xxxxxxxxxxxxxxxxxxxx&async=1&asyncIdentifier=36a8f944-d468-4da5-9c73-6f013edea5a9
+Jul 14, 2018 22:34:41.382 [0x7f7d63bff700] DEBUG - MyPlex: Published Mapping State response was 201
+Jul 14, 2018 22:34:41.382 [0x7f7d63bff700] DEBUG - MyPlex: Got response for 3ed2b02a097ae0dbd8131e18952f0fd286cb9cf6 ~ registered 100.11.251.15:21820
+Jul 14, 2018 22:34:41.382 [0x7f7d65bfe700] WARN - PubSub: Received notifyConnectivity event with incorrect async identifier (e6da1c59-e434-48c9-ab7b-b25a13b0f696, expected 36a8f944-d468-4da5-9c73-6f013edea5a9)
+Jul 14, 2018 22:34:41.382 [0x7f7d65bfe700] WARN - PubSub: Received notifyConnectivity event with incorrect async identifier (e6da1c59-e434-48c9-ab7b-b25a13b0f696, expected )
+Jul 14, 2018 22:34:41.382 [0x7f7d663ff700] WARN - PubSub: Received notifyConnectivity event with incorrect async identifier (e6da1c59-e434-48c9-ab7b-b25a13b0f696, expected 36a8f944-d468-4da5-9c73-6f013edea5a9)
+Jul 14, 2018 22:34:41.383 [0x7f7d663ff700] WARN - PubSub: Received notifyConnectivity event with incorrect async identifier (e6da1c59-e434-48c9-ab7b-b25a13b0f696, expected )
+Jul 14, 2018 22:34:41.391 [0x7f7d63bff700] WARN - MyPlex: Invalid connection URL '"http://192.168.1.203:32400/"'.
+Jul 14, 2018 22:34:41.392 [0x7f7d63bff700] DEBUG - MyPlex: Last published value didn't change, we're done.
+Jul 14, 2018 22:34:41.583 [0x7f7d5bff8700] DEBUG - Request: [54.246.141.109:43399 (WAN)] GET /identity (8 live) TLS Signed-in Token (mrfoofs)
+Jul 14, 2018 22:34:41.584 [0x7f7d663ff700] DEBUG - Completed: [54.246.141.109:43399] 200 GET /identity (8 live) TLS 1ms 357 bytes
+Jul 14, 2018 22:34:41.707 [0x7f7d5cffa700] DEBUG - Request: [54.246.141.109:43523 (WAN)] GET /identity (7 live) TLS Signed-in Token (mrfoofs)
+Jul 14, 2018 22:34:41.708 [0x7f7d65bfe700] DEBUG - Completed: [54.246.141.109:43523] 200 GET /identity (7 live) TLS 1ms 357 bytes

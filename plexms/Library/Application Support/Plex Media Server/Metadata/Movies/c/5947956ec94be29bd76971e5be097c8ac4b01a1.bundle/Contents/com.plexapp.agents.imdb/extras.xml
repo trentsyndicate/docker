@@ -1,0 +1,123 @@
+<?xml version='1.0' encoding='utf-8'?>
+<MediaContainer size="6" identifier="com.plexapp.agents.imdb" mediaTagPrefix="/system/bundle/media/flags/" prefsKey="/:/plugins/com.plexapp.agents.imdb/prefs">
+  <Video url="iva://api.internetvideoarchive.com/2.0/DataService/VideoAssets(106507)?lang=en&amp;bitrates=80,212,450,750,1500,2500,5000,8000&amp;duration=138&amp;adaptive=1&amp;dts=0" key="/system/services/url/lookup?url=iva%3A%2F%2Fapi.internetvideoarchive.com%2F2.0%2FDataService%2FVideoAssets%28106507%29%3Flang%3Den%26bitrates%3D80%2C212%2C450%2C750%2C1500%2C2500%2C5000%2C8000%26duration%3D138%26adaptive%3D1%26dts%3D0" type="clip" relationType="trailer" year="2017" title="The Good Dinosaur (Clean Trailer)" originallyAvailableAt="2017-12-12" thumb="https://iva-images.plex.tv/content/hdphotos/11591/011591/011591_1280x720_106507_062.jpg" ratingKey="iva://api.internetvideoarchive.com/2.0/DataService/VideoAssets(106507)?lang=en&amp;bitrates=80,212,450,750,1500,2500,5000,8000&amp;duration=138&amp;adaptive=1&amp;dts=0">
+    <Media container="mp4" height="1080" width="1920" audioCodec="aac" duration="138000" videoCodec="h264" bitrate="2500">
+      <Part duration="138000" key="/services/iva/assets/106507/video.mp4?bitrate=2500" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="1080" width="1920" codec="h264" bitrate="2500" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+    <Media container="mp4" height="720" width="1280" audioCodec="aac" duration="138000" videoCodec="h264" bitrate="1500">
+      <Part duration="138000" key="/services/iva/assets/106507/video.mp4?bitrate=1500" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="720" width="1280" codec="h264" bitrate="1500" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+    <Media container="mp4" height="480" width="640" audioCodec="aac" duration="138000" videoCodec="h264" bitrate="450">
+      <Part duration="138000" key="/services/iva/assets/106507/video.mp4?bitrate=450" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="480" width="640" codec="h264" bitrate="450" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+  </Video>
+  <Video url="iva://api.internetvideoarchive.com/2.0/DataService/VideoAssets(682522)?lang=en&amp;bitrates=80,212,450,750,1500,2500,5000,8000&amp;duration=87&amp;adaptive=1&amp;dts=0" key="/system/services/url/lookup?url=iva%3A%2F%2Fapi.internetvideoarchive.com%2F2.0%2FDataService%2FVideoAssets%28682522%29%3Flang%3Den%26bitrates%3D80%2C212%2C450%2C750%2C1500%2C2500%2C5000%2C8000%26duration%3D87%26adaptive%3D1%26dts%3D0" type="clip" relationType="behindTheScenes" year="2015" title="The Good Dinosaur: The Story (Featurette)" originallyAvailableAt="2015-12-04" thumb="https://iva-images.plex.tv/content/hdphotos/9888/009888/009888_1278x719_682522_048.jpg" ratingKey="iva://api.internetvideoarchive.com/2.0/DataService/VideoAssets(682522)?lang=en&amp;bitrates=80,212,450,750,1500,2500,5000,8000&amp;duration=87&amp;adaptive=1&amp;dts=0">
+    <Media container="mp4" height="1080" width="1920" audioCodec="aac" duration="87000" videoCodec="h264" bitrate="2500">
+      <Part duration="87000" key="/services/iva/assets/682522/video.mp4?bitrate=2500" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="1080" width="1920" codec="h264" bitrate="2500" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+    <Media container="mp4" height="720" width="1280" audioCodec="aac" duration="87000" videoCodec="h264" bitrate="1500">
+      <Part duration="87000" key="/services/iva/assets/682522/video.mp4?bitrate=1500" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="720" width="1280" codec="h264" bitrate="1500" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+    <Media container="mp4" height="480" width="640" audioCodec="aac" duration="87000" videoCodec="h264" bitrate="450">
+      <Part duration="87000" key="/services/iva/assets/682522/video.mp4?bitrate=450" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="480" width="640" codec="h264" bitrate="450" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+  </Video>
+  <Video url="iva://api.internetvideoarchive.com/2.0/DataService/VideoAssets(907631)?lang=en&amp;bitrates=80,212,450,750,1500,2500,5000,8000&amp;duration=90&amp;adaptive=1&amp;dts=0" key="/system/services/url/lookup?url=iva%3A%2F%2Fapi.internetvideoarchive.com%2F2.0%2FDataService%2FVideoAssets%28907631%29%3Flang%3Den%26bitrates%3D80%2C212%2C450%2C750%2C1500%2C2500%2C5000%2C8000%26duration%3D90%26adaptive%3D1%26dts%3D0" type="clip" relationType="behindTheScenes" year="2015" title="The Good Dinosaur: 20th Anniversay (Featurette)" originallyAvailableAt="2015-11-25" thumb="https://iva-images.plex.tv/content/hdphotos/9874/009874/009874_1280x720_907631_057.jpg" ratingKey="iva://api.internetvideoarchive.com/2.0/DataService/VideoAssets(907631)?lang=en&amp;bitrates=80,212,450,750,1500,2500,5000,8000&amp;duration=90&amp;adaptive=1&amp;dts=0">
+    <Media container="mp4" height="1080" width="1920" audioCodec="aac" duration="90000" videoCodec="h264" bitrate="2500">
+      <Part duration="90000" key="/services/iva/assets/907631/video.mp4?bitrate=2500" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="1080" width="1920" codec="h264" bitrate="2500" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+    <Media container="mp4" height="720" width="1280" audioCodec="aac" duration="90000" videoCodec="h264" bitrate="1500">
+      <Part duration="90000" key="/services/iva/assets/907631/video.mp4?bitrate=1500" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="720" width="1280" codec="h264" bitrate="1500" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+    <Media container="mp4" height="480" width="640" audioCodec="aac" duration="90000" videoCodec="h264" bitrate="450">
+      <Part duration="90000" key="/services/iva/assets/907631/video.mp4?bitrate=450" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="480" width="640" codec="h264" bitrate="450" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+  </Video>
+  <Video url="iva://api.internetvideoarchive.com/2.0/DataService/VideoAssets(798269)?lang=en&amp;bitrates=80,212,450,750,1500,2500,5000,8000&amp;duration=130&amp;adaptive=1&amp;dts=0" key="/system/services/url/lookup?url=iva%3A%2F%2Fapi.internetvideoarchive.com%2F2.0%2FDataService%2FVideoAssets%28798269%29%3Flang%3Den%26bitrates%3D80%2C212%2C450%2C750%2C1500%2C2500%2C5000%2C8000%26duration%3D130%26adaptive%3D1%26dts%3D0" type="clip" relationType="behindTheScenes" year="2015" title="The Good Dinosaur: Technically Speaking (Featurette)" originallyAvailableAt="2015-11-09" thumb="https://iva-images.plex.tv/content/hdphotos/9847/009847/009847_1280x720_798269_023.jpg" ratingKey="iva://api.internetvideoarchive.com/2.0/DataService/VideoAssets(798269)?lang=en&amp;bitrates=80,212,450,750,1500,2500,5000,8000&amp;duration=130&amp;adaptive=1&amp;dts=0">
+    <Media container="mp4" height="1080" width="1920" audioCodec="aac" duration="130000" videoCodec="h264" bitrate="2500">
+      <Part duration="130000" key="/services/iva/assets/798269/video.mp4?bitrate=2500" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="1080" width="1920" codec="h264" bitrate="2500" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+    <Media container="mp4" height="720" width="1280" audioCodec="aac" duration="130000" videoCodec="h264" bitrate="1500">
+      <Part duration="130000" key="/services/iva/assets/798269/video.mp4?bitrate=1500" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="720" width="1280" codec="h264" bitrate="1500" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+    <Media container="mp4" height="480" width="640" audioCodec="aac" duration="130000" videoCodec="h264" bitrate="450">
+      <Part duration="130000" key="/services/iva/assets/798269/video.mp4?bitrate=450" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="480" width="640" codec="h264" bitrate="450" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+  </Video>
+  <Video url="iva://api.internetvideoarchive.com/2.0/DataService/VideoAssets(603796)?lang=en&amp;bitrates=80,212,450,750,1500,2500,5000,8000&amp;duration=76&amp;adaptive=1&amp;dts=0" key="/system/services/url/lookup?url=iva%3A%2F%2Fapi.internetvideoarchive.com%2F2.0%2FDataService%2FVideoAssets%28603796%29%3Flang%3Den%26bitrates%3D80%2C212%2C450%2C750%2C1500%2C2500%2C5000%2C8000%26duration%3D76%26adaptive%3D1%26dts%3D0" type="clip" relationType="behindTheScenes" year="2015" title="The Good Dinosaur: 20 Years Of Friendship" originallyAvailableAt="2015-10-16" thumb="https://iva-images.plex.tv/content/hdphotos/9811/009811/009811_912x513_603796_051.jpg" ratingKey="iva://api.internetvideoarchive.com/2.0/DataService/VideoAssets(603796)?lang=en&amp;bitrates=80,212,450,750,1500,2500,5000,8000&amp;duration=76&amp;adaptive=1&amp;dts=0">
+    <Media container="mp4" height="1080" width="1920" audioCodec="aac" duration="76000" videoCodec="h264" bitrate="2500">
+      <Part duration="76000" key="/services/iva/assets/603796/video.mp4?bitrate=2500" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="1080" width="1920" codec="h264" bitrate="2500" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+    <Media container="mp4" height="720" width="1280" audioCodec="aac" duration="76000" videoCodec="h264" bitrate="1500">
+      <Part duration="76000" key="/services/iva/assets/603796/video.mp4?bitrate=1500" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="720" width="1280" codec="h264" bitrate="1500" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+    <Media container="mp4" height="480" width="640" audioCodec="aac" duration="76000" videoCodec="h264" bitrate="450">
+      <Part duration="76000" key="/services/iva/assets/603796/video.mp4?bitrate=450" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="480" width="640" codec="h264" bitrate="450" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+  </Video>
+  <Video url="iva://api.internetvideoarchive.com/2.0/DataService/VideoAssets(454709)?lang=en&amp;bitrates=80,212,450,750,1500,2500,5000,8000&amp;duration=78&amp;adaptive=1&amp;dts=0" key="/system/services/url/lookup?url=iva%3A%2F%2Fapi.internetvideoarchive.com%2F2.0%2FDataService%2FVideoAssets%28454709%29%3Flang%3Den%26bitrates%3D80%2C212%2C450%2C750%2C1500%2C2500%2C5000%2C8000%26duration%3D78%26adaptive%3D1%26dts%3D0" type="clip" relationType="behindTheScenes" year="2015" title="The Good Dinosaur: 20 Years of Friendship Featurette (UK)" originallyAvailableAt="2015-10-16" thumb="https://iva-images.plex.tv/content/hdphotos/9811/009811/009811_1280x720_454709_052.jpg" ratingKey="iva://api.internetvideoarchive.com/2.0/DataService/VideoAssets(454709)?lang=en&amp;bitrates=80,212,450,750,1500,2500,5000,8000&amp;duration=78&amp;adaptive=1&amp;dts=0">
+    <Media container="mp4" height="1080" width="1920" audioCodec="aac" duration="78000" videoCodec="h264" bitrate="2500">
+      <Part duration="78000" key="/services/iva/assets/454709/video.mp4?bitrate=2500" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="1080" width="1920" codec="h264" bitrate="2500" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+    <Media container="mp4" height="720" width="1280" audioCodec="aac" duration="78000" videoCodec="h264" bitrate="1500">
+      <Part duration="78000" key="/services/iva/assets/454709/video.mp4?bitrate=1500" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="720" width="1280" codec="h264" bitrate="1500" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+    <Media container="mp4" height="480" width="640" audioCodec="aac" duration="78000" videoCodec="h264" bitrate="450">
+      <Part duration="78000" key="/services/iva/assets/454709/video.mp4?bitrate=450" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="480" width="640" codec="h264" bitrate="450" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+  </Video>
+</MediaContainer>

@@ -1,0 +1,283 @@
+<?xml version='1.0' encoding='utf-8'?>
+<MediaContainer size="14" identifier="com.plexapp.agents.imdb" mediaTagPrefix="/system/bundle/media/flags/" prefsKey="/:/plugins/com.plexapp.agents.imdb/prefs">
+  <Video url="iva://api.internetvideoarchive.com/2.0/DataService/VideoAssets(258554)?lang=en&amp;bitrates=80,212,450,750,1500,2500,5000,8000&amp;duration=150&amp;adaptive=1&amp;dts=0" key="/system/services/url/lookup?url=iva%3A%2F%2Fapi.internetvideoarchive.com%2F2.0%2FDataService%2FVideoAssets%28258554%29%3Flang%3Den%26bitrates%3D80%2C212%2C450%2C750%2C1500%2C2500%2C5000%2C8000%26duration%3D150%26adaptive%3D1%26dts%3D0" type="clip" relationType="trailer" year="2017" title="The Wedding Ringer (Clean Trailer)" originallyAvailableAt="2017-12-28" thumb="https://iva-images.plex.tv/content/hdphotos/11624/011624/011624_718x404_258554_060.jpg" ratingKey="iva://api.internetvideoarchive.com/2.0/DataService/VideoAssets(258554)?lang=en&amp;bitrates=80,212,450,750,1500,2500,5000,8000&amp;duration=150&amp;adaptive=1&amp;dts=0">
+    <Media container="mp4" height="1080" width="1920" audioCodec="aac" duration="150000" videoCodec="h264" bitrate="2500">
+      <Part duration="150000" key="/services/iva/assets/258554/video.mp4?bitrate=2500" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="1080" width="1920" codec="h264" bitrate="2500" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+    <Media container="mp4" height="720" width="1280" audioCodec="aac" duration="150000" videoCodec="h264" bitrate="1500">
+      <Part duration="150000" key="/services/iva/assets/258554/video.mp4?bitrate=1500" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="720" width="1280" codec="h264" bitrate="1500" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+    <Media container="mp4" height="480" width="640" audioCodec="aac" duration="150000" videoCodec="h264" bitrate="450">
+      <Part duration="150000" key="/services/iva/assets/258554/video.mp4?bitrate=450" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="480" width="640" codec="h264" bitrate="450" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+  </Video>
+  <Video url="iva://api.internetvideoarchive.com/2.0/DataService/VideoAssets(672570)?lang=en&amp;bitrates=80,212,450,750,1500,2500,5000,8000&amp;duration=59&amp;adaptive=1&amp;dts=0" key="/system/services/url/lookup?url=iva%3A%2F%2Fapi.internetvideoarchive.com%2F2.0%2FDataService%2FVideoAssets%28672570%29%3Flang%3Den%26bitrates%3D80%2C212%2C450%2C750%2C1500%2C2500%2C5000%2C8000%26duration%3D59%26adaptive%3D1%26dts%3D0" type="clip" relationType="behindTheScenes" year="2014" title="The Wedding Ringer: Jeremy Garelick On Getting The Director Job" originallyAvailableAt="2014-12-31" thumb="https://iva-images.plex.tv/content/hdphotos/9351/009351/009351_876x493_672570_003.jpg" ratingKey="iva://api.internetvideoarchive.com/2.0/DataService/VideoAssets(672570)?lang=en&amp;bitrates=80,212,450,750,1500,2500,5000,8000&amp;duration=59&amp;adaptive=1&amp;dts=0">
+    <Media container="mp4" height="1080" width="1920" audioCodec="aac" duration="59000" videoCodec="h264" bitrate="2500">
+      <Part duration="59000" key="/services/iva/assets/672570/video.mp4?bitrate=2500" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="1080" width="1920" codec="h264" bitrate="2500" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+    <Media container="mp4" height="720" width="1280" audioCodec="aac" duration="59000" videoCodec="h264" bitrate="1500">
+      <Part duration="59000" key="/services/iva/assets/672570/video.mp4?bitrate=1500" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="720" width="1280" codec="h264" bitrate="1500" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+    <Media container="mp4" height="480" width="640" audioCodec="aac" duration="59000" videoCodec="h264" bitrate="450">
+      <Part duration="59000" key="/services/iva/assets/672570/video.mp4?bitrate=450" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="480" width="640" codec="h264" bitrate="450" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+  </Video>
+  <Video url="iva://api.internetvideoarchive.com/2.0/DataService/VideoAssets(407716)?lang=en&amp;bitrates=80,212,450,750,1500,2500,5000,8000&amp;duration=20&amp;adaptive=1&amp;dts=0" key="/system/services/url/lookup?url=iva%3A%2F%2Fapi.internetvideoarchive.com%2F2.0%2FDataService%2FVideoAssets%28407716%29%3Flang%3Den%26bitrates%3D80%2C212%2C450%2C750%2C1500%2C2500%2C5000%2C8000%26duration%3D20%26adaptive%3D1%26dts%3D0" type="clip" relationType="behindTheScenes" year="2014" title="The Wedding Ringer: Joe Namath On The Part He Plays In The Movie" originallyAvailableAt="2014-12-31" thumb="https://iva-images.plex.tv/content/hdphotos/9351/009351/009351_1003x564_407716_012.jpg" ratingKey="iva://api.internetvideoarchive.com/2.0/DataService/VideoAssets(407716)?lang=en&amp;bitrates=80,212,450,750,1500,2500,5000,8000&amp;duration=20&amp;adaptive=1&amp;dts=0">
+    <Media container="mp4" height="1080" width="1920" audioCodec="aac" duration="20000" videoCodec="h264" bitrate="2500">
+      <Part duration="20000" key="/services/iva/assets/407716/video.mp4?bitrate=2500" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="1080" width="1920" codec="h264" bitrate="2500" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+    <Media container="mp4" height="720" width="1280" audioCodec="aac" duration="20000" videoCodec="h264" bitrate="1500">
+      <Part duration="20000" key="/services/iva/assets/407716/video.mp4?bitrate=1500" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="720" width="1280" codec="h264" bitrate="1500" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+    <Media container="mp4" height="480" width="640" audioCodec="aac" duration="20000" videoCodec="h264" bitrate="450">
+      <Part duration="20000" key="/services/iva/assets/407716/video.mp4?bitrate=450" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="480" width="640" codec="h264" bitrate="450" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+  </Video>
+  <Video url="iva://api.internetvideoarchive.com/2.0/DataService/VideoAssets(735182)?lang=en&amp;bitrates=80,212,450,750,1500,2500,5000,8000&amp;duration=10&amp;adaptive=1&amp;dts=0" key="/system/services/url/lookup?url=iva%3A%2F%2Fapi.internetvideoarchive.com%2F2.0%2FDataService%2FVideoAssets%28735182%29%3Flang%3Den%26bitrates%3D80%2C212%2C450%2C750%2C1500%2C2500%2C5000%2C8000%26duration%3D10%26adaptive%3D1%26dts%3D0" type="clip" relationType="behindTheScenes" year="2014" title="The Wedding Ringer: Jenifer Lewis On The Relationship Between Jimmy And Doug" originallyAvailableAt="2014-12-31" thumb="https://iva-images.plex.tv/content/hdphotos/9351/009351/009351_948x533_735182_003.jpg" ratingKey="iva://api.internetvideoarchive.com/2.0/DataService/VideoAssets(735182)?lang=en&amp;bitrates=80,212,450,750,1500,2500,5000,8000&amp;duration=10&amp;adaptive=1&amp;dts=0">
+    <Media container="mp4" height="1080" width="1920" audioCodec="aac" duration="10000" videoCodec="h264" bitrate="2500">
+      <Part duration="10000" key="/services/iva/assets/735182/video.mp4?bitrate=2500" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="1080" width="1920" codec="h264" bitrate="2500" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+    <Media container="mp4" height="720" width="1280" audioCodec="aac" duration="10000" videoCodec="h264" bitrate="1500">
+      <Part duration="10000" key="/services/iva/assets/735182/video.mp4?bitrate=1500" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="720" width="1280" codec="h264" bitrate="1500" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+    <Media container="mp4" height="480" width="640" audioCodec="aac" duration="10000" videoCodec="h264" bitrate="450">
+      <Part duration="10000" key="/services/iva/assets/735182/video.mp4?bitrate=450" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="480" width="640" codec="h264" bitrate="450" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+  </Video>
+  <Video url="iva://api.internetvideoarchive.com/2.0/DataService/VideoAssets(238794)?lang=en&amp;bitrates=80,212,450,750,1500,2500,5000,8000&amp;duration=33&amp;adaptive=1&amp;dts=0" key="/system/services/url/lookup?url=iva%3A%2F%2Fapi.internetvideoarchive.com%2F2.0%2FDataService%2FVideoAssets%28238794%29%3Flang%3Den%26bitrates%3D80%2C212%2C450%2C750%2C1500%2C2500%2C5000%2C8000%26duration%3D33%26adaptive%3D1%26dts%3D0" type="clip" relationType="behindTheScenes" year="2014" title="The Wedding Ringer: Ignacio Serricchio On The Story" originallyAvailableAt="2014-12-31" thumb="https://iva-images.plex.tv/content/hdphotos/9351/009351/009351_987x555_238794_002.jpg" ratingKey="iva://api.internetvideoarchive.com/2.0/DataService/VideoAssets(238794)?lang=en&amp;bitrates=80,212,450,750,1500,2500,5000,8000&amp;duration=33&amp;adaptive=1&amp;dts=0">
+    <Media container="mp4" height="1080" width="1920" audioCodec="aac" duration="33000" videoCodec="h264" bitrate="2500">
+      <Part duration="33000" key="/services/iva/assets/238794/video.mp4?bitrate=2500" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="1080" width="1920" codec="h264" bitrate="2500" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+    <Media container="mp4" height="720" width="1280" audioCodec="aac" duration="33000" videoCodec="h264" bitrate="1500">
+      <Part duration="33000" key="/services/iva/assets/238794/video.mp4?bitrate=1500" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="720" width="1280" codec="h264" bitrate="1500" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+    <Media container="mp4" height="480" width="640" audioCodec="aac" duration="33000" videoCodec="h264" bitrate="450">
+      <Part duration="33000" key="/services/iva/assets/238794/video.mp4?bitrate=450" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="480" width="640" codec="h264" bitrate="450" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+  </Video>
+  <Video url="iva://api.internetvideoarchive.com/2.0/DataService/VideoAssets(854694)?lang=en&amp;bitrates=80,212,450,750,1500,2500,5000,8000&amp;duration=26&amp;adaptive=1&amp;dts=0" key="/system/services/url/lookup?url=iva%3A%2F%2Fapi.internetvideoarchive.com%2F2.0%2FDataService%2FVideoAssets%28854694%29%3Flang%3Den%26bitrates%3D80%2C212%2C450%2C750%2C1500%2C2500%2C5000%2C8000%26duration%3D26%26adaptive%3D1%26dts%3D0" type="clip" relationType="behindTheScenes" year="2014" title="The Wedding Ringer: Whitney Cummings On Kevin Hart" originallyAvailableAt="2014-12-31" thumb="https://iva-images.plex.tv/content/hdphotos/9351/009351/009351_962x541_854694_015.jpg" ratingKey="iva://api.internetvideoarchive.com/2.0/DataService/VideoAssets(854694)?lang=en&amp;bitrates=80,212,450,750,1500,2500,5000,8000&amp;duration=26&amp;adaptive=1&amp;dts=0">
+    <Media container="mp4" height="1080" width="1920" audioCodec="aac" duration="26000" videoCodec="h264" bitrate="2500">
+      <Part duration="26000" key="/services/iva/assets/854694/video.mp4?bitrate=2500" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="1080" width="1920" codec="h264" bitrate="2500" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+    <Media container="mp4" height="720" width="1280" audioCodec="aac" duration="26000" videoCodec="h264" bitrate="1500">
+      <Part duration="26000" key="/services/iva/assets/854694/video.mp4?bitrate=1500" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="720" width="1280" codec="h264" bitrate="1500" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+    <Media container="mp4" height="480" width="640" audioCodec="aac" duration="26000" videoCodec="h264" bitrate="450">
+      <Part duration="26000" key="/services/iva/assets/854694/video.mp4?bitrate=450" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="480" width="640" codec="h264" bitrate="450" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+  </Video>
+  <Video url="iva://api.internetvideoarchive.com/2.0/DataService/VideoAssets(370951)?lang=en&amp;bitrates=80,212,450,750,1500,2500,5000,8000&amp;duration=15&amp;adaptive=1&amp;dts=0" key="/system/services/url/lookup?url=iva%3A%2F%2Fapi.internetvideoarchive.com%2F2.0%2FDataService%2FVideoAssets%28370951%29%3Flang%3Den%26bitrates%3D80%2C212%2C450%2C750%2C1500%2C2500%2C5000%2C8000%26duration%3D15%26adaptive%3D1%26dts%3D0" type="clip" relationType="behindTheScenes" year="2014" title="The Wedding Ringer: Mimi Rogers On Josh Gad" originallyAvailableAt="2014-12-31" thumb="https://iva-images.plex.tv/content/hdphotos/9351/009351/009351_1003x564_370951_005.jpg" ratingKey="iva://api.internetvideoarchive.com/2.0/DataService/VideoAssets(370951)?lang=en&amp;bitrates=80,212,450,750,1500,2500,5000,8000&amp;duration=15&amp;adaptive=1&amp;dts=0">
+    <Media container="mp4" height="1080" width="1920" audioCodec="aac" duration="15000" videoCodec="h264" bitrate="2500">
+      <Part duration="15000" key="/services/iva/assets/370951/video.mp4?bitrate=2500" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="1080" width="1920" codec="h264" bitrate="2500" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+    <Media container="mp4" height="720" width="1280" audioCodec="aac" duration="15000" videoCodec="h264" bitrate="1500">
+      <Part duration="15000" key="/services/iva/assets/370951/video.mp4?bitrate=1500" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="720" width="1280" codec="h264" bitrate="1500" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+    <Media container="mp4" height="480" width="640" audioCodec="aac" duration="15000" videoCodec="h264" bitrate="450">
+      <Part duration="15000" key="/services/iva/assets/370951/video.mp4?bitrate=450" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="480" width="640" codec="h264" bitrate="450" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+  </Video>
+  <Video url="iva://api.internetvideoarchive.com/2.0/DataService/VideoAssets(257712)?lang=en&amp;bitrates=80,212,450,750,1500,2500,5000,8000&amp;duration=18&amp;adaptive=1&amp;dts=0" key="/system/services/url/lookup?url=iva%3A%2F%2Fapi.internetvideoarchive.com%2F2.0%2FDataService%2FVideoAssets%28257712%29%3Flang%3Den%26bitrates%3D80%2C212%2C450%2C750%2C1500%2C2500%2C5000%2C8000%26duration%3D18%26adaptive%3D1%26dts%3D0" type="clip" relationType="behindTheScenes" year="2014" title="The Wedding Ringer: Cloris Leachman On Why We Should See The Film" originallyAvailableAt="2014-12-31" thumb="https://iva-images.plex.tv/content/hdphotos/9351/009351/009351_907x510_257712_003.jpg" ratingKey="iva://api.internetvideoarchive.com/2.0/DataService/VideoAssets(257712)?lang=en&amp;bitrates=80,212,450,750,1500,2500,5000,8000&amp;duration=18&amp;adaptive=1&amp;dts=0">
+    <Media container="mp4" height="1080" width="1920" audioCodec="aac" duration="18000" videoCodec="h264" bitrate="2500">
+      <Part duration="18000" key="/services/iva/assets/257712/video.mp4?bitrate=2500" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="1080" width="1920" codec="h264" bitrate="2500" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+    <Media container="mp4" height="720" width="1280" audioCodec="aac" duration="18000" videoCodec="h264" bitrate="1500">
+      <Part duration="18000" key="/services/iva/assets/257712/video.mp4?bitrate=1500" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="720" width="1280" codec="h264" bitrate="1500" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+    <Media container="mp4" height="480" width="640" audioCodec="aac" duration="18000" videoCodec="h264" bitrate="450">
+      <Part duration="18000" key="/services/iva/assets/257712/video.mp4?bitrate=450" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="480" width="640" codec="h264" bitrate="450" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+  </Video>
+  <Video url="iva://api.internetvideoarchive.com/2.0/DataService/VideoAssets(592356)?lang=en&amp;bitrates=80,212,450,750,1500,2500,5000,8000&amp;duration=15&amp;adaptive=1&amp;dts=0" key="/system/services/url/lookup?url=iva%3A%2F%2Fapi.internetvideoarchive.com%2F2.0%2FDataService%2FVideoAssets%28592356%29%3Flang%3Den%26bitrates%3D80%2C212%2C450%2C750%2C1500%2C2500%2C5000%2C8000%26duration%3D15%26adaptive%3D1%26dts%3D0" type="clip" relationType="behindTheScenes" year="2014" title="The Wedding Ringer: Ken Howard On Improvising On The Set" originallyAvailableAt="2014-12-31" thumb="https://iva-images.plex.tv/content/hdphotos/9351/009351/009351_928x522_592356_006.jpg" ratingKey="iva://api.internetvideoarchive.com/2.0/DataService/VideoAssets(592356)?lang=en&amp;bitrates=80,212,450,750,1500,2500,5000,8000&amp;duration=15&amp;adaptive=1&amp;dts=0">
+    <Media container="mp4" height="1080" width="1920" audioCodec="aac" duration="15000" videoCodec="h264" bitrate="2500">
+      <Part duration="15000" key="/services/iva/assets/592356/video.mp4?bitrate=2500" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="1080" width="1920" codec="h264" bitrate="2500" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+    <Media container="mp4" height="720" width="1280" audioCodec="aac" duration="15000" videoCodec="h264" bitrate="1500">
+      <Part duration="15000" key="/services/iva/assets/592356/video.mp4?bitrate=1500" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="720" width="1280" codec="h264" bitrate="1500" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+    <Media container="mp4" height="480" width="640" audioCodec="aac" duration="15000" videoCodec="h264" bitrate="450">
+      <Part duration="15000" key="/services/iva/assets/592356/video.mp4?bitrate=450" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="480" width="640" codec="h264" bitrate="450" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+  </Video>
+  <Video url="iva://api.internetvideoarchive.com/2.0/DataService/VideoAssets(899420)?lang=en&amp;bitrates=80,212,450,750,1500,2500,5000,8000&amp;duration=25&amp;adaptive=1&amp;dts=0" key="/system/services/url/lookup?url=iva%3A%2F%2Fapi.internetvideoarchive.com%2F2.0%2FDataService%2FVideoAssets%28899420%29%3Flang%3Den%26bitrates%3D80%2C212%2C450%2C750%2C1500%2C2500%2C5000%2C8000%26duration%3D25%26adaptive%3D1%26dts%3D0" type="clip" relationType="behindTheScenes" year="2014" title="The Wedding Ringer: Olivia Thirlby On How Alison Regards Jimmy" originallyAvailableAt="2014-12-31" thumb="https://iva-images.plex.tv/content/hdphotos/9351/009351/009351_1015x571_899420_009.jpg" ratingKey="iva://api.internetvideoarchive.com/2.0/DataService/VideoAssets(899420)?lang=en&amp;bitrates=80,212,450,750,1500,2500,5000,8000&amp;duration=25&amp;adaptive=1&amp;dts=0">
+    <Media container="mp4" height="1080" width="1920" audioCodec="aac" duration="25000" videoCodec="h264" bitrate="2500">
+      <Part duration="25000" key="/services/iva/assets/899420/video.mp4?bitrate=2500" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="1080" width="1920" codec="h264" bitrate="2500" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+    <Media container="mp4" height="720" width="1280" audioCodec="aac" duration="25000" videoCodec="h264" bitrate="1500">
+      <Part duration="25000" key="/services/iva/assets/899420/video.mp4?bitrate=1500" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="720" width="1280" codec="h264" bitrate="1500" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+    <Media container="mp4" height="480" width="640" audioCodec="aac" duration="25000" videoCodec="h264" bitrate="450">
+      <Part duration="25000" key="/services/iva/assets/899420/video.mp4?bitrate=450" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="480" width="640" codec="h264" bitrate="450" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+  </Video>
+  <Video url="iva://api.internetvideoarchive.com/2.0/DataService/VideoAssets(208028)?lang=en&amp;bitrates=80,212,450,750,1500,2500,5000,8000&amp;duration=18&amp;adaptive=1&amp;dts=0" key="/system/services/url/lookup?url=iva%3A%2F%2Fapi.internetvideoarchive.com%2F2.0%2FDataService%2FVideoAssets%28208028%29%3Flang%3Den%26bitrates%3D80%2C212%2C450%2C750%2C1500%2C2500%2C5000%2C8000%26duration%3D18%26adaptive%3D1%26dts%3D0" type="clip" relationType="behindTheScenes" year="2014" title="The Wedding Ringer: Kaley Cuoco-Sweeting On Reading The Script For The First Time" originallyAvailableAt="2014-12-31" thumb="https://iva-images.plex.tv/content/hdphotos/9351/009351/009351_1074x604_208028_008.jpg" ratingKey="iva://api.internetvideoarchive.com/2.0/DataService/VideoAssets(208028)?lang=en&amp;bitrates=80,212,450,750,1500,2500,5000,8000&amp;duration=18&amp;adaptive=1&amp;dts=0">
+    <Media container="mp4" height="1080" width="1920" audioCodec="aac" duration="18000" videoCodec="h264" bitrate="2500">
+      <Part duration="18000" key="/services/iva/assets/208028/video.mp4?bitrate=2500" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="1080" width="1920" codec="h264" bitrate="2500" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+    <Media container="mp4" height="720" width="1280" audioCodec="aac" duration="18000" videoCodec="h264" bitrate="1500">
+      <Part duration="18000" key="/services/iva/assets/208028/video.mp4?bitrate=1500" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="720" width="1280" codec="h264" bitrate="1500" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+    <Media container="mp4" height="480" width="640" audioCodec="aac" duration="18000" videoCodec="h264" bitrate="450">
+      <Part duration="18000" key="/services/iva/assets/208028/video.mp4?bitrate=450" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="480" width="640" codec="h264" bitrate="450" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+  </Video>
+  <Video url="iva://api.internetvideoarchive.com/2.0/DataService/VideoAssets(509941)?lang=en&amp;bitrates=80,212,450,750,1500,2500,5000,8000&amp;duration=63&amp;adaptive=1&amp;dts=0" key="/system/services/url/lookup?url=iva%3A%2F%2Fapi.internetvideoarchive.com%2F2.0%2FDataService%2FVideoAssets%28509941%29%3Flang%3Den%26bitrates%3D80%2C212%2C450%2C750%2C1500%2C2500%2C5000%2C8000%26duration%3D63%26adaptive%3D1%26dts%3D0" type="clip" relationType="behindTheScenes" year="2014" title="The Wedding Ringer: Kevin Hart On His Character" originallyAvailableAt="2014-12-31" thumb="https://iva-images.plex.tv/content/hdphotos/9351/009351/009351_955x537_509941_021.jpg" ratingKey="iva://api.internetvideoarchive.com/2.0/DataService/VideoAssets(509941)?lang=en&amp;bitrates=80,212,450,750,1500,2500,5000,8000&amp;duration=63&amp;adaptive=1&amp;dts=0">
+    <Media container="mp4" height="1080" width="1920" audioCodec="aac" duration="63000" videoCodec="h264" bitrate="2500">
+      <Part duration="63000" key="/services/iva/assets/509941/video.mp4?bitrate=2500" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="1080" width="1920" codec="h264" bitrate="2500" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+    <Media container="mp4" height="720" width="1280" audioCodec="aac" duration="63000" videoCodec="h264" bitrate="1500">
+      <Part duration="63000" key="/services/iva/assets/509941/video.mp4?bitrate=1500" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="720" width="1280" codec="h264" bitrate="1500" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+    <Media container="mp4" height="480" width="640" audioCodec="aac" duration="63000" videoCodec="h264" bitrate="450">
+      <Part duration="63000" key="/services/iva/assets/509941/video.mp4?bitrate=450" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="480" width="640" codec="h264" bitrate="450" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+  </Video>
+  <Video url="iva://api.internetvideoarchive.com/2.0/DataService/VideoAssets(804998)?lang=en&amp;bitrates=80,212,450,750,1500,2500,5000,8000&amp;duration=49&amp;adaptive=1&amp;dts=0" key="/system/services/url/lookup?url=iva%3A%2F%2Fapi.internetvideoarchive.com%2F2.0%2FDataService%2FVideoAssets%28804998%29%3Flang%3Den%26bitrates%3D80%2C212%2C450%2C750%2C1500%2C2500%2C5000%2C8000%26duration%3D49%26adaptive%3D1%26dts%3D0" type="clip" relationType="behindTheScenes" year="2014" title="The Wedding Ringer: Josh Gad On His Character" originallyAvailableAt="2014-12-31" thumb="https://iva-images.plex.tv/content/hdphotos/9350/009350/009350_1042x586_804998_013.jpg" ratingKey="iva://api.internetvideoarchive.com/2.0/DataService/VideoAssets(804998)?lang=en&amp;bitrates=80,212,450,750,1500,2500,5000,8000&amp;duration=49&amp;adaptive=1&amp;dts=0">
+    <Media container="mp4" height="1080" width="1920" audioCodec="aac" duration="49000" videoCodec="h264" bitrate="2500">
+      <Part duration="49000" key="/services/iva/assets/804998/video.mp4?bitrate=2500" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="1080" width="1920" codec="h264" bitrate="2500" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+    <Media container="mp4" height="720" width="1280" audioCodec="aac" duration="49000" videoCodec="h264" bitrate="1500">
+      <Part duration="49000" key="/services/iva/assets/804998/video.mp4?bitrate=1500" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="720" width="1280" codec="h264" bitrate="1500" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+    <Media container="mp4" height="480" width="640" audioCodec="aac" duration="49000" videoCodec="h264" bitrate="450">
+      <Part duration="49000" key="/services/iva/assets/804998/video.mp4?bitrate=450" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="480" width="640" codec="h264" bitrate="450" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+  </Video>
+  <Video url="iva://api.internetvideoarchive.com/2.0/DataService/VideoAssets(866872)?lang=en&amp;bitrates=80,212,450,750,1500,2500,5000,8000&amp;duration=153&amp;adaptive=1&amp;dts=0" key="/system/services/url/lookup?url=iva%3A%2F%2Fapi.internetvideoarchive.com%2F2.0%2FDataService%2FVideoAssets%28866872%29%3Flang%3Den%26bitrates%3D80%2C212%2C450%2C750%2C1500%2C2500%2C5000%2C8000%26duration%3D153%26adaptive%3D1%26dts%3D0" type="clip" relationType="behindTheScenes" year="2014" title="The Wedding Ringer: Meet Bic Mitchum (Featurette)" originallyAvailableAt="2014-12-24" thumb="https://iva-images.plex.tv/content/hdphotos/9344/009344/009344_1280x720_866872_026.jpg" ratingKey="iva://api.internetvideoarchive.com/2.0/DataService/VideoAssets(866872)?lang=en&amp;bitrates=80,212,450,750,1500,2500,5000,8000&amp;duration=153&amp;adaptive=1&amp;dts=0">
+    <Media container="mp4" height="1080" width="1920" audioCodec="aac" duration="153000" videoCodec="h264" bitrate="2500">
+      <Part duration="153000" key="/services/iva/assets/866872/video.mp4?bitrate=2500" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="1080" width="1920" codec="h264" bitrate="2500" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+    <Media container="mp4" height="720" width="1280" audioCodec="aac" duration="153000" videoCodec="h264" bitrate="1500">
+      <Part duration="153000" key="/services/iva/assets/866872/video.mp4?bitrate=1500" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="720" width="1280" codec="h264" bitrate="1500" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+    <Media container="mp4" height="480" width="640" audioCodec="aac" duration="153000" videoCodec="h264" bitrate="450">
+      <Part duration="153000" key="/services/iva/assets/866872/video.mp4?bitrate=450" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="480" width="640" codec="h264" bitrate="450" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+  </Video>
+</MediaContainer>

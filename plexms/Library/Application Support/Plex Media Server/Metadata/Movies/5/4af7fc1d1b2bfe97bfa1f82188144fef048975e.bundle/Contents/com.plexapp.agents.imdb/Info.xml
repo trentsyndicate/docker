@@ -1,0 +1,793 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Movie id="tt1877832">
+  <rating>9.0</rating>
+  <title_sort/>
+  <art>
+    <item external="True" url="http://image.tmdb.org/t/p/original/aBkkrhQS4rO3u1OTahywtSXu3It.jpg" preview="b218d4239a6d884f475e2b6b08a093e898ae40a2" sort_order="1"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/xyInxs6OuHVa6VgXoPWdnFRhIoz.jpg" preview="ae38d90ed23129e867317a843ec283f8d20196d6" sort_order="2"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/yRJH1WAreAhC9ebte2xR7wfRtKs.jpg" preview="47eef532c6532390b83d9a398e115a8b86aea531" sort_order="3"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/efQ6bV4KMGYo1AOWiPIKjQDdsBB.jpg" preview="21557f0d5c37312470cee566a4c029d887ec3543" sort_order="4"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/vBbVKd0fJNFcLQtatPLq8zV82YJ.jpg" preview="d4086006e261673a28fe2f7cfc0243333c320d94" sort_order="5"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/5LBcSLHAtEIIgvNkA2dPmYH5wR7.jpg" preview="a11c9b903f4b6974e6bb5e1116a504bd57254458" sort_order="6"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/uvEf0evKEhQsjNM1RxWz2s0EZO9.jpg" preview="59e91cdb738ac0930b56a232e4872a7c4095ffe4" sort_order="7"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/5kYj5EOQMFBFCdnk4X8KaFUfDVR.jpg" preview="f1279c7aef9703d128bc3a2c31a4d04afd4da83e" sort_order="8"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/iKshROJ9svUqDZ1EeM6H3hxC5uO.jpg" preview="6cee43032002f3e69836529e3eadae9542f5a14b" sort_order="9"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/aLai6zFJ1Y9ALEe28Us3lSm4u1l.jpg" preview="e2405ebda93e4bfe87b4d29b4a5d3163923e2084" sort_order="10"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/64o6B2rdzqMITsPddkLwaLcQnIA.jpg" preview="17acf2d9771f7f6d192eb558f53c842f2e3972c4" sort_order="11"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/ai9UKd8KownQKGIh1m5p3DuEeMm.jpg" preview="d32be6b476727c69d610e96e03f6341990557b2a" sort_order="12"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/tfDR4ZAfgDHMp0364MKFWwL24li.jpg" preview="787c02d317951afe8c2043c5344bea0d06390438" sort_order="13"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/oqBnqLoj2lTwaahl9o6LDF7Z3p5.jpg" preview="b7d099ceb204d0262b27f70f5ab6476c9a1d0804" sort_order="14"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/zugPSUPpp0CEJTlMd9AeycTKYUE.jpg" preview="e2566d8c011daaa4c5a46834d78c34fbd4df146f" sort_order="15"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/qbJs8KhorUJx2fN9x5xxa8Zthdx.jpg" preview="2d3a185bc64ac9f03b8425d1823b6e1f3c8823f4" sort_order="16"/>
+  </art>
+  <writers>
+    <item index="0">
+      <photo>http://image.tmdb.org/t/p/original/yXlDADc2rLEMLTFZAw9irqXMq2J.jpg</photo>
+      <role/>
+      <name>Simon Kinberg</name>
+    </item>
+  </writers>
+  <chapters>
+    <item index="0">
+      <title>Chapter 1</title>
+      <end_time_offset>213000</end_time_offset>
+      <start_time_offset>0</start_time_offset>
+    </item>
+    <item index="1">
+      <title>Chapter 2</title>
+      <end_time_offset>480000</end_time_offset>
+      <start_time_offset>213000</start_time_offset>
+    </item>
+    <item index="2">
+      <title>Chapter 3</title>
+      <end_time_offset>628000</end_time_offset>
+      <start_time_offset>480000</start_time_offset>
+    </item>
+    <item index="3">
+      <title>Chapter 4</title>
+      <end_time_offset>838000</end_time_offset>
+      <start_time_offset>628000</start_time_offset>
+    </item>
+    <item index="4">
+      <title>Chapter 5</title>
+      <end_time_offset>1022000</end_time_offset>
+      <start_time_offset>838000</start_time_offset>
+    </item>
+    <item index="5">
+      <title>Chapter 6</title>
+      <end_time_offset>1216000</end_time_offset>
+      <start_time_offset>1022000</start_time_offset>
+    </item>
+    <item index="6">
+      <title>Chapter 7</title>
+      <end_time_offset>1331000</end_time_offset>
+      <start_time_offset>1216000</start_time_offset>
+    </item>
+    <item index="7">
+      <title>Chapter 8</title>
+      <end_time_offset>1597000</end_time_offset>
+      <start_time_offset>1331000</start_time_offset>
+    </item>
+    <item index="8">
+      <title>Chapter 9</title>
+      <end_time_offset>1832000</end_time_offset>
+      <start_time_offset>1597000</start_time_offset>
+    </item>
+    <item index="9">
+      <title>Chapter 10</title>
+      <end_time_offset>2069000</end_time_offset>
+      <start_time_offset>1832000</start_time_offset>
+    </item>
+    <item index="10">
+      <title>Chapter 11</title>
+      <end_time_offset>2160000</end_time_offset>
+      <start_time_offset>2069000</start_time_offset>
+    </item>
+    <item index="11">
+      <title>Chapter 12</title>
+      <end_time_offset>2298000</end_time_offset>
+      <start_time_offset>2160000</start_time_offset>
+    </item>
+    <item index="12">
+      <title>Chapter 13</title>
+      <end_time_offset>2437000</end_time_offset>
+      <start_time_offset>2298000</start_time_offset>
+    </item>
+    <item index="13">
+      <title>Chapter 14</title>
+      <end_time_offset>2753000</end_time_offset>
+      <start_time_offset>2437000</start_time_offset>
+    </item>
+    <item index="14">
+      <title>Chapter 15</title>
+      <end_time_offset>2933000</end_time_offset>
+      <start_time_offset>2753000</start_time_offset>
+    </item>
+    <item index="15">
+      <title>Chapter 16</title>
+      <end_time_offset>3118000</end_time_offset>
+      <start_time_offset>2933000</start_time_offset>
+    </item>
+    <item index="16">
+      <title>Chapter 17</title>
+      <end_time_offset>3283000</end_time_offset>
+      <start_time_offset>3118000</start_time_offset>
+    </item>
+    <item index="17">
+      <title>Chapter 18</title>
+      <end_time_offset>3471000</end_time_offset>
+      <start_time_offset>3283000</start_time_offset>
+    </item>
+    <item index="18">
+      <title>Chapter 19</title>
+      <end_time_offset>3648000</end_time_offset>
+      <start_time_offset>3471000</start_time_offset>
+    </item>
+    <item index="19">
+      <title>Chapter 20</title>
+      <end_time_offset>3806000</end_time_offset>
+      <start_time_offset>3648000</start_time_offset>
+    </item>
+    <item index="20">
+      <title>Chapter 21</title>
+      <end_time_offset>4029000</end_time_offset>
+      <start_time_offset>3806000</start_time_offset>
+    </item>
+    <item index="21">
+      <title>Chapter 22</title>
+      <end_time_offset>4183000</end_time_offset>
+      <start_time_offset>4029000</start_time_offset>
+    </item>
+    <item index="22">
+      <title>Chapter 23</title>
+      <end_time_offset>4391000</end_time_offset>
+      <start_time_offset>4183000</start_time_offset>
+    </item>
+    <item index="23">
+      <title>Chapter 24</title>
+      <end_time_offset>4531000</end_time_offset>
+      <start_time_offset>4391000</start_time_offset>
+    </item>
+    <item index="24">
+      <title>Chapter 25</title>
+      <end_time_offset>4647000</end_time_offset>
+      <start_time_offset>4531000</start_time_offset>
+    </item>
+    <item index="25">
+      <title>Chapter 26</title>
+      <end_time_offset>4770000</end_time_offset>
+      <start_time_offset>4647000</start_time_offset>
+    </item>
+    <item index="26">
+      <title>Chapter 27</title>
+      <end_time_offset>5090000</end_time_offset>
+      <start_time_offset>4770000</start_time_offset>
+    </item>
+    <item index="27">
+      <title>Chapter 28</title>
+      <end_time_offset>5218000</end_time_offset>
+      <start_time_offset>5090000</start_time_offset>
+    </item>
+    <item index="28">
+      <title>Chapter 29</title>
+      <end_time_offset>5464000</end_time_offset>
+      <start_time_offset>5218000</start_time_offset>
+    </item>
+    <item index="29">
+      <title>Chapter 30</title>
+      <end_time_offset>5643000</end_time_offset>
+      <start_time_offset>5464000</start_time_offset>
+    </item>
+    <item index="30">
+      <title>Chapter 31</title>
+      <end_time_offset>5853000</end_time_offset>
+      <start_time_offset>5643000</start_time_offset>
+    </item>
+    <item index="31">
+      <title>Chapter 32</title>
+      <end_time_offset>6114000</end_time_offset>
+      <start_time_offset>5853000</start_time_offset>
+    </item>
+    <item index="32">
+      <title>Chapter 33</title>
+      <end_time_offset>6292000</end_time_offset>
+      <start_time_offset>6114000</start_time_offset>
+    </item>
+    <item index="33">
+      <title>Chapter 34</title>
+      <end_time_offset>6439000</end_time_offset>
+      <start_time_offset>6292000</start_time_offset>
+    </item>
+    <item index="34">
+      <title>Chapter 35</title>
+      <end_time_offset>6689000</end_time_offset>
+      <start_time_offset>6439000</start_time_offset>
+    </item>
+    <item index="35">
+      <title>Chapter 36</title>
+      <end_time_offset>7002000</end_time_offset>
+      <start_time_offset>6689000</start_time_offset>
+    </item>
+    <item index="36">
+      <title>Chapter 37</title>
+      <end_time_offset>7212000</end_time_offset>
+      <start_time_offset>7002000</start_time_offset>
+    </item>
+    <item index="37">
+      <title>Chapter 38</title>
+      <end_time_offset>7354000</end_time_offset>
+      <start_time_offset>7212000</start_time_offset>
+    </item>
+    <item index="38">
+      <title>End Titles</title>
+      <end_time_offset>7831000</end_time_offset>
+      <start_time_offset>7354000</start_time_offset>
+    </item>
+    <item index="39">
+      <title>Teaser</title>
+      <end_time_offset>-1</end_time_offset>
+      <start_time_offset>7831000</start_time_offset>
+    </item>
+  </chapters>
+  <themes/>
+  <quotes/>
+  <year>2014</year>
+  <duration>7920000</duration>
+  <genres>
+    <item index="0">Action</item>
+    <item index="1">Adventure</item>
+    <item index="2">Sci-Fi</item>
+    <item index="3">Thriller</item>
+  </genres>
+  <title>X-Men: Days of Future Past</title>
+  <tagline>To save the future, they must alter the past</tagline>
+  <content_rating_age/>
+  <rating_count/>
+  <collections/>
+  <trivia/>
+  <tags/>
+  <audience_rating_image>rottentomatoes://image.rating.upright</audience_rating_image>
+  <rating_image>rottentomatoes://image.rating.ripe</rating_image>
+  <producers>
+    <item index="0">
+      <photo>http://image.tmdb.org/t/p/original/uwuWpT2xyhwlrfSCk6xTTvrRvEE.jpg</photo>
+      <role/>
+      <name>Lauren Shuler Donner</name>
+    </item>
+    <item index="1">
+      <photo>http://image.tmdb.org/t/p/original/to8mWJabPoWkphkbYKoutCVSj06.jpg</photo>
+      <role/>
+      <name>Bryan Singer</name>
+    </item>
+    <item index="2">
+      <photo>http://image.tmdb.org/t/p/original/yXlDADc2rLEMLTFZAw9irqXMq2J.jpg</photo>
+      <role/>
+      <name>Simon Kinberg</name>
+    </item>
+    <item index="3">
+      <photo/>
+      <role/>
+      <name>Hutch Parker</name>
+    </item>
+  </producers>
+  <audience_rating>9.1</audience_rating>
+  <studio>20th Century Fox</studio>
+  <posters>
+    <item external="True" url="http://image.tmdb.org/t/p/original/qKkFk9HELmABpcPoc1HHZGIxQ5a.jpg" preview="73e857e48008a4750dc7f30205593ca43efb98d9" sort_order="1"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/pb1IURTkK5rImP9ZV83lxJO2us7.jpg" preview="379bd6ecc07545c5e865805afa6f125df2b4c73e" sort_order="2"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/giUK8ppRbfistadVzHtpainkhq4.jpg" preview="a31ba5ea2cac11c534e30397237a3a40799f731c" sort_order="3"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/6qiLWJARtyOXN2go2HVJBRyVxiK.jpg" preview="93ac132ad0fc0c8d66f4af758fcd5db7dd87c423" sort_order="4"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/vWKQmHNwem8CEv7uO7nxtnUHcgo.jpg" preview="fcfdae05d972594c99a74a6d23850444aa24b348" sort_order="5"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/h517xI1FarmBw4Qmk3EQcwuZHWo.jpg" preview="1f472b58695914143a551a8f26bb6b104a83d07c" sort_order="6"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/3nSkCRxDgzJ4wM3pmAxWToR4OoH.jpg" preview="c6a5b4e1584e48113bbbf1f19f695f628d4dcbed" sort_order="7"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/zrraNdXmcHCrRI0aSQ2v7bEVJiC.jpg" preview="923f2ec44b48db7ebe98676ec7db67d2b5aa296a" sort_order="8"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/61XFSbIKG8NlBxHrbzxSMc0zxug.jpg" preview="e9c8c9250ef896551355ebba82dccc92e545b714" sort_order="9"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/9Xgz3yhIG5F0xv4pcZNHF9GSfv2.jpg" preview="7553c270f8c622977d5b6df0166a541eae146968" sort_order="10"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/hhLfvNdNhYymTmsteyWksoVJ8d3.jpg" preview="d213ebbadcc56bcd1a76733204b314b6a522f4e2" sort_order="11"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/84BCqxDIxU4PAvkuezJCneoIdht.jpg" preview="44b872946d80107871aec438eca0d8cd4ae842f1" sort_order="12"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/nZrINvv7UXcbfZ8v8mGVCrVJVbU.jpg" preview="47e7abf9117c0b94efc35febe103e7182aaee21d" sort_order="13"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/rwrsfDA3A4isNAoqxZbdNOQgIvY.jpg" preview="a0fd0c0b13f59bac9ef5ad5b8295eb57f632300a" sort_order="14"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/1jLBBvJNX1dA4JS5OKE9TWCGuOz.jpg" preview="7212b07ba93626bef44243d847b6c30b986fdfce" sort_order="15"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/aFkNZ7oq3nLjfDctglleNYFgJ3Q.jpg" preview="cd744be2bcb6a3524354cef81f11e2b0f2312283" sort_order="16"/>
+  </posters>
+  <originally_available_at>2014-05-15</originally_available_at>
+  <roles>
+    <item index="0">
+      <photo>http://image.tmdb.org/t/p/original/dFbNlPpiEPupTAlNVNh5vrxBU1h.jpg</photo>
+      <role>Logan / Wolverine</role>
+      <name>Hugh Jackman</name>
+    </item>
+    <item index="1">
+      <photo>http://image.tmdb.org/t/p/original/oPIfGm3mf4lbmO5pWwMvfTt5BM1.jpg</photo>
+      <role>Charles Xavier / Professor X (Young)</role>
+      <name>James McAvoy</name>
+    </item>
+    <item index="2">
+      <photo>http://image.tmdb.org/t/p/original/oexNPLumoFpazzzUqzBSDDYiUg1.jpg</photo>
+      <role>Erik Lehnsherr / Magneto (Young)</role>
+      <name>Michael Fassbender</name>
+    </item>
+    <item index="3">
+      <photo>http://image.tmdb.org/t/p/original/naZyy9IqAQDaAbr1kYShLdg6aPR.jpg</photo>
+      <role>Raven Darkholme / Mystique</role>
+      <name>Jennifer Lawrence</name>
+    </item>
+    <item index="4">
+      <photo>http://image.tmdb.org/t/p/original/w7HRZh4UhimZO2F6GywkYhjgAX3.jpg</photo>
+      <role>Ororo Munroe / Storm</role>
+      <name>Halle Berry</name>
+    </item>
+    <item index="5">
+      <photo>http://image.tmdb.org/t/p/original/5Q4vZK2PqHkreQLmbPspIgrSLUP.jpg</photo>
+      <role>Marie D'Ancanto / Rogue</role>
+      <name>Anna Paquin</name>
+    </item>
+    <item index="6">
+      <photo>http://image.tmdb.org/t/p/original/xYMqDWthY4mnbVptrnvOZms9FYt.jpg</photo>
+      <role>Katherine "Kitty" Pryde / Shadowcat</role>
+      <name>Ellen Page</name>
+    </item>
+    <item index="7">
+      <photo>http://image.tmdb.org/t/p/original/xuB7b4GbARu4HN6gq5zMqjGbkwF.jpg</photo>
+      <role>Bolivar Trask</role>
+      <name>Peter Dinklage</name>
+    </item>
+    <item index="8">
+      <photo>http://image.tmdb.org/t/p/original/coWjgMEYJjk2OrNddlXCBm8EIr3.jpg</photo>
+      <role>Erik Lehnsherr / Magneto (Old)</role>
+      <name>Ian McKellen</name>
+    </item>
+    <item index="9">
+      <photo>http://image.tmdb.org/t/p/original/wEy5qSDT5jT3ZASc2hbwi59voPL.jpg</photo>
+      <role>Charles Xavier / Professor X (Old)</role>
+      <name>Patrick Stewart</name>
+    </item>
+    <item index="10">
+      <photo>http://image.tmdb.org/t/p/original/27NbnWKzco1CCDHtR2AVVab8Dli.jpg</photo>
+      <role>Hank McCoy / Beast</role>
+      <name>Nicholas Hoult</name>
+    </item>
+    <item index="11">
+      <photo>http://image.tmdb.org/t/p/original/8h3ThicYhj6fEMSMtSdzFXrUyx2.jpg</photo>
+      <role>Hank McCoy / Beast (older)</role>
+      <name>Kelsey Grammer</name>
+    </item>
+    <item index="12">
+      <photo>http://image.tmdb.org/t/p/original/n4XaAblagtaawSVArpGZ4BzrmKt.jpg</photo>
+      <role>Bobby Drake / Iceman</role>
+      <name>Shawn Ashmore</name>
+    </item>
+    <item index="13">
+      <photo>http://image.tmdb.org/t/p/original/o34IwFPlOvE00yJA2E4nvp5RQB7.jpg</photo>
+      <role>Lucas Bishop</role>
+      <name>Omar Sy</name>
+    </item>
+    <item index="14">
+      <photo>http://image.tmdb.org/t/p/original/2a1XA1ynmbZZj2nauwsc03OzRB.jpg</photo>
+      <role>Peter Maximoff / Quicksilver</role>
+      <name>Evan Peters</name>
+    </item>
+    <item index="15">
+      <photo>http://image.tmdb.org/t/p/original/rmj2HHc1uNESTlHk50qnCHK11jD.jpg</photo>
+      <role>William Stryker</role>
+      <name>Josh Helman</name>
+    </item>
+    <item index="16">
+      <photo>http://image.tmdb.org/t/p/original/bNVyweJ6lq78vaWpYcYMjnGFrZc.jpg</photo>
+      <role>Piotr Rasputin / Colossus</role>
+      <name>Daniel Cudmore</name>
+    </item>
+    <item index="17">
+      <photo>http://image.tmdb.org/t/p/original/tUpNOTyHtamAt8GlEXsBKvbaDqu.jpg</photo>
+      <role>Clarice Ferguson / Blink</role>
+      <name>Fan Bingbing</name>
+    </item>
+    <item index="18">
+      <photo>http://image.tmdb.org/t/p/original/eJzvFyuwGm1oFhCX5wFMiIHN4hG.jpg</photo>
+      <role>Roberto da Costa / Sunspot</role>
+      <name>Adan Canto</name>
+    </item>
+    <item index="19">
+      <photo>http://image.tmdb.org/t/p/original/9izCNJ5kTuDaMyyi2sM2EhSc4VB.jpg</photo>
+      <role>James Proudstar / Warpath</role>
+      <name>Booboo Stewart</name>
+    </item>
+    <item index="20">
+      <photo>http://image.tmdb.org/t/p/original/9wHWq6Mnfpn8L1diMxjr26ReZWl.jpg</photo>
+      <role>Jean Grey / Phoenix</role>
+      <name>Famke Janssen</name>
+    </item>
+    <item index="21">
+      <photo>http://image.tmdb.org/t/p/original/htBil0Vayd09haeUVoKEPxuantT.jpg</photo>
+      <role>Scott Summers / Cyclops</role>
+      <name>James Marsden</name>
+    </item>
+    <item index="22">
+      <photo>http://image.tmdb.org/t/p/original/77RZnZzKgP3VlCHvpBfEIUg1b3.jpg</photo>
+      <role>Alex Summers / Havok</role>
+      <name>Lucas Till</name>
+    </item>
+    <item index="23">
+      <photo>http://image.tmdb.org/t/p/original/xEJfsVre2vLbJ4jY1XeX1bOmJLY.jpg</photo>
+      <role>Mortimer Toynbee / Toad</role>
+      <name>Evan Jonigkeit</name>
+    </item>
+    <item index="24">
+      <photo>http://image.tmdb.org/t/p/original/oAWdcW7JdLT0MSKSOPDXymqt76G.jpg</photo>
+      <role>Congresman Davis</role>
+      <name>Len Wein</name>
+    </item>
+    <item index="25">
+      <photo>http://image.tmdb.org/t/p/original/oZ1EqKxnw16o4XIGnLhcTfRnyge.jpg</photo>
+      <role>Congressman Parker</role>
+      <name>Chris Claremont</name>
+    </item>
+    <item index="26">
+      <photo>http://image.tmdb.org/t/p/original/7VlkzO1z5wh96UCXpPZ0rUFx8aN.jpg</photo>
+      <role>Senator Brickman</role>
+      <name>Michael Lerner</name>
+    </item>
+    <item index="27">
+      <photo/>
+      <role>Ink</role>
+      <name>Gregg Lowe</name>
+    </item>
+    <item index="28">
+      <photo>http://image.tmdb.org/t/p/original/2zQRAqWeFQOMzD3NBzNSI6QqMdf.jpg</photo>
+      <role>President Richard Nixon</role>
+      <name>Mark Camacho</name>
+    </item>
+    <item index="29">
+      <photo>http://image.tmdb.org/t/p/original/to8mWJabPoWkphkbYKoutCVSj06.jpg</photo>
+      <role>Man with a movie camera</role>
+      <name>Bryan Singer</name>
+    </item>
+    <item index="30">
+      <photo/>
+      <role>En Sabah Nur</role>
+      <name>Brendan Pedder</name>
+    </item>
+    <item index="31">
+      <photo>http://image.tmdb.org/t/p/original/3KSews93pWYHqtcSVWwOBIX7Eg0.jpg</photo>
+      <role>Groundskeeper</role>
+      <name>Harry Standjofski</name>
+    </item>
+    <item index="32">
+      <photo>http://image.tmdb.org/t/p/original/2AWev6Jib3VJ3p2FPTxm7Erx81o.jpg</photo>
+      <role>Pinstripe Mafioso</role>
+      <name>Mike Dopud</name>
+    </item>
+    <item index="33">
+      <photo>http://image.tmdb.org/t/p/original/yK6qWJ9KgEeJsGGK3Fu6ldR3HkD.jpg</photo>
+      <role>Col. Sanders</role>
+      <name>Andreas Apergis</name>
+    </item>
+    <item index="34">
+      <photo/>
+      <role>Vietnam MP Guard</role>
+      <name>Robert Montcalm</name>
+    </item>
+    <item index="35">
+      <photo>http://image.tmdb.org/t/p/original/lhXEmPGu0YJoOtcYPTbFVzQsMOj.jpg</photo>
+      <role>Mutant Soldier</role>
+      <name>Jaa Smith-Johnson</name>
+    </item>
+    <item index="36">
+      <photo>http://image.tmdb.org/t/p/original/hCJlQXLMhT9gd6dkmOivS8IAOpw.jpg</photo>
+      <role>Quarantine Doctor</role>
+      <name>Alex Ivanovici</name>
+    </item>
+    <item index="37">
+      <photo/>
+      <role>Congressman McCarter</role>
+      <name>François Paquette</name>
+    </item>
+    <item index="38">
+      <photo>http://image.tmdb.org/t/p/original/n2BnG5lNW5Bxj4c27L4DcUb9HM8.jpg</photo>
+      <role>Trask Secretary</role>
+      <name>Zabryna Guevara</name>
+    </item>
+    <item index="39">
+      <photo>http://image.tmdb.org/t/p/original/vj23toAMc5JIpd3B5xS8I1KZQIG.jpg</photo>
+      <role>Ms. Maximoff</role>
+      <name>Zehra Leverman</name>
+    </item>
+    <item index="40">
+      <photo>http://image.tmdb.org/t/p/original/bvX2yrwllRfz5g5JyiAnGmFXfqO.jpg</photo>
+      <role>Pentagon Tour Guide</role>
+      <name>Angela Galuppo</name>
+    </item>
+    <item index="41">
+      <photo>http://image.tmdb.org/t/p/original/A8ssN48AMCFhcAkHo6bJDIjPaNa.jpg</photo>
+      <role>Surveillance Guard</role>
+      <name>Victor Cornfoot</name>
+    </item>
+    <item index="42">
+      <photo>http://image.tmdb.org/t/p/original/nbxfbTZYzAXSFsqOxvZr6owKzYA.jpg</photo>
+      <role>Surveillance Guard</role>
+      <name>Brent Skagford</name>
+    </item>
+    <item index="43">
+      <photo>http://image.tmdb.org/t/p/original/gq9YQYtPEWuHMKZUHjNHQfoWsb2.jpg</photo>
+      <role>Pentagon Cook</role>
+      <name>Kyle Gatehouse</name>
+    </item>
+    <item index="44">
+      <photo>http://image.tmdb.org/t/p/original/sYxf1R0vK8wKKnRuwXtIoaVZhvT.jpg</photo>
+      <role>Pentagon Elevator Guard</role>
+      <name>Taris Tyler</name>
+    </item>
+    <item index="45">
+      <photo>http://image.tmdb.org/t/p/original/9Xj3ttxF1MM0RHsKc7qIs0cQMXR.jpg</photo>
+      <role>Armed Kitchen Guard</role>
+      <name>Darryl Scheelar</name>
+    </item>
+    <item index="46">
+      <photo>http://image.tmdb.org/t/p/original/1NPB5ACDnfFWf9FkzUlUpqhFQO4.jpg</photo>
+      <role>General Nhuan</role>
+      <name>Thai-Hoa Le</name>
+    </item>
+    <item index="47">
+      <photo>http://image.tmdb.org/t/p/original/pU3btqFlwWLyNJkhAmu8Wrwb9E1.jpg</photo>
+      <role>Vietnamese Captain</role>
+      <name>Johnny Tran</name>
+    </item>
+    <item index="48">
+      <photo>http://image.tmdb.org/t/p/original/nflwPaKuyIR6LMCqSH8G1FMxSlj.jpg</photo>
+      <role>General Petrov</role>
+      <name>Gregory Hlady</name>
+    </item>
+    <item index="49">
+      <photo>http://image.tmdb.org/t/p/original/2XNBwtsBAtSnoYDnkGe0C1qShlm.jpg</photo>
+      <role>Peace Summit Reporter</role>
+      <name>Julian Casey</name>
+    </item>
+    <item index="50">
+      <photo/>
+      <role>Nixon Aide</role>
+      <name>Robert Crooks</name>
+    </item>
+    <item index="51">
+      <photo/>
+      <role>Secretary of Defense</role>
+      <name>Matt Cooke</name>
+    </item>
+    <item index="52">
+      <photo>http://image.tmdb.org/t/p/original/Qyiny8LqWHbzd8XUUalDc8MRlk.jpg</photo>
+      <role>US Army General</role>
+      <name>Tim Post</name>
+    </item>
+    <item index="53">
+      <photo>http://image.tmdb.org/t/p/original/hTy3xPznESHbGWwcxTAifHqf7KW.jpg</photo>
+      <role>Desk Anchor</role>
+      <name>Jason Deline</name>
+    </item>
+    <item index="54">
+      <photo>http://image.tmdb.org/t/p/original/wtPV2gDpa7HTlPBUf3jIVBoVBjb.jpg</photo>
+      <role>French Emergency Nurse</role>
+      <name>Karine Vanasse</name>
+    </item>
+    <item index="55">
+      <photo/>
+      <role>French TV Reporter</role>
+      <name>Pierre LeBlanc</name>
+    </item>
+    <item index="56">
+      <photo>http://image.tmdb.org/t/p/original/aWBlu1ZOLotrsWschHVUUBhe6j6.jpg</photo>
+      <role>Female Traveler</role>
+      <name>Jude Beny</name>
+    </item>
+    <item index="57">
+      <photo>http://image.tmdb.org/t/p/original/y0aCeMJKAzVJO3pydEiVCV2Ca4k.jpg</photo>
+      <role>Blue Suit Traveler</role>
+      <name>Arthur Holden</name>
+    </item>
+    <item index="58">
+      <photo/>
+      <role>Airport Backpacker</role>
+      <name>Sean Curley</name>
+    </item>
+    <item index="59">
+      <photo>http://image.tmdb.org/t/p/original/zfA2K2cW0wrmBh1vJQT9DCLQT17.jpg</photo>
+      <role>Flight Attendant</role>
+      <name>Susanna Fournier</name>
+    </item>
+    <item index="60">
+      <photo>http://image.tmdb.org/t/p/original/qmRMvNqUWteEXtf1uB1BAxTiHz8.jpg</photo>
+      <role>White House Reporter</role>
+      <name>Andrew Peplowski</name>
+    </item>
+    <item index="61">
+      <photo>http://image.tmdb.org/t/p/original/1ORu8WztjT4nMfYoWYANnfiRUmN.jpg</photo>
+      <role>White House Ticket Man</role>
+      <name>Moe Jeudy-Lamour</name>
+    </item>
+    <item index="62">
+      <photo>http://image.tmdb.org/t/p/original/irI0HpejL0ugHpyQxvUJ665bhaU.jpg</photo>
+      <role>Secret Service Agent</role>
+      <name>Neil Napier</name>
+    </item>
+    <item index="63">
+      <photo>http://image.tmdb.org/t/p/original/4tFeeT3cAM4LcjJ8YOqf7wh7qQX.jpg</photo>
+      <role>Potomac River Cop</role>
+      <name>Mizinga Mwinga</name>
+    </item>
+    <item index="64">
+      <photo>http://image.tmdb.org/t/p/original/y9cjGDuq6s6O4RCdgXlLm0B3VN6.jpg</photo>
+      <role>Chinese Translator</role>
+      <name>Jimmy Chan</name>
+    </item>
+  </roles>
+  <countries>
+    <item index="0">USA</item>
+  </countries>
+  <content_rating>PG-13</content_rating>
+  <original_title/>
+  <summary>The ultimate X-Men ensemble fights a war for the survival of the species across two time periods as they join forces with their younger selves in an epic battle that must change the past – to save our future.</summary>
+  <reviews>
+    <item index="0">
+      <text>It is especially impressive that Days of Future Past is a success; a film this gooey and complex, with such business-minded scope, should not feel like a real movie at all.</text>
+      <source>The Atlantic</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>http://www.theatlantic.com/entertainment/archive/2014/05/x-men-days-of-future-past-succeeds-in-its-many-tasks/371458/</link>
+      <author>David Sims</author>
+    </item>
+    <item index="1">
+      <text>Much of this takes place in the early 1970s, which gives the filmmakers an excuse to haul out lots of vintage kitsch and make some rather tasteless references to the Vietnam war.</text>
+      <source>Chicago Reader</source>
+      <image>rottentomatoes://image.review.rotten</image>
+      <link>http://www.chicagoreader.com/chicago/x-men-days-of-future-past/Film?oid=13253410</link>
+      <author>Ben Sachs</author>
+    </item>
+    <item index="2">
+      <text>The results are both dazzling and intimate, clever and - during one tour-de-force sequence - spectacularly funny.</text>
+      <source>ChristyLemire.com</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>http://christylemire.com/x-men-days-future-past/</link>
+      <author>Christy Lemire</author>
+    </item>
+    <item index="3">
+      <text>I would be remiss not to note that tucked away amid all the existential melodrama is perhaps the most hilarious set piece ever to grace a superhero film.</text>
+      <source>The Atlantic</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>http://www.theatlantic.com/entertainment/archive/2014/05/x-men-a-blast-from-the-past-and-future/371481/</link>
+      <author>Christopher Orr</author>
+    </item>
+    <item index="4">
+      <text>Quicksilver ... is the coolest of this picture's new guys, zipping around so fast ... that he can taste soup, rearrange guards' limbs, and nudge bullets off their trajectories all in the time it takes to blink.</text>
+      <source>NPR</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>http://www.npr.org/2014/05/23/315279292/seeing-the-new-x-men-take-along-a-teenager-to-explain</link>
+      <author>Bob Mondello</author>
+    </item>
+    <item index="5">
+      <text>The plot is about a fearful society whose expansion of its security apparatus has unintended consequences, but Singer doesn't even touch the story's topical resonances... There's also no real moral quandary to be grappled with.</text>
+      <source>Grantland</source>
+      <image>rottentomatoes://image.review.rotten</image>
+      <link>http://grantland.com/features/x-men-days-of-future-past-brian-singer-sequel-review/</link>
+      <author>Alex Pappademas</author>
+    </item>
+    <item index="6">
+      <text>Having already directed the first two (and superior) X-Men films, Singer shows a level of comfort with both the material and the cast ...</text>
+      <source>Globe and Mail</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>http://www.theglobeandmail.com/arts/film/film-reviews/x-men-skin-deep-but-somehow-satisfying/article18813371/</link>
+      <author>Adam Nayman</author>
+    </item>
+    <item index="7">
+      <text>[Singer is] reborn - deft, elegant, spring-heeled - in X-Men: Days of Future Past. The special effects don't bog him down: They lift the movie to a surreal and more emotional dimension.</text>
+      <source>New York Magazine/Vulture</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>http://www.vulture.com/2014/05/movie-review-x-men-days-of-future-past.html</link>
+      <author>David Edelstein</author>
+    </item>
+    <item index="8">
+      <text>The fireworks, the super-power circus, lots of surprise cameos and Big Moments - "X-Men: Days of Future Past" has them all. Logic? Who cares?</text>
+      <source>Detroit News</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>http://www.detroitnews.com/article/20140523/ENT02/305230023</link>
+      <author>Tom Long</author>
+    </item>
+    <item index="9">
+      <text>Ambitious, even audacious, the movie's mix of action and for-devotees-only intrigue can overwhelm, but there are moments of sheer virtuosity, too ...</text>
+      <source>Philadelphia Inquirer</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>http://www.philly.com/philly/entertainment/movies/20140523__X-Men__Days_of_Future_Past___Trippy_mutant_time-travel.html</link>
+      <author>Steven Rea</author>
+    </item>
+    <item index="10">
+      <text>What elevates this film above most of its predecessors is the dynamic action filmmaking and, above all, its wit.</text>
+      <source>Christian Science Monitor</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>http://www.csmonitor.com/The-Culture/Movies/2014/0522/X-Men-Days-of-Future-Past-is-witty-and-has-dynamic-action-scenes-video</link>
+      <author>Peter Rainer</author>
+    </item>
+    <item index="11">
+      <text>For those who felt The Last Stand was a poor exit for many of these characters, X-Men: Days of Future Past should at least salve the wound in part.</text>
+      <source>ReelViews</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>http://www.reelviews.net/php_review_template.php?identifier=2765</link>
+      <author>James Berardinelli</author>
+    </item>
+    <item index="12">
+      <text>The characters - and the performers playing them - step unto the breach to provide just enough wit and feeling to make "Days of Future Past" something other than a waste of a reasonable person's time.</text>
+      <source>New York Times</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>http://www.nytimes.com/2014/05/23/movies/old-and-new-cast-join-in-x-men-days-of-future-past.html?partner=rss&amp;emc=rss</link>
+      <author>A.O. Scott</author>
+    </item>
+    <item index="13">
+      <text>In the capable hands of director Bryan Singer, who helmed the first two X-Men films, it's a nearly seamless adventure ride despite a plot that at times strains credulity.</text>
+      <source>Toronto Star</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>http://www.thestar.com/entertainment/movies/2014/05/22/xmen_days_of_future_past_a_superlative_sequel_review.html</link>
+      <author>Bruce Demara</author>
+    </item>
+    <item index="14">
+      <text>If you are an "X" maniac, Singer's given you the movie you've been hoping for.</text>
+      <source>Newark Star-Ledger</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>http://www.nj.com/entertainment/index.ssf/2014/05/x-men_days_of_future_past_review_wolverine_goes_back_to_the_future.html</link>
+      <author>Stephen Whitty</author>
+    </item>
+    <item index="15">
+      <text>Time travel, Peter Dinklage and 1970s kitsch top a very long list of what makes "X-Men: Days of Future Past" such a blast.</text>
+      <source>Los Angeles Times</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>http://www.latimes.com/entertainment/movies/la-et-mn-x-men-days-review-20140523-column.html</link>
+      <author>Betsy Sharkey</author>
+    </item>
+    <item index="16">
+      <text>The movie earns its keep with inspired one-off moments that showcase a mischievous sense of humor.</text>
+      <source>Dallas Morning News</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>http://www.dallasnews.com/entertainment/movies/reviews/20140522-marvelously-mischievous-x-men-days-of-future-past-is-among-the-series-best-b.ece</link>
+      <author>Chris Vognar</author>
+    </item>
+    <item index="17">
+      <text>Once it reaches takeoff velocity, "Days of Future Past" becomes one of the best installments in the "X-Men" series.</text>
+      <source>Seattle Times</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>http://seattletimes.com/html/entertainment/2023671404_xmendaysxml.html</link>
+      <author>Soren Anderson</author>
+    </item>
+    <item index="18">
+      <text>For all its sociopolitical smarts and coded subtexts, the "X-Men" franchise, based on the Marvel comics, is primarily about entertainment, and this seventh installment is no different.</text>
+      <source>Newsday</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>http://www.newsday.com/entertainment/movies/x-men-days-of-future-past-review-flies-over-other-superhero-flicks-with-sharp-writing-cast-1.8111091</link>
+      <author>Rafer Guzman</author>
+    </item>
+  </reviews>
+  <directors>
+    <item index="0">
+      <photo>http://image.tmdb.org/t/p/original/to8mWJabPoWkphkbYKoutCVSj06.jpg</photo>
+      <role/>
+      <name>Bryan Singer</name>
+    </item>
+  </directors>
+  <extras external="True" extension="xml"/>
+  <banners/>
+  <similar>
+    <item index="0">Captain America: The Winter Soldier</item>
+    <item index="1">The Amazing Spider-Man 2</item>
+    <item index="2">X-Men: First Class</item>
+    <item index="3">X2</item>
+    <item index="4">The Wolverine</item>
+    <item index="5">Thor: The Dark World</item>
+    <item index="6">X-Men: The Last Stand</item>
+    <item index="7">X-Men: Apocalypse</item>
+    <item index="8">Edge of Tomorrow</item>
+    <item index="9">Transformers: Age of Extinction</item>
+    <item index="10">Godzilla</item>
+    <item index="11">X-Men Origins: Wolverine</item>
+    <item index="12">X-Men</item>
+    <item index="13">The Hobbit: The Desolation of Smaug</item>
+    <item index="14">Dawn of the Planet of the Apes</item>
+    <item index="15">Avengers: Age of Ultron</item>
+    <item index="16">Teenage Mutant Ninja Turtles</item>
+    <item index="17">RoboCop</item>
+    <item index="18">The Hobbit: The Battle of the Five Armies</item>
+    <item index="19">Spider-Man 3</item>
+  </similar>
+</Movie>

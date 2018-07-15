@@ -1,0 +1,461 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Movie>
+  <art>
+    <item external="True" url="http://image.tmdb.org/t/p/original/6GCmNNgmftkqQahQMkVJL6sqZOW.jpg" sort_order="1" provider="com.plexapp.agents.imdb" media="com.plexapp.agents.imdb_4aaf0a808bd5e0652692057aca89cf64fbe9df7a"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/jpMVbSwUXu93uVVLa6fW5FjLrVF.jpg" preview="com.plexapp.agents.imdb_69146796ab0deb70f22ccc98b6565c9ca1b6dce8" sort_order="2" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/nb70B4EXuoegiQ0C5N1fNVHIaYc.jpg" preview="com.plexapp.agents.imdb_9c7129d36fa7f095c96c0af79d5c79270f78c1f6" sort_order="3" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/ubbZeZzxccUDVwSo1E98XYcUFvt.jpg" preview="com.plexapp.agents.imdb_a2210e6db44f29804903d9b6ca948db706f4fcef" sort_order="4" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/nBwpBhf5HAO2hOsg17BWQR2dW6t.jpg" preview="com.plexapp.agents.imdb_c26204eb76095cfc34d6eb675df14270d3700759" sort_order="5" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/qWWoKu7q4jzOPX6ggUgfDjRfA5L.jpg" preview="com.plexapp.agents.imdb_c9fa004206d90be324ca24a743d01bb792420d0f" sort_order="6" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/gGSZcVJ4vMW0QqQRQeECpOvjqFn.jpg" preview="com.plexapp.agents.imdb_0c3f2831976f02947be5924ae7550ab9b39912ac" sort_order="7" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/h3mbFUzax0e0XFXEmJbhuFJ6FIy.jpg" preview="com.plexapp.agents.imdb_db41b6d1e28edb0f13734be6996c9204ce21fa4d" sort_order="8" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/pqiBD0ZFn7eKk8U8cFKOpg3X3Xr.jpg" preview="com.plexapp.agents.imdb_2f48c3454991f4a49efb1499ff93f69a5b609524" sort_order="9" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/gOyNaUt0kHdjFZ4AcETRb5PmYzs.jpg" preview="com.plexapp.agents.imdb_b5a880bc63f8730803bd217f69ff6046803203d5" sort_order="10" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/z0RzdIp6CYvygjA5QxmnE5BNsaM.jpg" preview="com.plexapp.agents.imdb_ff021bf772a492933a06d06a622f9d4ea9105194" sort_order="11" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/oyv3EuDwClrU4tgbBDtnrS9HnoS.jpg" preview="com.plexapp.agents.imdb_d6fc494a341bcd7a7e7a4b2a5a7f8a4149b20002" sort_order="12" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/vLtehlio3d26EM0Z4HsNvvgBXZF.jpg" preview="com.plexapp.agents.imdb_ea5380d7e551e879acad448ced403e053f2179dd" sort_order="13" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/ugeMcnBHGVpRcP1iVOfLSjF1NaX.jpg" preview="com.plexapp.agents.imdb_a5cb37193b99d6d29a5bd05f69196506c3d3d47e" sort_order="14" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/i3DbXzMflOIZujErt8m0sluawES.jpg" preview="com.plexapp.agents.imdb_52bc4b8dcece7765f36d9d8384b54ef995d25043" sort_order="15" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/mrfJMsbxaqlWngJerfmeI5SDsya.jpg" preview="com.plexapp.agents.imdb_0cbf5535bcd9b1f4cb6ac48d4ee13ae02f3a952e" sort_order="16" provider="com.plexapp.agents.imdb"/>
+  </art>
+  <banners/>
+  <chapters>
+    <item index="0">
+      <title>Main Titles</title>
+      <end_time_offset>157000</end_time_offset>
+      <start_time_offset>0</start_time_offset>
+    </item>
+    <item index="1">
+      <title>The Prisoners Arrive</title>
+      <end_time_offset>643000</end_time_offset>
+      <start_time_offset>157000</start_time_offset>
+    </item>
+    <item index="2">
+      <title>Escape Attempt #1</title>
+      <end_time_offset>1128000</end_time_offset>
+      <start_time_offset>643000</start_time_offset>
+    </item>
+    <item index="3">
+      <title>The Blind Spot</title>
+      <end_time_offset>1331000</end_time_offset>
+      <start_time_offset>1128000</start_time_offset>
+    </item>
+    <item index="4">
+      <title>To The Cooler</title>
+      <end_time_offset>1559000</end_time_offset>
+      <start_time_offset>1331000</start_time_offset>
+    </item>
+    <item index="5">
+      <title>Barlett's Arrival</title>
+      <end_time_offset>1779000</end_time_offset>
+      <start_time_offset>1559000</start_time_offset>
+    </item>
+    <item index="6">
+      <title>The Objective</title>
+      <end_time_offset>1998000</end_time_offset>
+      <start_time_offset>1779000</start_time_offset>
+    </item>
+    <item index="7">
+      <title>The Escape Committee</title>
+      <end_time_offset>2205000</end_time_offset>
+      <start_time_offset>1998000</start_time_offset>
+    </item>
+    <item index="8">
+      <title>Forger &amp; Scrounger</title>
+      <end_time_offset>2432000</end_time_offset>
+      <start_time_offset>2205000</start_time_offset>
+    </item>
+    <item index="9">
+      <title>Stealing Steel</title>
+      <end_time_offset>2543000</end_time_offset>
+      <start_time_offset>2432000</start_time_offset>
+    </item>
+    <item index="10">
+      <title>Tunneling Begins.</title>
+      <end_time_offset>2722000</end_time_offset>
+      <start_time_offset>2543000</start_time_offset>
+    </item>
+    <item index="11">
+      <title>Spot Inspection</title>
+      <end_time_offset>2816000</end_time_offset>
+      <start_time_offset>2722000</start_time_offset>
+    </item>
+    <item index="12">
+      <title>Hilts &amp; Ives' Plan</title>
+      <end_time_offset>3405000</end_time_offset>
+      <start_time_offset>2816000</start_time_offset>
+    </item>
+    <item index="13">
+      <title>Come All Ye Faithful</title>
+      <end_time_offset>3487000</end_time_offset>
+      <start_time_offset>3405000</start_time_offset>
+    </item>
+    <item index="14">
+      <title>Tempting The Guard</title>
+      <end_time_offset>4220000</end_time_offset>
+      <start_time_offset>3487000</start_time_offset>
+    </item>
+    <item index="15">
+      <title>Dealing For A Camera</title>
+      <end_time_offset>4338000</end_time_offset>
+      <start_time_offset>4220000</start_time_offset>
+    </item>
+    <item index="16">
+      <title>Tunnel Collapse</title>
+      <end_time_offset>4671000</end_time_offset>
+      <start_time_offset>4338000</start_time_offset>
+    </item>
+    <item index="17">
+      <title>Independence Day</title>
+      <end_time_offset>5136000</end_time_offset>
+      <start_time_offset>4671000</start_time_offset>
+    </item>
+    <item index="18">
+      <title>Finding "Tom"</title>
+      <end_time_offset>5477000</end_time_offset>
+      <start_time_offset>5136000</start_time_offset>
+    </item>
+    <item index="19">
+      <title>Doubts Abut Blythe</title>
+      <end_time_offset>6284000</end_time_offset>
+      <start_time_offset>5477000</start_time_offset>
+    </item>
+    <item index="20">
+      <title>The Escape Begins</title>
+      <end_time_offset>6822000</end_time_offset>
+      <start_time_offset>6284000</start_time_offset>
+    </item>
+    <item index="21">
+      <title>20 Feet Short</title>
+      <end_time_offset>7390000</end_time_offset>
+      <start_time_offset>6822000</start_time_offset>
+    </item>
+    <item index="22">
+      <title>Discovered!</title>
+      <end_time_offset>8158000</end_time_offset>
+      <start_time_offset>7390000</start_time_offset>
+    </item>
+    <item index="23">
+      <title>The Chase</title>
+      <end_time_offset>8406000</end_time_offset>
+      <start_time_offset>8158000</start_time_offset>
+    </item>
+    <item index="24">
+      <title>Death At The Station</title>
+      <end_time_offset>8677000</end_time_offset>
+      <start_time_offset>8406000</start_time_offset>
+    </item>
+    <item index="25">
+      <title>Taking The Plane</title>
+      <end_time_offset>8920000</end_time_offset>
+      <start_time_offset>8677000</start_time_offset>
+    </item>
+    <item index="26">
+      <title>Crash Landing</title>
+      <end_time_offset>9074000</end_time_offset>
+      <start_time_offset>8920000</start_time_offset>
+    </item>
+    <item index="27">
+      <title>Motorcycle Pursuit</title>
+      <end_time_offset>9199000</end_time_offset>
+      <start_time_offset>9074000</start_time_offset>
+    </item>
+    <item index="28">
+      <title>The Resistance</title>
+      <end_time_offset>9629000</end_time_offset>
+      <start_time_offset>9199000</start_time_offset>
+    </item>
+    <item index="29">
+      <title>The Massacre</title>
+      <end_time_offset>10093000</end_time_offset>
+      <start_time_offset>9629000</start_time_offset>
+    </item>
+    <item index="30">
+      <title>Back To The Cooler</title>
+      <end_time_offset>10209000</end_time_offset>
+      <start_time_offset>10093000</start_time_offset>
+    </item>
+    <item index="31">
+      <title>End Titles</title>
+      <end_time_offset>-1</end_time_offset>
+      <start_time_offset>10209000</start_time_offset>
+    </item>
+  </chapters>
+  <collections/>
+  <content_rating>Approved</content_rating>
+  <countries>
+    <item index="0">USA</item>
+  </countries>
+  <directors>
+    <item index="0">
+      <photo>http://image.tmdb.org/t/p/original/69nD2UYoNGFpDBYUKrEiutWKDgO.jpg</photo>
+      <role/>
+      <name>John Sturges</name>
+    </item>
+  </directors>
+  <duration>10320000</duration>
+  <genres>
+    <item index="0">Adventure</item>
+    <item index="1">Drama</item>
+    <item index="2">History</item>
+    <item index="3">Thriller</item>
+    <item index="4">War</item>
+  </genres>
+  <originally_available_at>1963-06-20</originally_available_at>
+  <posters>
+    <item external="True" url="http://image.tmdb.org/t/p/original/Av4ag0tylQSommFFng4xmO0NVYO.jpg" sort_order="1" provider="com.plexapp.agents.imdb" media="com.plexapp.agents.imdb_2571a4128f720aca0633f6aac2a0103dc6991b79"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/qhy4HgUqhEbwQ1ekKTv7yEB3b0e.jpg" preview="com.plexapp.agents.imdb_b73bac04bc3a8dfe256517ee9d637e806a03ef4b" sort_order="2" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/yQ4R9WeFlZGPlYS2jeFBuMFhM4K.jpg" preview="com.plexapp.agents.imdb_596474726ab571ed8e09972a738c531589d611a0" sort_order="3" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/3EjJDhKkHBIv7sSfU3qW0FXkBYP.jpg" preview="com.plexapp.agents.imdb_208b31916380a813aea64c43bee1c8de9649cf1f" sort_order="4" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/gBH4H8UMFxl139HaLz6lRuvsel8.jpg" preview="com.plexapp.agents.imdb_959a9dd74abbfd6e18759d1a5d97f576a20df846" sort_order="5" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/aCPW2GTrFguhI06pdU2DBrO50pU.jpg" preview="com.plexapp.agents.imdb_12d0278ee71cba28c7f6078d6b9d6370a055277f" sort_order="6" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/w0HmbgmLrS2i3B4tAcWgtmJxn7Z.jpg" preview="com.plexapp.agents.imdb_efe1b63a4705d155d82754970f4772af89a6c821" sort_order="7" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/28zugZIfGlo9ly1FuxX4rLcpr8Y.jpg" preview="com.plexapp.agents.imdb_cad83b7c97bc9ac1268a7f58b0104206b8dc7ce9" sort_order="8" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/vivI3YPKSr2dLS0LEgYpKzXOwgN.jpg" preview="com.plexapp.agents.imdb_537b07b500d300c85679441e2880071d050f9fe2" sort_order="9" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/gp1Y5sa3dFj9wncb6uIzpnQxKxE.jpg" preview="com.plexapp.agents.imdb_40d7c71aa4249e04879c888f7c51e23c5baf783c" sort_order="10" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/4w6psS3Jm8EZCX0Pla5BDqHVmQS.jpg" preview="com.plexapp.agents.imdb_bf65c9e04510c5a1eaddcd6c102a56157828a9da" sort_order="11" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/inVxRXWoMDCl7Pc9H48I0z68EPa.jpg" preview="com.plexapp.agents.imdb_1f5a9e200351b03e2c07f1910346cbf96cafe479" sort_order="12" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/uc4nn0HybCIG3hriFG5GlbwWweH.jpg" preview="com.plexapp.agents.imdb_0979ad9c5df939ebbb44fa6aaa6db62fd423b7c1" sort_order="13" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/i9lFrvpIDjBSfXrBbYTXmZBez7Q.jpg" preview="com.plexapp.agents.imdb_646268bf4546b02946093ca8df362f3765867a4e" sort_order="14" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/fwWWTdragndJ9S6aVL7OqIZzYvn.jpg" preview="com.plexapp.agents.imdb_6285d514cb59b0c5e97729c7f7cec61daa2d39b9" sort_order="15" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/bp3XmKPMM7c50RviUhCGeTeMtNb.jpg" preview="com.plexapp.agents.imdb_0720b7f4170270cf9fe10c2c6bdb396291e6b5fc" sort_order="16" provider="com.plexapp.agents.imdb"/>
+  </posters>
+  <producers>
+    <item index="0">
+      <photo>http://image.tmdb.org/t/p/original/69nD2UYoNGFpDBYUKrEiutWKDgO.jpg</photo>
+      <role/>
+      <name>John Sturges</name>
+    </item>
+    <item index="1">
+      <photo>http://image.tmdb.org/t/p/original/1Afyy3wKJ16fdMZgOm9PnWrlmJr.jpg</photo>
+      <role/>
+      <name>James Clavell</name>
+    </item>
+  </producers>
+  <rating>9.3</rating>
+  <rating_image>rottentomatoes://image.rating.ripe</rating_image>
+  <audience_rating>9.5</audience_rating>
+  <audience_rating_image>rottentomatoes://image.rating.upright</audience_rating_image>
+  <reviews>
+    <item index="0">
+      <text>This is a Boys' Own Tale, and, as boys, we wanted it, cleansed of horrors, for ourselves.</text>
+      <source>New Yorker</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>http://www.newyorker.com/arts/critics/notebook/2008/04/07/080407gonb_GOAT_notebook_lane</link>
+      <author>Anthony Lane</author>
+    </item>
+    <item index="1">
+      <text>The Great Escape is simply great escapism.</text>
+      <source>TIME Magazine</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>http://content.time.com/time/magazine/article/0,9171,896917,00.html</link>
+      <author/>
+    </item>
+    <item index="2">
+      <text>Producer-director John Sturges has fashioned a motion picture that entertains, captivates, thrills and stirs.</text>
+      <source>Variety</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>http://www.variety.com/review/VE1117791342.html?categoryid=31&amp;cs=1</link>
+      <author>Variety Staff</author>
+    </item>
+    <item index="3">
+      <text>Way too flabby at 168 minutes, but once this 1963 feature gets going it's good, solid stuff.</text>
+      <source>Chicago Reader</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>http://www.chicagoreader.com/chicago/the-great-escape/Film?oid=7468508</link>
+      <author>Dave Kehr</author>
+    </item>
+    <item index="4">
+      <text>Worth seeing the last half hour, if nothing else, for one of the best stunt sequences in years: McQueen's motor-cycle bid for freedom.</text>
+      <source>Time Out</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>http://www.timeout.com/film/reviews/70508/the_great_escape.html</link>
+      <author>Derek Adams</author>
+    </item>
+    <item index="5">
+      <text>It's a strictly mechanical adventure with make-believe men.</text>
+      <source>New York Times</source>
+      <image>rottentomatoes://image.review.rotten</image>
+      <link>http://movies.nytimes.com/movie/review?res=9A06E7DE1431E73BBC4053DFBE668388679EDE&amp;partner=Rotten+Tomatoes</link>
+      <author>Bosley Crowther</author>
+    </item>
+  </reviews>
+  <roles>
+    <item index="0">
+      <photo>http://image.tmdb.org/t/p/original/ddL8NHnuVCPOLSiNGjrmIQK9kdO.jpg</photo>
+      <role>Captain Hilts</role>
+      <name>Steve McQueen</name>
+    </item>
+    <item index="1">
+      <photo>http://image.tmdb.org/t/p/original/ek70DefEq6LZZX3JyUjJ125q63f.jpg</photo>
+      <role>Flight Lt. Hendley</role>
+      <name>James Garner</name>
+    </item>
+    <item index="2">
+      <photo>http://image.tmdb.org/t/p/original/Abo8fAcdruACs344ut6PNSKH7N4.jpg</photo>
+      <role>Roger Bartlett</role>
+      <name>Richard Attenborough</name>
+    </item>
+    <item index="3">
+      <photo>http://image.tmdb.org/t/p/original/37GWNFPrHxo6RZf8uY0bdk47BD8.jpg</photo>
+      <role>Group Capt. Ramsey "The SBO"</role>
+      <name>James Donald</name>
+    </item>
+    <item index="4">
+      <photo>http://image.tmdb.org/t/p/original/hxZR2w0LXX47VKtxibDyZDsTAkH.jpg</photo>
+      <role>Flight Lt. Danny Velinski</role>
+      <name>Charles Bronson</name>
+    </item>
+    <item index="5">
+      <photo>http://image.tmdb.org/t/p/original/fr9lf679ZsHbDZsbcpKZfbFO1Pu.jpg</photo>
+      <role>Flight Lt. Colin Blythe "The Forger"</role>
+      <name>Donald Pleasence</name>
+    </item>
+    <item index="6">
+      <photo>http://image.tmdb.org/t/p/original/sEouHlYr1hOzl3u6E4KV6gIJSPd.jpg</photo>
+      <role>Flying Officer Louis Sedgwick "The Manufacturer"</role>
+      <name>James Coburn</name>
+    </item>
+    <item index="7">
+      <photo>http://image.tmdb.org/t/p/original/keoYJnrxS5cVbVFfxCrmNPF7qF6.jpg</photo>
+      <role>Kommandant von Luger</role>
+      <name>Hannes Messemer</name>
+    </item>
+    <item index="8">
+      <photo>http://image.tmdb.org/t/p/original/po7qYZYW0RMTl4BavHIZCxqopCD.jpg</photo>
+      <role>Lt. Cmdr. Eric Ashley-Pitt "Dispersal"</role>
+      <name>David McCallum</name>
+    </item>
+    <item index="9">
+      <photo>http://image.tmdb.org/t/p/original/yz1S8Ge93l9DoC3zmElq26KN2Ug.jpg</photo>
+      <role>Flight Lt. Sandy MacDonald "Intelligence"</role>
+      <name>Gordon Jackson</name>
+    </item>
+    <item index="10">
+      <photo>http://image.tmdb.org/t/p/original/hBY34TxEM03HcgMCYOu8454D2mM.jpg</photo>
+      <role>Flight Lt. William Dickes "The Tunneler"</role>
+      <name>John Leyton</name>
+    </item>
+    <item index="11">
+      <photo>http://image.tmdb.org/t/p/original/V3uCh11rHqyjaSgsIh2rJN0sAn.jpg</photo>
+      <role>Flying Officer Archibald Ives "The Mole"</role>
+      <name>Angus Lennie</name>
+    </item>
+    <item index="12">
+      <photo>http://image.tmdb.org/t/p/original/yv4cY1k6KWAQgsln2IHobAyVEtg.jpg</photo>
+      <role>Flight Lt. Denys Cavendish "The Surveyor"</role>
+      <name>Nigel Stock</name>
+    </item>
+    <item index="13">
+      <photo>http://image.tmdb.org/t/p/original/wtvxl6xipO16UbSiAvSYev5wtBM.jpg</photo>
+      <role>Werner 'The Ferret'</role>
+      <name>Robert Graf</name>
+    </item>
+    <item index="14">
+      <photo>http://image.tmdb.org/t/p/original/oYLFCJkwOpp2p1BlI3SYqQ0RxoG.jpg</photo>
+      <role>Goff</role>
+      <name>Jud Taylor</name>
+    </item>
+    <item index="15">
+      <photo>http://image.tmdb.org/t/p/original/3rBauDHscdtFbpAkPmKkHMYqriA.jpg</photo>
+      <role>Herr Kuhn</role>
+      <name>Hans Reiser</name>
+    </item>
+    <item index="16">
+      <photo>http://image.tmdb.org/t/p/original/zqeMFLu7KXwcYpeOc77NyzcWQkG.jpg</photo>
+      <role>Stratwitch</role>
+      <name>Harry Riebauer</name>
+    </item>
+    <item index="17">
+      <photo>http://image.tmdb.org/t/p/original/mIkzbyEG7cBMB2Tyr9sjwChkdVs.jpg</photo>
+      <role>Sorren</role>
+      <name>William Russell</name>
+    </item>
+    <item index="18">
+      <photo>http://image.tmdb.org/t/p/original/vHLauKRlXKRKdW3lOUqDAT30xr9.jpg</photo>
+      <role>Capt. Posen</role>
+      <name>Robert Freitag</name>
+    </item>
+    <item index="19">
+      <photo>http://image.tmdb.org/t/p/original/5cmbYMsT7WA6Ba5pZkRZIcPcxBA.jpg</photo>
+      <role>Preissen</role>
+      <name>Ulrich Beiger</name>
+    </item>
+    <item index="20">
+      <photo>http://image.tmdb.org/t/p/original/ak4YIVTrl5KWuxbIW9n7tOjtxzp.jpg</photo>
+      <role>Lt. Dietrich</role>
+      <name>George Mikell</name>
+    </item>
+    <item index="21">
+      <photo>http://image.tmdb.org/t/p/original/5VJJu5gljLTPwHrUHJYLElg0srU.jpg</photo>
+      <role>Haynes ('Diversions')</role>
+      <name>Lawrence Montaigne</name>
+    </item>
+    <item index="22">
+      <photo>http://image.tmdb.org/t/p/original/5GNlAE9GpUhf3P29lerzVWPzYbO.jpg</photo>
+      <role>Griffith 'Tailor'</role>
+      <name>Robert Desmond</name>
+    </item>
+    <item index="23">
+      <photo>http://image.tmdb.org/t/p/original/qvomclFht6GeE03tLNKJU6cDcOw.jpg</photo>
+      <role>Frick</role>
+      <name>Til Kiwe</name>
+    </item>
+    <item index="24">
+      <photo>http://image.tmdb.org/t/p/original/A8qaf0ce3YY675Pc45y4Dzl50dX.jpg</photo>
+      <role>Kramer</role>
+      <name>Heinz Weiss</name>
+    </item>
+    <item index="25">
+      <photo>http://image.tmdb.org/t/p/original/mz3VR8o8rftlPMUIpXVKUiVpAbV.jpg</photo>
+      <role>Dai Nimmo ('Diversions')</role>
+      <name>Tom Adams</name>
+    </item>
+    <item index="26">
+      <photo>http://image.tmdb.org/t/p/original/oJk5SrhWwuuavo7MmPOJjb26jIj.jpg</photo>
+      <role>S.S. Officer Steinach</role>
+      <name>Karl-Otto Alberty</name>
+    </item>
+  </roles>
+  <similar>
+    <item index="0">The Bridge on the River Kwai</item>
+    <item index="1">Cool Hand Luke</item>
+    <item index="2">The Treasure of the Sierra Madre</item>
+    <item index="3">The Sting</item>
+    <item index="4">Lawrence of Arabia</item>
+    <item index="5">Das Boot</item>
+    <item index="6">Butch Cassidy and the Sundance Kid</item>
+    <item index="7">Ben-Hur</item>
+    <item index="8">Papillon</item>
+    <item index="9">The Magnificent Seven</item>
+    <item index="10">The Dirty Dozen</item>
+    <item index="11">Patton</item>
+    <item index="12">The Grapes of Wrath</item>
+    <item index="13">Dirty Harry</item>
+    <item index="14">The Maltese Falcon</item>
+    <item index="15">The Hustler</item>
+    <item index="16">Judgment at Nuremberg</item>
+    <item index="17">The Wild Bunch</item>
+    <item index="18">High Noon</item>
+    <item index="19">Where Eagles Dare</item>
+  </similar>
+  <studio>United Artists</studio>
+  <summary>The Nazis, exasperated at the number of escapes from their prison camps by a relatively small number of Allied prisoners, relocates them to a high-security 'escape-proof' camp to sit out the remainder of the war. Undaunted, the prisoners plan one of the most ambitious escape attempts of World War II. Based on a true story.</summary>
+  <tagline>Put a fence in front of these men... and they'll climb it!</tagline>
+  <tags/>
+  <themes/>
+  <title>The Great Escape</title>
+  <writers>
+    <item index="0">
+      <photo>http://image.tmdb.org/t/p/original/1Afyy3wKJ16fdMZgOm9PnWrlmJr.jpg</photo>
+      <role/>
+      <name>James Clavell</name>
+    </item>
+    <item index="1">
+      <photo>http://image.tmdb.org/t/p/original/wkdR0bD13Jr0LGGsoWgSDyoEWDU.jpg</photo>
+      <role/>
+      <name>W.R. Burnett</name>
+    </item>
+  </writers>
+  <year>1963</year>
+</Movie>

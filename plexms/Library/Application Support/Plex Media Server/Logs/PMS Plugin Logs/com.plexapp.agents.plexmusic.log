@@ -1,0 +1,59 @@
+2018-07-02 21:51:14,198 (7ff01f428700) :  INFO (core:349) - Starting framework core - Version: 2.6.3, Build: fd05be3 (Fri Jun 08 17:33:50 UTC 2018)
+2018-07-02 21:51:14,198 (7ff01f428700) :  DEBUG (core:361) - Using the elevated policy
+2018-07-02 21:51:14,198 (7ff01f428700) :  DEBUG (core:450) - Starting runtime component.
+2018-07-02 21:51:14,215 (7ff01f428700) :  DEBUG (core:450) - Starting caching component.
+2018-07-02 21:51:14,215 (7ff01f428700) :  DEBUG (core:450) - Starting data component.
+2018-07-02 21:51:14,215 (7ff01f428700) :  DEBUG (core:450) - Starting networking component.
+2018-07-02 21:51:14,215 (7ff01f428700) :  DEBUG (networking:288) - No cookie jar found
+2018-07-02 21:51:14,216 (7ff01f428700) :  DEBUG (networking:452) - Setting the default network timeout to 20.0
+2018-07-02 21:51:14,216 (7ff01f428700) :  DEBUG (core:450) - Starting localization component.
+2018-07-02 21:51:14,216 (7ff01f428700) :  INFO (localization:409) - Setting the default locale to en-us
+2018-07-02 21:51:14,216 (7ff01f428700) :  DEBUG (core:450) - Starting messaging component.
+2018-07-02 21:51:14,220 (7ff01f428700) :  DEBUG (core:450) - Starting debugging component.
+2018-07-02 21:51:14,220 (7ff01f428700) :  DEBUG (core:450) - Starting services component.
+2018-07-02 21:51:14,221 (7ff01f428700) :  DEBUG (core:450) - Starting myplex component.
+2018-07-02 21:51:14,221 (7ff01f428700) :  DEBUG (core:450) - Starting notifications component.
+2018-07-02 21:51:14,235 (7feff77fe700) :  DEBUG (networking:166) - Requesting 'http://127.0.0.1:32400/system/messaging/clear_events/com.plexapp.agents.plexmusic'
+2018-07-02 21:51:14,358 (7ff01f428700) :  DEBUG (accessor:68) - Creating a new model access point for provider com.plexapp.agents.plexmusic in namespace 'metadata'
+2018-07-02 21:51:14,361 (7ff01f428700) :  DEBUG (networking:166) - Requesting 'http://127.0.0.1:32400/:/plugins/com.plexapp.system/resourceHashes'
+2018-07-02 21:51:14,378 (7feff77fe700) :  DEBUG (services:265) - Plug-in is not daemonized - loading services from system
+2018-07-02 21:51:14,379 (7feff77fe700) :  DEBUG (networking:166) - Requesting 'http://127.0.0.1:32400/:/plugins/com.plexapp.system/messaging/function/X0J1bmRsZVNlcnZpY2U6QWxsU2VydmljZXM_/Y2VyZWFsMQoxCmxpc3QKMApyMAo_/Y2VyZWFsMQoxCmRpY3QKMApyMAo_'
+2018-07-02 21:51:14,380 (7ff01f428700) :  DEBUG (runtime:1117) - Created a thread named 'load_all_services'
+2018-07-02 21:51:14,385 (7ff01f428700) :  DEBUG (runtime:1117) - Created a thread named 'get_server_info'
+2018-07-02 21:51:14,386 (7ff01f428700) :  DEBUG (core:150) - Finished starting framework core
+2018-07-02 21:51:14,386 (7ff01f428700) :  DEBUG (core:560) - Loading plug-in code
+2018-07-02 21:51:14,386 (7feff67fc700) :  DEBUG (networking:166) - Requesting 'http://127.0.0.1:32400'
+2018-07-02 21:51:14,398 (7feff77fe700) :  DEBUG (services:362) - Loaded services
+2018-07-02 21:51:14,404 (7feff6ffd700) :  DEBUG (services:438) - No shared code to load
+2018-07-02 21:51:14,413 (7feff67fc700) :  DEBUG (core:538) - Machine identifier is 3ed2b02a097ae0dbd8131e18952f0fd286cb9cf6
+2018-07-02 21:51:14,413 (7feff67fc700) :  DEBUG (core:539) - Server version is 1.13.2.5154-fd05be322
+2018-07-02 21:51:14,660 (7ff01f428700) :  DEBUG (core:566) - Finished loading plug-in code
+2018-07-02 21:51:14,740 (7ff01f428700) :  DEBUG (messaging:69) - Exposing function NormalizeArtist for remote access
+2018-07-02 21:51:14,741 (7ff01f428700) :  DEBUG (agentkit:1115) - Creating new agent class called GracenoteArtistAgent
+2018-07-02 21:51:14,742 (7ff01f428700) :  DEBUG (agentkit:933) - Updating agent information: [{'media_types': ['Artist'], 'accepts_from': None, 'fallback_agent': None, 'contributes_to': ['com.plexapp.agents.localmedia'], 'languages': ['en', 'ar', 'bg', 'zh', 'hr', 'cs', 'da', 'nl', 'fi', 'fr', 'de', 'el', 'hu', 'id', 'it', 'ja', 'ko', 'nn', 'pl', 'pt', 'ro', 'ru', 'sr', 'sk', 'es', 'sv', 'th', 'tr', 'vi'], 'persist_stored_files': True, 'version': 0, 'primary_provider': True, 'prefs': True, 'name': 'Plex Premium Music'}]
+2018-07-02 21:51:14,743 (7ff01f428700) :  DEBUG (networking:166) - Requesting 'http://127.0.0.1:32400/:/plugins/com.plexapp.system/messaging/function/X0FnZW50U2VydmljZTpVcGRhdGVJbmZv/Y2VyZWFsMQoxCmxpc3QKMApyMAo_/Y2VyZWFsMQo2CmRpY3QKbGlzdApkaWN0Cmxpc3QKbGlzdApsaXN0CjIKczI4CmNvbS5wbGV4YXBwLmFnZW50cy5wbGV4bXVzaWNzMTAKaWRlbnRpZmllcnIxCnMxMAphZ2VudF9pbmZvMQpyMgoxMApyMwpzMTEKbWVkaWFfdHlwZXNuczEyCmFjY2VwdHNfZnJvbW5zMTQKZmFsbGJhY2tfYWdlbnRyNApzMTQKY29udHJpYnV0ZXNfdG9yNQpzOQpsYW5ndWFnZXNiMXMyMApwZXJzaXN0X3N0b3JlZF9maWxlc2kwCnM3CnZlcnNpb25iMXMxNgpwcmltYXJ5X3Byb3ZpZGVyYjFzNQpwcmVmc3MxOApQbGV4IFByZW1pdW0gTXVzaWNzNApuYW1lMQpzNgpBcnRpc3QxCnMyOQpjb20ucGxleGFwcC5hZ2VudHMubG9jYWxtZWRpYTI5CnMyCmVuczIKYXJzMgpiZ3MyCnpoczIKaHJzMgpjc3MyCmRhczIKbmxzMgpmaXMyCmZyczIKZGVzMgplbHMyCmh1czIKaWRzMgppdHMyCmphczIKa29zMgpubnMyCnBsczIKcHRzMgpyb3MyCnJ1czIKc3JzMgpza3MyCmVzczIKc3ZzMgp0aHMyCnRyczIKdmlyMAo_'
+2018-07-02 21:51:14,753 (7ff01f428700) :  DEBUG (agentkit:1115) - Creating new agent class called GracenoteAlbumAgent
+2018-07-02 21:51:14,755 (7ff01f428700) :  DEBUG (agentkit:933) - Updating agent information: [{'media_types': ['Artist'], 'accepts_from': None, 'fallback_agent': None, 'contributes_to': ['com.plexapp.agents.localmedia'], 'languages': ['en', 'ar', 'bg', 'zh', 'hr', 'cs', 'da', 'nl', 'fi', 'fr', 'de', 'el', 'hu', 'id', 'it', 'ja', 'ko', 'nn', 'pl', 'pt', 'ro', 'ru', 'sr', 'sk', 'es', 'sv', 'th', 'tr', 'vi'], 'persist_stored_files': True, 'version': 0, 'primary_provider': True, 'prefs': True, 'name': 'Plex Premium Music'}, {'media_types': ['Album'], 'accepts_from': None, 'fallback_agent': None, 'contributes_to': ['com.plexapp.agents.localmedia'], 'languages': ['en', 'ar', 'bg', 'zh', 'hr', 'cs', 'da', 'nl', 'fi', 'fr', 'de', 'el', 'hu', 'id', 'it', 'ja', 'ko', 'nn', 'pl', 'pt', 'ro', 'ru', 'sr', 'sk', 'es', 'sv', 'th', 'tr', 'vi'], 'persist_stored_files': True, 'version': 0, 'primary_provider': True, 'prefs': True, 'name': 'Plex Premium Music'}]
+2018-07-02 21:51:14,756 (7ff01f428700) :  DEBUG (networking:166) - Requesting 'http://127.0.0.1:32400/:/plugins/com.plexapp.system/messaging/function/X0FnZW50U2VydmljZTpVcGRhdGVJbmZv/Y2VyZWFsMQoxCmxpc3QKMApyMAo_/Y2VyZWFsMQoxMApkaWN0Cmxpc3QKZGljdApsaXN0Cmxpc3QKbGlzdApkaWN0Cmxpc3QKbGlzdApsaXN0CjIKczI4CmNvbS5wbGV4YXBwLmFnZW50cy5wbGV4bXVzaWNzMTAKaWRlbnRpZmllcnIxCnMxMAphZ2VudF9pbmZvMgpyMgpyNgoxMApyMwpzMTEKbWVkaWFfdHlwZXNuczEyCmFjY2VwdHNfZnJvbW5zMTQKZmFsbGJhY2tfYWdlbnRyNApzMTQKY29udHJpYnV0ZXNfdG9yNQpzOQpsYW5ndWFnZXNiMXMyMApwZXJzaXN0X3N0b3JlZF9maWxlc2kwCnM3CnZlcnNpb25iMXMxNgpwcmltYXJ5X3Byb3ZpZGVyYjFzNQpwcmVmc3MxOApQbGV4IFByZW1pdW0gTXVzaWNzNApuYW1lMQpzNgpBcnRpc3QxCnMyOQpjb20ucGxleGFwcC5hZ2VudHMubG9jYWxtZWRpYTI5CnMyCmVuczIKYXJzMgpiZ3MyCnpoczIKaHJzMgpjc3MyCmRhczIKbmxzMgpmaXMyCmZyczIKZGVzMgplbHMyCmh1czIKaWRzMgppdHMyCmphczIKa29zMgpubnMyCnBsczIKcHRzMgpyb3MyCnJ1czIKc3JzMgpza3MyCmVzczIKc3ZzMgp0aHMyCnRyczIKdmkxMApyNwpzMTEKbWVkaWFfdHlwZXNuczEyCmFjY2VwdHNfZnJvbW5zMTQKZmFsbGJhY2tfYWdlbnRyOApzMTQKY29udHJpYnV0ZXNfdG9yOQpzOQpsYW5ndWFnZXNiMXMyMApwZXJzaXN0X3N0b3JlZF9maWxlc2kwCnM3CnZlcnNpb25iMXMxNgpwcmltYXJ5X3Byb3ZpZGVyYjFzNQpwcmVmc3MxOApQbGV4IFByZW1pdW0gTXVzaWNzNApuYW1lMQpzNQpBbGJ1bTEKczI5CmNvbS5wbGV4YXBwLmFnZW50cy5sb2NhbG1lZGlhMjkKczIKZW5zMgphcnMyCmJnczIKemhzMgpocnMyCmNzczIKZGFzMgpubHMyCmZpczIKZnJzMgpkZXMyCmVsczIKaHVzMgppZHMyCml0czIKamFzMgprb3MyCm5uczIKcGxzMgpwdHMyCnJvczIKcnVzMgpzcnMyCnNrczIKZXNzMgpzdnMyCnRoczIKdHJzMgp2aXIwCg__'
+2018-07-02 21:51:14,773 (7ff01f428700) :  INFO (core:611) - Started plug-in
+2018-07-02 21:51:14,773 (7ff01f428700) :  DEBUG (socketinterface:160) - Starting socket server
+2018-07-02 21:51:14,780 (7ff01f428700) :  DEBUG (runtime:1117) - Created a thread named 'start'
+2018-07-02 21:51:14,780 (7ff01f428700) :  INFO (socketinterface:184) - Socket server started on port 39221
+2018-07-02 21:51:14,781 (7ff01f428700) :  INFO (pipeinterface:25) - Entering run loop
+2018-07-02 21:51:14,781 (7ff01f428700) :  DEBUG (runtime:717) - Handling request GET /:/prefixes
+2018-07-02 21:51:14,782 (7ff01f428700) :  DEBUG (runtime:814) - Found route matching /:/prefixes
+2018-07-02 21:51:14,782 (7ff01f428700) :  DEBUG (runtime:924) - Response: [200] MediaContainer, 153 bytes
+2018-07-02 21:52:15,114 (7feff6ffd700) :  DEBUG (runtime:717) - Handling request GET /:/plugins/com.plexapp.agents.plexmusic/reloadServices
+2018-07-02 21:52:15,123 (7feff6ffd700) :  DEBUG (runtime:814) - Found route matching /:/plugins/com.plexapp.agents.plexmusic/reloadServices
+2018-07-02 21:52:15,123 (7feff6ffd700) :  DEBUG (services:15) - Reloading services
+2018-07-02 21:52:15,123 (7feff6ffd700) :  DEBUG (services:265) - Plug-in is not daemonized - loading services from system
+2018-07-02 21:52:15,123 (7feff6ffd700) :  DEBUG (networking:166) - Requesting 'http://127.0.0.1:32400/:/plugins/com.plexapp.system/messaging/function/X0J1bmRsZVNlcnZpY2U6QWxsU2VydmljZXM_/Y2VyZWFsMQoxCmxpc3QKMApyMAo_/Y2VyZWFsMQoxCmRpY3QKMApyMAo_'
+2018-07-02 21:52:15,177 (7feff6ffd700) :  DEBUG (services:362) - Loaded services
+2018-07-02 21:52:15,177 (7feff6ffd700) :  DEBUG (runtime:924) - Response: [200] bool, 0 bytes
+2018-07-02 21:52:15,610 (7feff6ffd700) :  DEBUG (runtime:717) - Handling request GET /:/plugins/com.plexapp.agents.plexmusic/reloadServices
+2018-07-02 21:52:15,610 (7feff6ffd700) :  DEBUG (runtime:814) - Found route matching /:/plugins/com.plexapp.agents.plexmusic/reloadServices
+2018-07-02 21:52:15,610 (7feff6ffd700) :  DEBUG (services:15) - Reloading services
+2018-07-02 21:52:15,611 (7feff6ffd700) :  DEBUG (services:265) - Plug-in is not daemonized - loading services from system
+2018-07-02 21:52:15,611 (7feff6ffd700) :  DEBUG (networking:166) - Requesting 'http://127.0.0.1:32400/:/plugins/com.plexapp.system/messaging/function/X0J1bmRsZVNlcnZpY2U6QWxsU2VydmljZXM_/Y2VyZWFsMQoxCmxpc3QKMApyMAo_/Y2VyZWFsMQoxCmRpY3QKMApyMAo_'
+2018-07-02 21:52:15,667 (7feff6ffd700) :  DEBUG (services:362) - Loaded services
+2018-07-02 21:52:15,668 (7feff6ffd700) :  DEBUG (runtime:924) - Response: [200] bool, 0 bytes

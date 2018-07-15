@@ -1,0 +1,378 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Movie id="tt1462900">
+  <rating>7.9</rating>
+  <title_sort/>
+  <art>
+    <item external="True" url="http://image.tmdb.org/t/p/original/k3ATJ7zmlCw45x6OH4WutlXqTvy.jpg" preview="3ed5baf0d7f09a22d71b04257a068d177cdd786f" sort_order="1"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/6ZYH6nxZfkzQ1H4fXK7rutw5abf.jpg" preview="b7ff2771cd6cf8482d3b98ebfe87b14449525f0e" sort_order="2"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/pD1jH4m2YQQ2thVHN3F5Gld6OcH.jpg" preview="fdee743c4ae6ec729916a0f9f19a24413b3b3a57" sort_order="3"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/31QO49XFtFRtGPiFdM28cAaumS9.jpg" preview="3c4bf7e0813e66dfb79a921225ddfa76a15f5cec" sort_order="4"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/qwWqJgyVGpSovW3RB3XH8gAVLfL.jpg" preview="c762743fc90a36ae33cecb4d70e0af69ddda773e" sort_order="5"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/A5hA6E68peuyEJYiJPII1NiakCt.jpg" preview="9f23d59d0a39d0b17a58c34d158fdfd082215a16" sort_order="6"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/j5qkmm8XiBpUVpgPKBJj1EvuP3R.jpg" preview="9e8c3b2e7c42af92c972f58b9e2ae177bd8c95f9" sort_order="7"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/otLaM97uUHFvjiYMZ1id69KyXj9.jpg" preview="0dffc1494a8e8daa61c406a8953fdd97177f04c8" sort_order="8"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/zbdLhylxdDpBqtXnN5tETejP4wd.jpg" preview="bb6754e35dde8655675f809e8c1f91fbf60273ab" sort_order="9"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/vjsfNHbhvz1Qsl9oaoPwDtk9j2U.jpg" preview="a55a38c34159f34e2b01553e044ccf70aeaeb3a5" sort_order="10"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/417V4maszcz92FTMswBHbPLwRrR.jpg" preview="23f6851e0bda7e38643591e48184abe415e00b43" sort_order="11"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/euzcayzUvM42VJveDMsaWuPhpx2.jpg" preview="485cc617494289f8104862d9bae5728e7d7d1764" sort_order="12"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/lKqabtTxjds7RlQQ7sORrAq37tI.jpg" preview="6fbe4706e14a87e57602b422b0e1c8074a487c8d" sort_order="13"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/gJxJStIB1cc8H2VLF73rvVCySbG.jpg" preview="4d8d673d698bbc2ba8bd9f6efe2ec049ae30d0e0" sort_order="14"/>
+  </art>
+  <writers>
+    <item index="0">
+      <photo>http://image.tmdb.org/t/p/original/zLngBAag9DSKtSAOWcfsFtEU3i5.jpg</photo>
+      <role/>
+      <name>Wong Kar-wai</name>
+    </item>
+    <item index="1">
+      <photo>http://image.tmdb.org/t/p/original/lE7Za0MD6kxHZiSIbXigWq9oDlm.jpg</photo>
+      <role/>
+      <name>Xu Haofeng</name>
+    </item>
+  </writers>
+  <chapters>
+    <item index="0">
+      <title>Chapter 1</title>
+      <end_time_offset>630000</end_time_offset>
+      <start_time_offset>0</start_time_offset>
+    </item>
+    <item index="1">
+      <title>Chapter 2</title>
+      <end_time_offset>1343000</end_time_offset>
+      <start_time_offset>630000</start_time_offset>
+    </item>
+    <item index="2">
+      <title>Chapter 3</title>
+      <end_time_offset>2217000</end_time_offset>
+      <start_time_offset>1343000</start_time_offset>
+    </item>
+    <item index="3">
+      <title>Chapter 4</title>
+      <end_time_offset>2647000</end_time_offset>
+      <start_time_offset>2217000</start_time_offset>
+    </item>
+    <item index="4">
+      <title>Chapter 5</title>
+      <end_time_offset>3230000</end_time_offset>
+      <start_time_offset>2647000</start_time_offset>
+    </item>
+    <item index="5">
+      <title>Chapter 6</title>
+      <end_time_offset>3919000</end_time_offset>
+      <start_time_offset>3230000</start_time_offset>
+    </item>
+    <item index="6">
+      <title>Chapter 7</title>
+      <end_time_offset>4326000</end_time_offset>
+      <start_time_offset>3919000</start_time_offset>
+    </item>
+    <item index="7">
+      <title>Chapter 8</title>
+      <end_time_offset>4651000</end_time_offset>
+      <start_time_offset>4326000</start_time_offset>
+    </item>
+    <item index="8">
+      <title>Chapter 9</title>
+      <end_time_offset>5199000</end_time_offset>
+      <start_time_offset>4651000</start_time_offset>
+    </item>
+    <item index="9">
+      <title>Chapter 10</title>
+      <end_time_offset>5971000</end_time_offset>
+      <start_time_offset>5199000</start_time_offset>
+    </item>
+    <item index="10">
+      <title>Chapter 11</title>
+      <end_time_offset>6953000</end_time_offset>
+      <start_time_offset>5971000</start_time_offset>
+    </item>
+    <item index="11">
+      <title>Chapter 12</title>
+      <end_time_offset>-1</end_time_offset>
+      <start_time_offset>6953000</start_time_offset>
+    </item>
+  </chapters>
+  <themes/>
+  <quotes/>
+  <year>2013</year>
+  <duration>7800000</duration>
+  <genres>
+    <item index="0">Action</item>
+    <item index="1">Biography</item>
+    <item index="2">Drama</item>
+    <item index="3">Romance</item>
+    <item index="4">War</item>
+  </genres>
+  <title>The Grandmaster</title>
+  <tagline>In Martial Arts there is no right or wrong, only the last man standing.</tagline>
+  <content_rating_age/>
+  <rating_count/>
+  <collections/>
+  <trivia/>
+  <tags/>
+  <audience_rating_image>rottentomatoes://image.rating.spilled</audience_rating_image>
+  <rating_image>rottentomatoes://image.rating.ripe</rating_image>
+  <producers>
+    <item index="0">
+      <photo>http://image.tmdb.org/t/p/original/zLngBAag9DSKtSAOWcfsFtEU3i5.jpg</photo>
+      <role/>
+      <name>Wong Kar-wai</name>
+    </item>
+    <item index="1">
+      <photo/>
+      <role/>
+      <name>Jacky Pang Yee Wah</name>
+    </item>
+  </producers>
+  <audience_rating>5.8</audience_rating>
+  <studio>The Weinstein Company</studio>
+  <posters>
+    <item external="True" url="http://image.tmdb.org/t/p/original/8OIEVvoTmbGotdygjXzSNX8ribV.jpg" preview="7e9a6407608c92acd2e54dbda5dbf881e2c47fbf" sort_order="1"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/3BmT3bImxk9BOaJJ4A43qtyk60U.jpg" preview="9ab1d61a4503397d2fb66d7eeddd42e0143eabd2" sort_order="2"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/rrUVkh64msjuOycQlemhvw4dOzu.jpg" preview="c5e8e947721b0a6628165be76c94536d45d5c008" sort_order="3"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/AnA4EPNIp25qwyuo0APuXH5u3M5.jpg" preview="bed341aa47d171435638a112419e0b452ef0f264" sort_order="4"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/dZ4peM1K7Ux1ur86BCCchooNAT3.jpg" preview="8c292c9d604a839fb642a209b9193cec8d4209fc" sort_order="5"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/32OwLeg6LTUhGHYuWdsYqiQk4Ew.jpg" preview="aa3a45cc331c76cde9c243205687adab87c8b7e9" sort_order="6"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/ipzBTZ06L0J4e4R06ykCZOYBCy0.jpg" preview="01350d563b77b61eb8420c459c7fe6b1b201d7f0" sort_order="7"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/qKTFrAko3TpAMO8EjBmZpCPv5DA.jpg" preview="4d90bdda0def5e87d6bf9cfaae8821b0a4b85c8a" sort_order="8"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/AeyredS2NKNbuyIllOyirzQD632.jpg" preview="e2a1618fc90856deaca0db879074533482dad3df" sort_order="9"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/pDP8BugQVSbU0bNFpNzOaBuVbGE.jpg" preview="f5497185249f35794a6f18631f670740602b2c6f" sort_order="10"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/gw38Ye5Zsah2kiJ6ecsfBEWx3lL.jpg" preview="edf3520f38711a92848eacad40f788b2a2e8c070" sort_order="11"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/6AOdwH8usgooGpZ9YkmKyTXnn5U.jpg" preview="682712341bbb3c93c9055693f94c21bba3fb499c" sort_order="12"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/tU6nvZGVSGcwolBfTVptR9pWrCR.jpg" preview="de3a9b100c7b35536b7bac5e52b1790c07b9eb81" sort_order="13"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/bbBSdwBxQOCDOUvW6J6kNKIU38Y.jpg" preview="66dc46eea1a7acc5e9f9c629549f6bd9ef0d9822" sort_order="14"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/zFkTS0TVyhI78Wgdq3n2P7oOwwc.jpg" preview="8e8f58b47bb05ab354b0f76be43dc0d2033051c6" sort_order="15"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/cZuEV8q1tkViP2rBoHILdTMAU0r.jpg" preview="2d2337d00610db3299baf3efb28d5786854027ab" sort_order="16"/>
+  </posters>
+  <originally_available_at>2013-01-08</originally_available_at>
+  <roles>
+    <item index="0">
+      <photo>http://image.tmdb.org/t/p/original/xSEwMBLHdiKjyG4YVCsjpaT5fgD.jpg</photo>
+      <role>Ip Man</role>
+      <name>Tony Leung Chiu-Wai</name>
+    </item>
+    <item index="1">
+      <photo>http://image.tmdb.org/t/p/original/xrmbGcVtVAZtZ1OCm6T2IEfXSe1.jpg</photo>
+      <role>Gong Ruomei/Gong Er</role>
+      <name>Zhang Ziyi</name>
+    </item>
+    <item index="2">
+      <photo>http://image.tmdb.org/t/p/original/jL312Q6W4zBguyRm1O3syX7aGKu.jpg</photo>
+      <role>Zhang Yongcheng</role>
+      <name>Song Hye-kyo</name>
+    </item>
+    <item index="3">
+      <photo>http://image.tmdb.org/t/p/original/xpISVPexhLssA4FulbfqLtc7GBR.jpg</photo>
+      <role>Yi Xian Tian/Razor</role>
+      <name>Chang Chen</name>
+    </item>
+    <item index="4">
+      <photo>http://image.tmdb.org/t/p/original/cVdZj8vr7rivIFBQuJAO6qGB2iD.jpg</photo>
+      <role>Ding Lianshan</role>
+      <name>Zhao Benshan</name>
+    </item>
+    <item index="5">
+      <photo>http://image.tmdb.org/t/p/original/hyvxMKFUFQ6RNBHYsYiXJSSAeRX.jpg</photo>
+      <role>Iron Shoes</role>
+      <name>Cung Le</name>
+    </item>
+    <item index="6">
+      <photo>http://image.tmdb.org/t/p/original/7gr04tWDnsBHHmo18aYLWXZHAvC.jpg</photo>
+      <role>Chan Wah-shun (Chen Huashun)</role>
+      <name>Yuen Woo-ping</name>
+    </item>
+    <item index="7">
+      <photo>http://image.tmdb.org/t/p/original/pFeIEPwTDiCPWrvaqgSeRgzecUN.jpg</photo>
+      <role>Master Gong Yutian</role>
+      <name>Wang Qingxiang</name>
+    </item>
+    <item index="8">
+      <photo>http://image.tmdb.org/t/p/original/vJnBZJp9HgNMFiBoPCEduu7Si9e.jpg</photo>
+      <role>Ma San</role>
+      <name>Zhang Jin</name>
+    </item>
+    <item index="9">
+      <photo>http://image.tmdb.org/t/p/original/uylJ0PajER8Uav5bimkcEpUJIgL.jpg</photo>
+      <role>Primo</role>
+      <name>Julian Cheung</name>
+    </item>
+    <item index="10">
+      <photo>http://image.tmdb.org/t/p/original/uZuIBKm4ptrZ82xNjrYX2WULuTV.jpg</photo>
+      <role>Mr. Hung (as Jinjiang Xu)</role>
+      <name>Elvis Tsui</name>
+    </item>
+    <item index="11">
+      <photo/>
+      <role>Shorty (as Chiu Yee Tsang)</role>
+      <name>Chau Yee Tsang</name>
+    </item>
+    <item index="12">
+      <photo/>
+      <role>Uncle Deng</role>
+      <name>Lo Hoi-pang</name>
+    </item>
+    <item index="13">
+      <photo>http://image.tmdb.org/t/p/original/tExVRUTg6ercQdtVFzkGXvlOoPO.jpg</photo>
+      <role>Master Yong</role>
+      <name>Lau Ga-Yung</name>
+    </item>
+  </roles>
+  <countries>
+    <item index="0">Hong Kong</item>
+  </countries>
+  <content_rating>PG-13</content_rating>
+  <original_title>一代宗師</original_title>
+  <summary>Ip Man's peaceful life in Foshan changes after Gong Yutian seeks an heir for his family in Southern China. Ip Man then meets Gong Er who challenges him for the sake of regaining her family's honor. After the Second Sino-Japanese War, Ip Man moves to Hong Kong and struggles to provide for his family. In the mean time, Gong Er chooses the path of vengeance after her father was killed by Ma San.</summary>
+  <reviews>
+    <item index="0">
+      <text>The movie's problems are, in part, those of a great artist trying something new. It's a fine mess.</text>
+      <source>Grantland</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>http://www.grantland.com/story/_/id/9611528/getaway-grandmaster</link>
+      <author>Wesley Morris</author>
+    </item>
+    <item index="1">
+      <text>You leave this deeply flawed, deeply beautiful film with no doubt that you've seen an indisputable cinematic grandmaster in action.</text>
+      <source>Rolling Stone</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>http://www.rollingstone.com/movies/reviews/the-grandmaster-20130830</link>
+      <author>Peter Travers</author>
+    </item>
+    <item index="2">
+      <text>Wong Kar Wai is an expressionist master. A master of character - deep, rich, truthful character - especially in The Grandmaster, he is not.</text>
+      <source>Philadelphia Inquirer</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>http://www.philly.com/philly/entertainment/movies/20130830__The_Grandmaster__is_an_elliptical_beauty.html</link>
+      <author>Steven Rea</author>
+    </item>
+    <item index="3">
+      <text>"The Grandmaster" can feel stiff at times, and something is doubtlessly lost in translation. But the precision and magic of Wong Kar Wai's camera is so captivating it doesn't matter.</text>
+      <source>Detroit News</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>http://www.detroitnews.com/article/20130830/ENT02/308300013/1034/Review-Grandmaster-martial-arts-magic</link>
+      <author>Tom Long</author>
+    </item>
+    <item index="4">
+      <text>Beautiful but troubled, achieving in stretches the director's signature dreamy mood but dragged down by narrative confusions.</text>
+      <source>San Francisco Chronicle</source>
+      <image>rottentomatoes://image.review.rotten</image>
+      <link>http://www.sfgate.com/movies/article/The-Grandmaster-review-A-letdown-4772405.php</link>
+      <author>Walter V. Addiego</author>
+    </item>
+    <item index="5">
+      <text>Granted, "The Grandmaster" is not a primer on Chinese philosophy. Yet it may score as crossover cinema for Wong fans and Lee fans.</text>
+      <source>Chicago Sun-Times</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>http://www.suntimes.com/entertainment/movies/22182016-421/the-grandmaster-gives-martial-arts-emotional-oomph.html</link>
+      <author>Bill Stamets</author>
+    </item>
+    <item index="6">
+      <text>As a kung fu film, "The Grandmaster," with its exhilarating fighting sequences, won't disappoint. As a Wong Kar-wai film, it rates high.</text>
+      <source>Boston Globe</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>http://www.boston.com/ae/movies/2013/08/29/movie-review-the-grandmaster-much-love-wong-kar-wai-meditative-martial-arts-biopic/Hw0rfj9oDiXIuzHqeO4iZN/story.html</link>
+      <author>Peter Keough</author>
+    </item>
+    <item index="7">
+      <text>Writer-director Wong Kar-wai has made a martial-arts movie that is truly a work of art. His "The Grandmaster" is a picture of staggering beauty.</text>
+      <source>Seattle Times</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>http://seattletimes.com/html/entertainment/2021713740_grandmastermoviexml.html?syndication=rss</link>
+      <author>Soren Anderson</author>
+    </item>
+    <item index="8">
+      <text>The director took great efforts to be true to Chinese martial arts, but he did so without sacrificing his own distinctive vision.</text>
+      <source>Washington Post</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>http://www.washingtonpost.com/goingoutguide/movies/the-grandmaster-movie-review/2013/08/28/1ce31f54-0a9d-11e3-b87c-476db8ac34cd_story.html</link>
+      <author>Mark Jenkins</author>
+    </item>
+    <item index="9">
+      <text>The fights that dot this erratically told story of kung fu grandmaster Ip Man can leave you giddy with excitement.</text>
+      <source>Orange County Register</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>http://www.ocregister.com/articles/gong-523277-action-kung.html</link>
+      <author>Michael Sragow</author>
+    </item>
+    <item index="10">
+      <text>"The Grandmaster" is the work of a director whose work throughout his career has been visually exhilarating, sensuous, even sublime. To that end, "The Grandmaster" doesn't disappoint.</text>
+      <source>Newsday</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>http://www.newsday.com/entertainment/movies/the-grandmaster-review-martial-artistry-1.5974021</link>
+      <author>John Anderson</author>
+    </item>
+    <item index="11">
+      <text>The movie ultimately winds up falling between two stools, failing as both a biography and an action film.</text>
+      <source>Arizona Republic</source>
+      <image>rottentomatoes://image.review.rotten</image>
+      <link>http://www.azcentral.com/thingstodo/movies/articles/20130829grandmaster-movie-review.html</link>
+      <author>Randy Cordova</author>
+    </item>
+    <item index="12">
+      <text>A deliriously beautiful martial-arts saga, a mix of exuberant violence and restrained eroticism.</text>
+      <source>Minneapolis Star Tribune</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>http://www.startribune.com/entertainment/movies/221682231.html</link>
+      <author>Colin Covert</author>
+    </item>
+    <item index="13">
+      <text>Whereas many kung-fu movies are a feast that leaves us weary with sensations, the tastefully bittersweet "Grandmaster" puts us in the mood for more.</text>
+      <source>St. Louis Post-Dispatch</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>http://www.stltoday.com/entertainment/movies/joe-williams/grandmaster-is-a-meditative-martial-arts-movie/article_0d404a85-513a-5797-a0dd-1518ee8bda47.html</link>
+      <author>Joe Williams</author>
+    </item>
+    <item index="14">
+      <text>The action choreography (by the great Yuen Woo-ping) feels oddly rhythmless; likewise, Wong's depictions of the larger-than-life characters achieve little emotional resonance.</text>
+      <source>Chicago Reader</source>
+      <image>rottentomatoes://image.review.rotten</image>
+      <link>http://www.chicagoreader.com/chicago/the-grandmaster/Film?oid=10634898</link>
+      <author>Ben Sachs</author>
+    </item>
+    <item index="15">
+      <text>I've never been a big fan of Wong's phantasmagoric prettiness, but at least here it provides a welcome corrective to the usual martial-arts mayhem.</text>
+      <source>Christian Science Monitor</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>http://www.csmonitor.com/The-Culture/Movies/2013/0823/The-Grandmaster-tells-the-story-of-real-life-kung-fu-innovator-Ip-Man</link>
+      <author>Peter Rainer</author>
+    </item>
+    <item index="16">
+      <text>A glorified trailer by Wong Kar Wai is still something to see.</text>
+      <source>RogerEbert.com</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>http://www.rogerebert.com/reviews/the-grandmaster-2013</link>
+      <author>Steven Boone</author>
+    </item>
+  </reviews>
+  <directors>
+    <item index="0">
+      <photo>http://image.tmdb.org/t/p/original/zLngBAag9DSKtSAOWcfsFtEU3i5.jpg</photo>
+      <role/>
+      <name>Wong Kar-wai</name>
+    </item>
+  </directors>
+  <extras external="True" extension="xml"/>
+  <banners/>
+  <similar>
+    <item index="0">Ashes of Time</item>
+    <item index="1">Dragon</item>
+    <item index="2">Election</item>
+    <item index="3">Days of Being Wild</item>
+    <item index="4">Fallen Angels</item>
+    <item index="5">Fist of Legend</item>
+    <item index="6">Chungking Express</item>
+    <item index="7">2046</item>
+    <item index="8">Happy Together</item>
+    <item index="9">Election 2</item>
+    <item index="10">Hero</item>
+    <item index="11">Friend</item>
+    <item index="12">Red Cliff</item>
+    <item index="13">House of Flying Daggers</item>
+    <item index="14">In the Mood for Love</item>
+    <item index="15">As Tears Go By</item>
+    <item index="16">Drug War</item>
+    <item index="17">Overheard</item>
+    <item index="18">Hard Boiled</item>
+    <item index="19">Detective Dee and the Mystery of the Phantom Flame</item>
+  </similar>
+</Movie>

@@ -1,0 +1,294 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Movie>
+  <art>
+    <item external="True" url="http://image.tmdb.org/t/p/original/hXijgyAgIgPREv6H7AZN8L2W0Oe.jpg" sort_order="1" provider="com.plexapp.agents.imdb" media="com.plexapp.agents.imdb_cc287e263b2e6ba4163996637ed91c073f31501b"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/3lLda5UGxbNXfdckdzB48qMDttD.jpg" preview="com.plexapp.agents.imdb_1218692597466ce1b8efd1a2d40b8a8a61b2bee6" sort_order="2" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/ayM89WB0JbTgbplwKKJw2wnxenA.jpg" preview="com.plexapp.agents.imdb_fd56f586ea041769cb9e754e89ae8e53ee5dcf9e" sort_order="3" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/6AxidHI5l4FLOZ85SVFl1xkC09E.jpg" preview="com.plexapp.agents.imdb_0a0453f184a999bbd4ebb09493feeafa9b7adc89" sort_order="4" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/s2oVoxjvHrxvWRUDfdnM6fYW7Ru.jpg" preview="com.plexapp.agents.imdb_4063312c0acdcd800b8328fac0a03cdde5965909" sort_order="5" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/439AS833tLomfBDLaNy2tlyEJEZ.jpg" preview="com.plexapp.agents.imdb_44aa50fcea695336800ba808d5112bb49fb1d714" sort_order="6" provider="com.plexapp.agents.imdb"/>
+  </art>
+  <banners/>
+  <chapters>
+    <item index="0">
+      <title>Chapter 1</title>
+      <end_time_offset>372000</end_time_offset>
+      <start_time_offset>0</start_time_offset>
+    </item>
+    <item index="1">
+      <title>Chapter 2</title>
+      <end_time_offset>774000</end_time_offset>
+      <start_time_offset>372000</start_time_offset>
+    </item>
+    <item index="2">
+      <title>Chapter 3</title>
+      <end_time_offset>1117000</end_time_offset>
+      <start_time_offset>774000</start_time_offset>
+    </item>
+    <item index="3">
+      <title>Chapter 4</title>
+      <end_time_offset>1383000</end_time_offset>
+      <start_time_offset>1117000</start_time_offset>
+    </item>
+    <item index="4">
+      <title>Chapter 5</title>
+      <end_time_offset>1840000</end_time_offset>
+      <start_time_offset>1383000</start_time_offset>
+    </item>
+    <item index="5">
+      <title>Chapter 6</title>
+      <end_time_offset>2205000</end_time_offset>
+      <start_time_offset>1840000</start_time_offset>
+    </item>
+    <item index="6">
+      <title>Chapter 7</title>
+      <end_time_offset>2382000</end_time_offset>
+      <start_time_offset>2205000</start_time_offset>
+    </item>
+    <item index="7">
+      <title>Chapter 8</title>
+      <end_time_offset>2741000</end_time_offset>
+      <start_time_offset>2382000</start_time_offset>
+    </item>
+    <item index="8">
+      <title>Chapter 9</title>
+      <end_time_offset>3212000</end_time_offset>
+      <start_time_offset>2741000</start_time_offset>
+    </item>
+    <item index="9">
+      <title>Chapter 10</title>
+      <end_time_offset>3553000</end_time_offset>
+      <start_time_offset>3212000</start_time_offset>
+    </item>
+    <item index="10">
+      <title>Chapter 11</title>
+      <end_time_offset>4218000</end_time_offset>
+      <start_time_offset>3553000</start_time_offset>
+    </item>
+    <item index="11">
+      <title>Chapter 12</title>
+      <end_time_offset>4535000</end_time_offset>
+      <start_time_offset>4218000</start_time_offset>
+    </item>
+    <item index="12">
+      <title>Chapter 13</title>
+      <end_time_offset>4884000</end_time_offset>
+      <start_time_offset>4535000</start_time_offset>
+    </item>
+    <item index="13">
+      <title>Chapter 14</title>
+      <end_time_offset>5287000</end_time_offset>
+      <start_time_offset>4884000</start_time_offset>
+    </item>
+    <item index="14">
+      <title>Chapter 15</title>
+      <end_time_offset>5480000</end_time_offset>
+      <start_time_offset>5287000</start_time_offset>
+    </item>
+    <item index="15">
+      <title>Chapter 16</title>
+      <end_time_offset>5985000</end_time_offset>
+      <start_time_offset>5480000</start_time_offset>
+    </item>
+    <item index="16">
+      <title>Chapter 17</title>
+      <end_time_offset>-1</end_time_offset>
+      <start_time_offset>5985000</start_time_offset>
+    </item>
+  </chapters>
+  <collections/>
+  <content_rating>PG</content_rating>
+  <countries>
+    <item index="0">USA</item>
+  </countries>
+  <directors>
+    <item index="0">
+      <photo>http://image.tmdb.org/t/p/original/dFVgYYRY1R0aUCYvfEah00Iwzlt.jpg</photo>
+      <role/>
+      <name>John Hughes</name>
+    </item>
+  </directors>
+  <duration>6000000</duration>
+  <genres>
+    <item index="0">Comedy</item>
+  </genres>
+  <originally_available_at>1989-08-16</originally_available_at>
+  <posters>
+    <item external="True" url="http://image.tmdb.org/t/p/original/pfRn0CzYq5n49EDl8BV8Jjry6ZM.jpg" sort_order="1" provider="com.plexapp.agents.imdb" media="com.plexapp.agents.imdb_8e5c09c814d41640842374b92910dd8965a9e092"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/vQfAYznj87XNjeqOnb0unMCh2Ba.jpg" preview="com.plexapp.agents.imdb_4efab07df1b21d063b3eb73b9b7ce661197204b0" sort_order="2" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/kO8JMofYBEnawCTRjsrmqmcNSEr.jpg" preview="com.plexapp.agents.imdb_db1af380f203a02113d51022ecfc2ad26b2e3dea" sort_order="3" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/ApdqydECA6DVW69TcGq4ChuN0hm.jpg" preview="com.plexapp.agents.imdb_dbad0a42d6a96c337a5804d83c8f2464af1928c8" sort_order="4" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/4ijIjqCkG163UvnFdNw15tgXeKX.jpg" preview="com.plexapp.agents.imdb_08252a08be1c5a6f0e2aaf34c36c49efa384a26d" sort_order="5" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/l4KntdrkjdiyoDxOZkPy9Bajb1p.jpg" preview="com.plexapp.agents.imdb_ecaadfc4d25702052e61c9efe6f50421b326783d" sort_order="6" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/e9FuqvVMRO6TOiZV5PKX2V8T9w0.jpg" preview="com.plexapp.agents.imdb_b71ceddd5c5b31577bc13d5716263110f05d82f0" sort_order="7" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/jRpbRgc3ysG0hkJWP4WMpffpCaK.jpg" preview="com.plexapp.agents.imdb_1a55081fcfb5b1caad31df89572e6adb9810c230" sort_order="8" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/9EzkyFUnjeR7H2GMO74j53F4tUJ.jpg" preview="com.plexapp.agents.imdb_d95844b3fd95f140eb5a5b9f5c8c31e1e645379b" sort_order="9" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/mFWfCjLYBcvA3C94gcqvvs6QOX3.jpg" preview="com.plexapp.agents.imdb_0e96e32ea60bbcd6c29218484eb56f8eb3dafc99" sort_order="10" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/2DbmUk3AtkmddfbkktdXm8l6jgE.jpg" preview="com.plexapp.agents.imdb_cd61e50006726b5f8d376b4da85a39a467a9fa3c" sort_order="11" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/cEIJSWV3pCcxFQ8nvQ589ORv2uS.jpg" preview="com.plexapp.agents.imdb_3bd696de1697facc4f8936f775ace6b3996a151a" sort_order="12" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/hPlT5GDomNtapJYi5Cuvq6TgewF.jpg" preview="com.plexapp.agents.imdb_c15bf82fb9609fae0d2cc322fc8f455b1dbb2445" sort_order="13" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/oqdVt6dkvMK0GUPvI8lgzEKe0jb.jpg" preview="com.plexapp.agents.imdb_c2ec2249d4e0b40433aab3e81eb9e7d5f73a9645" sort_order="14" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/tmZ53N8AzCstlWiMf3fZzHAbJ8i.jpg" preview="com.plexapp.agents.imdb_cb926b4882aa019c5874edcf96ee2f3b9e02440a" sort_order="15" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/bWHHqd3hfv5MWoGZJEM7FsftjPT.jpg" preview="com.plexapp.agents.imdb_cfd418ee778c4323c53f3e1aa97f9b08910ee5e2" sort_order="16" provider="com.plexapp.agents.imdb"/>
+  </posters>
+  <producers>
+    <item index="0">
+      <photo>http://image.tmdb.org/t/p/original/dFVgYYRY1R0aUCYvfEah00Iwzlt.jpg</photo>
+      <role/>
+      <name>John Hughes</name>
+    </item>
+    <item index="1">
+      <photo/>
+      <role/>
+      <name>Tom Jacobson</name>
+    </item>
+  </producers>
+  <rating>6.1</rating>
+  <rating_image>rottentomatoes://image.rating.ripe</rating_image>
+  <audience_rating>7.6</audience_rating>
+  <audience_rating_image>rottentomatoes://image.rating.upright</audience_rating_image>
+  <reviews/>
+  <roles>
+    <item index="0">
+      <photo>http://image.tmdb.org/t/p/original/a53ilUnwQ4q7sM0F0h14dbunKA7.jpg</photo>
+      <role>Buck Russell</role>
+      <name>John Candy</name>
+    </item>
+    <item index="1">
+      <photo>http://image.tmdb.org/t/p/original/mJJltLZRxaoMoMVpGvJXPqZE9b4.jpg</photo>
+      <role>Tia Russell</role>
+      <name>Jean Louisa Kelly</name>
+    </item>
+    <item index="2">
+      <photo>http://image.tmdb.org/t/p/original/eMApQSnjNI9wSzGv1MYbj0D011j.jpg</photo>
+      <role>Miles Russell</role>
+      <name>Macaulay Culkin</name>
+    </item>
+    <item index="3">
+      <photo>http://image.tmdb.org/t/p/original/zg7FTMjtdWmyg8b4o5DXEZNC5uv.jpg</photo>
+      <role>Maizy Russell</role>
+      <name>Gaby Hoffmann</name>
+    </item>
+    <item index="4">
+      <photo>http://image.tmdb.org/t/p/original/pNdNJPKRdl3veCRH8fZv3H76ywJ.jpg</photo>
+      <role>Chanice Kobolowski</role>
+      <name>Amy Madigan</name>
+    </item>
+    <item index="5">
+      <photo>http://image.tmdb.org/t/p/original/xpGz2zFVrzTxc1OIW9nOoHzL75i.jpg</photo>
+      <role>Cindy Russell</role>
+      <name>Elaine Bromka</name>
+    </item>
+    <item index="6">
+      <photo>http://image.tmdb.org/t/p/original/u48DQ2SziopfHBOTrtk7NOCshCp.jpg</photo>
+      <role>Bob Russell</role>
+      <name>Garrett M. Brown</name>
+    </item>
+    <item index="7">
+      <photo>http://image.tmdb.org/t/p/original/oHhTbuv9eNJV4YlgizhCkZsPV0N.jpg</photo>
+      <role>Marcie Dahlgren-Frost</role>
+      <name>Laurie Metcalf</name>
+    </item>
+    <item index="8">
+      <photo>http://image.tmdb.org/t/p/original/cUWx3F5tzeMUowmCIJoL2WrLxoe.jpg</photo>
+      <role>Bug</role>
+      <name>Jay Underwood</name>
+    </item>
+    <item index="9">
+      <photo>http://image.tmdb.org/t/p/original/3wJWb5xIxkwvSWVvdgEE92YIBaS.jpg</photo>
+      <role>E. Roger Coswell</role>
+      <name>Brian Tarantina</name>
+    </item>
+    <item index="10">
+      <photo>http://image.tmdb.org/t/p/original/9JrAo8iPqaLk4SrxMNq1sKHeKaK.jpg</photo>
+      <role>Pooter-the-Clown</role>
+      <name>Mike Starr</name>
+    </item>
+    <item index="11">
+      <photo>http://image.tmdb.org/t/p/original/fV9dTx6hqkldSymMaVtiQ6sL5Jb.jpg</photo>
+      <role>Mrs. Hogarth</role>
+      <name>Suzanne Shepherd</name>
+    </item>
+    <item index="12">
+      <photo>http://image.tmdb.org/t/p/original/3RGfs2kJ71XCho8VsDxpYlzlFur.jpg</photo>
+      <role>Pal</role>
+      <name>Dennis Cockrum</name>
+    </item>
+    <item index="13">
+      <photo>http://image.tmdb.org/t/p/original/wWuhDcOKU3t8WVPLNsP268GKvOU.jpg</photo>
+      <role>School Child</role>
+      <name>Anna Chlumsky</name>
+    </item>
+    <item index="14">
+      <photo>http://image.tmdb.org/t/p/original/3rSUJGAV5TZIp5d8k9CwegwEzq1.jpg</photo>
+      <role>Maizy's Teacher</role>
+      <name>Ron Payne</name>
+    </item>
+    <item index="15">
+      <photo>http://image.tmdb.org/t/p/original/lV67dOscMHci21FMa4Gg667zI7J.jpg</photo>
+      <role>Teacher</role>
+      <name>Jane Vickerilla</name>
+    </item>
+    <item index="16">
+      <photo>http://image.tmdb.org/t/p/original/nTqbMx3o9rk6Q5PfS3fwh5LEbGw.jpg</photo>
+      <role>Mr. Hatfield (voice)</role>
+      <name>William Windom</name>
+    </item>
+    <item index="17">
+      <photo>http://image.tmdb.org/t/p/original/2ZIZ2xIdWKZNKRcdIe60AH25c82.jpg</photo>
+      <role>Additional Voices (voice)</role>
+      <name>Patricia Arquette</name>
+    </item>
+    <item index="18">
+      <photo>http://image.tmdb.org/t/p/original/gVwKvpPAdlgBTCHQIvK63Yf0C4y.jpg</photo>
+      <role>Additional Voices (voice)</role>
+      <name>Devon Odessa</name>
+    </item>
+    <item index="19">
+      <photo>http://image.tmdb.org/t/p/original/xadJ0CFul9YT84hRTZ3c0YmFASy.jpg</photo>
+      <role>Additional Voices (voice)</role>
+      <name>Jack Blessing</name>
+    </item>
+    <item index="20">
+      <photo>http://image.tmdb.org/t/p/original/wqpzKnYuTGuj2KBhvTZRbtBtUgF.jpg</photo>
+      <role>School Child (uncredited)</role>
+      <name>Ryan Goldstein</name>
+    </item>
+  </roles>
+  <similar>
+    <item index="0">The Great Outdoors</item>
+    <item index="1">Stripes</item>
+    <item index="2">Parenthood</item>
+    <item index="3">Planes, Trains and Automobiles</item>
+    <item index="4">National Lampoon's Vacation</item>
+    <item index="5">National Lampoon's European Vacation</item>
+    <item index="6">Fletch</item>
+    <item index="7">Roxanne</item>
+    <item index="8">What About Bob?</item>
+    <item index="9">Wayne's World 2</item>
+    <item index="10">Caddyshack</item>
+    <item index="11">Weird Science</item>
+    <item index="12">Brewster's Millions</item>
+    <item index="13">Encino Man</item>
+    <item index="14">Three Men and a Baby</item>
+    <item index="15">Throw Momma from the Train</item>
+    <item index="16">Billy Madison</item>
+    <item index="17">City Slickers</item>
+    <item index="18">Kingpin</item>
+    <item index="19">Fast Times at Ridgemont High</item>
+  </similar>
+  <studio>Universal Pictures</studio>
+  <summary>As an idle, good-natured bachelor, Uncle Buck is the last person you would think of to watch the kids. However, during a family crisis, he is suddenly left in charge of his nephew and nieces. Unaccustomed to suburban life, fun-loving Uncle Buck soon charms his younger relatives Miles and Maizy with his hefty cooking and his new way of doing the laundry. His carefree style does not impress everyone though - especially his rebellious teenage niece, Tia, and his impatient girlfriend, Chanice. With a little bit of luck and a lot of love, Uncle Buck manages to surprise everyone in this heartwarming family comedy.</summary>
+  <tagline>He's crude. He's crass. He's family.</tagline>
+  <tags/>
+  <themes/>
+  <title>Uncle Buck</title>
+  <writers>
+    <item index="0">
+      <photo>http://image.tmdb.org/t/p/original/dFVgYYRY1R0aUCYvfEah00Iwzlt.jpg</photo>
+      <role/>
+      <name>John Hughes</name>
+    </item>
+  </writers>
+  <year>1989</year>
+</Movie>

@@ -1,0 +1,323 @@
+<?xml version='1.0' encoding='utf-8'?>
+<MediaContainer size="16">
+  <Video url="iva://api.internetvideoarchive.com/2.0/DataService/VideoAssets(845557)?lang=en&amp;bitrates=80,212,450,750,1500,2500,5000,8000&amp;duration=127&amp;adaptive=1&amp;dts=0" key="/system/services/url/lookup?url=iva%3A%2F%2Fapi.internetvideoarchive.com%2F2.0%2FDataService%2FVideoAssets%28845557%29%3Flang%3Den%26bitrates%3D80%2C212%2C450%2C750%2C1500%2C2500%2C5000%2C8000%26duration%3D127%26adaptive%3D1%26dts%3D0" type="clip" relationType="trailer" year="2017" title="Dracula Untold (Clean Trailer)" originallyAvailableAt="2017-12-20" thumb="https://iva-images.plex.tv/content/hdphotos/11609/011609/011609_1280x720_845557_063.jpg" ratingKey="iva://api.internetvideoarchive.com/2.0/DataService/VideoAssets(845557)?lang=en&amp;bitrates=80,212,450,750,1500,2500,5000,8000&amp;duration=127&amp;adaptive=1&amp;dts=0">
+    <Media container="mp4" height="1080" width="1920" audioCodec="aac" duration="127000" videoCodec="h264" bitrate="2500">
+      <Part duration="127000" key="/services/iva/assets/845557/video.mp4?bitrate=2500" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="1080" width="1920" codec="h264" bitrate="2500" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+    <Media container="mp4" height="720" width="1280" audioCodec="aac" duration="127000" videoCodec="h264" bitrate="1500">
+      <Part duration="127000" key="/services/iva/assets/845557/video.mp4?bitrate=1500" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="720" width="1280" codec="h264" bitrate="1500" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+    <Media container="mp4" height="480" width="640" audioCodec="aac" duration="127000" videoCodec="h264" bitrate="450">
+      <Part duration="127000" key="/services/iva/assets/845557/video.mp4?bitrate=450" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="480" width="640" codec="h264" bitrate="450" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+  </Video>
+  <Video url="iva://api.internetvideoarchive.com/2.0/DataService/VideoAssets(340309)?lang=en&amp;bitrates=80,212,450,750,1500,2500,5000,8000&amp;duration=84&amp;adaptive=1&amp;dts=0" key="/system/services/url/lookup?url=iva%3A%2F%2Fapi.internetvideoarchive.com%2F2.0%2FDataService%2FVideoAssets%28340309%29%3Flang%3Den%26bitrates%3D80%2C212%2C450%2C750%2C1500%2C2500%2C5000%2C8000%26duration%3D84%26adaptive%3D1%26dts%3D0" type="clip" relationType="behindTheScenes" year="2015" title="Dracula Untold: Sibling Rivalry" originallyAvailableAt="2015-01-15" thumb="https://iva-images.plex.tv/content/hdphotos/9366/009366/009366_1280x720_340309_015.jpg" ratingKey="iva://api.internetvideoarchive.com/2.0/DataService/VideoAssets(340309)?lang=en&amp;bitrates=80,212,450,750,1500,2500,5000,8000&amp;duration=84&amp;adaptive=1&amp;dts=0">
+    <Media container="mp4" height="1080" width="1920" audioCodec="aac" duration="84000" videoCodec="h264" bitrate="2500">
+      <Part duration="84000" key="/services/iva/assets/340309/video.mp4?bitrate=2500" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="1080" width="1920" codec="h264" bitrate="2500" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+    <Media container="mp4" height="720" width="1280" audioCodec="aac" duration="84000" videoCodec="h264" bitrate="1500">
+      <Part duration="84000" key="/services/iva/assets/340309/video.mp4?bitrate=1500" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="720" width="1280" codec="h264" bitrate="1500" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+    <Media container="mp4" height="480" width="640" audioCodec="aac" duration="84000" videoCodec="h264" bitrate="450">
+      <Part duration="84000" key="/services/iva/assets/340309/video.mp4?bitrate=450" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="480" width="640" codec="h264" bitrate="450" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+  </Video>
+  <Video url="iva://api.internetvideoarchive.com/2.0/DataService/VideoAssets(501232)?lang=en&amp;bitrates=80,212,450,750,1500,2500,5000,8000&amp;duration=105&amp;adaptive=1&amp;dts=0" key="/system/services/url/lookup?url=iva%3A%2F%2Fapi.internetvideoarchive.com%2F2.0%2FDataService%2FVideoAssets%28501232%29%3Flang%3Den%26bitrates%3D80%2C212%2C450%2C750%2C1500%2C2500%2C5000%2C8000%26duration%3D105%26adaptive%3D1%26dts%3D0" type="clip" relationType="behindTheScenes" year="2015" title="Dracula Untold: Prince Of Darkness" originallyAvailableAt="2015-01-15" thumb="https://iva-images.plex.tv/content/hdphotos/9366/009366/009366_1280x720_501232_054.jpg" ratingKey="iva://api.internetvideoarchive.com/2.0/DataService/VideoAssets(501232)?lang=en&amp;bitrates=80,212,450,750,1500,2500,5000,8000&amp;duration=105&amp;adaptive=1&amp;dts=0">
+    <Media container="mp4" height="1080" width="1920" audioCodec="aac" duration="105000" videoCodec="h264" bitrate="2500">
+      <Part duration="105000" key="/services/iva/assets/501232/video.mp4?bitrate=2500" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="1080" width="1920" codec="h264" bitrate="2500" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+    <Media container="mp4" height="720" width="1280" audioCodec="aac" duration="105000" videoCodec="h264" bitrate="1500">
+      <Part duration="105000" key="/services/iva/assets/501232/video.mp4?bitrate=1500" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="720" width="1280" codec="h264" bitrate="1500" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+    <Media container="mp4" height="480" width="640" audioCodec="aac" duration="105000" videoCodec="h264" bitrate="450">
+      <Part duration="105000" key="/services/iva/assets/501232/video.mp4?bitrate=450" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="480" width="640" codec="h264" bitrate="450" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+  </Video>
+  <Video url="iva://api.internetvideoarchive.com/2.0/DataService/VideoAssets(898368)?lang=en&amp;bitrates=80,212,450,750,1500,2500,5000,8000&amp;duration=64&amp;adaptive=1&amp;dts=0" key="/system/services/url/lookup?url=iva%3A%2F%2Fapi.internetvideoarchive.com%2F2.0%2FDataService%2FVideoAssets%28898368%29%3Flang%3Den%26bitrates%3D80%2C212%2C450%2C750%2C1500%2C2500%2C5000%2C8000%26duration%3D64%26adaptive%3D1%26dts%3D0" type="clip" relationType="behindTheScenes" year="2014" title="Dracula Untold: On The Set Master Vampire (Featurette)" originallyAvailableAt="2014-10-03" thumb="https://iva-images.plex.tv/content/hdphotos/9242/009242/009242_1141x642_898368_034.jpg" ratingKey="iva://api.internetvideoarchive.com/2.0/DataService/VideoAssets(898368)?lang=en&amp;bitrates=80,212,450,750,1500,2500,5000,8000&amp;duration=64&amp;adaptive=1&amp;dts=0">
+    <Media container="mp4" height="1080" width="1920" audioCodec="aac" duration="64000" videoCodec="h264" bitrate="2500">
+      <Part duration="64000" key="/services/iva/assets/898368/video.mp4?bitrate=2500" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="1080" width="1920" codec="h264" bitrate="2500" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+    <Media container="mp4" height="720" width="1280" audioCodec="aac" duration="64000" videoCodec="h264" bitrate="1500">
+      <Part duration="64000" key="/services/iva/assets/898368/video.mp4?bitrate=1500" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="720" width="1280" codec="h264" bitrate="1500" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+    <Media container="mp4" height="480" width="640" audioCodec="aac" duration="64000" videoCodec="h264" bitrate="450">
+      <Part duration="64000" key="/services/iva/assets/898368/video.mp4?bitrate=450" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="480" width="640" codec="h264" bitrate="450" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+  </Video>
+  <Video url="iva://api.internetvideoarchive.com/2.0/DataService/VideoAssets(127067)?lang=en&amp;bitrates=80,212,450,750,1500,2500,5000,8000&amp;duration=76&amp;adaptive=1&amp;dts=0" key="/system/services/url/lookup?url=iva%3A%2F%2Fapi.internetvideoarchive.com%2F2.0%2FDataService%2FVideoAssets%28127067%29%3Flang%3Den%26bitrates%3D80%2C212%2C450%2C750%2C1500%2C2500%2C5000%2C8000%26duration%3D76%26adaptive%3D1%26dts%3D0" type="clip" relationType="behindTheScenes" year="2014" title="Dracula Untold: On The Set Vlad Vs. 1000 (Featurette)" originallyAvailableAt="2014-10-03" thumb="https://iva-images.plex.tv/content/hdphotos/9241/009241/009241_1280x720_127067_038.jpg" ratingKey="iva://api.internetvideoarchive.com/2.0/DataService/VideoAssets(127067)?lang=en&amp;bitrates=80,212,450,750,1500,2500,5000,8000&amp;duration=76&amp;adaptive=1&amp;dts=0">
+    <Media container="mp4" height="1080" width="1920" audioCodec="aac" duration="76000" videoCodec="h264" bitrate="2500">
+      <Part duration="76000" key="/services/iva/assets/127067/video.mp4?bitrate=2500" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="1080" width="1920" codec="h264" bitrate="2500" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+    <Media container="mp4" height="720" width="1280" audioCodec="aac" duration="76000" videoCodec="h264" bitrate="1500">
+      <Part duration="76000" key="/services/iva/assets/127067/video.mp4?bitrate=1500" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="720" width="1280" codec="h264" bitrate="1500" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+    <Media container="mp4" height="480" width="640" audioCodec="aac" duration="76000" videoCodec="h264" bitrate="450">
+      <Part duration="76000" key="/services/iva/assets/127067/video.mp4?bitrate=450" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="480" width="640" codec="h264" bitrate="450" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+  </Video>
+  <Video url="iva://api.internetvideoarchive.com/2.0/DataService/VideoAssets(859975)?lang=en&amp;bitrates=80,212,450,750,1500,2500,5000,8000&amp;duration=148&amp;adaptive=1&amp;dts=0" key="/system/services/url/lookup?url=iva%3A%2F%2Fapi.internetvideoarchive.com%2F2.0%2FDataService%2FVideoAssets%28859975%29%3Flang%3Den%26bitrates%3D80%2C212%2C450%2C750%2C1500%2C2500%2C5000%2C8000%26duration%3D148%26adaptive%3D1%26dts%3D0" type="clip" relationType="behindTheScenes" year="2014" title="Dracula Untold: A Day In The Life Of Luke (Featurette)" originallyAvailableAt="2014-10-02" thumb="https://iva-images.plex.tv/content/hdphotos/9239/009239/009239_971x546_859975_052.jpg" ratingKey="iva://api.internetvideoarchive.com/2.0/DataService/VideoAssets(859975)?lang=en&amp;bitrates=80,212,450,750,1500,2500,5000,8000&amp;duration=148&amp;adaptive=1&amp;dts=0">
+    <Media container="mp4" height="1080" width="1920" audioCodec="aac" duration="148000" videoCodec="h264" bitrate="2500">
+      <Part duration="148000" key="/services/iva/assets/859975/video.mp4?bitrate=2500" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="1080" width="1920" codec="h264" bitrate="2500" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+    <Media container="mp4" height="720" width="1280" audioCodec="aac" duration="148000" videoCodec="h264" bitrate="1500">
+      <Part duration="148000" key="/services/iva/assets/859975/video.mp4?bitrate=1500" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="720" width="1280" codec="h264" bitrate="1500" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+    <Media container="mp4" height="480" width="640" audioCodec="aac" duration="148000" videoCodec="h264" bitrate="450">
+      <Part duration="148000" key="/services/iva/assets/859975/video.mp4?bitrate=450" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="480" width="640" codec="h264" bitrate="450" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+  </Video>
+  <Video url="iva://api.internetvideoarchive.com/2.0/DataService/VideoAssets(235045)?lang=en&amp;bitrates=80,212,450,750,1500,2500,5000,8000&amp;duration=99&amp;adaptive=1&amp;dts=0" key="/system/services/url/lookup?url=iva%3A%2F%2Fapi.internetvideoarchive.com%2F2.0%2FDataService%2FVideoAssets%28235045%29%3Flang%3Den%26bitrates%3D80%2C212%2C450%2C750%2C1500%2C2500%2C5000%2C8000%26duration%3D99%26adaptive%3D1%26dts%3D0" type="clip" relationType="behindTheScenes" year="2014" title="Dracula Untold: Meet Mirena (Featurette)" originallyAvailableAt="2014-10-02" thumb="https://iva-images.plex.tv/content/hdphotos/9239/009239/009239_1163x654_235045_051.jpg" ratingKey="iva://api.internetvideoarchive.com/2.0/DataService/VideoAssets(235045)?lang=en&amp;bitrates=80,212,450,750,1500,2500,5000,8000&amp;duration=99&amp;adaptive=1&amp;dts=0">
+    <Media container="mp4" height="1080" width="1920" audioCodec="aac" duration="99000" videoCodec="h264" bitrate="2500">
+      <Part duration="99000" key="/services/iva/assets/235045/video.mp4?bitrate=2500" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="1080" width="1920" codec="h264" bitrate="2500" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+    <Media container="mp4" height="720" width="1280" audioCodec="aac" duration="99000" videoCodec="h264" bitrate="1500">
+      <Part duration="99000" key="/services/iva/assets/235045/video.mp4?bitrate=1500" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="720" width="1280" codec="h264" bitrate="1500" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+    <Media container="mp4" height="480" width="640" audioCodec="aac" duration="99000" videoCodec="h264" bitrate="450">
+      <Part duration="99000" key="/services/iva/assets/235045/video.mp4?bitrate=450" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="480" width="640" codec="h264" bitrate="450" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+  </Video>
+  <Video url="iva://api.internetvideoarchive.com/2.0/DataService/VideoAssets(300239)?lang=en&amp;bitrates=80,212,450,750,1500,2500,5000,8000&amp;duration=85&amp;adaptive=1&amp;dts=0" key="/system/services/url/lookup?url=iva%3A%2F%2Fapi.internetvideoarchive.com%2F2.0%2FDataService%2FVideoAssets%28300239%29%3Flang%3Den%26bitrates%3D80%2C212%2C450%2C750%2C1500%2C2500%2C5000%2C8000%26duration%3D85%26adaptive%3D1%26dts%3D0" type="clip" relationType="behindTheScenes" year="2014" title="Dracula Untold: Face Off (Featurette)" originallyAvailableAt="2014-10-02" thumb="https://iva-images.plex.tv/content/hdphotos/9239/009239/009239_917x516_300239_035.jpg" ratingKey="iva://api.internetvideoarchive.com/2.0/DataService/VideoAssets(300239)?lang=en&amp;bitrates=80,212,450,750,1500,2500,5000,8000&amp;duration=85&amp;adaptive=1&amp;dts=0">
+    <Media container="mp4" height="1080" width="1920" audioCodec="aac" duration="85000" videoCodec="h264" bitrate="2500">
+      <Part duration="85000" key="/services/iva/assets/300239/video.mp4?bitrate=2500" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="1080" width="1920" codec="h264" bitrate="2500" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+    <Media container="mp4" height="720" width="1280" audioCodec="aac" duration="85000" videoCodec="h264" bitrate="1500">
+      <Part duration="85000" key="/services/iva/assets/300239/video.mp4?bitrate=1500" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="720" width="1280" codec="h264" bitrate="1500" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+    <Media container="mp4" height="480" width="640" audioCodec="aac" duration="85000" videoCodec="h264" bitrate="450">
+      <Part duration="85000" key="/services/iva/assets/300239/video.mp4?bitrate=450" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="480" width="640" codec="h264" bitrate="450" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+  </Video>
+  <Video url="iva://api.internetvideoarchive.com/2.0/DataService/VideoAssets(120874)?lang=en&amp;bitrates=80,212,450,750,1500,2500,5000,8000&amp;duration=17&amp;adaptive=1&amp;dts=0" key="/system/services/url/lookup?url=iva%3A%2F%2Fapi.internetvideoarchive.com%2F2.0%2FDataService%2FVideoAssets%28120874%29%3Flang%3Den%26bitrates%3D80%2C212%2C450%2C750%2C1500%2C2500%2C5000%2C8000%26duration%3D17%26adaptive%3D1%26dts%3D0" type="clip" relationType="behindTheScenes" year="2014" title="Dracula Untold: Gary Shore On The Story" originallyAvailableAt="2014-09-30" thumb="https://iva-images.plex.tv/content/hdphotos/9235/009235/009235_1164x655_120874_005.jpg" ratingKey="iva://api.internetvideoarchive.com/2.0/DataService/VideoAssets(120874)?lang=en&amp;bitrates=80,212,450,750,1500,2500,5000,8000&amp;duration=17&amp;adaptive=1&amp;dts=0">
+    <Media container="mp4" height="1080" width="1920" audioCodec="aac" duration="17000" videoCodec="h264" bitrate="2500">
+      <Part duration="17000" key="/services/iva/assets/120874/video.mp4?bitrate=2500" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="1080" width="1920" codec="h264" bitrate="2500" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+    <Media container="mp4" height="720" width="1280" audioCodec="aac" duration="17000" videoCodec="h264" bitrate="1500">
+      <Part duration="17000" key="/services/iva/assets/120874/video.mp4?bitrate=1500" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="720" width="1280" codec="h264" bitrate="1500" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+    <Media container="mp4" height="480" width="640" audioCodec="aac" duration="17000" videoCodec="h264" bitrate="450">
+      <Part duration="17000" key="/services/iva/assets/120874/video.mp4?bitrate=450" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="480" width="640" codec="h264" bitrate="450" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+  </Video>
+  <Video url="iva://api.internetvideoarchive.com/2.0/DataService/VideoAssets(518082)?lang=en&amp;bitrates=80,212,450,750,1500,2500,5000,8000&amp;duration=43&amp;adaptive=1&amp;dts=0" key="/system/services/url/lookup?url=iva%3A%2F%2Fapi.internetvideoarchive.com%2F2.0%2FDataService%2FVideoAssets%28518082%29%3Flang%3Den%26bitrates%3D80%2C212%2C450%2C750%2C1500%2C2500%2C5000%2C8000%26duration%3D43%26adaptive%3D1%26dts%3D0" type="clip" relationType="behindTheScenes" year="2014" title="Dracula Untold: Charles Dance On The Original Take On The Script" originallyAvailableAt="2014-09-30" thumb="https://iva-images.plex.tv/content/hdphotos/9235/009235/009235_1109x624_518082_004.jpg" ratingKey="iva://api.internetvideoarchive.com/2.0/DataService/VideoAssets(518082)?lang=en&amp;bitrates=80,212,450,750,1500,2500,5000,8000&amp;duration=43&amp;adaptive=1&amp;dts=0">
+    <Media container="mp4" height="1080" width="1920" audioCodec="aac" duration="43000" videoCodec="h264" bitrate="2500">
+      <Part duration="43000" key="/services/iva/assets/518082/video.mp4?bitrate=2500" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="1080" width="1920" codec="h264" bitrate="2500" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+    <Media container="mp4" height="720" width="1280" audioCodec="aac" duration="43000" videoCodec="h264" bitrate="1500">
+      <Part duration="43000" key="/services/iva/assets/518082/video.mp4?bitrate=1500" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="720" width="1280" codec="h264" bitrate="1500" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+    <Media container="mp4" height="480" width="640" audioCodec="aac" duration="43000" videoCodec="h264" bitrate="450">
+      <Part duration="43000" key="/services/iva/assets/518082/video.mp4?bitrate=450" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="480" width="640" codec="h264" bitrate="450" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+  </Video>
+  <Video url="iva://api.internetvideoarchive.com/2.0/DataService/VideoAssets(907146)?lang=en&amp;bitrates=80,212,450,750,1500,2500,5000,8000&amp;duration=14&amp;adaptive=1&amp;dts=0" key="/system/services/url/lookup?url=iva%3A%2F%2Fapi.internetvideoarchive.com%2F2.0%2FDataService%2FVideoAssets%28907146%29%3Flang%3Den%26bitrates%3D80%2C212%2C450%2C750%2C1500%2C2500%2C5000%2C8000%26duration%3D14%26adaptive%3D1%26dts%3D0" type="clip" relationType="behindTheScenes" year="2014" title="Dracula Untold: Art Parkinson On His Character" originallyAvailableAt="2014-09-30" thumb="https://iva-images.plex.tv/content/hdphotos/9235/009235/009235_1092x614_907146_005.jpg" ratingKey="iva://api.internetvideoarchive.com/2.0/DataService/VideoAssets(907146)?lang=en&amp;bitrates=80,212,450,750,1500,2500,5000,8000&amp;duration=14&amp;adaptive=1&amp;dts=0">
+    <Media container="mp4" height="1080" width="1920" audioCodec="aac" duration="14000" videoCodec="h264" bitrate="2500">
+      <Part duration="14000" key="/services/iva/assets/907146/video.mp4?bitrate=2500" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="1080" width="1920" codec="h264" bitrate="2500" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+    <Media container="mp4" height="720" width="1280" audioCodec="aac" duration="14000" videoCodec="h264" bitrate="1500">
+      <Part duration="14000" key="/services/iva/assets/907146/video.mp4?bitrate=1500" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="720" width="1280" codec="h264" bitrate="1500" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+    <Media container="mp4" height="480" width="640" audioCodec="aac" duration="14000" videoCodec="h264" bitrate="450">
+      <Part duration="14000" key="/services/iva/assets/907146/video.mp4?bitrate=450" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="480" width="640" codec="h264" bitrate="450" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+  </Video>
+  <Video url="iva://api.internetvideoarchive.com/2.0/DataService/VideoAssets(933643)?lang=en&amp;bitrates=80,212,450,750,1500,2500,5000,8000&amp;duration=18&amp;adaptive=1&amp;dts=0" key="/system/services/url/lookup?url=iva%3A%2F%2Fapi.internetvideoarchive.com%2F2.0%2FDataService%2FVideoAssets%28933643%29%3Flang%3Den%26bitrates%3D80%2C212%2C450%2C750%2C1500%2C2500%2C5000%2C8000%26duration%3D18%26adaptive%3D1%26dts%3D0" type="clip" relationType="behindTheScenes" year="2014" title="Dracula Untold: Dominic Cooper On What The Movie Is About" originallyAvailableAt="2014-09-30" thumb="https://iva-images.plex.tv/content/hdphotos/9235/009235/009235_1008x567_933643_002.jpg" ratingKey="iva://api.internetvideoarchive.com/2.0/DataService/VideoAssets(933643)?lang=en&amp;bitrates=80,212,450,750,1500,2500,5000,8000&amp;duration=18&amp;adaptive=1&amp;dts=0">
+    <Media container="mp4" height="1080" width="1920" audioCodec="aac" duration="18000" videoCodec="h264" bitrate="2500">
+      <Part duration="18000" key="/services/iva/assets/933643/video.mp4?bitrate=2500" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="1080" width="1920" codec="h264" bitrate="2500" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+    <Media container="mp4" height="720" width="1280" audioCodec="aac" duration="18000" videoCodec="h264" bitrate="1500">
+      <Part duration="18000" key="/services/iva/assets/933643/video.mp4?bitrate=1500" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="720" width="1280" codec="h264" bitrate="1500" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+    <Media container="mp4" height="480" width="640" audioCodec="aac" duration="18000" videoCodec="h264" bitrate="450">
+      <Part duration="18000" key="/services/iva/assets/933643/video.mp4?bitrate=450" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="480" width="640" codec="h264" bitrate="450" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+  </Video>
+  <Video url="iva://api.internetvideoarchive.com/2.0/DataService/VideoAssets(615983)?lang=en&amp;bitrates=80,212,450,750,1500,2500,5000,8000&amp;duration=26&amp;adaptive=1&amp;dts=0" key="/system/services/url/lookup?url=iva%3A%2F%2Fapi.internetvideoarchive.com%2F2.0%2FDataService%2FVideoAssets%28615983%29%3Flang%3Den%26bitrates%3D80%2C212%2C450%2C750%2C1500%2C2500%2C5000%2C8000%26duration%3D26%26adaptive%3D1%26dts%3D0" type="clip" relationType="behindTheScenes" year="2014" title="Dracula Untold: Sarah Gadon On Dracula Untold As A Fantasy" originallyAvailableAt="2014-09-30" thumb="https://iva-images.plex.tv/content/hdphotos/9235/009235/009235_1040x585_615983_009.jpg" ratingKey="iva://api.internetvideoarchive.com/2.0/DataService/VideoAssets(615983)?lang=en&amp;bitrates=80,212,450,750,1500,2500,5000,8000&amp;duration=26&amp;adaptive=1&amp;dts=0">
+    <Media container="mp4" height="1080" width="1920" audioCodec="aac" duration="26000" videoCodec="h264" bitrate="2500">
+      <Part duration="26000" key="/services/iva/assets/615983/video.mp4?bitrate=2500" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="1080" width="1920" codec="h264" bitrate="2500" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+    <Media container="mp4" height="720" width="1280" audioCodec="aac" duration="26000" videoCodec="h264" bitrate="1500">
+      <Part duration="26000" key="/services/iva/assets/615983/video.mp4?bitrate=1500" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="720" width="1280" codec="h264" bitrate="1500" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+    <Media container="mp4" height="480" width="640" audioCodec="aac" duration="26000" videoCodec="h264" bitrate="450">
+      <Part duration="26000" key="/services/iva/assets/615983/video.mp4?bitrate=450" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="480" width="640" codec="h264" bitrate="450" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+  </Video>
+  <Video url="iva://api.internetvideoarchive.com/2.0/DataService/VideoAssets(77463)?lang=en&amp;bitrates=80,212,450,750,1500,2500,5000,8000&amp;duration=40&amp;adaptive=1&amp;dts=0" key="/system/services/url/lookup?url=iva%3A%2F%2Fapi.internetvideoarchive.com%2F2.0%2FDataService%2FVideoAssets%2877463%29%3Flang%3Den%26bitrates%3D80%2C212%2C450%2C750%2C1500%2C2500%2C5000%2C8000%26duration%3D40%26adaptive%3D1%26dts%3D0" type="clip" relationType="behindTheScenes" year="2014" title="Dracula Untold: Luke Evans On His Character" originallyAvailableAt="2014-09-30" thumb="https://iva-images.plex.tv/content/hdphotos/9235/009235/009235_898x505_77463_012.jpg" ratingKey="iva://api.internetvideoarchive.com/2.0/DataService/VideoAssets(77463)?lang=en&amp;bitrates=80,212,450,750,1500,2500,5000,8000&amp;duration=40&amp;adaptive=1&amp;dts=0">
+    <Media container="mp4" height="1080" width="1920" audioCodec="aac" duration="40000" videoCodec="h264" bitrate="2500">
+      <Part duration="40000" key="/services/iva/assets/77463/video.mp4?bitrate=2500" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="1080" width="1920" codec="h264" bitrate="2500" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+    <Media container="mp4" height="720" width="1280" audioCodec="aac" duration="40000" videoCodec="h264" bitrate="1500">
+      <Part duration="40000" key="/services/iva/assets/77463/video.mp4?bitrate=1500" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="720" width="1280" codec="h264" bitrate="1500" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+    <Media container="mp4" height="480" width="640" audioCodec="aac" duration="40000" videoCodec="h264" bitrate="450">
+      <Part duration="40000" key="/services/iva/assets/77463/video.mp4?bitrate=450" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="480" width="640" codec="h264" bitrate="450" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+  </Video>
+  <Video url="iva://api.internetvideoarchive.com/2.0/DataService/VideoAssets(613517)?lang=en&amp;bitrates=80,212,450,750,1500,2500,5000,8000&amp;duration=99&amp;adaptive=1&amp;dts=0" key="/system/services/url/lookup?url=iva%3A%2F%2Fapi.internetvideoarchive.com%2F2.0%2FDataService%2FVideoAssets%28613517%29%3Flang%3Den%26bitrates%3D80%2C212%2C450%2C750%2C1500%2C2500%2C5000%2C8000%26duration%3D99%26adaptive%3D1%26dts%3D0" type="clip" relationType="behindTheScenes" year="2014" title="Dracula Untold: Meet The Real Vlad (Featurette)" originallyAvailableAt="2014-09-26" thumb="https://iva-images.plex.tv/content/hdphotos/9230/009230/009230_917x516_613517_002.jpg" ratingKey="iva://api.internetvideoarchive.com/2.0/DataService/VideoAssets(613517)?lang=en&amp;bitrates=80,212,450,750,1500,2500,5000,8000&amp;duration=99&amp;adaptive=1&amp;dts=0">
+    <Media container="mp4" height="1080" width="1920" audioCodec="aac" duration="99000" videoCodec="h264" bitrate="2500">
+      <Part duration="99000" key="/services/iva/assets/613517/video.mp4?bitrate=2500" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="1080" width="1920" codec="h264" bitrate="2500" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+    <Media container="mp4" height="720" width="1280" audioCodec="aac" duration="99000" videoCodec="h264" bitrate="1500">
+      <Part duration="99000" key="/services/iva/assets/613517/video.mp4?bitrate=1500" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="720" width="1280" codec="h264" bitrate="1500" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+    <Media container="mp4" height="480" width="640" audioCodec="aac" duration="99000" videoCodec="h264" bitrate="450">
+      <Part duration="99000" key="/services/iva/assets/613517/video.mp4?bitrate=450" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="480" width="640" codec="h264" bitrate="450" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+  </Video>
+  <Video url="iva://api.internetvideoarchive.com/2.0/DataService/VideoAssets(160076)?lang=en&amp;bitrates=80,212,450,750,1500,2500,5000,8000&amp;duration=132&amp;adaptive=1&amp;dts=0" key="/system/services/url/lookup?url=iva%3A%2F%2Fapi.internetvideoarchive.com%2F2.0%2FDataService%2FVideoAssets%28160076%29%3Flang%3Den%26bitrates%3D80%2C212%2C450%2C750%2C1500%2C2500%2C5000%2C8000%26duration%3D132%26adaptive%3D1%26dts%3D0" type="clip" relationType="behindTheScenes" year="2014" title="Dracula Untold: A Look Inside (Featurette)" originallyAvailableAt="2014-09-26" thumb="https://iva-images.plex.tv/content/hdphotos/9231/009231/009231_1004x565_160076_028.jpg" ratingKey="iva://api.internetvideoarchive.com/2.0/DataService/VideoAssets(160076)?lang=en&amp;bitrates=80,212,450,750,1500,2500,5000,8000&amp;duration=132&amp;adaptive=1&amp;dts=0">
+    <Media container="mp4" height="1080" width="1920" audioCodec="aac" duration="132000" videoCodec="h264" bitrate="2500">
+      <Part duration="132000" key="/services/iva/assets/160076/video.mp4?bitrate=2500" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="1080" width="1920" codec="h264" bitrate="2500" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+    <Media container="mp4" height="720" width="1280" audioCodec="aac" duration="132000" videoCodec="h264" bitrate="1500">
+      <Part duration="132000" key="/services/iva/assets/160076/video.mp4?bitrate=1500" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="720" width="1280" codec="h264" bitrate="1500" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+    <Media container="mp4" height="480" width="640" audioCodec="aac" duration="132000" videoCodec="h264" bitrate="450">
+      <Part duration="132000" key="/services/iva/assets/160076/video.mp4?bitrate=450" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="480" width="640" codec="h264" bitrate="450" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+  </Video>
+</MediaContainer>

@@ -1,0 +1,381 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Movie>
+  <art>
+    <item external="True" url="http://image.tmdb.org/t/p/original/es0F3mEGmSRcfM7pxmrxWowGGIh.jpg" sort_order="1" provider="com.plexapp.agents.imdb" media="com.plexapp.agents.imdb_263ac27baa99daead6520961e585a45465cb3450"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/1LMaq8tJD7CFb69eB9jIIR5A9M4.jpg" preview="com.plexapp.agents.imdb_1270851d955ee463997c9e886f285be17d844fab" sort_order="2" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/gjZEsGSWDJLaAGz3o3ttfA0YOIJ.jpg" preview="com.plexapp.agents.imdb_bfc2d0f6dcca731fb363095ca4372dbb5a039ea0" sort_order="3" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/2zh06EWekQWzlxa4jpFKRuXEtgf.jpg" preview="com.plexapp.agents.imdb_4921f27ac20f1aa252f8af8c20368f25f8b870a3" sort_order="4" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/4icqgdM9dZMCCjDN9rM82trguhl.jpg" preview="com.plexapp.agents.imdb_85a67fb0f0aa7d362359f194581ff0a17c009f90" sort_order="5" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/uFWC5LzkobhSNnutRoWlStSRXKe.jpg" preview="com.plexapp.agents.imdb_c11495d5da07e3bbd4bc1332f16c382dd2c360c6" sort_order="6" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/r6F00F49PAUPoEl3Azs0BJahVSt.jpg" preview="com.plexapp.agents.imdb_c3e244b47d0d0c081576df0edfee5fabba4a0a3e" sort_order="7" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/quisQl7pNQ2058UcPy9wvnQFvom.jpg" preview="com.plexapp.agents.imdb_4bd70e340ec2679f76e5d75ea6a49af481fae2e2" sort_order="8" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/sj9g7aeXianCAbwreTvI4WKSbzQ.jpg" preview="com.plexapp.agents.imdb_eeb6b9d60668e4401f5c15994106e2941f3b5e24" sort_order="9" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/mHXlYLObc8UnxRTaVNllJj5yDgl.jpg" preview="com.plexapp.agents.imdb_4ff01ec3ff374eb64dadd992c2d8a01ddc0f1746" sort_order="10" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/iz6wXTFGEcjQ7htUpkBuABffBTC.jpg" preview="com.plexapp.agents.imdb_20abb5a0a4399833a0138513a5667eaaf291070c" sort_order="11" provider="com.plexapp.agents.imdb"/>
+  </art>
+  <banners/>
+  <chapters>
+    <item index="0">
+      <title>Hobbe's Eighth Notch</title>
+      <end_time_offset>144000</end_time_offset>
+      <start_time_offset>0</start_time_offset>
+    </item>
+    <item index="1">
+      <title>What Goes Around</title>
+      <end_time_offset>308000</end_time_offset>
+      <start_time_offset>144000</start_time_offset>
+    </item>
+    <item index="2">
+      <title>The Show (Credits: Time Is on My Side)</title>
+      <end_time_offset>563000</end_time_offset>
+      <start_time_offset>308000</start_time_offset>
+    </item>
+    <item index="3">
+      <title>Chosen People</title>
+      <end_time_offset>876000</end_time_offset>
+      <start_time_offset>563000</start_time_offset>
+    </item>
+    <item index="4">
+      <title>Two Breakfasts</title>
+      <end_time_offset>1015000</end_time_offset>
+      <start_time_offset>876000</start_time_offset>
+    </item>
+    <item index="5">
+      <title>A Startling Clue</title>
+      <end_time_offset>1193000</end_time_offset>
+      <start_time_offset>1015000</start_time_offset>
+    </item>
+    <item index="6">
+      <title>Cop of the Year</title>
+      <end_time_offset>1384000</end_time_offset>
+      <start_time_offset>1193000</start_time_offset>
+    </item>
+    <item index="7">
+      <title>Mumbo Jumbo?</title>
+      <end_time_offset>1582000</end_time_offset>
+      <start_time_offset>1384000</start_time_offset>
+    </item>
+    <item index="8">
+      <title>Hard to Sustain</title>
+      <end_time_offset>1871000</end_time_offset>
+      <start_time_offset>1582000</start_time_offset>
+    </item>
+    <item index="9">
+      <title>Full Circle for Charles</title>
+      <end_time_offset>2162000</end_time_offset>
+      <start_time_offset>1871000</start_time_offset>
+    </item>
+    <item index="10">
+      <title>Scary Coincidence</title>
+      <end_time_offset>2432000</end_time_offset>
+      <start_time_offset>2162000</start_time_offset>
+    </item>
+    <item index="11">
+      <title>Some Kind of Ringmaster</title>
+      <end_time_offset>2622000</end_time_offset>
+      <start_time_offset>2432000</start_time_offset>
+    </item>
+    <item index="12">
+      <title>A Name Uncovered</title>
+      <end_time_offset>2968000</end_time_offset>
+      <start_time_offset>2622000</start_time_offset>
+    </item>
+    <item index="13">
+      <title>Sense of Another World</title>
+      <end_time_offset>3318000</end_time_offset>
+      <start_time_offset>2968000</start_time_offset>
+    </item>
+    <item index="14">
+      <title>Close to Hobbes</title>
+      <end_time_offset>3729000</end_time_offset>
+      <start_time_offset>3318000</start_time_offset>
+    </item>
+    <item index="15">
+      <title>The Right Person</title>
+      <end_time_offset>4002000</end_time_offset>
+      <start_time_offset>3729000</start_time_offset>
+    </item>
+    <item index="16">
+      <title>Gretta Nearly in Touch</title>
+      <end_time_offset>4230000</end_time_offset>
+      <start_time_offset>4002000</start_time_offset>
+    </item>
+    <item index="17">
+      <title>Framed</title>
+      <end_time_offset>4366000</end_time_offset>
+      <start_time_offset>4230000</start_time_offset>
+    </item>
+    <item index="18">
+      <title>Hobbe's Home Turf</title>
+      <end_time_offset>4624000</end_time_offset>
+      <start_time_offset>4366000</start_time_offset>
+    </item>
+    <item index="19">
+      <title>Still Havin' Fun</title>
+      <end_time_offset>4779000</end_time_offset>
+      <start_time_offset>4624000</start_time_offset>
+    </item>
+    <item index="20">
+      <title>You Are the Killer</title>
+      <end_time_offset>4905000</end_time_offset>
+      <start_time_offset>4779000</start_time_offset>
+    </item>
+    <item index="21">
+      <title>When the Moment Comes</title>
+      <end_time_offset>5238000</end_time_offset>
+      <start_time_offset>4905000</start_time_offset>
+    </item>
+    <item index="22">
+      <title>Sad Discovery</title>
+      <end_time_offset>5595000</end_time_offset>
+      <start_time_offset>5238000</start_time_offset>
+    </item>
+    <item index="23">
+      <title>Fugutives</title>
+      <end_time_offset>5853000</end_time_offset>
+      <start_time_offset>5595000</start_time_offset>
+    </item>
+    <item index="24">
+      <title>Deserving of Heaven</title>
+      <end_time_offset>5977000</end_time_offset>
+      <start_time_offset>5853000</start_time_offset>
+    </item>
+    <item index="25">
+      <title>Ready</title>
+      <end_time_offset>6283000</end_time_offset>
+      <start_time_offset>5977000</start_time_offset>
+    </item>
+    <item index="26">
+      <title>Where Things Get Tricky</title>
+      <end_time_offset>6425000</end_time_offset>
+      <start_time_offset>6283000</start_time_offset>
+    </item>
+    <item index="27">
+      <title>One More Surprise</title>
+      <end_time_offset>6745000</end_time_offset>
+      <start_time_offset>6425000</start_time_offset>
+    </item>
+    <item index="28">
+      <title>Maximum Fun</title>
+      <end_time_offset>6901000</end_time_offset>
+      <start_time_offset>6745000</start_time_offset>
+    </item>
+    <item index="29">
+      <title>Up in Smoke</title>
+      <end_time_offset>7138000</end_time_offset>
+      <start_time_offset>6901000</start_time_offset>
+    </item>
+    <item index="30">
+      <title>The War Isn't Over</title>
+      <end_time_offset>7235000</end_time_offset>
+      <start_time_offset>7138000</start_time_offset>
+    </item>
+    <item index="31">
+      <title>End Credits (Sympathy for the Devil)</title>
+      <end_time_offset>-1</end_time_offset>
+      <start_time_offset>7235000</start_time_offset>
+    </item>
+  </chapters>
+  <collections/>
+  <content_rating>R</content_rating>
+  <countries>
+    <item index="0">USA</item>
+  </countries>
+  <directors>
+    <item index="0">
+      <photo>http://image.tmdb.org/t/p/original/8HyVUTApvgRwz9cl11R7R8TBPqh.jpg</photo>
+      <role/>
+      <name>Gregory Hoblit</name>
+    </item>
+  </directors>
+  <duration>7440000</duration>
+  <genres>
+    <item index="0">Action</item>
+    <item index="1">Crime</item>
+    <item index="2">Drama</item>
+    <item index="3">Fantasy</item>
+    <item index="4">Mystery</item>
+    <item index="5">Thriller</item>
+  </genres>
+  <originally_available_at>1998-01-16</originally_available_at>
+  <posters>
+    <item external="True" url="http://image.tmdb.org/t/p/original/mu1zfQp3pGeM4mtaAouDOslSvkl.jpg" sort_order="1" provider="com.plexapp.agents.imdb" media="com.plexapp.agents.imdb_5387b4ec8175881c31752009a3f78e7b401d17e2"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/v66GrbKcl1babq8BebUff0MI3m4.jpg" preview="com.plexapp.agents.imdb_1096dc0bafe08257490da7b0712a1470ffb9f7b1" sort_order="2" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/jPwcYbB5LAbqGWPXVONeD6KVb0b.jpg" preview="com.plexapp.agents.imdb_84199511a7b4215e9d6d9d51e06f92fde79cc99b" sort_order="3" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/fBXeTomj2hUlXGLbbAHORJxYWZP.jpg" preview="com.plexapp.agents.imdb_5ebf517f02e85fb006dcca397b352d651f8c4a23" sort_order="4" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/4oG4C3zrR4m2mTghHGqrIc68Edy.jpg" preview="com.plexapp.agents.imdb_4497208e8fcf090d33258626d9128484b259f0a2" sort_order="5" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/vQwr4EE9V4GsoUjBEfjyEu7oCyh.jpg" preview="com.plexapp.agents.imdb_f0324afa3a81f00b6378877938f399908ab06e7f" sort_order="6" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/qd5g1vxGiyamlrdm7aLNIA69aqX.jpg" preview="com.plexapp.agents.imdb_81cf8e281bb3eecefcc8dc5db48bed7343c458ea" sort_order="7" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/fzJdIi4xK1sdesMDSBuIsdfMLzD.jpg" preview="com.plexapp.agents.imdb_a10acc456c47bfb4df0e2f0da28bbc93974d0757" sort_order="8" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/wduRtRYnNP8nOVsvxhvmQfI0Fqr.jpg" preview="com.plexapp.agents.imdb_96e61e42d86d8ece30b20973908d5184d9595036" sort_order="9" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/vWcevLm5wlyTz1haokvQUpGXVAy.jpg" preview="com.plexapp.agents.imdb_04eb9e931a4fd4f0db3f2969cefdcd85d99ec605" sort_order="10" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/zDh2O1lBra8yEb3H5zPr53mpIgJ.jpg" preview="com.plexapp.agents.imdb_d8cd1474d99f62e2571966c71c53607b03dd1889" sort_order="11" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/8buSrASkP0bD5miRSpiMYz0rh4t.jpg" preview="com.plexapp.agents.imdb_86069f552c37151b5669a135ce17a569523b355b" sort_order="12" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/udP7MpyXiiatX8pgCdOmpgfvO6W.jpg" preview="com.plexapp.agents.imdb_8676bca0f4f5bd6d3b75fd2e7229ff55b71498ac" sort_order="13" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/3ZDPgxcfGMBCQmmMh0VnLGaXnfN.jpg" preview="com.plexapp.agents.imdb_a63334a928a30c6f648459c23f98877d7ab76918" sort_order="14" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/jrBvAGUcqHIVPbGVIA75I2Dr95n.jpg" preview="com.plexapp.agents.imdb_7648c0a8330d471e3cabffa064011ebc4416dfd7" sort_order="15" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/zA9hAyBWPIBNN6nPNAiDw0l5BHI.jpg" preview="com.plexapp.agents.imdb_4e2354383002e6e6d3f3df09710a22cebc676c9a" sort_order="16" provider="com.plexapp.agents.imdb"/>
+  </posters>
+  <producers>
+    <item index="0">
+      <photo>http://image.tmdb.org/t/p/original/4uJLoVstC1CBcArXFOe53N2fDr1.jpg</photo>
+      <role/>
+      <name>Charles Roven</name>
+    </item>
+    <item index="1">
+      <photo/>
+      <role/>
+      <name>Dawn Steel</name>
+    </item>
+  </producers>
+  <rating>4.0</rating>
+  <rating_image>rottentomatoes://image.rating.rotten</rating_image>
+  <audience_rating>7.2</audience_rating>
+  <audience_rating_image>rottentomatoes://image.rating.upright</audience_rating_image>
+  <reviews>
+    <item index="0">
+      <text>The first half of this movie holds some promise, but time is not on its side.</text>
+      <source>Chicago Reader</source>
+      <image>rottentomatoes://image.review.rotten</image>
+      <link>http://onfilm.chicagoreader.com/movies/capsules/16025_FALLEN</link>
+      <author>Lisa Alspector</author>
+    </item>
+    <item index="1">
+      <text>God (or the Devil) is in the detail: every time a fluid is taken into the body, the fidgety camera zooms in, fascinated, suspicious.</text>
+      <source>Time Out</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>http://www.timeout.com/film/reviews/66370/fallen.html</link>
+      <author/>
+    </item>
+    <item index="2">
+      <text>A crafty piece of work, ending with a pair of marvelous twists.</text>
+      <source>Los Angeles Times</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>http://www.calendarlive.com/movies/reviews/cl-movie980115-8,0,4957568.story</link>
+      <author>Jack Mathews</author>
+    </item>
+    <item index="3">
+      <text>A human trifle that can be safely ignored in this eschatological genre.</text>
+      <source>Globe and Mail</source>
+      <image>rottentomatoes://image.review.rotten</image>
+      <link>http://www.globeandmail.com/servlet/ArticleNews/movie/TVCONNECT/00010101/101105</link>
+      <author>Rick Groen</author>
+    </item>
+    <item index="4">
+      <text>The idea is better than the execution.</text>
+      <source>Chicago Sun-Times</source>
+      <image>rottentomatoes://image.review.rotten</image>
+      <link>http://www.rogerebert.com/reviews/fallen-1998</link>
+      <author>Roger Ebert</author>
+    </item>
+    <item index="5">
+      <text>Despite the negatives, I'm still recommending Fallen on the strength of its complex plot and especially its ending, which I loved.</text>
+      <source>ReelViews</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>http://www.reelviews.net/php_review_template.php?identifier=1951</link>
+      <author>James Berardinelli</author>
+    </item>
+    <item index="6">
+      <text>Fallen is not perfect, and eventually it even becomes frustrating. Threads remain loose, and the movie doesn't fully exploit its premise. Still, it would be churlish not to appreciate the ride.</text>
+      <source>San Francisco Chronicle</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>http://www.sfgate.com/cgi-bin/article.cgi?f=/c/a/1998/01/16/DD47287.DTL</link>
+      <author>Mick LaSalle</author>
+    </item>
+    <item index="7">
+      <text>It takes way too long for Washington to realize this is no ordinary villain, and by the time he does, you'll have a devil of a time caring.</text>
+      <source>USA Today</source>
+      <image>rottentomatoes://image.review.rotten</image>
+      <link>http://usatoday30.usatoday.com/life/enter/movies/lef010.htm</link>
+      <author>Mike Clark</author>
+    </item>
+  </reviews>
+  <roles>
+    <item index="0">
+      <photo>http://image.tmdb.org/t/p/original/semwsON3dN3np6cyzlCw7F2YDGe.jpg</photo>
+      <role>John Hobbes</role>
+      <name>Denzel Washington</name>
+    </item>
+    <item index="1">
+      <photo>http://image.tmdb.org/t/p/original/eOIx8zj1vYIRhVY2bK5cjIQfua0.jpg</photo>
+      <role>Jonesy</role>
+      <name>John Goodman</name>
+    </item>
+    <item index="2">
+      <photo>http://image.tmdb.org/t/p/original/luKIiU3wAAZ5C6j2053g35cRhzE.jpg</photo>
+      <role>Lt. Stanton</role>
+      <name>Donald Sutherland</name>
+    </item>
+    <item index="3">
+      <photo>http://image.tmdb.org/t/p/original/gmc4nZtGc6bge9DnriR57VYq0dA.jpg</photo>
+      <role>Gretta Milano</role>
+      <name>Embeth Davidtz</name>
+    </item>
+    <item index="4">
+      <photo>http://image.tmdb.org/t/p/original/19r3knxqTAPUgfItOPXg3ouOcpI.jpg</photo>
+      <role>Lou</role>
+      <name>James Gandolfini</name>
+    </item>
+    <item index="5">
+      <photo>http://image.tmdb.org/t/p/original/11pXICpcdGJxGG8H8g1Bk3qc66V.jpg</photo>
+      <role>Edgar Reese</role>
+      <name>Elias Koteas</name>
+    </item>
+    <item index="6">
+      <photo>http://image.tmdb.org/t/p/original/hq47yaZk40VSv0rbdtrrj5J5zzL.jpg</photo>
+      <role>Art</role>
+      <name>Gabriel Casseus</name>
+    </item>
+    <item index="7">
+      <photo>http://image.tmdb.org/t/p/original/ahRXzDcYUSwunOppktmfrU7XC8w.jpg</photo>
+      <role>Sam</role>
+      <name>Michael J. Pagan</name>
+    </item>
+    <item index="8">
+      <photo>http://image.tmdb.org/t/p/original/xh5eb9p379k9w3NOGRjEyAw2yrP.jpg</photo>
+      <role>Charles</role>
+      <name>Robert Joy</name>
+    </item>
+    <item index="9">
+      <photo>http://image.tmdb.org/t/p/original/rMd8vzLUCOGnp3d1mDF1GJJnjvy.jpg</photo>
+      <role>Charles' Killer</role>
+      <name>Frank Medrano</name>
+    </item>
+  </roles>
+  <similar>
+    <item index="0">Virtuosity</item>
+    <item index="1">The Mothman Prophecies</item>
+    <item index="2">The Siege</item>
+    <item index="3">End of Days</item>
+    <item index="4">Arlington Road</item>
+    <item index="5">Stir of Echoes</item>
+    <item index="6">Courage Under Fire</item>
+    <item index="7">Frailty</item>
+    <item index="8">Ransom</item>
+    <item index="9">The Manchurian Candidate</item>
+    <item index="10">The Pelican Brief</item>
+    <item index="11">Mimic</item>
+    <item index="12">Conspiracy Theory</item>
+    <item index="13">Out of Time</item>
+    <item index="14">8MM</item>
+    <item index="15">Hard Rain</item>
+    <item index="16">The Cell</item>
+    <item index="17">Crimson Tide</item>
+    <item index="18">Stigmata</item>
+    <item index="19">The Gift</item>
+  </similar>
+  <studio>Atlas Entertainment</studio>
+  <summary>Homicide detective John Hobbes witnesses the execution of serial killer Edgar Reese. Soon after the execution the killings start again, and they are very similar to Reese's style.</summary>
+  <tagline>Detective John Hobbes is searching for a criminal he's already met... already caught... and already killed</tagline>
+  <tags/>
+  <themes/>
+  <title>Fallen</title>
+  <writers>
+    <item index="0">
+      <photo/>
+      <role/>
+      <name>Nicholas Kazan</name>
+    </item>
+  </writers>
+  <year>1998</year>
+</Movie>

@@ -1,0 +1,480 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Movie>
+  <art>
+    <item external="True" url="http://image.tmdb.org/t/p/original/lFiEdW3zVjR2Wujxu3yZLpL2N8n.jpg" sort_order="1" provider="com.plexapp.agents.imdb" media="com.plexapp.agents.imdb_f8b4ca069acd676c085aa6ef91612bb4e603ee57"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/yNAVWjyjw10ZdQoqGM3NhDUywmy.jpg" preview="com.plexapp.agents.imdb_a992f7a90872a0575d324b559382417037e4351f" sort_order="2" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/vYiV6zp8sZISXn7v013edDr7vta.jpg" preview="com.plexapp.agents.imdb_744a66614967da6fa234d79d51ceb9d5c5525a79" sort_order="3" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/A1yBgil3VTExaqo5d8KqO4n11Xl.jpg" preview="com.plexapp.agents.imdb_88876cb5f239fc0f300511afc445f468d20b822a" sort_order="4" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/ipGE7ClyH09Thz2ITzU8hCoByrj.jpg" preview="com.plexapp.agents.imdb_4b39e62ea7934cd9d9709a6fb570fe551cf73b1c" sort_order="5" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/4Lvxs0afZiTjMfwa05QWoJaw5Sx.jpg" preview="com.plexapp.agents.imdb_ab0deb7dafa3824f4e7201b0be5b30dabdd26c91" sort_order="6" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/xblDVQTfiJvETRZVUfaqdLCEOWy.jpg" preview="com.plexapp.agents.imdb_e187d31f3cdb7ccd4a3f32774868a61a56466d73" sort_order="7" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/5eLdGwWPewoYJELOCB9ly9IJsZe.jpg" preview="com.plexapp.agents.imdb_39aab2e11e2a8015dad49054a5c069ffae71a732" sort_order="8" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/u20xQLRR0sSfYx5NVfvlLwkPeGi.jpg" preview="com.plexapp.agents.imdb_4d27acd459ae3c3566fe309ae16bd0a68b9bed84" sort_order="9" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/6g2a3Y6qfS5ovH7H1lgelKF92O7.jpg" preview="com.plexapp.agents.imdb_66fbc427df20c2a8a5c0050b58ad728f27d55794" sort_order="10" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/8QZTa0wj0unSSP62D6AItfuCnMs.jpg" preview="com.plexapp.agents.imdb_d3e712867e76fd9701f61d188d5038941201a03b" sort_order="11" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/4naLlEHAp98P3t5DuDwo96pRDm5.jpg" preview="com.plexapp.agents.imdb_0adfb53cf27463299c596716636c9c7df4c949d1" sort_order="12" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/8OLZXveZvk7vOKToGWuD7xfjQFS.jpg" preview="com.plexapp.agents.imdb_7ce15efcd03fa158302690c4868f6e0128d884f7" sort_order="13" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/8IUS8Ngq9SAfiVKhm4g4x4OYDLV.jpg" preview="com.plexapp.agents.imdb_133069b99d3e6a2f9de9d1d8a6308fb2e5fe7dfc" sort_order="14" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/sin5oZO8ot76h8D4ezExNVqhzLg.jpg" preview="com.plexapp.agents.imdb_3affae4668c9572de82e05a8fbe641d2188c1db2" sort_order="15" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/cidV8xFxkRBEkX2SIq3mYZP9Jbw.jpg" preview="com.plexapp.agents.imdb_e4bc530f6f0c5c115b79828113ee3be53af62cd9" sort_order="16" provider="com.plexapp.agents.imdb"/>
+  </art>
+  <banners/>
+  <chapters>
+    <item index="0">
+      <title>1. Main Titles</title>
+      <end_time_offset>153000</end_time_offset>
+      <start_time_offset>0</start_time_offset>
+    </item>
+    <item index="1">
+      <title>2. An English Vacation</title>
+      <end_time_offset>379000</end_time_offset>
+      <start_time_offset>153000</start_time_offset>
+    </item>
+    <item index="2">
+      <title>3. The Slaughtered Lamb</title>
+      <end_time_offset>832000</end_time_offset>
+      <start_time_offset>379000</start_time_offset>
+    </item>
+    <item index="3">
+      <title>4. Stick to the Road</title>
+      <end_time_offset>1044000</end_time_offset>
+      <start_time_offset>832000</start_time_offset>
+    </item>
+    <item index="4">
+      <title>5. The Hospital</title>
+      <end_time_offset>1714000</end_time_offset>
+      <start_time_offset>1044000</start_time_offset>
+    </item>
+    <item index="5">
+      <title>6. Bad Dreams</title>
+      <end_time_offset>1981000</end_time_offset>
+      <start_time_offset>1714000</start_time_offset>
+    </item>
+    <item index="6">
+      <title>7. Jack's Back</title>
+      <end_time_offset>2260000</end_time_offset>
+      <start_time_offset>1981000</start_time_offset>
+    </item>
+    <item index="7">
+      <title>8. Alex's New Roommate</title>
+      <end_time_offset>2576000</end_time_offset>
+      <start_time_offset>2260000</start_time_offset>
+    </item>
+    <item index="8">
+      <title>9. Another Warning</title>
+      <end_time_offset>2858000</end_time_offset>
+      <start_time_offset>2576000</start_time_offset>
+    </item>
+    <item index="9">
+      <title>10. Dr. Hirsch Investigates</title>
+      <end_time_offset>3212000</end_time_offset>
+      <start_time_offset>2858000</start_time_offset>
+    </item>
+    <item index="10">
+      <title>11. Home Alone</title>
+      <end_time_offset>3496000</end_time_offset>
+      <start_time_offset>3212000</start_time_offset>
+    </item>
+    <item index="11">
+      <title>12. Metamorphosis</title>
+      <end_time_offset>3682000</end_time_offset>
+      <start_time_offset>3496000</start_time_offset>
+    </item>
+    <item index="12">
+      <title>13. The First Victims</title>
+      <end_time_offset>3931000</end_time_offset>
+      <start_time_offset>3682000</start_time_offset>
+    </item>
+    <item index="13">
+      <title>14. A Killer in London</title>
+      <end_time_offset>4155000</end_time_offset>
+      <start_time_offset>3931000</start_time_offset>
+    </item>
+    <item index="14">
+      <title>15. The Naked American</title>
+      <end_time_offset>4518000</end_time_offset>
+      <start_time_offset>4155000</start_time_offset>
+    </item>
+    <item index="15">
+      <title>16. I'm a Werewolf!</title>
+      <end_time_offset>4902000</end_time_offset>
+      <start_time_offset>4518000</start_time_offset>
+    </item>
+    <item index="16">
+      <title>17. See You Next Wednesday</title>
+      <end_time_offset>5189000</end_time_offset>
+      <start_time_offset>4902000</start_time_offset>
+    </item>
+    <item index="17">
+      <title>18. Piccadilly Circus</title>
+      <end_time_offset>5516000</end_time_offset>
+      <start_time_offset>5189000</start_time_offset>
+    </item>
+    <item index="18">
+      <title>19. Cul de Sac</title>
+      <end_time_offset>5622000</end_time_offset>
+      <start_time_offset>5516000</start_time_offset>
+    </item>
+    <item index="19">
+      <title>20. End Titles</title>
+      <end_time_offset>-1</end_time_offset>
+      <start_time_offset>5622000</start_time_offset>
+    </item>
+  </chapters>
+  <collections/>
+  <content_rating>R</content_rating>
+  <countries>
+    <item index="0">United Kingdom</item>
+  </countries>
+  <directors>
+    <item index="0">
+      <photo>http://image.tmdb.org/t/p/original/4MVt3MDXZzW2TsiQNvZCGv1ivRx.jpg</photo>
+      <role/>
+      <name>John Landis</name>
+    </item>
+  </directors>
+  <duration>5820000</duration>
+  <genres>
+    <item index="0">Comedy</item>
+    <item index="1">Horror</item>
+  </genres>
+  <originally_available_at>1981-08-21</originally_available_at>
+  <posters>
+    <item external="True" url="http://image.tmdb.org/t/p/original/lDClXHP08BUP4D4iRqix0XxLEZF.jpg" sort_order="1" provider="com.plexapp.agents.imdb" media="com.plexapp.agents.imdb_02268d0291f786cf21d3fee85981768c76856a87"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/abu6zkZqsT57AkEv7l5WGgrmUAm.jpg" preview="com.plexapp.agents.imdb_ab4eb966f0b74ca82629682ae250f6e81a4e4aed" sort_order="2" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/5LhU4gI8ltKYpLtI9X2DVFtwBrN.jpg" preview="com.plexapp.agents.imdb_3955777629925a87827fcd45b52c40233a5ad89a" sort_order="3" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/vqjkz0EHA1PiPWK4OLjXGT74H8D.jpg" preview="com.plexapp.agents.imdb_a091a32763218089f33d20a2963ad8fb3ba305ca" sort_order="4" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/r5CbVhy3vO6SqdOTwinZVtaRbhb.jpg" preview="com.plexapp.agents.imdb_8cdde1de73cd7767f22fb51c47fa3ce0e8213653" sort_order="5" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/jFoOiPVPuJrjqyQlaPIogHBPfFn.jpg" preview="com.plexapp.agents.imdb_94157293f9447ef6e9af061fda47875f9b73883d" sort_order="6" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/reUH3bcutHkETlkBkgewNGs7wox.jpg" preview="com.plexapp.agents.imdb_3bfed2350a741554635f118cc4d419ca4fb02561" sort_order="7" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/iJppgltxM80TfwLEXoJnTGz9rpY.jpg" preview="com.plexapp.agents.imdb_4aa74f349b96874597d9baed928c2d404671a573" sort_order="8" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/n12wh6yx4cVjryy2tPvwZynxVT0.jpg" preview="com.plexapp.agents.imdb_a3e0932abbe7bcc17cbc35f3a318d9cb34dded8a" sort_order="9" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/u7RBWUrGtP7j1vuTBvV41tffxtY.jpg" preview="com.plexapp.agents.imdb_86623c0290005960a55ec9d670bd2e76ef769200" sort_order="10" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/kIEKSlUNEoU1lVFHqjaxqNRppym.jpg" preview="com.plexapp.agents.imdb_ff08894fb22191c837bea533929d4c49e8878e4b" sort_order="11" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/617VEBNaSX3aUIZDAPU5rri4BCD.jpg" preview="com.plexapp.agents.imdb_9bfd8613ac0073e26c07778a0899ac3c4c3e8017" sort_order="12" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/32HBkISZEVlhM8dFdnWeRqQnSmp.jpg" preview="com.plexapp.agents.imdb_80bca02a9aad77517a519fefbe95b7928cba3ce8" sort_order="13" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/oY4kne5JwzilAiLY9fTGvDSptvz.jpg" preview="com.plexapp.agents.imdb_b9c4c0021fe1a3d2d5f1bfd84f48ed67e596de7d" sort_order="14" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/sM0TRBxrxY6N3X8h4hzXyCiZRNW.jpg" preview="com.plexapp.agents.imdb_d8bd3a0d596b74c00620301f7d4feee81c182001" sort_order="15" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/cgFbEzxijITpGyHyy8BFmvhepyh.jpg" preview="com.plexapp.agents.imdb_7b2183f89cc02428b1a77eae288de19fe5e09aa7" sort_order="16" provider="com.plexapp.agents.imdb"/>
+  </posters>
+  <producers>
+    <item index="0">
+      <photo/>
+      <role/>
+      <name>George Folsey Jr.</name>
+    </item>
+  </producers>
+  <rating>8.8</rating>
+  <rating_image>rottentomatoes://image.rating.ripe</rating_image>
+  <audience_rating>8.5</audience_rating>
+  <audience_rating_image>rottentomatoes://image.rating.upright</audience_rating_image>
+  <reviews>
+    <item index="0">
+      <text>I suspect Landis hoped to keep moviegoers eerily disarmed with an unpredictable mixture of wacky and terrifying touches. Unfortunately, his own touch... is so slack and uncertain that the movie ends up dramatically shapeless.</text>
+      <source>Washington Post</source>
+      <image>rottentomatoes://image.review.rotten</image>
+      <link>https://www.washingtonpost.com/archive/lifestyle/1981/08/21/in-the-ghoul-of-the-evening/a3b2e34f-200c-4db9-9d57-4906302e2122/?utm_term=.5d0b28689413</link>
+      <author>Gary Arnold</author>
+    </item>
+    <item index="1">
+      <text>Not just gory but actually frightening, not just funny but clever, 'American Werewolf...' has its flaws, but these are outweighed by the film's many, mighty strengths.</text>
+      <source>Time Out</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>http://www.timeout.com/film/reviews/87973/an-american-werewolf-in-london-re-release.html</link>
+      <author>Tom Huddleston</author>
+    </item>
+    <item index="2">
+      <text>A clever mixture of comedy and horror which succeeds in being both funny and scary, An American Werewolf in London possesses an overriding eagerness to please that prevents it from becoming off-putting.</text>
+      <source>Variety</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>http://www.variety.com/review/VE1117796751.html?categoryid=31&amp;cs=1</link>
+      <author>Variety Staff</author>
+    </item>
+    <item index="3">
+      <text>It's a failure, less because the odd stylistic mix doesn't take (it does from time to time, and to striking effect) than because Landis hasn't bothered to put his story into any kind of satisfying shape.</text>
+      <source>Chicago Reader</source>
+      <image>rottentomatoes://image.review.rotten</image>
+      <link>http://www.chicagoreader.com/chicago/an-american-werewolf-in-london/Film?oid=2587532</link>
+      <author>Dave Kehr</author>
+    </item>
+    <item index="4">
+      <text>Seems curiously unfinished, as if director John Landis spent all his energy on spectacular set pieces and then didn't want to bother with things like transitions, character development, or an ending.</text>
+      <source>Chicago Sun-Times</source>
+      <image>rottentomatoes://image.review.rotten</image>
+      <link>http://www.rogerebert.com/reviews/an-american-werewolf-in-london</link>
+      <author>Roger Ebert</author>
+    </item>
+    <item index="5">
+      <text>When the movie backfires, which it finally does, it's because too much grisly footage has been used too lightly.</text>
+      <source>New York Times</source>
+      <image>rottentomatoes://image.review.rotten</image>
+      <link>http://www.nytimes.com/1981/08/21/movies/american-werewolf-horror-plus-laughs.html?module=Search&amp;mabReward=relbias%3As</link>
+      <author>Janet Maslin</author>
+    </item>
+    <item index="6">
+      <text>Considering its often campy competition, it's hard to argue that, if your in the mood for lycanthropy, London is the place to go.</text>
+      <source>ReelViews</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>http://www.reelviews.net/php_review_template.php?identifier=2015</link>
+      <author>James Berardinelli</author>
+    </item>
+  </reviews>
+  <roles>
+    <item index="0">
+      <photo>http://image.tmdb.org/t/p/original/ehDE47qkUux5a18Mi7zqReBj79b.jpg</photo>
+      <role>David Kessler</role>
+      <name>David Naughton</name>
+    </item>
+    <item index="1">
+      <photo>http://image.tmdb.org/t/p/original/2AwYEHV0cXXo3vtjiuwHMEkqh6R.jpg</photo>
+      <role>Nurse Alex Price</role>
+      <name>Jenny Agutter</name>
+    </item>
+    <item index="2">
+      <photo>http://image.tmdb.org/t/p/original/4oCLupH3Uo2otzF77LrYE4s1iqw.jpg</photo>
+      <role>Jack Goodman</role>
+      <name>Griffin Dunne</name>
+    </item>
+    <item index="3">
+      <photo>http://image.tmdb.org/t/p/original/9re40l4z8VnSNtCjncUbALSBvXE.jpg</photo>
+      <role>Dr. J. S. Hirsch</role>
+      <name>John Woodvine</name>
+    </item>
+    <item index="4">
+      <photo>http://image.tmdb.org/t/p/original/ihayB90I34ZunTvD4Rq7GQ9o3sc.jpg</photo>
+      <role>Barmaid</role>
+      <name>Lila Kaye</name>
+    </item>
+    <item index="5">
+      <photo>http://image.tmdb.org/t/p/original/6Gb8QFFFElCH4wEFNk2Yl8YEFVh.jpg</photo>
+      <role>Truck Driver</role>
+      <name>Joe Belcher</name>
+    </item>
+    <item index="6">
+      <photo>http://image.tmdb.org/t/p/original/fN64rPih5p4OdbrpX22QURjRUg7.jpg</photo>
+      <role>Dart Player</role>
+      <name>David Schofield</name>
+    </item>
+    <item index="7">
+      <photo>http://image.tmdb.org/t/p/original/952vEtKbEm6jwh0hisWlebj7vi7.jpg</photo>
+      <role>2nd Dart Player</role>
+      <name>Sean Baker</name>
+    </item>
+    <item index="8">
+      <photo>http://image.tmdb.org/t/p/original/w9pZoousAMR2CylpxRSmJ0Cw78Z.jpg</photo>
+      <role>Chess Player</role>
+      <name>Brian Glover</name>
+    </item>
+    <item index="9">
+      <photo>http://image.tmdb.org/t/p/original/5BCMVvEAyBSl0AMLJfc3xZqvAxB.jpg</photo>
+      <role>2nd Chess Player</role>
+      <name>Rik Mayall</name>
+    </item>
+    <item index="10">
+      <photo>http://image.tmdb.org/t/p/original/jLEGGYuke5RsZd9hZp2z3pVTgxM.jpg</photo>
+      <role>First Werewolf</role>
+      <name>Paddy Ryan</name>
+    </item>
+    <item index="11">
+      <photo>http://image.tmdb.org/t/p/original/4ye4zYYgJuMPHwnOaMoQZZ1MQd2.jpg</photo>
+      <role>Nurse Susan Gallagher</role>
+      <name>Anne-Marie Davies</name>
+    </item>
+    <item index="12">
+      <photo>http://image.tmdb.org/t/p/original/aLH5bYwMIlVxCe4rIDaEsVJqDKn.jpg</photo>
+      <role>Mr. Collins / Miss Piggy</role>
+      <name>Frank Oz</name>
+    </item>
+    <item index="13">
+      <photo>http://image.tmdb.org/t/p/original/rOzJTt9iLwBGSX7EqHnmCbfSL6I.jpg</photo>
+      <role>Hospital Porter</role>
+      <name>Albert Moses</name>
+    </item>
+    <item index="14">
+      <photo>http://image.tmdb.org/t/p/original/czinYZwAWZkzUY0I8arTzsHKQpw.jpg</photo>
+      <role>Inspector Villiers</role>
+      <name>Don McKillop</name>
+    </item>
+    <item index="15">
+      <photo>http://image.tmdb.org/t/p/original/tFlnxfX3JQhBx2xPIkebgnBtagd.jpg</photo>
+      <role>Sergeant McManus</role>
+      <name>Paul Kember</name>
+    </item>
+    <item index="16">
+      <photo>http://image.tmdb.org/t/p/original/vq6e9wnKgXWEc3jo9vL5qryxJ6x.jpg</photo>
+      <role>Benjamin</role>
+      <name>Colin Fernandes</name>
+    </item>
+    <item index="17">
+      <photo>http://image.tmdb.org/t/p/original/2OWxHy8MPdaSiLN8Vt0siC0hdr4.jpg</photo>
+      <role>Kermit the Frog (archive footage)</role>
+      <name>Jim Henson</name>
+    </item>
+    <item index="18">
+      <photo>http://image.tmdb.org/t/p/original/5Jd7fqJp0AeiLnX9Z0AQgdtcPRv.jpg</photo>
+      <role>Rachel Kessler</role>
+      <name>Michele Brisigotti</name>
+    </item>
+    <item index="19">
+      <photo>http://image.tmdb.org/t/p/original/hLdTXmzG5wCHurZdHNqiKaRhDGl.jpg</photo>
+      <role>Max Kessler</role>
+      <name>Mark Fisher</name>
+    </item>
+    <item index="20">
+      <photo>http://image.tmdb.org/t/p/original/lvYgzCYCDbe1SUWZPfb5FmdwyGG.jpg</photo>
+      <role>Mr. Kessler</role>
+      <name>Gordon Sterne</name>
+    </item>
+    <item index="21">
+      <photo>http://image.tmdb.org/t/p/original/iyw8pnw8xlsaBt49bPn4r4sjpEK.jpg</photo>
+      <role>Mrs. Kessler</role>
+      <name>Paula Jacobs</name>
+    </item>
+    <item index="22">
+      <photo>http://image.tmdb.org/t/p/original/bVSQbo20A0fScUxdR85c458uKD5.jpg</photo>
+      <role>Creepy Little Girl</role>
+      <name>Claudine Bowyer</name>
+    </item>
+    <item index="23">
+      <photo>http://image.tmdb.org/t/p/original/fgR3m3Zoyti0HzaFyKkmW250t00.jpg</photo>
+      <role>Creepy Little Girl</role>
+      <name>Johanna Crayden</name>
+    </item>
+    <item index="24">
+      <photo>http://image.tmdb.org/t/p/original/d1Otze1fKA7cdLIWYLsk5STOmR2.jpg</photo>
+      <role>Naughty Nina</role>
+      <name>Nina Carter</name>
+    </item>
+    <item index="25">
+      <photo>http://image.tmdb.org/t/p/original/8T6YxkBatJNijDBZweSAjMIpMNm.jpg</photo>
+      <role>Harry Berman</role>
+      <name>Geoffrey Burridge</name>
+    </item>
+    <item index="26">
+      <photo>http://image.tmdb.org/t/p/original/1iiI8AAXa5R4HJxXMlCtauTGhbs.jpg</photo>
+      <role>Judith Browns</role>
+      <name>Brenda Cavendish</name>
+    </item>
+    <item index="27">
+      <photo>http://image.tmdb.org/t/p/original/vpmIAKGNlAfZZnNZLdKeKlJYFxK.jpg</photo>
+      <role>Sean</role>
+      <name>Christopher Scoular</name>
+    </item>
+    <item index="28">
+      <photo>http://image.tmdb.org/t/p/original/zFJPy20lnc8gBEHGiaC3i4vsjy1.jpg</photo>
+      <role>Sean's Wife</role>
+      <name>Mary Tempest</name>
+    </item>
+    <item index="29">
+      <photo>http://image.tmdb.org/t/p/original/6pCCZA3iULWQBCZ9TkZMxQ8zcoi.jpg</photo>
+      <role>Sister Hobbs</role>
+      <name>Cynthia Powell</name>
+    </item>
+    <item index="30">
+      <photo>http://image.tmdb.org/t/p/original/3uUJyYHgedK6K7BLz5RtZ4xpCjg.jpg</photo>
+      <role>Alf</role>
+      <name>Sydney Bromley</name>
+    </item>
+    <item index="31">
+      <photo>http://image.tmdb.org/t/p/original/j5HEl6Y9SmhB95m0nXGmQlTreI9.jpg</photo>
+      <role>Ted</role>
+      <name>Frank Singuineau</name>
+    </item>
+    <item index="32">
+      <photo>http://image.tmdb.org/t/p/original/jSUUCGLwlE7r6BdFkkCNVLidWAI.jpg</photo>
+      <role>Joseph</role>
+      <name>Will Leighton</name>
+    </item>
+    <item index="33">
+      <photo>http://image.tmdb.org/t/p/original/ZxMNHHe5OCY7SAgFj5qypUJLlc.jpg</photo>
+      <role>Usher</role>
+      <name>Bob Babenia</name>
+    </item>
+    <item index="34">
+      <photo>http://image.tmdb.org/t/p/original/rYVKZQ4uYLf7cpAGfdFzDcRNJXw.jpg</photo>
+      <role>Gerald Bringsley</role>
+      <name>Michael Carter</name>
+    </item>
+    <item index="35">
+      <photo>http://image.tmdb.org/t/p/original/a4qSwh7DGZBlK0EK0pioWRa0hjc.jpg</photo>
+      <role>Woman in Zoo</role>
+      <name>Elizabeth Bradley</name>
+    </item>
+    <item index="36">
+      <photo>http://image.tmdb.org/t/p/original/p8sAHBeJlhaU7HiKf4fZxXjm5RK.jpg</photo>
+      <role>Little Boy with Balloons</role>
+      <name>Rufus Deakin</name>
+    </item>
+    <item index="37">
+      <photo>http://image.tmdb.org/t/p/original/iv1m1Iig7QXS7uA8Xr1zuJeHxyp.jpg</photo>
+      <role>Little Boy's Mother</role>
+      <name>Lesley Ward</name>
+    </item>
+    <item index="38">
+      <photo>http://image.tmdb.org/t/p/original/k9WyTR9bK8oVbezNtKWqmZKmeB0.jpg</photo>
+      <role>News Vendor</role>
+      <name>George Hilsdon</name>
+    </item>
+    <item index="39">
+      <photo>http://image.tmdb.org/t/p/original/3HtCLGRkuLmObyp1oJNJzplxOkI.jpg</photo>
+      <role>Taxi Driver</role>
+      <name>Alan Ford</name>
+    </item>
+    <item index="40">
+      <photo>http://image.tmdb.org/t/p/original/wu5HOV633dHImvFAcaclD6B8FZx.jpg</photo>
+      <role>Lance Boyle - 'See You Next Wednesday' Cast</role>
+      <name>Lucien Morgan</name>
+    </item>
+    <item index="41">
+      <photo>http://image.tmdb.org/t/p/original/5j9VL7ygzuC7SNRCw8ZbxY6sy4u.jpg</photo>
+      <role>Brenda Bristols - 'See You Next Wednesday' Cast</role>
+      <name>Linzi Drew</name>
+    </item>
+    <item index="42">
+      <photo>http://image.tmdb.org/t/p/original/jAdEEmNKiKWS0TsexpXXirjTRie.jpg</photo>
+      <role>Assorted Police</role>
+      <name>John Altman</name>
+    </item>
+    <item index="43">
+      <photo>http://image.tmdb.org/t/p/original/kdmINmYcItGKtmTXt7Ep4BRYfbX.jpg</photo>
+      <role>Assorted Police</role>
+      <name>John Owens</name>
+    </item>
+  </roles>
+  <similar>
+    <item index="0">The Howling</item>
+    <item index="1">Dawn of the Dead</item>
+    <item index="2">The Fly</item>
+    <item index="3">The Lost Boys</item>
+    <item index="4">Poltergeist</item>
+    <item index="5">The Omen</item>
+    <item index="6">Fright Night</item>
+    <item index="7">The Wicker Man</item>
+    <item index="8">Invasion of the Body Snatchers</item>
+    <item index="9">Re-Animator</item>
+    <item index="10">Arachnophobia</item>
+    <item index="11">Evil Dead II</item>
+    <item index="12">Night of the Living Dead</item>
+    <item index="13">Frankenstein</item>
+    <item index="14">Creepshow</item>
+    <item index="15">The Fog</item>
+    <item index="16">The Texas Chain Saw Massacre</item>
+    <item index="17">Candyman</item>
+    <item index="18">Carrie</item>
+    <item index="19">The Dead Zone</item>
+  </similar>
+  <studio>Universal Pictures</studio>
+  <summary>Two American tourists in England are attacked by a werewolf that none of the locals will admit exists.</summary>
+  <tagline>Beware the Moon.</tagline>
+  <tags/>
+  <themes/>
+  <title>An American Werewolf in London</title>
+  <writers>
+    <item index="0">
+      <photo>http://image.tmdb.org/t/p/original/4MVt3MDXZzW2TsiQNvZCGv1ivRx.jpg</photo>
+      <role/>
+      <name>John Landis</name>
+    </item>
+  </writers>
+  <year>1981</year>
+</Movie>

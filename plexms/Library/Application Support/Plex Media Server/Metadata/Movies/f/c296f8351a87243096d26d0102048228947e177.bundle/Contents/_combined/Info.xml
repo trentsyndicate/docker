@@ -1,0 +1,958 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Movie>
+  <art>
+    <item external="True" url="http://image.tmdb.org/t/p/original/yEVpfB2ZetnCVHvzydDzHfs32cB.jpg" sort_order="1" provider="com.plexapp.agents.imdb" media="com.plexapp.agents.imdb_c6409b92b1f33a40fdc2b78769f3f165a83e2d41"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/eafBSH3k9Vzs2d16lqajkStTzio.jpg" preview="com.plexapp.agents.imdb_46d71c2ab09f75c256da90a183c4164e5b3bb7b7" sort_order="2" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/w8NlvIYSwlPSSIvDslLoxUYxy9m.jpg" preview="com.plexapp.agents.imdb_59556dbf788afc3b459cfee3d980a71df7481aee" sort_order="3" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/j1Q5JcmxxhGTYYw4uM36NEMD43d.jpg" preview="com.plexapp.agents.imdb_66db13273ba3b851782eebfd9f3461be18ee0dce" sort_order="4" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/34dxtTxMHGKw1njHpTjDqR8UBHd.jpg" preview="com.plexapp.agents.imdb_2725771ac1509912cf3633874d902cd2f1c9d72b" sort_order="5" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/5wD7Z5xqbXvWzM9odFYQsAnNTqM.jpg" preview="com.plexapp.agents.imdb_1a114a1c71759449aaf9b95b4f5f67f86d5cb25c" sort_order="6" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/ndlQ2Cuc3cjTL7lTynw6I4boP4S.jpg" preview="com.plexapp.agents.imdb_e3b79b9cb5640ef880fe23f832140251c21a8b27" sort_order="7" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/9qWsX44lRCbszv1TEwdidH5z7Mk.jpg" preview="com.plexapp.agents.imdb_4a7fccf1cec2a30120335c8a0a263de9251f7d55" sort_order="8" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/pe3Y7SlcVFMWtirJNz0MAd4RNvu.jpg" preview="com.plexapp.agents.imdb_27ba13f16e0880d1886d0d6d0ffafd73d5e61653" sort_order="9" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/vt1oCfVRbVXhE0MXCkz0gWqviFo.jpg" preview="com.plexapp.agents.imdb_412df10b7b82ad1b8d07dd508843cb692382c5aa" sort_order="10" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/eeYQ3PP2tvRDyp8NjbrU2fNFOAY.jpg" preview="com.plexapp.agents.imdb_f340851ef16fed1749f2692a0f968be42f2c108e" sort_order="11" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/1de0TDycWUIXqfLTM6Rl4copImY.jpg" preview="com.plexapp.agents.imdb_68622ebcc080819067fba8ca5db72997fbd00763" sort_order="12" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/r9OGoCRRP0GZuGqdMzSecC5i4YE.jpg" preview="com.plexapp.agents.imdb_0d84b579b50e1a36f9ccdd78c8c8d9c9ac195355" sort_order="13" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/7kBt3jObcy7YpQHxd7HQvZd2Em7.jpg" preview="com.plexapp.agents.imdb_22924a607912b8594cb17cc6573e3f246d73166a" sort_order="14" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/ybvE82vjPq30yoZQlFqiF8vPHdy.jpg" preview="com.plexapp.agents.imdb_af1c09924ca02f67cdc0015f160ea0ae91f13d0a" sort_order="15" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/98Q2RYII31SGuo4B0FXviZ1KuSP.jpg" preview="com.plexapp.agents.imdb_27374b584b6eccc71c01c98b41998b96ff3af1de" sort_order="16" provider="com.plexapp.agents.imdb"/>
+  </art>
+  <banners/>
+  <chapters>
+    <item index="0">
+      <title>Chapter 1</title>
+      <end_time_offset>548000</end_time_offset>
+      <start_time_offset>0</start_time_offset>
+    </item>
+    <item index="1">
+      <title>Chapter 2</title>
+      <end_time_offset>1222000</end_time_offset>
+      <start_time_offset>548000</start_time_offset>
+    </item>
+    <item index="2">
+      <title>Chapter 3</title>
+      <end_time_offset>1874000</end_time_offset>
+      <start_time_offset>1222000</start_time_offset>
+    </item>
+    <item index="3">
+      <title>Chapter 4</title>
+      <end_time_offset>2464000</end_time_offset>
+      <start_time_offset>1874000</start_time_offset>
+    </item>
+    <item index="4">
+      <title>Chapter 5</title>
+      <end_time_offset>3141000</end_time_offset>
+      <start_time_offset>2464000</start_time_offset>
+    </item>
+    <item index="5">
+      <title>Chapter 6</title>
+      <end_time_offset>3888000</end_time_offset>
+      <start_time_offset>3141000</start_time_offset>
+    </item>
+    <item index="6">
+      <title>Chapter 7</title>
+      <end_time_offset>4872000</end_time_offset>
+      <start_time_offset>3888000</start_time_offset>
+    </item>
+    <item index="7">
+      <title>Chapter 8</title>
+      <end_time_offset>5531000</end_time_offset>
+      <start_time_offset>4872000</start_time_offset>
+    </item>
+    <item index="8">
+      <title>Chapter 9</title>
+      <end_time_offset>6177000</end_time_offset>
+      <start_time_offset>5531000</start_time_offset>
+    </item>
+    <item index="9">
+      <title>Chapter 10</title>
+      <end_time_offset>6658000</end_time_offset>
+      <start_time_offset>6177000</start_time_offset>
+    </item>
+    <item index="10">
+      <title>Chapter 11</title>
+      <end_time_offset>7444000</end_time_offset>
+      <start_time_offset>6658000</start_time_offset>
+    </item>
+    <item index="11">
+      <title>Chapter 12</title>
+      <end_time_offset>-1</end_time_offset>
+      <start_time_offset>7444000</start_time_offset>
+    </item>
+  </chapters>
+  <collections/>
+  <content_rating>PG-13</content_rating>
+  <countries>
+    <item index="0">USA</item>
+  </countries>
+  <directors>
+    <item index="0">
+      <photo>http://image.tmdb.org/t/p/original/2oBT2jQbsV8IWPMr3Cm87YBJxGu.jpg</photo>
+      <role/>
+      <name>David Ayer</name>
+    </item>
+  </directors>
+  <duration>7380000</duration>
+  <genres>
+    <item index="0">Action</item>
+    <item index="1">Adventure</item>
+    <item index="2">Fantasy</item>
+    <item index="3">Sci-Fi</item>
+  </genres>
+  <originally_available_at>2016-08-02</originally_available_at>
+  <posters>
+    <item external="True" url="http://image.tmdb.org/t/p/original/gnb54uIjX2M81c6RWPM4uQwulMt.jpg" sort_order="1" provider="com.plexapp.agents.imdb" media="com.plexapp.agents.imdb_5eae871a30b1acd1816ee49089db120f79027f18"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/2gdmZxFSweaYqzOBWxqh6Ufwn9C.jpg" preview="com.plexapp.agents.imdb_2fbed72daa9c2f65d9c9f8a9f58c4d88542b1fca" sort_order="2" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/qk5GieajO45AMDwqQ13UQumH2EQ.jpg" preview="com.plexapp.agents.imdb_a3f61f828952af023db9f1bcb24390a7605b77c3" sort_order="3" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/aOpHstzPAlhxZocZDRtqVPv7JAe.jpg" preview="com.plexapp.agents.imdb_bca20c660a35f9d45300f5b0ff0cfcdc854e511e" sort_order="4" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/1Ag1RSI33rqHaYPqouYVlDrE96N.jpg" preview="com.plexapp.agents.imdb_822caec1b27e28075e42265b65bfbe29471efe33" sort_order="5" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/1HI20OFLHmV94gbsINGuGFIftfI.jpg" preview="com.plexapp.agents.imdb_b74fda20a6375e354900228f401c0f8ebbf1efe0" sort_order="6" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/dbZjnscVCRyEqONqLCpuJpMs9EK.jpg" preview="com.plexapp.agents.imdb_c90a86e2c3ae1512d1802bb411060acd0b4f69d2" sort_order="7" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/n4BuY3rIpO8sEeKZs232yzPQeHg.jpg" preview="com.plexapp.agents.imdb_20eaced5d79c9938b196a602a8de0163164da9a9" sort_order="8" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/hGFvcTr0IEXnIDowEk6pEnWMVpx.jpg" preview="com.plexapp.agents.imdb_47c9bee9bd23071b51786eb0c6c87ce2a17babff" sort_order="9" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/ZfxOehOZgpwBq2899iPrTyqDbu.jpg" preview="com.plexapp.agents.imdb_fc98547dbcb6cf0913a3c500bf345cafad37a620" sort_order="10" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/zbJeM9ikD4lCvCfkPMfbt4XNmrf.jpg" preview="com.plexapp.agents.imdb_eb5ce53f75f7500bf659bd200603575c012e7ae7" sort_order="11" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/n3rm3gxguxzFDlygpROV7RHbELe.jpg" preview="com.plexapp.agents.imdb_a15f6ee456c1e51ab7db67b0d10630fa13dc4bc7" sort_order="12" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/eAQXJrxtmhYR3HDJ2CmvfOxKnj3.jpg" preview="com.plexapp.agents.imdb_627af6c45ea243fce32b5bd00215120a0874d512" sort_order="13" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/aOt3TJpQ5TrICz5CDtU1dfOx1TQ.jpg" preview="com.plexapp.agents.imdb_d9571fef7abce31cae01e586d8e3c5cb5d1cc07d" sort_order="14" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/jUWtd64UHvR7aChdEwfZNyqR4nz.jpg" preview="com.plexapp.agents.imdb_9d96fb39f055716ca595f0b15c7b98fde09a69bd" sort_order="15" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/fnbpB60IUb91H7eUY6gCFCoT3GS.jpg" preview="com.plexapp.agents.imdb_c8d3c383bd1c2a451311edc346f232a20185b412" sort_order="16" provider="com.plexapp.agents.imdb"/>
+  </posters>
+  <producers>
+    <item index="0">
+      <photo>http://image.tmdb.org/t/p/original/4uJLoVstC1CBcArXFOe53N2fDr1.jpg</photo>
+      <role/>
+      <name>Charles Roven</name>
+    </item>
+    <item index="1">
+      <photo/>
+      <role/>
+      <name>Richard Suckle</name>
+    </item>
+  </producers>
+  <rating>2.7</rating>
+  <rating_image>rottentomatoes://image.rating.rotten</rating_image>
+  <audience_rating>6.0</audience_rating>
+  <audience_rating_image>rottentomatoes://image.rating.spilled</audience_rating_image>
+  <reviews>
+    <item index="0">
+      <text>Based on the screening I attended, I can attest that audiences seemed to genuinely enjoy the jokes and get swept up in the action sequences.</text>
+      <source>Salon.com</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>http://www.salon.com/2016/08/05/the-sneaky-politics-of-suicide-squad-a-popcorn-movie-for-the-prison-industrial-complex-era/</link>
+      <author>Matthew Rozsa</author>
+    </item>
+    <item index="1">
+      <text>This is what happens when the comic book fanboys have taken over the asylum. It is damaged goods from the get-go, the kind of film grown in a petri dish in Hollywood.</text>
+      <source>Minneapolis Star Tribune</source>
+      <image>rottentomatoes://image.review.rotten</image>
+      <link>http://www.startribune.com/review-suicide-squad-is-dead-on-arrival/389196581/</link>
+      <author>Colin Covert</author>
+    </item>
+    <item index="2">
+      <text>To say that the movie loses the plot would not be strictly accurate, for that would imply that there was a plot to lose.</text>
+      <source>New Yorker</source>
+      <image>rottentomatoes://image.review.rotten</image>
+      <link>http://www.newyorker.com/culture/cultural-comment/suicide-squad-reviewed</link>
+      <author>Anthony Lane</author>
+    </item>
+    <item index="3">
+      <text>If I have not yet convinced you of the movie's astonishingly slipshod quality, I'm unlikely ever to do so.</text>
+      <source>The Atlantic</source>
+      <image>rottentomatoes://image.review.rotten</image>
+      <link>http://www.theatlantic.com/entertainment/archive/2016/08/suicide-squad-review/494669/</link>
+      <author>Christopher Orr</author>
+    </item>
+    <item index="4">
+      <text>Writer-director David Ayer doesn't have the right graphic technique for a comic-book-style jamboree -- he's strictly a noirish-pulp guy -- and the characters, all of whom are promisingly introduced, fizzle fast.</text>
+      <source>Christian Science Monitor</source>
+      <image>rottentomatoes://image.review.rotten</image>
+      <link>http://www.csmonitor.com/The-Culture/Movies/2016/0805/Suicide-Squad-Characters-are-promisingly-introduced-fizzle-fast</link>
+      <author>Peter Rainer</author>
+    </item>
+    <item index="5">
+      <text>Regrettably, the film's place-setting opening lays the scene for a different, more exciting film that never really unfolds.</text>
+      <source>Globe and Mail</source>
+      <image>rottentomatoes://image.review.rotten</image>
+      <link>http://www.theglobeandmail.com/arts/film/film-reviews/suicide-squads-sheer-stupidity-is-what-makes-it-fun/article31274444/</link>
+      <author>John Semley</author>
+    </item>
+    <item index="6">
+      <text>Sometimes it's good to be bad. In Suicide Squad's case, bad is just plain bad. It gives villainy a bad name.</text>
+      <source>Detroit News</source>
+      <image>rottentomatoes://image.review.rotten</image>
+      <link>http://www.detroitnews.com/story/entertainment/movies/2016/08/03/review-sorry-suicide-squad-save-day/88045616/</link>
+      <author>Adam Graham</author>
+    </item>
+    <item index="7">
+      <text>Suicide Squad amounts to an all-out attack on the whole idea of entertainment.</text>
+      <source>Wall Street Journal</source>
+      <image>rottentomatoes://image.review.rotten</image>
+      <link>http://www.wsj.com/articles/suicide-squad-review-weapon-of-mass-depression-1470342658</link>
+      <author>Joe Morgenstern</author>
+    </item>
+    <item index="8">
+      <text>It wants so desperately to be subversive and irreverent in the manner of Fight Club or, more likely, Deadpool. And yet the most shocking thing about it is how risk-averse it turns out to be.</text>
+      <source>NPR</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>http://www.npr.org/2016/08/04/488405371/suicide-squad-falls-far-short-of-its-goals?utm_medium=RSS&amp;utm_campaign=movies</link>
+      <author>Chris Klimek</author>
+    </item>
+    <item index="9">
+      <text>The closest Suicide Squad comes to the masterworks of Christopher Nolan is that, like Memento, it suffers from instant amnesia.</text>
+      <source>MTV</source>
+      <image>rottentomatoes://image.review.rotten</image>
+      <link>http://www.mtv.com/news/2914651/suicide-squad-margot-robbie-will-smith-review/</link>
+      <author>Amy Nicholson</author>
+    </item>
+    <item index="10">
+      <text>Whenever Robbie isn't dancing around, the movie feels as heavy and relentless as a Mack truck.</text>
+      <source>Chicago Reader</source>
+      <image>rottentomatoes://image.review.rotten</image>
+      <link>http://www.chicagoreader.com/chicago/suicide-squad/MovieTimes?oid=22824534</link>
+      <author>J. R. Jones</author>
+    </item>
+    <item index="11">
+      <text>[A] strange embrace of a movie, which continues to tantalize even as it overstimulates.</text>
+      <source>Toronto Star</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>https://www.thestar.com/entertainment/movies/2016/08/04/suicide-squad-makes-it-good-to-be-bad-even-if-it-kills-you-review.html</link>
+      <author>Peter Howell</author>
+    </item>
+    <item index="12">
+      <text>Everything about "Suicide Squad" from the title on down promises overkill. And the movie, to its ultimate discredit, delivers.</text>
+      <source>Boston Globe</source>
+      <image>rottentomatoes://image.review.rotten</image>
+      <link>http://www.bostonglobe.com/arts/movies/2016/08/02/suicide-squad-reaches-for-dark-side/49FmpsYK08UXfPEG1iw52H/story.html</link>
+      <author>Ty Burr</author>
+    </item>
+    <item index="13">
+      <text>"Suicide Squad" is an interminable muddle.</text>
+      <source>St. Louis Post-Dispatch</source>
+      <image>rottentomatoes://image.review.rotten</image>
+      <link>http://www.stltoday.com/entertainment/movies/reviews/suicide-squad-isn-t-much-fun/article_0eb66bc4-d266-51aa-8436-6e3b15b169af.html</link>
+      <author>Calvin Wilson</author>
+    </item>
+    <item index="14">
+      <text>For all that exposition, the film never tells us what we really need to know: Why should we care?</text>
+      <source>Slate</source>
+      <image>rottentomatoes://image.review.rotten</image>
+      <link>http://www.slate.com/articles/arts/movies/2016/08/suicide_squad_starring_will_smith_and_jared_leto_reviewed.html</link>
+      <author>Jacob Brogan</author>
+    </item>
+    <item index="15">
+      <text>It was supposed to show us that the folks at Warner Bros. still know how to make great comic book movies. Suicide Squad is not very successful at that.</text>
+      <source>Dallas Morning News</source>
+      <image>rottentomatoes://image.review.rotten</image>
+      <link>http://www.guidelive.com/movie-reviews/2016/08/03/suicide-squad-dc-will-smith-margot-robbie</link>
+      <author>Britton Peele</author>
+    </item>
+    <item index="16">
+      <text>In aiming for - but falling short of appealing to - the teenage demographic, the film is a double cop-out, disappointing both fans of the source material's grown-up gloom-and-doom aesthetic and discerning adolescents.</text>
+      <source>Washington Post</source>
+      <image>rottentomatoes://image.review.rotten</image>
+      <link>https://www.washingtonpost.com/goingoutguide/movies/suicide-squad-is-as-bad-as-youve-heard/2016/08/03/590a949e-5987-11e6-9aee-8075993d73a2_story.html</link>
+      <author>Michael O'Sullivan</author>
+    </item>
+    <item index="17">
+      <text>Sure, it's terrible. But it's not even close to the worst movie of the summer or the year.</text>
+      <source>Salon.com</source>
+      <image>rottentomatoes://image.review.rotten</image>
+      <link>http://www.salon.com/2016/08/03/suicide_squad_how_one_mediocre_anti_superhero_movie_reveals_hollywoods_multiple_disorders/</link>
+      <author>Andrew O'Hehir</author>
+    </item>
+    <item index="18">
+      <text>[A] bloated and cheerless monstrosity.</text>
+      <source>ReelViews</source>
+      <image>rottentomatoes://image.review.rotten</image>
+      <link>http://www.reelviews.net/reelviews/suicide-squad</link>
+      <author>James Berardinelli</author>
+    </item>
+    <item index="19">
+      <text>Ayer tries to bring his trademark realism to the action sequences, but it gets lost in the realm of comic-book fantasy.</text>
+      <source>Newsday</source>
+      <image>rottentomatoes://image.review.rotten</image>
+      <link>http://www.newsday.com/entertainment/movies/suicide-squad-review-too-many-villains-spoil-the-colorful-broth-1.12128494</link>
+      <author>Rafer Guzman</author>
+    </item>
+  </reviews>
+  <roles>
+    <item index="0">
+      <photo>http://image.tmdb.org/t/p/original/5V4OKHQpIEffF9rqgzGYK4TNaGg.jpg</photo>
+      <role>Floyd Lawton / Deadshot</role>
+      <name>Will Smith</name>
+    </item>
+    <item index="1">
+      <photo>http://image.tmdb.org/t/p/original/tN5jVaEYV52zNC8e5MJAXjvti3w.jpg</photo>
+      <role>Harleen Quinzel / Harley Quinn</role>
+      <name>Margot Robbie</name>
+    </item>
+    <item index="2">
+      <photo>http://image.tmdb.org/t/p/original/aylKCZLLFuuT9OB5RyaTtNBr0kn.jpg</photo>
+      <role>Rick Flag</role>
+      <name>Joel Kinnaman</name>
+    </item>
+    <item index="3">
+      <photo>http://image.tmdb.org/t/p/original/bkrRMBXxqR4v3Zeygivfyi6VIfF.jpg</photo>
+      <role>Amanda Waller</role>
+      <name>Viola Davis</name>
+    </item>
+    <item index="4">
+      <photo>http://image.tmdb.org/t/p/original/i6zIpHiKBnaHtacJU6qgeoDjiw1.jpg</photo>
+      <role>The Joker</role>
+      <name>Jared Leto</name>
+    </item>
+    <item index="5">
+      <photo>http://image.tmdb.org/t/p/original/yJJz9PIrVWnSdfAEOrfhevxNbLO.jpg</photo>
+      <role>George 'Digger' Harkness / Boomerang</role>
+      <name>Jai Courtney</name>
+    </item>
+    <item index="6">
+      <photo>http://image.tmdb.org/t/p/original/pRjNOpT41u5lIuNCoi9KAoWteqJ.jpg</photo>
+      <role>Chato Santana / El Diablo</role>
+      <name>Jay Hernandez</name>
+    </item>
+    <item index="7">
+      <photo>http://image.tmdb.org/t/p/original/lnFcwjgNDNRzQ8yC1HPDIBRBwBh.jpg</photo>
+      <role>Waylon Jones / Killer Croc</role>
+      <name>Adewale Akinnuoye-Agbaje</name>
+    </item>
+    <item index="8">
+      <photo>http://image.tmdb.org/t/p/original/fxpve7evj6H1kl8rTnDqNyIdObI.jpg</photo>
+      <role>June Moone / Enchantress</role>
+      <name>Cara Delevingne</name>
+    </item>
+    <item index="9">
+      <photo>http://image.tmdb.org/t/p/original/5oVylNlKULo1sHtNz9ouY3Uwt3Y.jpg</photo>
+      <role>Tatsu Yamashiro / Katana</role>
+      <name>Karen Fukuhara</name>
+    </item>
+    <item index="10">
+      <photo>http://image.tmdb.org/t/p/original/83RxYduQiVZ19iJn4sC66jO38KL.jpg</photo>
+      <role>Christopher Weiss / Slipknot</role>
+      <name>Adam Beach</name>
+    </item>
+    <item index="11">
+      <photo>http://image.tmdb.org/t/p/original/aMkElR018PyLdgiXbyIjXbFfbSZ.jpg</photo>
+      <role>Keith Griggs</role>
+      <name>Ike Barinholtz</name>
+    </item>
+    <item index="12">
+      <photo>http://image.tmdb.org/t/p/original/w8yZtoTB2XGJWYJxZBLWp1Smqrk.jpg</photo>
+      <role>Lieutenant GQ Edwards</role>
+      <name>Scott Eastwood</name>
+    </item>
+    <item index="13">
+      <photo>http://image.tmdb.org/t/p/original/fYA8xm95u4papXddRvQrGRNDThF.jpg</photo>
+      <role>Monster T</role>
+      <name>Common</name>
+    </item>
+    <item index="14">
+      <photo>http://image.tmdb.org/t/p/original/chPekukMF5SNnW6b22NbYPqAStr.jpg</photo>
+      <role>Dexter Tolliver</role>
+      <name>David Harbour</name>
+    </item>
+    <item index="15">
+      <photo>http://image.tmdb.org/t/p/original/s6CUkQ04GqDu1eWFwWWTkrSVxpm.jpg</photo>
+      <role>Jonny Frost</role>
+      <name>Jim Parrack</name>
+    </item>
+    <item index="16">
+      <photo>http://image.tmdb.org/t/p/original/kOSksD8h7YD7bwwwjF77OsNNWUK.jpg</photo>
+      <role>Gomez - Seal Team A</role>
+      <name>Alex Meraz</name>
+    </item>
+    <item index="17">
+      <photo>http://image.tmdb.org/t/p/original/fdviur35pPouTKtgJYb0uWnnihR.jpg</photo>
+      <role>Grace Santana</role>
+      <name>Corina Calderon</name>
+    </item>
+    <item index="18">
+      <photo>http://image.tmdb.org/t/p/original/qb4xPIJGiKyiQ2MhSDQzFWxN0jS.jpg</photo>
+      <role>Angelo</role>
+      <name>Robin Atkin Downes</name>
+    </item>
+    <item index="19">
+      <photo/>
+      <role>Zoe Lawton</role>
+      <name>Shailyn Pierre-Dixon</name>
+    </item>
+    <item index="20">
+      <photo/>
+      <role>Dr. Van Criss</role>
+      <name>Matt Baram</name>
+    </item>
+    <item index="21">
+      <photo>http://image.tmdb.org/t/p/original/bjsRRvXlQkjovFwdZgdQETfomqD.jpg</photo>
+      <role>Gerard Davis / Incubus</role>
+      <name>Alain Chanoine</name>
+    </item>
+    <item index="22">
+      <photo>http://image.tmdb.org/t/p/original/AqlN8tW9bzhMJzHwOEf2MDagyG7.jpg</photo>
+      <role>Admiral Olsen</role>
+      <name>Ted Whittall</name>
+    </item>
+    <item index="23">
+      <photo>http://image.tmdb.org/t/p/original/csDdxiwkavBvPAUigohG2jMu6Lv.jpg</photo>
+      <role>Admiral Burns</role>
+      <name>Michael Murray</name>
+    </item>
+    <item index="24">
+      <photo>http://image.tmdb.org/t/p/original/1fiQ2jVxAXq3H9wfDus2L11Ev9K.jpg</photo>
+      <role>Sergeant Ames Bravo 14</role>
+      <name>Jaime FitzSimons</name>
+    </item>
+    <item index="25">
+      <photo>http://image.tmdb.org/t/p/original/rjGdI8f7MyGXg4kpTrA0ZZq1QX8.jpg</photo>
+      <role>Bruce Wayne / Batman (uncredited)</role>
+      <name>Ben Affleck</name>
+    </item>
+    <item index="26">
+      <photo>http://image.tmdb.org/t/p/original/1tgihUq8F6zPHU9IYyRZ7vI6nme.jpg</photo>
+      <role>Barry Alan / The Flash (Uncredited)</role>
+      <name>Ezra Miller</name>
+    </item>
+    <item index="27">
+      <photo>http://image.tmdb.org/t/p/original/rMMgNtyeVMDJSzmluFIZ53nRhJg.jpg</photo>
+      <role>Missing Hand Guard</role>
+      <name>Christopher Dyson</name>
+    </item>
+    <item index="28">
+      <photo>http://image.tmdb.org/t/p/original/eYlzlI6dVc96gnFEBJe3MPFGMrV.jpg</photo>
+      <role>T-Shirt Vendor</role>
+      <name>Bambadjan Bamba</name>
+    </item>
+    <item index="29">
+      <photo>http://image.tmdb.org/t/p/original/cNNmTTdPbBBNVzMdeRdMzbFM22j.jpg</photo>
+      <role>U.S. Marshal</role>
+      <name>Robert B. Kennedy</name>
+    </item>
+    <item index="30">
+      <photo>http://image.tmdb.org/t/p/original/9RHzh9ePlE00bxncR7zh9dnm5sL.jpg</photo>
+      <role>Mafia Snitch</role>
+      <name>Billy Otis</name>
+    </item>
+    <item index="31">
+      <photo>http://image.tmdb.org/t/p/original/9086jMSVEO7CmavqgONEb9tobh7.jpg</photo>
+      <role>Panda Man</role>
+      <name>James McGowan</name>
+    </item>
+    <item index="32">
+      <photo/>
+      <role>Psych Patient</role>
+      <name>Derek Perks</name>
+    </item>
+    <item index="33">
+      <photo>http://image.tmdb.org/t/p/original/aq6ZhaqQnhQnvHOtdyeeNSVuPNR.jpg</photo>
+      <role>Chairman</role>
+      <name>Aidan Devine</name>
+    </item>
+    <item index="34">
+      <photo/>
+      <role>Navy One-Star Admiral</role>
+      <name>Andrew Bee</name>
+    </item>
+    <item index="35">
+      <photo/>
+      <role>Air Force Two-Star General</role>
+      <name>Clive McLean</name>
+    </item>
+    <item index="36">
+      <photo/>
+      <role>Army One-Star General</role>
+      <name>Frank J. Zupancic</name>
+    </item>
+    <item index="37">
+      <photo>http://image.tmdb.org/t/p/original/Ajv5bdt5bRtJP5HOdgKfmDcapSF.jpg</photo>
+      <role>National Security Council</role>
+      <name>Kent Sheridan</name>
+    </item>
+    <item index="38">
+      <photo/>
+      <role>National Security Council</role>
+      <name>Roger Shank</name>
+    </item>
+    <item index="39">
+      <photo>http://image.tmdb.org/t/p/original/fHRe3ooYlW8hdcaUKxblcnj07WL.jpg</photo>
+      <role>National Security Council</role>
+      <name>Dwight Ireland</name>
+    </item>
+    <item index="40">
+      <photo>http://image.tmdb.org/t/p/original/t7Nef0M3sub90VjhQtsSTO004qF.jpg</photo>
+      <role>National Security Council</role>
+      <name>Amanda Brugel</name>
+    </item>
+    <item index="41">
+      <photo/>
+      <role>National Security Council</role>
+      <name>Peter Tufford Kennedy</name>
+    </item>
+    <item index="42">
+      <photo/>
+      <role>Hot Girl Patron</role>
+      <name>Rosemary De Los Santos</name>
+    </item>
+    <item index="43">
+      <photo>http://image.tmdb.org/t/p/original/ukSbTT2snXQEDKhe8JjEUOAwZAC.jpg</photo>
+      <role>Casino Boss</role>
+      <name>Kevin Hanchard</name>
+    </item>
+    <item index="44">
+      <photo/>
+      <role>Cop At Rail Terminal</role>
+      <name>Joel Lacoursiere</name>
+    </item>
+    <item index="45">
+      <photo>http://image.tmdb.org/t/p/original/1vzPejrpuY7PO9ZqM7tzSBKog0q.jpg</photo>
+      <role>Doctor At Rail Terminal</role>
+      <name>Jameson Kraemer</name>
+    </item>
+    <item index="46">
+      <photo/>
+      <role>Gate Guard</role>
+      <name>Ho Chow</name>
+    </item>
+    <item index="47">
+      <photo>http://image.tmdb.org/t/p/original/rodzLSMC9BjwaCBWxTWkUzxRQYv.jpg</photo>
+      <role>Dr. Van Criss' Wife</role>
+      <name>Birgitte Solem</name>
+    </item>
+    <item index="48">
+      <photo>http://image.tmdb.org/t/p/original/tS7SsfqYiODwobJItpzrykMKDiD.jpg</photo>
+      <role>Kowalski - Seal Team A</role>
+      <name>Kevin Vance</name>
+    </item>
+    <item index="49">
+      <photo/>
+      <role>Grey - Seal Team Member</role>
+      <name>Tyler Grey</name>
+    </item>
+    <item index="50">
+      <photo/>
+      <role>Seal Team A #1 Member</role>
+      <name>Nathan Brown</name>
+    </item>
+    <item index="51">
+      <photo>http://image.tmdb.org/t/p/original/tEzawRC2IiqtUXFYty14vGLniNL.jpg</photo>
+      <role>Yakuza Boss</role>
+      <name>Kenneth Choi</name>
+    </item>
+    <item index="52">
+      <photo/>
+      <role>Technician</role>
+      <name>Nicolas Van Burek</name>
+    </item>
+    <item index="53">
+      <photo>http://image.tmdb.org/t/p/original/gXl6pVfRw8zrfWzX6dR0rPzJbDO.jpg</photo>
+      <role>Technician 2</role>
+      <name>Agueda Cardenas</name>
+    </item>
+    <item index="54">
+      <photo/>
+      <role>Diablo's Daughter</role>
+      <name>Daniela Uruena</name>
+    </item>
+    <item index="55">
+      <photo/>
+      <role>Diablo's Son</role>
+      <name>Nicolas Uruena</name>
+    </item>
+    <item index="56">
+      <photo>http://image.tmdb.org/t/p/original/dwQY5XIXD9j16mQ4uKzwB5uUyXm.jpg</photo>
+      <role>Supermodel (uncredited)</role>
+      <name>Ariane Bellamar</name>
+    </item>
+    <item index="57">
+      <photo/>
+      <role>Navy SEAL (uncredited)</role>
+      <name>Murray Urquhart</name>
+    </item>
+    <item index="58">
+      <photo>http://image.tmdb.org/t/p/original/bjs46fwYXH8KFroL3XUtrlGdu6x.jpg</photo>
+      <role>Hispanic Woman (uncredited)</role>
+      <name>Alyssa Veniece</name>
+    </item>
+    <item index="59">
+      <photo>http://image.tmdb.org/t/p/original/92OStY3uqhZjjUUSgOPlCwzPCNa.jpg</photo>
+      <role>U.S. Marshal</role>
+      <name>Tim Ajro</name>
+    </item>
+    <item index="60">
+      <photo/>
+      <role>Bystander</role>
+      <name>Devlin Anderson</name>
+    </item>
+    <item index="61">
+      <photo/>
+      <role>Dancer</role>
+      <name>Briana Andrade-Gomes</name>
+    </item>
+    <item index="62">
+      <photo/>
+      <role>Bystander</role>
+      <name>Raffi Atamian</name>
+    </item>
+    <item index="63">
+      <photo/>
+      <role>Air Force General Williams</role>
+      <name>John Byers</name>
+    </item>
+    <item index="64">
+      <photo>http://image.tmdb.org/t/p/original/6v5CL7QY5g0o22fMRCdGEFERPrZ.jpg</photo>
+      <role>Injured Civilian</role>
+      <name>Heather Byrne</name>
+    </item>
+    <item index="65">
+      <photo/>
+      <role>Wounded Civilian</role>
+      <name>Corey Chainey</name>
+    </item>
+    <item index="66">
+      <photo/>
+      <role>US Ranger</role>
+      <name>Shak Chaudhry</name>
+    </item>
+    <item index="67">
+      <photo/>
+      <role>Ranger</role>
+      <name>James Chilli Chillingworth</name>
+    </item>
+    <item index="68">
+      <photo/>
+      <role>Marine</role>
+      <name>Andrew Christie</name>
+    </item>
+    <item index="69">
+      <photo/>
+      <role>Van Criss Employee</role>
+      <name>Alex Chung</name>
+    </item>
+    <item index="70">
+      <photo/>
+      <role>MP Soldier</role>
+      <name>Gavin R. Downes</name>
+    </item>
+    <item index="71">
+      <photo/>
+      <role>Club Goer</role>
+      <name>Reid Eastwood</name>
+    </item>
+    <item index="72">
+      <photo>http://image.tmdb.org/t/p/original/jLAJOePmRdXf9pxLIdNvlEHio2k.jpg</photo>
+      <role>Distressed Civilian</role>
+      <name>Scott Edgecombe</name>
+    </item>
+    <item index="73">
+      <photo/>
+      <role>Car Passenger</role>
+      <name>Brendan Egan</name>
+    </item>
+    <item index="74">
+      <photo/>
+      <role>US Marshal</role>
+      <name>Jeff Ellenberger</name>
+    </item>
+    <item index="75">
+      <photo/>
+      <role>Firefighter</role>
+      <name>Mark Falvo</name>
+    </item>
+    <item index="76">
+      <photo>http://image.tmdb.org/t/p/original/ogtpyJ1gEJ5ejxaQpfOjTxkPvt.jpg</photo>
+      <role>Tatiana - Russian Girl</role>
+      <name>Tatyana Figueiredo</name>
+    </item>
+    <item index="77">
+      <photo/>
+      <role>Navy SEAL Combat Medic - Bravo Team</role>
+      <name>Gary 'Si-Jo' Foo</name>
+    </item>
+    <item index="78">
+      <photo>http://image.tmdb.org/t/p/original/8ySzz5inzD7jyjwetSoJr74yjpS.jpg</photo>
+      <role>US Marshal</role>
+      <name>Tazito Garcia</name>
+    </item>
+    <item index="79">
+      <photo/>
+      <role>Operations Tech</role>
+      <name>Brianna Goldie</name>
+    </item>
+    <item index="80">
+      <photo/>
+      <role>Secret Service Agent</role>
+      <name>Ryan Groves</name>
+    </item>
+    <item index="81">
+      <photo/>
+      <role>Secret Service Agent</role>
+      <name>William Hainsworth</name>
+    </item>
+    <item index="82">
+      <photo>http://image.tmdb.org/t/p/original/4r2jYlkWfuyHyNBLsQjd6tSm7p1.jpg</photo>
+      <role>Navy SEAL Howard</role>
+      <name>Shawn J. Hamilton</name>
+    </item>
+    <item index="83">
+      <photo/>
+      <role>SWAT Officer</role>
+      <name>Shane Harbinson</name>
+    </item>
+    <item index="84">
+      <photo>http://image.tmdb.org/t/p/original/3FHreiK3aO9gUl8oPN9vsoNmTjq.jpg</photo>
+      <role>LAPD Sergeant</role>
+      <name>Fatimah Hassan</name>
+    </item>
+    <item index="85">
+      <photo/>
+      <role>Fighter Pilot</role>
+      <name>Dexter Howe</name>
+    </item>
+    <item index="86">
+      <photo/>
+      <role>Bystander</role>
+      <name>Melanie Hubert</name>
+    </item>
+    <item index="87">
+      <photo>http://image.tmdb.org/t/p/original/dNdlqWiGfcp0vsvLiLx2Li87t3k.jpg</photo>
+      <role>FEMA Official</role>
+      <name>David Ingram</name>
+    </item>
+    <item index="88">
+      <photo/>
+      <role>US Marshal / Military Escort</role>
+      <name>Shane Clinton Jarvis</name>
+    </item>
+    <item index="89">
+      <photo>http://image.tmdb.org/t/p/original/5omR2Cu7ojfFCCL6CZDtlHhV9ni.jpg</photo>
+      <role>Hispanic Man</role>
+      <name>Actor Sergio Kato</name>
+    </item>
+    <item index="90">
+      <photo>http://image.tmdb.org/t/p/original/kmK20UNBpcZCBjUHsA88YVcW34O.jpg</photo>
+      <role>Prisoner</role>
+      <name>Kevin Kent</name>
+    </item>
+    <item index="91">
+      <photo/>
+      <role>Bystander</role>
+      <name>Martin Kessler</name>
+    </item>
+    <item index="92">
+      <photo/>
+      <role>Lieutenant Colonel Doctor</role>
+      <name>Melissa Lem</name>
+    </item>
+    <item index="93">
+      <photo>http://image.tmdb.org/t/p/original/llxpHzOBBJ3T9JUgIx07NCaKjRs.jpg</photo>
+      <role>Arkham Guard Stewart</role>
+      <name>John MacDonald</name>
+    </item>
+    <item index="94">
+      <photo>http://image.tmdb.org/t/p/original/6F1hbNHPJDkgQXVxMwvNRO0hjhS.jpg</photo>
+      <role>EA Dancer</role>
+      <name>Stephanie Manchulenko</name>
+    </item>
+    <item index="95">
+      <photo/>
+      <role>Marine</role>
+      <name>Matthew Mease</name>
+    </item>
+    <item index="96">
+      <photo/>
+      <role>Hispanic Man</role>
+      <name>Christopher Meneses</name>
+    </item>
+    <item index="97">
+      <photo>http://image.tmdb.org/t/p/original/dzDVr3Ux1GUMzJWbmdGz5RtqcLF.jpg</photo>
+      <role>Agent Bartoni</role>
+      <name>Valiant Michael</name>
+    </item>
+    <item index="98">
+      <photo/>
+      <role>Naughty Waitress</role>
+      <name>Sabine Mondestin</name>
+    </item>
+    <item index="99">
+      <photo/>
+      <role>Admiral's Staff</role>
+      <name>Justin Moses</name>
+    </item>
+    <item index="100">
+      <photo/>
+      <role>Blackwater</role>
+      <name>Drew Moss</name>
+    </item>
+    <item index="101">
+      <photo>http://image.tmdb.org/t/p/original/dyfAwaZUsLDPQWhkVPMaIeFBBno.jpg</photo>
+      <role>Gotham Police</role>
+      <name>Afsheen Olyaie</name>
+    </item>
+    <item index="102">
+      <photo>http://image.tmdb.org/t/p/original/bmBLmBedIioTlc798i1GsdqMeRp.jpg</photo>
+      <role>Anvil</role>
+      <name>Dan Petronijevic</name>
+    </item>
+    <item index="103">
+      <photo/>
+      <role>Executive Assistant</role>
+      <name>Alisha Phillips</name>
+    </item>
+    <item index="104">
+      <photo/>
+      <role>EA Dancer</role>
+      <name>Tamina Pollack-Paris</name>
+    </item>
+    <item index="105">
+      <photo/>
+      <role>Firefighter</role>
+      <name>Michael Prather</name>
+    </item>
+    <item index="106">
+      <photo>http://image.tmdb.org/t/p/original/98IReBtR5wisPbByzEhl6FscIHs.jpg</photo>
+      <role>Cop Photographer</role>
+      <name>Dennisha Pratt</name>
+    </item>
+    <item index="107">
+      <photo/>
+      <role>Military Guard</role>
+      <name>Asad Que</name>
+    </item>
+    <item index="108">
+      <photo/>
+      <role>US Ranger</role>
+      <name>Mark Quigley</name>
+    </item>
+    <item index="109">
+      <photo>http://image.tmdb.org/t/p/original/6EBD3UMEMZ8KnMUcgw0BPHfJjqv.jpg</photo>
+      <role>Big Ugly Navy SEAL</role>
+      <name>Darryl Quon</name>
+    </item>
+    <item index="110">
+      <photo/>
+      <role>S.W.A.T. Officer</role>
+      <name>Diezel Ramos</name>
+    </item>
+    <item index="111">
+      <photo>http://image.tmdb.org/t/p/original/4SxkQe6hocxz1nKvzlDWKKPQwWu.jpg</photo>
+      <role>American Hostage</role>
+      <name>Hugh Scott</name>
+    </item>
+    <item index="112">
+      <photo>http://image.tmdb.org/t/p/original/kZgILT6ipLo2TsytWGYk7RDK8rb.jpg</photo>
+      <role>Military Officer</role>
+      <name>Jasmine Sean</name>
+    </item>
+    <item index="113">
+      <photo/>
+      <role>Special Forces Escort</role>
+      <name>Attila Sebesy</name>
+    </item>
+    <item index="114">
+      <photo/>
+      <role>Arresting Officer</role>
+      <name>Rick Silver</name>
+    </item>
+    <item index="115">
+      <photo/>
+      <role>Graham - SEAL Team A</role>
+      <name>Connor Skific</name>
+    </item>
+    <item index="116">
+      <photo>http://image.tmdb.org/t/p/original/vObUY20NnnOK5YHRT15tlxeKsvt.jpg</photo>
+      <role>Club Patron / Naughty Waitress</role>
+      <name>Jamie Soricelli</name>
+    </item>
+    <item index="117">
+      <photo/>
+      <role>Janes - Navy SEAL</role>
+      <name>Amos Stern</name>
+    </item>
+    <item index="118">
+      <photo/>
+      <role>Navy SEAL Clark</role>
+      <name>Goran Stjepanovic</name>
+    </item>
+    <item index="119">
+      <photo>http://image.tmdb.org/t/p/original/tOCqt16ZSNElPeEjgDDIjBrjec2.jpg</photo>
+      <role>Club Patron</role>
+      <name>Vivienne Taylor</name>
+    </item>
+    <item index="120">
+      <photo/>
+      <role>EA Dancer</role>
+      <name>Jasmine Renée Thomas</name>
+    </item>
+    <item index="121">
+      <photo/>
+      <role>Firefighter</role>
+      <name>Alen Toric</name>
+    </item>
+    <item index="122">
+      <photo/>
+      <role>Helicopter Pilot</role>
+      <name>Dallas Wade</name>
+    </item>
+    <item index="123">
+      <photo/>
+      <role>Club Patron</role>
+      <name>Joe Warshaw</name>
+    </item>
+    <item index="124">
+      <photo/>
+      <role>Bystander</role>
+      <name>Tony Watt</name>
+    </item>
+    <item index="125">
+      <photo/>
+      <role>US Army Ranger</role>
+      <name>James Weicht</name>
+    </item>
+    <item index="126">
+      <photo/>
+      <role>Club Patron</role>
+      <name>Taylor Whittaker</name>
+    </item>
+    <item index="127">
+      <photo/>
+      <role>FBI Agent Max Bidwell</role>
+      <name>Robert L. Wilson</name>
+    </item>
+  </roles>
+  <similar>
+    <item index="0">X-Men: Apocalypse</item>
+    <item index="1">Batman v Superman: Dawn of Justice</item>
+    <item index="2">Doctor Strange</item>
+    <item index="3">Captain America: Civil War</item>
+    <item index="4">Now You See Me 2</item>
+    <item index="5">Fantastic Beasts and Where to Find Them</item>
+    <item index="6">Warcraft</item>
+    <item index="7">Ant-Man</item>
+    <item index="8">Star Trek Beyond</item>
+    <item index="9">Deadpool</item>
+    <item index="10">Avengers: Age of Ultron</item>
+    <item index="11">Rogue One: A Star Wars Story</item>
+    <item index="12">The Hunger Games: Mockingjay - Part 2</item>
+    <item index="13">The Jungle Book</item>
+    <item index="14">X-Men: Days of Future Past</item>
+    <item index="15">Miss Peregrine's Home for Peculiar Children</item>
+    <item index="16">Sausage Party</item>
+    <item index="17">Zootopia</item>
+    <item index="18">Ghostbusters</item>
+    <item index="19">Assassin's Creed</item>
+  </similar>
+  <studio>Warner Bros. Pictures</studio>
+  <summary>From DC Comics comes the Suicide Squad, an antihero team of incarcerated supervillains who act as deniable assets for the United States government, undertaking high-risk black ops missions in exchange for commuted prison sentences.</summary>
+  <tagline>Worst Heroes Ever</tagline>
+  <tags/>
+  <themes/>
+  <title>Suicide Squad</title>
+  <writers>
+    <item index="0">
+      <photo>http://image.tmdb.org/t/p/original/2oBT2jQbsV8IWPMr3Cm87YBJxGu.jpg</photo>
+      <role/>
+      <name>David Ayer</name>
+    </item>
+  </writers>
+  <year>2016</year>
+</Movie>

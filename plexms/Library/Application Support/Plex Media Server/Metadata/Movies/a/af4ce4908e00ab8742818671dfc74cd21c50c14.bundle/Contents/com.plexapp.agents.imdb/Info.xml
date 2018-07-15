@@ -1,0 +1,603 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Movie id="tt0790724">
+  <rating>6.2</rating>
+  <title_sort/>
+  <art>
+    <item external="True" url="http://image.tmdb.org/t/p/original/epHz5FF16x8JPzlPb6P11CsINXq.jpg" preview="5e743302e314923cc26a09b4d3ecab7e9cdfa283" sort_order="1"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/ezXodpP429qK0Av89pVNlaXWJkQ.jpg" preview="f84c89764ee5992f8a44e6f7389e7ce5d5f23e88" sort_order="2"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/9a3zDzo0FT00uj9233Ofl0y8QPQ.jpg" preview="b1ded37b931de8672cb96d64b2f97a4f815d852d" sort_order="3"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/8ix72OpP8h53Xqs0OHMQt2OIXbK.jpg" preview="de9be05628c08b0bfb73618884f8ef28cc15053d" sort_order="4"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/87uzLW4YR4ixO0TMcKTUEDOoufr.jpg" preview="bbf251551fd577368cfd1f183b52e3d5e8f199c8" sort_order="5"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/rZQZ27PNgox9o3r5k6XuH1Srsn0.jpg" preview="e3060e25d0d32bfa5d5acfa71ccf5e751656679d" sort_order="6"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/6pQOQ5Q4cyQDtqBCzZXnv0TuBVv.jpg" preview="c6917f1227b14552b9423539af303099a53af809" sort_order="7"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/pAIeqf7NpAE6EL0ZkIcaRkwcPyz.jpg" preview="2631e2adc167983ceced99a376b73a1e989c377f" sort_order="8"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/9sYcv9Rr9nCFEW55uIFShPejm2N.jpg" preview="2a70f8d2e3b74d0e8a966631a2587a1a80a6532f" sort_order="9"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/uWUeutCjhutsNTTeAMOgEftdyLr.jpg" preview="701acb206ec011a1f5c59bba49ab442402b03fa2" sort_order="10"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/49Ijqx3KPCsDrA5E9c6O3UrzY9m.jpg" preview="fb30c4a5a8941c2ed0c3debe92a6393fd9fe3419" sort_order="11"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/lIzqWrkAWeNbh7waSrsRWSI7jFO.jpg" preview="6fb20539760377e70895252504d1990faabd1ab8" sort_order="12"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/bpllh74xanVxdPuopcAtRBrIkY6.jpg" preview="ea68f797c2d061ceba33783418f22a76cf1c421f" sort_order="13"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/u1Q2U8JkqL0LF4jaKLK5tIAfHdQ.jpg" preview="ee0abb9847fbc52edf94ae04db98948c6a47fbf0" sort_order="14"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/rexfKvIc6ZlRERooBq9E6mhL2c1.jpg" preview="a32e436546fca32ece95fb701c8fecc9045bb3ba" sort_order="15"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/3eBApeEFzrItm4YREipOkm3qHJb.jpg" preview="69fab3096a24c98d6a625f03da2fb938abdd0415" sort_order="16"/>
+  </art>
+  <writers>
+    <item index="0">
+      <photo>http://image.tmdb.org/t/p/original/b2zCcMMd0cawVhYjmSwICu2eTRu.jpg</photo>
+      <role/>
+      <name>Christopher McQuarrie</name>
+    </item>
+  </writers>
+  <chapters>
+    <item index="0">
+      <title>Chapter 1</title>
+      <end_time_offset>501000</end_time_offset>
+      <start_time_offset>0</start_time_offset>
+    </item>
+    <item index="1">
+      <title>Chapter 2</title>
+      <end_time_offset>859000</end_time_offset>
+      <start_time_offset>501000</start_time_offset>
+    </item>
+    <item index="2">
+      <title>Chapter 3</title>
+      <end_time_offset>1311000</end_time_offset>
+      <start_time_offset>859000</start_time_offset>
+    </item>
+    <item index="3">
+      <title>Chapter 4</title>
+      <end_time_offset>1802000</end_time_offset>
+      <start_time_offset>1311000</start_time_offset>
+    </item>
+    <item index="4">
+      <title>Chapter 5</title>
+      <end_time_offset>2146000</end_time_offset>
+      <start_time_offset>1802000</start_time_offset>
+    </item>
+    <item index="5">
+      <title>Chapter 6</title>
+      <end_time_offset>2482000</end_time_offset>
+      <start_time_offset>2146000</start_time_offset>
+    </item>
+    <item index="6">
+      <title>Chapter 7</title>
+      <end_time_offset>2948000</end_time_offset>
+      <start_time_offset>2482000</start_time_offset>
+    </item>
+    <item index="7">
+      <title>Chapter 8</title>
+      <end_time_offset>3336000</end_time_offset>
+      <start_time_offset>2948000</start_time_offset>
+    </item>
+    <item index="8">
+      <title>Chapter 9</title>
+      <end_time_offset>3704000</end_time_offset>
+      <start_time_offset>3336000</start_time_offset>
+    </item>
+    <item index="9">
+      <title>Chapter 10</title>
+      <end_time_offset>4091000</end_time_offset>
+      <start_time_offset>3704000</start_time_offset>
+    </item>
+    <item index="10">
+      <title>Chapter 11</title>
+      <end_time_offset>4616000</end_time_offset>
+      <start_time_offset>4091000</start_time_offset>
+    </item>
+    <item index="11">
+      <title>Chapter 12</title>
+      <end_time_offset>5031000</end_time_offset>
+      <start_time_offset>4616000</start_time_offset>
+    </item>
+    <item index="12">
+      <title>Chapter 13</title>
+      <end_time_offset>5420000</end_time_offset>
+      <start_time_offset>5031000</start_time_offset>
+    </item>
+    <item index="13">
+      <title>Chapter 14</title>
+      <end_time_offset>5881000</end_time_offset>
+      <start_time_offset>5420000</start_time_offset>
+    </item>
+    <item index="14">
+      <title>Chapter 15</title>
+      <end_time_offset>6308000</end_time_offset>
+      <start_time_offset>5881000</start_time_offset>
+    </item>
+    <item index="15">
+      <title>Chapter 16</title>
+      <end_time_offset>6819000</end_time_offset>
+      <start_time_offset>6308000</start_time_offset>
+    </item>
+    <item index="16">
+      <title>Chapter 17</title>
+      <end_time_offset>7310000</end_time_offset>
+      <start_time_offset>6819000</start_time_offset>
+    </item>
+    <item index="17">
+      <title>Chapter 18</title>
+      <end_time_offset>-1</end_time_offset>
+      <start_time_offset>7310000</start_time_offset>
+    </item>
+  </chapters>
+  <themes/>
+  <quotes/>
+  <year>2012</year>
+  <duration>7800000</duration>
+  <genres>
+    <item index="0">Action</item>
+    <item index="1">Crime</item>
+    <item index="2">Mystery</item>
+    <item index="3">Thriller</item>
+  </genres>
+  <title>Jack Reacher</title>
+  <tagline>The Law Has Limits. He Does Not.</tagline>
+  <content_rating_age/>
+  <rating_count/>
+  <collections/>
+  <trivia/>
+  <tags/>
+  <audience_rating_image>rottentomatoes://image.rating.spilled</audience_rating_image>
+  <rating_image>rottentomatoes://image.rating.ripe</rating_image>
+  <producers>
+    <item index="0">
+      <photo/>
+      <role/>
+      <name>Don Granger</name>
+    </item>
+    <item index="1">
+      <photo/>
+      <role/>
+      <name>Gary Levinsohn</name>
+    </item>
+    <item index="2">
+      <photo/>
+      <role/>
+      <name>Paula Wagner</name>
+    </item>
+    <item index="3">
+      <photo>http://image.tmdb.org/t/p/original/3oWEuo0e8Nx8JvkqYCDec2iMY6K.jpg</photo>
+      <role/>
+      <name>Tom Cruise</name>
+    </item>
+  </producers>
+  <audience_rating>6.7</audience_rating>
+  <studio>Paramount</studio>
+  <posters>
+    <item external="True" url="http://image.tmdb.org/t/p/original/38bmEXmuJuInLs9dwfgOGCHmZ7l.jpg" preview="656776f4d7a4a7668b1e503f1e326cb6ff12c774" sort_order="1"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/dbNtoDhR9jNhrX1k9lTxD8sTMjd.jpg" preview="242cba4db2026a42b7a184599d45c2e85d76fc55" sort_order="2"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/amD7oOt2nF8RjokYXNLxj8uRboF.jpg" preview="beedc5b0b311ee18304bbf799963eb72d9b32872" sort_order="3"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/fxYguffiJuU8pQHTPK8wbqfOsBC.jpg" preview="9c3dc5339f40ccdffed53bee32bf04561ad5788a" sort_order="4"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/6yqsFa2ucEO4DYPu5CqtOYarxrd.jpg" preview="e069add6e1d074430f6c87170e01f01858d28b47" sort_order="5"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/dAkmmeUpcrh3tg9tLDMYWXusLYg.jpg" preview="02dd4697075949a3ed0d46de6fa939bad7cbe5ed" sort_order="6"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/iANwvSs0rRKW0D1XfsjmOiM9Dht.jpg" preview="879be1a0035f1ee5b59ae368d22199e50c8893e2" sort_order="7"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/kkTcZUQYUmoY9yXg3mHt21lDmn3.jpg" preview="a5a34429cd4b191071ec05c2be439550b538c701" sort_order="8"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/3VoVKGVmU7S0a9yMVJo4H5siVw7.jpg" preview="5c063459e513251cc4aaa94001cca7c25960402a" sort_order="9"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/rnKHCdEz7wyV5zYZ6Ex1piIfIow.jpg" preview="d13bbfe9b60ceca24fdfde8bad00e1a96d598cc4" sort_order="10"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/fNT20Y6FPbvyLSO9UNVHbdUWEGq.jpg" preview="1f049126411aae90726a016b5f72b7383779635d" sort_order="11"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/cev4hqeI1V00hfbGrCUuJBPlmeY.jpg" preview="0b5cead55f89062f46c1a7415c2d2e45e46bfa1c" sort_order="12"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/6MDkxmCvtNgqLnDSozIencW9SFv.jpg" preview="9ca1d511f3aed700d7d6336733d8a7b24ea29804" sort_order="13"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/hPwl1ZaOBJtuk6CrCULjc2ClaCK.jpg" preview="c2f436afdc83e0c73b9854594387f832fa0a1798" sort_order="14"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/8AtJiGJNm6uTYJrQFrcNrzjsPwz.jpg" preview="15a48caa4cf9885b5cba97133649a6d3a45b3d81" sort_order="15"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/hCzJVbG26RGqnShyjD1HrUPN6qL.jpg" preview="e3a889475829f36ea33f1370d2324600bc2308a4" sort_order="16"/>
+  </posters>
+  <originally_available_at>2012-12-20</originally_available_at>
+  <roles>
+    <item index="0">
+      <photo>http://image.tmdb.org/t/p/original/3oWEuo0e8Nx8JvkqYCDec2iMY6K.jpg</photo>
+      <role>Jack Reacher</role>
+      <name>Tom Cruise</name>
+    </item>
+    <item index="1">
+      <photo>http://image.tmdb.org/t/p/original/AtHgKa2SyxdQKulsiyJ8n8RWW46.jpg</photo>
+      <role>Helen Rodin</role>
+      <name>Rosamund Pike</name>
+    </item>
+    <item index="2">
+      <photo>http://image.tmdb.org/t/p/original/iz61iPIgNUp0yk48bRNjEJ5GHO4.jpg</photo>
+      <role>Alex Rodin</role>
+      <name>Richard Jenkins</name>
+    </item>
+    <item index="3">
+      <photo>http://image.tmdb.org/t/p/original/uhFLGQqNmhLgcqgITkoGoHy9FTl.jpg</photo>
+      <role>Emerson</role>
+      <name>David Oyelowo</name>
+    </item>
+    <item index="4">
+      <photo>http://image.tmdb.org/t/p/original/uzVcWEmasjz1Wl7w5mBF5vmmHlK.jpg</photo>
+      <role>Zec Chelovek</role>
+      <name>Werner Herzog</name>
+    </item>
+    <item index="5">
+      <photo>http://image.tmdb.org/t/p/original/yJJz9PIrVWnSdfAEOrfhevxNbLO.jpg</photo>
+      <role>Charlie</role>
+      <name>Jai Courtney</name>
+    </item>
+    <item index="6">
+      <photo>http://image.tmdb.org/t/p/original/ubFKPZLkKmked0IYxITaQAeEA7c.jpg</photo>
+      <role>Vlad</role>
+      <name>Vladimir Sizov</name>
+    </item>
+    <item index="7">
+      <photo>http://image.tmdb.org/t/p/original/rNGXbssgOE9clqMyqGSdeiKvBJD.jpg</photo>
+      <role>James Barr</role>
+      <name>Joseph Sikora</name>
+    </item>
+    <item index="8">
+      <photo>http://image.tmdb.org/t/p/original/35kiFPR1MhaoNbBJYg8wWi187TW.jpg</photo>
+      <role>Linsky</role>
+      <name>Michael Raymond-James</name>
+    </item>
+    <item index="9">
+      <photo>http://image.tmdb.org/t/p/original/rjCu0ywbStoEAhyKAcGHPSVZmX6.jpg</photo>
+      <role>Sandy</role>
+      <name>Alexia Fast</name>
+    </item>
+    <item index="10">
+      <photo>http://image.tmdb.org/t/p/original/rmj2HHc1uNESTlHk50qnCHK11jD.jpg</photo>
+      <role>Jeb Oliver</role>
+      <name>Josh Helman</name>
+    </item>
+    <item index="11">
+      <photo>http://image.tmdb.org/t/p/original/1aBC7NxPy10ofng6HsJBecJ1vMZ.jpg</photo>
+      <role>Martin Cash</role>
+      <name>Robert Duvall</name>
+    </item>
+    <item index="12">
+      <photo>http://image.tmdb.org/t/p/original/e6yf3pDlfmzoZRdRnBeu42pKgCE.jpg</photo>
+      <role>Rob Farrior</role>
+      <name>James Martin Kelly</name>
+    </item>
+    <item index="13">
+      <photo>http://image.tmdb.org/t/p/original/1qxGjFfkYGiEpM6QriVo4gjTTWz.jpg</photo>
+      <role>Gary</role>
+      <name>Dylan Kussman</name>
+    </item>
+    <item index="14">
+      <photo>http://image.tmdb.org/t/p/original/4L9FQZZfSoV78UZEiVjn3pxzRL7.jpg</photo>
+      <role>Punk</role>
+      <name>Denver Milord</name>
+    </item>
+    <item index="15">
+      <photo>http://image.tmdb.org/t/p/original/ixsRMf6pLIHSXNzKIbekBaicrfL.jpg</photo>
+      <role>Chrissie Farrior</role>
+      <name>Julia Yorks</name>
+    </item>
+    <item index="16">
+      <photo>http://image.tmdb.org/t/p/original/xmzdRiCNXDFdBSkQesmyzYYFSBX.jpg</photo>
+      <role>Nancy Holt</role>
+      <name>Nicole Forester</name>
+    </item>
+    <item index="17">
+      <photo>http://image.tmdb.org/t/p/original/upip3EQHl3Q3UjMxbipTehayNGG.jpg</photo>
+      <role>Rita Coronado</role>
+      <name>Delilah Picart</name>
+    </item>
+    <item index="18">
+      <photo>http://image.tmdb.org/t/p/original/sMeAwArD9LMP1bsX6iNYybup5oE.jpg</photo>
+      <role>Darren Sawyer</role>
+      <name>Joe Coyle</name>
+    </item>
+    <item index="19">
+      <photo>http://image.tmdb.org/t/p/original/jt6d9bAKkeAUog08eNmqBeJSP40.jpg</photo>
+      <role>Mrs. Sawyer</role>
+      <name>Alicia Murton</name>
+    </item>
+    <item index="20">
+      <photo>http://image.tmdb.org/t/p/original/1s22NSYqwuvKeCAnW30ZqZvI1u9.jpg</photo>
+      <role>Mr. Archer</role>
+      <name>Peter Gannon</name>
+    </item>
+    <item index="21">
+      <photo>http://image.tmdb.org/t/p/original/gtJNHMohbiHEYNIdVNd4I3aoUCx.jpg</photo>
+      <role>Mr. Holt</role>
+      <name>David Whalen</name>
+    </item>
+    <item index="22">
+      <photo>http://image.tmdb.org/t/p/original/ovdkfCOO56ZC71WNSFrV9wcvbfj.jpg</photo>
+      <role>Little Girl</role>
+      <name>Sophie Guest</name>
+    </item>
+    <item index="23">
+      <photo>http://image.tmdb.org/t/p/original/purZkN1I9xvNsrXXiFc4WywYpld.jpg</photo>
+      <role>Eyewitness</role>
+      <name>Michael Minor</name>
+    </item>
+    <item index="24">
+      <photo>http://image.tmdb.org/t/p/original/5XoslX4ZEsiT8k8qvG5olx65r2W.jpg</photo>
+      <role>Wesley</role>
+      <name>Scott A. Martin</name>
+    </item>
+    <item index="25">
+      <photo>http://image.tmdb.org/t/p/original/1MhNzkmmGgCSkQVMw5Vl2Jb4zZ7.jpg</photo>
+      <role>Secretary</role>
+      <name>CJ Ramirez</name>
+    </item>
+    <item index="26">
+      <photo>http://image.tmdb.org/t/p/original/18q4sinIObKCcDH0y7hqGJ0qfFT.jpg</photo>
+      <role>Night Manager</role>
+      <name>Teri Clark</name>
+    </item>
+    <item index="27">
+      <photo>http://image.tmdb.org/t/p/original/uW5LZapfDrKbfgA0RwWhmeMCgyv.jpg</photo>
+      <role>Man on Bus</role>
+      <name>Jarid Faubel</name>
+    </item>
+    <item index="28">
+      <photo>http://image.tmdb.org/t/p/original/jdsEJyq9JbvSq6gerWcei4q7fIE.jpg</photo>
+      <role>Woman on Bus</role>
+      <name>Sara Lindsey</name>
+    </item>
+    <item index="29">
+      <photo>http://image.tmdb.org/t/p/original/zTVsCVZiutde01QcuMa3ZlspIRZ.jpg</photo>
+      <role>Zec's Thug</role>
+      <name>Jace Jeanes</name>
+    </item>
+    <item index="30">
+      <photo>http://image.tmdb.org/t/p/original/1Nn1YxLrSp5wxoNM370bZi12FXY.jpg</photo>
+      <role>Zec's Thug</role>
+      <name>Andrei Runtso</name>
+    </item>
+    <item index="31">
+      <photo>http://image.tmdb.org/t/p/original/y1VGXfpyDKiJkku4dUsvHa39XW5.jpg</photo>
+      <role>Zec's Thug</role>
+      <name>Efka Kvaraciejus</name>
+    </item>
+    <item index="32">
+      <photo>http://image.tmdb.org/t/p/original/n4KwUgMkM7R92PoKBdt8VFqk42t.jpg</photo>
+      <role>Desk Sergeant</role>
+      <name>Lee Child</name>
+    </item>
+    <item index="33">
+      <photo>http://image.tmdb.org/t/p/original/6aMEXcJtuHoAkPy8Oub1xVYjo6V.jpg</photo>
+      <role>Man with Ballcap</role>
+      <name>Tommy Lafitte</name>
+    </item>
+    <item index="34">
+      <photo>http://image.tmdb.org/t/p/original/hJE14DbGUWXVQHUxdIClpEcUfFo.jpg</photo>
+      <role>Mindy</role>
+      <name>Kristen Dalton</name>
+    </item>
+    <item index="35">
+      <photo>http://image.tmdb.org/t/p/original/qjmARKyWhlx0tPFH0ZTqC2agxtW.jpg</photo>
+      <role>Goodwill Cashier</role>
+      <name>Jordan Trovillion</name>
+    </item>
+    <item index="36">
+      <photo>http://image.tmdb.org/t/p/original/esdBJamGHBan37Jh3eRETYNk9ay.jpg</photo>
+      <role>Pawn Shop Cashier</role>
+      <name>Annie Kitral</name>
+    </item>
+    <item index="37">
+      <photo>http://image.tmdb.org/t/p/original/qTptwEDQ3kkDGVByYPcL6brI82b.jpg</photo>
+      <role>Diner Waitress</role>
+      <name>Lissy Gulick</name>
+    </item>
+    <item index="38">
+      <photo>http://image.tmdb.org/t/p/original/ajyxszuKHFytJTQpGZNzGY6chDP.jpg</photo>
+      <role>Jeb's Mom</role>
+      <name>Catherine Albers</name>
+    </item>
+    <item index="39">
+      <photo>http://image.tmdb.org/t/p/original/yKZChg2wsONJvpR7PCWV2V08vbo.jpg</photo>
+      <role>Sportsbar Waitress</role>
+      <name>Larissa Emanuele</name>
+    </item>
+    <item index="40">
+      <photo>http://image.tmdb.org/t/p/original/8E2y9FyL6FxghtzPRHE0qW9EJFM.jpg</photo>
+      <role>Construction Foreman</role>
+      <name>Jason McCune</name>
+    </item>
+    <item index="41">
+      <photo>http://image.tmdb.org/t/p/original/rYUkFvz1ZkR1xqWpAbIc7JTiUbw.jpg</photo>
+      <role>SWAT Guy</role>
+      <name>Shane Callahan</name>
+    </item>
+    <item index="42">
+      <photo>http://image.tmdb.org/t/p/original/iJj4z2Z8ifqwyL2OHhyBebifwOR.jpg</photo>
+      <role>SWAT Guy</role>
+      <name>Joshua Elijah Reese</name>
+    </item>
+    <item index="43">
+      <photo>http://image.tmdb.org/t/p/original/rMEC7LFCQNHZ0qSx7vBMn3vBACN.jpg</photo>
+      <role>Cop</role>
+      <name>Nathan Hollabaugh</name>
+    </item>
+    <item index="44">
+      <photo>http://image.tmdb.org/t/p/original/wz6OJK4dAoEJcx1L9kMp3Py9bNV.jpg</photo>
+      <role>Cop</role>
+      <name>Christopher Stadulis</name>
+    </item>
+    <item index="45">
+      <photo>http://image.tmdb.org/t/p/original/dkeJAzIJXTl2OxTRMnVTOLX0p7.jpg</photo>
+      <role>Oline Archer</role>
+      <name>Susan Angelo</name>
+    </item>
+    <item index="46">
+      <photo/>
+      <role>Marcos Coronado</role>
+      <name>Tristan Elma</name>
+    </item>
+    <item index="47">
+      <photo>http://image.tmdb.org/t/p/original/tVDIXazCDwrCHpHiBAI0jHr9d7C.jpg</photo>
+      <role>SWAT</role>
+      <name>Joe Fishel</name>
+    </item>
+    <item index="48">
+      <photo>http://image.tmdb.org/t/p/original/b0kc2UhfvYpz6i8yssfKKwhgvWN.jpg</photo>
+      <role>Man in Bar (uncredited)</role>
+      <name>Robert Liscio</name>
+    </item>
+  </roles>
+  <countries>
+    <item index="0">USA</item>
+  </countries>
+  <content_rating>PG-13</content_rating>
+  <original_title/>
+  <summary>When a gunman takes five lives with six shots, all evidence points to the suspect in custody. On interrogation, the suspect offers up a single note: "Get Jack Reacher!" So begins an extraordinary chase for the truth, pitting Jack Reacher against an unexpected enemy, with a skill for violence and a secret to keep.</summary>
+  <reviews>
+    <item index="0">
+      <text>There is a dogged leanness to Reacher's pursuit that lifts his adventures from the generic rut ...</text>
+      <source>New Yorker</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>http://www.newyorker.com/arts/reviews/film/jack_reacher_mcquarrie</link>
+      <author>Anthony Lane</author>
+    </item>
+    <item index="1">
+      <text>If Cruise's fantasy superhero garners as many staunch fans ... we may be witnessing the birth of a new franchise.</text>
+      <source>MSN Movies</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>http://movies.msn.com/movies/movie-critic-reviews/jack-reacher/</link>
+      <author>Kathleen Murphy</author>
+    </item>
+    <item index="2">
+      <text>Jack Reacher already feels as if it belongs to another era.</text>
+      <source>New York Magazine/Vulture</source>
+      <image>rottentomatoes://image.review.rotten</image>
+      <link>http://www.vulture.com/2012/12/movie-review-jack-reacher.html</link>
+      <author>David Edelstein</author>
+    </item>
+    <item index="3">
+      <text>A clumsily condensed mystery/thriller novel made into a movie that offers little more than every other clumsily condensed mystery/thriller novel made into a movie.</text>
+      <source>ReelViews</source>
+      <image>rottentomatoes://image.review.rotten</image>
+      <link>http://www.reelviews.net/php_review_template.php?identifier=2569</link>
+      <author>James Berardinelli</author>
+    </item>
+    <item index="4">
+      <text>Jack Reacher is an absurdly self-confident, sociopathically laser-focused detective-bot. That is to say, he's a hero that only Tom Cruise could love.</text>
+      <source>Slate</source>
+      <image>rottentomatoes://image.review.rotten</image>
+      <link>http://feeds.slate.com/click.phdo?i=a4ed69c09dec1d93415ff42b3916ac63</link>
+      <author>Dan Kois</author>
+    </item>
+    <item index="5">
+      <text>The dialogue is often unintentionally funny and Cruise's performance is all wrong.</text>
+      <source>Richard Roeper.com</source>
+      <image>rottentomatoes://image.review.rotten</image>
+      <link>http://www.richardroeper.com/reviews/jackreacher.aspx</link>
+      <author>Richard Roeper</author>
+    </item>
+    <item index="6">
+      <text>This movie is a turkey gone rancid.</text>
+      <source>Wall Street Journal</source>
+      <image>rottentomatoes://image.review.rotten</image>
+      <link>http://online.wsj.com/article/SB10001424127887324461604578191313755066222.html</link>
+      <author>Joe Morgenstern</author>
+    </item>
+    <item index="7">
+      <text>Werner Herzog, better known as one of the finest living directors, plays a bad guy with Teutonic relish. If he doesn't watch it, he'll have a whole other career for himself playing dead-eyed villains.</text>
+      <source>Christian Science Monitor</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>http://www.csmonitor.com/The-Culture/Movies/2012/1221/Tom-Cruise-works-as-tough-guy-Jack-Reacher</link>
+      <author>Peter Rainer</author>
+    </item>
+    <item index="8">
+      <text>This is brisk, attention-grabbing, and generally unpretentious -- basically an old noir programmer inflated to blockbuster proportions.</text>
+      <source>Chicago Reader</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>http://www.chicagoreader.com/chicago/jack-reacher/Film?oid=8100584</link>
+      <author>Ben Sachs</author>
+    </item>
+    <item index="9">
+      <text>It only ends up reminding us of how much better Cruise's riskier, more personal work - particularly his outside-the-box performances in pictures like "Tropic Thunder," "Magnolia" and "Rock of Ages" - truly is.</text>
+      <source>Newark Star-Ledger</source>
+      <image>rottentomatoes://image.review.rotten</image>
+      <link>http://www.nj.com/entertainment/index.ssf/2012/12/jack_reacher_review_an_action.html</link>
+      <author>Stephen Whitty</author>
+    </item>
+    <item index="10">
+      <text>Reacher is limited by a lack of originality and hampered by thematic clichés and generic action sequences.</text>
+      <source>USA Today</source>
+      <image>rottentomatoes://image.review.rotten</image>
+      <link>http://rssfeeds.usatoday.com/~r/UsatodaycomMovies-TopStories/~3/IhsvwgzCMXU/</link>
+      <author>Claudia Puig</author>
+    </item>
+    <item index="11">
+      <text>Cruise is too mature, diminutive and fine-looking for the role, even if he has gym-sculpted abs, which he manages to show off.</text>
+      <source>Globe and Mail</source>
+      <image>rottentomatoes://image.review.rotten</image>
+      <link>http://www.theglobeandmail.com/arts/film/film-reviews/tom-cruises-new-mission-impossible-embodying-jack-reacher/article6605563/</link>
+      <author>Liam Lacey</author>
+    </item>
+    <item index="12">
+      <text>See Tom fight. See Tom shoot. See Tom in some other movie.</text>
+      <source>Detroit News</source>
+      <image>rottentomatoes://image.review.rotten</image>
+      <link>http://www.detroitnews.com/article/20121221/ENT02/212210324/1034/ent02/Review-Jack-Reacher-looks-like-other-Tom-Cruise-flicks-only-worse</link>
+      <author>Tom Long</author>
+    </item>
+    <item index="13">
+      <text>It's touching beyond measure to see an ex-jarhead and a former soldier putting aside their differences in a display of mutual respect, understanding and shooting bad guys in the face.</text>
+      <source>New York Post</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>http://www.nypost.com/p/entertainment/movies/cruise_hit_in_jack_plot_QZ95Y0HXuWgmuMwut91AYI</link>
+      <author>Kyle Smith</author>
+    </item>
+    <item index="14">
+      <text>A wildly ill-advised miscalculation, with Cruise's virtually unstoppable appeal butting uncomfortably against Reacher's alternately cocky and downright crude cynicism.</text>
+      <source>Washington Post</source>
+      <image>rottentomatoes://image.review.rotten</image>
+      <link>http://www.washingtonpost.com/gog/movies/jack-reacher,1106278/critic-review.html</link>
+      <author>Ann Hornaday</author>
+    </item>
+    <item index="15">
+      <text>An average action film, made slightly better by Cruise, and more bizarre by Herzog, and more watchable by Pike, but still within the average range, a silk purse that still says oink.</text>
+      <source>San Francisco Chronicle</source>
+      <image>rottentomatoes://image.review.rotten</image>
+      <link>http://www.sfgate.com/movies/article/Jack-Reacher-review-just-average-4135697.php</link>
+      <author>Mick LaSalle</author>
+    </item>
+    <item index="16">
+      <text>No worse and maybe a little better than most of the vigilante movies that clutter the multiplex.</text>
+      <source>Toronto Star</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>http://www.thestar.com/entertainment/movies/article/1305242--jack-reacher-review-armed-vigilante-has-poor-timing</link>
+      <author>Peter Howell</author>
+    </item>
+    <item index="17">
+      <text>As the details mount, and the star does what stars do, it starts to seem like a good bag of potato chips. There's no nutritional value, but darned if you don't keep eating.</text>
+      <source>Dallas Morning News</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>http://www.dallasnews.com/entertainment/movies/reviews/20121220-plot-isn-t-the-main-concern-for-jack-reacher-but-it-offers-a-good-time-b.ece</link>
+      <author>Chris Vognar</author>
+    </item>
+    <item index="18">
+      <text>The picture is joyless and perfunctory. Call it Mission: Possible.</text>
+      <source>NPR</source>
+      <image>rottentomatoes://image.review.rotten</image>
+      <link>http://www.npr.org/2012/12/20/167205300/jack-reacher-well-beyond-cruises-grasp?ft=1&amp;f=1045</link>
+      <author>Stephanie Zacharek</author>
+    </item>
+  </reviews>
+  <directors>
+    <item index="0">
+      <photo>http://image.tmdb.org/t/p/original/b2zCcMMd0cawVhYjmSwICu2eTRu.jpg</photo>
+      <role/>
+      <name>Christopher McQuarrie</name>
+    </item>
+  </directors>
+  <extras external="True" extension="xml"/>
+  <banners/>
+  <similar>
+    <item index="0">The Bourne Legacy</item>
+    <item index="1">Mission: Impossible - Ghost Protocol</item>
+    <item index="2">The Last Stand</item>
+    <item index="3">Mission: Impossible III</item>
+    <item index="4">Parker</item>
+    <item index="5">Total Recall</item>
+    <item index="6">Taken 2</item>
+    <item index="7">Safe House</item>
+    <item index="8">A Good Day to Die Hard</item>
+    <item index="9">Live Free or Die Hard</item>
+    <item index="10">Dredd</item>
+    <item index="11">Mission: Impossible II</item>
+    <item index="12">RED</item>
+    <item index="13">G.I. Joe: The Rise of Cobra</item>
+    <item index="14">Mission: Impossible</item>
+    <item index="15">Unstoppable</item>
+    <item index="16">The Bourne Supremacy</item>
+    <item index="17">The Expendables 2</item>
+    <item index="18">The Transporter</item>
+    <item index="19">Shooter</item>
+  </similar>
+</Movie>

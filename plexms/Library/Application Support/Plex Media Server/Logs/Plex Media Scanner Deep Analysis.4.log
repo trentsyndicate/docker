@@ -1,0 +1,57 @@
+Jul 15, 2018 03:34:48.069 [0x7f33e53ff700] INFO - Plex Media Scanner v1.13.2.5154-fd05be322 - ubuntu docker x86_64 - build: linux-ubuntu-x86_64 - GMT -04:00
+Jul 15, 2018 03:34:48.070 [0x7f33e53ff700] INFO - Linux version: 4.15.0-24-generic (#26-Ubuntu SMP Wed Jun 13 08:44:47 UTC 2018), language: C
+Jul 15, 2018 03:34:48.070 [0x7f33e53ff700] INFO - Processor Intel(R) Core(TM) i7-4770R CPU @ 3.20GHz
+Jul 15, 2018 03:34:48.070 [0x7f33e53ff700] INFO - /usr/lib/plexmediaserver/Plex Media Scanner --analyze-deeply --item 3876 --log-file-suffix  Deep Analysis
+Jul 15, 2018 03:34:48.073 [0x7f33f0ce2800] DEBUG - Opening 20 database sessions to library (com.plexapp.plugins.library), SQLite 3.13.0, threadsafe=1
+Jul 15, 2018 03:34:48.166 [0x7f33f0ce2800] DEBUG - [MI] Opening input file: "/tv/Re-Zero -Starting Life in Another World-/Season 1/Re-Zero -Starting Life in Another World- - S01E21 - A Wager That Defies Despair WEBDL-1080p.mkv"
+Jul 15, 2018 03:34:48.166 [0x7f33f0ce2800] DEBUG - [FFMPEG] - Opening '/tv/Re-Zero -Starting Life in Another World-/Season 1/Re-Zero -Starting Life in Another World- - S01E21 - A Wager That Defies Despair WEBDL-1080p.mkv' for reading
+Jul 15, 2018 03:34:48.166 [0x7f33f0ce2800] DEBUG - [FFMPEG] - Setting default whitelist 'file,crypto'
+Jul 15, 2018 03:34:48.255 [0x7f33f0ce2800] DEBUG - [FFMPEG] - Format matroska,webm probed with size=2048 and score=100
+Jul 15, 2018 03:34:48.256 [0x7f33f0ce2800] DEBUG - [FFMPEG] - st:0 removing common factor 1000000 from timebase
+Jul 15, 2018 03:34:48.256 [0x7f33f0ce2800] DEBUG - [FFMPEG] - st:1 removing common factor 1000000 from timebase
+Jul 15, 2018 03:34:48.256 [0x7f33f0ce2800] DEBUG - [FFMPEG] - st:2 removing common factor 1000000 from timebase
+Jul 15, 2018 03:34:48.256 [0x7f33f0ce2800] DEBUG - [FFMPEG] - st:3 removing common factor 1000000 from timebase
+Jul 15, 2018 03:34:48.256 [0x7f33f0ce2800] DEBUG - [FFMPEG] - st:4 removing common factor 1000000 from timebase
+Jul 15, 2018 03:34:48.256 [0x7f33f0ce2800] DEBUG - [FFMPEG] - Before avformat_find_stream_info() pos: 9556 bytes read:34822 seeks:2 nb_streams:5
+Jul 15, 2018 03:34:48.257 [0x7f33f0ce2800] DEBUG - [FFMPEG] - nal_unit_type: 7, nal_ref_idc: 3
+Jul 15, 2018 03:34:48.257 [0x7f33f0ce2800] DEBUG - [FFMPEG] - nal_unit_type: 8, nal_ref_idc: 3
+Jul 15, 2018 03:34:48.266 [0x7f33f0ce2800] DEBUG - [FFMPEG] - nal_unit_type: 7, nal_ref_idc: 3
+Jul 15, 2018 03:34:48.266 [0x7f33f0ce2800] DEBUG - [FFMPEG] - nal_unit_type: 8, nal_ref_idc: 3
+Jul 15, 2018 03:34:48.267 [0x7f33f0ce2800] DEBUG - [FFMPEG] - nal_unit_type: 7, nal_ref_idc: 3
+Jul 15, 2018 03:34:48.267 [0x7f33f0ce2800] DEBUG - [FFMPEG] - nal_unit_type: 8, nal_ref_idc: 3
+Jul 15, 2018 03:34:48.267 [0x7f33f0ce2800] DEBUG - [FFMPEG] - nal_unit_type: 6, nal_ref_idc: 0
+Jul 15, 2018 03:34:48.267 [0x7f33f0ce2800] DEBUG - [FFMPEG] - nal_unit_type: 5, nal_ref_idc: 3
+Jul 15, 2018 03:34:48.267 [0x7f33f0ce2800] DEBUG - [FFMPEG] - Format yuv420p chosen by get_format().
+Jul 15, 2018 03:34:48.269 [0x7f33f0ce2800] DEBUG - [FFMPEG] - no picture 
+Jul 15, 2018 03:34:48.276 [0x7f33f0ce2800] DEBUG - [FFMPEG] - nal_unit_type: 1, nal_ref_idc: 2
+Jul 15, 2018 03:34:48.281 [0x7f33f0ce2800] DEBUG - [FFMPEG] - no picture 
+Jul 15, 2018 03:34:48.286 [0x7f33f0ce2800] DEBUG - [FFMPEG] - nal_unit_type: 1, nal_ref_idc: 2
+Jul 15, 2018 03:34:48.298 [0x7f33f0ce2800] DEBUG - [FFMPEG] - nal_unit_type: 1, nal_ref_idc: 2
+Jul 15, 2018 03:34:48.309 [0x7f33f0ce2800] DEBUG - [FFMPEG] - nal_unit_type: 1, nal_ref_idc: 2
+Jul 15, 2018 03:34:48.313 [0x7f33f0ce2800] DEBUG - [FFMPEG] - nal_unit_type: 1, nal_ref_idc: 2
+Jul 15, 2018 03:34:48.316 [0x7f33f0ce2800] DEBUG - [FFMPEG] - nal_unit_type: 1, nal_ref_idc: 2
+Jul 15, 2018 03:34:48.319 [0x7f33f0ce2800] DEBUG - [FFMPEG] - nal_unit_type: 1, nal_ref_idc: 2
+Jul 15, 2018 03:34:48.322 [0x7f33f0ce2800] DEBUG - [FFMPEG] - nal_unit_type: 1, nal_ref_idc: 2
+Jul 15, 2018 03:34:48.324 [0x7f33f0ce2800] DEBUG - [FFMPEG] - All info found
+Jul 15, 2018 03:34:48.324 [0x7f33f0ce2800] DEBUG - [FFMPEG] - After avformat_find_stream_info() pos: 594445 bytes read:624646 seeks:2 frames:34
+Jul 15, 2018 03:34:48.719 [0x7f33f0ce2800] DEBUG - Deep Analysis: Read 10000 packets at 147.771000
+Jul 15, 2018 03:34:49.170 [0x7f33f0ce2800] DEBUG - Deep Analysis: Read 20000 packets at 295.868000
+Jul 15, 2018 03:34:49.498 [0x7f33f0ce2800] DEBUG - Deep Analysis: Read 30000 packets at 443.245000
+Jul 15, 2018 03:34:49.954 [0x7f33f0ce2800] DEBUG - Deep Analysis: Read 40000 packets at 591.365000
+Jul 15, 2018 03:34:50.429 [0x7f33f0ce2800] DEBUG - Deep Analysis: Read 50000 packets at 739.509000
+Jul 15, 2018 03:34:50.959 [0x7f33f0ce2800] DEBUG - Deep Analysis: Read 60000 packets at 887.860000
+Jul 15, 2018 03:34:51.417 [0x7f33f0ce2800] DEBUG - Deep Analysis: Read 70000 packets at 1035.516000
+Jul 15, 2018 03:34:51.747 [0x7f33f0ce2800] DEBUG - Deep Analysis: Read 80000 packets at 1182.731000
+Jul 15, 2018 03:34:52.152 [0x7f33f0ce2800] DEBUG - Deep Analysis: Read 90000 packets at 1330.084000
+Jul 15, 2018 03:34:52.572 [0x7f33f0ce2800] DEBUG - Deep Analysis: Sorting packets
+Jul 15, 2018 03:34:52.577 [0x7f33f0ce2800] DEBUG - Deep Analysis: Performing file bitrate analysis
+Jul 15, 2018 03:34:52.588 [0x7f33f0ce2800] DEBUG - Deep Analysis: Performing stream bitrate analysis on stream 0
+Jul 15, 2018 03:34:52.588 [0x7f33f0ce2800] DEBUG - Deep Analysis: Performing stream bitrate analysis on stream 1
+Jul 15, 2018 03:34:52.588 [0x7f33f0ce2800] DEBUG - Deep Analysis: Performing stream bitrate analysis on stream 2
+Jul 15, 2018 03:34:52.588 [0x7f33f0ce2800] DEBUG - Deep Analysis: Performing stream bitrate analysis on stream 3
+Jul 15, 2018 03:34:52.593 [0x7f33f0ce2800] DEBUG - Deep Analysis: Performing stream bitrate analysis on stream 4
+Jul 15, 2018 03:34:52.597 [0x7f33f0ce2800] DEBUG - Deep Analysis: Saving GoP analysis for stream 3
+Jul 15, 2018 03:34:52.600 [0x7f33f0ce2800] DEBUG - Deep Analysis: Saving bitrate analysis
+Jul 15, 2018 03:34:52.611 [0x7f33f0ce2800] DEBUG - Updating part with ID=8157 [/tv/Re-Zero -Starting Life in Another World-/Season 1/Re-Zero -Starting Life in Another World- - S01E21 - A Wager That Defies Despair WEBDL-1080p.mkv]
+Jul 15, 2018 03:34:52.632 [0x7f33f0ce2800] DEBUG - [MI] Closing input file: /tv/Re-Zero -Starting Life in Another World-/Season 1/Re-Zero -Starting Life in Another World- - S01E21 - A Wager That Defies Despair WEBDL-1080p.mkv
+Jul 15, 2018 03:34:52.634 [0x7f33f0ce2800] DEBUG - [FFMPEG] - Statistics: 587881442 bytes read, 3 seeks

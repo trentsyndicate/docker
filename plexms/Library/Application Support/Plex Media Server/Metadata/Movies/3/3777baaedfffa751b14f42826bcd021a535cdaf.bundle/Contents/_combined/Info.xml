@@ -1,0 +1,523 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Movie>
+  <art>
+    <item external="True" url="http://image.tmdb.org/t/p/original/epBRm0h9aRVUY5A1PXkUQ8BfXiB.jpg" sort_order="1" provider="com.plexapp.agents.imdb" media="com.plexapp.agents.imdb_f5a1bf2cab6085dff64c9c5d56a8127465c51fbb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/vjqsbs6vEwYNg98NSS8vgtbVAF0.jpg" preview="com.plexapp.agents.imdb_faf027fe5431f99dba9844bd7d57220b788a3c2d" sort_order="2" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/yioNUiGVPyUjsoh4agW201YIw7m.jpg" preview="com.plexapp.agents.imdb_97d71d96c5b234c0e82d73dc3386373a136db0c1" sort_order="3" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/jGPSVArC0GS2VVc0aGAqGTjfFOG.jpg" preview="com.plexapp.agents.imdb_3ad10b17e4429f6f3981479fe4f606b4b6e23182" sort_order="4" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/sbRXCEsh35hIiHhc2XQRDZ7hLzH.jpg" preview="com.plexapp.agents.imdb_10afbd27f63434d27cd57522c86a47dd763a894a" sort_order="5" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/lpMsta58pmtIuKz5O0JRmsCQbcD.jpg" preview="com.plexapp.agents.imdb_23e9aea832f414032df26063cbbef1521eb6e466" sort_order="6" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/rNwWgOyZApaZy9IUKJ4C3tSu8yD.jpg" preview="com.plexapp.agents.imdb_68158d5ba3f2d0cb31a4a79b55db6ac78a5b8e65" sort_order="7" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/cDOv649oRCxLxsrMtboqSFOb6aB.jpg" preview="com.plexapp.agents.imdb_667875896b997d54a4b9b46739e94b7d49276527" sort_order="8" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/18TnJLqV6dyb8zTaRRjDa1BxSOH.jpg" preview="com.plexapp.agents.imdb_cc770bafe07a7ef2d37d7c67c157dcd514d330d7" sort_order="9" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/wwN03J23uP8w3dgPdv3yR4Z5nwf.jpg" preview="com.plexapp.agents.imdb_5c095d3bd2748b7fa8c93e9a9d6352df55b162a2" sort_order="10" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/s4mvW2mGd2NbAo8ohqjZogfTMwt.jpg" preview="com.plexapp.agents.imdb_3fb8346db1768673ad2105d121f31ae4e7b03c36" sort_order="11" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/4pbluKz5k0XUhA8C8zF0UH63kFi.jpg" preview="com.plexapp.agents.imdb_ef70cf3d52cb746df301e63e9dc059df6b30a9ca" sort_order="12" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/4t0BWAnW5a2SzCwL01egNIgMqeL.jpg" preview="com.plexapp.agents.imdb_6e35f20389b4a80b0619b4a4fabe812eb08e6d71" sort_order="13" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/kRgfc3YxTukxrTqGCrZO0zTRjpt.jpg" preview="com.plexapp.agents.imdb_8d8b4b426b8227c3c98837f132204f5d2b3fe48e" sort_order="14" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/ilMCeNVCJ8o5HEYw1gPwhIJrIKy.jpg" preview="com.plexapp.agents.imdb_72a7d19de2ddcd567efee776c4edbfe1bfc5e2c2" sort_order="15" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/5rcIOpgCDMcp8fvO7JYyFwssXKz.jpg" preview="com.plexapp.agents.imdb_908bd3a223c377ed4fc47600a7220ec9fa28e14c" sort_order="16" provider="com.plexapp.agents.imdb"/>
+  </art>
+  <banners/>
+  <chapters>
+    <item index="0">
+      <title>Thermo Optic Camouflage</title>
+      <end_time_offset>268000</end_time_offset>
+      <start_time_offset>0</start_time_offset>
+    </item>
+    <item index="1">
+      <title>Opening Credits</title>
+      <end_time_offset>684000</end_time_offset>
+      <start_time_offset>268000</start_time_offset>
+    </item>
+    <item index="2">
+      <title>The Infamous Mystery Hacker</title>
+      <end_time_offset>1079000</end_time_offset>
+      <start_time_offset>684000</start_time_offset>
+    </item>
+    <item index="3">
+      <title>Ghost Hack Humans</title>
+      <end_time_offset>1566000</end_time_offset>
+      <start_time_offset>1079000</start_time_offset>
+    </item>
+    <item index="4">
+      <title>Only A Puppet</title>
+      <end_time_offset>2166000</end_time_offset>
+      <start_time_offset>1566000</start_time_offset>
+    </item>
+    <item index="5">
+      <title>Simultaneous Reality and Fantasy</title>
+      <end_time_offset>2588000</end_time_offset>
+      <start_time_offset>2166000</start_time_offset>
+    </item>
+    <item index="6">
+      <title>Hope in Deep Waters</title>
+      <end_time_offset>2999000</end_time_offset>
+      <start_time_offset>2588000</start_time_offset>
+    </item>
+    <item index="7">
+      <title>Wandering the City</title>
+      <end_time_offset>3322000</end_time_offset>
+      <start_time_offset>2999000</start_time_offset>
+    </item>
+    <item index="8">
+      <title>Doubting Your Own Ghost</title>
+      <end_time_offset>3621000</end_time_offset>
+      <start_time_offset>3322000</start_time_offset>
+    </item>
+    <item index="9">
+      <title>Project 2501</title>
+      <end_time_offset>4003000</end_time_offset>
+      <start_time_offset>3621000</start_time_offset>
+    </item>
+    <item index="10">
+      <title>Chasing the Target</title>
+      <end_time_offset>4434000</end_time_offset>
+      <start_time_offset>4003000</start_time_offset>
+    </item>
+    <item index="11">
+      <title>Kusanagi Battles Tank</title>
+      <end_time_offset>-1</end_time_offset>
+      <start_time_offset>4434000</start_time_offset>
+    </item>
+  </chapters>
+  <collections/>
+  <content_rating>PG-13</content_rating>
+  <countries>
+    <item index="0">United Kingdom</item>
+  </countries>
+  <directors>
+    <item index="0">
+      <photo>http://image.tmdb.org/t/p/original/kQyRb1BmPy6or6FHMstS2e7L3J8.jpg</photo>
+      <role/>
+      <name>Rupert Sanders</name>
+    </item>
+  </directors>
+  <duration>6420000</duration>
+  <genres>
+    <item index="0">Action</item>
+    <item index="1">Crime</item>
+    <item index="2">Drama</item>
+    <item index="3">Mystery</item>
+    <item index="4">Sci-Fi</item>
+    <item index="5">Thriller</item>
+  </genres>
+  <originally_available_at>2017-03-29</originally_available_at>
+  <posters>
+    <item external="True" url="http://image.tmdb.org/t/p/original/myRzRzCxdfUWjkJWgpHHZ1oGkJd.jpg" sort_order="1" provider="com.plexapp.agents.imdb" media="com.plexapp.agents.imdb_bc4982aa27eb3b820c1c41176bab931063b1f25d"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/si1ZyELNHdPUZw4pXR5KjMIIsBF.jpg" preview="com.plexapp.agents.imdb_48714b0fbd125db0a4cb75f0eafe88185fb3f76a" sort_order="2" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/3ZtzvvRKK9yDSHLj1W4VSHGAAP4.jpg" preview="com.plexapp.agents.imdb_98edd675a11381b392313ba348636344c2a8db20" sort_order="3" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/xNaZhd6zcNVtC3eCQcKmcO2VwgQ.jpg" preview="com.plexapp.agents.imdb_ef7068d8337650d09e946c34490f551bbbeb0d50" sort_order="4" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/2tdlBIw3Rw1wO8jBEK889Wo4e6K.jpg" preview="com.plexapp.agents.imdb_5a7d21cd1e1ac41b2d18b025797cce646768466a" sort_order="5" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/jhOIzeJjAdbNoAVGKj0akU0DUzz.jpg" preview="com.plexapp.agents.imdb_fa77d559e188cf8f75142645b95eaf5aea153773" sort_order="6" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/f6b1Fl4GRmcCJxEJDLlIzvcOHvd.jpg" preview="com.plexapp.agents.imdb_068fac8a6d4b5a774f2c0401be045cd5bd2cde6b" sort_order="7" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/x3W84pafCkaWHhJX0EVLmF3i256.jpg" preview="com.plexapp.agents.imdb_7f3e2a9389a8cea313023ba71f7f2a47dffa83d3" sort_order="8" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/cCQP4TLAfTu438q1Un8XYRbxkbs.jpg" preview="com.plexapp.agents.imdb_650d00445b623298f08686a53284d56241c6c78d" sort_order="9" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/xuhO38YTdfR98iwmNHcdhO88e48.jpg" preview="com.plexapp.agents.imdb_e826a54a2d30af1aab7785ed0c8029494b56a810" sort_order="10" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/yoysNSqL7GvfDIdCbWsIV6cAZn9.jpg" preview="com.plexapp.agents.imdb_85a1170bd5b708ddb8cbd3df550769eb481681c6" sort_order="11" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/nrLIFLCRwGjvuRbKn1fUjmU7X5A.jpg" preview="com.plexapp.agents.imdb_75f08c1ee9df951305850b266f5c32649a908960" sort_order="12" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/2h4yO3vRxGcVhG9SJSMnRIQpFFP.jpg" preview="com.plexapp.agents.imdb_b72e6f09ffa5019ad35d31cc0e1fa4688dc4fa8f" sort_order="13" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/fAjZ4otBD3OQUGFrJ70YED6jRcU.jpg" preview="com.plexapp.agents.imdb_9a58d7521743345e6be88ebfdbb95fc6376bd059" sort_order="14" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/xcecX8WNNPYXKnsXLqdLrqRqwNC.jpg" preview="com.plexapp.agents.imdb_4b9b62a638708eb3bb614276ffdea63671d0f3fc" sort_order="15" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/1mCNij5L6A25OSkQfLhPl53VC4h.jpg" preview="com.plexapp.agents.imdb_fc834f4242e81b6b34608ab086a1dcf53d434060" sort_order="16" provider="com.plexapp.agents.imdb"/>
+  </posters>
+  <producers>
+    <item index="0">
+      <photo/>
+      <role/>
+      <name>Ari Arad</name>
+    </item>
+    <item index="1">
+      <photo>http://image.tmdb.org/t/p/original/kIG4HF5LSywU0ZdDheDaEsxxohu.jpg</photo>
+      <role/>
+      <name>Avi Arad</name>
+    </item>
+    <item index="2">
+      <photo/>
+      <role/>
+      <name>Maguy R. Cohen</name>
+    </item>
+    <item index="3">
+      <photo/>
+      <role/>
+      <name>Steven Paul</name>
+    </item>
+  </producers>
+  <rating>4.4</rating>
+  <rating_image>rottentomatoes://image.rating.rotten</rating_image>
+  <audience_rating>5.1</audience_rating>
+  <audience_rating_image>rottentomatoes://image.rating.spilled</audience_rating_image>
+  <reviews>
+    <item index="0">
+      <text>Sadly, as the plot proceeds, Sanders begins to duck ... bothersome concepts. He picks a more sentimental path, which leads Major, following the example of Jason Bourne, on a quest to discover who she truly is.</text>
+      <source>New Yorker</source>
+      <image>rottentomatoes://image.review.rotten</image>
+      <link>http://www.newyorker.com/magazine/2017/04/10/ghost-in-the-shell-and-graduation-reviews</link>
+      <author>Anthony Lane</author>
+    </item>
+    <item index="1">
+      <text>It gets bogged down in aesthetics that are stimulating only for the sake of stimulation, seemingly without a flicker of thought behind them. Shell indeed, but there's no ghost at home.</text>
+      <source>Tribune News Service</source>
+      <image>rottentomatoes://image.review.rotten</image>
+      <link>http://www.freep.com/story/entertainment/movies/2017/03/30/ghost-movie-review/99833616/</link>
+      <author>Katie Walsh</author>
+    </item>
+    <item index="2">
+      <text>A flimsy copy of a copy, one that recreates some of the anime's set-pieces nearly shot for shot, but then pares away nearly everything else that made the original a classic.</text>
+      <source>The Atlantic</source>
+      <image>rottentomatoes://image.review.rotten</image>
+      <link>https://www.theatlantic.com/entertainment/archive/2017/03/ghost-in-the-shell-remake-review/521337/</link>
+      <author>David Sims</author>
+    </item>
+    <item index="3">
+      <text>It's unfortunate, if predictable, that Hollywood found it necessary to almost entirely eliminate deep think in favor of deep action.</text>
+      <source>Christian Science Monitor</source>
+      <image>rottentomatoes://image.review.rotten</image>
+      <link>http://www.csmonitor.com/The-Culture/Movies/2017/0331/Ghost-in-the-Shell-eliminates-deep-think-in-favor-of-deep-action</link>
+      <author>Peter Rainer</author>
+    </item>
+    <item index="4">
+      <text>Ghost in the Shell is visually compelling but tone deaf.</text>
+      <source>ReelViews</source>
+      <image>rottentomatoes://image.review.rotten</image>
+      <link>http://www.reelviews.net/reelviews/ghost-in-the-shell</link>
+      <author>James Berardinelli</author>
+    </item>
+    <item index="5">
+      <text>It only works up much feeling when it is trying to defend itself against protests that might affect its bottom line. You won't be much moved by that either.</text>
+      <source>The New Republic</source>
+      <image>rottentomatoes://image.review.rotten</image>
+      <link>https://newrepublic.com/article/141774/ghost-shell-half-human</link>
+      <author>Will Leitch</author>
+    </item>
+    <item index="6">
+      <text>What's missing, besides narrative drive, is the existential angst at the anime's heart: the titular ghost in the shell is the soul, the humanity, resident in the surviving human brain planted in an electric Barbie Doll.</text>
+      <source>New York Observer</source>
+      <image>rottentomatoes://image.review.rotten</image>
+      <link>http://observer.com/2017/03/weaponized-scarjo-kills-and-kills-again-in-a-homogenized-ghost-in-the-shell/</link>
+      <author>Thelma Adams</author>
+    </item>
+    <item index="7">
+      <text>Splendid-looking but otherwise dreadful</text>
+      <source>BuzzFeed News</source>
+      <image>rottentomatoes://image.review.rotten</image>
+      <link>https://www.buzzfeed.com/alisonwillmore/ghost-in-the-shell-is-really-the-reverse-get-out</link>
+      <author>Alison Willmore</author>
+    </item>
+    <item index="8">
+      <text>'All shell, no ghost' is a low-hanging-fruit diss. It's also apt.</text>
+      <source>Rolling Stone</source>
+      <image>rottentomatoes://image.review.rotten</image>
+      <link>http://www.rollingstone.com/movies/reviews/ghost-in-the-shell-movie-review-all-scarjo-no-soul-w473100</link>
+      <author>David Fear</author>
+    </item>
+    <item index="9">
+      <text>At times, Ghost in the Shell is beautiful, even stunning. But these visual pleasures can't mask the narrative emptiness.</text>
+      <source>RogerEbert.com</source>
+      <image>rottentomatoes://image.review.rotten</image>
+      <link>http://www.rogerebert.com/reviews/ghost-in-the-shell-2017</link>
+      <author>Angelica Jade Bastien</author>
+    </item>
+    <item index="10">
+      <text>You want to forgive it just because it looks so good. And you can, to a point. But like those holographic giants towering above the city, it's mostly just digital noise, visually impressive, but soulless.</text>
+      <source>Detroit News</source>
+      <image>rottentomatoes://image.review.rotten</image>
+      <link>http://www.detroitnews.com/story/entertainment/movies/2017/03/30/review-ghost-beautiful-soulless/99846810/</link>
+      <author>Adam Graham</author>
+    </item>
+    <item index="11">
+      <text>With its killer-robot geishas, Godzilla-size hologram ads and nearly nude fighting gear, it's a cyberpunk wonderland - but there isn't much ghost left in this smokin' hot shell.</text>
+      <source>New York Post</source>
+      <image>rottentomatoes://image.review.rotten</image>
+      <link>http://nypost.com/2017/03/30/youll-enjoy-this-cyber-punk-wonderland-if-you-turn-off-your-brain/</link>
+      <author>Sara Stewart</author>
+    </item>
+    <item index="12">
+      <text>The genius of Ghost in the Shell is that you don't have to care about cyborg-anything to enjoy it. In fact, you'll probably enjoy it more that way.</text>
+      <source>TIME Magazine</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>http://time.com/4718852/ghost-in-the-shell-review/</link>
+      <author>Stephanie Zacharek</author>
+    </item>
+    <item index="13">
+      <text>Johansson's Kubrickian performance and the technical precision of the camera make its artifice seem almost haunting.</text>
+      <source>AV Club</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>http://www.avclub.com/review/beguiling-ghost-shell-more-replicant-remake-252941</link>
+      <author>Ignatiy Vishnevetsky</author>
+    </item>
+    <item index="14">
+      <text>Just about every scene in Ghost in the Shell is a visual wonder to behold -- and you'll have ample to time to soak in all that background eye candy, because the plot machinations and the action in the foreground are largely of the ho-hum retread variety.</text>
+      <source>Chicago Sun-Times</source>
+      <image>rottentomatoes://image.review.rotten</image>
+      <link>http://chicago.suntimes.com/entertainment/in-ghost-in-the-shell-dazzling-visuals-support-a-drab-plot/</link>
+      <author>Richard Roeper</author>
+    </item>
+    <item index="15">
+      <text>[A] visually cluttered yet often disappointingly drab movie.</text>
+      <source>New York Times</source>
+      <image>rottentomatoes://image.review.rotten</image>
+      <link>https://www.nytimes.com/2017/03/30/movies/ghost-in-the-shell-review-scarlett-johansson.html</link>
+      <author>Manohla Dargis</author>
+    </item>
+    <item index="16">
+      <text>Low on ghost; big on shell -- Ghost in the Shell is eminently forgettable but often fantastic to look at.</text>
+      <source>Toronto Sun</source>
+      <image>rottentomatoes://image.review.rotten</image>
+      <link>http://www.torontosun.com/2017/03/30/ghost-in-the-shell-review-scarlett-johanssons-latest-a-visual-spectacle-but-not-much-else</link>
+      <author>Liz Braun</author>
+    </item>
+    <item index="17">
+      <text>When stone-faced Japanese actor "Beat" Takeshi Kitano is the most human element in your movie, something's wildly wrong.</text>
+      <source>Time Out</source>
+      <image>rottentomatoes://image.review.rotten</image>
+      <link>https://www.timeout.com/us/film/ghost-in-the-shell-2017</link>
+      <author>Joshua Rothkopf</author>
+    </item>
+    <item index="18">
+      <text>Do people even have selves? Are identities and souls just a bunch of clichés spun out by teams of screenwriters? If these questions interest you, do yourself a favor and watch the 1995 original movie.</text>
+      <source>Boston Globe</source>
+      <image>rottentomatoes://image.review.rotten</image>
+      <link>https://www.bostonglobe.com/arts/movies/2017/03/30/ghost-shell-lacks-soul/YUd9pckn2K6EQ7VOAjaMpL/story.html</link>
+      <author>Peter Keough</author>
+    </item>
+  </reviews>
+  <roles>
+    <item index="0">
+      <photo>http://image.tmdb.org/t/p/original/oqvusJfmH4zN2LgdCjmB2TxetOd.jpg</photo>
+      <role>Major Mira Killian / Motoko Kusanagi</role>
+      <name>Scarlett Johansson</name>
+    </item>
+    <item index="1">
+      <photo>http://image.tmdb.org/t/p/original/r0Z1eqyYcJYGy0x9MqgIKDHUrHG.jpg</photo>
+      <role>Batou</role>
+      <name>Pilou Asbæk</name>
+    </item>
+    <item index="2">
+      <photo>http://image.tmdb.org/t/p/original/e0UbPlJX4zC205Dfvi7w4ubGR5.jpg</photo>
+      <role>Kuze / Hideo</role>
+      <name>Michael Pitt</name>
+    </item>
+    <item index="3">
+      <photo>http://image.tmdb.org/t/p/original/xvMCVDvrQ2WlAB2LmkG6HAzlYag.jpg</photo>
+      <role>Togusa</role>
+      <name>Chin Han</name>
+    </item>
+    <item index="4">
+      <photo>http://image.tmdb.org/t/p/original/rkW6eE75Tt1i3J1s2fsIDZBW0kd.jpg</photo>
+      <role>Dr. Ouélet</role>
+      <name>Juliette Binoche</name>
+    </item>
+    <item index="5">
+      <photo>http://image.tmdb.org/t/p/original/xkXZ7HC8uyhu5MtNnbdP8mhdiFN.jpg</photo>
+      <role>Chief Daisuke Aramaki</role>
+      <name>Takeshi Kitano</name>
+    </item>
+    <item index="6">
+      <photo>http://image.tmdb.org/t/p/original/eSxMkW04VuOkQqxG2HIPw0FMJKe.jpg</photo>
+      <role>Cutter</role>
+      <name>Peter Ferdinando</name>
+    </item>
+    <item index="7">
+      <photo>http://image.tmdb.org/t/p/original/AsxUTMScQetJ1Iommki98w3rHPH.jpg</photo>
+      <role>Geisha robot</role>
+      <name>Rila Fukushima</name>
+    </item>
+    <item index="8">
+      <photo>http://image.tmdb.org/t/p/original/4LYeThK5O9EUy1OllvdsD5bTRbb.jpg</photo>
+      <role>Skinny Man</role>
+      <name>Daniel Henshall</name>
+    </item>
+    <item index="9">
+      <photo>http://image.tmdb.org/t/p/original/rGPYp0jWNplBEv1vWDbmpysaGte.jpg</photo>
+      <role>Saito</role>
+      <name>Yutaka Izumihara</name>
+    </item>
+    <item index="10">
+      <photo>http://image.tmdb.org/t/p/original/ajLN2RMuYHgTEFAzs8x8vZH0Rlu.jpg</photo>
+      <role>Dr. Dahlin</role>
+      <name>Anamaria Marinca</name>
+    </item>
+    <item index="11">
+      <photo>http://image.tmdb.org/t/p/original/aHPQaKWk1foxvieDZubUJE8olaO.jpg</photo>
+      <role>Motoko's mother</role>
+      <name>Kaori Momoi</name>
+    </item>
+    <item index="12">
+      <photo>http://image.tmdb.org/t/p/original/tATw6bSySFmqunfBXmyy0ppbsXi.jpg</photo>
+      <role>Carlos Ishikawa</role>
+      <name>Lasarus Ratuere</name>
+    </item>
+    <item index="13">
+      <photo>http://image.tmdb.org/t/p/original/iJFsfqfmUy14kU2VNrxE3JGVBAY.jpg</photo>
+      <role>Young Motoko Kusanagi</role>
+      <name>Kaori Yamamoto</name>
+    </item>
+    <item index="14">
+      <photo/>
+      <role>Young Hideo</role>
+      <name>Andrew Morris</name>
+    </item>
+    <item index="15">
+      <photo>http://image.tmdb.org/t/p/original/8FqUG5hRe9MskGzXzx8ktS7b20y.jpg</photo>
+      <role>Ladriya</role>
+      <name>Danusia Samal</name>
+    </item>
+    <item index="16">
+      <photo>http://image.tmdb.org/t/p/original/pvKUzexxZT4sRTT1BczzrwX8ghz.jpg</photo>
+      <role>Dr. Osmond</role>
+      <name>Michael Wincott</name>
+    </item>
+    <item index="17">
+      <photo>http://image.tmdb.org/t/p/original/vUpTeHW9Yokx2R2sipMZdiTfiIk.jpg</photo>
+      <role>Borma</role>
+      <name>Tawanda Manyimo</name>
+    </item>
+    <item index="18">
+      <photo>http://image.tmdb.org/t/p/original/7bJutZz5qd2rYBHHC2gyMQWNQbu.jpg</photo>
+      <role>Tony</role>
+      <name>Pete Teo</name>
+    </item>
+    <item index="19">
+      <photo/>
+      <role>Data Host</role>
+      <name>Yuta Kazama</name>
+    </item>
+    <item index="20">
+      <photo>http://image.tmdb.org/t/p/original/9mkVa3qKba8S7UcyzUYZPkeRG37.jpg</photo>
+      <role>Ambassador Kiyoshi</role>
+      <name>Christopher Obi</name>
+    </item>
+    <item index="21">
+      <photo>http://image.tmdb.org/t/p/original/jD8FV3TcLNJe64udKygGLnHkP6K.jpg</photo>
+      <role>Lia</role>
+      <name>Adwoa Aboah</name>
+    </item>
+    <item index="22">
+      <photo>http://image.tmdb.org/t/p/original/lEKOU6NyUsXW6XA7xp4p4PVbGID.jpg</photo>
+      <role/>
+      <name>Tricky</name>
+    </item>
+    <item index="23">
+      <photo>http://image.tmdb.org/t/p/original/fBDzK8Vd7XBx97nsH9sXXGf4nMD.jpg</photo>
+      <role>Bearded Man</role>
+      <name>Mana Hira Davis</name>
+    </item>
+    <item index="24">
+      <photo>http://image.tmdb.org/t/p/original/mqS7nagL7Dp1QK1152eyfT1RjOI.jpg</photo>
+      <role>Diamond Face</role>
+      <name>Kai Fung Rieck</name>
+    </item>
+    <item index="25">
+      <photo>http://image.tmdb.org/t/p/original/kcDr96zRyuM3IiR5RWPV14D5dMK.jpg</photo>
+      <role>No Pupils</role>
+      <name>Andrew Stehlin</name>
+    </item>
+    <item index="26">
+      <photo>http://image.tmdb.org/t/p/original/65KBlRWu561lTVPHlhgHskprLOh.jpg</photo>
+      <role>Thick Built Yakuza</role>
+      <name>Matthias Luafutu</name>
+    </item>
+    <item index="27">
+      <photo>http://image.tmdb.org/t/p/original/ryhkaAVyAxAfCUj6P12EkYO8Rk4.jpg</photo>
+      <role>Barkeep</role>
+      <name>John Luafutu</name>
+    </item>
+    <item index="28">
+      <photo>http://image.tmdb.org/t/p/original/7Q4eMvFKcmYSUfLSlNMHtlSkoKh.jpg</photo>
+      <role>Geisha</role>
+      <name>Tanya Drewery</name>
+    </item>
+    <item index="29">
+      <photo>http://image.tmdb.org/t/p/original/9YcJF1avZliG3Mu01mUQxuiUuu4.jpg</photo>
+      <role>Geisha</role>
+      <name>Jacqueline Lee Geurts</name>
+    </item>
+    <item index="30">
+      <photo>http://image.tmdb.org/t/p/original/fpXCLG1HbNlPl6nEDnqQTvohMEm.jpg</photo>
+      <role>Geisha</role>
+      <name>Hannah Tasker-Poland</name>
+    </item>
+    <item index="31">
+      <photo>http://image.tmdb.org/t/p/original/aAHgg8eO7kaHw0Mmn1jatBxmRYv.jpg</photo>
+      <role>Geisha</role>
+      <name>Emma Coppersmith</name>
+    </item>
+    <item index="32">
+      <photo>http://image.tmdb.org/t/p/original/6m1scLGa91uDDYBftdEcEOuXrAm.jpg</photo>
+      <role>Kinsana</role>
+      <name>Shinji Ikefuji</name>
+    </item>
+    <item index="33">
+      <photo>http://image.tmdb.org/t/p/original/yNdHNB90SXulSRLqbYeZ5JXppqO.jpg</photo>
+      <role>Section Six Soldier</role>
+      <name>Xavier Horan</name>
+    </item>
+    <item index="34">
+      <photo>http://image.tmdb.org/t/p/original/ma3ZFzGiF4ANlEym3ACFOG0n7qV.jpg</photo>
+      <role>Section Six Soldier</role>
+      <name>Allan Henry</name>
+    </item>
+    <item index="35">
+      <photo>http://image.tmdb.org/t/p/original/9N4UmM1runLmdhzIhZ5Xfk4Qo21.jpg</photo>
+      <role>Police Commander Johns</role>
+      <name>Joseph Naufahu</name>
+    </item>
+    <item index="36">
+      <photo>http://image.tmdb.org/t/p/original/f32b7dh8dg5s5LWXyiSYZacDQAG.jpg</photo>
+      <role>Yakuza Gunman</role>
+      <name>Makoto Murata</name>
+    </item>
+    <item index="37">
+      <photo>http://image.tmdb.org/t/p/original/bnm6kVfTmAn0p4igz3X7pFnnFSE.jpg</photo>
+      <role>Section 6 soldier</role>
+      <name>Philippe Joly</name>
+    </item>
+  </roles>
+  <similar>
+    <item index="0">Life</item>
+    <item index="1">Kong: Skull Island</item>
+    <item index="2">Valerian and the City of a Thousand Planets</item>
+    <item index="3">King Arthur: Legend of the Sword</item>
+    <item index="4">The Mummy</item>
+    <item index="5">Alien: Covenant</item>
+    <item index="6">The Dark Tower</item>
+    <item index="7">The Great Wall</item>
+    <item index="8">Guardians of the Galaxy Vol. 2</item>
+    <item index="9">Assassin's Creed</item>
+    <item index="10">John Wick: Chapter 2</item>
+    <item index="11">Logan</item>
+    <item index="12">Power Rangers</item>
+    <item index="13">Warcraft</item>
+    <item index="14">Atomic Blonde</item>
+    <item index="15">Rogue One: A Star Wars Story</item>
+    <item index="16">Transformers: The Last Knight</item>
+    <item index="17">Star Trek Beyond</item>
+    <item index="18">Passengers</item>
+    <item index="19">Doctor Strange</item>
+  </similar>
+  <studio>Paramount</studio>
+  <summary>In the near future, Major is the first of her kind: a human saved from a terrible crash, then cyber-enhanced to be a perfect soldier devoted to stopping the world's most dangerous criminals.</summary>
+  <tagline>There's nothing sadder than a puppet without a ghost.</tagline>
+  <tags/>
+  <themes/>
+  <title>Ghost in the Shell</title>
+  <writers>
+    <item index="0">
+      <photo/>
+      <role/>
+      <name>William Wheeler</name>
+    </item>
+    <item index="1">
+      <photo/>
+      <role/>
+      <name>Jamie Moss</name>
+    </item>
+    <item index="2">
+      <photo>http://image.tmdb.org/t/p/original/3aC4aA5DKv6fymluT2X6UQ1iKua.jpg</photo>
+      <role/>
+      <name>Ehren Kruger</name>
+    </item>
+  </writers>
+  <year>2017</year>
+</Movie>

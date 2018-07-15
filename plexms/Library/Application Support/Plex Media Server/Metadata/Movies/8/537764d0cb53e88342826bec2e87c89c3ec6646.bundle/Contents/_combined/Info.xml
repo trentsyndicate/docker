@@ -1,0 +1,547 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Movie>
+  <art>
+    <item external="True" url="http://image.tmdb.org/t/p/original/sjlazM3rNM9f84lXT8s02pn9kTE.jpg" sort_order="1" provider="com.plexapp.agents.imdb" media="com.plexapp.agents.imdb_f07c691fafa6ba32fe2a141b093c7c4e7abcf086"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/eHwZWKWQAwB98krGQ18RFp9Hw3e.jpg" preview="com.plexapp.agents.imdb_6f10fa7a9ea7fa9ee77ace87e7e4dcfe37291855" sort_order="2" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/nRTMrIXq5vWxP8CSPdZtRIxZ6Zy.jpg" preview="com.plexapp.agents.imdb_0152e0696eca1790bf8a5e37c7a614be48288eb0" sort_order="3" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/c8089lawo2H6kpGgZQntUiM9tzh.jpg" preview="com.plexapp.agents.imdb_419ea9eefc369ae982f33b428428313657384d7a" sort_order="4" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/8wcKu407n5MxknoVoub8HcSB2J8.jpg" preview="com.plexapp.agents.imdb_ae9b6b134147220c9237383f89009ca4686b4802" sort_order="5" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/rrlEkqoT37kNZD572g9reTY57Ve.jpg" preview="com.plexapp.agents.imdb_ded11ea9113eb123a980b609a354d6602826e506" sort_order="6" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/2opA4pngGi5Bcj8FZ8amZVpiaGz.jpg" preview="com.plexapp.agents.imdb_dbbf8a228d5d997ea7814097199a574c1556e0e3" sort_order="7" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/nWKOp57cAzdgGXZ2BN5AElVfujN.jpg" preview="com.plexapp.agents.imdb_e62774677699d3d696fb2dea709b5e1349b76fa3" sort_order="8" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/2V5gGLKV4lRliy1fAtPNrrGBtzg.jpg" preview="com.plexapp.agents.imdb_542c50fe92e22d1c93b2ecf6abdfb3a8f1e1d806" sort_order="9" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/s4dZ7NM88yYhRP5aH2F9tasQKjX.jpg" preview="com.plexapp.agents.imdb_de3e3c3aadfa67fcb1f3706f9bb9f482db8de34e" sort_order="10" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/4BgeNWuOynJh3MGoP0M589K3Iwn.jpg" preview="com.plexapp.agents.imdb_c8aa7fcadbc6216c469aeee5d8967a812ff0443e" sort_order="11" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/lhopfg4xtGjgmwqBsdGMqjjhwYa.jpg" preview="com.plexapp.agents.imdb_72481329df5302ddbd287386a5851d73a6c29ce6" sort_order="12" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/nhLRI6FbHnRVYqjBJJXsQ4ZW8f2.jpg" preview="com.plexapp.agents.imdb_b89d946832131ac20440ffae364f52601bafc287" sort_order="13" provider="com.plexapp.agents.imdb"/>
+  </art>
+  <banners/>
+  <chapters>
+    <item index="0">
+      <title>Chapter 1</title>
+      <end_time_offset>254000</end_time_offset>
+      <start_time_offset>0</start_time_offset>
+    </item>
+    <item index="1">
+      <title>Chapter 2</title>
+      <end_time_offset>767000</end_time_offset>
+      <start_time_offset>254000</start_time_offset>
+    </item>
+    <item index="2">
+      <title>Chapter 3</title>
+      <end_time_offset>1088000</end_time_offset>
+      <start_time_offset>767000</start_time_offset>
+    </item>
+    <item index="3">
+      <title>Chapter 4</title>
+      <end_time_offset>1360000</end_time_offset>
+      <start_time_offset>1088000</start_time_offset>
+    </item>
+    <item index="4">
+      <title>Chapter 5</title>
+      <end_time_offset>1802000</end_time_offset>
+      <start_time_offset>1360000</start_time_offset>
+    </item>
+    <item index="5">
+      <title>Chapter 6</title>
+      <end_time_offset>2187000</end_time_offset>
+      <start_time_offset>1802000</start_time_offset>
+    </item>
+    <item index="6">
+      <title>Chapter 7</title>
+      <end_time_offset>2598000</end_time_offset>
+      <start_time_offset>2187000</start_time_offset>
+    </item>
+    <item index="7">
+      <title>Chapter 8</title>
+      <end_time_offset>3029000</end_time_offset>
+      <start_time_offset>2598000</start_time_offset>
+    </item>
+    <item index="8">
+      <title>Chapter 9</title>
+      <end_time_offset>3386000</end_time_offset>
+      <start_time_offset>3029000</start_time_offset>
+    </item>
+    <item index="9">
+      <title>Chapter 10</title>
+      <end_time_offset>3819000</end_time_offset>
+      <start_time_offset>3386000</start_time_offset>
+    </item>
+    <item index="10">
+      <title>Chapter 11</title>
+      <end_time_offset>4379000</end_time_offset>
+      <start_time_offset>3819000</start_time_offset>
+    </item>
+    <item index="11">
+      <title>Chapter 12</title>
+      <end_time_offset>4734000</end_time_offset>
+      <start_time_offset>4379000</start_time_offset>
+    </item>
+    <item index="12">
+      <title>Chapter 13</title>
+      <end_time_offset>5073000</end_time_offset>
+      <start_time_offset>4734000</start_time_offset>
+    </item>
+    <item index="13">
+      <title>Chapter 14</title>
+      <end_time_offset>5452000</end_time_offset>
+      <start_time_offset>5073000</start_time_offset>
+    </item>
+    <item index="14">
+      <title>Chapter 15</title>
+      <end_time_offset>5693000</end_time_offset>
+      <start_time_offset>5452000</start_time_offset>
+    </item>
+    <item index="15">
+      <title>Chapter 16</title>
+      <end_time_offset>6086000</end_time_offset>
+      <start_time_offset>5693000</start_time_offset>
+    </item>
+    <item index="16">
+      <title>Chapter 17</title>
+      <end_time_offset>6366000</end_time_offset>
+      <start_time_offset>6086000</start_time_offset>
+    </item>
+    <item index="17">
+      <title>Chapter 18</title>
+      <end_time_offset>6832000</end_time_offset>
+      <start_time_offset>6366000</start_time_offset>
+    </item>
+    <item index="18">
+      <title>Chapter 19</title>
+      <end_time_offset>7117000</end_time_offset>
+      <start_time_offset>6832000</start_time_offset>
+    </item>
+    <item index="19">
+      <title>Chapter 20</title>
+      <end_time_offset>-1</end_time_offset>
+      <start_time_offset>7117000</start_time_offset>
+    </item>
+  </chapters>
+  <collections/>
+  <content_rating>R</content_rating>
+  <countries>
+    <item index="0">USA</item>
+  </countries>
+  <directors>
+    <item index="0">
+      <photo>http://image.tmdb.org/t/p/original/14UXPkIwfCGZHCpjeUvE342m035.jpg</photo>
+      <role/>
+      <name>Malcolm D. Lee</name>
+    </item>
+  </directors>
+  <duration>7320000</duration>
+  <genres>
+    <item index="0">Comedy</item>
+  </genres>
+  <originally_available_at>2017-07-21</originally_available_at>
+  <posters>
+    <item external="True" url="http://image.tmdb.org/t/p/original/94nCLn74lBh4pLdZPIad18BpheE.jpg" sort_order="1" provider="com.plexapp.agents.imdb" media="com.plexapp.agents.imdb_42cc7c7938f2e6fd184984223a3b60d1fd8039b6"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/fM1h8CwtdileV3zlemXx7UWJjOP.jpg" preview="com.plexapp.agents.imdb_11d659374ca1f08fcd12784d7cdd6795658244b4" sort_order="2" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/4B8skaHNOI5CtYihbblxbO8IO32.jpg" preview="com.plexapp.agents.imdb_39aa210f3240f4453ebf57dae454de71e0b9aec4" sort_order="3" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/uzBvmlopkJYWGWlUbqZ1G1Ls2ul.jpg" preview="com.plexapp.agents.imdb_a4dbfed4826359fadd7f1f60f0b1216318457ed8" sort_order="4" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/nKuVyp2QaS4fy0mblRk7BNV1GWB.jpg" preview="com.plexapp.agents.imdb_ebb2ac40d25a817eb3c92d48f4597f84510e1aa8" sort_order="5" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/lHaEGalndMQrPP9ytYlo5GuNh3g.jpg" preview="com.plexapp.agents.imdb_bb217f0c298f4f0ee73b18f8139fc6388a2a47a7" sort_order="6" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/lyKXdhDQwIgKsema88cg1yHJYP.jpg" preview="com.plexapp.agents.imdb_b05162a7f1ef3b512a60f9aec074e2e6af206690" sort_order="7" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/fmOBCUhGdfeKnMyjUHPWaLZAv7.jpg" preview="com.plexapp.agents.imdb_baea91ab4fef2ef0f4dc932d05878afd4eb94a72" sort_order="8" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/eYec6y8mjwSzm88k9HtUjiGSvfd.jpg" preview="com.plexapp.agents.imdb_63aadd2850707ef836225ae5a05d263207ee53ee" sort_order="9" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/9mMrLrr9ramVnCSuCwpOazkzFcL.jpg" preview="com.plexapp.agents.imdb_5dfefe816cd92f73b5bf29a82f95cd2b65a11151" sort_order="10" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/b7tCaYqqiTcx7RAf3xp7r7WrAp4.jpg" preview="com.plexapp.agents.imdb_6837cda8c5e571c18a964bfdcdacfaf9091d8508" sort_order="11" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/vhoOaXD5OKnDkYUAenP4qRelimF.jpg" preview="com.plexapp.agents.imdb_1196c243ee7ef572875284616da9c42adeb8a675" sort_order="12" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/srjEX66IUNE214VkzQWk03ZITHI.jpg" preview="com.plexapp.agents.imdb_2282088e06960459d22abb3b0f84f14c2d52f86b" sort_order="13" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/e6EB7bsmZhFqbGdMO3gKhYfYilb.jpg" preview="com.plexapp.agents.imdb_8316d12a02f6ff7b16950c3a32766cf35290854c" sort_order="14" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/9LHwlCGVeKdbDeC4oXYZtbeyQDN.jpg" preview="com.plexapp.agents.imdb_50eddd860b13e033b0182de496028b8a6b30a133" sort_order="15" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/9prZibyJJfZQ7qfyTVybX0X9qBm.jpg" preview="com.plexapp.agents.imdb_4bcc3bcaf06535e3ed0ed8acfaff908b7e046ef8" sort_order="16" provider="com.plexapp.agents.imdb"/>
+  </posters>
+  <producers>
+    <item index="0">
+      <photo>http://image.tmdb.org/t/p/original/PcsrTr3Vlqg2v9uAzTpuJRbEtz.jpg</photo>
+      <role/>
+      <name>William Packer</name>
+    </item>
+    <item index="1">
+      <photo>http://image.tmdb.org/t/p/original/14UXPkIwfCGZHCpjeUvE342m035.jpg</photo>
+      <role/>
+      <name>Malcolm D. Lee</name>
+    </item>
+  </producers>
+  <rating>9.0</rating>
+  <rating_image>rottentomatoes://image.rating.ripe</rating_image>
+  <audience_rating>7.9</audience_rating>
+  <audience_rating_image>rottentomatoes://image.rating.upright</audience_rating_image>
+  <reviews>
+    <item index="0">
+      <text>[Tiffany] Haddish is a genius technician of physical comedy, at once subtle and gigantic.</text>
+      <source>New Yorker</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>https://www.newyorker.com/culture/culture-desk/girls-trip-a-filthy-freeing-physical-comedy</link>
+      <author>Doreen St. Felix</author>
+    </item>
+    <item index="1">
+      <text>There's nothing embarrassing about the Posse in Girls Trip, which depicts the friendships these characters have sustained not as vestigial remnants, but as a guiding force toward being true to oneself.</text>
+      <source>BuzzFeed News</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>https://www.buzzfeed.com/alisonwillmore/enough-frenemies-from-college?utm_term=.ahJyVBdoO#.eq5WKVXpZ</link>
+      <author>Alison Willmore</author>
+    </item>
+    <item index="2">
+      <text>In all the ways 'Rough Night' went wrong, 'Girl Trip' goes hilariously right. Regina Hall, Jada Pinkett Smith, Queen Latifah and-yowza!- Tiffany Haddish let laughs bubble out of character instead of blunt-force farce. It makes all the difference.</text>
+      <source>Rolling Stone</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>http://www.rollingstone.com/movies/reviews/peter-travers-girls-trip-hits-all-the-right-notes-w492858</link>
+      <author>Peter Travers</author>
+    </item>
+    <item index="3">
+      <text>There is no raunchier, more raucous, filthy and truly crass movie out this summer than Girls Trip - and I loved every minute of it.</text>
+      <source>Globe and Mail</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>https://www.theglobeandmail.com/arts/film/film-reviews/review-girls-trip-shimmers-in-the-barren-landscape-of-summer-movies/article35752508/</link>
+      <author>Julia Cooper</author>
+    </item>
+    <item index="4">
+      <text>The dynamic between the four friends leaps off the screen and makes "Girls Trip" a journey well worth taking.</text>
+      <source>Detroit News</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>http://www.detroitnews.com/story/entertainment/movies/2017/07/21/movie-review-girls-trip/103870072/</link>
+      <author>Adam Graham</author>
+    </item>
+    <item index="5">
+      <text>Unfortunately, the jokes stop being funny about 30 minutes before the end credits roll and the character-based elements are never better than overly familiar.</text>
+      <source>ReelViews</source>
+      <image>rottentomatoes://image.review.rotten</image>
+      <link>http://www.reelviews.net/reelviews/girls-trip</link>
+      <author>James Berardinelli</author>
+    </item>
+    <item index="6">
+      <text>Pinkett Smith and Queen Latifah are as reliable as ever onscreen. And Regina Hall gives one of her best performances as Ryan, who keeps on telling everyone you can "have it all" even as her own marriage tells a different story.</text>
+      <source>Chicago Sun-Times</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>http://chicago.suntimes.com/entertainment/funny-likable-leads-of-girls-trip-make-ideal-travel-companions/</link>
+      <author>Richard Roeper</author>
+    </item>
+    <item index="7">
+      <text>For some reason with this film, the wildness feels wilder, the vulnerability rawer and the sisterhood stronger.</text>
+      <source>Time Out</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>https://www.timeout.com/us/film/girls-trip</link>
+      <author>Joshua Rothkopf</author>
+    </item>
+    <item index="8">
+      <text>The ladies-on-the-loose comedy that everyone needs right now, even if they don't know it yet.</text>
+      <source>RogerEbert.com</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>http://www.rogerebert.com/reviews/girls-trip-2017</link>
+      <author>Susan Wloszczyna</author>
+    </item>
+    <item index="9">
+      <text>Haddish is so incandescently filthy that a new ratings system should be developed to accommodate her.</text>
+      <source>NPR</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>http://www.npr.org/2017/07/20/538152967/filthy-freewheeling-girls-trip-features-the-summers-breakout-performance?utm_medium=RSS&amp;utm_campaign=movies</link>
+      <author>Scott Tobias</author>
+    </item>
+    <item index="10">
+      <text>"Girls Trip" accomplishes exactly what it sets out to do: shock and amuse. Along the way, it reminds us how important old friends can be.</text>
+      <source>Washington Post</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>https://www.washingtonpost.com/goingoutguide/movies/girls-trip-unleashes-laughter-and-love--along-with-a-torrent-of-r-rated-raunch/2017/07/19/52ffcd9a-6c77-11e7-96ab-5f38140b38cc_story.html?utm_term=.48f9291af32d</link>
+      <author>Stephanie Merry</author>
+    </item>
+    <item index="11">
+      <text>For the most part, "Girls Trip" balances sincere sentiment and boisterous comedy with honesty and skill, and for people who like their comedy a little nasty, this one's a blast.</text>
+      <source>San Francisco Chronicle</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>http://www.sfchronicle.com/movies/article/Girls-Trip-is-a-heartfelt-and-outrageous-11302871.php</link>
+      <author>Mick LaSalle</author>
+    </item>
+    <item index="12">
+      <text>Now this is how you do a female raunch comedy.</text>
+      <source>New York Post</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>http://nypost.com/2017/07/20/girls-trip-is-female-raunch-comedy-done-right/</link>
+      <author>Sara Stewart</author>
+    </item>
+    <item index="13">
+      <text>Girls Trip is just fun, a movie that-even within the context of its broad, exaggerated humor-never seems to be trying too hard.</text>
+      <source>TIME Magazine</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>http://time.com/4864477/girls-trip-review/</link>
+      <author>Stephanie Zacharek</author>
+    </item>
+    <item index="14">
+      <text>Sexy, sharply written and beautifully acted ...</text>
+      <source>Los Angeles Times</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>http://www.latimes.com/entertainment/movies/la-et-mn-girls-trip-review-20170720-story.html</link>
+      <author>Justin Chang</author>
+    </item>
+    <item index="15">
+      <text>Among the funniest movies of the year, period.</text>
+      <source>Slate</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>https://slate.com/arts/2017/07/girls-trip-the-new-movie-reviewed.html</link>
+      <author>Aisha Harris</author>
+    </item>
+    <item index="16">
+      <text>Bridesmaids proved that women could be just as smutty onscreen as men, but this fast-paced comedy is ruder, cruder, funnier, and more explicit.</text>
+      <source>Chicago Reader</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>https://www.chicagoreader.com/chicago/girls-trip/MovieTimes?oid=27084295</link>
+      <author>Andrea Gronvall</author>
+    </item>
+    <item index="17">
+      <text>"Girls Trip" is a hilarious reminder that we all need a Flossy Posse to make us laugh until our sides ache and give it to us straight when no one else will.</text>
+      <source>Boston Globe</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>https://www.bostonglobe.com/arts/movies/2017/07/19/girls-trip-black-girl-magic-reigns-supreme/VyMO5LOOlb2zTkWk3SYsHO/story.html</link>
+      <author>Bethany Ao</author>
+    </item>
+    <item index="18">
+      <text>Girls Trip is a very good time.</text>
+      <source>New York Magazine/Vulture</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>http://www.vulture.com/2017/07/girls-trip-is-an-insanely-good-time.html</link>
+      <author>Emily Yoshida</author>
+    </item>
+    <item index="19">
+      <text>The film is audacious and unabashed in its determination to draw laughs from material that takes vulgarity to the extreme. Some of it works while a lot of it is just head-shakingly awful.</text>
+      <source>Toronto Star</source>
+      <image>rottentomatoes://image.review.rotten</image>
+      <link>https://www.thestar.com/entertainment/movies/2017/07/20/girls-trip-goes-too-far-far-too-often-review.html</link>
+      <author>Bruce Demara</author>
+    </item>
+  </reviews>
+  <roles>
+    <item index="0">
+      <photo>http://image.tmdb.org/t/p/original/5xwv4XUND9HhJqfeTmtxmzJJJR0.jpg</photo>
+      <role>Ryan Pierce</role>
+      <name>Regina Hall</name>
+    </item>
+    <item index="1">
+      <photo>http://image.tmdb.org/t/p/original/ht52no1SMDhYBwRAmWL9a5YCss1.jpg</photo>
+      <role>Sasha Franklin</role>
+      <name>Queen Latifah</name>
+    </item>
+    <item index="2">
+      <photo>http://image.tmdb.org/t/p/original/Pb8KeGa4kTgJqS2ASoYvbNHbLr.jpg</photo>
+      <role>Lisa Cooper</role>
+      <name>Jada Pinkett Smith</name>
+    </item>
+    <item index="3">
+      <photo>http://image.tmdb.org/t/p/original/Avmv1YY7Qscz0TyWxhqFoS7BO5f.jpg</photo>
+      <role>Dina</role>
+      <name>Tiffany Haddish</name>
+    </item>
+    <item index="4">
+      <photo>http://image.tmdb.org/t/p/original/ApN0l0NF1fUp61PwffW09ZqEUMW.jpg</photo>
+      <role>Julian Stevens</role>
+      <name>Larenz Tate</name>
+    </item>
+    <item index="5">
+      <photo>http://image.tmdb.org/t/p/original/gAqaj4qmyhR4cCw22cmOAcvEFk6.jpg</photo>
+      <role>Stewart Pierce</role>
+      <name>Mike Colter</name>
+    </item>
+    <item index="6">
+      <photo>http://image.tmdb.org/t/p/original/xKy0PNB5xLSwm6yyL3zZ5zUNvQZ.jpg</photo>
+      <role>Elizabeth Davelli</role>
+      <name>Kate Walsh</name>
+    </item>
+    <item index="7">
+      <photo>http://image.tmdb.org/t/p/original/4qxcHkPIMUMZCW7UNH9kIfRndgS.jpg</photo>
+      <role>Malik</role>
+      <name>Kofi Siriboe</name>
+    </item>
+    <item index="8">
+      <photo>http://image.tmdb.org/t/p/original/xAMkokPxvf07zmd1vXcAN1A9bPa.jpg</photo>
+      <role>Simone</role>
+      <name>Deborah Ayorinde</name>
+    </item>
+    <item index="9">
+      <photo/>
+      <role>Aunt Marian</role>
+      <name>Tonea Stewart</name>
+    </item>
+    <item index="10">
+      <photo>http://image.tmdb.org/t/p/original/aZarz4uBJ8chtvQAEiQIimVnkc7.jpg</photo>
+      <role>Bethany</role>
+      <name>Lara Grice</name>
+    </item>
+    <item index="11">
+      <photo>http://image.tmdb.org/t/p/original/tQaxbjdvR9WXf1SExlPSLKhZgQp.jpg</photo>
+      <role>Ted</role>
+      <name>Ricky Wayne</name>
+    </item>
+    <item index="12">
+      <photo>http://image.tmdb.org/t/p/original/sszrBivDN2Ry0I3vWY5k8CjxYdB.jpg</photo>
+      <role>Hobo Bob</role>
+      <name>Robert Miano</name>
+    </item>
+    <item index="13">
+      <photo>http://image.tmdb.org/t/p/original/rmcR3kkxhy3QxRjyM0UFXHDxqAB.jpg</photo>
+      <role>Himself</role>
+      <name>Ne-Yo</name>
+    </item>
+    <item index="14">
+      <photo>http://image.tmdb.org/t/p/original/7zYcPYxQh8UsRx1PHejAOeegpy0.jpg</photo>
+      <role>Herself</role>
+      <name>Faith Evans</name>
+    </item>
+    <item index="15">
+      <photo>http://image.tmdb.org/t/p/original/8uXIo48u1hyuUUVnCpXXniBfw6c.jpg</photo>
+      <role>Himself</role>
+      <name>Morris Chestnut</name>
+    </item>
+    <item index="16">
+      <photo>http://image.tmdb.org/t/p/original/p8afMWILP7PjRgQH64N1Q7jkMxY.jpg</photo>
+      <role>Herself</role>
+      <name>Gabrielle Dennis</name>
+    </item>
+    <item index="17">
+      <photo>http://image.tmdb.org/t/p/original/pd75jVczctC2EsHghfeSyLpChqj.jpg</photo>
+      <role>Herself</role>
+      <name>MC Lyte</name>
+    </item>
+    <item index="18">
+      <photo/>
+      <role>Himself</role>
+      <name>Ricky Bell</name>
+    </item>
+    <item index="19">
+      <photo/>
+      <role>Himself</role>
+      <name>Michael Lamont Bivins</name>
+    </item>
+    <item index="20">
+      <photo/>
+      <role>Himself</role>
+      <name>Ronnie DeVoe</name>
+    </item>
+    <item index="21">
+      <photo>http://image.tmdb.org/t/p/original/yDY3pmSKAzLVrRBHlcm464qjXhc.jpg</photo>
+      <role>Himself</role>
+      <name>Johnny Gill</name>
+    </item>
+    <item index="22">
+      <photo/>
+      <role>Himself</role>
+      <name>Ralph E. Tresvant</name>
+    </item>
+    <item index="23">
+      <photo>http://image.tmdb.org/t/p/original/fYA8xm95u4papXddRvQrGRNDThF.jpg</photo>
+      <role>Himself</role>
+      <name>Common</name>
+    </item>
+    <item index="24">
+      <photo>http://image.tmdb.org/t/p/original/9FCRcCUdYgd3oVVktPzLZUqDd3w.jpg</photo>
+      <role>Herself</role>
+      <name>Estelle</name>
+    </item>
+    <item index="25">
+      <photo>http://image.tmdb.org/t/p/original/64S9zCFVzHoloRSzd7yd0covlhC.jpg</photo>
+      <role>Absinthe Dealer</role>
+      <name>Mike Epps</name>
+    </item>
+    <item index="26">
+      <photo>http://image.tmdb.org/t/p/original/1VHm6OMDQAjlcdp4clbTsU0J9ek.jpg</photo>
+      <role>Print Reporter</role>
+      <name>Janeline Hayes</name>
+    </item>
+    <item index="27">
+      <photo>http://image.tmdb.org/t/p/original/a8wTPPXmRDEkLKbYGvM6pqnIfXB.jpg</photo>
+      <role>Delores</role>
+      <name>Donna Biscoe</name>
+    </item>
+    <item index="28">
+      <photo>http://image.tmdb.org/t/p/original/vCTLKZqr2YnupKIUq7ZdovRG5jK.jpg</photo>
+      <role>Herself</role>
+      <name>Sunny Hostin</name>
+    </item>
+    <item index="29">
+      <photo>http://image.tmdb.org/t/p/original/pEHcXK8SiMiX05fsSqMAWKzLucG.jpg</photo>
+      <role>Herself</role>
+      <name>Iyanla Vanzant</name>
+    </item>
+    <item index="30">
+      <photo>http://image.tmdb.org/t/p/original/hbiHQv0Mz5hrFEMbcVxClSPV8FU.jpg</photo>
+      <role>Himself</role>
+      <name>Sean Combs</name>
+    </item>
+    <item index="31">
+      <photo>http://image.tmdb.org/t/p/original/tHvHTU5gV68sNig0kUBatXWuwt9.jpg</photo>
+      <role>Herself</role>
+      <name>Lorraine Toussaint</name>
+    </item>
+    <item index="32">
+      <photo>http://image.tmdb.org/t/p/original/3z4TOe9qzpgmQ2xwLp6Kmv4A7Gq.jpg</photo>
+      <role>Herself</role>
+      <name>Mariah Carey</name>
+    </item>
+    <item index="33">
+      <photo>http://image.tmdb.org/t/p/original/aPqljM4HgoqAAK4xNw5mxbF0dRp.jpg</photo>
+      <role>Herself</role>
+      <name>Ava DuVernay</name>
+    </item>
+    <item index="34">
+      <photo>http://image.tmdb.org/t/p/original/cQCR4LS14eEaFEciMwXIuUndPil.jpg</photo>
+      <role>Himself</role>
+      <name>William Levy</name>
+    </item>
+    <item index="35">
+      <photo>http://image.tmdb.org/t/p/original/2EqVBaDGRA0sHkEKagu2NxfP1Nm.jpg</photo>
+      <role>Himself</role>
+      <name>Kenneth Edmonds</name>
+    </item>
+  </roles>
+  <similar>
+    <item index="0">Rough Night</item>
+    <item index="1">A Bad Moms Christmas</item>
+    <item index="2">The House</item>
+    <item index="3">The Big Sick</item>
+    <item index="4">Snatched</item>
+    <item index="5">The Little Hours</item>
+    <item index="6">Ingrid Goes West</item>
+    <item index="7">Table 19</item>
+    <item index="8">Fist Fight</item>
+    <item index="9">Home Again</item>
+    <item index="10">Sisters</item>
+    <item index="11">Bad Moms</item>
+    <item index="12">The Layover</item>
+    <item index="13">Landline</item>
+    <item index="14">Popstar: Never Stop Never Stopping</item>
+    <item index="15">Game Night</item>
+    <item index="16">Blockers</item>
+    <item index="17">Logan Lucky</item>
+    <item index="18">Marshall</item>
+    <item index="19">Father Figures</item>
+  </similar>
+  <studio>Universal Pictures</studio>
+  <summary>Four girlfriends take a trip to New Orleans for an annual festival and, along the way, rediscover their wild sides and strengthen the bonds of sisterhood.</summary>
+  <tagline>Forgive us in advance for this wild weekend</tagline>
+  <tags/>
+  <themes/>
+  <title>Girls Trip</title>
+  <writers>
+    <item index="0">
+      <photo>http://image.tmdb.org/t/p/original/rJlBuLI9hf34Iy0kE3zlqDNSF2P.jpg</photo>
+      <role/>
+      <name>Kenya Barris</name>
+    </item>
+    <item index="1">
+      <photo/>
+      <role/>
+      <name>Karen McCullah Lutz</name>
+    </item>
+    <item index="2">
+      <photo/>
+      <role/>
+      <name>Tracy Oliver</name>
+    </item>
+    <item index="3">
+      <photo/>
+      <role/>
+      <name>Erica Rivinoja</name>
+    </item>
+  </writers>
+  <year>2017</year>
+</Movie>

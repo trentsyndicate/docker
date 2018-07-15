@@ -1,0 +1,762 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Movie>
+  <art>
+    <item external="True" url="http://image.tmdb.org/t/p/original/pIUvQ9Ed35wlWhY2oU6OmwEsmzG.jpg" sort_order="1" provider="com.plexapp.agents.imdb" media="com.plexapp.agents.imdb_4cf710f93b8a361e0193aad4e97e4c511e543b01"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/azMhWbDPXvBjM2i3OsuMZtqBJC6.jpg" preview="com.plexapp.agents.imdb_954420176af447ce4a2c7d4fe7bed67a6e4586a8" sort_order="2" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/eorEpgl82HbCBAXR5D4mc6MRhfS.jpg" preview="com.plexapp.agents.imdb_09814273780317df888699bebfe5a178cddadf1c" sort_order="3" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/ua5EHfleb44L5hfHPs2BPqRAove.jpg" preview="com.plexapp.agents.imdb_a2598ca94c0cbb592ca6ba99c98eef2756f071c4" sort_order="4" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/dUVbWINfRMGojGZRcO6GF1Z2nV8.jpg" preview="com.plexapp.agents.imdb_7a3f02d4e442888c2060764851893010271be3db" sort_order="5" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/9o4uECGwbojmy8jiSPF4dUwolwS.jpg" preview="com.plexapp.agents.imdb_c5b23e8818a93033419dd0f9dd8a50a47ca89c74" sort_order="6" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/zzIdXP769uYxQq6rK9plfeoVdTo.jpg" preview="com.plexapp.agents.imdb_6d461b62c5dfd1d5be6a236f86b9563d53026729" sort_order="7" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/ssKTgmA1S7GLiPe83tVoitk7Nqd.jpg" preview="com.plexapp.agents.imdb_6676b4d65cd85876721b3e88e80b6a1d2788865f" sort_order="8" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/skVTWsoQvFGLUnOo1Wv3coAsARw.jpg" preview="com.plexapp.agents.imdb_5d8d992aa740d7b048d74269b0e6f79474b2b70a" sort_order="9" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/keyOZ8KcjHMTVH8p0owTXvw18Wf.jpg" preview="com.plexapp.agents.imdb_f6bbaa84732221555c156ab3642c4a548bcb0247" sort_order="10" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/7YUrTzoiPostC1qJJZ6l6Vmy5nk.jpg" preview="com.plexapp.agents.imdb_dda2e38bf1952e27923b8cba1aace3ebb60b449e" sort_order="11" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/oBa3sAvIu7LnaCfrP4ODs3nQsWK.jpg" preview="com.plexapp.agents.imdb_526741c1de9b3311fcbf06e640fc2cb808b2f2c0" sort_order="12" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/q9nym8NbrISGGHLpQbhxfevKCZ2.jpg" preview="com.plexapp.agents.imdb_521f000ce40bdd33803b369907d3c9bd0507339d" sort_order="13" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/ictsoNmpfwFB3RaWQiooUS0uzFm.jpg" preview="com.plexapp.agents.imdb_71be785d1248ba66421d35446f0a75fdd93b6c31" sort_order="14" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/89SlHOCLKu7tzj8gMN7YFuAtIbT.jpg" preview="com.plexapp.agents.imdb_e1de1bb69cc76e6f4b25abd680197933e8bacac9" sort_order="15" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/4qVMwmMs4TToddLb119BEShC55g.jpg" preview="com.plexapp.agents.imdb_2f8a13d158800f16498cd45cae1acb9df0e8ba64" sort_order="16" provider="com.plexapp.agents.imdb"/>
+  </art>
+  <banners/>
+  <chapters>
+    <item index="0">
+      <title>Prologue: One Ring To Rule Them All</title>
+      <end_time_offset>456000</end_time_offset>
+      <start_time_offset>0</start_time_offset>
+    </item>
+    <item index="1">
+      <title>Concerning Hobbits</title>
+      <end_time_offset>635000</end_time_offset>
+      <start_time_offset>456000</start_time_offset>
+    </item>
+    <item index="2">
+      <title>The Shire</title>
+      <end_time_offset>939000</end_time_offset>
+      <start_time_offset>635000</start_time_offset>
+    </item>
+    <item index="3">
+      <title>Very Old Friends</title>
+      <end_time_offset>1198000</end_time_offset>
+      <start_time_offset>939000</start_time_offset>
+    </item>
+    <item index="4">
+      <title>A Long-expected Party</title>
+      <end_time_offset>1532000</end_time_offset>
+      <start_time_offset>1198000</start_time_offset>
+    </item>
+    <item index="5">
+      <title>Farewell Dear Bilbo</title>
+      <end_time_offset>1797000</end_time_offset>
+      <start_time_offset>1532000</start_time_offset>
+    </item>
+    <item index="6">
+      <title>Keep It Secret, Keep It Safe</title>
+      <end_time_offset>1930000</end_time_offset>
+      <start_time_offset>1797000</start_time_offset>
+    </item>
+    <item index="7">
+      <title>The Account Of Isildur</title>
+      <end_time_offset>2091000</end_time_offset>
+      <start_time_offset>1930000</start_time_offset>
+    </item>
+    <item index="8">
+      <title>At The Green Dragon</title>
+      <end_time_offset>2178000</end_time_offset>
+      <start_time_offset>2091000</start_time_offset>
+    </item>
+    <item index="9">
+      <title>The Shadow Of The Past</title>
+      <end_time_offset>2704000</end_time_offset>
+      <start_time_offset>2178000</start_time_offset>
+    </item>
+    <item index="10">
+      <title>The Passing Of The Elves</title>
+      <end_time_offset>2804000</end_time_offset>
+      <start_time_offset>2704000</start_time_offset>
+    </item>
+    <item index="11">
+      <title>Saruman The White</title>
+      <end_time_offset>3081000</end_time_offset>
+      <start_time_offset>2804000</start_time_offset>
+    </item>
+    <item index="12">
+      <title>A Short Cut To Mushrooms</title>
+      <end_time_offset>3312000</end_time_offset>
+      <start_time_offset>3081000</start_time_offset>
+    </item>
+    <item index="13">
+      <title>Bucklebury Ferry</title>
+      <end_time_offset>3450000</end_time_offset>
+      <start_time_offset>3312000</start_time_offset>
+    </item>
+    <item index="14">
+      <title>At The Sign Of The Prancing Pony</title>
+      <end_time_offset>3811000</end_time_offset>
+      <start_time_offset>3450000</start_time_offset>
+    </item>
+    <item index="15">
+      <title>The Nazgul</title>
+      <end_time_offset>4036000</end_time_offset>
+      <start_time_offset>3811000</start_time_offset>
+    </item>
+    <item index="16">
+      <title>The Midgewater Marshes</title>
+      <end_time_offset>4133000</end_time_offset>
+      <start_time_offset>4036000</start_time_offset>
+    </item>
+    <item index="17">
+      <title>The Spoiling Of Isengard</title>
+      <end_time_offset>4235000</end_time_offset>
+      <start_time_offset>4133000</start_time_offset>
+    </item>
+    <item index="18">
+      <title>A Knife In The Dark</title>
+      <end_time_offset>4515000</end_time_offset>
+      <start_time_offset>4235000</start_time_offset>
+    </item>
+    <item index="19">
+      <title>The Caverns Of Isengard</title>
+      <end_time_offset>4666000</end_time_offset>
+      <start_time_offset>4515000</start_time_offset>
+    </item>
+    <item index="20">
+      <title>Flight To The Ford</title>
+      <end_time_offset>5051000</end_time_offset>
+      <start_time_offset>4666000</start_time_offset>
+    </item>
+    <item index="21">
+      <title>Rivendell</title>
+      <end_time_offset>5172000</end_time_offset>
+      <start_time_offset>5051000</start_time_offset>
+    </item>
+    <item index="22">
+      <title>Many Meetings</title>
+      <end_time_offset>5381000</end_time_offset>
+      <start_time_offset>5172000</start_time_offset>
+    </item>
+    <item index="23">
+      <title>The Fate Of The Ring</title>
+      <end_time_offset>5594000</end_time_offset>
+      <start_time_offset>5381000</start_time_offset>
+    </item>
+    <item index="24">
+      <title>The Sword That Was Broken</title>
+      <end_time_offset>5754000</end_time_offset>
+      <start_time_offset>5594000</start_time_offset>
+    </item>
+    <item index="25">
+      <title>The Evenstar</title>
+      <end_time_offset>5852000</end_time_offset>
+      <start_time_offset>5754000</start_time_offset>
+    </item>
+    <item index="26">
+      <title>The Council Of Elrond</title>
+      <end_time_offset>-1</end_time_offset>
+      <start_time_offset>5852000</start_time_offset>
+    </item>
+  </chapters>
+  <collections/>
+  <content_rating>PG-13</content_rating>
+  <countries>
+    <item index="0">New Zealand</item>
+  </countries>
+  <directors>
+    <item index="0">
+      <photo>http://image.tmdb.org/t/p/original/kSrfI3TbMdIMmPVOflLQ56OfscB.jpg</photo>
+      <role/>
+      <name>Peter Jackson</name>
+    </item>
+  </directors>
+  <duration>10680000</duration>
+  <genres>
+    <item index="0">Adventure</item>
+    <item index="1">Drama</item>
+    <item index="2">Fantasy</item>
+  </genres>
+  <originally_available_at>2001-12-18</originally_available_at>
+  <posters>
+    <item external="True" url="http://image.tmdb.org/t/p/original/9HG6pINW1KoFTAKY3LdybkoOKAm.jpg" sort_order="1" provider="com.plexapp.agents.imdb" media="com.plexapp.agents.imdb_6a51b5fd15d05471324e4a8c7ef20b323da65ea7"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/eDkDYEUIHEp5qavNa5k6XsMHgbf.jpg" preview="com.plexapp.agents.imdb_bbb5a73d3a0a098042d8ac7fae52157abe599dc4" sort_order="2" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/56zTpe2xvaA4alU51sRWPoKPYZy.jpg" preview="com.plexapp.agents.imdb_afe94baa7ff61ebfe3bac99d85b74cc223c5f006" sort_order="3" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/bxVxZb5O9OxCO0oRUNdCnpy9NST.jpg" preview="com.plexapp.agents.imdb_07a08aee72f4d3d8bfbef3dfe21e9c8837e7a909" sort_order="4" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/yi1FcsfMpvuIWeSvV2xBoDmhJw4.jpg" preview="com.plexapp.agents.imdb_7c7595b98b429a2651505020e4a0ce5baef2d1b9" sort_order="5" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/4593THGOuSoGG5JDGB7BmrPUUGX.jpg" preview="com.plexapp.agents.imdb_631cd424dbea4823fe38119fea18185318847673" sort_order="6" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/tHtbtx5CkeiohQalT6Ee34STko2.jpg" preview="com.plexapp.agents.imdb_38c5240cd37289875f0ebc1cdfe1e9210b5f1889" sort_order="7" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/55e0cPTObalISDn2TPzqUs1p8jI.jpg" preview="com.plexapp.agents.imdb_5b5ed0a2f87079b49bbcd17100d33149a3c6ebaf" sort_order="8" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/j6vhXhf6us6qAWtCtkVWdKN72dM.jpg" preview="com.plexapp.agents.imdb_40401e38c91defa4c93af739d55b1fe8e8858907" sort_order="9" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/wN0bEs3bCUEotXsDYituRBctPX3.jpg" preview="com.plexapp.agents.imdb_cc489a31dbbac69dd7e4fbd0978b898f5882e96d" sort_order="10" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/jIqHqNtzmTF4z354bu32JNYHCtu.jpg" preview="com.plexapp.agents.imdb_6ecda4d7d600f630343b95ffbde8bc3f1db557b9" sort_order="11" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/7ypCCMwepUw88aMrUNG844QO563.jpg" preview="com.plexapp.agents.imdb_b2a19cc4d047197bb58f5571dbb24f22725a2bb1" sort_order="12" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/qns1zVM6fUvrjT4Vo2lMDwrzXGa.jpg" preview="com.plexapp.agents.imdb_c7bddd2c2ece4a7f5c52d5042a0fcbe0648429cd" sort_order="13" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/oV5fpccnDosHzT5k17o3GbLB6IU.jpg" preview="com.plexapp.agents.imdb_0c1b2d3b0503eb749c74af5e3bcc7e8e11519ef9" sort_order="14" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/2rdMDDmhSgLTIQJiHQMqL8PMW8r.jpg" preview="com.plexapp.agents.imdb_6be88b14fc3205b005b5a19ae729a7647a332e37" sort_order="15" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/7EDy5So6gW50maU8G8KWzeOQ0IE.jpg" preview="com.plexapp.agents.imdb_f622445b8ae18d27d391b6ecebd676e399360b82" sort_order="16" provider="com.plexapp.agents.imdb"/>
+  </posters>
+  <producers>
+    <item index="0">
+      <photo>http://image.tmdb.org/t/p/original/kSrfI3TbMdIMmPVOflLQ56OfscB.jpg</photo>
+      <role/>
+      <name>Peter Jackson</name>
+    </item>
+    <item index="1">
+      <photo>http://image.tmdb.org/t/p/original/xWtXYk6M5NFroddcQDviLlxOnkU.jpg</photo>
+      <role/>
+      <name>Barrie M. Osborne</name>
+    </item>
+  </producers>
+  <rating>9.1</rating>
+  <rating_image>rottentomatoes://image.rating.ripe</rating_image>
+  <audience_rating>9.5</audience_rating>
+  <audience_rating_image>rottentomatoes://image.rating.upright</audience_rating_image>
+  <reviews>
+    <item index="0">
+      <text>The Fellowship of the Ring is an unqualified triumph. More, please.</text>
+      <source>Minneapolis Star Tribune</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>http://www.startribune.com/entertainment/movies/11521951.html</link>
+      <author>Colin Covert</author>
+    </item>
+    <item index="1">
+      <text>An enthusiastic visionary set loose on one of the biggest playgrounds ever constructed, Jackson brings more personality to the series' first installment, The Fellowship Of The Ring, than typically seeps into a franchise of this magnitude.</text>
+      <source>AV Club</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>http://www.avclub.com/review/the-lord-of-the-rings-the-fellowship-of-the-ring-20536</link>
+      <author>Scott Tobias</author>
+    </item>
+    <item index="2">
+      <text>If Fellowship hasn't rescued an otherwise dreadful year, it at least gives us something to look forward to -- same time, next year.</text>
+      <source>New York Daily News</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>http://www.nydailynews.com/archives/nydn-features/finest-fantasy-year-fellowship-bright-dawn-rings-cycle-article-1.921525</link>
+      <author>Jack Mathews</author>
+    </item>
+    <item index="3">
+      <text>Masterfully paced, the movie builds slowly, introducing the mythology, habitats and lifestyles of Tolkien's creatures.</text>
+      <source>Associated Press</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>http://the.honoluluadvertiser.com/article/2001/Dec/16/il/il01a.html</link>
+      <author>David Germain</author>
+    </item>
+    <item index="4">
+      <text>Against all odds in an era of machine-made spectaculars, Mr. Jackson and his collaborators have created a film epic that lives and breathes, that's swept by almost palpable weather (much of it stormy).</text>
+      <source>Wall Street Journal</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>http://online.wsj.com/article/SB1008905248531640520.html</link>
+      <author>Joe Morgenstern</author>
+    </item>
+    <item index="5">
+      <text>It's full of scenic splendors with a fine sense of scale, but its narrative thrust seems relatively pro forma, and I was bored by the battle scenes.</text>
+      <source>Chicago Reader</source>
+      <image>rottentomatoes://image.review.rotten</image>
+      <link>http://onfilm.chicagoreader.com/movies/capsules/21231_LORD_OF_THE_RINGS_THE_FELLOWSHIP_OF_THE_RING</link>
+      <author>Jonathan Rosenbaum</author>
+    </item>
+    <item index="6">
+      <text>In unveiling the Holy Grail for action-fantasy aficionados, director and co-writer Peter Jackson has begun a series to rival Star Wars in the pantheon.</text>
+      <source>Time Out</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>http://www.timeout.com/film/reviews/80704/the_lord_of_the_rings-the_fellowship_of_the_ring.html</link>
+      <author>Tom Charity</author>
+    </item>
+    <item index="7">
+      <text>A nerve-jangling, pictorially beautiful, mostly engrossing phantasmagoria of ghouls and warriors, oozing ambitions and towering dark castles, waylaid only by an occasional dip into the bog of exposition.</text>
+      <source>L.A. Weekly</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>http://www.laweekly.com/2001-12-27/news/worlds-of-wonder/</link>
+      <author>Manohla Dargis</author>
+    </item>
+    <item index="8">
+      <text>The production design is a marvel, and the special effects are dazzling.</text>
+      <source>USA Today</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>http://www.usatoday.com/life/enter/movies/rings/2001-12-19-rings-review.htm</link>
+      <author>Claudia Puig</author>
+    </item>
+    <item index="9">
+      <text>The real deal, a movie epic that pops your eyes out, piles on thrills and fun, and yet stays intimately attuned to character.</text>
+      <source>Rolling Stone</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>http://www.rollingstone.com/movies/reviews/the-lord-of-the-rings-the-fellowship-of-the-ring-20011220</link>
+      <author>Peter Travers</author>
+    </item>
+    <item index="10">
+      <text>You can get gloriously lost in this.</text>
+      <source>Washington Post</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>http://www.washingtonpost.com/wp-srv/entertainment/movies/features/twotowersfeature.htm</link>
+      <author>Desson Thomson</author>
+    </item>
+    <item index="11">
+      <text>I left exhausted, happy, intoxicated.</text>
+      <source>Slate</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>http://www.slate.com/id/2059977</link>
+      <author>David Edelstein</author>
+    </item>
+    <item index="12">
+      <text>An excellent film and a ripping yarn of a movie.</text>
+      <source>TIME Magazine</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>http://www.time.com/time/europe/ta/magazine/0,9868,188807,00.html</link>
+      <author>Richard Corliss</author>
+    </item>
+    <item index="13">
+      <text>If we're not careful, Peter Jackson's The Lord Of The Rings could give hype a good name.</text>
+      <source>Toronto Star</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>http://www.thestar.ca/NASApp/cs/ContentServer?pagename=thestar/Layout/Article_Type1&amp;c=Article&amp;cid=1008716482488&amp;call_page=TS_Entertainment&amp;call_pageid=968867495754&amp;call_pagepath=Entertainment/News&amp;col=969483191630</link>
+      <author>Peter Howell</author>
+    </item>
+    <item index="14">
+      <text>As an allegory of war and world dominance, Ring is weighty stuff, and Jackson gives it appropriate resonance.</text>
+      <source>Seattle Times</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>http://community.seattletimes.nwsource.com/archive/?date=20011219&amp;slug=lord190</link>
+      <author>Moira MacDonald</author>
+    </item>
+  </reviews>
+  <roles>
+    <item index="0">
+      <photo>http://image.tmdb.org/t/p/original/hHzLAVspGGuPg1KW5JAEsyRvnUT.jpg</photo>
+      <role>Frodo Baggins</role>
+      <name>Elijah Wood</name>
+    </item>
+    <item index="1">
+      <photo>http://image.tmdb.org/t/p/original/coWjgMEYJjk2OrNddlXCBm8EIr3.jpg</photo>
+      <role>Gandalf the Grey</role>
+      <name>Ian McKellen</name>
+    </item>
+    <item index="2">
+      <photo>http://image.tmdb.org/t/p/original/hKMk7FsqzBDkQt72fOAOLePZEko.jpg</photo>
+      <role>Aragorn</role>
+      <name>Viggo Mortensen</name>
+    </item>
+    <item index="3">
+      <photo>http://image.tmdb.org/t/p/original/m40tSOPKJScFY7acY0hEWtE1ncR.jpg</photo>
+      <role>Samwise "Sam" Gamgee</role>
+      <name>Sean Astin</name>
+    </item>
+    <item index="4">
+      <photo>http://image.tmdb.org/t/p/original/q8ftpMgHVbjv3tnu7JtqFOvRjEf.jpg</photo>
+      <role>Arwen Evenstar</role>
+      <name>Liv Tyler</name>
+    </item>
+    <item index="5">
+      <photo>http://image.tmdb.org/t/p/original/vq90ECKinICxJYYZpbga4pMwch.jpg</photo>
+      <role>Legolas</role>
+      <name>Orlando Bloom</name>
+    </item>
+    <item index="6">
+      <photo>http://image.tmdb.org/t/p/original/dvT1NPY8CXIVQh0O1h6rpfYOgKz.jpg</photo>
+      <role>Gimli</role>
+      <name>John Rhys-Davies</name>
+    </item>
+    <item index="7">
+      <photo>http://image.tmdb.org/t/p/original/sXkqoK3v1nfCudXIcxKVwDc0imw.jpg</photo>
+      <role>Meriadoc "Merry" Brandybuck</role>
+      <name>Dominic Monaghan</name>
+    </item>
+    <item index="8">
+      <photo>http://image.tmdb.org/t/p/original/nwNHDM67VYAb87sjSqYQVWaZKyK.jpg</photo>
+      <role>Peregrin "Pippin" Took</role>
+      <name>Billy Boyd</name>
+    </item>
+    <item index="9">
+      <photo>http://image.tmdb.org/t/p/original/iIxP2IzvcLgr5WaTBD4UfSqaV3q.jpg</photo>
+      <role>Boromir</role>
+      <name>Sean Bean</name>
+    </item>
+    <item index="10">
+      <photo>http://image.tmdb.org/t/p/original/eNGqhebQ4cDssjVeNFrKtUvweV5.jpg</photo>
+      <role>Gollum / Witch-king of Angmar (voice)</role>
+      <name>Andy Serkis</name>
+    </item>
+    <item index="11">
+      <photo>http://image.tmdb.org/t/p/original/eE98pTm0Q2xIn0710VBC603IE5Q.jpg</photo>
+      <role>Galadriel</role>
+      <name>Cate Blanchett</name>
+    </item>
+    <item index="12">
+      <photo>http://image.tmdb.org/t/p/original/aVzp6zflzedmdKPLxaPqcZ05PDK.jpg</photo>
+      <role>Saruman</role>
+      <name>Christopher Lee</name>
+    </item>
+    <item index="13">
+      <photo>http://image.tmdb.org/t/p/original/ysED1kp94bpnweNVaDoVQQ6iy8X.jpg</photo>
+      <role>Elrond</role>
+      <name>Hugo Weaving</name>
+    </item>
+    <item index="14">
+      <photo>http://image.tmdb.org/t/p/original/27SAk1v043GdOeAxT5pPoMUYhGg.jpg</photo>
+      <role>Bilbo Baggins</role>
+      <name>Ian Holm</name>
+    </item>
+    <item index="15">
+      <photo>http://image.tmdb.org/t/p/original/g36Ydyv0YbwXLOQ2KzGjFfkCDo1.jpg</photo>
+      <role>Celeborn</role>
+      <name>Marton Csokas</name>
+    </item>
+    <item index="16">
+      <photo>http://image.tmdb.org/t/p/original/amJPcZnpWIABjbaN5FzW5vvTIEk.jpg</photo>
+      <role>Haldir</role>
+      <name>Craig Parker</name>
+    </item>
+    <item index="17">
+      <photo>http://image.tmdb.org/t/p/original/othnINT2XVhM9k4KC5qykhnOOZz.jpg</photo>
+      <role>Lurtz</role>
+      <name>Lawrence Makoare</name>
+    </item>
+    <item index="18">
+      <photo>http://image.tmdb.org/t/p/original/cO6LUWV5gdDnnhFnHTK5d8WOOj6.jpg</photo>
+      <role>Sauron / Lugdush</role>
+      <name>Sala Baker</name>
+    </item>
+    <item index="19">
+      <photo>http://image.tmdb.org/t/p/original/ciHIHAR9gZv08Qg8rPie0LLYwpe.jpg</photo>
+      <role>Rose "Rosie" Cotton</role>
+      <name>Sarah McLeod</name>
+    </item>
+    <item index="20">
+      <photo>http://image.tmdb.org/t/p/original/jYHkGkFzRGrVRoX568Omr3ipmde.jpg</photo>
+      <role>The Ring (voice) / Sauron (voice)</role>
+      <name>Alan Howard</name>
+    </item>
+    <item index="21">
+      <photo/>
+      <role>Everard Proudfoot</role>
+      <name>Noel Appleby</name>
+    </item>
+    <item index="22">
+      <photo/>
+      <role>Mrs. Proudfoot</role>
+      <name>Megan Edwards</name>
+    </item>
+    <item index="23">
+      <photo/>
+      <role>Ereinion Gil-galad</role>
+      <name>Mark Ferguson</name>
+    </item>
+    <item index="24">
+      <photo/>
+      <role>Witch-king of Angmar</role>
+      <name>Brent McIntyre</name>
+    </item>
+    <item index="25">
+      <photo/>
+      <role>Barliman Butterbur</role>
+      <name>David Weatherley</name>
+    </item>
+    <item index="26">
+      <photo>http://image.tmdb.org/t/p/original/58diJ0mAP4EzwsVXumz0YqcfwcD.jpg</photo>
+      <role>Farmer Maggot</role>
+      <name>Cameron Rhodes</name>
+    </item>
+    <item index="27">
+      <photo>http://image.tmdb.org/t/p/original/pschEUtdkA5rv1Z0oEKfUswUs3g.jpg</photo>
+      <role>Isildur</role>
+      <name>Harry Sinclair</name>
+    </item>
+    <item index="28">
+      <photo>http://image.tmdb.org/t/p/original/eKModtROXIaua5Wrx4piunHBUXx.jpg</photo>
+      <role>Elendil</role>
+      <name>Peter McKenzie</name>
+    </item>
+    <item index="29">
+      <photo/>
+      <role>Círdan</role>
+      <name>Michael Elsworth</name>
+    </item>
+    <item index="30">
+      <photo/>
+      <role>Bell Boffin</role>
+      <name>Katie Jackson</name>
+    </item>
+    <item index="31">
+      <photo/>
+      <role>Minto Boffin</role>
+      <name>Billy Jackson</name>
+    </item>
+    <item index="32">
+      <photo/>
+      <role>Harry Goatleaf</role>
+      <name>Martyn Sanderson</name>
+    </item>
+    <item index="33">
+      <photo>http://image.tmdb.org/t/p/original/iV8i8vAgJOY7edzXqx0D1TT0gO8.jpg</photo>
+      <role>Bounder</role>
+      <name>Ian Mune</name>
+    </item>
+    <item index="34">
+      <photo/>
+      <role>Hero Orcs / Goblins / Uruks / Ringwraiths</role>
+      <name>Victoria Beynon-Cole</name>
+    </item>
+    <item index="35">
+      <photo/>
+      <role>Hero Orcs / Goblins / Uruks / Ringwraiths</role>
+      <name>Lee Hartley</name>
+    </item>
+    <item index="36">
+      <photo/>
+      <role>Hero Orcs / Goblins / Uruks / Ringwraiths</role>
+      <name>Sam La Hood</name>
+    </item>
+    <item index="37">
+      <photo/>
+      <role>Hero Orcs / Goblins / Uruks / Ringwraiths</role>
+      <name>Chris Streeter</name>
+    </item>
+    <item index="38">
+      <photo/>
+      <role>Hero Orcs / Goblins / Uruks / Ringwraiths</role>
+      <name>Jonathan Jordan</name>
+    </item>
+    <item index="39">
+      <photo/>
+      <role>Hero Orcs / Goblins / Uruks / Ringwraiths</role>
+      <name>Semi Kuresa</name>
+    </item>
+    <item index="40">
+      <photo/>
+      <role>Hero Orcs / Goblins / Uruks / Ringwraiths</role>
+      <name>Clinton Ulyatt</name>
+    </item>
+    <item index="41">
+      <photo/>
+      <role>Hero Orcs / Goblins / Uruks / Ringwraiths</role>
+      <name>Paul Bryson</name>
+    </item>
+    <item index="42">
+      <photo/>
+      <role>Hero Orcs / Goblins / Uruks / Ringwraiths</role>
+      <name>Lance Fabian Kemp</name>
+    </item>
+    <item index="43">
+      <photo/>
+      <role>Hero Orcs / Goblins / Uruks / Ringwraiths</role>
+      <name>Jono Manks</name>
+    </item>
+    <item index="44">
+      <photo/>
+      <role>Hero Orcs / Goblins / Uruks / Ringwraiths</role>
+      <name>Ben Price</name>
+    </item>
+    <item index="45">
+      <photo>http://image.tmdb.org/t/p/original/1UnR97h6azWmNHhnLXXv9zZtGjI.jpg</photo>
+      <role>Hero Orcs / Goblins / Uruks / Ringwraiths</role>
+      <name>Phil Grieve</name>
+    </item>
+    <item index="46">
+      <photo/>
+      <role>Hamfast "Gaffer" Gamgee (extended edition)</role>
+      <name>Norman Forsey</name>
+    </item>
+    <item index="47">
+      <photo/>
+      <role>Mrs. Bracegirdle (extended edition)</role>
+      <name>Lori Dungey</name>
+    </item>
+    <item index="48">
+      <photo>http://image.tmdb.org/t/p/original/qPqXA0lzAxFUuPlBOv58pQgj2wu.jpg</photo>
+      <role>Ted Sandyman (extended edition)</role>
+      <name>Brian Sergent</name>
+    </item>
+    <item index="49">
+      <photo>http://image.tmdb.org/t/p/original/b5cYHL0BJ8DlMML18ZlrSF6ZlMp.jpg</photo>
+      <role>Old Noakes (extended edition)</role>
+      <name>William Johnson</name>
+    </item>
+    <item index="50">
+      <photo/>
+      <role>Otho Sackville-Baggins (extended edition)</role>
+      <name>Peter Corrigan</name>
+    </item>
+    <item index="51">
+      <photo>http://image.tmdb.org/t/p/original/uBq1byUn1hQfbCBnXnZgKuyUds2.jpg</photo>
+      <role>Lobelia Sackville-Baggins (extended edition)</role>
+      <name>Elizabeth Moody</name>
+    </item>
+    <item index="52">
+      <photo/>
+      <role>Robin Smallburrow (uncredited)</role>
+      <name>Timothy Bartlett</name>
+    </item>
+    <item index="53">
+      <photo/>
+      <role>Rúmil (uncredited)</role>
+      <name>Jørn Benzon</name>
+    </item>
+    <item index="54">
+      <photo/>
+      <role>Calaglin (uncredited)</role>
+      <name>Micha Kemp</name>
+    </item>
+    <item index="55">
+      <photo/>
+      <role>Fereveldir (uncredited)</role>
+      <name>Ben Britton</name>
+    </item>
+    <item index="56">
+      <photo/>
+      <role>Dínendal / Erestor (uncredited)</role>
+      <name>Jonathan Harding</name>
+    </item>
+    <item index="57">
+      <photo/>
+      <role>Nestadion / Orophin (uncredited)</role>
+      <name>Jason Secto</name>
+    </item>
+    <item index="58">
+      <photo>http://image.tmdb.org/t/p/original/tEP4b5bTpSxJUHOYItg5xrZh43F.jpg</photo>
+      <role>Figwit (uncredited)</role>
+      <name>Bret McKenzie</name>
+    </item>
+    <item index="59">
+      <photo/>
+      <role>Saelbeth (uncredited)</role>
+      <name>Matt Appleton</name>
+    </item>
+    <item index="60">
+      <photo/>
+      <role>Silindë (uncredited)</role>
+      <name>Sam Kelly</name>
+    </item>
+    <item index="61">
+      <photo/>
+      <role>Sindri (uncredited)</role>
+      <name>Gino Acevedo</name>
+    </item>
+    <item index="62">
+      <photo/>
+      <role>Uri (uncredited)</role>
+      <name>Xander Forterie</name>
+    </item>
+    <item index="63">
+      <photo/>
+      <role>Linnar (uncredited)</role>
+      <name>Rich Mayberry</name>
+    </item>
+    <item index="64">
+      <photo/>
+      <role>Fredegar "Fatty" Bolger (uncredited)</role>
+      <name>Tom Walsh</name>
+    </item>
+    <item index="65">
+      <photo>http://image.tmdb.org/t/p/original/kSrfI3TbMdIMmPVOflLQ56OfscB.jpg</photo>
+      <role>Albert Dreary (uncredited)</role>
+      <name>Peter Jackson</name>
+    </item>
+    <item index="66">
+      <photo>http://image.tmdb.org/t/p/original/hEFh33yiI22rlngVLe3cBmHuP0C.jpg</photo>
+      <role>Rivendell Elf (uncredited)</role>
+      <name>Sabine Crossen</name>
+    </item>
+    <item index="67">
+      <photo/>
+      <role>Last Alliance Elf (uncredited)</role>
+      <name>Jarl Benzon</name>
+    </item>
+    <item index="68">
+      <photo>http://image.tmdb.org/t/p/original/jwIR5GIRLCIZLTNqLofMYPimXeO.jpg</photo>
+      <role>Ring King of Men (uncredited)</role>
+      <name>Alan Lee</name>
+    </item>
+    <item index="69">
+      <photo/>
+      <role>Hobbit (uncredited)</role>
+      <name>Zo Hartley</name>
+    </item>
+    <item index="70">
+      <photo/>
+      <role>Hobbit (uncredited)</role>
+      <name>Liz Merton</name>
+    </item>
+    <item index="71">
+      <photo/>
+      <role>Hobbit Child (uncredited)</role>
+      <name>Riley Brophy</name>
+    </item>
+    <item index="72">
+      <photo/>
+      <role>Hobbit Child (uncredited)</role>
+      <name>Taea Hartwell</name>
+    </item>
+    <item index="73">
+      <photo>http://image.tmdb.org/t/p/original/27LjnxN8dMQ3r2yRatAoht3iDhJ.jpg</photo>
+      <role>Witch-king (uncredited)</role>
+      <name>Shane Rangi</name>
+    </item>
+    <item index="74">
+      <photo>http://image.tmdb.org/t/p/original/y6DXXF6mJBIvxxcEAMJIKC9bQtS.jpg</photo>
+      <role>Uruk-hai (uncredited)</role>
+      <name>Grant Roa</name>
+    </item>
+    <item index="75">
+      <photo/>
+      <role>Orc (uncredited)</role>
+      <name>Chris Reid</name>
+    </item>
+    <item index="76">
+      <photo/>
+      <role>Orc (uncredited)</role>
+      <name>Samuel E. Shore</name>
+    </item>
+    <item index="77">
+      <photo/>
+      <role>Goblin (uncredited)</role>
+      <name>Rachel Clentworth</name>
+    </item>
+    <item index="78">
+      <photo>http://image.tmdb.org/t/p/original/p8AQeI7SXxAIjUpVEpv9q8ZxGD0.jpg</photo>
+      <role>Hand of Gollum (uncredited)</role>
+      <name>Thomas Robins</name>
+    </item>
+  </roles>
+  <similar>
+    <item index="0">The Lord of the Rings: The Two Towers</item>
+    <item index="1">The Lord of the Rings: The Return of the King</item>
+    <item index="2">The Hobbit: An Unexpected Journey</item>
+    <item index="3">Star Wars</item>
+    <item index="4">The Empire Strikes Back</item>
+    <item index="5">The Matrix</item>
+    <item index="6">Pirates of the Caribbean: The Curse of the Black Pearl</item>
+    <item index="7">The Hobbit: The Desolation of Smaug</item>
+    <item index="8">Return of the Jedi</item>
+    <item index="9">Batman Begins</item>
+    <item index="10">Gladiator</item>
+    <item index="11">Pirates of the Caribbean: Dead Man's Chest</item>
+    <item index="12">Raiders of the Lost Ark</item>
+    <item index="13">Pirates of the Caribbean: At World's End</item>
+    <item index="14">The Matrix Reloaded</item>
+    <item index="15">Die Hard</item>
+    <item index="16">X-Men</item>
+    <item index="17">Men in Black</item>
+    <item index="18">Terminator 2: Judgment Day</item>
+    <item index="19">Star Wars: Episode III - Revenge of the Sith</item>
+  </similar>
+  <studio>WingNut Films</studio>
+  <summary>Young hobbit Frodo Baggins, after inheriting a mysterious ring from his uncle Bilbo, must leave his home in order to keep it from falling into the hands of its evil creator. Along the way, a fellowship is formed to protect the ringbearer and make sure that the ring arrives at its final destination: Mt. Doom, the only place where it can be destroyed.</summary>
+  <tagline>One ring to rule them all</tagline>
+  <tags/>
+  <themes/>
+  <title>The Lord of the Rings: The Fellowship of the Ring</title>
+  <writers>
+    <item index="0">
+      <photo>http://image.tmdb.org/t/p/original/kSrfI3TbMdIMmPVOflLQ56OfscB.jpg</photo>
+      <role/>
+      <name>Peter Jackson</name>
+    </item>
+    <item index="1">
+      <photo>http://image.tmdb.org/t/p/original/roXPta5fAmGzqdOIvUQbDavZy8Y.jpg</photo>
+      <role/>
+      <name>Fran Walsh</name>
+    </item>
+    <item index="2">
+      <photo>http://image.tmdb.org/t/p/original/keVPZy02zLh2BEUPkZivJrh6o6U.jpg</photo>
+      <role/>
+      <name>Philippa Boyens</name>
+    </item>
+  </writers>
+  <year>2001</year>
+</Movie>

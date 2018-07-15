@@ -1,0 +1,457 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Movie>
+  <art>
+    <item external="True" url="http://image.tmdb.org/t/p/original/hlHmoVRAkAdg2rWd3j9yaf7JqDs.jpg" sort_order="1" provider="com.plexapp.agents.imdb" media="com.plexapp.agents.imdb_54a8bc448a96f661d2f6793087b133b1fd2fa0fa"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/qCiJk1n6qEuwYqBLfbeR74MZCZ6.jpg" preview="com.plexapp.agents.imdb_400e2aba986aaacb0632798173f79fde07d7411d" sort_order="2" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/qi53EJ4079uVcGQLsmCkR4GT0dE.jpg" preview="com.plexapp.agents.imdb_150491f1c4dbae98703cf39477e6d6743a2fab3f" sort_order="3" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/xIk400nJtnnmcJ4tweb86NTEDvX.jpg" preview="com.plexapp.agents.imdb_a47d5592a365f5e9864ccf8fcbf51576c2d396b3" sort_order="4" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/pME9MhsMiMvPgbtGrsgh7S7DWMq.jpg" preview="com.plexapp.agents.imdb_820877fb0f1291dba8795626e177c8e3f1399731" sort_order="5" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/fmdtAZ6MpiGmEDyjCiddnsowJyN.jpg" preview="com.plexapp.agents.imdb_aa250388c41d0d7609e4209eca2f2b144dee84a9" sort_order="6" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/9ahIRuLl01eetGHTt8CzAWcETVj.jpg" preview="com.plexapp.agents.imdb_5a2ee840bb2c3e9a36c22971b6b1275797186027" sort_order="7" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/q4G5wBvc3ThCMvStp5E7UDE2FeC.jpg" preview="com.plexapp.agents.imdb_052d2496fa756e1411ebaf2037dd337a5d77fd3f" sort_order="8" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/pHacxfbJEHjYO9aChwdZKclPM09.jpg" preview="com.plexapp.agents.imdb_9381103bf6eb1f067b5ff7bacb2b6a5678d4a5c3" sort_order="9" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/wJQowXYcpcujDJA2NAM1GSCZtM2.jpg" preview="com.plexapp.agents.imdb_466e4a972d5700f386da0d7f8cc569001949272a" sort_order="10" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/cjwDs0sRGcPYPOtUjpYZtKtZJjc.jpg" preview="com.plexapp.agents.imdb_0d67b2f49eb68d6b04411709d75ab538d96e5fdf" sort_order="11" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/5xjRgnBEmlHC2okl8nbDb1fpBzA.jpg" preview="com.plexapp.agents.imdb_0cde39da5bccfcf19d4b0b97cdae19ed17a39bc2" sort_order="12" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/b3fM9yzfUt6o7w6vluTSEbacUr.jpg" preview="com.plexapp.agents.imdb_c9897388b8f6e8f8ae8dbcd24582f87e95db6f26" sort_order="13" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/tFNlNdVvsdJ3aRB86wX62uXWRe1.jpg" preview="com.plexapp.agents.imdb_03ad72667455c6495b675096ce7f8547e2117a4c" sort_order="14" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/jm8mmYRf049nWdpMkAHbozvRJ2x.jpg" preview="com.plexapp.agents.imdb_e83aec84feb0c033675e6c10ce5299b4ae471311" sort_order="15" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/frJXk8sMCxivt9kEacDjuOgEbr.jpg" preview="com.plexapp.agents.imdb_02c33d883e0c4664e288ac9aa08ac4e71cf22cd6" sort_order="16" provider="com.plexapp.agents.imdb"/>
+  </art>
+  <banners/>
+  <chapters>
+    <item index="0">
+      <title>Chapter 1</title>
+      <end_time_offset>691000</end_time_offset>
+      <start_time_offset>0</start_time_offset>
+    </item>
+    <item index="1">
+      <title>Chapter 2</title>
+      <end_time_offset>1111000</end_time_offset>
+      <start_time_offset>691000</start_time_offset>
+    </item>
+    <item index="2">
+      <title>Chapter 3</title>
+      <end_time_offset>1517000</end_time_offset>
+      <start_time_offset>1111000</start_time_offset>
+    </item>
+    <item index="3">
+      <title>Chapter 4</title>
+      <end_time_offset>1905000</end_time_offset>
+      <start_time_offset>1517000</start_time_offset>
+    </item>
+    <item index="4">
+      <title>Chapter 5</title>
+      <end_time_offset>2508000</end_time_offset>
+      <start_time_offset>1905000</start_time_offset>
+    </item>
+    <item index="5">
+      <title>Chapter 6</title>
+      <end_time_offset>3110000</end_time_offset>
+      <start_time_offset>2508000</start_time_offset>
+    </item>
+    <item index="6">
+      <title>Chapter 7</title>
+      <end_time_offset>3721000</end_time_offset>
+      <start_time_offset>3110000</start_time_offset>
+    </item>
+    <item index="7">
+      <title>Chapter 8</title>
+      <end_time_offset>4725000</end_time_offset>
+      <start_time_offset>3721000</start_time_offset>
+    </item>
+    <item index="8">
+      <title>Chapter 9</title>
+      <end_time_offset>5375000</end_time_offset>
+      <start_time_offset>4725000</start_time_offset>
+    </item>
+    <item index="9">
+      <title>Chapter 10</title>
+      <end_time_offset>5634000</end_time_offset>
+      <start_time_offset>5375000</start_time_offset>
+    </item>
+    <item index="10">
+      <title>Chapter 11</title>
+      <end_time_offset>-1</end_time_offset>
+      <start_time_offset>5634000</start_time_offset>
+    </item>
+  </chapters>
+  <collections/>
+  <content_rating>Not Rated</content_rating>
+  <countries>
+    <item index="0">USA</item>
+  </countries>
+  <directors>
+    <item index="0">
+      <photo/>
+      <role/>
+      <name>Mark Cullen</name>
+    </item>
+    <item index="1">
+      <photo/>
+      <role/>
+      <name>Robb Cullen</name>
+    </item>
+  </directors>
+  <duration>5640000</duration>
+  <genres>
+    <item index="0">Action</item>
+    <item index="1">Comedy</item>
+    <item index="2">Thriller</item>
+  </genres>
+  <originally_available_at>2017-06-08</originally_available_at>
+  <posters>
+    <item external="True" url="http://image.tmdb.org/t/p/original/5rr7tQfzS0ARqEea3W9SNSFGRzb.jpg" sort_order="1" provider="com.plexapp.agents.imdb" media="com.plexapp.agents.imdb_96e929f4dc4597bc6eb3d202e96434a0366ac145"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/miPgiPxz5Hqq07XeCMEIwQUUA5X.jpg" preview="com.plexapp.agents.imdb_0f50f513442733d1150f1826aae6988371ec8720" sort_order="2" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/scE0jEiAGy6ftAfzD6eYffVFtgu.jpg" preview="com.plexapp.agents.imdb_09f46ce175b09f2110d10f566b634304a9455505" sort_order="3" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/j8FfjJ8XFpAjhk4PW3PmURmUlzT.jpg" preview="com.plexapp.agents.imdb_25d6c5c6f33f180960f9047a43fd4e4371205f85" sort_order="4" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/mNCD8WPgYHGjZpb7v6PeBJlzsic.jpg" preview="com.plexapp.agents.imdb_c9e440dca3c28eadd855c403c345dc2b86b1598c" sort_order="5" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/iNxPcgHGvQV4H9FgVhdHras5jhR.jpg" preview="com.plexapp.agents.imdb_d62dacdd6d2af9cb2e4150de912f137ef8cf062a" sort_order="6" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/vjY4gTcdGFK0SulDX8xgHdJhTNZ.jpg" preview="com.plexapp.agents.imdb_c448d9d198abff3e9ce65d73c95def39ff1b7704" sort_order="7" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/f1Yw5A0ctJEyinxDDDBbWF0MjCp.jpg" preview="com.plexapp.agents.imdb_85033831618a735c297f265569a057ee03719131" sort_order="8" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/1BOSCM0e0uerUzIbyfhrc4i7fAh.jpg" preview="com.plexapp.agents.imdb_594855de122bfd67d395201c1deafaf094367ee9" sort_order="9" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/6pRVgazxIdGEQPreX1LlOk99hYl.jpg" preview="com.plexapp.agents.imdb_2f078311fd562d07faca42ef6fc48f58e5963122" sort_order="10" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/A4j4q2U0BMcRQFF5yAkbARO6xJe.jpg" preview="com.plexapp.agents.imdb_89f96c1bf74ae2817d18b30ac7abe10097ad4b8c" sort_order="11" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/xK4r3MTKnqowHb4yXLV3CWASViI.jpg" preview="com.plexapp.agents.imdb_cf232543137ee38bfd83952d30a56545e468065e" sort_order="12" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/eAEW7zY1K4SJyEb32zCxvjnb8O1.jpg" preview="com.plexapp.agents.imdb_7f5dae36682e70fe0d7efef2ebabab91b9354f23" sort_order="13" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/m9vmMl0KiG4Fggi2jszm9YXZnk2.jpg" preview="com.plexapp.agents.imdb_0de47a7b6e40185d4e5573245a907892472fb749" sort_order="14" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/gngrahqZ30GSlBthpEAMPn8zQNy.jpg" preview="com.plexapp.agents.imdb_364af6cdc379d0e108bbb6d9b4f21b66f4123354" sort_order="15" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/tUnFPp644USOqLDgwvqGZ7uxlCd.jpg" preview="com.plexapp.agents.imdb_0ece9c43f850acac3a588560723302856fde2c9d" sort_order="16" provider="com.plexapp.agents.imdb"/>
+  </posters>
+  <producers>
+    <item index="0">
+      <photo/>
+      <role/>
+      <name>Nicolas Chartier</name>
+    </item>
+    <item index="1">
+      <photo/>
+      <role/>
+      <name>Mark Cullen</name>
+    </item>
+    <item index="2">
+      <photo/>
+      <role/>
+      <name>Robb Cullen</name>
+    </item>
+    <item index="3">
+      <photo>http://image.tmdb.org/t/p/original/uEoEj5edLWf7zx9k6NOQczWv9nh.jpg</photo>
+      <role/>
+      <name>Laura Ford</name>
+    </item>
+    <item index="4">
+      <photo/>
+      <role/>
+      <name>Zev Foreman</name>
+    </item>
+  </producers>
+  <rating>1.8</rating>
+  <rating_image>rottentomatoes://image.rating.rotten</rating_image>
+  <audience_rating>2.6</audience_rating>
+  <audience_rating_image>rottentomatoes://image.rating.spilled</audience_rating_image>
+  <reviews>
+    <item index="0">
+      <text>Once Upon a Time in Venice is a sterling example of how a lazy star can make a bad movie even worse.</text>
+      <source>L.A. Weekly</source>
+      <image>rottentomatoes://image.review.rotten</image>
+      <link>http://www.laweekly.com/movies/once-upon-a-time-in-venice-8108308</link>
+      <author>Craig D. Lindsey</author>
+    </item>
+    <item index="1">
+      <text>That hissing sound you hear is the air being let out of Bruce Willis as he struggles mightily to reconnect with once-vital action-comedy chops in the dim, unfunny Once Upon a Time in Venice.</text>
+      <source>TheWrap</source>
+      <image>rottentomatoes://image.review.rotten</image>
+      <link>http://www.thewrap.com/once-upon-a-time-in-venice-review-bruce-willis-jason-momoa/</link>
+      <author>Robert Abele</author>
+    </item>
+    <item index="2">
+      <text>Of course Willis employs his trademark smirk and his familiar sarcastic line readings. Of course we've seen him play variations on this downtrodden, wisecracking cynic in better movies. But B-movie Willis is still kind of a hoot.</text>
+      <source>Chicago Sun-Times</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>http://chicago.suntimes.com/entertainment/once-upon-a-time-in-venice-even-in-schlock-bruce-willis-entertains/</link>
+      <author>Richard Roeper</author>
+    </item>
+    <item index="3">
+      <text>Once Upon a Time in Venice frequently sags underneath its own general lethargy, and not even the snarkiest John McClane can fix that.</text>
+      <source>RogerEbert.com</source>
+      <image>rottentomatoes://image.review.rotten</image>
+      <link>http://www.rogerebert.com/reviews/once-upon-a-time-in-venice-2017</link>
+      <author>Vikram Murthi</author>
+    </item>
+    <item index="4">
+      <text>It's as much a snapshot of a screwball neighborhood as it is a loose-ended shaggy dog story, with a weird, buoyant spirit that lifts it up over its somewhat sloppy storytelling.</text>
+      <source>Detroit News</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>http://www.detroitnews.com/story/entertainment/movies/2017/06/15/movie-review-upon-time-venice/102902964/</link>
+      <author>Adam Graham</author>
+    </item>
+    <item index="5">
+      <text>Bruce Willis barks up a number of wrong trees in this scattered, only sparsely amusing shaggy-dog mystery.</text>
+      <source>Variety</source>
+      <image>rottentomatoes://image.review.rotten</image>
+      <link>http://variety.com/2017/film/reviews/once-upon-a-time-in-venice-review-bruce-willis-1202467982/</link>
+      <author>Guy Lodge</author>
+    </item>
+    <item index="6">
+      <text>Bruce, you're better than this.</text>
+      <source>indieWire</source>
+      <image>rottentomatoes://image.review.rotten</image>
+      <link>http://www.indiewire.com/2017/06/bruce-willis-upon-a-time-in-venice-review-1201841787/</link>
+      <author>Kate Erbland</author>
+    </item>
+    <item index="7">
+      <text>Bruce Willis' latest effort to dislodge his film career from a stubborn rut goes unrewarded with "Once Upon a Time in Venice," a wincingly unfunny comedy caper set along L.A.'s funky beach community.</text>
+      <source>Los Angeles Times</source>
+      <image>rottentomatoes://image.review.rotten</image>
+      <link>http://www.latimes.com/entertainment/movies/la-et-mn-mini-once-upon-time-venice-review-20170615-story.html</link>
+      <author>Michael Rechtshaffen</author>
+    </item>
+    <item index="8">
+      <text>A tiresome imitation of smart-alecky Shane Black whodunits like Kiss Kiss Bang Bang and The Last Boy Scout.</text>
+      <source>AV Club</source>
+      <image>rottentomatoes://image.review.rotten</image>
+      <link>http://www.avclub.com/review/bruce-willis-proves-once-upon-time-venice-you-cant-256787</link>
+      <author>Ignatiy Vishnevetsky</author>
+    </item>
+    <item index="9">
+      <text>A bunch of well-known faces look lost in "Once Upon a Time in Venice," which is billed as an action-comedy but has little comedy and less action.</text>
+      <source>New York Times</source>
+      <image>rottentomatoes://image.review.rotten</image>
+      <link>https://www.nytimes.com/2017/06/15/movies/review-once-upon-a-time-in-venice-unleashes-a-bland-bruce-willis.html?_r=0</link>
+      <author>Neil Genzlinger</author>
+    </item>
+  </reviews>
+  <roles>
+    <item index="0">
+      <photo>http://image.tmdb.org/t/p/original/kI1OluWhLJk3pnR19VjOfABpnTY.jpg</photo>
+      <role>Steve</role>
+      <name>Bruce Willis</name>
+    </item>
+    <item index="1">
+      <photo>http://image.tmdb.org/t/p/original/suNN1bv5Fc3M3CeUp6nVzwrwUDt.jpg</photo>
+      <role>Spyder</role>
+      <name>Jason Momoa</name>
+    </item>
+    <item index="2">
+      <photo>http://image.tmdb.org/t/p/original/eOIx8zj1vYIRhVY2bK5cjIQfua0.jpg</photo>
+      <role>Dave Phillips</role>
+      <name>John Goodman</name>
+    </item>
+    <item index="3">
+      <photo>http://image.tmdb.org/t/p/original/eejkzd9gtYm7pMFiVdjsGBYde5H.jpg</photo>
+      <role>John</role>
+      <name>Thomas Middleditch</name>
+    </item>
+    <item index="4">
+      <photo>http://image.tmdb.org/t/p/original/9wHWq6Mnfpn8L1diMxjr26ReZWl.jpg</photo>
+      <role>Katey Ford</role>
+      <name>Famke Janssen</name>
+    </item>
+    <item index="5">
+      <photo>http://image.tmdb.org/t/p/original/67qIdPzAY5XrK895EyUpJI2QF8N.jpg</photo>
+      <role>Anne Phillips</role>
+      <name>Elisabeth Röhm</name>
+    </item>
+    <item index="6">
+      <photo>http://image.tmdb.org/t/p/original/utlFTzTDP5VDQYXmzdHBbfloYhb.jpg</photo>
+      <role>Lou the Jew</role>
+      <name>Adam Goldberg</name>
+    </item>
+    <item index="7">
+      <photo>http://image.tmdb.org/t/p/original/u88haG6iG7zwV0PTk9tSG5obaeP.jpg</photo>
+      <role>The Prince</role>
+      <name>Wood Harris</name>
+    </item>
+    <item index="8">
+      <photo>http://image.tmdb.org/t/p/original/f7HerLKSadUJnf9xsQ0r871k40H.jpg</photo>
+      <role>Taylor</role>
+      <name>Emily Robinson</name>
+    </item>
+    <item index="9">
+      <photo>http://image.tmdb.org/t/p/original/yxXuL1HVWaBMvrbwdDY1id3JwRZ.jpg</photo>
+      <role>Rajeesh</role>
+      <name>Kal Penn</name>
+    </item>
+    <item index="10">
+      <photo>http://image.tmdb.org/t/p/original/zDnnzak4BLb5dNc9taqLNprkRvw.jpg</photo>
+      <role>Tino</role>
+      <name>Adrian Martinez</name>
+    </item>
+    <item index="11">
+      <photo>http://image.tmdb.org/t/p/original/gt8vrkSOmv4dt5AfIcVsevNQ05b.jpg</photo>
+      <role/>
+      <name>Maurice Compte</name>
+    </item>
+    <item index="12">
+      <photo>http://image.tmdb.org/t/p/original/6itMvPfWIopBebnGOAzX4wiQYBF.jpg</photo>
+      <role/>
+      <name>Tyga</name>
+    </item>
+    <item index="13">
+      <photo>http://image.tmdb.org/t/p/original/cOvrfnFpNln0VP2P0CChXjPWVTf.jpg</photo>
+      <role>Phil</role>
+      <name>Colin Kane</name>
+    </item>
+    <item index="14">
+      <photo>http://image.tmdb.org/t/p/original/6GuMofuPXMIkKU5VPqriK5cm08j.jpg</photo>
+      <role>Beautiful Brunette</role>
+      <name>Ana Flavia Gavlak</name>
+    </item>
+    <item index="15">
+      <photo>http://image.tmdb.org/t/p/original/wjIdaFHEUPzUagg7Z5OGFrKu2fl.jpg</photo>
+      <role>Lupe</role>
+      <name>Stephanie Sigman</name>
+    </item>
+    <item index="16">
+      <photo>http://image.tmdb.org/t/p/original/u88haG6iG7zwV0PTk9tSG5obaeP.jpg</photo>
+      <role>Prince</role>
+      <name>Wood Harris</name>
+    </item>
+    <item index="17">
+      <photo>http://image.tmdb.org/t/p/original/gt8vrkSOmv4dt5AfIcVsevNQ05b.jpg</photo>
+      <role>Oscar</role>
+      <name>Maurice Compte</name>
+    </item>
+    <item index="18">
+      <photo>http://image.tmdb.org/t/p/original/vMzb4yCslLhJb7CQkS3R1jbyCO6.jpg</photo>
+      <role>Bum</role>
+      <name>Ralph Garman</name>
+    </item>
+    <item index="19">
+      <photo>http://image.tmdb.org/t/p/original/6PfsHGDYl017vcP8CEM6rrx6wWl.jpg</photo>
+      <role>Yuri</role>
+      <name>Ken Davitian</name>
+    </item>
+    <item index="20">
+      <photo>http://image.tmdb.org/t/p/original/lF0rs9N5qBsXN68BNksZYEiVnAQ.jpg</photo>
+      <role>Donnie</role>
+      <name>Kevin Breznahan</name>
+    </item>
+    <item index="21">
+      <photo>http://image.tmdb.org/t/p/original/bPkByY5GOwFD8c4KzhzoVejIxu4.jpg</photo>
+      <role/>
+      <name>Billy Gardell</name>
+    </item>
+    <item index="22">
+      <photo>http://image.tmdb.org/t/p/original/uCSQkC1A0RdhVE8hAfjqqJfifdx.jpg</photo>
+      <role>Consuela</role>
+      <name>Sol Rodríguez</name>
+    </item>
+    <item index="23">
+      <photo>http://image.tmdb.org/t/p/original/uH6s0wnVkk63YKNaG9kqgS80A8I.jpg</photo>
+      <role>Joan</role>
+      <name>Candice Coke</name>
+    </item>
+    <item index="24">
+      <photo>http://image.tmdb.org/t/p/original/qlEPonH7fI7ZwUXo0Xyzj1gHqX.jpg</photo>
+      <role>Henchman</role>
+      <name>Keith Jardine</name>
+    </item>
+    <item index="25">
+      <photo>http://image.tmdb.org/t/p/original/fVpdEp4iVbCZmxJ8u8Ngu5qOWu5.jpg</photo>
+      <role>Astrid</role>
+      <name>India Wadsworth</name>
+    </item>
+    <item index="26">
+      <photo>http://image.tmdb.org/t/p/original/r4dnw0Eg5eIPIzHdCzgzS7RrdWN.jpg</photo>
+      <role>Bar Guest</role>
+      <name>Jenna Curtis</name>
+    </item>
+    <item index="27">
+      <photo>http://image.tmdb.org/t/p/original/ljz37lDYLjOgE7BSc0vy9rdWFoF.jpg</photo>
+      <role>Chewy</role>
+      <name>Victor Ortiz</name>
+    </item>
+    <item index="28">
+      <photo>http://image.tmdb.org/t/p/original/pJRvxsRpRuqdeiEIQamdNPAOTxT.jpg</photo>
+      <role>Caring Mom</role>
+      <name>Adrienne McQueen</name>
+    </item>
+    <item index="29">
+      <photo>http://image.tmdb.org/t/p/original/qE6x5kmq7rYzuiFWcPV8f3KXo5c.jpg</photo>
+      <role>Nola</role>
+      <name>Jessica Gomes</name>
+    </item>
+    <item index="30">
+      <photo>http://image.tmdb.org/t/p/original/iehJI1aFtIlT6oNO4t7VcNaGBln.jpg</photo>
+      <role>Tui</role>
+      <name>Myles Humphus</name>
+    </item>
+    <item index="31">
+      <photo>http://image.tmdb.org/t/p/original/yjktr2trahEBQmuLsCRMzgoDFvh.jpg</photo>
+      <role>Gigi</role>
+      <name>Sammi Rotibi</name>
+    </item>
+    <item index="32">
+      <photo/>
+      <role>Homeless Guy</role>
+      <name>Lane Smith Jr.</name>
+    </item>
+    <item index="33">
+      <photo>http://image.tmdb.org/t/p/original/pCfAyRRUPhRJHsU3rYCuiMaTLe3.jpg</photo>
+      <role>Surf shop customer</role>
+      <name>Bo Roberts</name>
+    </item>
+    <item index="34">
+      <photo>http://image.tmdb.org/t/p/original/npq8ambyy8BvldZNARgD3gCKF9u.jpg</photo>
+      <role>Flirty barfly girl</role>
+      <name>Christina Veronica</name>
+    </item>
+    <item index="35">
+      <photo/>
+      <role>Cholo #1</role>
+      <name>Randy Gonzalez</name>
+    </item>
+    <item index="36">
+      <photo>http://image.tmdb.org/t/p/original/3cLLbqyCytYvZwnBvjJEA1dsb73.jpg</photo>
+      <role>Mediator</role>
+      <name>Pamela Shaddock</name>
+    </item>
+    <item index="37">
+      <photo>http://image.tmdb.org/t/p/original/4uVgqGMVdvS7SExcn5djOk1z4CP.jpg</photo>
+      <role>Art Curator</role>
+      <name>Frederick Keeve</name>
+    </item>
+  </roles>
+  <similar>
+    <item index="0">First Kill</item>
+    <item index="1">Aftermath</item>
+    <item index="2">Killing Gunther</item>
+    <item index="3">Marauders</item>
+    <item index="4">The Hunter's Prayer</item>
+    <item index="5">Black Butterfly</item>
+    <item index="6">Kill Switch</item>
+    <item index="7">CHiPS</item>
+    <item index="8">Acts of Vengeance</item>
+    <item index="9">The Recall</item>
+    <item index="10">Going in Style</item>
+    <item index="11">Unlocked</item>
+    <item index="12">Armed Response</item>
+    <item index="13">The Hatred</item>
+    <item index="14">Security</item>
+    <item index="15">Drone</item>
+    <item index="16">Free Fire</item>
+    <item index="17">All Nighter</item>
+    <item index="18">The Foreigner</item>
+    <item index="19">Savage Dog</item>
+  </similar>
+  <studio>Voltage Pictures</studio>
+  <summary>Steve Ford is a private detective in Venice Beach, Calif., who's good with the ladies, bad with the punches and wild about his dog Buddy. When local thugs steal Buddy, Ford turns to Spyder, their devious leader, and forges an unlikely alliance. With help from his best friend, Steve pulls out the big guns to retrieve Spyder's stolen cash and cocaine and save Buddy.</summary>
+  <tagline>Never mess with a man's dog</tagline>
+  <tags/>
+  <themes/>
+  <title>Once Upon a Time in Venice</title>
+  <writers>
+    <item index="0">
+      <photo/>
+      <role/>
+      <name>Mark Cullen</name>
+    </item>
+    <item index="1">
+      <photo/>
+      <role/>
+      <name>Robb Cullen</name>
+    </item>
+  </writers>
+  <year>2017</year>
+</Movie>

@@ -1,0 +1,575 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Movie id="tt0829482">
+  <rating>8.7</rating>
+  <title_sort/>
+  <art>
+    <item external="True" url="http://image.tmdb.org/t/p/original/kQzcHOxcjZ8hG0bF0tMNPghAFe0.jpg" preview="20839a7cfbb5f07d43ab81c798c2638b8abbf8ca" sort_order="1"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/hG9xlpZktfsAdlzg9uyk9GRz1iN.jpg" preview="5dcd9e1a7cabeab589f5c6a145a9cf69038dd18a" sort_order="2"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/6KyVgjtjoZeXCoiuWGJBTZ97zMV.jpg" preview="106b1612ed08ad1dadf741726b2ed15fc49bff8a" sort_order="3"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/wDKucVLzZBEYxcpM90MHI5b2Xj3.jpg" preview="88236b5842de164ded29338af9a6bc66a74a396c" sort_order="4"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/xxm6PQRbfcSFO4mds8una1bkYPh.jpg" preview="56695a8a0bb3fb4250d429825d3481c62d52afa7" sort_order="5"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/aJ8WmABChz0aoYUiaVJbs9Vtz9w.jpg" preview="16a00147994c790b40997f4651357050685d4c85" sort_order="6"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/oXkcyWsqQXAtaC9cZ4BNaATzgpG.jpg" preview="7e2540e27165b8bb415779572f02fd51ae521309" sort_order="7"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/6hph2CMOB30XN3oKpgs4vqiaRcv.jpg" preview="466ba443eee030b8a2ddc7ad15d1393d0c3fece5" sort_order="8"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/mJyzYbXLwqv3bWeyxGUYTWU3rOQ.jpg" preview="ce306ea5fa78f9e07e387ddffab1c84ab112777c" sort_order="9"/>
+  </art>
+  <writers>
+    <item index="0">
+      <photo>http://image.tmdb.org/t/p/original/aQc8O52P4vWDRfuxCLsz9rvnwf3.jpg</photo>
+      <role/>
+      <name>Seth Rogen</name>
+    </item>
+    <item index="1">
+      <photo>http://image.tmdb.org/t/p/original/gtTTJrNtgCHHyjgLlmb9NWlZav1.jpg</photo>
+      <role/>
+      <name>Evan Goldberg</name>
+    </item>
+  </writers>
+  <chapters>
+    <item index="0">
+      <title>1</title>
+      <end_time_offset>463000</end_time_offset>
+      <start_time_offset>0</start_time_offset>
+    </item>
+    <item index="1">
+      <title>2</title>
+      <end_time_offset>1027000</end_time_offset>
+      <start_time_offset>463000</start_time_offset>
+    </item>
+    <item index="2">
+      <title>3</title>
+      <end_time_offset>1350000</end_time_offset>
+      <start_time_offset>1027000</start_time_offset>
+    </item>
+    <item index="3">
+      <title>4</title>
+      <end_time_offset>1768000</end_time_offset>
+      <start_time_offset>1350000</start_time_offset>
+    </item>
+    <item index="4">
+      <title>5</title>
+      <end_time_offset>2036000</end_time_offset>
+      <start_time_offset>1768000</start_time_offset>
+    </item>
+    <item index="5">
+      <title>6</title>
+      <end_time_offset>2302000</end_time_offset>
+      <start_time_offset>2036000</start_time_offset>
+    </item>
+    <item index="6">
+      <title>7</title>
+      <end_time_offset>2886000</end_time_offset>
+      <start_time_offset>2302000</start_time_offset>
+    </item>
+    <item index="7">
+      <title>8</title>
+      <end_time_offset>3275000</end_time_offset>
+      <start_time_offset>2886000</start_time_offset>
+    </item>
+    <item index="8">
+      <title>9</title>
+      <end_time_offset>3859000</end_time_offset>
+      <start_time_offset>3275000</start_time_offset>
+    </item>
+    <item index="9">
+      <title>10</title>
+      <end_time_offset>4323000</end_time_offset>
+      <start_time_offset>3859000</start_time_offset>
+    </item>
+    <item index="10">
+      <title>11</title>
+      <end_time_offset>4847000</end_time_offset>
+      <start_time_offset>4323000</start_time_offset>
+    </item>
+    <item index="11">
+      <title>12</title>
+      <end_time_offset>5279000</end_time_offset>
+      <start_time_offset>4847000</start_time_offset>
+    </item>
+    <item index="12">
+      <title>13</title>
+      <end_time_offset>5547000</end_time_offset>
+      <start_time_offset>5279000</start_time_offset>
+    </item>
+    <item index="13">
+      <title>14</title>
+      <end_time_offset>5849000</end_time_offset>
+      <start_time_offset>5547000</start_time_offset>
+    </item>
+    <item index="14">
+      <title>15</title>
+      <end_time_offset>6282000</end_time_offset>
+      <start_time_offset>5849000</start_time_offset>
+    </item>
+    <item index="15">
+      <title>16</title>
+      <end_time_offset>-1</end_time_offset>
+      <start_time_offset>6282000</start_time_offset>
+    </item>
+  </chapters>
+  <themes/>
+  <quotes/>
+  <year>2007</year>
+  <duration>6780000</duration>
+  <genres>
+    <item index="0">Comedy</item>
+  </genres>
+  <title>Superbad</title>
+  <tagline>Come and Get Some!</tagline>
+  <content_rating_age/>
+  <rating_count/>
+  <collections/>
+  <trivia/>
+  <tags/>
+  <audience_rating_image>rottentomatoes://image.rating.upright</audience_rating_image>
+  <rating_image>rottentomatoes://image.rating.ripe</rating_image>
+  <producers>
+    <item index="0">
+      <photo>http://image.tmdb.org/t/p/original/iXlnv4NvZkmhB7bJBXea5T21gBT.jpg</photo>
+      <role/>
+      <name>Judd Apatow</name>
+    </item>
+    <item index="1">
+      <photo/>
+      <role/>
+      <name>Shauna Robertson</name>
+    </item>
+  </producers>
+  <audience_rating>8.7</audience_rating>
+  <studio>Columbia Pictures</studio>
+  <posters>
+    <item external="True" url="http://image.tmdb.org/t/p/original/iYaKluxLBDYvMPMAWSI6qirVMNy.jpg" preview="006dd65e7b314f6d1e69a0deafcb6e480eb5ca1b" sort_order="1"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/7RZWtDkf0mgrxvJNFj43YW2Ugi8.jpg" preview="50a4e5019047f053f085cdbb39020eea00f30f58" sort_order="2"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/qxjq6uNSHBBVl8phdXsyVw2GJei.jpg" preview="59cf5df49cc223fc652f0f991dc59d464669479f" sort_order="3"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/f35Xg9VNGX6h2ub580mOC8PCxEY.jpg" preview="2eb02dbdec62588aa68189242243ca73a5c1e842" sort_order="4"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/AhAyjWZcyEkkhlVpTw9XMnxmWOx.jpg" preview="ef443dde6c82434356ec71537b1cecdf6f1b1352" sort_order="5"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/koc9kgcoTXYWXI71rQXF3eR3B8N.jpg" preview="ae68591ad81606e615df084dee1ca18bf1139bd4" sort_order="6"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/uqJbCmEck0aby1iRYpnvRudnNVG.jpg" preview="023873d95269380784c032bc5bb66d92ccf9edd8" sort_order="7"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/w5LPpLZvlNblrW90HAT6lJmQoGS.jpg" preview="3d28ebc965a5d1d7e862ad99b069c714296de35d" sort_order="8"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/9565qc5PKOIDH4zdwKZH7GUUTO7.jpg" preview="f0e108b8ade4ad6a82107489662c491724aefb58" sort_order="9"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/dftkEBTxfF1dxm2UDrqASzizEjF.jpg" preview="f77c9f96b3eb1c1a80f60518f337d5f598fb3665" sort_order="10"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/o4RdmnamBSp78Fwxf3DvRHClVR0.jpg" preview="b00219b1c73c001d4891c871a7131dcd5feeefc7" sort_order="11"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/opAbBgtEsYe5bP3RDuTJBrmunHi.jpg" preview="49a27e799fb7b601953a7377338ea676e64804bb" sort_order="12"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/aCHWLwPYrijSkfnh5Dhnk02hFtV.jpg" preview="340929d6ddfb536fc55fde7de425f5bcd0c2144d" sort_order="13"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/gUU05TPjveG8E9o3XyD3cNgBHIC.jpg" preview="5d3f5735c90d3f0bbafbcd200979adef64fa4b56" sort_order="14"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/h0FZk2DIsIHTFZKHy5c7p9NDZ0T.jpg" preview="42040e70cd9b76dcef31921380571ed337e21abf" sort_order="15"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/vOYckwHFar1obtcqGf3YkVHYunD.jpg" preview="12dc4ba50efd485273e1c88e8ff91991bf551586" sort_order="16"/>
+  </posters>
+  <originally_available_at>2007-08-17</originally_available_at>
+  <roles>
+    <item index="0">
+      <photo>http://image.tmdb.org/t/p/original/cymlWttB83MsAGR2EkTgANtjeRH.jpg</photo>
+      <role>Seth</role>
+      <name>Jonah Hill</name>
+    </item>
+    <item index="1">
+      <photo>http://image.tmdb.org/t/p/original/kxeJQa9Ae7Ns1J1b5012SMeyXn2.jpg</photo>
+      <role>Evan</role>
+      <name>Michael Cera</name>
+    </item>
+    <item index="2">
+      <photo>http://image.tmdb.org/t/p/original/pioU58yFxKrazfWD9CZCXyyCf74.jpg</photo>
+      <role>Fogell</role>
+      <name>Christopher Mintz-Plasse</name>
+    </item>
+    <item index="3">
+      <photo>http://image.tmdb.org/t/p/original/3Z5JsyLw7YTLZgpA3FAlLmFSN9F.jpg</photo>
+      <role>Officer Slater</role>
+      <name>Bill Hader</name>
+    </item>
+    <item index="4">
+      <photo>http://image.tmdb.org/t/p/original/aQc8O52P4vWDRfuxCLsz9rvnwf3.jpg</photo>
+      <role>Officer Michaels</role>
+      <name>Seth Rogen</name>
+    </item>
+    <item index="5">
+      <photo>http://image.tmdb.org/t/p/original/up1zBo96hUZPA0g7wtgUtjlTWwT.jpg</photo>
+      <role>Becca</role>
+      <name>Martha MacIsaac</name>
+    </item>
+    <item index="6">
+      <photo>http://image.tmdb.org/t/p/original/bQHnqMjc0dKOu9zpm54KvP6ffyB.jpg</photo>
+      <role>Jules</role>
+      <name>Emma Stone</name>
+    </item>
+    <item index="7">
+      <photo>http://image.tmdb.org/t/p/original/kpoOjIzGaEYWwZTgAwqLCMthl6C.jpg</photo>
+      <role>Nicola</role>
+      <name>Aviva</name>
+    </item>
+    <item index="8">
+      <photo>http://image.tmdb.org/t/p/original/uffxrZs4FieVu7pxneSzSxFAwXe.jpg</photo>
+      <role>Francis</role>
+      <name>Joe Lo Truglio</name>
+    </item>
+    <item index="9">
+      <photo>http://image.tmdb.org/t/p/original/trRjEABsF2BCqn6pib3bYhYIxNH.jpg</photo>
+      <role>Mark</role>
+      <name>Kevin Corrigan</name>
+    </item>
+    <item index="10">
+      <photo>http://image.tmdb.org/t/p/original/tO2XVokGDHJqSxoIVKjsV2JGWvz.jpg</photo>
+      <role>Homeless Guy</role>
+      <name>Clement Blake</name>
+    </item>
+    <item index="11">
+      <photo>http://image.tmdb.org/t/p/original/h8HdJfM2Ajutj5QokjQIEA7mVG4.jpg</photo>
+      <role>Mindy</role>
+      <name>Erica Vittina Phillips</name>
+    </item>
+    <item index="12">
+      <photo>http://image.tmdb.org/t/p/original/3hLLN7YLZE9pzqWv7m92MXTUYgb.jpg</photo>
+      <role>Liquor Store Clerk</role>
+      <name>Joe Nunez</name>
+    </item>
+    <item index="13">
+      <photo>http://image.tmdb.org/t/p/original/sWsW3mFSJzfbMUf43R0J8tY8BeW.jpg</photo>
+      <role>Greg (Soccer Player)</role>
+      <name>Dave Franco</name>
+    </item>
+    <item index="14">
+      <photo>http://image.tmdb.org/t/p/original/1rBUcsNmOrNf9Lo0DSaaEMesesM.jpg</photo>
+      <role>Gaby</role>
+      <name>Marcella Lentz-Pope</name>
+    </item>
+    <item index="15">
+      <photo>http://image.tmdb.org/t/p/original/k7pMfLqqdQ34V5QlO94uumRFrmv.jpg</photo>
+      <role>Jesse</role>
+      <name>Scott Gerbacia</name>
+    </item>
+    <item index="16">
+      <photo>http://image.tmdb.org/t/p/original/o4l4jdZk3C1OelS1HgkUnJbfdRJ.jpg</photo>
+      <role>Shirley</role>
+      <name>Laura Seay</name>
+    </item>
+    <item index="17">
+      <photo/>
+      <role>Miroki</role>
+      <name>Roger Iwami</name>
+    </item>
+    <item index="18">
+      <photo/>
+      <role>Prosthetic Leg Kid</role>
+      <name>Clint Mabry</name>
+    </item>
+    <item index="19">
+      <photo>http://image.tmdb.org/t/p/original/3FBtBFrmjUx0W0bbKYqW2gpgIkI.jpg</photo>
+      <role>Evan's Mom</role>
+      <name>Stacy Edwards</name>
+    </item>
+    <item index="20">
+      <photo/>
+      <role>Father with Bat</role>
+      <name>Mark Rogen</name>
+    </item>
+    <item index="21">
+      <photo>http://image.tmdb.org/t/p/original/x8P9MAClyW4pAGdB1RndzUxDtne.jpg</photo>
+      <role>Good Shopper Cashier</role>
+      <name>Charlie Hartsock</name>
+    </item>
+    <item index="22">
+      <photo/>
+      <role>Old Lady</role>
+      <name>Dona Hardy</name>
+    </item>
+    <item index="23">
+      <photo/>
+      <role>Good Shopper Security</role>
+      <name>Charley Rossman</name>
+    </item>
+    <item index="24">
+      <photo>http://image.tmdb.org/t/p/original/g9QYMQvFxfEXbkxcjX7rM2nGmcF.jpg</photo>
+      <role>Period Blood Girl</role>
+      <name>Carla Gallo</name>
+    </item>
+    <item index="25">
+      <photo>http://image.tmdb.org/t/p/original/39Rn6j5zFapIadjoA5l5AbpE0pu.jpg</photo>
+      <role>Quince Danbury</role>
+      <name>Ben Best</name>
+    </item>
+    <item index="26">
+      <photo>http://image.tmdb.org/t/p/original/gE3wylbrxzdpZs6Ul5gbZL5syHF.jpg</photo>
+      <role>Tut Long John Silver</role>
+      <name>Jody Hill</name>
+    </item>
+    <item index="27">
+      <photo>http://image.tmdb.org/t/p/original/lF0rs9N5qBsXN68BNksZYEiVnAQ.jpg</photo>
+      <role>Patrick Manchester</role>
+      <name>Kevin Breznahan</name>
+    </item>
+    <item index="28">
+      <photo>http://image.tmdb.org/t/p/original/5171elOp1qFxf9c8DkpeyhHBB6d.jpg</photo>
+      <role>Benji Austin</role>
+      <name>David Krumholtz</name>
+    </item>
+    <item index="29">
+      <photo>http://image.tmdb.org/t/p/original/bATns500G3T6he2yBeIVQSFRpiU.jpg</photo>
+      <role>Billy Baybridge</role>
+      <name>Mousa Kraish</name>
+    </item>
+    <item index="30">
+      <photo/>
+      <role>Coffee Fairmount</role>
+      <name>Nicholas Jasenovec</name>
+    </item>
+    <item index="31">
+      <photo>http://image.tmdb.org/t/p/original/sYKZBDsmDIhVY0juiwSDfv2RnPR.jpg</photo>
+      <role>James Masselin</role>
+      <name>Martin Starr</name>
+    </item>
+    <item index="32">
+      <photo>http://image.tmdb.org/t/p/original/jSQEDdzFv2nFEVmh6rn8JnrajWR.jpg</photo>
+      <role>Wild Bill Cherry</role>
+      <name>Keith Loneker</name>
+    </item>
+    <item index="33">
+      <photo/>
+      <role>Kane Cloverdale</role>
+      <name>Matthew McKane</name>
+    </item>
+    <item index="34">
+      <photo>http://image.tmdb.org/t/p/original/uU5Kf4KDI4AgTyfg3hxPWoAIcB8.jpg</photo>
+      <role>Scarlett Brighton</role>
+      <name>Lauren Miller</name>
+    </item>
+    <item index="35">
+      <photo>http://image.tmdb.org/t/p/original/jiBx3ijlb9oONEtImkxVo6Qvchy.jpg</photo>
+      <role>Tiger Greendragon</role>
+      <name>Peter Salett</name>
+    </item>
+    <item index="36">
+      <photo>http://image.tmdb.org/t/p/original/yg3i1dWluH66d1pfMgfaEpJisiC.jpg</photo>
+      <role>Muffin Selby</role>
+      <name>Rakefet Abergel</name>
+    </item>
+    <item index="37">
+      <photo>http://image.tmdb.org/t/p/original/d75GJILbWQv8c96At9lflDWwGxY.jpg</photo>
+      <role>Mrs. Hayworth</role>
+      <name>Brooke Dillman</name>
+    </item>
+    <item index="38">
+      <photo/>
+      <role>Gym Teacher</role>
+      <name>Michael Naughton</name>
+    </item>
+    <item index="39">
+      <photo>http://image.tmdb.org/t/p/original/xiapg97am8zqjcB60lRGBIQeFqA.jpg</photo>
+      <role>Math Teacher</role>
+      <name>Steve Bannos</name>
+    </item>
+    <item index="40">
+      <photo/>
+      <role>Young Seth</role>
+      <name>Casey Margolis</name>
+    </item>
+    <item index="41">
+      <photo>http://image.tmdb.org/t/p/original/wtmRsZvRFz6gH0pfiHKUEopuQEf.jpg</photo>
+      <role>Young Becca</role>
+      <name>Laura Marano</name>
+    </item>
+    <item index="42">
+      <photo/>
+      <role>Vagtastic Voyager</role>
+      <name>Matthew Bass</name>
+    </item>
+    <item index="43">
+      <photo>http://image.tmdb.org/t/p/original/s9ohuxNAY3aAQXgDXXOdEOFtrcF.jpg</photo>
+      <role>Vagtastic Voyage Girl #1</role>
+      <name>Aurora Snow</name>
+    </item>
+    <item index="44">
+      <photo>http://image.tmdb.org/t/p/original/zhCjA1ldivu2yO7C6BwUowBd6bC.jpg</photo>
+      <role>Vagtastic Voyage Girl #2</role>
+      <name>Jenna Haze</name>
+    </item>
+    <item index="45">
+      <photo/>
+      <role>Bartender</role>
+      <name>Ted Haigh</name>
+    </item>
+    <item index="46">
+      <photo/>
+      <role>Bus Driver</role>
+      <name>Michael Fennessey</name>
+    </item>
+    <item index="47">
+      <photo>http://image.tmdb.org/t/p/original/krewoXz2qgDdIAB2PTGRuilX0K5.jpg</photo>
+      <role>Elementary Principal</role>
+      <name>Brian Huskey</name>
+    </item>
+    <item index="48">
+      <photo>http://image.tmdb.org/t/p/original/oNzK0umwm5Wn0wyEbOy6TVJCSBn.jpg</photo>
+      <role>Party Teenager #1</role>
+      <name>Clark Duke</name>
+    </item>
+    <item index="49">
+      <photo/>
+      <role>Party Teenager #2</role>
+      <name>Stephen Borrello IV</name>
+    </item>
+    <item index="50">
+      <photo/>
+      <role>Party Teenager #3</role>
+      <name>Naathan Phan</name>
+    </item>
+    <item index="51">
+      <photo>http://image.tmdb.org/t/p/original/mmDJtXmY7gZCNVIZ9L2rNd4TVIK.jpg</photo>
+      <role>Teacher</role>
+      <name>Pamella D'Pella</name>
+    </item>
+    <item index="52">
+      <photo>http://image.tmdb.org/t/p/original/44DW4hNukuxNhGwyMScNNKhwflN.jpg</photo>
+      <role>Buddy at Party (uncredited)</role>
+      <name>Danny McBride</name>
+    </item>
+    <item index="53">
+      <photo>http://image.tmdb.org/t/p/original/mIvZlUREjyCCxmKRd5onC1vxQ4f.jpg</photo>
+      <role>Party Guest (uncredited)</role>
+      <name>Cortney Palm</name>
+    </item>
+  </roles>
+  <countries>
+    <item index="0">USA</item>
+  </countries>
+  <content_rating>R</content_rating>
+  <original_title/>
+  <summary>Two co-dependent high school seniors are forced to deal with separation anxiety after their plan to stage a booze-soaked party goes awry.</summary>
+  <reviews>
+    <item index="0">
+      <text>... "Superbad" isn't perfect. But it's super close.</text>
+      <source>Newsweek</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>http://www.newsweek.com/review-superbad-super-close-perfect-99083</link>
+      <author>Devin Gordon</author>
+    </item>
+    <item index="1">
+      <text>Superbad is a movie about partying and getting wasted and getting the girl, but as the night wears on, much wisdom is gained too, about self, friendship and the end of teenage innocence in all its wondrous, terrifying splendor.</text>
+      <source>Village Voice</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>http://www.villagevoice.com/2007-08-07/film/nerd-love/full/</link>
+      <author>Scott Foundas</author>
+    </item>
+    <item index="2">
+      <text>What makes the film so appealing is the disconnect between what comes from the mouths of these hormone-addled pups and what's going on in their heads, where they're still clinging desperately to the innocence they're leaving behind.</text>
+      <source>NPR.org</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>http://www.npr.org/templates/story/story.php?storyId=13921400</link>
+      <author>Bob Mondello</author>
+    </item>
+    <item index="3">
+      <text>[Cera] has some of the best comic timing of anyone working in film today, a precocious sense of the awkward pauses and misread cues in which social panic resides.</text>
+      <source>The New Republic</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>http://www.tnr.com/booksarts/story.html?id=990872c0-3529-45e9-ba50-14e838e9877a</link>
+      <author>Christopher Orr</author>
+    </item>
+    <item index="4">
+      <text>This is the funniest picture since Borat, and more emotionally nuanced than you would expect.</text>
+      <source>CNN.com</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>http://www.cnn.com/2007/SHOWBIZ/Movies/08/16/review.superbad/index.html</link>
+      <author>Tom Charity</author>
+    </item>
+    <item index="5">
+      <text>'Superbad' at its best goes right through knockabout to land in deliciously obscene places - notably a staggering succession of doodles in which tumescent cocks take on various extraordinary guises.</text>
+      <source>Time Out</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>http://www.timeout.com/film/reviews/84502/superbad.html</link>
+      <author>Ben Walters</author>
+    </item>
+    <item index="6">
+      <text>Superbad is a funny, boozy, ramshackle party, but it's more likely to leave audiences with a tingly afterglow than a pounding hangover.</text>
+      <source>AV Club</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>http://www.avclub.com/content/node/65331</link>
+      <author>Nathan Rabin</author>
+    </item>
+    <item index="7">
+      <text>A four-letter raunch-a-rama with a heart.</text>
+      <source>Chicago Sun-Times</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>http://www.rogerebert.com/reviews/superbad-2007</link>
+      <author>Roger Ebert</author>
+    </item>
+    <item index="8">
+      <text>Contains laughs galore, so many that the last one may get in the way of next one coming. But it's also got moments where you may want to cover your eyes to shield yourself from the sheer, wince-inducing familiarity of the behaviour on display.</text>
+      <source>Toronto Star</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>http://www.thestar.com/entertainment/Movies/article/247159</link>
+      <author>Geoff Pevere</author>
+    </item>
+    <item index="9">
+      <text>An avalanche of d--- jokes and strenuous slapstick.</text>
+      <source>TIME Magazine</source>
+      <image>rottentomatoes://image.review.rotten</image>
+      <link>http://www.time.com/time/arts/article/0,8599,1653918,00.html</link>
+      <author>Richard Corliss</author>
+    </item>
+    <item index="10">
+      <text>For pure laughs, for the experience of just sitting in a chair and breaking up every minute or so, Superbad is 2007's most successful comedy.</text>
+      <source>San Francisco Chronicle</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>http://www.sfgate.com/cgi-bin/article.cgi?file=/c/a/2007/08/17/DDTJRJ0OJ.DTL&amp;type=movies</link>
+      <author>Mick LaSalle</author>
+    </item>
+    <item index="11">
+      <text>This hormonal answer to Reefer Madness is good, wacked-out fun.</text>
+      <source>New York Daily News</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>http://www.nydailynews.com/entertainment/movies/2007/08/17/2007-08-17_nerds_rule.html</link>
+      <author>Jack Mathews</author>
+    </item>
+    <item index="12">
+      <text>Even this middle-age hausfrau can appreciate the zonkered comic force behind Superbad, whose rambling plot and profane bull sessions reminded me of Danny Leiner's Harold &amp; Kumar Go to White Castle.</text>
+      <source>Houston Chronicle</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>http://www.chron.com/disp/story.mpl/ent/movies/reviews/5030667.html</link>
+      <author>Amy Biancolli</author>
+    </item>
+    <item index="13">
+      <text>I wanted to find this as funny as audiences did. But it mostly made me understand the case for staying a virgin until you're 40.</text>
+      <source>Boston Globe</source>
+      <image>rottentomatoes://image.review.rotten</image>
+      <link>http://www.boston.com/ae/movies/articles/2007/08/17/its_a_nerd_hes_in_pain____its_superbad</link>
+      <author>Wesley Morris</author>
+    </item>
+    <item index="14">
+      <text>A crazed odyssey of booze, lust, thwarted sex and undying friendship.</text>
+      <source>Philadelphia Inquirer</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>http://www.philly.com/inquirer/columnists/carrie_rickey/20070817_Not_just_another_teen_comedy.html</link>
+      <author>Steven Rea</author>
+    </item>
+  </reviews>
+  <directors>
+    <item index="0">
+      <photo>http://image.tmdb.org/t/p/original/dC1BKEyTzgTqqy8c5MmSZrRLhNR.jpg</photo>
+      <role/>
+      <name>Greg Mottola</name>
+    </item>
+  </directors>
+  <extras external="True" extension="xml"/>
+  <banners/>
+  <similar>
+    <item index="0">Step Brothers</item>
+    <item index="1">Pineapple Express</item>
+    <item index="2">The 40 Year Old Virgin</item>
+    <item index="3">Anchorman: The Legend of Ron Burgundy</item>
+    <item index="4">Borat: Cultural Learnings of America for Make Benefit Glorious Nation of Kazakhstan</item>
+    <item index="5">Forgetting Sarah Marshall</item>
+    <item index="6">Knocked Up</item>
+    <item index="7">Role Models</item>
+    <item index="8">Old School</item>
+    <item index="9">The Other Guys</item>
+    <item index="10">Office Space</item>
+    <item index="11">Get Him to the Greek</item>
+    <item index="12">Zack and Miri Make a Porno</item>
+    <item index="13">Dumb and Dumber</item>
+    <item index="14">Shaun of the Dead</item>
+    <item index="15">Tropic Thunder</item>
+    <item index="16">Hot Tub Time Machine</item>
+    <item index="17">Harold &amp; Kumar Go to White Castle</item>
+    <item index="18">Team America: World Police</item>
+    <item index="19">Hot Fuzz</item>
+  </similar>
+</Movie>

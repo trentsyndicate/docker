@@ -1,0 +1,317 @@
+Jul 15, 2018 02:12:58.651 [0x7fedb3bff700] INFO - Plex Media Scanner v1.13.2.5154-fd05be322 - ubuntu docker x86_64 - build: linux-ubuntu-x86_64 - GMT -04:00
+Jul 15, 2018 02:12:58.651 [0x7fedb3bff700] INFO - Linux version: 4.15.0-24-generic (#26-Ubuntu SMP Wed Jun 13 08:44:47 UTC 2018), language: C
+Jul 15, 2018 02:12:58.651 [0x7fedb3bff700] INFO - Processor Intel(R) Core(TM) i7-4770R CPU @ 3.20GHz
+Jul 15, 2018 02:12:58.651 [0x7fedb3bff700] INFO - /usr/lib/plexmediaserver/Plex Media Scanner --analyze --item 5143,3988,5115,5147,5239,7205,4003 --log-file-suffix  Analysis
+Jul 15, 2018 02:12:58.666 [0x7fedbf52d800] DEBUG - Opening 20 database sessions to library (com.plexapp.plugins.library), SQLite 3.13.0, threadsafe=1
+Jul 15, 2018 02:12:58.754 [0x7fedbf52d800] DEBUG - Analyzing media parts for item 5143 (Zero Tolerance): 9603
+Jul 15, 2018 02:12:58.754 [0x7fedbf52d800] DEBUG - [ID 9619] Media part analysis: /movies/Zero.Tolerance (2014)/Zero.Tolerance.2014.DVDSCREENER.EN.AC3.XviD-kgJ.avi
+Jul 15, 2018 02:12:58.756 [0x7fedbf52d800] DEBUG - [MI] Opening input file: "/movies/Zero.Tolerance (2014)/Zero.Tolerance.2014.DVDSCREENER.EN.AC3.XviD-kgJ.avi"
+Jul 15, 2018 02:12:58.786 [0x7fedbf52d800] DEBUG - [FFMPEG] - Opening '/movies/Zero.Tolerance (2014)/Zero.Tolerance.2014.DVDSCREENER.EN.AC3.XviD-kgJ.avi' for reading
+Jul 15, 2018 02:12:58.787 [0x7fedbf52d800] DEBUG - [FFMPEG] - Setting default whitelist 'file,crypto'
+Jul 15, 2018 02:12:58.918 [0x7fedbf52d800] WARN - [FFMPEG] - Format avi detected only with low score of 1, misdetection possible!
+Jul 15, 2018 02:12:58.918 [0x7fedbf52d800] DEBUG - [FFMPEG] - Statistics: 1048576 bytes read, 0 seeks
+Jul 15, 2018 02:12:58.922 [0x7fedbf52d800] ERROR - Exception analyzing media file '/movies/Zero.Tolerance (2014)/Zero.Tolerance.2014.DVDSCREENER.EN.AC3.XviD-kgJ.avi' (Could not parse /movies/Zero.Tolerance (2014)/Zero.Tolerance.2014.DVDSCREENER.EN.AC3.XviD-kgJ.avi (error=-1094995529): Invalid data found when processing input)
+Jul 15, 2018 02:12:58.922 [0x7fedbf52d800] DEBUG - Streams didn't change in analysis, not saving.
+Jul 15, 2018 02:12:58.923 [0x7fedbf52d800] DEBUG - Updating media item 9603, size=812646400, metadata_item_id=5143
+Jul 15, 2018 02:12:58.923 [0x7fedbf52d800] DEBUG - Updating part with ID=9619 [/movies/Zero.Tolerance (2014)/Zero.Tolerance.2014.DVDSCREENER.EN.AC3.XviD-kgJ.avi]
+Jul 15, 2018 02:12:58.954 [0x7fedbf52d800] DEBUG - [MI] Opening input file: "/movies/Zero.Tolerance (2014)/Zero.Tolerance.2014.DVDSCREENER.EN.AC3.XviD-kgJ.avi"
+Jul 15, 2018 02:12:58.955 [0x7fedbf52d800] DEBUG - [FFMPEG] - Opening '/movies/Zero.Tolerance (2014)/Zero.Tolerance.2014.DVDSCREENER.EN.AC3.XviD-kgJ.avi' for reading
+Jul 15, 2018 02:12:58.955 [0x7fedbf52d800] DEBUG - [FFMPEG] - Setting default whitelist 'file,crypto'
+Jul 15, 2018 02:12:59.037 [0x7fedbf52d800] WARN - [FFMPEG] - Format avi detected only with low score of 1, misdetection possible!
+Jul 15, 2018 02:12:59.037 [0x7fedbf52d800] DEBUG - [FFMPEG] - Statistics: 1048576 bytes read, 0 seeks
+Jul 15, 2018 02:12:59.038 [0x7fedbf52d800] ERROR - Exception extracting thumbnail from media file '/movies/Zero.Tolerance (2014)/Zero.Tolerance.2014.DVDSCREENER.EN.AC3.XviD-kgJ.avi' (Could not parse /movies/Zero.Tolerance (2014)/Zero.Tolerance.2014.DVDSCREENER.EN.AC3.XviD-kgJ.avi (error=-1094995529): Invalid data found when processing input)
+Jul 15, 2018 02:12:59.039 [0x7fedbf52d800] DEBUG - [MI] Opening input file: "/movies/Zero.Tolerance (2014)/Zero.Tolerance.2014.DVDSCREENER.EN.AC3.XviD-kgJ.avi"
+Jul 15, 2018 02:12:59.039 [0x7fedbf52d800] DEBUG - [FFMPEG] - Opening '/movies/Zero.Tolerance (2014)/Zero.Tolerance.2014.DVDSCREENER.EN.AC3.XviD-kgJ.avi' for reading
+Jul 15, 2018 02:12:59.039 [0x7fedbf52d800] DEBUG - [FFMPEG] - Setting default whitelist 'file,crypto'
+Jul 15, 2018 02:12:59.101 [0x7fedbf52d800] WARN - [FFMPEG] - Format avi detected only with low score of 1, misdetection possible!
+Jul 15, 2018 02:12:59.101 [0x7fedbf52d800] DEBUG - [FFMPEG] - Statistics: 1048576 bytes read, 0 seeks
+Jul 15, 2018 02:12:59.101 [0x7fedbf52d800] ERROR - Exception extracting thumbnail from media file '/movies/Zero.Tolerance (2014)/Zero.Tolerance.2014.DVDSCREENER.EN.AC3.XviD-kgJ.avi' (Could not parse /movies/Zero.Tolerance (2014)/Zero.Tolerance.2014.DVDSCREENER.EN.AC3.XviD-kgJ.avi (error=-1094995529): Invalid data found when processing input)
+Jul 15, 2018 02:12:59.105 [0x7fedbf52d800] DEBUG - Downloading document http://127.0.0.1:32400/library/changestamp
+Jul 15, 2018 02:12:59.105 [0x7fedbf52d800] DEBUG - HTTP requesting GET http://127.0.0.1:32400/library/changestamp
+Jul 15, 2018 02:12:59.107 [0x7fedbf52d800] DEBUG - HTTP 200 response from GET http://127.0.0.1:32400/library/changestamp
+Jul 15, 2018 02:12:59.107 [0x7fedbf52d800] DEBUG - Updating metadata item (save) (Zero Tolerance) with ID 5143
+Jul 15, 2018 02:12:59.114 [0x7fedb13ff700] DEBUG - HTTP requesting GET http://127.0.0.1:32400/:/metadata/notify/changeItemState?librarySectionID=1&metadataItemID=5143&metadataType=1&state=-1&mediaState=analyzing
+Jul 15, 2018 02:12:59.116 [0x7fedb13ff700] DEBUG - HTTP 200 response from GET http://127.0.0.1:32400/:/metadata/notify/changeItemState?librarySectionID=1&metadataItemID=5143&metadataType=1&state=-1&mediaState=analyzing
+Jul 15, 2018 02:12:59.116 [0x7fedb13ff700] DEBUG - HTTP requesting GET http://127.0.0.1:32400/:/metadata/notify/changeItemState?librarySectionID=1&metadataItemID=5143&metadataType=1&state=-1&mediaState=thumbnailing
+Jul 15, 2018 02:12:59.116 [0x7fedbf52d800] DEBUG - Analyzing media parts for item 3988 (Say Thank You to Your Face Day): 8253
+Jul 15, 2018 02:12:59.116 [0x7fedb13ff700] DEBUG - HTTP 200 response from GET http://127.0.0.1:32400/:/metadata/notify/changeItemState?librarySectionID=1&metadataItemID=5143&metadataType=1&state=-1&mediaState=thumbnailing
+Jul 15, 2018 02:12:59.117 [0x7fedb13ff700] DEBUG - HTTP requesting GET http://127.0.0.1:32400/:/metadata/notify/changeItemState?librarySectionID=1&metadataItemID=5143&metadataType=1&state=-1&mediaState=idle
+Jul 15, 2018 02:12:59.117 [0x7fedbf52d800] DEBUG - [ID 8261] Media part analysis: /tv/Sesame.Street.s46e10.720p.WEBRip.AAC2.0.H264-BTN-Obfuscated/CrYQ9AMeAhbhchZh.mp4
+Jul 15, 2018 02:12:59.117 [0x7fedb13ff700] DEBUG - HTTP 200 response from GET http://127.0.0.1:32400/:/metadata/notify/changeItemState?librarySectionID=1&metadataItemID=5143&metadataType=1&state=-1&mediaState=idle
+Jul 15, 2018 02:12:59.122 [0x7fedbf52d800] DEBUG - [MI] Opening input file: "/tv/Sesame.Street.s46e10.720p.WEBRip.AAC2.0.H264-BTN-Obfuscated/CrYQ9AMeAhbhchZh.mp4"
+Jul 15, 2018 02:12:59.122 [0x7fedbf52d800] DEBUG - [FFMPEG] - Opening '/tv/Sesame.Street.s46e10.720p.WEBRip.AAC2.0.H264-BTN-Obfuscated/CrYQ9AMeAhbhchZh.mp4' for reading
+Jul 15, 2018 02:12:59.122 [0x7fedbf52d800] DEBUG - [FFMPEG] - Setting default whitelist 'file,crypto'
+Jul 15, 2018 02:12:59.174 [0x7fedbf52d800] DEBUG - [FFMPEG] - Format mov,mp4,m4a,3gp,3g2,mj2 probed with size=2048 and score=100
+Jul 15, 2018 02:12:59.175 [0x7fedbf52d800] DEBUG - [FFMPEG] - ISO: File Type Major Brand: isom
+Jul 15, 2018 02:12:59.227 [0x7fedbf52d800] DEBUG - [FFMPEG] - ISO: File Type Major Brand: isom
+Jul 15, 2018 02:12:59.227 [0x7fedbf52d800] ERROR - [FFMPEG] - moov atom not found
+Jul 15, 2018 02:12:59.227 [0x7fedbf52d800] DEBUG - [FFMPEG] - Statistics: 131072 bytes read, 5 seeks
+Jul 15, 2018 02:12:59.228 [0x7fedbf52d800] ERROR - Exception analyzing media file '/tv/Sesame.Street.s46e10.720p.WEBRip.AAC2.0.H264-BTN-Obfuscated/CrYQ9AMeAhbhchZh.mp4' (Could not parse /tv/Sesame.Street.s46e10.720p.WEBRip.AAC2.0.H264-BTN-Obfuscated/CrYQ9AMeAhbhchZh.mp4 (error=-1094995529): Invalid data found when processing input)
+Jul 15, 2018 02:12:59.228 [0x7fedbf52d800] DEBUG - Streams didn't change in analysis, not saving.
+Jul 15, 2018 02:12:59.229 [0x7fedbf52d800] DEBUG - Updating media item 8253, size=658080951, metadata_item_id=3988
+Jul 15, 2018 02:12:59.230 [0x7fedbf52d800] DEBUG - Updating part with ID=8261 [/tv/Sesame.Street.s46e10.720p.WEBRip.AAC2.0.H264-BTN-Obfuscated/CrYQ9AMeAhbhchZh.mp4]
+Jul 15, 2018 02:12:59.249 [0x7fedbf52d800] DEBUG - [MI] Opening input file: "/tv/Sesame.Street.s46e10.720p.WEBRip.AAC2.0.H264-BTN-Obfuscated/CrYQ9AMeAhbhchZh.mp4"
+Jul 15, 2018 02:12:59.250 [0x7fedbf52d800] DEBUG - [FFMPEG] - Opening '/tv/Sesame.Street.s46e10.720p.WEBRip.AAC2.0.H264-BTN-Obfuscated/CrYQ9AMeAhbhchZh.mp4' for reading
+Jul 15, 2018 02:12:59.250 [0x7fedbf52d800] DEBUG - [FFMPEG] - Setting default whitelist 'file,crypto'
+Jul 15, 2018 02:12:59.253 [0x7fedbf52d800] DEBUG - [FFMPEG] - Format mov,mp4,m4a,3gp,3g2,mj2 probed with size=2048 and score=100
+Jul 15, 2018 02:12:59.253 [0x7fedbf52d800] DEBUG - [FFMPEG] - ISO: File Type Major Brand: isom
+Jul 15, 2018 02:12:59.254 [0x7fedbf52d800] DEBUG - [FFMPEG] - ISO: File Type Major Brand: isom
+Jul 15, 2018 02:12:59.255 [0x7fedbf52d800] ERROR - [FFMPEG] - moov atom not found
+Jul 15, 2018 02:12:59.255 [0x7fedbf52d800] DEBUG - [FFMPEG] - Statistics: 131072 bytes read, 5 seeks
+Jul 15, 2018 02:12:59.255 [0x7fedbf52d800] ERROR - Exception extracting thumbnail from media file '/tv/Sesame.Street.s46e10.720p.WEBRip.AAC2.0.H264-BTN-Obfuscated/CrYQ9AMeAhbhchZh.mp4' (Could not parse /tv/Sesame.Street.s46e10.720p.WEBRip.AAC2.0.H264-BTN-Obfuscated/CrYQ9AMeAhbhchZh.mp4 (error=-1094995529): Invalid data found when processing input)
+Jul 15, 2018 02:12:59.256 [0x7fedb13ff700] DEBUG - HTTP requesting GET http://127.0.0.1:32400/:/metadata/notify/changeItemState?librarySectionID=2&metadataItemID=3988&metadataType=4&state=-1&mediaState=analyzing
+Jul 15, 2018 02:12:59.261 [0x7fedb13ff700] DEBUG - HTTP 200 response from GET http://127.0.0.1:32400/:/metadata/notify/changeItemState?librarySectionID=2&metadataItemID=3988&metadataType=4&state=-1&mediaState=analyzing
+Jul 15, 2018 02:12:59.262 [0x7fedb13ff700] DEBUG - HTTP requesting GET http://127.0.0.1:32400/:/metadata/notify/changeItemState?librarySectionID=2&metadataItemID=3988&metadataType=4&state=-1&mediaState=thumbnailing
+Jul 15, 2018 02:12:59.265 [0x7fedb13ff700] DEBUG - HTTP 200 response from GET http://127.0.0.1:32400/:/metadata/notify/changeItemState?librarySectionID=2&metadataItemID=3988&metadataType=4&state=-1&mediaState=thumbnailing
+Jul 15, 2018 02:12:59.266 [0x7fedb13ff700] DEBUG - HTTP requesting GET http://127.0.0.1:32400/:/metadata/notify/changeItemState?librarySectionID=2&metadataItemID=3988&metadataType=4&state=-1&mediaState=idle
+Jul 15, 2018 02:12:59.268 [0x7fedb13ff700] DEBUG - HTTP 200 response from GET http://127.0.0.1:32400/:/metadata/notify/changeItemState?librarySectionID=2&metadataItemID=3988&metadataType=4&state=-1&mediaState=idle
+Jul 15, 2018 02:12:59.275 [0x7fedbf52d800] DEBUG - Analyzing media parts for item 5115 (Mojin: The Lost Legend): 9569
+Jul 15, 2018 02:12:59.275 [0x7fedbf52d800] DEBUG - [ID 9585] Media part analysis: /movies/Mojin.The.Lost.Legend.2015.BluRay.720p.x264.Ganool.ag-Obfuscated/eGbMexbXlfG8UjZfFF55XZBUDQdmCx6e.mp4
+Jul 15, 2018 02:12:59.279 [0x7fedbf52d800] DEBUG - [MI] Opening input file: "/movies/Mojin.The.Lost.Legend.2015.BluRay.720p.x264.Ganool.ag-Obfuscated/eGbMexbXlfG8UjZfFF55XZBUDQdmCx6e.mp4"
+Jul 15, 2018 02:12:59.279 [0x7fedbf52d800] DEBUG - [FFMPEG] - Opening '/movies/Mojin.The.Lost.Legend.2015.BluRay.720p.x264.Ganool.ag-Obfuscated/eGbMexbXlfG8UjZfFF55XZBUDQdmCx6e.mp4' for reading
+Jul 15, 2018 02:12:59.279 [0x7fedbf52d800] DEBUG - [FFMPEG] - Setting default whitelist 'file,crypto'
+Jul 15, 2018 02:12:59.332 [0x7fedbf52d800] DEBUG - [FFMPEG] - Format mov,mp4,m4a,3gp,3g2,mj2 probed with size=2048 and score=100
+Jul 15, 2018 02:12:59.332 [0x7fedbf52d800] DEBUG - [FFMPEG] - ISO: File Type Major Brand: isom
+Jul 15, 2018 02:12:59.332 [0x7fedbf52d800] DEBUG - [FFMPEG] - ISO: File Type Major Brand: isom
+Jul 15, 2018 02:12:59.332 [0x7fedbf52d800] ERROR - [FFMPEG] - moov atom not found
+Jul 15, 2018 02:12:59.332 [0x7fedbf52d800] DEBUG - [FFMPEG] - Statistics: 65536 bytes read, 3 seeks
+Jul 15, 2018 02:12:59.333 [0x7fedbf52d800] ERROR - Exception analyzing media file '/movies/Mojin.The.Lost.Legend.2015.BluRay.720p.x264.Ganool.ag-Obfuscated/eGbMexbXlfG8UjZfFF55XZBUDQdmCx6e.mp4' (Could not parse /movies/Mojin.The.Lost.Legend.2015.BluRay.720p.x264.Ganool.ag-Obfuscated/eGbMexbXlfG8UjZfFF55XZBUDQdmCx6e.mp4 (error=-1094995529): Invalid data found when processing input)
+Jul 15, 2018 02:12:59.333 [0x7fedbf52d800] DEBUG - Streams didn't change in analysis, not saving.
+Jul 15, 2018 02:12:59.333 [0x7fedbf52d800] DEBUG - Updating media item 9569, size=1475917521, metadata_item_id=5115
+Jul 15, 2018 02:12:59.334 [0x7fedbf52d800] DEBUG - Updating part with ID=9585 [/movies/Mojin.The.Lost.Legend.2015.BluRay.720p.x264.Ganool.ag-Obfuscated/eGbMexbXlfG8UjZfFF55XZBUDQdmCx6e.mp4]
+Jul 15, 2018 02:12:59.363 [0x7fedbf52d800] DEBUG - [MI] Opening input file: "/movies/Mojin.The.Lost.Legend.2015.BluRay.720p.x264.Ganool.ag-Obfuscated/eGbMexbXlfG8UjZfFF55XZBUDQdmCx6e.mp4"
+Jul 15, 2018 02:12:59.363 [0x7fedbf52d800] DEBUG - [FFMPEG] - Opening '/movies/Mojin.The.Lost.Legend.2015.BluRay.720p.x264.Ganool.ag-Obfuscated/eGbMexbXlfG8UjZfFF55XZBUDQdmCx6e.mp4' for reading
+Jul 15, 2018 02:12:59.363 [0x7fedbf52d800] DEBUG - [FFMPEG] - Setting default whitelist 'file,crypto'
+Jul 15, 2018 02:12:59.368 [0x7fedbf52d800] DEBUG - [FFMPEG] - Format mov,mp4,m4a,3gp,3g2,mj2 probed with size=2048 and score=100
+Jul 15, 2018 02:12:59.368 [0x7fedbf52d800] DEBUG - [FFMPEG] - ISO: File Type Major Brand: isom
+Jul 15, 2018 02:12:59.368 [0x7fedbf52d800] DEBUG - [FFMPEG] - ISO: File Type Major Brand: isom
+Jul 15, 2018 02:12:59.368 [0x7fedbf52d800] ERROR - [FFMPEG] - moov atom not found
+Jul 15, 2018 02:12:59.368 [0x7fedbf52d800] DEBUG - [FFMPEG] - Statistics: 65536 bytes read, 3 seeks
+Jul 15, 2018 02:12:59.370 [0x7fedbf52d800] ERROR - Exception extracting thumbnail from media file '/movies/Mojin.The.Lost.Legend.2015.BluRay.720p.x264.Ganool.ag-Obfuscated/eGbMexbXlfG8UjZfFF55XZBUDQdmCx6e.mp4' (Could not parse /movies/Mojin.The.Lost.Legend.2015.BluRay.720p.x264.Ganool.ag-Obfuscated/eGbMexbXlfG8UjZfFF55XZBUDQdmCx6e.mp4 (error=-1094995529): Invalid data found when processing input)
+Jul 15, 2018 02:12:59.371 [0x7fedbf52d800] DEBUG - [MI] Opening input file: "/movies/Mojin.The.Lost.Legend.2015.BluRay.720p.x264.Ganool.ag-Obfuscated/eGbMexbXlfG8UjZfFF55XZBUDQdmCx6e.mp4"
+Jul 15, 2018 02:12:59.371 [0x7fedbf52d800] DEBUG - [FFMPEG] - Opening '/movies/Mojin.The.Lost.Legend.2015.BluRay.720p.x264.Ganool.ag-Obfuscated/eGbMexbXlfG8UjZfFF55XZBUDQdmCx6e.mp4' for reading
+Jul 15, 2018 02:12:59.371 [0x7fedbf52d800] DEBUG - [FFMPEG] - Setting default whitelist 'file,crypto'
+Jul 15, 2018 02:12:59.376 [0x7fedbf52d800] DEBUG - [FFMPEG] - Format mov,mp4,m4a,3gp,3g2,mj2 probed with size=2048 and score=100
+Jul 15, 2018 02:12:59.376 [0x7fedbf52d800] DEBUG - [FFMPEG] - ISO: File Type Major Brand: isom
+Jul 15, 2018 02:12:59.376 [0x7fedbf52d800] DEBUG - [FFMPEG] - ISO: File Type Major Brand: isom
+Jul 15, 2018 02:12:59.377 [0x7fedbf52d800] ERROR - [FFMPEG] - moov atom not found
+Jul 15, 2018 02:12:59.377 [0x7fedbf52d800] DEBUG - [FFMPEG] - Statistics: 65536 bytes read, 3 seeks
+Jul 15, 2018 02:12:59.378 [0x7fedbf52d800] ERROR - Exception extracting thumbnail from media file '/movies/Mojin.The.Lost.Legend.2015.BluRay.720p.x264.Ganool.ag-Obfuscated/eGbMexbXlfG8UjZfFF55XZBUDQdmCx6e.mp4' (Could not parse /movies/Mojin.The.Lost.Legend.2015.BluRay.720p.x264.Ganool.ag-Obfuscated/eGbMexbXlfG8UjZfFF55XZBUDQdmCx6e.mp4 (error=-1094995529): Invalid data found when processing input)
+Jul 15, 2018 02:12:59.383 [0x7fedbf52d800] DEBUG - Downloading document http://127.0.0.1:32400/library/changestamp
+Jul 15, 2018 02:12:59.383 [0x7fedbf52d800] DEBUG - HTTP requesting GET http://127.0.0.1:32400/library/changestamp
+Jul 15, 2018 02:12:59.388 [0x7fedbf52d800] DEBUG - HTTP 200 response from GET http://127.0.0.1:32400/library/changestamp
+Jul 15, 2018 02:12:59.389 [0x7fedbf52d800] DEBUG - Updating metadata item (save) (Mojin: The Lost Legend) with ID 5115
+Jul 15, 2018 02:12:59.408 [0x7fedb13ff700] DEBUG - HTTP requesting GET http://127.0.0.1:32400/:/metadata/notify/changeItemState?librarySectionID=1&metadataItemID=5115&metadataType=1&state=-1&mediaState=analyzing
+Jul 15, 2018 02:12:59.411 [0x7fedb13ff700] DEBUG - HTTP 200 response from GET http://127.0.0.1:32400/:/metadata/notify/changeItemState?librarySectionID=1&metadataItemID=5115&metadataType=1&state=-1&mediaState=analyzing
+Jul 15, 2018 02:12:59.412 [0x7fedb13ff700] DEBUG - HTTP requesting GET http://127.0.0.1:32400/:/metadata/notify/changeItemState?librarySectionID=1&metadataItemID=5115&metadataType=1&state=-1&mediaState=thumbnailing
+Jul 15, 2018 02:12:59.414 [0x7fedb13ff700] DEBUG - HTTP 200 response from GET http://127.0.0.1:32400/:/metadata/notify/changeItemState?librarySectionID=1&metadataItemID=5115&metadataType=1&state=-1&mediaState=thumbnailing
+Jul 15, 2018 02:12:59.414 [0x7fedb13ff700] DEBUG - HTTP requesting GET http://127.0.0.1:32400/:/metadata/notify/changeItemState?librarySectionID=1&metadataItemID=5115&metadataType=1&state=-1&mediaState=idle
+Jul 15, 2018 02:12:59.417 [0x7fedb13ff700] DEBUG - HTTP 200 response from GET http://127.0.0.1:32400/:/metadata/notify/changeItemState?librarySectionID=1&metadataItemID=5115&metadataType=1&state=-1&mediaState=idle
+Jul 15, 2018 02:12:59.423 [0x7fedbf52d800] DEBUG - Analyzing media parts for item 5147 (WarGames): 9607
+Jul 15, 2018 02:12:59.423 [0x7fedbf52d800] DEBUG - [ID 9623] Media part analysis: /movies/WarGames (1983)/WarGames.avi
+Jul 15, 2018 02:12:59.426 [0x7fedbf52d800] DEBUG - [MI] Opening input file: "/movies/WarGames (1983)/WarGames.avi"
+Jul 15, 2018 02:12:59.426 [0x7fedbf52d800] DEBUG - [FFMPEG] - Opening '/movies/WarGames (1983)/WarGames.avi' for reading
+Jul 15, 2018 02:12:59.426 [0x7fedbf52d800] DEBUG - [FFMPEG] - Setting default whitelist 'file,crypto'
+Jul 15, 2018 02:12:59.523 [0x7fedbf52d800] WARN - [FFMPEG] - Format avi detected only with low score of 1, misdetection possible!
+Jul 15, 2018 02:12:59.523 [0x7fedbf52d800] DEBUG - [FFMPEG] - Statistics: 1048576 bytes read, 0 seeks
+Jul 15, 2018 02:12:59.524 [0x7fedbf52d800] ERROR - Exception analyzing media file '/movies/WarGames (1983)/WarGames.avi' (Could not parse /movies/WarGames (1983)/WarGames.avi (error=-1094995529): Invalid data found when processing input)
+Jul 15, 2018 02:12:59.524 [0x7fedbf52d800] DEBUG - Streams didn't change in analysis, not saving.
+Jul 15, 2018 02:12:59.524 [0x7fedbf52d800] DEBUG - Updating media item 9607, size=855638016, metadata_item_id=5147
+Jul 15, 2018 02:12:59.524 [0x7fedbf52d800] DEBUG - Updating part with ID=9623 [/movies/WarGames (1983)/WarGames.avi]
+Jul 15, 2018 02:12:59.538 [0x7fedbf52d800] DEBUG - [MI] Opening input file: "/movies/WarGames (1983)/WarGames.avi"
+Jul 15, 2018 02:12:59.538 [0x7fedbf52d800] DEBUG - [FFMPEG] - Opening '/movies/WarGames (1983)/WarGames.avi' for reading
+Jul 15, 2018 02:12:59.538 [0x7fedbf52d800] DEBUG - [FFMPEG] - Setting default whitelist 'file,crypto'
+Jul 15, 2018 02:12:59.604 [0x7fedbf52d800] WARN - [FFMPEG] - Format avi detected only with low score of 1, misdetection possible!
+Jul 15, 2018 02:12:59.604 [0x7fedbf52d800] DEBUG - [FFMPEG] - Statistics: 1048576 bytes read, 0 seeks
+Jul 15, 2018 02:12:59.604 [0x7fedbf52d800] ERROR - Exception extracting thumbnail from media file '/movies/WarGames (1983)/WarGames.avi' (Could not parse /movies/WarGames (1983)/WarGames.avi (error=-1094995529): Invalid data found when processing input)
+Jul 15, 2018 02:12:59.605 [0x7fedbf52d800] DEBUG - [MI] Opening input file: "/movies/WarGames (1983)/WarGames.avi"
+Jul 15, 2018 02:12:59.605 [0x7fedbf52d800] DEBUG - [FFMPEG] - Opening '/movies/WarGames (1983)/WarGames.avi' for reading
+Jul 15, 2018 02:12:59.605 [0x7fedbf52d800] DEBUG - [FFMPEG] - Setting default whitelist 'file,crypto'
+Jul 15, 2018 02:12:59.669 [0x7fedbf52d800] WARN - [FFMPEG] - Format avi detected only with low score of 1, misdetection possible!
+Jul 15, 2018 02:12:59.669 [0x7fedbf52d800] DEBUG - [FFMPEG] - Statistics: 1048576 bytes read, 0 seeks
+Jul 15, 2018 02:12:59.669 [0x7fedbf52d800] ERROR - Exception extracting thumbnail from media file '/movies/WarGames (1983)/WarGames.avi' (Could not parse /movies/WarGames (1983)/WarGames.avi (error=-1094995529): Invalid data found when processing input)
+Jul 15, 2018 02:12:59.670 [0x7fedbf52d800] DEBUG - Downloading document http://127.0.0.1:32400/library/changestamp
+Jul 15, 2018 02:12:59.670 [0x7fedbf52d800] DEBUG - HTTP requesting GET http://127.0.0.1:32400/library/changestamp
+Jul 15, 2018 02:12:59.672 [0x7fedbf52d800] DEBUG - HTTP 200 response from GET http://127.0.0.1:32400/library/changestamp
+Jul 15, 2018 02:12:59.672 [0x7fedbf52d800] DEBUG - Updating metadata item (save) (WarGames) with ID 5147
+Jul 15, 2018 02:12:59.679 [0x7fedb13ff700] DEBUG - HTTP requesting GET http://127.0.0.1:32400/:/metadata/notify/changeItemState?librarySectionID=1&metadataItemID=5147&metadataType=1&state=-1&mediaState=analyzing
+Jul 15, 2018 02:12:59.680 [0x7fedb13ff700] DEBUG - HTTP 200 response from GET http://127.0.0.1:32400/:/metadata/notify/changeItemState?librarySectionID=1&metadataItemID=5147&metadataType=1&state=-1&mediaState=analyzing
+Jul 15, 2018 02:12:59.680 [0x7fedb13ff700] DEBUG - HTTP requesting GET http://127.0.0.1:32400/:/metadata/notify/changeItemState?librarySectionID=1&metadataItemID=5147&metadataType=1&state=-1&mediaState=thumbnailing
+Jul 15, 2018 02:12:59.681 [0x7fedb13ff700] DEBUG - HTTP 200 response from GET http://127.0.0.1:32400/:/metadata/notify/changeItemState?librarySectionID=1&metadataItemID=5147&metadataType=1&state=-1&mediaState=thumbnailing
+Jul 15, 2018 02:12:59.681 [0x7fedb13ff700] DEBUG - HTTP requesting GET http://127.0.0.1:32400/:/metadata/notify/changeItemState?librarySectionID=1&metadataItemID=5147&metadataType=1&state=-1&mediaState=idle
+Jul 15, 2018 02:12:59.682 [0x7fedb13ff700] DEBUG - HTTP 200 response from GET http://127.0.0.1:32400/:/metadata/notify/changeItemState?librarySectionID=1&metadataItemID=5147&metadataType=1&state=-1&mediaState=idle
+Jul 15, 2018 02:12:59.686 [0x7fedbf52d800] DEBUG - It took 0.000000 ms to retrieve 185 items.
+Jul 15, 2018 02:12:59.691 [0x7fedbf52d800] DEBUG - Analyzing media parts for item 5239 (Batman Begins): 9815
+Jul 15, 2018 02:12:59.691 [0x7fedbf52d800] DEBUG - [ID 9831] Media part analysis: /movies/Batman Begins/Batman.Begins.2005.PROPER.720p.HDDVDRiP.AC3.5.1.x264-DEFiNiTiON.mkv
+Jul 15, 2018 02:12:59.692 [0x7fedbf52d800] DEBUG - [MI] Opening input file: "/movies/Batman Begins/Batman.Begins.2005.PROPER.720p.HDDVDRiP.AC3.5.1.x264-DEFiNiTiON.mkv"
+Jul 15, 2018 02:12:59.692 [0x7fedbf52d800] DEBUG - [FFMPEG] - Opening '/movies/Batman Begins/Batman.Begins.2005.PROPER.720p.HDDVDRiP.AC3.5.1.x264-DEFiNiTiON.mkv' for reading
+Jul 15, 2018 02:12:59.692 [0x7fedbf52d800] DEBUG - [FFMPEG] - Setting default whitelist 'file,crypto'
+Jul 15, 2018 02:12:59.846 [0x7fedbf52d800] WARN - [FFMPEG] - Format matroska,webm detected only with low score of 1, misdetection possible!
+Jul 15, 2018 02:12:59.846 [0x7fedbf52d800] ERROR - [FFMPEG] - Read error at pos. 1 (0x1)
+Jul 15, 2018 02:12:59.846 [0x7fedbf52d800] ERROR - [FFMPEG] - EBML header parsing failed
+Jul 15, 2018 02:12:59.846 [0x7fedbf52d800] DEBUG - [FFMPEG] - Statistics: 1048576 bytes read, 0 seeks
+Jul 15, 2018 02:12:59.846 [0x7fedbf52d800] ERROR - Exception analyzing media file '/movies/Batman Begins/Batman.Begins.2005.PROPER.720p.HDDVDRiP.AC3.5.1.x264-DEFiNiTiON.mkv' (Could not parse /movies/Batman Begins/Batman.Begins.2005.PROPER.720p.HDDVDRiP.AC3.5.1.x264-DEFiNiTiON.mkv (error=-1094995529): Invalid data found when processing input)
+Jul 15, 2018 02:12:59.846 [0x7fedbf52d800] DEBUG - Streams didn't change in analysis, not saving.
+Jul 15, 2018 02:12:59.847 [0x7fedbf52d800] DEBUG - Updating media item 9815, size=6815045999, metadata_item_id=5239
+Jul 15, 2018 02:12:59.847 [0x7fedbf52d800] DEBUG - Updating part with ID=9831 [/movies/Batman Begins/Batman.Begins.2005.PROPER.720p.HDDVDRiP.AC3.5.1.x264-DEFiNiTiON.mkv]
+Jul 15, 2018 02:12:59.853 [0x7fedbf52d800] DEBUG - [MI] Opening input file: "/movies/Batman Begins/Batman.Begins.2005.PROPER.720p.HDDVDRiP.AC3.5.1.x264-DEFiNiTiON.mkv"
+Jul 15, 2018 02:12:59.853 [0x7fedbf52d800] DEBUG - [FFMPEG] - Opening '/movies/Batman Begins/Batman.Begins.2005.PROPER.720p.HDDVDRiP.AC3.5.1.x264-DEFiNiTiON.mkv' for reading
+Jul 15, 2018 02:12:59.853 [0x7fedbf52d800] DEBUG - [FFMPEG] - Setting default whitelist 'file,crypto'
+Jul 15, 2018 02:12:59.904 [0x7fedbf52d800] WARN - [FFMPEG] - Format matroska,webm detected only with low score of 1, misdetection possible!
+Jul 15, 2018 02:12:59.904 [0x7fedbf52d800] ERROR - [FFMPEG] - Read error at pos. 1 (0x1)
+Jul 15, 2018 02:12:59.905 [0x7fedbf52d800] ERROR - [FFMPEG] - EBML header parsing failed
+Jul 15, 2018 02:12:59.905 [0x7fedbf52d800] DEBUG - [FFMPEG] - Statistics: 1048576 bytes read, 0 seeks
+Jul 15, 2018 02:12:59.905 [0x7fedbf52d800] ERROR - Exception extracting thumbnail from media file '/movies/Batman Begins/Batman.Begins.2005.PROPER.720p.HDDVDRiP.AC3.5.1.x264-DEFiNiTiON.mkv' (Could not parse /movies/Batman Begins/Batman.Begins.2005.PROPER.720p.HDDVDRiP.AC3.5.1.x264-DEFiNiTiON.mkv (error=-1094995529): Invalid data found when processing input)
+Jul 15, 2018 02:12:59.906 [0x7fedbf52d800] DEBUG - [MI] Opening input file: "/movies/Batman Begins/Batman.Begins.2005.PROPER.720p.HDDVDRiP.AC3.5.1.x264-DEFiNiTiON.mkv"
+Jul 15, 2018 02:12:59.906 [0x7fedbf52d800] DEBUG - [FFMPEG] - Opening '/movies/Batman Begins/Batman.Begins.2005.PROPER.720p.HDDVDRiP.AC3.5.1.x264-DEFiNiTiON.mkv' for reading
+Jul 15, 2018 02:12:59.906 [0x7fedbf52d800] DEBUG - [FFMPEG] - Setting default whitelist 'file,crypto'
+Jul 15, 2018 02:12:59.955 [0x7fedbf52d800] WARN - [FFMPEG] - Format matroska,webm detected only with low score of 1, misdetection possible!
+Jul 15, 2018 02:12:59.955 [0x7fedbf52d800] ERROR - [FFMPEG] - Read error at pos. 1 (0x1)
+Jul 15, 2018 02:12:59.955 [0x7fedbf52d800] ERROR - [FFMPEG] - EBML header parsing failed
+Jul 15, 2018 02:12:59.955 [0x7fedbf52d800] DEBUG - [FFMPEG] - Statistics: 1048576 bytes read, 0 seeks
+Jul 15, 2018 02:12:59.956 [0x7fedbf52d800] ERROR - Exception extracting thumbnail from media file '/movies/Batman Begins/Batman.Begins.2005.PROPER.720p.HDDVDRiP.AC3.5.1.x264-DEFiNiTiON.mkv' (Could not parse /movies/Batman Begins/Batman.Begins.2005.PROPER.720p.HDDVDRiP.AC3.5.1.x264-DEFiNiTiON.mkv (error=-1094995529): Invalid data found when processing input)
+Jul 15, 2018 02:12:59.957 [0x7fedbf52d800] DEBUG - Downloading document http://127.0.0.1:32400/library/changestamp
+Jul 15, 2018 02:12:59.957 [0x7fedbf52d800] DEBUG - HTTP requesting GET http://127.0.0.1:32400/library/changestamp
+Jul 15, 2018 02:12:59.958 [0x7fedbf52d800] DEBUG - HTTP 200 response from GET http://127.0.0.1:32400/library/changestamp
+Jul 15, 2018 02:12:59.959 [0x7fedbf52d800] DEBUG - Updating metadata item (save) (Batman Begins) with ID 5239
+Jul 15, 2018 02:12:59.966 [0x7fedb13ff700] DEBUG - HTTP requesting GET http://127.0.0.1:32400/:/metadata/notify/changeItemState?librarySectionID=1&metadataItemID=5239&metadataType=1&state=-1&mediaState=analyzing
+Jul 15, 2018 02:12:59.967 [0x7fedb13ff700] DEBUG - HTTP 200 response from GET http://127.0.0.1:32400/:/metadata/notify/changeItemState?librarySectionID=1&metadataItemID=5239&metadataType=1&state=-1&mediaState=analyzing
+Jul 15, 2018 02:12:59.967 [0x7fedb13ff700] DEBUG - HTTP requesting GET http://127.0.0.1:32400/:/metadata/notify/changeItemState?librarySectionID=1&metadataItemID=5239&metadataType=1&state=-1&mediaState=thumbnailing
+Jul 15, 2018 02:12:59.968 [0x7fedb13ff700] DEBUG - HTTP 200 response from GET http://127.0.0.1:32400/:/metadata/notify/changeItemState?librarySectionID=1&metadataItemID=5239&metadataType=1&state=-1&mediaState=thumbnailing
+Jul 15, 2018 02:12:59.968 [0x7fedb13ff700] DEBUG - HTTP requesting GET http://127.0.0.1:32400/:/metadata/notify/changeItemState?librarySectionID=1&metadataItemID=5239&metadataType=1&state=-1&mediaState=idle
+Jul 15, 2018 02:12:59.969 [0x7fedb13ff700] DEBUG - HTTP 200 response from GET http://127.0.0.1:32400/:/metadata/notify/changeItemState?librarySectionID=1&metadataItemID=5239&metadataType=1&state=-1&mediaState=idle
+Jul 15, 2018 02:12:59.976 [0x7fedbf52d800] DEBUG - Analyzing media parts for item 7205 (Rampage): 15707
+Jul 15, 2018 02:12:59.977 [0x7fedbf52d800] DEBUG - [ID 15723] Media part analysis: /movies/Rampage.2018.1080p.WEB.h264-WEBTiFUL/rampage.2018.1080p.web.h264-webtiful.mkv
+Jul 15, 2018 02:12:59.978 [0x7fedbf52d800] DEBUG - [MI] Opening input file: "/movies/Rampage.2018.1080p.WEB.h264-WEBTiFUL/rampage.2018.1080p.web.h264-webtiful.mkv"
+Jul 15, 2018 02:12:59.978 [0x7fedbf52d800] DEBUG - [FFMPEG] - Opening '/movies/Rampage.2018.1080p.WEB.h264-WEBTiFUL/rampage.2018.1080p.web.h264-webtiful.mkv' for reading
+Jul 15, 2018 02:12:59.978 [0x7fedbf52d800] DEBUG - [FFMPEG] - Setting default whitelist 'file,crypto'
+Jul 15, 2018 02:13:00.028 [0x7fedbf52d800] DEBUG - [FFMPEG] - Format matroska,webm probed with size=2048 and score=100
+Jul 15, 2018 02:13:00.030 [0x7fedbf52d800] DEBUG - [FFMPEG] - st:0 removing common factor 1000000 from timebase
+Jul 15, 2018 02:13:00.030 [0x7fedbf52d800] DEBUG - [FFMPEG] - st:1 removing common factor 1000000 from timebase
+Jul 15, 2018 02:13:00.030 [0x7fedbf52d800] DEBUG - [FFMPEG] - st:2 removing common factor 1000000 from timebase
+Jul 15, 2018 02:13:00.030 [0x7fedbf52d800] DEBUG - [FFMPEG] - st:3 removing common factor 1000000 from timebase
+Jul 15, 2018 02:13:00.030 [0x7fedbf52d800] DEBUG - [FFMPEG] - st:4 removing common factor 1000000 from timebase
+Jul 15, 2018 02:13:00.030 [0x7fedbf52d800] DEBUG - [FFMPEG] - st:5 removing common factor 1000000 from timebase
+Jul 15, 2018 02:13:00.031 [0x7fedbf52d800] DEBUG - [FFMPEG] - Before avformat_find_stream_info() pos: 5873 bytes read:35076 seeks:2 nb_streams:6
+Jul 15, 2018 02:13:00.034 [0x7fedbf52d800] DEBUG - [FFMPEG] - nal_unit_type: 7, nal_ref_idc: 1
+Jul 15, 2018 02:13:00.034 [0x7fedbf52d800] DEBUG - [FFMPEG] - nal_unit_type: 8, nal_ref_idc: 1
+Jul 15, 2018 02:13:00.037 [0x7fedbf52d800] DEBUG - [FFMPEG] - nal_unit_type: 7, nal_ref_idc: 1
+Jul 15, 2018 02:13:00.037 [0x7fedbf52d800] DEBUG - [FFMPEG] - nal_unit_type: 8, nal_ref_idc: 1
+Jul 15, 2018 02:13:00.038 [0x7fedbf52d800] DEBUG - [FFMPEG] - nal_unit_type: 6, nal_ref_idc: 0
+Jul 15, 2018 02:13:00.038 [0x7fedbf52d800] DEBUG - [FFMPEG] - nal_unit_type: 6, nal_ref_idc: 0
+Jul 15, 2018 02:13:00.038 [0x7fedbf52d800] DEBUG - [FFMPEG] - nal_unit_type: 5, nal_ref_idc: 1
+Jul 15, 2018 02:13:00.038 [0x7fedbf52d800] DEBUG - [FFMPEG] - nal_unit_type: 5, nal_ref_idc: 1
+Jul 15, 2018 02:13:00.038 [0x7fedbf52d800] DEBUG - [FFMPEG] - nal_unit_type: 5, nal_ref_idc: 1
+Jul 15, 2018 02:13:00.038 [0x7fedbf52d800] DEBUG - [FFMPEG] - nal_unit_type: 5, nal_ref_idc: 1
+Jul 15, 2018 02:13:00.038 [0x7fedbf52d800] DEBUG - [FFMPEG] - nal_unit_type: 5, nal_ref_idc: 1
+Jul 15, 2018 02:13:00.038 [0x7fedbf52d800] DEBUG - [FFMPEG] - nal_unit_type: 5, nal_ref_idc: 1
+Jul 15, 2018 02:13:00.038 [0x7fedbf52d800] DEBUG - [FFMPEG] - nal_unit_type: 5, nal_ref_idc: 1
+Jul 15, 2018 02:13:00.038 [0x7fedbf52d800] DEBUG - [FFMPEG] - nal_unit_type: 5, nal_ref_idc: 1
+Jul 15, 2018 02:13:00.038 [0x7fedbf52d800] DEBUG - [FFMPEG] - Format yuv420p chosen by get_format().
+Jul 15, 2018 02:13:00.049 [0x7fedbf52d800] DEBUG - [FFMPEG] - nal_unit_type: 6, nal_ref_idc: 0
+Jul 15, 2018 02:13:00.050 [0x7fedbf52d800] DEBUG - [FFMPEG] - nal_unit_type: 1, nal_ref_idc: 1
+Jul 15, 2018 02:13:00.050 [0x7fedbf52d800] DEBUG - [FFMPEG] - nal_unit_type: 1, nal_ref_idc: 1
+Jul 15, 2018 02:13:00.050 [0x7fedbf52d800] DEBUG - [FFMPEG] - nal_unit_type: 1, nal_ref_idc: 1
+Jul 15, 2018 02:13:00.050 [0x7fedbf52d800] DEBUG - [FFMPEG] - nal_unit_type: 1, nal_ref_idc: 1
+Jul 15, 2018 02:13:00.050 [0x7fedbf52d800] DEBUG - [FFMPEG] - nal_unit_type: 1, nal_ref_idc: 1
+Jul 15, 2018 02:13:00.050 [0x7fedbf52d800] DEBUG - [FFMPEG] - nal_unit_type: 1, nal_ref_idc: 1
+Jul 15, 2018 02:13:00.050 [0x7fedbf52d800] DEBUG - [FFMPEG] - nal_unit_type: 1, nal_ref_idc: 1
+Jul 15, 2018 02:13:00.050 [0x7fedbf52d800] DEBUG - [FFMPEG] - nal_unit_type: 1, nal_ref_idc: 1
+Jul 15, 2018 02:13:00.052 [0x7fedbf52d800] DEBUG - [FFMPEG] - no picture 
+Jul 15, 2018 02:13:00.055 [0x7fedbf52d800] DEBUG - [FFMPEG] - nal_unit_type: 6, nal_ref_idc: 0
+Jul 15, 2018 02:13:00.055 [0x7fedbf52d800] DEBUG - [FFMPEG] - nal_unit_type: 1, nal_ref_idc: 0
+Jul 15, 2018 02:13:00.055 [0x7fedbf52d800] DEBUG - [FFMPEG] - nal_unit_type: 1, nal_ref_idc: 0
+Jul 15, 2018 02:13:00.055 [0x7fedbf52d800] DEBUG - [FFMPEG] - nal_unit_type: 1, nal_ref_idc: 0
+Jul 15, 2018 02:13:00.055 [0x7fedbf52d800] DEBUG - [FFMPEG] - nal_unit_type: 1, nal_ref_idc: 0
+Jul 15, 2018 02:13:00.055 [0x7fedbf52d800] DEBUG - [FFMPEG] - nal_unit_type: 1, nal_ref_idc: 0
+Jul 15, 2018 02:13:00.055 [0x7fedbf52d800] DEBUG - [FFMPEG] - nal_unit_type: 1, nal_ref_idc: 0
+Jul 15, 2018 02:13:00.055 [0x7fedbf52d800] DEBUG - [FFMPEG] - nal_unit_type: 1, nal_ref_idc: 0
+Jul 15, 2018 02:13:00.055 [0x7fedbf52d800] DEBUG - [FFMPEG] - nal_unit_type: 1, nal_ref_idc: 0
+Jul 15, 2018 02:13:00.062 [0x7fedbf52d800] DEBUG - [FFMPEG] - nal_unit_type: 6, nal_ref_idc: 0
+Jul 15, 2018 02:13:00.062 [0x7fedbf52d800] DEBUG - [FFMPEG] - nal_unit_type: 1, nal_ref_idc: 1
+Jul 15, 2018 02:13:00.062 [0x7fedbf52d800] DEBUG - [FFMPEG] - nal_unit_type: 1, nal_ref_idc: 1
+Jul 15, 2018 02:13:00.062 [0x7fedbf52d800] DEBUG - [FFMPEG] - nal_unit_type: 1, nal_ref_idc: 1
+Jul 15, 2018 02:13:00.062 [0x7fedbf52d800] DEBUG - [FFMPEG] - nal_unit_type: 1, nal_ref_idc: 1
+Jul 15, 2018 02:13:00.062 [0x7fedbf52d800] DEBUG - [FFMPEG] - nal_unit_type: 1, nal_ref_idc: 1
+Jul 15, 2018 02:13:00.062 [0x7fedbf52d800] DEBUG - [FFMPEG] - nal_unit_type: 1, nal_ref_idc: 1
+Jul 15, 2018 02:13:00.062 [0x7fedbf52d800] DEBUG - [FFMPEG] - nal_unit_type: 1, nal_ref_idc: 1
+Jul 15, 2018 02:13:00.062 [0x7fedbf52d800] DEBUG - [FFMPEG] - nal_unit_type: 1, nal_ref_idc: 1
+Jul 15, 2018 02:13:00.067 [0x7fedbf52d800] DEBUG - [FFMPEG] - nal_unit_type: 6, nal_ref_idc: 0
+Jul 15, 2018 02:13:00.067 [0x7fedbf52d800] DEBUG - [FFMPEG] - nal_unit_type: 1, nal_ref_idc: 0
+Jul 15, 2018 02:13:00.067 [0x7fedbf52d800] DEBUG - [FFMPEG] - nal_unit_type: 1, nal_ref_idc: 0
+Jul 15, 2018 02:13:00.067 [0x7fedbf52d800] DEBUG - [FFMPEG] - nal_unit_type: 1, nal_ref_idc: 0
+Jul 15, 2018 02:13:00.067 [0x7fedbf52d800] DEBUG - [FFMPEG] - nal_unit_type: 1, nal_ref_idc: 0
+Jul 15, 2018 02:13:00.067 [0x7fedbf52d800] DEBUG - [FFMPEG] - nal_unit_type: 1, nal_ref_idc: 0
+Jul 15, 2018 02:13:00.067 [0x7fedbf52d800] DEBUG - [FFMPEG] - nal_unit_type: 1, nal_ref_idc: 0
+Jul 15, 2018 02:13:00.067 [0x7fedbf52d800] DEBUG - [FFMPEG] - nal_unit_type: 1, nal_ref_idc: 0
+Jul 15, 2018 02:13:00.067 [0x7fedbf52d800] DEBUG - [FFMPEG] - nal_unit_type: 1, nal_ref_idc: 0
+Jul 15, 2018 02:13:00.072 [0x7fedbf52d800] DEBUG - [FFMPEG] - nal_unit_type: 6, nal_ref_idc: 0
+Jul 15, 2018 02:13:00.072 [0x7fedbf52d800] DEBUG - [FFMPEG] - nal_unit_type: 1, nal_ref_idc: 1
+Jul 15, 2018 02:13:00.072 [0x7fedbf52d800] DEBUG - [FFMPEG] - nal_unit_type: 1, nal_ref_idc: 1
+Jul 15, 2018 02:13:00.072 [0x7fedbf52d800] DEBUG - [FFMPEG] - nal_unit_type: 1, nal_ref_idc: 1
+Jul 15, 2018 02:13:00.072 [0x7fedbf52d800] DEBUG - [FFMPEG] - nal_unit_type: 1, nal_ref_idc: 1
+Jul 15, 2018 02:13:00.072 [0x7fedbf52d800] DEBUG - [FFMPEG] - nal_unit_type: 1, nal_ref_idc: 1
+Jul 15, 2018 02:13:00.072 [0x7fedbf52d800] DEBUG - [FFMPEG] - nal_unit_type: 1, nal_ref_idc: 1
+Jul 15, 2018 02:13:00.072 [0x7fedbf52d800] DEBUG - [FFMPEG] - nal_unit_type: 1, nal_ref_idc: 1
+Jul 15, 2018 02:13:00.072 [0x7fedbf52d800] DEBUG - [FFMPEG] - nal_unit_type: 1, nal_ref_idc: 1
+Jul 15, 2018 02:13:00.076 [0x7fedbf52d800] DEBUG - [FFMPEG] - nal_unit_type: 6, nal_ref_idc: 0
+Jul 15, 2018 02:13:00.077 [0x7fedbf52d800] DEBUG - [FFMPEG] - nal_unit_type: 1, nal_ref_idc: 0
+Jul 15, 2018 02:13:00.077 [0x7fedbf52d800] DEBUG - [FFMPEG] - nal_unit_type: 1, nal_ref_idc: 0
+Jul 15, 2018 02:13:00.077 [0x7fedbf52d800] DEBUG - [FFMPEG] - nal_unit_type: 1, nal_ref_idc: 0
+Jul 15, 2018 02:13:00.077 [0x7fedbf52d800] DEBUG - [FFMPEG] - nal_unit_type: 1, nal_ref_idc: 0
+Jul 15, 2018 02:13:00.077 [0x7fedbf52d800] DEBUG - [FFMPEG] - nal_unit_type: 1, nal_ref_idc: 0
+Jul 15, 2018 02:13:00.077 [0x7fedbf52d800] DEBUG - [FFMPEG] - nal_unit_type: 1, nal_ref_idc: 0
+Jul 15, 2018 02:13:00.077 [0x7fedbf52d800] DEBUG - [FFMPEG] - nal_unit_type: 1, nal_ref_idc: 0
+Jul 15, 2018 02:13:00.077 [0x7fedbf52d800] DEBUG - [FFMPEG] - nal_unit_type: 1, nal_ref_idc: 0
+Jul 15, 2018 02:13:00.081 [0x7fedbf52d800] DEBUG - [FFMPEG] - nal_unit_type: 6, nal_ref_idc: 0
+Jul 15, 2018 02:13:00.081 [0x7fedbf52d800] DEBUG - [FFMPEG] - nal_unit_type: 1, nal_ref_idc: 1
+Jul 15, 2018 02:13:00.082 [0x7fedbf52d800] DEBUG - [FFMPEG] - nal_unit_type: 1, nal_ref_idc: 1
+Jul 15, 2018 02:13:00.082 [0x7fedbf52d800] DEBUG - [FFMPEG] - nal_unit_type: 1, nal_ref_idc: 1
+Jul 15, 2018 02:13:00.082 [0x7fedbf52d800] DEBUG - [FFMPEG] - nal_unit_type: 1, nal_ref_idc: 1
+Jul 15, 2018 02:13:00.082 [0x7fedbf52d800] DEBUG - [FFMPEG] - nal_unit_type: 1, nal_ref_idc: 1
+Jul 15, 2018 02:13:00.082 [0x7fedbf52d800] DEBUG - [FFMPEG] - nal_unit_type: 1, nal_ref_idc: 1
+Jul 15, 2018 02:13:00.082 [0x7fedbf52d800] DEBUG - [FFMPEG] - nal_unit_type: 1, nal_ref_idc: 1
+Jul 15, 2018 02:13:00.082 [0x7fedbf52d800] DEBUG - [FFMPEG] - nal_unit_type: 1, nal_ref_idc: 1
+Jul 15, 2018 02:13:00.086 [0x7fedbf52d800] DEBUG - [FFMPEG] - All info found
+Jul 15, 2018 02:13:00.086 [0x7fedbf52d800] DEBUG - [FFMPEG] - After avformat_find_stream_info() pos: 33084 bytes read:67844 seeks:2 frames:25
+Jul 15, 2018 02:13:00.087 [0x7fedbf52d800] DEBUG - [MI]  * a3ee2e0816372c24a5c572c8cf9fca42ff05179c [mkv h264/ac3] Duration: 6434112ms, 1920x800 (2.400000) 23.976fps, bitrate=4910kbps, audio channels=6, optimizedForStreaming=0 (/movies/Rampage.2018.1080p.WEB.h264-WEBTiFUL/rampage.2018.1080p.web.h264-webtiful.mkv)
+Jul 15, 2018 02:13:00.088 [0x7fedbf52d800] DEBUG - [MI] Chapters had generic titles, clearing.
+Jul 15, 2018 02:13:00.088 [0x7fedbf52d800] DEBUG - [MI] Closing input file: /movies/Rampage.2018.1080p.WEB.h264-WEBTiFUL/rampage.2018.1080p.web.h264-webtiful.mkv
+Jul 15, 2018 02:13:00.089 [0x7fedbf52d800] DEBUG - [FFMPEG] - Statistics: 67844 bytes read, 2 seeks
+Jul 15, 2018 02:13:00.090 [0x7fedbf52d800] DEBUG - Committing media stream changes for part 15723
+Jul 15, 2018 02:13:00.097 [0x7fedbf52d800] DEBUG - Updating media item 15707, size=3949573273, metadata_item_id=7205
+Jul 15, 2018 02:13:00.097 [0x7fedbf52d800] DEBUG - Updating part with ID=15723 [/movies/Rampage.2018.1080p.WEB.h264-WEBTiFUL/rampage.2018.1080p.web.h264-webtiful.mkv]
+Jul 15, 2018 02:13:00.109 [0x7fedb13ff700] DEBUG - HTTP requesting GET http://127.0.0.1:32400/:/metadata/notify/changeItemState?librarySectionID=1&metadataItemID=7205&metadataType=1&state=-1&mediaState=analyzing
+Jul 15, 2018 02:13:00.110 [0x7fedb13ff700] DEBUG - HTTP 200 response from GET http://127.0.0.1:32400/:/metadata/notify/changeItemState?librarySectionID=1&metadataItemID=7205&metadataType=1&state=-1&mediaState=analyzing
+Jul 15, 2018 02:13:00.110 [0x7fedb13ff700] DEBUG - HTTP requesting GET http://127.0.0.1:32400/:/metadata/notify/changeItemState?librarySectionID=1&metadataItemID=7205&metadataType=1&state=-1&mediaState=thumbnailing
+Jul 15, 2018 02:13:00.111 [0x7fedb13ff700] DEBUG - HTTP 200 response from GET http://127.0.0.1:32400/:/metadata/notify/changeItemState?librarySectionID=1&metadataItemID=7205&metadataType=1&state=-1&mediaState=thumbnailing
+Jul 15, 2018 02:13:00.111 [0x7fedb13ff700] DEBUG - HTTP requesting GET http://127.0.0.1:32400/:/metadata/notify/changeItemState?librarySectionID=1&metadataItemID=7205&metadataType=1&state=-1&mediaState=idle
+Jul 15, 2018 02:13:00.112 [0x7fedb13ff700] DEBUG - HTTP 200 response from GET http://127.0.0.1:32400/:/metadata/notify/changeItemState?librarySectionID=1&metadataItemID=7205&metadataType=1&state=-1&mediaState=idle
+Jul 15, 2018 02:13:00.112 [0x7fedbf52d800] DEBUG - Analyzing media parts for item 4003 (Boo Boo Buster): 8268
+Jul 15, 2018 02:13:00.113 [0x7fedbf52d800] DEBUG - [ID 8276] Media part analysis: /tv/Sesame.Street.s46e25.720p.WEBRip.AAC2.0.H264-BTN-Obfuscated/BRsc8az9IxcJUOQcaUL9chsxwnNNndfFpYXxe4SmqpwVhS3ZLzs1n5RPDRUMvviIW.mp4
+Jul 15, 2018 02:13:00.114 [0x7fedbf52d800] DEBUG - [MI] Opening input file: "/tv/Sesame.Street.s46e25.720p.WEBRip.AAC2.0.H264-BTN-Obfuscated/BRsc8az9IxcJUOQcaUL9chsxwnNNndfFpYXxe4SmqpwVhS3ZLzs1n5RPDRUMvviIW.mp4"
+Jul 15, 2018 02:13:00.114 [0x7fedbf52d800] DEBUG - [FFMPEG] - Opening '/tv/Sesame.Street.s46e25.720p.WEBRip.AAC2.0.H264-BTN-Obfuscated/BRsc8az9IxcJUOQcaUL9chsxwnNNndfFpYXxe4SmqpwVhS3ZLzs1n5RPDRUMvviIW.mp4' for reading
+Jul 15, 2018 02:13:00.114 [0x7fedbf52d800] DEBUG - [FFMPEG] - Setting default whitelist 'file,crypto'
+Jul 15, 2018 02:13:00.177 [0x7fedbf52d800] DEBUG - [FFMPEG] - Format mov,mp4,m4a,3gp,3g2,mj2 probed with size=2048 and score=100
+Jul 15, 2018 02:13:00.177 [0x7fedbf52d800] DEBUG - [FFMPEG] - ISO: File Type Major Brand: isom
+Jul 15, 2018 02:13:00.186 [0x7fedbf52d800] DEBUG - [FFMPEG] - ISO: File Type Major Brand: isom
+Jul 15, 2018 02:13:00.186 [0x7fedbf52d800] ERROR - [FFMPEG] - moov atom not found
+Jul 15, 2018 02:13:00.186 [0x7fedbf52d800] DEBUG - [FFMPEG] - Statistics: 131072 bytes read, 5 seeks
+Jul 15, 2018 02:13:00.188 [0x7fedbf52d800] ERROR - Exception analyzing media file '/tv/Sesame.Street.s46e25.720p.WEBRip.AAC2.0.H264-BTN-Obfuscated/BRsc8az9IxcJUOQcaUL9chsxwnNNndfFpYXxe4SmqpwVhS3ZLzs1n5RPDRUMvviIW.mp4' (Could not parse /tv/Sesame.Street.s46e25.720p.WEBRip.AAC2.0.H264-BTN-Obfuscated/BRsc8az9IxcJUOQcaUL9chsxwnNNndfFpYXxe4SmqpwVhS3ZLzs1n5RPDRUMvviIW.mp4 (error=-1094995529): Invalid data found when processing input)
+Jul 15, 2018 02:13:00.188 [0x7fedbf52d800] DEBUG - Streams didn't change in analysis, not saving.
+Jul 15, 2018 02:13:00.189 [0x7fedbf52d800] DEBUG - Updating media item 8268, size=657623540, metadata_item_id=4003
+Jul 15, 2018 02:13:00.190 [0x7fedbf52d800] DEBUG - Updating part with ID=8276 [/tv/Sesame.Street.s46e25.720p.WEBRip.AAC2.0.H264-BTN-Obfuscated/BRsc8az9IxcJUOQcaUL9chsxwnNNndfFpYXxe4SmqpwVhS3ZLzs1n5RPDRUMvviIW.mp4]
+Jul 15, 2018 02:13:00.201 [0x7fedbf52d800] DEBUG - [MI] Opening input file: "/tv/Sesame.Street.s46e25.720p.WEBRip.AAC2.0.H264-BTN-Obfuscated/BRsc8az9IxcJUOQcaUL9chsxwnNNndfFpYXxe4SmqpwVhS3ZLzs1n5RPDRUMvviIW.mp4"
+Jul 15, 2018 02:13:00.201 [0x7fedbf52d800] DEBUG - [FFMPEG] - Opening '/tv/Sesame.Street.s46e25.720p.WEBRip.AAC2.0.H264-BTN-Obfuscated/BRsc8az9IxcJUOQcaUL9chsxwnNNndfFpYXxe4SmqpwVhS3ZLzs1n5RPDRUMvviIW.mp4' for reading
+Jul 15, 2018 02:13:00.201 [0x7fedbf52d800] DEBUG - [FFMPEG] - Setting default whitelist 'file,crypto'
+Jul 15, 2018 02:13:00.206 [0x7fedbf52d800] DEBUG - [FFMPEG] - Format mov,mp4,m4a,3gp,3g2,mj2 probed with size=2048 and score=100
+Jul 15, 2018 02:13:00.206 [0x7fedbf52d800] DEBUG - [FFMPEG] - ISO: File Type Major Brand: isom
+Jul 15, 2018 02:13:00.208 [0x7fedbf52d800] DEBUG - [FFMPEG] - ISO: File Type Major Brand: isom
+Jul 15, 2018 02:13:00.208 [0x7fedbf52d800] ERROR - [FFMPEG] - moov atom not found
+Jul 15, 2018 02:13:00.208 [0x7fedbf52d800] DEBUG - [FFMPEG] - Statistics: 131072 bytes read, 5 seeks
+Jul 15, 2018 02:13:00.209 [0x7fedbf52d800] ERROR - Exception extracting thumbnail from media file '/tv/Sesame.Street.s46e25.720p.WEBRip.AAC2.0.H264-BTN-Obfuscated/BRsc8az9IxcJUOQcaUL9chsxwnNNndfFpYXxe4SmqpwVhS3ZLzs1n5RPDRUMvviIW.mp4' (Could not parse /tv/Sesame.Street.s46e25.720p.WEBRip.AAC2.0.H264-BTN-Obfuscated/BRsc8az9IxcJUOQcaUL9chsxwnNNndfFpYXxe4SmqpwVhS3ZLzs1n5RPDRUMvviIW.mp4 (error=-1094995529): Invalid data found when processing input)
+Jul 15, 2018 02:13:00.210 [0x7fedb13ff700] DEBUG - HTTP requesting GET http://127.0.0.1:32400/:/metadata/notify/changeItemState?librarySectionID=2&metadataItemID=4003&metadataType=4&state=-1&mediaState=analyzing
+Jul 15, 2018 02:13:00.214 [0x7fedb13ff700] DEBUG - HTTP 200 response from GET http://127.0.0.1:32400/:/metadata/notify/changeItemState?librarySectionID=2&metadataItemID=4003&metadataType=4&state=-1&mediaState=analyzing
+Jul 15, 2018 02:13:00.215 [0x7fedb13ff700] DEBUG - HTTP requesting GET http://127.0.0.1:32400/:/metadata/notify/changeItemState?librarySectionID=2&metadataItemID=4003&metadataType=4&state=-1&mediaState=thumbnailing
+Jul 15, 2018 02:13:00.223 [0x7fedb13ff700] DEBUG - HTTP 200 response from GET http://127.0.0.1:32400/:/metadata/notify/changeItemState?librarySectionID=2&metadataItemID=4003&metadataType=4&state=-1&mediaState=thumbnailing
+Jul 15, 2018 02:13:00.224 [0x7fedb13ff700] DEBUG - HTTP requesting GET http://127.0.0.1:32400/:/metadata/notify/changeItemState?librarySectionID=2&metadataItemID=4003&metadataType=4&state=-1&mediaState=idle

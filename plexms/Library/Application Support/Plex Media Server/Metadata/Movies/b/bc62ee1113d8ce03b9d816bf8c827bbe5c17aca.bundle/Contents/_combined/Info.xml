@@ -1,0 +1,494 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Movie>
+  <art>
+    <item external="True" url="http://image.tmdb.org/t/p/original/ubQrbYDZumEc0UdnL0Cm3J6XtOR.jpg" sort_order="1" provider="com.plexapp.agents.imdb" media="com.plexapp.agents.imdb_371747bee00dc959d3c4f15e3c666e2c2a182a4f"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/8MR0hfyWESUD14It9ikKbwC041.jpg" preview="com.plexapp.agents.imdb_4817038407ac476b4670c05cb12c8eda9c73c9ab" sort_order="2" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/nkDb00LHsNWXxtpFPEABmM5MpWc.jpg" preview="com.plexapp.agents.imdb_dddb3de50de0a74dc5c6279556b01208f9ea6115" sort_order="3" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/sxG2TYh7lWxOfztSoXYE67y9HOJ.jpg" preview="com.plexapp.agents.imdb_7acbae2a7b721cc735374dfe17e7789a4dbb3b6d" sort_order="4" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/czjU8NpPVTx5NzEk0zxe433xN9R.jpg" preview="com.plexapp.agents.imdb_59c35727dba3bbef63fe1a33ea09d39797761cd7" sort_order="5" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/bd8RdP2OduLBGkUMdc8PZPjdtbI.jpg" preview="com.plexapp.agents.imdb_8bf420ead39aaa8e768d66595a61fd9eccfef85c" sort_order="6" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/9NsHMWwnYl3CcCNaQ02Nx9vU9dl.jpg" preview="com.plexapp.agents.imdb_129a87900463053c1435412125409e5fd6776f02" sort_order="7" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/h4XKNqQ1SM3fg1ETJZfh9cjN93g.jpg" preview="com.plexapp.agents.imdb_122da343eb2ef23d393228247cc63e9604257445" sort_order="8" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/a39xsUwekAIywJZlBF4u0B0Ci4a.jpg" preview="com.plexapp.agents.imdb_5bb61e9aa6184be582c916fe4517df2e7854ea8a" sort_order="9" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/lg3coCsnAyePlH6RbsfSygGdR90.jpg" preview="com.plexapp.agents.imdb_b7da05a786d7b804a79db7c6d0c4b60adfb07dec" sort_order="10" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/6RjZR5PUNqrw808MwsA7kgbJiIx.jpg" preview="com.plexapp.agents.imdb_5038382f8c89743d451d319a2cc65d70e3a24ceb" sort_order="11" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/hgrxMP3ilMUZf9FaHCytOZfoM7u.jpg" preview="com.plexapp.agents.imdb_b3b06a1e0248b0e5fad136e0de727eba65bfc5da" sort_order="12" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/5hPTNS2rJzsZmb94Qg4B63kRmDz.jpg" preview="com.plexapp.agents.imdb_f99039835a7b5e9c5f46a04230ef8a3e6c793c64" sort_order="13" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/S31w3PFsStIPikmjDojWVr858U.jpg" preview="com.plexapp.agents.imdb_34b8823e4781da2ea8910ecc136b1b051bdfe793" sort_order="14" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/seDPxmJkHaFgIWxu8nmqBDir1Pq.jpg" preview="com.plexapp.agents.imdb_1eeb35cca364056097f2dd7203c4f31517ab3fa6" sort_order="15" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/o4Lvp6HkwcNzsMYw3UY4kQMoN5F.jpg" preview="com.plexapp.agents.imdb_a4c76890307d23da4e34b25d88e77be3f2f22253" sort_order="16" provider="com.plexapp.agents.imdb"/>
+  </art>
+  <banners/>
+  <chapters>
+    <item index="0">
+      <title>Chapter 1</title>
+      <end_time_offset>557000</end_time_offset>
+      <start_time_offset>0</start_time_offset>
+    </item>
+    <item index="1">
+      <title>Chapter 2</title>
+      <end_time_offset>1135000</end_time_offset>
+      <start_time_offset>557000</start_time_offset>
+    </item>
+    <item index="2">
+      <title>Chapter 3</title>
+      <end_time_offset>1822000</end_time_offset>
+      <start_time_offset>1135000</start_time_offset>
+    </item>
+    <item index="3">
+      <title>Chapter 4</title>
+      <end_time_offset>2456000</end_time_offset>
+      <start_time_offset>1822000</start_time_offset>
+    </item>
+    <item index="4">
+      <title>Chapter 5</title>
+      <end_time_offset>2956000</end_time_offset>
+      <start_time_offset>2456000</start_time_offset>
+    </item>
+    <item index="5">
+      <title>Chapter 6</title>
+      <end_time_offset>3610000</end_time_offset>
+      <start_time_offset>2956000</start_time_offset>
+    </item>
+    <item index="6">
+      <title>Chapter 7</title>
+      <end_time_offset>4262000</end_time_offset>
+      <start_time_offset>3610000</start_time_offset>
+    </item>
+    <item index="7">
+      <title>Chapter 8</title>
+      <end_time_offset>4827000</end_time_offset>
+      <start_time_offset>4262000</start_time_offset>
+    </item>
+    <item index="8">
+      <title>Chapter 9</title>
+      <end_time_offset>5313000</end_time_offset>
+      <start_time_offset>4827000</start_time_offset>
+    </item>
+    <item index="9">
+      <title>Chapter 10</title>
+      <end_time_offset>5959000</end_time_offset>
+      <start_time_offset>5313000</start_time_offset>
+    </item>
+    <item index="10">
+      <title>End Credits</title>
+      <end_time_offset>6283000</end_time_offset>
+      <start_time_offset>5959000</start_time_offset>
+    </item>
+    <item index="11">
+      <title>End</title>
+      <end_time_offset>-1</end_time_offset>
+      <start_time_offset>6283000</start_time_offset>
+    </item>
+  </chapters>
+  <collections/>
+  <content_rating>R</content_rating>
+  <countries>
+    <item index="0">USA</item>
+  </countries>
+  <directors>
+    <item index="0">
+      <photo>http://image.tmdb.org/t/p/original/mBBJWNAovK4EhIjfMFMIZncOssY.jpg</photo>
+      <role/>
+      <name>Glenn Ficarra</name>
+    </item>
+    <item index="1">
+      <photo>http://image.tmdb.org/t/p/original/e6d3cXiqHFAgsroVnAd0zdGe9EF.jpg</photo>
+      <role/>
+      <name>John Requa</name>
+    </item>
+  </directors>
+  <duration>6300000</duration>
+  <genres>
+    <item index="0">Comedy</item>
+    <item index="1">Crime</item>
+    <item index="2">Drama</item>
+    <item index="3">Romance</item>
+  </genres>
+  <originally_available_at>2015-02-25</originally_available_at>
+  <posters>
+    <item external="True" url="http://image.tmdb.org/t/p/original/g2j0t85HdkaYvPTM572NZcADyiZ.jpg" sort_order="1" provider="com.plexapp.agents.imdb" media="com.plexapp.agents.imdb_725f169662629beaf909e2f5da210242def80ffa"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/9IElGiLkxPLUWZ3avy31bNSG3Tq.jpg" preview="com.plexapp.agents.imdb_a82d95a3c8288fbfedace10d78acbea85063aff7" sort_order="2" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/slHvYHizerxpxWcgEcdaMznmtvM.jpg" preview="com.plexapp.agents.imdb_e3ce5124c5ac9b80b57b3fd003fd0223761e93aa" sort_order="3" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/thNlPl2UWIgkOnjQNxYRvGFSK2W.jpg" preview="com.plexapp.agents.imdb_75a74f38684697b53efc1f77e9a643cfd15e533a" sort_order="4" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/y4jnfUw49PhgfvPR4uwsHoDGWml.jpg" preview="com.plexapp.agents.imdb_c4f42b0c8dfd593e58b3c72578333ec83540f783" sort_order="5" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/a4bDdCh2fh9hpc6aK0ghKzUZ2dl.jpg" preview="com.plexapp.agents.imdb_39ede475b1a30931b104fc8d9c26c05b0fe02d23" sort_order="6" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/oc5hkRX4MKYt2WLb50OCMQrrqmO.jpg" preview="com.plexapp.agents.imdb_6c3b8afb8d449827b0178df09e522d1f03653013" sort_order="7" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/yovOeHO94nejWd63SDUhkVjfwvG.jpg" preview="com.plexapp.agents.imdb_18e2e7c86c46a88d4ece18fef1451c977300a737" sort_order="8" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/nS9MfcHFSko0NBT617nPsc4Lzp3.jpg" preview="com.plexapp.agents.imdb_6a8bd1fb2c888a81e4e7374f2f573e040fa6ccf0" sort_order="9" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/6Q0hSN90x8kbiXWsX1XVf08zj14.jpg" preview="com.plexapp.agents.imdb_3b2bf9dd172863dd68b2b371e22c8fbb8a4c9882" sort_order="10" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/e2PtEzmb8CN4FJjIZXCsjyv7Cce.jpg" preview="com.plexapp.agents.imdb_ea9e6d94738f0c34459b274286e6c27996b1b777" sort_order="11" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/f0TrvESwB4CwdjAGHZbHW8EjxHB.jpg" preview="com.plexapp.agents.imdb_728ce6f735be4ee0e922b62417cf47152c929306" sort_order="12" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/aDTC9Cw3Z7E6H7J4lxts6HzA1tM.jpg" preview="com.plexapp.agents.imdb_af7aa66e116a98e4d8572bfba0f843e6d350641d" sort_order="13" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/4OalAnbt2FVh1v5lkBSpTzvUMR8.jpg" preview="com.plexapp.agents.imdb_4d6750cc4c8e2338e8676d56931368f59c282239" sort_order="14" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/9zcvw1XlVIYTXJ1G2GBfMtjhOp.jpg" preview="com.plexapp.agents.imdb_cd8c2ee76e83e165e02b6c305974e6cbfd96935b" sort_order="15" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/hKxwpWp4xq10e9LPMYyxhJK2oLA.jpg" preview="com.plexapp.agents.imdb_851adf2556177cad88ed92af2f075c7b2af05b8a" sort_order="16" provider="com.plexapp.agents.imdb"/>
+  </posters>
+  <producers>
+    <item index="0">
+      <photo>http://image.tmdb.org/t/p/original/2U7NbchfxJpZOwOWE5FVtQY7gBK.jpg</photo>
+      <role/>
+      <name>Denise Di Novi</name>
+    </item>
+  </producers>
+  <rating>5.6</rating>
+  <rating_image>rottentomatoes://image.rating.rotten</rating_image>
+  <audience_rating>5.3</audience_rating>
+  <audience_rating_image>rottentomatoes://image.rating.spilled</audience_rating_image>
+  <reviews>
+    <item index="0">
+      <text>If it's so easy to guess what women want, why is this movie so utterly devoid of any of it?</text>
+      <source>The Atlantic</source>
+      <image>rottentomatoes://image.review.rotten</image>
+      <link>http://www.theatlantic.com/entertainment/archive/2015/02/focus-a-fun-caper-movie-for-people-who-hate-women/386414/</link>
+      <author>Sophie Gilbert</author>
+    </item>
+    <item index="1">
+      <text>That sound you hear is the high-fives in the writers' room, and that, unfortunately, is where the filmmakers' focus remains.</text>
+      <source>New Yorker</source>
+      <image>rottentomatoes://image.review.rotten</image>
+      <link>http://www.newyorker.com/goings-on-about-town/movies/focus-2</link>
+      <author>Richard Brody</author>
+    </item>
+    <item index="2">
+      <text>[For Smith,] Focus isn't a full return to brilliance but a welcome stop, hopefully, on the way there.</text>
+      <source>Grantland</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>http://grantland.com/hollywood-prospectus/focus-will-smith-review/</link>
+      <author>Wesley Morris</author>
+    </item>
+    <item index="3">
+      <text>It's a shiny, diverting ride. (And right about now, that's OK.)</text>
+      <source>Denver Post</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>http://www.denverpost.com/movies/ci_27598892/review-will-smith-is-worth-keeping-an-eye</link>
+      <author>Lisa Kennedy</author>
+    </item>
+    <item index="4">
+      <text>Perhaps the film's greatest trick is the one that happens offscreen: Hours after the end credits roll, it will completely disappear from your mind.</text>
+      <source>Us Weekly</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>http://www.usmagazine.com/entertainment/news/focus-review-will-smith-margot-robbies-flick-gets-3-out-of-4-stars-2015272</link>
+      <author>Mara Reinstein</author>
+    </item>
+    <item index="5">
+      <text>This is the kind of movie where we're not supposed to know at any time who is playing whom, but since the characterizations are glossy and paper-thin, it's difficult to get worked up about who gets fleeced.</text>
+      <source>Christian Science Monitor</source>
+      <image>rottentomatoes://image.review.rotten</image>
+      <link>http://www.csmonitor.com/The-Culture/Movies/2015/0227/Focus-seems-more-like-a-travelogue-than-a-caper-film</link>
+      <author>Peter Rainer</author>
+    </item>
+    <item index="6">
+      <text>The mix of longtime star and minx on the rise is one tasty element in the success of a movie that approaches the modest goals and effortless allure of a 60-year-old Hitchcock.</text>
+      <source>TIME Magazine</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>http://time.com/3723716/focus-movie-review-will-smith-margot-robbie/</link>
+      <author>Richard Corliss</author>
+    </item>
+    <item index="7">
+      <text>Drunk on its perfume-ad cinematography and doesn't know when to quit with its double-double cross plotting.</text>
+      <source>Globe and Mail</source>
+      <image>rottentomatoes://image.review.rotten</image>
+      <link>http://www.theglobeandmail.com/arts/film/film-reviews/focus-when-the-pros-try-to-con/article23216179/</link>
+      <author>Liam Lacey</author>
+    </item>
+    <item index="8">
+      <text>Smith's natural charisma has been dulled by special effects bonanzas and/or a desire to play against type. In "Focus," he feels like himself again, and he reminds you why he became one of Hollywood's biggest stars in the first place.</text>
+      <source>Detroit News</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>http://www.detroitnews.com/story/entertainment/movies/2015/02/27/con-artist-caper-puts-will-smith-back-focus/24079753/</link>
+      <author>Adam Graham</author>
+    </item>
+    <item index="9">
+      <text>It's not that the movie keeps you guessing with its intricacy, it's more like it's making it up as it goes along.</text>
+      <source>New York Post</source>
+      <image>rottentomatoes://image.review.rotten</image>
+      <link>http://nypost.com/2015/02/27/will-smiths-losing-streak-continues-with-woeful-focus/</link>
+      <author>Kyle Smith</author>
+    </item>
+    <item index="10">
+      <text>Mostly, it is fun to watch Will Smith and Margot Robbie, and to marvel at whatever divine or evolutionary miracle concentrated so much charisma in the two of them.</text>
+      <source>New York Times</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>http://www.nytimes.com/2015/02/27/movies/review-in-focus-a-grifter-will-smith-as-life-coach.html?partner=rss&amp;emc=rss</link>
+      <author>A.O. Scott</author>
+    </item>
+    <item index="11">
+      <text>It does enough things right to earn a recommendation, but there are misfires aplenty for those who care to look for them.</text>
+      <source>ReelViews</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>http://www.reelviews.net/php_review_template.php?identifier=2869</link>
+      <author>James Berardinelli</author>
+    </item>
+    <item index="12">
+      <text>Even if you're willing to forgive its sinkhole plotholes and farthest-fetched conceits, the film - from cowriters/co-directors Glenn Ficarra and John Requa - ultimately makes no sense.</text>
+      <source>Philadelphia Inquirer</source>
+      <image>rottentomatoes://image.review.rotten</image>
+      <link>http://www.philly.com/philly/entertainment/movies/20150227_Glossy_grifters_pull_implausible_con.html</link>
+      <author>Steven Rea</author>
+    </item>
+    <item index="13">
+      <text>This stuff is pretty entertaining on its own, so much that if you just sit back and take it in, you may overlook the fact that the plot is full of holes.</text>
+      <source>Toronto Sun</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>http://www.torontosun.com/2015/02/26/focus-review-will-smiths-con-artist-tale-hard-not-to-like</link>
+      <author>Jim Slotek</author>
+    </item>
+    <item index="14">
+      <text>The Hollywood stakes for Smith are as high as they are for the con man he plays. As it stands, "Focus" just might be a game changer.</text>
+      <source>Los Angeles Times</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>http://www.latimes.com/entertainment/movies/la-et-mn-focus-review-20150227-column.html#navtype=outfit</link>
+      <author>Betsy Sharkey</author>
+    </item>
+    <item index="15">
+      <text>The second half feels like Ficarra and Requa ran out of ideas and just hit restart.</text>
+      <source>NPR</source>
+      <image>rottentomatoes://image.review.rotten</image>
+      <link>http://www.npr.org/2015/02/26/389011289/in-focus-a-con-movie-without-enough-of-a-con?utm_medium=RSS&amp;utm_campaign=movies</link>
+      <author>Andrew Lapin</author>
+    </item>
+    <item index="16">
+      <text>We can't say we weren't warned. Will Smith has been telling us not to trust him the entire movie.</text>
+      <source>Toronto Star</source>
+      <image>rottentomatoes://image.review.rotten</image>
+      <link>http://www.thestar.com/entertainment/movies/2015/02/26/focus-con-man-movie-doesnt-earn-our-trust-review.html</link>
+      <author>Peter Howell</author>
+    </item>
+    <item index="17">
+      <text>At times ... Focus resembles a commercial for a pricey brand of liquor, an elite hotel or a luxury car more than a story-driven movie.</text>
+      <source>USA Today</source>
+      <image>rottentomatoes://image.review.rotten</image>
+      <link>http://www.usatoday.com/story/life/movies/2015/02/26/focus-review-movie/24032909/</link>
+      <author>Claudia Puig</author>
+    </item>
+  </reviews>
+  <roles>
+    <item index="0">
+      <photo>http://image.tmdb.org/t/p/original/5V4OKHQpIEffF9rqgzGYK4TNaGg.jpg</photo>
+      <role>Nicky</role>
+      <name>Will Smith</name>
+    </item>
+    <item index="1">
+      <photo>http://image.tmdb.org/t/p/original/tN5jVaEYV52zNC8e5MJAXjvti3w.jpg</photo>
+      <role>Jess Barrett</role>
+      <name>Margot Robbie</name>
+    </item>
+    <item index="2">
+      <photo>http://image.tmdb.org/t/p/original/yI23sv0KbEz2WhSgzC1aMCi0qeT.jpg</photo>
+      <role>Garriga</role>
+      <name>Rodrigo Santoro</name>
+    </item>
+    <item index="3">
+      <photo>http://image.tmdb.org/t/p/original/aqRJQj0KBPhGLDxfmOAXCUzCcSJ.jpg</photo>
+      <role>McEwen</role>
+      <name>Robert Taylor</name>
+    </item>
+    <item index="4">
+      <photo>http://image.tmdb.org/t/p/original/qSqmLqAwK2gIdQ8aaiSzgBfcQiK.jpg</photo>
+      <role>Ownes</role>
+      <name>Gerald McRaney</name>
+    </item>
+    <item index="5">
+      <photo>http://image.tmdb.org/t/p/original/zDnnzak4BLb5dNc9taqLNprkRvw.jpg</photo>
+      <role>Farhad</role>
+      <name>Adrian Martinez</name>
+    </item>
+    <item index="6">
+      <photo>http://image.tmdb.org/t/p/original/w7Hs9m6ocS2qlibvrLOvmyCKbAN.jpg</photo>
+      <role>Liyuan</role>
+      <name>BD Wong</name>
+    </item>
+    <item index="7">
+      <photo>http://image.tmdb.org/t/p/original/si4VTKGM6dFyZ6liBSDbjCkn3bf.jpg</photo>
+      <role>Horst</role>
+      <name>Brennan Brown</name>
+    </item>
+    <item index="8">
+      <photo/>
+      <role>Gordon</role>
+      <name>Dotan Bonen</name>
+    </item>
+    <item index="9">
+      <photo>http://image.tmdb.org/t/p/original/rRAtuKLOq27DFZ0MWu6FCVbbhS8.jpg</photo>
+      <role>Gareth</role>
+      <name>Griff Furst</name>
+    </item>
+    <item index="10">
+      <photo>http://image.tmdb.org/t/p/original/nSMMEmAcTy9D9XK9recqarOrBg2.jpg</photo>
+      <role>Janice</role>
+      <name>Stephanie Honoré</name>
+    </item>
+    <item index="11">
+      <photo>http://image.tmdb.org/t/p/original/93Dhqa27w6X01eIkKS7slPaHq6U.jpg</photo>
+      <role>Drunken Stranger</role>
+      <name>David Stanford</name>
+    </item>
+    <item index="12">
+      <photo>http://image.tmdb.org/t/p/original/79mhkiUnN4CbRun195Qm5oJZIDw.jpg</photo>
+      <role>Jared</role>
+      <name>Dominic Fumusa</name>
+    </item>
+    <item index="13">
+      <photo>http://image.tmdb.org/t/p/original/sLhsRDHNf2NzprD6ukXvF3nRgF5.jpg</photo>
+      <role>Liyuans Bodyguard</role>
+      <name>Steve Kim</name>
+    </item>
+    <item index="14">
+      <photo>http://image.tmdb.org/t/p/original/fDlrRMBZbqIRzUgQWboZTbqNDux.jpg</photo>
+      <role>Card Player / Football Coach</role>
+      <name>Don Yesso</name>
+    </item>
+    <item index="15">
+      <photo>http://image.tmdb.org/t/p/original/94lUS5o5SU7MVNdRxiGYGxcEuEy.jpg</photo>
+      <role>BA Reporter</role>
+      <name>Nina Leon</name>
+    </item>
+    <item index="16">
+      <photo>http://image.tmdb.org/t/p/original/dZw6tdfOIvvutEgOilosaAUwtnC.jpg</photo>
+      <role>Mark #1</role>
+      <name>Clay Chamberlin</name>
+    </item>
+    <item index="17">
+      <photo>http://image.tmdb.org/t/p/original/mxl2vajyUVkEIzoQ30QN1SOQXSM.jpg</photo>
+      <role>Mark #2</role>
+      <name>Danny Ladmirault</name>
+    </item>
+    <item index="18">
+      <photo>http://image.tmdb.org/t/p/original/nSM15wGfzYctWGofZNyVijf3AZo.jpg</photo>
+      <role>Marcello</role>
+      <name>Juan Minujín</name>
+    </item>
+    <item index="19">
+      <photo>http://image.tmdb.org/t/p/original/9c7LKrfdwes83Iii9bVoBd2O08B.jpg</photo>
+      <role>Jenny</role>
+      <name>Cacilie Hughes</name>
+    </item>
+    <item index="20">
+      <photo>http://image.tmdb.org/t/p/original/wHMAXHAKqfvnqASZ5SwFzwGI5na.jpg</photo>
+      <role>Pretty Woman</role>
+      <name>Melania Lenoir</name>
+    </item>
+    <item index="21">
+      <photo>http://image.tmdb.org/t/p/original/v5lSUogABH8fgvIqrX8FnXh5yLP.jpg</photo>
+      <role>Bartender</role>
+      <name>Jano Seitun</name>
+    </item>
+    <item index="22">
+      <photo>http://image.tmdb.org/t/p/original/caDbYLkzPrWHuSi2cXEda4riSxU.jpg</photo>
+      <role>Massive Security Guard</role>
+      <name>Pietro Gian</name>
+    </item>
+    <item index="23">
+      <photo>http://image.tmdb.org/t/p/original/isy3MZO3FjOHKFA2JAD8mVzy0e8.jpg</photo>
+      <role>Blonde Bartender</role>
+      <name>Justina Bustos</name>
+    </item>
+    <item index="24">
+      <photo>http://image.tmdb.org/t/p/original/e6YRVXpqeMvpT2yFUnEOlWj4srv.jpg</photo>
+      <role>Saleswoman</role>
+      <name>Paula Brasca</name>
+    </item>
+    <item index="25">
+      <photo>http://image.tmdb.org/t/p/original/cYUsKPhF3c7HdnxtP0vcm7no1rj.jpg</photo>
+      <role>Apollonia</role>
+      <name>Antonella Macchi</name>
+    </item>
+    <item index="26">
+      <photo/>
+      <role>Naked Woman</role>
+      <name>Daniella Short</name>
+    </item>
+    <item index="27">
+      <photo>http://image.tmdb.org/t/p/original/aGqoJreUQsa2b0QoIQuHSi5fDSk.jpg</photo>
+      <role>Bartender</role>
+      <name>Aaron Jay Rome</name>
+    </item>
+    <item index="28">
+      <photo>http://image.tmdb.org/t/p/original/nWLvydJdAyzEP4ghvocbpoReMMr.jpg</photo>
+      <role>Bald Guy</role>
+      <name>Armando Leduc</name>
+    </item>
+    <item index="29">
+      <photo>http://image.tmdb.org/t/p/original/1v11aZ5TmwtORs10OcU4wzhX2NW.jpg</photo>
+      <role>Bruiser</role>
+      <name>Jon Eyez</name>
+    </item>
+    <item index="30">
+      <photo>http://image.tmdb.org/t/p/original/98Lj2VBEJrm53YUvEkHnFXEihg1.jpg</photo>
+      <role>Lead Official</role>
+      <name>Chip Carriere</name>
+    </item>
+    <item index="31">
+      <photo>http://image.tmdb.org/t/p/original/m7dtzi0uKrWstUmovVp8LfQJszm.jpg</photo>
+      <role>Tech</role>
+      <name>Frank J. Monteleone</name>
+    </item>
+    <item index="32">
+      <photo>http://image.tmdb.org/t/p/original/vFkIq7KoXs3Wi4PrYBvqZrRSLND.jpg</photo>
+      <role>Team Argentina Head Engineer</role>
+      <name>Alan Sabbagh</name>
+    </item>
+    <item index="33">
+      <photo>http://image.tmdb.org/t/p/original/wg0HA8zvfeltuFz0o0UbeFPC2Ws.jpg</photo>
+      <role>Tourist Thief</role>
+      <name>Kate Adair</name>
+    </item>
+    <item index="34">
+      <photo>http://image.tmdb.org/t/p/original/5YykEE15cNzgexL7d5ewAu5M8XN.jpg</photo>
+      <role>Passing Thief</role>
+      <name>Billy Slaughter</name>
+    </item>
+    <item index="35">
+      <photo>http://image.tmdb.org/t/p/original/wrZ3vwBB8TYJqL7a1SzEraKrDJW.jpg</photo>
+      <role>Another Thief</role>
+      <name>Lindsay Clift</name>
+    </item>
+    <item index="36">
+      <photo>http://image.tmdb.org/t/p/original/6ARg16reLWlhNvKYhE04MV6k9qq.jpg</photo>
+      <role>Another Thief</role>
+      <name>Brett Baker</name>
+    </item>
+  </roles>
+  <similar>
+    <item index="0">Run All Night</item>
+    <item index="1">Taken 3</item>
+    <item index="2">Horrible Bosses 2</item>
+    <item index="3">The Judge</item>
+    <item index="4">Get Hard</item>
+    <item index="5">Spy</item>
+    <item index="6">The Equalizer</item>
+    <item index="7">The Gambler</item>
+    <item index="8">Wild Card</item>
+    <item index="9">Neighbors</item>
+    <item index="10">Let's Be Cops</item>
+    <item index="11">Furious 7</item>
+    <item index="12">Exodus: Gods and Kings</item>
+    <item index="13">American Sniper</item>
+    <item index="14">Self/less</item>
+    <item index="15">22 Jump Street</item>
+    <item index="16">Hitch</item>
+    <item index="17">Sex Tape</item>
+    <item index="18">A Walk Among the Tombstones</item>
+    <item index="19">Non-Stop</item>
+  </similar>
+  <studio>Kramer &amp; Sigman Films</studio>
+  <summary>Nicky, a veteran con artist, takes a novice named Jess under his wing. While Nicky teaches Jess the tricks of the trade, the pair become romantically involved; but, when Jess gets uncomfortably close, Nicky ends their relationship. Three years later, Nicky is in Buenos Aires working a very dangerous scheme when Jess -- now an accomplished femme fatale -- unexpectedly shows up. Her appearance throws Nicky for a loop at a time when he cannot afford to be off his game.</summary>
+  <tagline>Never Drop The Con.</tagline>
+  <tags/>
+  <themes/>
+  <title>Focus</title>
+  <writers>
+    <item index="0">
+      <photo>http://image.tmdb.org/t/p/original/e6d3cXiqHFAgsroVnAd0zdGe9EF.jpg</photo>
+      <role/>
+      <name>John Requa</name>
+    </item>
+    <item index="1">
+      <photo>http://image.tmdb.org/t/p/original/mBBJWNAovK4EhIjfMFMIZncOssY.jpg</photo>
+      <role/>
+      <name>Glenn Ficarra</name>
+    </item>
+  </writers>
+  <year>2015</year>
+</Movie>

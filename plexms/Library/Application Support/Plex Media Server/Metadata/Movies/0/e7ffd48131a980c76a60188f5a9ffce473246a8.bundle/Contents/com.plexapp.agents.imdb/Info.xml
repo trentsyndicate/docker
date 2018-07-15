@@ -1,0 +1,581 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Movie id="tt1051904">
+  <rating>7.6</rating>
+  <title_sort/>
+  <art>
+    <item external="True" url="http://image.tmdb.org/t/p/original/9Tsy6naPEdDQiHUaOPPAtWmLzp5.jpg" preview="b5209106fcce31239284d634c76b3bf5fb734e4c" sort_order="1"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/pOgXUXUJDhbRl6u1kPAb7ixzvsR.jpg" preview="fdb4adb36cc6a3e15ff1a69c39da88a6fd003000" sort_order="2"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/itouI22hCgvU4psqC9DuwAOYuL2.jpg" preview="ff4ea4e217e1841c005ccc21b1ed6e8759b60302" sort_order="3"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/vrm5zoYKKVhG8CsSjuJFs1zezVv.jpg" preview="d7fad19b373ef176c035054a9aad63c6ad8dab0e" sort_order="4"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/muReIJ2AWcxof9t8I7PoZZWoTmb.jpg" preview="dae46e09506b4c29065a56736be1dd6842048a1d" sort_order="5"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/sh3T2CdpG5ILcMoCX5UzcUGaxvF.jpg" preview="3863d3ce556b03202da33479620dbd00adb8fb15" sort_order="6"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/ur5ivHEqD42yBBEI5vm4HlR3kjt.jpg" preview="2fb98e527dc8112cbee1f76ac984c0445496a4c6" sort_order="7"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/vcaOxH7VL2Rt3ji3w4SpHTyRWz3.jpg" preview="3da492297539a3d5d4c94ac2c4d99e79b8a14153" sort_order="8"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/oicmqvSlgeJlTCVoo7rNAozyhL4.jpg" preview="eaa7a0aa7508b3f96622c161845164f2855eed8b" sort_order="9"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/20b0bKHEVRW3aD0kPN0AQ6oQhor.jpg" preview="481dc7aef3d4d242cad38fb664b5dbfee60646db" sort_order="10"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/47y59nrC8YmjxTh0kkBKAzp7Coj.jpg" preview="c43a72bf8851b0c97a8a25a86b78f691cb711508" sort_order="11"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/rcT7Ov9fNJMetlMiJkLz9BQVHQZ.jpg" preview="668464f3125c3aa18979b8fe88722bbd3597b26e" sort_order="12"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/6Cz1R1O41k7k5TomOTBt0EMEWJM.jpg" preview="077eabe1864c7f15eaa81a732329a3b4d82a2d01" sort_order="13"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/ivoKidHXTUmtYsYiUyC6IDDilu5.jpg" preview="516f0cd745bbe31e860bd8f2f9bb664254c75812" sort_order="14"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/6mPe4rBHzDMal2oL6hVgOBkaHz9.jpg" preview="5adcb82a676bdf4ac2c8027ee9d2142eef5b5b5e" sort_order="15"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/nPoiZiAQzEbR3U7W8jXZSL91kIt.jpg" preview="33433f14b50e649e794228af85f32991bf7c7f12" sort_order="16"/>
+  </art>
+  <writers>
+    <item index="0">
+      <photo>http://image.tmdb.org/t/p/original/msJQlfbO5AmVAq7Q2pBy6cao3kd.jpg</photo>
+      <role/>
+      <name>Darren Lemke</name>
+    </item>
+  </writers>
+  <chapters>
+    <item index="0">
+      <title>Chapter 1</title>
+      <end_time_offset>489000</end_time_offset>
+      <start_time_offset>0</start_time_offset>
+    </item>
+    <item index="1">
+      <title>Chapter 2</title>
+      <end_time_offset>705000</end_time_offset>
+      <start_time_offset>489000</start_time_offset>
+    </item>
+    <item index="2">
+      <title>Chapter 3</title>
+      <end_time_offset>1074000</end_time_offset>
+      <start_time_offset>705000</start_time_offset>
+    </item>
+    <item index="3">
+      <title>Chapter 4</title>
+      <end_time_offset>1312000</end_time_offset>
+      <start_time_offset>1074000</start_time_offset>
+    </item>
+    <item index="4">
+      <title>Chapter 5</title>
+      <end_time_offset>1677000</end_time_offset>
+      <start_time_offset>1312000</start_time_offset>
+    </item>
+    <item index="5">
+      <title>Chapter 6</title>
+      <end_time_offset>1960000</end_time_offset>
+      <start_time_offset>1677000</start_time_offset>
+    </item>
+    <item index="6">
+      <title>Chapter 7</title>
+      <end_time_offset>2309000</end_time_offset>
+      <start_time_offset>1960000</start_time_offset>
+    </item>
+    <item index="7">
+      <title>Chapter 8</title>
+      <end_time_offset>2677000</end_time_offset>
+      <start_time_offset>2309000</start_time_offset>
+    </item>
+    <item index="8">
+      <title>Chapter 9</title>
+      <end_time_offset>3121000</end_time_offset>
+      <start_time_offset>2677000</start_time_offset>
+    </item>
+    <item index="9">
+      <title>Chapter 10</title>
+      <end_time_offset>3492000</end_time_offset>
+      <start_time_offset>3121000</start_time_offset>
+    </item>
+    <item index="10">
+      <title>Chapter 11</title>
+      <end_time_offset>3820000</end_time_offset>
+      <start_time_offset>3492000</start_time_offset>
+    </item>
+    <item index="11">
+      <title>Chapter 12</title>
+      <end_time_offset>4196000</end_time_offset>
+      <start_time_offset>3820000</start_time_offset>
+    </item>
+    <item index="12">
+      <title>Chapter 13</title>
+      <end_time_offset>4600000</end_time_offset>
+      <start_time_offset>4196000</start_time_offset>
+    </item>
+    <item index="13">
+      <title>Chapter 14</title>
+      <end_time_offset>4975000</end_time_offset>
+      <start_time_offset>4600000</start_time_offset>
+    </item>
+    <item index="14">
+      <title>Chapter 15</title>
+      <end_time_offset>5473000</end_time_offset>
+      <start_time_offset>4975000</start_time_offset>
+    </item>
+    <item index="15">
+      <title>Chapter 16</title>
+      <end_time_offset>-1</end_time_offset>
+      <start_time_offset>5473000</start_time_offset>
+    </item>
+  </chapters>
+  <themes/>
+  <quotes/>
+  <year>2015</year>
+  <duration>6180000</duration>
+  <genres>
+    <item index="0">Adventure</item>
+    <item index="1">Comedy</item>
+    <item index="2">Family</item>
+    <item index="3">Fantasy</item>
+    <item index="4">Horror</item>
+  </genres>
+  <title>Goosebumps</title>
+  <tagline>The stories are alive.</tagline>
+  <content_rating_age/>
+  <rating_count/>
+  <collections/>
+  <trivia/>
+  <tags/>
+  <audience_rating_image>rottentomatoes://image.rating.spilled</audience_rating_image>
+  <rating_image>rottentomatoes://image.rating.ripe</rating_image>
+  <producers>
+    <item index="0">
+      <photo>http://image.tmdb.org/t/p/original/pyfklH58R8TvhVxpDHCgOjUUgVX.jpg</photo>
+      <role/>
+      <name>Deborah Forte</name>
+    </item>
+    <item index="1">
+      <photo>http://image.tmdb.org/t/p/original/cNcsEYmoS4niCz3UkVAA09dUIob.jpg</photo>
+      <role/>
+      <name>Neal H. Moritz</name>
+    </item>
+  </producers>
+  <audience_rating>6.2</audience_rating>
+  <studio>Original Film</studio>
+  <posters>
+    <item external="True" url="http://image.tmdb.org/t/p/original/lNPMamUICDTZT6Njg57A6z9BEo3.jpg" preview="726fe97c55729b414947262a528109bcb0e0af11" sort_order="1"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/cvuNet2rxPiTf9L0eQRNpBi7zgp.jpg" preview="eeb58c907168e172999dab540ef00e3c2c0f348f" sort_order="2"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/eDfk8yoBoPKBRBRVVKZ0uCHsFfP.jpg" preview="4ede104df9dbaccf530d57a63e8f3e6f99ed54c2" sort_order="3"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/444S0pxsaT8BsGqEEQYYfHNSn9I.jpg" preview="da5ab95989efd4a23ce72da0c4165b2db5759ed7" sort_order="4"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/41O7BzlKx0eK8FIU3j5URxewdfD.jpg" preview="07731d50d97a03b242014a7ea56ed828818411c6" sort_order="5"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/sj61TPuqBwD9FZqc50jdLz26Hfr.jpg" preview="bf98c961df2a016aace0a8e8910facf5a933ad70" sort_order="6"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/9yOnWCvpNr6RRhc4zhJdVqR7GKw.jpg" preview="52aedfdc0581f674bf6f44610ee19eb1b92c8d51" sort_order="7"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/uR4qllEwetxJcDu3X3bwHLBH6no.jpg" preview="ef462a93f653205feacc674bc6871617182d68ad" sort_order="8"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/d4TEhTx0I0xzNFxx1F6H5mKcS4d.jpg" preview="41cc5f52aa0ad54f8b32e2ae67ae1ce01b46ad5f" sort_order="9"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/h81J61mMgMnNysfkwpbxzdiegr7.jpg" preview="8531e7473a03af70622a66f9a420f4e7eacbe942" sort_order="10"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/eEQG5rSconaI8CJhW8JB1VvQpQv.jpg" preview="60d3c7c36c7e3a687ac195ed27f359d9c210ad70" sort_order="11"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/4C8rXHJgb0WDBS8RNGPhkLkVIjO.jpg" preview="fb62ae0e4759405a7b23c9af42937f4a30969ff7" sort_order="12"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/gwNPWbBRSDbuOyqYbekpSRgPZjX.jpg" preview="8c51191ae36f70ab9959102d7ebbab2bacee8d39" sort_order="13"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/4OwWp1FSiWQx3kJHHXAJSKOxPtJ.jpg" preview="c9d70fd15e74965fccc02ba11f99da995f47a75d" sort_order="14"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/kYPJ4zyK1KqveBD0i1Eu40fzPri.jpg" preview="931ada66e845c52f543f1a5cee1a29ba810ea5b0" sort_order="15"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/za1s1RaSiUMniDMRwulw1buPYwX.jpg" preview="501136c9ba0b69cc81e1bb43aa435bd0c5a3e3e1" sort_order="16"/>
+  </posters>
+  <originally_available_at>2015-08-05</originally_available_at>
+  <roles>
+    <item index="0">
+      <photo>http://image.tmdb.org/t/p/original/vMXgtzMdt2jSAjOECFQ5F53blbr.jpg</photo>
+      <role>R.L. Stine</role>
+      <name>Jack Black</name>
+    </item>
+    <item index="1">
+      <photo>http://image.tmdb.org/t/p/original/4H7ycJx7nU3PRUEn5N3843DJASM.jpg</photo>
+      <role>Zach Cooper</role>
+      <name>Dylan Minnette</name>
+    </item>
+    <item index="2">
+      <photo>http://image.tmdb.org/t/p/original/1eDPlshKwSIs3tvvkPItLr0LUrZ.jpg</photo>
+      <role>Hannah Fairchild</role>
+      <name>Odeya Rush</name>
+    </item>
+    <item index="3">
+      <photo>http://image.tmdb.org/t/p/original/icpKwwx4v17xrBtB3qT8uY0ClKv.jpg</photo>
+      <role>Gale Cooper</role>
+      <name>Amy Ryan</name>
+    </item>
+    <item index="4">
+      <photo>http://image.tmdb.org/t/p/original/lHeE90kGjdFryeVYYVYn44VVJP0.jpg</photo>
+      <role>Champ</role>
+      <name>Ryan Lee</name>
+    </item>
+    <item index="5">
+      <photo>http://image.tmdb.org/t/p/original/kcMhnv8e1RVInN14D0UMGEaUT5a.jpg</photo>
+      <role>Lorraine Conyers</role>
+      <name>Jillian Bell</name>
+    </item>
+    <item index="6">
+      <photo>http://image.tmdb.org/t/p/original/7BYb7GIry4wbHTNSFCfuCkMexuH.jpg</photo>
+      <role>Taylor</role>
+      <name>Halston Sage</name>
+    </item>
+    <item index="7">
+      <photo>http://image.tmdb.org/t/p/original/h0EU4SvG8iCejG6xO0tF3uj6GfI.jpg</photo>
+      <role>Coach Carr</role>
+      <name>Ken Marino</name>
+    </item>
+    <item index="8">
+      <photo>http://image.tmdb.org/t/p/original/r1PhUOqnbwsJDi4Q0TBhE9uDxi6.jpg</photo>
+      <role>Officer Stevens</role>
+      <name>Timothy Simons</name>
+    </item>
+    <item index="9">
+      <photo>http://image.tmdb.org/t/p/original/eqAbvmmk4kSS5hlfltImRBp73bK.jpg</photo>
+      <role>Officer Brooks</role>
+      <name>Amanda Lund</name>
+    </item>
+    <item index="10">
+      <photo>http://image.tmdb.org/t/p/original/vTrqS2cmnoVAYt6wKCfvp00c6s8.jpg</photo>
+      <role>Davidson</role>
+      <name>Steven Krueger</name>
+    </item>
+    <item index="11">
+      <photo>http://image.tmdb.org/t/p/original/vG2vgz2mviaysDUL35yEm0ymIKb.jpg</photo>
+      <role>Principal Garrison</role>
+      <name>Keith Arthur Bolden</name>
+    </item>
+    <item index="12">
+      <photo>http://image.tmdb.org/t/p/original/hNHZe0L4mpWxMmloPJ6ju7P6Ylf.jpg</photo>
+      <role>Mr. Rooney</role>
+      <name>Karan Soni</name>
+    </item>
+    <item index="13">
+      <photo>http://image.tmdb.org/t/p/original/tK1mYSJBFUYDHTAtN3lYNHH3FrS.jpg</photo>
+      <role>Hallway Player</role>
+      <name>R.L. Stine</name>
+    </item>
+    <item index="14">
+      <photo>http://image.tmdb.org/t/p/original/phH06i5rpv31OkFtZRyy3FYVo8V.jpg</photo>
+      <role>Dumb Jock</role>
+      <name>Caleb Emery</name>
+    </item>
+    <item index="15">
+      <photo>http://image.tmdb.org/t/p/original/hFGlyUwJinoGm2QOxf0C2K2bTWu.jpg</photo>
+      <role>Screaming Girl</role>
+      <name>Gabriela Hernandez</name>
+    </item>
+    <item index="16">
+      <photo>http://image.tmdb.org/t/p/original/69lZdPZh06FGcP7t59MmTNl8mTD.jpg</photo>
+      <role>Monster</role>
+      <name>Nate Andrade</name>
+    </item>
+    <item index="17">
+      <photo/>
+      <role>Monster</role>
+      <name>Sheldon Brown</name>
+    </item>
+    <item index="18">
+      <photo/>
+      <role>Monster</role>
+      <name>Melissa Brewer</name>
+    </item>
+    <item index="19">
+      <photo>http://image.tmdb.org/t/p/original/55gEVgC7oMtYvCDtppWDftI15LM.jpg</photo>
+      <role>Monster</role>
+      <name>Marshall Choka</name>
+    </item>
+    <item index="20">
+      <photo/>
+      <role>Monster</role>
+      <name>Melissa Cowan</name>
+    </item>
+    <item index="21">
+      <photo/>
+      <role>Monster</role>
+      <name>John Deifer</name>
+    </item>
+    <item index="22">
+      <photo/>
+      <role>Monster</role>
+      <name>Everett Dixon</name>
+    </item>
+    <item index="23">
+      <photo/>
+      <role>Monster</role>
+      <name>Brian Gabriel</name>
+    </item>
+    <item index="24">
+      <photo>http://image.tmdb.org/t/p/original/vkFBKPHicgWGhPA437if2jsODPG.jpg</photo>
+      <role>Monster</role>
+      <name>Kevin Galbraith</name>
+    </item>
+    <item index="25">
+      <photo/>
+      <role>Monster</role>
+      <name>Maryann Gorka</name>
+    </item>
+    <item index="26">
+      <photo/>
+      <role>Monster</role>
+      <name>Clare Halstead</name>
+    </item>
+    <item index="27">
+      <photo/>
+      <role>Monster</role>
+      <name>Devin Hampton</name>
+    </item>
+    <item index="28">
+      <photo/>
+      <role>Monster</role>
+      <name>Rory Healy</name>
+    </item>
+    <item index="29">
+      <photo>http://image.tmdb.org/t/p/original/4hjg8G9kgqm6AOBuuMX97a0LhRA.jpg</photo>
+      <role>Monster</role>
+      <name>Drew Lamkins</name>
+    </item>
+    <item index="30">
+      <photo>http://image.tmdb.org/t/p/original/1yZM15ah0yTmTkztyi0yPoeShNM.jpg</photo>
+      <role>Monster</role>
+      <name>Vivian Kyle</name>
+    </item>
+    <item index="31">
+      <photo/>
+      <role>Monster</role>
+      <name>Charlie Leach</name>
+    </item>
+    <item index="32">
+      <photo/>
+      <role>Monster</role>
+      <name>Katie Lumpkin</name>
+    </item>
+    <item index="33">
+      <photo>http://image.tmdb.org/t/p/original/4ocYp6m6hU5w0klgWIT7QyMDTkh.jpg</photo>
+      <role>Monster</role>
+      <name>Larry Mainland</name>
+    </item>
+    <item index="34">
+      <photo>http://image.tmdb.org/t/p/original/63vloD3Tq5hY2q0vVhm3RJloh6S.jpg</photo>
+      <role>Monster</role>
+      <name>Lucky Mangione</name>
+    </item>
+    <item index="35">
+      <photo/>
+      <role>Monster</role>
+      <name>Justin Natic</name>
+    </item>
+    <item index="36">
+      <photo/>
+      <role>Monster</role>
+      <name>Josh Phillips</name>
+    </item>
+    <item index="37">
+      <photo/>
+      <role>Monster</role>
+      <name>Mickie Pollock</name>
+    </item>
+    <item index="38">
+      <photo/>
+      <role>Monster</role>
+      <name>Steve Quinn</name>
+    </item>
+    <item index="39">
+      <photo/>
+      <role>Monster</role>
+      <name>Ashleigh Jo Sizemore</name>
+    </item>
+    <item index="40">
+      <photo/>
+      <role>Monster</role>
+      <name>Jeff Tenney</name>
+    </item>
+    <item index="41">
+      <photo>http://image.tmdb.org/t/p/original/16ES8Rmz4elbjCD2rXub58QyV6y.jpg</photo>
+      <role>Monster</role>
+      <name>Jennifer Trudrung</name>
+    </item>
+    <item index="42">
+      <photo>http://image.tmdb.org/t/p/original/4D6GoSY71Ec82qCqNZcZUshxqBq.jpg</photo>
+      <role>Monster</role>
+      <name>Ashton Lee Woolen</name>
+    </item>
+    <item index="43">
+      <photo/>
+      <role>Monster</role>
+      <name>Coleman Youmans</name>
+    </item>
+    <item index="44">
+      <photo>http://image.tmdb.org/t/p/original/ooczOXwYhY6WRampNqYDIM6ecoT.jpg</photo>
+      <role>Mayor (uncredited)</role>
+      <name>E. Roger Mitchell</name>
+    </item>
+    <item index="45">
+      <photo>http://image.tmdb.org/t/p/original/l1Vv7xhGGi9u2thzD4glDxzlm1L.jpg</photo>
+      <role>Cyclist (uncredited)</role>
+      <name>Jason Davis</name>
+    </item>
+    <item index="46">
+      <photo>http://image.tmdb.org/t/p/original/JEI3ID95xLCPcNngBCZX8nKYYi.jpg</photo>
+      <role>Anna (uncredited)</role>
+      <name>Ella Wahlestedt</name>
+    </item>
+  </roles>
+  <countries>
+    <item index="0">USA</item>
+  </countries>
+  <content_rating>PG</content_rating>
+  <original_title/>
+  <summary>After moving to a small town, Zach Cooper finds a silver lining when he meets next door neighbor Hannah, the daughter of bestselling Goosebumps series author R.L. Stine. When Zach unintentionally unleashes real monsters from their manuscripts and they begin to terrorize the town, it’s suddenly up to Stine, Zach and Hannah to get all of them back in the books where they belong.</summary>
+  <reviews>
+    <item index="0">
+      <text>More goofy fun than such a blatant cash-in ought to be.</text>
+      <source>Time Out</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>http://www.timeout.com/london/film/goosebumps</link>
+      <author>Tom Huddleston</author>
+    </item>
+    <item index="1">
+      <text>The film doesn't try hard to make the case that Hannah's as "real" as anyone else despite being from a book, though it easily could have. That's Goosebumps's implicit premise when it comes to the monsters, after all.</text>
+      <source>The Atlantic</source>
+      <image>rottentomatoes://image.review.rotten</image>
+      <link>http://www.theatlantic.com/entertainment/archive/2015/10/the-scariest-part-about-goosebumps/411349/</link>
+      <author>Lenika Cruz</author>
+    </item>
+    <item index="2">
+      <text>It gently mocks the traditions of the genre -- giant preying mantis rips roof off high school -- while never getting too frightening.</text>
+      <source>Globe and Mail</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>http://www.theglobeandmail.com/arts/film/film-reviews/goosebumps-rl-stines-monsters-come-to-life-in-an-entertaining-thriller/article26828034/</link>
+      <author>Kate Taylor</author>
+    </item>
+    <item index="3">
+      <text>Jack Black fires up a stampede of comic terrors ready made for Halloween. Sure it's exhausting. But Goosebumps, knowing its audience, lets it rip.</text>
+      <source>Rolling Stone</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>http://www.rollingstone.com/movies/reviews/goosebumps-20151016</link>
+      <author>Peter Travers</author>
+    </item>
+    <item index="4">
+      <text>It's a cheerful, nasty delight.</text>
+      <source>New York Magazine/Vulture</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>http://www.vulture.com/2015/10/movie-review-goosebumps.html</link>
+      <author>Bilge Ebiri</author>
+    </item>
+    <item index="5">
+      <text>Goosebumps isn't detached or ironic, nor does it pretend to be something it's not. It's a bonus for fans who pored over the books and it celebrates the fun side of things going bump in the night.</text>
+      <source>Detroit News</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>http://www.detroitnews.com/story/entertainment/movies/2015/10/16/fun-goosebumps-brings-kiddie-horror-series-life/74018948/</link>
+      <author>Adam Graham</author>
+    </item>
+    <item index="6">
+      <text>At a guess, I'd say that Goosebumps will satisfy its core audience - fans of R.L. Stine's popular children's books - and bore pretty much everyone else.</text>
+      <source>ReelViews</source>
+      <image>rottentomatoes://image.review.rotten</image>
+      <link>http://www.reelviews.net/reelviews/goosebumps</link>
+      <author>James Berardinelli</author>
+    </item>
+    <item index="7">
+      <text>The film goes too wide and gets a little soft at the end, but not fatally so. It's the rare horror film - well, sort of horror - that you and your children can enjoy together.</text>
+      <source>Arizona Republic</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>http://www.azcentral.com/story/entertainment/movies/billgoodykoontz/2015/10/15/goosebumps-movie-review/73859372/</link>
+      <author>Bill Goodykoontz</author>
+    </item>
+    <item index="8">
+      <text>"Goosebumps" would seem to yield the serial pleasures a voracious Stineophile might desire.</text>
+      <source>New York Times</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>http://www.nytimes.com/2015/10/16/movies/review-goosebumps-brings-rl-stines-monsters-to-life.html?partner=rss&amp;emc=rss</link>
+      <author>Nicolas Rapold</author>
+    </item>
+    <item index="9">
+      <text>Maybe it's for the best; maybe a truly scary story would have alienated the target demographic, or their parents.</text>
+      <source>San Diego Reader</source>
+      <image>rottentomatoes://image.review.rotten</image>
+      <link>http://www.sandiegoreader.com/movies/goosebumps/</link>
+      <author>Matthew Lickona</author>
+    </item>
+    <item index="10">
+      <text>It's the best treat we've gotten this Halloween, and definitely not just a bigger-budgeted version of the "Goosebumps" seen on TV.</text>
+      <source>Boston Globe</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>http://www.bostonglobe.com/arts/movies/2015/10/15/goosebumps-halloween-treat/xwfxZcYuHRSVz7doJTEJcP/story.html</link>
+      <author>Tom Russo</author>
+    </item>
+    <item index="11">
+      <text>Goosebumps fulfills its purpose, and that's what matters.</text>
+      <source>Philadelphia Inquirer</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>http://www.philly.com/philly/entertainment/movies/20151016_Review___Goosebumps__will_please_both_kids_and_those_who_grew_up_with_the_books.html</link>
+      <author>Molly Eichel</author>
+    </item>
+    <item index="12">
+      <text>A tongue-in-cheek love note to spook stories of yesteryear, "Goosebumps" is a kid-friendly crowd pleaser adults can love, too.</text>
+      <source>Minneapolis Star Tribune</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>http://www.startribune.com/review-as-r-l-stine-jack-black-brings-goosebumps-to-hilarious-hair-raising-life/333059841/</link>
+      <author>Colin Covert</author>
+    </item>
+    <item index="13">
+      <text>Silly, spooky monster mash-up "Goosebumps" doesn't have to be as good as it is. Slyly smarter and more entertaining than it appears, adults might have just as much fun as the kids who will undoubtedly gobble up this Halloween treat.</text>
+      <source>Tribune News Service</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>http://www.chicagotribune.com/entertainment/movies/sc-goosebumps-mov-rev-1014-20151014-column.html</link>
+      <author>Katie Walsh</author>
+    </item>
+    <item index="14">
+      <text>This Goosebumps ride may be bumpy, but it works and it is worthwhile.</text>
+      <source>Toronto Sun</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>http://www.torontosun.com/2015/10/15/goosebumps-review-kid-lit-horror-comes-to-life-in-a-fun-way-on-the-big-screen</link>
+      <author>Bruce Kirkland</author>
+    </item>
+    <item index="15">
+      <text>Goosebumps is chock full of fun moments whether they're all logical or not, and it's an adventure that should appeal to both young viewers new the series and older readers who devoured them as kids.</text>
+      <source>Dallas Morning News</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>http://www.guidelive.com/movie-reviews/2015/10/15/goosebumps-jack-black</link>
+      <author>Britton Peele</author>
+    </item>
+    <item index="16">
+      <text>The production values are better suited for a television movie, and the music, by Danny Elfman, is distractingly intrusive.</text>
+      <source>Washington Post</source>
+      <image>rottentomatoes://image.review.rotten</image>
+      <link>http://www.washingtonpost.com/goingoutguide/movies/the-chase-is-on-as-goosebumps-turns-the-page-to-unleash-cgi-monsters/2015/10/14/17535ab2-7275-11e5-8d93-0af317ed58c9_story.html</link>
+      <author>Stephanie Merry</author>
+    </item>
+    <item index="17">
+      <text>As effects-heavy time-wasters go, Goosebumps is mostly harmless, even sporadically amusing. But it isn't likely to keep anyone up at night, out of fear or excitement.</text>
+      <source>AV Club</source>
+      <image>rottentomatoes://image.review.rotten</image>
+      <link>http://www.avclub.com/review/goosebumps-bears-little-resemblance-kid-lit-horror-226738</link>
+      <author>A.A. Dowd</author>
+    </item>
+    <item index="18">
+      <text>The movie is breezy and fun, offering thrills for kids and a nicely nostalgic matinee vibe for adults.</text>
+      <source>RogerEbert.com</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>http://www.rogerebert.com/reviews/goosebumps-2015</link>
+      <author>Glenn Kenny</author>
+    </item>
+    <item index="19">
+      <text>The pace is great, with the last hour being an all-out monster attack, as all of Stine's creatures - a werewolf, zombies, a mummy, murderous garden trolls and a particularly sarcastic ventriloquist's dummy - go on the rampage.</text>
+      <source>Newark Star-Ledger</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>http://www.nj.com/entertainment/index.ssf/2015/10/goosebumps_review_tricks_and_treats_from_rl_stine.html</link>
+      <author>Stephen Whitty</author>
+    </item>
+  </reviews>
+  <directors>
+    <item index="0">
+      <photo>http://image.tmdb.org/t/p/original/v2GPTQ41ZqHtML8W1ft3UJej5xA.jpg</photo>
+      <role/>
+      <name>Rob Letterman</name>
+    </item>
+  </directors>
+  <extras external="True" extension="xml"/>
+  <banners/>
+  <similar>
+    <item index="0">Scouts Guide to the Zombie Apocalypse</item>
+    <item index="1">Krampus</item>
+    <item index="2">Hotel Transylvania 2</item>
+    <item index="3">Pan</item>
+    <item index="4">The Last Witch Hunter</item>
+    <item index="5">Pixels</item>
+    <item index="6">Victor Frankenstein</item>
+    <item index="7">Teenage Mutant Ninja Turtles: Out of the Shadows</item>
+    <item index="8">Daddy's Home</item>
+    <item index="9">Vacation</item>
+    <item index="10">Pride and Prejudice and Zombies</item>
+    <item index="11">The Angry Birds Movie</item>
+    <item index="12">Freaks of Nature</item>
+    <item index="13">American Ultra</item>
+    <item index="14">Absolutely Anything</item>
+    <item index="15">Poltergeist</item>
+    <item index="16">Night at the Museum: Secret of the Tomb</item>
+    <item index="17">The Visit</item>
+    <item index="18">Fantastic Four</item>
+    <item index="19">The 5th Wave</item>
+  </similar>
+</Movie>

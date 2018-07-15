@@ -1,0 +1,493 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Movie>
+  <art>
+    <item external="True" url="http://image.tmdb.org/t/p/original/bjHF8Vebl0XL1LhjN4dvPqdxwnI.jpg" sort_order="1" provider="com.plexapp.agents.imdb" media="com.plexapp.agents.imdb_f5a37af05a8f34e37330384ae7b59c1dee3c56bb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/xHGpilb9ddXMCfjhq9Yzz5sEjQA.jpg" preview="com.plexapp.agents.imdb_b857cd6867e4e0e5e33bafc3fc69250ed08c143b" sort_order="2" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/fTIijoL66x0KDVQqizoGeaWGljA.jpg" preview="com.plexapp.agents.imdb_533a7bb8798575a6a70904dd40f8b79506096da7" sort_order="3" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/5ejNONf0Yr1CnlcJxuMBPa61DQm.jpg" preview="com.plexapp.agents.imdb_59a37588e31664969932a1b95e380c9757de4209" sort_order="4" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/uibSQ30sL5LmrIVmEyIEQmBU1Fj.jpg" preview="com.plexapp.agents.imdb_9c51d05622d03317a39b5f928aa41b147d62cbd2" sort_order="5" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/g2CTu1zfnORpAlydV3PTtxRBqPl.jpg" preview="com.plexapp.agents.imdb_2d04a46d9baad2cc50f9ca843e6a16dda8f56c6c" sort_order="6" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/gyMUDK4Eqd8d3WLz3YcLWgxUCw1.jpg" preview="com.plexapp.agents.imdb_7cafbe32f4abe8420df3c239d3a75f5b835ef09a" sort_order="7" provider="com.plexapp.agents.imdb"/>
+  </art>
+  <banners/>
+  <chapters>
+    <item index="0">
+      <title>Job Fair</title>
+      <end_time_offset>297000</end_time_offset>
+      <start_time_offset>0</start_time_offset>
+    </item>
+    <item index="1">
+      <title>Cia Material</title>
+      <end_time_offset>651000</end_time_offset>
+      <start_time_offset>297000</start_time_offset>
+    </item>
+    <item index="2">
+      <title>The Interview</title>
+      <end_time_offset>1008000</end_time_offset>
+      <start_time_offset>651000</start_time_offset>
+    </item>
+    <item index="3">
+      <title>The Farm</title>
+      <end_time_offset>1420000</end_time_offset>
+      <start_time_offset>1008000</start_time_offset>
+    </item>
+    <item index="4">
+      <title>Bug House</title>
+      <end_time_offset>1812000</end_time_offset>
+      <start_time_offset>1420000</start_time_offset>
+    </item>
+    <item index="5">
+      <title>Field Trip</title>
+      <end_time_offset>2355000</end_time_offset>
+      <start_time_offset>1812000</start_time_offset>
+    </item>
+    <item index="6">
+      <title>Choke Point</title>
+      <end_time_offset>2877000</end_time_offset>
+      <start_time_offset>2355000</start_time_offset>
+    </item>
+    <item index="7">
+      <title>The Noc</title>
+      <end_time_offset>3355000</end_time_offset>
+      <start_time_offset>2877000</start_time_offset>
+    </item>
+    <item index="8">
+      <title>Welcome to the Cia</title>
+      <end_time_offset>3637000</end_time_offset>
+      <start_time_offset>3355000</start_time_offset>
+    </item>
+    <item index="9">
+      <title>Contact</title>
+      <end_time_offset>3989000</end_time_offset>
+      <start_time_offset>3637000</start_time_offset>
+    </item>
+    <item index="10">
+      <title>Mail Delivery</title>
+      <end_time_offset>4407000</end_time_offset>
+      <start_time_offset>3989000</start_time_offset>
+    </item>
+    <item index="11">
+      <title>Breakfast</title>
+      <end_time_offset>4818000</end_time_offset>
+      <start_time_offset>4407000</start_time_offset>
+    </item>
+    <item index="12">
+      <title>Tracking Layla</title>
+      <end_time_offset>5274000</end_time_offset>
+      <start_time_offset>4818000</start_time_offset>
+    </item>
+    <item index="13">
+      <title>Coffee and Data</title>
+      <end_time_offset>5703000</end_time_offset>
+      <start_time_offset>5274000</start_time_offset>
+    </item>
+    <item index="14">
+      <title>Spartacus</title>
+      <end_time_offset>6314000</end_time_offset>
+      <start_time_offset>5703000</start_time_offset>
+    </item>
+    <item index="15">
+      <title>Spotlight</title>
+      <end_time_offset>6900000</end_time_offset>
+      <start_time_offset>6314000</start_time_offset>
+    </item>
+    <item index="16">
+      <title/>
+      <end_time_offset>-1</end_time_offset>
+      <start_time_offset>6900000</start_time_offset>
+    </item>
+  </chapters>
+  <collections/>
+  <content_rating>PG-13</content_rating>
+  <countries>
+    <item index="0">USA</item>
+  </countries>
+  <directors>
+    <item index="0">
+      <photo>http://image.tmdb.org/t/p/original/AeqGthH9k1e7FJ8XJHycFNPQVvT.jpg</photo>
+      <role/>
+      <name>Roger Donaldson</name>
+    </item>
+  </directors>
+  <duration>6900000</duration>
+  <genres>
+    <item index="0">Action</item>
+    <item index="1">Drama</item>
+    <item index="2">Mystery</item>
+    <item index="3">Romance</item>
+    <item index="4">Thriller</item>
+  </genres>
+  <originally_available_at>2003-01-31</originally_available_at>
+  <posters>
+    <item external="True" url="http://image.tmdb.org/t/p/original/h17xfXkRakrHUUKcW0CYgNPfkSJ.jpg" sort_order="1" provider="com.plexapp.agents.imdb" media="com.plexapp.agents.imdb_6b44c3510ca08a6fcb79304ea4252b064e217c9d"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/hQuFWLIKUwWUWYhk6KHsBOKKeHc.jpg" preview="com.plexapp.agents.imdb_ba306893709f40bb3126a32335aa55cd680c027f" sort_order="2" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/qHVvqWLkyqt7VwBZz1AmXF8pAmH.jpg" preview="com.plexapp.agents.imdb_122db6fda82de9d2070421fbd7529e0964da0be7" sort_order="3" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/kbUwyB9OwZg4zbb6Ofsx7j3iuD5.jpg" preview="com.plexapp.agents.imdb_52b7dfba6bbf14080135dc25b8000f62eaeb1927" sort_order="4" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/5eLd3yqlk7ZZTWCoaLCwZCmOhBJ.jpg" preview="com.plexapp.agents.imdb_16a0d44c96b2250d942d9b93dbeff14631f86fa0" sort_order="5" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/bXSRIXSaiOFfuejJSgEnAZ75KQK.jpg" preview="com.plexapp.agents.imdb_26cc3709d418da9ed7234db08a097ef41b5e7467" sort_order="6" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/kqZj5XZqtOuRjazO690HiT1qNAG.jpg" preview="com.plexapp.agents.imdb_b6404839db112e3379893ecfc337507cdc68085c" sort_order="7" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/fH9Ouk9KwL9sP42YFYcBTHiTDZz.jpg" preview="com.plexapp.agents.imdb_b46b09dabac1428361da18dd6ac9362511d52a5b" sort_order="8" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/mHKnzAXd9SQuDtdCXyDgYrMjs04.jpg" preview="com.plexapp.agents.imdb_108a12ac3025206aee9e6bdd4d71068af6cdcb7d" sort_order="9" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/1wj3gABlhazQu2Z72uuLlS6Y8lB.jpg" preview="com.plexapp.agents.imdb_a957ef6a94ef6687a081ebcf94a5df2a8fd640dc" sort_order="10" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/1HRNT8iSiLNRIvi527SfixzCCCa.jpg" preview="com.plexapp.agents.imdb_d7a68d0b54b6ac9b51ed1b88c4a045abd2d573e0" sort_order="11" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/6nveZTaz67asjavcWEFV1oXoPz8.jpg" preview="com.plexapp.agents.imdb_508273ba02e66460c94856f43b1a540288e5d4b9" sort_order="12" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/hcLSeh9EPGbrFmH7gc0CF4seVj6.jpg" preview="com.plexapp.agents.imdb_0dbb2f709f79c899491b8f88d999ac30c18df6ef" sort_order="13" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/2B0dDa71GsmozXUEpgXDYlx5dc8.jpg" preview="com.plexapp.agents.imdb_e8f7e1b5ff968d0504c7dce7bd3f6984fce6df80" sort_order="14" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/tMKguqmwFsnZGjHqWZQPtmNVjgs.jpg" preview="com.plexapp.agents.imdb_1a21514b7adf447adb9c51f09523af64aebc3930" sort_order="15" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/tDiVzWOzJultj2QQjPMx2osmyjc.jpg" preview="com.plexapp.agents.imdb_0e258544fd374a56538803838b54dd8145d27110" sort_order="16" provider="com.plexapp.agents.imdb"/>
+  </posters>
+  <producers>
+    <item index="0">
+      <photo/>
+      <role/>
+      <name>Roger Birnbaum</name>
+    </item>
+    <item index="1">
+      <photo/>
+      <role/>
+      <name>Jeff Apple</name>
+    </item>
+    <item index="2">
+      <photo>http://image.tmdb.org/t/p/original/hVdFCnxL2F1wuq7BdgMoxiGBzis.jpg</photo>
+      <role/>
+      <name>Gary Barber</name>
+    </item>
+  </producers>
+  <rating>4.3</rating>
+  <rating_image>rottentomatoes://image.rating.rotten</rating_image>
+  <audience_rating>5.8</audience_rating>
+  <audience_rating_image>rottentomatoes://image.rating.spilled</audience_rating_image>
+  <reviews>
+    <item index="0">
+      <text>Here I suspected the ultimate villain almost from the very beginning -- and, if I wasn't fooled, I can't imagine anyone else will be, either.</text>
+      <source>New York Observer</source>
+      <image>rottentomatoes://image.review.rotten</image>
+      <link>http://www.nyobserver.com/pages/story.asp?ID=6938</link>
+      <author>Andrew Sarris</author>
+    </item>
+    <item index="1">
+      <text>A conjurer's trick that delights for about an hour, then spirals into idiocy.</text>
+      <source>Slate</source>
+      <image>rottentomatoes://image.review.rotten</image>
+      <link>http://www.slate.com/id/2077942/</link>
+      <author>David Edelstein</author>
+    </item>
+    <item index="2">
+      <text>The Recruit manages to be almost utterly without innovation apart from its heroic determination to make matinee idol material out of a spy agency that pioneered the process of extra-legal bureaucratic sociopathology known as 'black ops.'</text>
+      <source>Toronto Star</source>
+      <image>rottentomatoes://image.review.rotten</image>
+      <link>http://WWW.TheStar.COM/NASApp/cs/ContentServer?&amp;pagename=thestar/Layout/Article_Type1&amp;c=Article&amp;cid=1044010968322&amp;call_pageid=1022183557980&amp;col=1022183560753</link>
+      <author>Geoff Pevere</author>
+    </item>
+    <item index="3">
+      <text>The Recruit falters after it leaves the Farm, throwing in unbelievable plot devices and losing its high-wire tension.</text>
+      <source>San Francisco Chronicle</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>http://www.sfgate.com/cgi-bin/article.cgi?f=/c/a/2003/01/31/DD61714.DTL</link>
+      <author>Carla Meyer</author>
+    </item>
+    <item index="4">
+      <text>Although The Recruit isn't Len Deighton or Robert Ludlum, it is enjoyable until the screenwriters develop a collective brain cramp.</text>
+      <source>ReelViews</source>
+      <image>rottentomatoes://image.review.rotten</image>
+      <link>http://www.reelviews.net/movies/r/recruit.html</link>
+      <author>James Berardinelli</author>
+    </item>
+    <item index="5">
+      <text>The foreshadowing is a bit heavy-handed, but the writers and director largely manage the tension and mystery tactfully.</text>
+      <source>Denver Post</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>http://www.denverpost.com/Stories/0,1413,36%257E82%257E1144852%257E,00.html</link>
+      <author>Ricardo Baca</author>
+    </item>
+    <item index="6">
+      <text>A serviceable spy thriller that stumbles over one too many plot twists, one too many shots of its hero typing desperately at his computer, and a romantic subplot that's nice to look at but awfully silly.</text>
+      <source>Boston Globe</source>
+      <image>rottentomatoes://image.review.rotten</image>
+      <link>http://ae.boston.com/movies/display?display=movie&amp;id=1871</link>
+      <author>Ty Burr</author>
+    </item>
+    <item index="7">
+      <text>The Recruit adds little to the already overworked espionage genre, but it completes its mission, working quietly and stealthily, without drawing too much attention to itself.</text>
+      <source>Detroit Free Press</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>http://ae.freep.com/entertainment/ui/michigan/movie.html?id=87718&amp;reviewId=11083</link>
+      <author>John Monaghan</author>
+    </item>
+    <item index="8">
+      <text>It's the kind of movie you can sit back and enjoy, as long as you don't make the mistake of thinking too much.</text>
+      <source>Chicago Sun-Times</source>
+      <image>rottentomatoes://image.review.rotten</image>
+      <link>http://www.rogerebert.com/reviews/the-recruit-2003</link>
+      <author>Roger Ebert</author>
+    </item>
+  </reviews>
+  <roles>
+    <item index="0">
+      <photo>http://image.tmdb.org/t/p/original/vfbfcqINRHzXNTenycHIjNO6Va7.jpg</photo>
+      <role>Walter Burke</role>
+      <name>Al Pacino</name>
+    </item>
+    <item index="1">
+      <photo>http://image.tmdb.org/t/p/original/pgMM9r5ll99RXSmz1J4sj8zaddW.jpg</photo>
+      <role>James Clayton</role>
+      <name>Colin Farrell</name>
+    </item>
+    <item index="2">
+      <photo>http://image.tmdb.org/t/p/original/sNdD2Cos4aecowtWPpd0hcM8izY.jpg</photo>
+      <role>Layla Moore</role>
+      <name>Bridget Moynahan</name>
+    </item>
+    <item index="3">
+      <photo>http://image.tmdb.org/t/p/original/dm8TsNrZqU3m91XqX0rX7A2RLXT.jpg</photo>
+      <role>Zack</role>
+      <name>Gabriel Macht</name>
+    </item>
+    <item index="4">
+      <photo>http://image.tmdb.org/t/p/original/vUX3LffH5W2nzYvOwCdTXCpowi2.jpg</photo>
+      <role>Dennis Slayne</role>
+      <name>Karl Pruner</name>
+    </item>
+    <item index="5">
+      <photo>http://image.tmdb.org/t/p/original/rhpOJsibsqA4SG71GcH0LMfnygd.jpg</photo>
+      <role>Husky Man</role>
+      <name>Eugene Lipinski</name>
+    </item>
+    <item index="6">
+      <photo>http://image.tmdb.org/t/p/original/9VSNPVauGKQlV1cXENaUI60OoZH.jpg</photo>
+      <role>Ronnie Gibson</role>
+      <name>Mike Realba</name>
+    </item>
+    <item index="7">
+      <photo>http://image.tmdb.org/t/p/original/4m3P4dlL8sQ7PHROEAbIspBCbTA.jpg</photo>
+      <role>Instructor #1</role>
+      <name>Domenico Fiore</name>
+    </item>
+    <item index="8">
+      <photo>http://image.tmdb.org/t/p/original/g8q5de1Axmnvm8dXnOBgNJeK9J2.jpg</photo>
+      <role>Dell Rep (Bill Rudolph)</role>
+      <name>Ron Lea</name>
+    </item>
+    <item index="9">
+      <photo/>
+      <role>Co-Ed #1</role>
+      <name>Jeanie Calleja</name>
+    </item>
+    <item index="10">
+      <photo>http://image.tmdb.org/t/p/original/vvdI4a0qk0OjvEsPwHlnqsLUrFU.jpg</photo>
+      <role>Brunette at Blue Ridge</role>
+      <name>Jessica Greco</name>
+    </item>
+    <item index="11">
+      <photo/>
+      <role>Cab Driver</role>
+      <name>Angelo Tsarouchas</name>
+    </item>
+    <item index="12">
+      <photo/>
+      <role>Polygraph Interrogator</role>
+      <name>Veronica Hurnick</name>
+    </item>
+    <item index="13">
+      <photo>http://image.tmdb.org/t/p/original/rMjZ2li3pftiwzZoTTOSe1Qeh9P.jpg</photo>
+      <role>Instructor #2</role>
+      <name>Steve Lucescu</name>
+    </item>
+    <item index="14">
+      <photo>http://image.tmdb.org/t/p/original/8TOv7jLMt0ueCsdfCgCV5uwai42.jpg</photo>
+      <role>Rob Stevens</role>
+      <name>Richard Fitzpatrick</name>
+    </item>
+    <item index="15">
+      <photo/>
+      <role>Guard</role>
+      <name>John Watson</name>
+    </item>
+    <item index="16">
+      <photo>http://image.tmdb.org/t/p/original/cdTc3F21cZgCa3VoAmzYdtcqzMZ.jpg</photo>
+      <role>Art Wallis</role>
+      <name>Chris Owens</name>
+    </item>
+    <item index="17">
+      <photo/>
+      <role>Young Instructor</role>
+      <name>Janet Bailey</name>
+    </item>
+    <item index="18">
+      <photo/>
+      <role>Elliot</role>
+      <name>Sam Kalilieh</name>
+    </item>
+    <item index="19">
+      <photo>http://image.tmdb.org/t/p/original/7AuEyOiYeMaF5JyaVagw3xi3nEQ.jpg</photo>
+      <role>Stan</role>
+      <name>Merwin Mondesir</name>
+    </item>
+    <item index="20">
+      <photo>http://image.tmdb.org/t/p/original/xJUID1u1YCxPaI38Dz8jPl8UduW.jpg</photo>
+      <role>Lisa Sahadi</role>
+      <name>Elisa Moolecherry</name>
+    </item>
+    <item index="21">
+      <photo/>
+      <role>Security Officer #1</role>
+      <name>Sheldon Davis</name>
+    </item>
+    <item index="22">
+      <photo/>
+      <role>Psychiatrist #1</role>
+      <name>Oscar Hsu</name>
+    </item>
+    <item index="23">
+      <photo>http://image.tmdb.org/t/p/original/stGKdzKx0LNhfyfaAkPHR76Zk1z.jpg</photo>
+      <role>Psychiatrist #2</role>
+      <name>Arlene Mazerolle</name>
+    </item>
+    <item index="24">
+      <photo/>
+      <role>Psychiatrist #3</role>
+      <name>Brian Rhodes</name>
+    </item>
+    <item index="25">
+      <photo/>
+      <role>Exam Procter</role>
+      <name>Steve Behal</name>
+    </item>
+    <item index="26">
+      <photo>http://image.tmdb.org/t/p/original/x8hRTny8olUJYGyH7K3zDUUHIqk.jpg</photo>
+      <role>Polygraph Technician</role>
+      <name>Jane Moffat</name>
+    </item>
+    <item index="27">
+      <photo/>
+      <role>Co-Worker</role>
+      <name>Bart Bedford</name>
+    </item>
+    <item index="28">
+      <photo/>
+      <role>Transit Cop</role>
+      <name>Tony Craig</name>
+    </item>
+    <item index="29">
+      <photo/>
+      <role>New Security Guard</role>
+      <name>David Boyce</name>
+    </item>
+    <item index="30">
+      <photo/>
+      <role>Beth</role>
+      <name>Tova Smith</name>
+    </item>
+    <item index="31">
+      <photo/>
+      <role>Felix</role>
+      <name>Michael Rubenfeld</name>
+    </item>
+    <item index="32">
+      <photo>http://image.tmdb.org/t/p/original/felhTbRf6awaxhmj2u0kAlpOd4f.jpg</photo>
+      <role>Alan</role>
+      <name>Kenneth Mitchell</name>
+    </item>
+    <item index="33">
+      <photo/>
+      <role>Test Instructor</role>
+      <name>Mark Ellis</name>
+    </item>
+    <item index="34">
+      <photo>http://image.tmdb.org/t/p/original/8LYTbOzuqFQoSOFRggM28JzgEXb.jpg</photo>
+      <role>Farm Instructor #3</role>
+      <name>Neil Crone</name>
+    </item>
+    <item index="35">
+      <photo/>
+      <role>Farm Instructor #4</role>
+      <name>Ray Paisley</name>
+    </item>
+    <item index="36">
+      <photo>http://image.tmdb.org/t/p/original/4wCw1lnbuJwFbE2sDJfQxfiF3z2.jpg</photo>
+      <role>Young Instructor #2</role>
+      <name>Scott McCord</name>
+    </item>
+    <item index="37">
+      <photo>http://image.tmdb.org/t/p/original/wXrlMbjjS200BPqopCvZ0CuJ7ds.jpg</photo>
+      <role>Blonde</role>
+      <name>Jenny Cooper</name>
+    </item>
+    <item index="38">
+      <photo/>
+      <role>Band Member #1</role>
+      <name>Shaun Verreault</name>
+    </item>
+    <item index="39">
+      <photo/>
+      <role>Band Member #2</role>
+      <name>Safwan Javed</name>
+    </item>
+    <item index="40">
+      <photo/>
+      <role>Band Member #3</role>
+      <name>Earl Pereira</name>
+    </item>
+    <item index="41">
+      <photo>http://image.tmdb.org/t/p/original/pQyFp7bBxyd8AjRoPugGTNeideN.jpg</photo>
+      <role>Firing Range Instructor</role>
+      <name>Conrad Bergschneider</name>
+    </item>
+    <item index="42">
+      <photo/>
+      <role>Langley Gate Guard</role>
+      <name>John Wayne Shafer</name>
+    </item>
+    <item index="43">
+      <photo/>
+      <role>Running Instructor</role>
+      <name>Stephen Lee Wright</name>
+    </item>
+  </roles>
+  <similar>
+    <item index="0">The Score</item>
+    <item index="1">Payback</item>
+    <item index="2">Spy Game</item>
+    <item index="3">S.W.A.T.</item>
+    <item index="4">Ronin</item>
+    <item index="5">Basic</item>
+    <item index="6">Ransom</item>
+    <item index="7">Matchstick Men</item>
+    <item index="8">Assault on Precinct 13</item>
+    <item index="9">The Jackal</item>
+    <item index="10">16 Blocks</item>
+    <item index="11">Miami Vice</item>
+    <item index="12">Smokin' Aces</item>
+    <item index="13">Broken Arrow</item>
+    <item index="14">Street Kings</item>
+    <item index="15">Patriot Games</item>
+    <item index="16">Hostage</item>
+    <item index="17">Proof of Life</item>
+    <item index="18">Swordfish</item>
+    <item index="19">The Negotiator</item>
+  </similar>
+  <studio>Birnbaum / Barber Productions</studio>
+  <summary>A brilliant CIA trainee must prove his worth at the Farm, the agency's secret training grounds, where he learns to watch his back and trust no one.</summary>
+  <tagline>Trust. Betrayal. Deception. In the C.I.A. nothing is what it seems.</tagline>
+  <tags/>
+  <themes/>
+  <title>The Recruit</title>
+  <writers>
+    <item index="0">
+      <photo/>
+      <role/>
+      <name>Roger Towne</name>
+    </item>
+    <item index="1">
+      <photo>http://image.tmdb.org/t/p/original/vO84pZBssHveIxxnh2d2sbNNCLY.jpg</photo>
+      <role/>
+      <name>Kurt Wimmer</name>
+    </item>
+    <item index="2">
+      <photo>http://image.tmdb.org/t/p/original/fcs7uTMtxW8umQEwy0XaLRX02Wl.jpg</photo>
+      <role/>
+      <name>Mitch Glazer</name>
+    </item>
+  </writers>
+  <year>2003</year>
+</Movie>

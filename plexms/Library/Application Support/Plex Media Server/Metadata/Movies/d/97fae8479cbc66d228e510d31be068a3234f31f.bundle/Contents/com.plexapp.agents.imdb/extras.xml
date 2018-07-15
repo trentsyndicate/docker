@@ -1,0 +1,403 @@
+<?xml version='1.0' encoding='utf-8'?>
+<MediaContainer size="20" identifier="com.plexapp.agents.imdb" mediaTagPrefix="/system/bundle/media/flags/" prefsKey="/:/plugins/com.plexapp.agents.imdb/prefs">
+  <Video url="iva://api.internetvideoarchive.com/2.0/DataService/VideoAssets(702964)?lang=en&amp;bitrates=80,212,450,750,1500,2500,5000,8000&amp;duration=109&amp;adaptive=1&amp;dts=0" key="/system/services/url/lookup?url=iva%3A%2F%2Fapi.internetvideoarchive.com%2F2.0%2FDataService%2FVideoAssets%28702964%29%3Flang%3Den%26bitrates%3D80%2C212%2C450%2C750%2C1500%2C2500%2C5000%2C8000%26duration%3D109%26adaptive%3D1%26dts%3D0" type="clip" relationType="trailer" year="2018" title="Black Panther (Clean Trailer)" originallyAvailableAt="2018-03-01" thumb="https://iva-images.plex.tv/content/hdphotos/11712/011712/011712_1280x720_702964_131.jpg" ratingKey="iva://api.internetvideoarchive.com/2.0/DataService/VideoAssets(702964)?lang=en&amp;bitrates=80,212,450,750,1500,2500,5000,8000&amp;duration=109&amp;adaptive=1&amp;dts=0">
+    <Media container="mp4" height="1080" width="1920" audioCodec="aac" duration="109000" videoCodec="h264" bitrate="2500">
+      <Part duration="109000" key="/services/iva/assets/702964/video.mp4?bitrate=2500" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="1080" width="1920" codec="h264" bitrate="2500" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+    <Media container="mp4" height="720" width="1280" audioCodec="aac" duration="109000" videoCodec="h264" bitrate="1500">
+      <Part duration="109000" key="/services/iva/assets/702964/video.mp4?bitrate=1500" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="720" width="1280" codec="h264" bitrate="1500" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+    <Media container="mp4" height="480" width="640" audioCodec="aac" duration="109000" videoCodec="h264" bitrate="450">
+      <Part duration="109000" key="/services/iva/assets/702964/video.mp4?bitrate=450" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="480" width="640" codec="h264" bitrate="450" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+  </Video>
+  <Video url="iva://api.internetvideoarchive.com/2.0/DataService/VideoAssets(899040)?lang=en&amp;bitrates=80,212,450,750,1500,2500,5000,8000&amp;duration=131&amp;adaptive=1&amp;dts=0" key="/system/services/url/lookup?url=iva%3A%2F%2Fapi.internetvideoarchive.com%2F2.0%2FDataService%2FVideoAssets%28899040%29%3Flang%3Den%26bitrates%3D80%2C212%2C450%2C750%2C1500%2C2500%2C5000%2C8000%26duration%3D131%26adaptive%3D1%26dts%3D0" type="clip" relationType="behindTheScenes" year="2018" title="Black Panther: Black Panther's Royal Family Tree (Featurette)" originallyAvailableAt="2018-02-14" thumb="https://iva-images.plex.tv/content/hdphotos/11685/011685/011685_1280x720_899040_206.jpg" ratingKey="iva://api.internetvideoarchive.com/2.0/DataService/VideoAssets(899040)?lang=en&amp;bitrates=80,212,450,750,1500,2500,5000,8000&amp;duration=131&amp;adaptive=1&amp;dts=0">
+    <Media container="mp4" height="1080" width="1920" audioCodec="aac" duration="131000" videoCodec="h264" bitrate="2500">
+      <Part duration="131000" key="/services/iva/assets/899040/video.mp4?bitrate=2500" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="1080" width="1920" codec="h264" bitrate="2500" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+    <Media container="mp4" height="720" width="1280" audioCodec="aac" duration="131000" videoCodec="h264" bitrate="1500">
+      <Part duration="131000" key="/services/iva/assets/899040/video.mp4?bitrate=1500" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="720" width="1280" codec="h264" bitrate="1500" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+    <Media container="mp4" height="480" width="640" audioCodec="aac" duration="131000" videoCodec="h264" bitrate="450">
+      <Part duration="131000" key="/services/iva/assets/899040/video.mp4?bitrate=450" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="480" width="640" codec="h264" bitrate="450" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+  </Video>
+  <Video url="iva://api.internetvideoarchive.com/2.0/DataService/VideoAssets(904363)?lang=en&amp;bitrates=80,212,450,750,1500,2500,5000,8000&amp;duration=77&amp;adaptive=1&amp;dts=0" key="/system/services/url/lookup?url=iva%3A%2F%2Fapi.internetvideoarchive.com%2F2.0%2FDataService%2FVideoAssets%28904363%29%3Flang%3Den%26bitrates%3D80%2C212%2C450%2C750%2C1500%2C2500%2C5000%2C8000%26duration%3D77%26adaptive%3D1%26dts%3D0" type="clip" relationType="behindTheScenes" year="2018" title="Black Panther: Marvel 101 (Featurette)" originallyAvailableAt="2018-02-14" thumb="https://iva-images.plex.tv/content/hdphotos/11685/011685/011685_1179x663_904363_076.jpg" ratingKey="iva://api.internetvideoarchive.com/2.0/DataService/VideoAssets(904363)?lang=en&amp;bitrates=80,212,450,750,1500,2500,5000,8000&amp;duration=77&amp;adaptive=1&amp;dts=0">
+    <Media container="mp4" height="1080" width="1920" audioCodec="aac" duration="77000" videoCodec="h264" bitrate="2500">
+      <Part duration="77000" key="/services/iva/assets/904363/video.mp4?bitrate=2500" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="1080" width="1920" codec="h264" bitrate="2500" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+    <Media container="mp4" height="720" width="1280" audioCodec="aac" duration="77000" videoCodec="h264" bitrate="1500">
+      <Part duration="77000" key="/services/iva/assets/904363/video.mp4?bitrate=1500" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="720" width="1280" codec="h264" bitrate="1500" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+    <Media container="mp4" height="480" width="640" audioCodec="aac" duration="77000" videoCodec="h264" bitrate="450">
+      <Part duration="77000" key="/services/iva/assets/904363/video.mp4?bitrate=450" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="480" width="640" codec="h264" bitrate="450" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+  </Video>
+  <Video url="iva://api.internetvideoarchive.com/2.0/DataService/VideoAssets(542198)?lang=en&amp;bitrates=80,212,450,750,1500,2500,5000,8000&amp;duration=42&amp;adaptive=1&amp;dts=0" key="/system/services/url/lookup?url=iva%3A%2F%2Fapi.internetvideoarchive.com%2F2.0%2FDataService%2FVideoAssets%28542198%29%3Flang%3Den%26bitrates%3D80%2C212%2C450%2C750%2C1500%2C2500%2C5000%2C8000%26duration%3D42%26adaptive%3D1%26dts%3D0" type="clip" relationType="behindTheScenes" year="2018" title="Black Panther: Winston Duke On His Initial Exposure To Marvel" originallyAvailableAt="2018-01-30" thumb="https://iva-images.plex.tv/content/hdphotos/11666/011666/011666_1280x720_542198_067.jpg" ratingKey="iva://api.internetvideoarchive.com/2.0/DataService/VideoAssets(542198)?lang=en&amp;bitrates=80,212,450,750,1500,2500,5000,8000&amp;duration=42&amp;adaptive=1&amp;dts=0">
+    <Media container="mp4" height="1080" width="1920" audioCodec="aac" duration="42000" videoCodec="h264" bitrate="2500">
+      <Part duration="42000" key="/services/iva/assets/542198/video.mp4?bitrate=2500" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="1080" width="1920" codec="h264" bitrate="2500" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+    <Media container="mp4" height="720" width="1280" audioCodec="aac" duration="42000" videoCodec="h264" bitrate="1500">
+      <Part duration="42000" key="/services/iva/assets/542198/video.mp4?bitrate=1500" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="720" width="1280" codec="h264" bitrate="1500" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+    <Media container="mp4" height="480" width="640" audioCodec="aac" duration="42000" videoCodec="h264" bitrate="450">
+      <Part duration="42000" key="/services/iva/assets/542198/video.mp4?bitrate=450" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="480" width="640" codec="h264" bitrate="450" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+  </Video>
+  <Video url="iva://api.internetvideoarchive.com/2.0/DataService/VideoAssets(428562)?lang=en&amp;bitrates=80,212,450,750,1500,2500,5000,8000&amp;duration=79&amp;adaptive=1&amp;dts=0" key="/system/services/url/lookup?url=iva%3A%2F%2Fapi.internetvideoarchive.com%2F2.0%2FDataService%2FVideoAssets%28428562%29%3Flang%3Den%26bitrates%3D80%2C212%2C450%2C750%2C1500%2C2500%2C5000%2C8000%26duration%3D79%26adaptive%3D1%26dts%3D0" type="clip" relationType="behindTheScenes" year="2018" title="Black Panther: Ryan Coogler On What Appealed To Him About Black Panther" originallyAvailableAt="2018-01-30" thumb="https://iva-images.plex.tv/content/hdphotos/11666/011666/011666_1280x720_428562_010.jpg" ratingKey="iva://api.internetvideoarchive.com/2.0/DataService/VideoAssets(428562)?lang=en&amp;bitrates=80,212,450,750,1500,2500,5000,8000&amp;duration=79&amp;adaptive=1&amp;dts=0">
+    <Media container="mp4" height="1080" width="1920" audioCodec="aac" duration="79000" videoCodec="h264" bitrate="2500">
+      <Part duration="79000" key="/services/iva/assets/428562/video.mp4?bitrate=2500" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="1080" width="1920" codec="h264" bitrate="2500" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+    <Media container="mp4" height="720" width="1280" audioCodec="aac" duration="79000" videoCodec="h264" bitrate="1500">
+      <Part duration="79000" key="/services/iva/assets/428562/video.mp4?bitrate=1500" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="720" width="1280" codec="h264" bitrate="1500" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+    <Media container="mp4" height="480" width="640" audioCodec="aac" duration="79000" videoCodec="h264" bitrate="450">
+      <Part duration="79000" key="/services/iva/assets/428562/video.mp4?bitrate=450" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="480" width="640" codec="h264" bitrate="450" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+  </Video>
+  <Video url="iva://api.internetvideoarchive.com/2.0/DataService/VideoAssets(568875)?lang=en&amp;bitrates=80,212,450,750,1500,2500,5000,8000&amp;duration=26&amp;adaptive=1&amp;dts=0" key="/system/services/url/lookup?url=iva%3A%2F%2Fapi.internetvideoarchive.com%2F2.0%2FDataService%2FVideoAssets%28568875%29%3Flang%3Den%26bitrates%3D80%2C212%2C450%2C750%2C1500%2C2500%2C5000%2C8000%26duration%3D26%26adaptive%3D1%26dts%3D0" type="clip" relationType="behindTheScenes" year="2018" title="Black Panther: Sterling K. Brown On His Initial Exposure To Marvel" originallyAvailableAt="2018-01-30" thumb="https://iva-images.plex.tv/content/hdphotos/11666/011666/011666_1280x720_568875_001.jpg" ratingKey="iva://api.internetvideoarchive.com/2.0/DataService/VideoAssets(568875)?lang=en&amp;bitrates=80,212,450,750,1500,2500,5000,8000&amp;duration=26&amp;adaptive=1&amp;dts=0">
+    <Media container="mp4" height="1080" width="1920" audioCodec="aac" duration="26000" videoCodec="h264" bitrate="2500">
+      <Part duration="26000" key="/services/iva/assets/568875/video.mp4?bitrate=2500" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="1080" width="1920" codec="h264" bitrate="2500" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+    <Media container="mp4" height="720" width="1280" audioCodec="aac" duration="26000" videoCodec="h264" bitrate="1500">
+      <Part duration="26000" key="/services/iva/assets/568875/video.mp4?bitrate=1500" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="720" width="1280" codec="h264" bitrate="1500" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+    <Media container="mp4" height="480" width="640" audioCodec="aac" duration="26000" videoCodec="h264" bitrate="450">
+      <Part duration="26000" key="/services/iva/assets/568875/video.mp4?bitrate=450" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="480" width="640" codec="h264" bitrate="450" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+  </Video>
+  <Video url="iva://api.internetvideoarchive.com/2.0/DataService/VideoAssets(96419)?lang=en&amp;bitrates=80,212,450,750,1500,2500,5000,8000&amp;duration=20&amp;adaptive=1&amp;dts=0" key="/system/services/url/lookup?url=iva%3A%2F%2Fapi.internetvideoarchive.com%2F2.0%2FDataService%2FVideoAssets%2896419%29%3Flang%3Den%26bitrates%3D80%2C212%2C450%2C750%2C1500%2C2500%2C5000%2C8000%26duration%3D20%26adaptive%3D1%26dts%3D0" type="clip" relationType="behindTheScenes" year="2018" title="Black Panther: Michael B. Jordan On His Initial Exposure To Marvel" originallyAvailableAt="2018-01-30" thumb="https://iva-images.plex.tv/content/hdphotos/11666/011666/011666_1280x720_96419_028.jpg" ratingKey="iva://api.internetvideoarchive.com/2.0/DataService/VideoAssets(96419)?lang=en&amp;bitrates=80,212,450,750,1500,2500,5000,8000&amp;duration=20&amp;adaptive=1&amp;dts=0">
+    <Media container="mp4" height="1080" width="1920" audioCodec="aac" duration="20000" videoCodec="h264" bitrate="2500">
+      <Part duration="20000" key="/services/iva/assets/96419/video.mp4?bitrate=2500" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="1080" width="1920" codec="h264" bitrate="2500" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+    <Media container="mp4" height="720" width="1280" audioCodec="aac" duration="20000" videoCodec="h264" bitrate="1500">
+      <Part duration="20000" key="/services/iva/assets/96419/video.mp4?bitrate=1500" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="720" width="1280" codec="h264" bitrate="1500" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+    <Media container="mp4" height="480" width="640" audioCodec="aac" duration="20000" videoCodec="h264" bitrate="450">
+      <Part duration="20000" key="/services/iva/assets/96419/video.mp4?bitrate=450" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="480" width="640" codec="h264" bitrate="450" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+  </Video>
+  <Video url="iva://api.internetvideoarchive.com/2.0/DataService/VideoAssets(791005)?lang=en&amp;bitrates=80,212,450,750,1500,2500,5000,8000&amp;duration=77&amp;adaptive=1&amp;dts=0" key="/system/services/url/lookup?url=iva%3A%2F%2Fapi.internetvideoarchive.com%2F2.0%2FDataService%2FVideoAssets%28791005%29%3Flang%3Den%26bitrates%3D80%2C212%2C450%2C750%2C1500%2C2500%2C5000%2C8000%26duration%3D77%26adaptive%3D1%26dts%3D0" type="clip" relationType="behindTheScenes" year="2018" title="Black Panther: Nate Moore On Casting Chadwick Boseman" originallyAvailableAt="2018-01-30" thumb="https://iva-images.plex.tv/content/hdphotos/11666/011666/011666_1280x720_791005_119.jpg" ratingKey="iva://api.internetvideoarchive.com/2.0/DataService/VideoAssets(791005)?lang=en&amp;bitrates=80,212,450,750,1500,2500,5000,8000&amp;duration=77&amp;adaptive=1&amp;dts=0">
+    <Media container="mp4" height="1080" width="1920" audioCodec="aac" duration="77000" videoCodec="h264" bitrate="2500">
+      <Part duration="77000" key="/services/iva/assets/791005/video.mp4?bitrate=2500" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="1080" width="1920" codec="h264" bitrate="2500" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+    <Media container="mp4" height="720" width="1280" audioCodec="aac" duration="77000" videoCodec="h264" bitrate="1500">
+      <Part duration="77000" key="/services/iva/assets/791005/video.mp4?bitrate=1500" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="720" width="1280" codec="h264" bitrate="1500" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+    <Media container="mp4" height="480" width="640" audioCodec="aac" duration="77000" videoCodec="h264" bitrate="450">
+      <Part duration="77000" key="/services/iva/assets/791005/video.mp4?bitrate=450" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="480" width="640" codec="h264" bitrate="450" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+  </Video>
+  <Video url="iva://api.internetvideoarchive.com/2.0/DataService/VideoAssets(54239)?lang=en&amp;bitrates=80,212,450,750,1500,2500,5000,8000&amp;duration=52&amp;adaptive=1&amp;dts=0" key="/system/services/url/lookup?url=iva%3A%2F%2Fapi.internetvideoarchive.com%2F2.0%2FDataService%2FVideoAssets%2854239%29%3Flang%3Den%26bitrates%3D80%2C212%2C450%2C750%2C1500%2C2500%2C5000%2C8000%26duration%3D52%26adaptive%3D1%26dts%3D0" type="clip" relationType="behindTheScenes" year="2018" title="Black Panther: Martin Freeman On Where We Find Everett Ross In This Film" originallyAvailableAt="2018-01-30" thumb="https://iva-images.plex.tv/content/hdphotos/11666/011666/011666_1280x720_54239_082.jpg" ratingKey="iva://api.internetvideoarchive.com/2.0/DataService/VideoAssets(54239)?lang=en&amp;bitrates=80,212,450,750,1500,2500,5000,8000&amp;duration=52&amp;adaptive=1&amp;dts=0">
+    <Media container="mp4" height="1080" width="1920" audioCodec="aac" duration="52000" videoCodec="h264" bitrate="2500">
+      <Part duration="52000" key="/services/iva/assets/54239/video.mp4?bitrate=2500" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="1080" width="1920" codec="h264" bitrate="2500" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+    <Media container="mp4" height="720" width="1280" audioCodec="aac" duration="52000" videoCodec="h264" bitrate="1500">
+      <Part duration="52000" key="/services/iva/assets/54239/video.mp4?bitrate=1500" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="720" width="1280" codec="h264" bitrate="1500" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+    <Media container="mp4" height="480" width="640" audioCodec="aac" duration="52000" videoCodec="h264" bitrate="450">
+      <Part duration="52000" key="/services/iva/assets/54239/video.mp4?bitrate=450" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="480" width="640" codec="h264" bitrate="450" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+  </Video>
+  <Video url="iva://api.internetvideoarchive.com/2.0/DataService/VideoAssets(726690)?lang=en&amp;bitrates=80,212,450,750,1500,2500,5000,8000&amp;duration=39&amp;adaptive=1&amp;dts=0" key="/system/services/url/lookup?url=iva%3A%2F%2Fapi.internetvideoarchive.com%2F2.0%2FDataService%2FVideoAssets%28726690%29%3Flang%3Den%26bitrates%3D80%2C212%2C450%2C750%2C1500%2C2500%2C5000%2C8000%26duration%3D39%26adaptive%3D1%26dts%3D0" type="clip" relationType="behindTheScenes" year="2018" title="Black Panther: Lupita Nyong'o On Working With Ryan Coogler" originallyAvailableAt="2018-01-30" thumb="https://iva-images.plex.tv/content/hdphotos/11666/011666/011666_1280x720_726690_002.jpg" ratingKey="iva://api.internetvideoarchive.com/2.0/DataService/VideoAssets(726690)?lang=en&amp;bitrates=80,212,450,750,1500,2500,5000,8000&amp;duration=39&amp;adaptive=1&amp;dts=0">
+    <Media container="mp4" height="1080" width="1920" audioCodec="aac" duration="39000" videoCodec="h264" bitrate="2500">
+      <Part duration="39000" key="/services/iva/assets/726690/video.mp4?bitrate=2500" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="1080" width="1920" codec="h264" bitrate="2500" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+    <Media container="mp4" height="720" width="1280" audioCodec="aac" duration="39000" videoCodec="h264" bitrate="1500">
+      <Part duration="39000" key="/services/iva/assets/726690/video.mp4?bitrate=1500" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="720" width="1280" codec="h264" bitrate="1500" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+    <Media container="mp4" height="480" width="640" audioCodec="aac" duration="39000" videoCodec="h264" bitrate="450">
+      <Part duration="39000" key="/services/iva/assets/726690/video.mp4?bitrate=450" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="480" width="640" codec="h264" bitrate="450" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+  </Video>
+  <Video url="iva://api.internetvideoarchive.com/2.0/DataService/VideoAssets(947877)?lang=en&amp;bitrates=80,212,450,750,1500,2500,5000,8000&amp;duration=42&amp;adaptive=1&amp;dts=0" key="/system/services/url/lookup?url=iva%3A%2F%2Fapi.internetvideoarchive.com%2F2.0%2FDataService%2FVideoAssets%28947877%29%3Flang%3Den%26bitrates%3D80%2C212%2C450%2C750%2C1500%2C2500%2C5000%2C8000%26duration%3D42%26adaptive%3D1%26dts%3D0" type="clip" relationType="behindTheScenes" year="2018" title="Black Panther: Letitia Wright On What Appealed To Her About Black Panther" originallyAvailableAt="2018-01-30" thumb="https://iva-images.plex.tv/content/hdphotos/11666/011666/011666_1280x720_947877_065.jpg" ratingKey="iva://api.internetvideoarchive.com/2.0/DataService/VideoAssets(947877)?lang=en&amp;bitrates=80,212,450,750,1500,2500,5000,8000&amp;duration=42&amp;adaptive=1&amp;dts=0">
+    <Media container="mp4" height="1080" width="1920" audioCodec="aac" duration="42000" videoCodec="h264" bitrate="2500">
+      <Part duration="42000" key="/services/iva/assets/947877/video.mp4?bitrate=2500" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="1080" width="1920" codec="h264" bitrate="2500" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+    <Media container="mp4" height="720" width="1280" audioCodec="aac" duration="42000" videoCodec="h264" bitrate="1500">
+      <Part duration="42000" key="/services/iva/assets/947877/video.mp4?bitrate=1500" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="720" width="1280" codec="h264" bitrate="1500" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+    <Media container="mp4" height="480" width="640" audioCodec="aac" duration="42000" videoCodec="h264" bitrate="450">
+      <Part duration="42000" key="/services/iva/assets/947877/video.mp4?bitrate=450" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="480" width="640" codec="h264" bitrate="450" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+  </Video>
+  <Video url="iva://api.internetvideoarchive.com/2.0/DataService/VideoAssets(902012)?lang=en&amp;bitrates=80,212,450,750,1500,2500,5000,8000&amp;duration=98&amp;adaptive=1&amp;dts=0" key="/system/services/url/lookup?url=iva%3A%2F%2Fapi.internetvideoarchive.com%2F2.0%2FDataService%2FVideoAssets%28902012%29%3Flang%3Den%26bitrates%3D80%2C212%2C450%2C750%2C1500%2C2500%2C5000%2C8000%26duration%3D98%26adaptive%3D1%26dts%3D0" type="clip" relationType="behindTheScenes" year="2018" title="Black Panther: Kevin Feige On Creating A Stand Alone Black Panther Film" originallyAvailableAt="2018-01-30" thumb="https://iva-images.plex.tv/content/hdphotos/11666/011666/011666_1280x720_902012_147.jpg" ratingKey="iva://api.internetvideoarchive.com/2.0/DataService/VideoAssets(902012)?lang=en&amp;bitrates=80,212,450,750,1500,2500,5000,8000&amp;duration=98&amp;adaptive=1&amp;dts=0">
+    <Media container="mp4" height="1080" width="1920" audioCodec="aac" duration="98000" videoCodec="h264" bitrate="2500">
+      <Part duration="98000" key="/services/iva/assets/902012/video.mp4?bitrate=2500" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="1080" width="1920" codec="h264" bitrate="2500" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+    <Media container="mp4" height="720" width="1280" audioCodec="aac" duration="98000" videoCodec="h264" bitrate="1500">
+      <Part duration="98000" key="/services/iva/assets/902012/video.mp4?bitrate=1500" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="720" width="1280" codec="h264" bitrate="1500" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+    <Media container="mp4" height="480" width="640" audioCodec="aac" duration="98000" videoCodec="h264" bitrate="450">
+      <Part duration="98000" key="/services/iva/assets/902012/video.mp4?bitrate=450" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="480" width="640" codec="h264" bitrate="450" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+  </Video>
+  <Video url="iva://api.internetvideoarchive.com/2.0/DataService/VideoAssets(909070)?lang=en&amp;bitrates=80,212,450,750,1500,2500,5000,8000&amp;duration=47&amp;adaptive=1&amp;dts=0" key="/system/services/url/lookup?url=iva%3A%2F%2Fapi.internetvideoarchive.com%2F2.0%2FDataService%2FVideoAssets%28909070%29%3Flang%3Den%26bitrates%3D80%2C212%2C450%2C750%2C1500%2C2500%2C5000%2C8000%26duration%3D47%26adaptive%3D1%26dts%3D0" type="clip" relationType="behindTheScenes" year="2018" title="Black Panther: Daniel Kaluuya On What Appealed To Him About Black Panther" originallyAvailableAt="2018-01-30" thumb="https://iva-images.plex.tv/content/hdphotos/11666/011666/011666_1280x720_909070_075.jpg" ratingKey="iva://api.internetvideoarchive.com/2.0/DataService/VideoAssets(909070)?lang=en&amp;bitrates=80,212,450,750,1500,2500,5000,8000&amp;duration=47&amp;adaptive=1&amp;dts=0">
+    <Media container="mp4" height="1080" width="1920" audioCodec="aac" duration="47000" videoCodec="h264" bitrate="2500">
+      <Part duration="47000" key="/services/iva/assets/909070/video.mp4?bitrate=2500" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="1080" width="1920" codec="h264" bitrate="2500" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+    <Media container="mp4" height="720" width="1280" audioCodec="aac" duration="47000" videoCodec="h264" bitrate="1500">
+      <Part duration="47000" key="/services/iva/assets/909070/video.mp4?bitrate=1500" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="720" width="1280" codec="h264" bitrate="1500" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+    <Media container="mp4" height="480" width="640" audioCodec="aac" duration="47000" videoCodec="h264" bitrate="450">
+      <Part duration="47000" key="/services/iva/assets/909070/video.mp4?bitrate=450" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="480" width="640" codec="h264" bitrate="450" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+  </Video>
+  <Video url="iva://api.internetvideoarchive.com/2.0/DataService/VideoAssets(313389)?lang=en&amp;bitrates=80,212,450,750,1500,2500,5000,8000&amp;duration=58&amp;adaptive=1&amp;dts=0" key="/system/services/url/lookup?url=iva%3A%2F%2Fapi.internetvideoarchive.com%2F2.0%2FDataService%2FVideoAssets%28313389%29%3Flang%3Den%26bitrates%3D80%2C212%2C450%2C750%2C1500%2C2500%2C5000%2C8000%26duration%3D58%26adaptive%3D1%26dts%3D0" type="clip" relationType="behindTheScenes" year="2018" title="Black Panther: Danai Gurira On What Appealed To Her About Black Panther" originallyAvailableAt="2018-01-30" thumb="https://iva-images.plex.tv/content/hdphotos/11666/011666/011666_1280x720_313389_009.jpg" ratingKey="iva://api.internetvideoarchive.com/2.0/DataService/VideoAssets(313389)?lang=en&amp;bitrates=80,212,450,750,1500,2500,5000,8000&amp;duration=58&amp;adaptive=1&amp;dts=0">
+    <Media container="mp4" height="1080" width="1920" audioCodec="aac" duration="58000" videoCodec="h264" bitrate="2500">
+      <Part duration="58000" key="/services/iva/assets/313389/video.mp4?bitrate=2500" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="1080" width="1920" codec="h264" bitrate="2500" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+    <Media container="mp4" height="720" width="1280" audioCodec="aac" duration="58000" videoCodec="h264" bitrate="1500">
+      <Part duration="58000" key="/services/iva/assets/313389/video.mp4?bitrate=1500" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="720" width="1280" codec="h264" bitrate="1500" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+    <Media container="mp4" height="480" width="640" audioCodec="aac" duration="58000" videoCodec="h264" bitrate="450">
+      <Part duration="58000" key="/services/iva/assets/313389/video.mp4?bitrate=450" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="480" width="640" codec="h264" bitrate="450" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+  </Video>
+  <Video url="iva://api.internetvideoarchive.com/2.0/DataService/VideoAssets(636790)?lang=en&amp;bitrates=80,212,450,750,1500,2500,5000,8000&amp;duration=48&amp;adaptive=1&amp;dts=0" key="/system/services/url/lookup?url=iva%3A%2F%2Fapi.internetvideoarchive.com%2F2.0%2FDataService%2FVideoAssets%28636790%29%3Flang%3Den%26bitrates%3D80%2C212%2C450%2C750%2C1500%2C2500%2C5000%2C8000%26duration%3D48%26adaptive%3D1%26dts%3D0" type="clip" relationType="behindTheScenes" year="2018" title="Black Panther: Chadwick Boseman On His Reaction To The Script" originallyAvailableAt="2018-01-30" thumb="https://iva-images.plex.tv/content/hdphotos/11666/011666/011666_1280x720_636790_074.jpg" ratingKey="iva://api.internetvideoarchive.com/2.0/DataService/VideoAssets(636790)?lang=en&amp;bitrates=80,212,450,750,1500,2500,5000,8000&amp;duration=48&amp;adaptive=1&amp;dts=0">
+    <Media container="mp4" height="1080" width="1920" audioCodec="aac" duration="48000" videoCodec="h264" bitrate="2500">
+      <Part duration="48000" key="/services/iva/assets/636790/video.mp4?bitrate=2500" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="1080" width="1920" codec="h264" bitrate="2500" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+    <Media container="mp4" height="720" width="1280" audioCodec="aac" duration="48000" videoCodec="h264" bitrate="1500">
+      <Part duration="48000" key="/services/iva/assets/636790/video.mp4?bitrate=1500" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="720" width="1280" codec="h264" bitrate="1500" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+    <Media container="mp4" height="480" width="640" audioCodec="aac" duration="48000" videoCodec="h264" bitrate="450">
+      <Part duration="48000" key="/services/iva/assets/636790/video.mp4?bitrate=450" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="480" width="640" codec="h264" bitrate="450" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+  </Video>
+  <Video url="iva://api.internetvideoarchive.com/2.0/DataService/VideoAssets(705696)?lang=en&amp;bitrates=80,212,450,750,1500,2500,5000,8000&amp;duration=21&amp;adaptive=1&amp;dts=0" key="/system/services/url/lookup?url=iva%3A%2F%2Fapi.internetvideoarchive.com%2F2.0%2FDataService%2FVideoAssets%28705696%29%3Flang%3Den%26bitrates%3D80%2C212%2C450%2C750%2C1500%2C2500%2C5000%2C8000%26duration%3D21%26adaptive%3D1%26dts%3D0" type="clip" relationType="behindTheScenes" year="2018" title="Black Panther: Angela Bassett On What Appealed To Her About Black Panther" originallyAvailableAt="2018-01-30" thumb="https://iva-images.plex.tv/content/hdphotos/11666/011666/011666_1280x720_705696_009.jpg" ratingKey="iva://api.internetvideoarchive.com/2.0/DataService/VideoAssets(705696)?lang=en&amp;bitrates=80,212,450,750,1500,2500,5000,8000&amp;duration=21&amp;adaptive=1&amp;dts=0">
+    <Media container="mp4" height="1080" width="1920" audioCodec="aac" duration="21000" videoCodec="h264" bitrate="2500">
+      <Part duration="21000" key="/services/iva/assets/705696/video.mp4?bitrate=2500" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="1080" width="1920" codec="h264" bitrate="2500" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+    <Media container="mp4" height="720" width="1280" audioCodec="aac" duration="21000" videoCodec="h264" bitrate="1500">
+      <Part duration="21000" key="/services/iva/assets/705696/video.mp4?bitrate=1500" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="720" width="1280" codec="h264" bitrate="1500" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+    <Media container="mp4" height="480" width="640" audioCodec="aac" duration="21000" videoCodec="h264" bitrate="450">
+      <Part duration="21000" key="/services/iva/assets/705696/video.mp4?bitrate=450" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="480" width="640" codec="h264" bitrate="450" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+  </Video>
+  <Video url="iva://api.internetvideoarchive.com/2.0/DataService/VideoAssets(602675)?lang=en&amp;bitrates=80,212,450,750,1500,2500,5000,8000&amp;duration=75&amp;adaptive=1&amp;dts=0" key="/system/services/url/lookup?url=iva%3A%2F%2Fapi.internetvideoarchive.com%2F2.0%2FDataService%2FVideoAssets%28602675%29%3Flang%3Den%26bitrates%3D80%2C212%2C450%2C750%2C1500%2C2500%2C5000%2C8000%26duration%3D75%26adaptive%3D1%26dts%3D0" type="clip" relationType="behindTheScenes" year="2018" title="Black Panther: Wakanda Revealed (Featurette)" originallyAvailableAt="2018-01-22" thumb="https://iva-images.plex.tv/content/hdphotos/11653/011653/011653_1280x720_602675_028.jpg" ratingKey="iva://api.internetvideoarchive.com/2.0/DataService/VideoAssets(602675)?lang=en&amp;bitrates=80,212,450,750,1500,2500,5000,8000&amp;duration=75&amp;adaptive=1&amp;dts=0">
+    <Media container="mp4" height="1080" width="1920" audioCodec="aac" duration="75000" videoCodec="h264" bitrate="2500">
+      <Part duration="75000" key="/services/iva/assets/602675/video.mp4?bitrate=2500" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="1080" width="1920" codec="h264" bitrate="2500" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+    <Media container="mp4" height="720" width="1280" audioCodec="aac" duration="75000" videoCodec="h264" bitrate="1500">
+      <Part duration="75000" key="/services/iva/assets/602675/video.mp4?bitrate=1500" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="720" width="1280" codec="h264" bitrate="1500" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+    <Media container="mp4" height="480" width="640" audioCodec="aac" duration="75000" videoCodec="h264" bitrate="450">
+      <Part duration="75000" key="/services/iva/assets/602675/video.mp4?bitrate=450" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="480" width="640" codec="h264" bitrate="450" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+  </Video>
+  <Video url="iva://api.internetvideoarchive.com/2.0/DataService/VideoAssets(786572)?lang=en&amp;bitrates=80,212,450,750,1500,2500,5000,8000&amp;duration=90&amp;adaptive=1&amp;dts=0" key="/system/services/url/lookup?url=iva%3A%2F%2Fapi.internetvideoarchive.com%2F2.0%2FDataService%2FVideoAssets%28786572%29%3Flang%3Den%26bitrates%3D80%2C212%2C450%2C750%2C1500%2C2500%2C5000%2C8000%26duration%3D90%26adaptive%3D1%26dts%3D0" type="clip" relationType="behindTheScenes" year="2018" title="Black Panther: Warriors Of Wakanda (Featurette)" originallyAvailableAt="2018-01-12" thumb="https://iva-images.plex.tv/content/hdphotos/11639/011639/011639_1280x720_786572_060.jpg" ratingKey="iva://api.internetvideoarchive.com/2.0/DataService/VideoAssets(786572)?lang=en&amp;bitrates=80,212,450,750,1500,2500,5000,8000&amp;duration=90&amp;adaptive=1&amp;dts=0">
+    <Media container="mp4" height="1080" width="1920" audioCodec="aac" duration="90000" videoCodec="h264" bitrate="2500">
+      <Part duration="90000" key="/services/iva/assets/786572/video.mp4?bitrate=2500" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="1080" width="1920" codec="h264" bitrate="2500" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+    <Media container="mp4" height="720" width="1280" audioCodec="aac" duration="90000" videoCodec="h264" bitrate="1500">
+      <Part duration="90000" key="/services/iva/assets/786572/video.mp4?bitrate=1500" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="720" width="1280" codec="h264" bitrate="1500" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+    <Media container="mp4" height="480" width="640" audioCodec="aac" duration="90000" videoCodec="h264" bitrate="450">
+      <Part duration="90000" key="/services/iva/assets/786572/video.mp4?bitrate=450" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="480" width="640" codec="h264" bitrate="450" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+  </Video>
+  <Video url="iva://api.internetvideoarchive.com/2.0/DataService/VideoAssets(148280)?lang=en&amp;bitrates=80,212,450,750,1500,2500,5000,8000&amp;duration=60&amp;adaptive=1&amp;dts=0" key="/system/services/url/lookup?url=iva%3A%2F%2Fapi.internetvideoarchive.com%2F2.0%2FDataService%2FVideoAssets%28148280%29%3Flang%3Den%26bitrates%3D80%2C212%2C450%2C750%2C1500%2C2500%2C5000%2C8000%26duration%3D60%26adaptive%3D1%26dts%3D0" type="clip" relationType="behindTheScenes" year="2018" title="Black Panther: Good To Be King (Featurette)" originallyAvailableAt="2018-01-11" thumb="https://iva-images.plex.tv/content/hdphotos/11637/011637/011637_1280x720_148280_075.jpg" ratingKey="iva://api.internetvideoarchive.com/2.0/DataService/VideoAssets(148280)?lang=en&amp;bitrates=80,212,450,750,1500,2500,5000,8000&amp;duration=60&amp;adaptive=1&amp;dts=0">
+    <Media container="mp4" height="1080" width="1920" audioCodec="aac" duration="60000" videoCodec="h264" bitrate="2500">
+      <Part duration="60000" key="/services/iva/assets/148280/video.mp4?bitrate=2500" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="1080" width="1920" codec="h264" bitrate="2500" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+    <Media container="mp4" height="720" width="1280" audioCodec="aac" duration="60000" videoCodec="h264" bitrate="1500">
+      <Part duration="60000" key="/services/iva/assets/148280/video.mp4?bitrate=1500" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="720" width="1280" codec="h264" bitrate="1500" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+    <Media container="mp4" height="480" width="640" audioCodec="aac" duration="60000" videoCodec="h264" bitrate="450">
+      <Part duration="60000" key="/services/iva/assets/148280/video.mp4?bitrate=450" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="480" width="640" codec="h264" bitrate="450" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+  </Video>
+  <Video url="iva://api.internetvideoarchive.com/2.0/DataService/VideoAssets(317330)?lang=en&amp;bitrates=80,212,450,750,1500,2500,5000,8000&amp;duration=90&amp;adaptive=1&amp;dts=0" key="/system/services/url/lookup?url=iva%3A%2F%2Fapi.internetvideoarchive.com%2F2.0%2FDataService%2FVideoAssets%28317330%29%3Flang%3Den%26bitrates%3D80%2C212%2C450%2C750%2C1500%2C2500%2C5000%2C8000%26duration%3D90%26adaptive%3D1%26dts%3D0" type="clip" relationType="behindTheScenes" year="2018" title="Black Panther: From Page To Screen (Featurette)" originallyAvailableAt="2018-01-08" thumb="https://iva-images.plex.tv/content/hdphotos/11632/011632/011632_1280x720_317330_104.jpg" ratingKey="iva://api.internetvideoarchive.com/2.0/DataService/VideoAssets(317330)?lang=en&amp;bitrates=80,212,450,750,1500,2500,5000,8000&amp;duration=90&amp;adaptive=1&amp;dts=0">
+    <Media container="mp4" height="1080" width="1920" audioCodec="aac" duration="90000" videoCodec="h264" bitrate="2500">
+      <Part duration="90000" key="/services/iva/assets/317330/video.mp4?bitrate=2500" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="1080" width="1920" codec="h264" bitrate="2500" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+    <Media container="mp4" height="720" width="1280" audioCodec="aac" duration="90000" videoCodec="h264" bitrate="1500">
+      <Part duration="90000" key="/services/iva/assets/317330/video.mp4?bitrate=1500" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="720" width="1280" codec="h264" bitrate="1500" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+    <Media container="mp4" height="480" width="640" audioCodec="aac" duration="90000" videoCodec="h264" bitrate="450">
+      <Part duration="90000" key="/services/iva/assets/317330/video.mp4?bitrate=450" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="480" width="640" codec="h264" bitrate="450" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+  </Video>
+</MediaContainer>

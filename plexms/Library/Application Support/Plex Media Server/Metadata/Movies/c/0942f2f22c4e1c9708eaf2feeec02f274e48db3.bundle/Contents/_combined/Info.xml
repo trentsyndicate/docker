@@ -1,0 +1,428 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Movie>
+  <art>
+    <item external="True" url="http://image.tmdb.org/t/p/original/mtBguy4PRzFZ0xQC6VoYz7Knmef.jpg" sort_order="1" provider="com.plexapp.agents.imdb" media="com.plexapp.agents.imdb_4d54ad4c5c6bfc0a2fd0b75449cf8f4d51fd49c2"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/zm2Mj5IqwpgreRfM7ksHenOeRgu.jpg" preview="com.plexapp.agents.imdb_772c4ef18cd0a4277a038483f9b599a82c84177e" sort_order="2" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/e92HoC87QmUHn1kZ27Cys3xM4Ep.jpg" preview="com.plexapp.agents.imdb_037f157cb1811d5d1e3c6477265d5b757754151b" sort_order="3" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/82BZwAvYTK9pJL4fYmDlNQWu7QX.jpg" preview="com.plexapp.agents.imdb_4e0512a60b80083cb1d225e48710ffa10dc54f00" sort_order="4" provider="com.plexapp.agents.imdb"/>
+  </art>
+  <banners/>
+  <chapters>
+    <item index="0">
+      <title>Chapter 1</title>
+      <end_time_offset>328000</end_time_offset>
+      <start_time_offset>0</start_time_offset>
+    </item>
+    <item index="1">
+      <title>Chapter 2</title>
+      <end_time_offset>607000</end_time_offset>
+      <start_time_offset>328000</start_time_offset>
+    </item>
+    <item index="2">
+      <title>Chapter 3</title>
+      <end_time_offset>873000</end_time_offset>
+      <start_time_offset>607000</start_time_offset>
+    </item>
+    <item index="3">
+      <title>Chapter 4</title>
+      <end_time_offset>1233000</end_time_offset>
+      <start_time_offset>873000</start_time_offset>
+    </item>
+    <item index="4">
+      <title>Chapter 5</title>
+      <end_time_offset>1426000</end_time_offset>
+      <start_time_offset>1233000</start_time_offset>
+    </item>
+    <item index="5">
+      <title>Chapter 6</title>
+      <end_time_offset>1671000</end_time_offset>
+      <start_time_offset>1426000</start_time_offset>
+    </item>
+    <item index="6">
+      <title>Chapter 7</title>
+      <end_time_offset>1835000</end_time_offset>
+      <start_time_offset>1671000</start_time_offset>
+    </item>
+    <item index="7">
+      <title>Chapter 8</title>
+      <end_time_offset>2086000</end_time_offset>
+      <start_time_offset>1835000</start_time_offset>
+    </item>
+    <item index="8">
+      <title>Chapter 9</title>
+      <end_time_offset>2416000</end_time_offset>
+      <start_time_offset>2086000</start_time_offset>
+    </item>
+    <item index="9">
+      <title>Chapter 10</title>
+      <end_time_offset>2614000</end_time_offset>
+      <start_time_offset>2416000</start_time_offset>
+    </item>
+    <item index="10">
+      <title>Chapter 11</title>
+      <end_time_offset>2907000</end_time_offset>
+      <start_time_offset>2614000</start_time_offset>
+    </item>
+    <item index="11">
+      <title>Chapter 12</title>
+      <end_time_offset>3173000</end_time_offset>
+      <start_time_offset>2907000</start_time_offset>
+    </item>
+    <item index="12">
+      <title>Chapter 13</title>
+      <end_time_offset>3394000</end_time_offset>
+      <start_time_offset>3173000</start_time_offset>
+    </item>
+    <item index="13">
+      <title>Chapter 14</title>
+      <end_time_offset>3640000</end_time_offset>
+      <start_time_offset>3394000</start_time_offset>
+    </item>
+    <item index="14">
+      <title>Chapter 15</title>
+      <end_time_offset>3907000</end_time_offset>
+      <start_time_offset>3640000</start_time_offset>
+    </item>
+    <item index="15">
+      <title>Chapter 16</title>
+      <end_time_offset>4141000</end_time_offset>
+      <start_time_offset>3907000</start_time_offset>
+    </item>
+    <item index="16">
+      <title>Chapter 17</title>
+      <end_time_offset>4533000</end_time_offset>
+      <start_time_offset>4141000</start_time_offset>
+    </item>
+    <item index="17">
+      <title>Chapter 18</title>
+      <end_time_offset>4786000</end_time_offset>
+      <start_time_offset>4533000</start_time_offset>
+    </item>
+    <item index="18">
+      <title>Chapter 19</title>
+      <end_time_offset>5026000</end_time_offset>
+      <start_time_offset>4786000</start_time_offset>
+    </item>
+    <item index="19">
+      <title>Chapter 20</title>
+      <end_time_offset>-1</end_time_offset>
+      <start_time_offset>5026000</start_time_offset>
+    </item>
+  </chapters>
+  <collections/>
+  <content_rating>R</content_rating>
+  <countries>
+    <item index="0">USA</item>
+  </countries>
+  <directors>
+    <item index="0">
+      <photo>http://image.tmdb.org/t/p/original/5CKKBhuScdsHs2KPBBx5pveMOQQ.jpg</photo>
+      <role/>
+      <name>Jon Watts</name>
+    </item>
+  </directors>
+  <duration>5280000</duration>
+  <genres>
+    <item index="0">Crime</item>
+    <item index="1">Thriller</item>
+  </genres>
+  <originally_available_at>2015-08-07</originally_available_at>
+  <posters>
+    <item external="True" url="http://image.tmdb.org/t/p/original/6LTj0CJhpOFISrpHJQD0aUILnFS.jpg" sort_order="1" provider="com.plexapp.agents.imdb" media="com.plexapp.agents.imdb_5efeaab521888c1f4b36a48fc10b877051fd3d68"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/n73ACJQrltytpkZXjua0qIJPaLX.jpg" preview="com.plexapp.agents.imdb_efcae1cef687428351279ad88fc8d9236bda03a8" sort_order="2" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/o1JBr2htdBNyEKeIwGGr8Bwh1Bn.jpg" preview="com.plexapp.agents.imdb_72db36cdd37a29db229ce9af49041ee6a30bf654" sort_order="3" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/8CXO25V7O6pP5WQ3K5UmgdWngUp.jpg" preview="com.plexapp.agents.imdb_4ab6d46f2f06e6f2082e25be117561ae0b3be054" sort_order="4" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/jc5AeIUQheaxewmcPu5VrwBNZXD.jpg" preview="com.plexapp.agents.imdb_ab2a995e81d90cd52ebe588b1b961737290e572b" sort_order="5" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/2hEDiNX5jMjYKGq8xKd6MtcQ2Pw.jpg" preview="com.plexapp.agents.imdb_9a1e681e6100764e34a2df14985bf1a27fa828b6" sort_order="6" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/bheflaUxVtYMXsiwAi3CGv4AD0p.jpg" preview="com.plexapp.agents.imdb_1c3392b987d5d2819231ead54a0d86f94010c02f" sort_order="7" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/uZ2UIZL8aMrwXukUPgoTchjII5q.jpg" preview="com.plexapp.agents.imdb_ca7456e81d65faea56dcb108b0a746bd17b342f8" sort_order="8" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/gGHeWjbKjXWCH4lHMgilzQvfV9A.jpg" preview="com.plexapp.agents.imdb_3241adc84d6c6c7addd297604c8e618872d8ff05" sort_order="9" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/6XF219tnyh2UEGN7yFJxoRcZgx5.jpg" preview="com.plexapp.agents.imdb_8c13f605a1058e0985ffca930dfaa8b6b91ab4fc" sort_order="10" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/r7lH4ue4taa82Cnu0nzGQ0fkKSu.jpg" preview="com.plexapp.agents.imdb_33810108d8b9d88a3d81e0e898f61a98631cdf3e" sort_order="11" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/sRQssYKf7lksYYRllFxTxybsK5N.jpg" preview="com.plexapp.agents.imdb_3d00d6b131979ecb2039f6c0990ae4d7e4d0d80b" sort_order="12" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/yZjtbEcTBhOpU1dE8iVgLyKekmr.jpg" preview="com.plexapp.agents.imdb_a5822795bbfd69e646970827dd8d575a27886c09" sort_order="13" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/ldvpua7s3gReIG6FwkEup7GVtpT.jpg" preview="com.plexapp.agents.imdb_c0049d0e12a48f0bbaeec9a8e7a3664d03ae23ea" sort_order="14" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/ky6yCUnEoUJ6HaJyOOhICY9fGnN.jpg" preview="com.plexapp.agents.imdb_d7171774f68bd4c266ebb7a472116545b5b24e8a" sort_order="15" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/55ZsE6rbKyzyVJ6RSYd1JXoWNax.jpg" preview="com.plexapp.agents.imdb_40ce39a5b6efd90d0380ecaa6a2113c349763e30" sort_order="16" provider="com.plexapp.agents.imdb"/>
+  </posters>
+  <producers>
+    <item index="0">
+      <photo>http://image.tmdb.org/t/p/original/3tVRIRrhk1ACGWHxawksJmuwudJ.jpg</photo>
+      <role/>
+      <name>Alicia Van Couvering</name>
+    </item>
+    <item index="1">
+      <photo/>
+      <role/>
+      <name>Cody Ryder</name>
+    </item>
+    <item index="2">
+      <photo>http://image.tmdb.org/t/p/original/5CKKBhuScdsHs2KPBBx5pveMOQQ.jpg</photo>
+      <role/>
+      <name>Jon Watts</name>
+    </item>
+    <item index="3">
+      <photo/>
+      <role/>
+      <name>Andrew Kortschak</name>
+    </item>
+    <item index="4">
+      <photo/>
+      <role/>
+      <name>Sam Bisbee</name>
+    </item>
+  </producers>
+  <rating>8.0</rating>
+  <rating_image>rottentomatoes://image.rating.ripe</rating_image>
+  <audience_rating>5.2</audience_rating>
+  <audience_rating_image>rottentomatoes://image.rating.spilled</audience_rating_image>
+  <reviews>
+    <item index="0">
+      <text>[Cop Car] doesn't offer much in the way of substantial character development, but that's not a deterrent when the fun twists keep coming.</text>
+      <source>indieWire</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>http://www.indiewire.com/2015/01/sundance-review-kevin-bacon-takes-on-troublemaking-kids-in-entertaining-cop-car-65612/</link>
+      <author>Ibad Shah</author>
+    </item>
+    <item index="1">
+      <text>Watts walks us innocents out into the landscape where Hollywood has made its greatest myths and then removes the blindfold.</text>
+      <source>Globe and Mail</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>http://www.theglobeandmail.com/arts/film/film-reviews/cop-car-joy-ride-takes-a-dark-turn-in-jon-wattss-sensational-thriller/article26134427/</link>
+      <author>Kate Taylor</author>
+    </item>
+    <item index="2">
+      <text>Anchored by solid performances and a taut script, Cop Car is a tension-filled thrill ride.</text>
+      <source>Toronto Star</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>http://www.thestar.com/entertainment/movies/2015/08/27/reel-brief-mini-reviews-of-backcountry-turbo-kid-court-cop-car-learning-to-drive.html</link>
+      <author>Bruce Demara</author>
+    </item>
+    <item index="3">
+      <text>Despite the occasional pothole, Cop Car is an arresting ride.</text>
+      <source>Toronto Sun</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>http://www.torontosun.com/2015/08/27/cop-car-review-kevin-bacon-movie-a-wild-ride</link>
+      <author>Steve Tilley</author>
+    </item>
+    <item index="4">
+      <text>"Cop Car" has two kids at its center, but don't mistake this taut, wicked little thriller for a children's film.</text>
+      <source>Seattle Times</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>http://www.seattletimes.com/entertainment/movies/cop-car-a-wicked-thriller-with-kevin-bacon-in-the-drivers-seat/</link>
+      <author>Moira MacDonald</author>
+    </item>
+    <item index="5">
+      <text>With his sense of black humor and with a coldly calculating view of a world determined by intransigent laws of physics, Watts recalls the Coen brothers of "Blood Simple."</text>
+      <source>Boston Globe</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>http://www.bostonglobe.com/arts/movies/2015/08/13/couple-kids-tangle-with-kevin-bacon-cop-car/7g7cVQJZh2IFGl8SDI9HQL/story.html</link>
+      <author>Peter Keough</author>
+    </item>
+    <item index="6">
+      <text>Bacon can play just about anything, and he's having a good time here as a guy not quite smart enough to keep himself out of trouble, but wily enough to try to dig himself out of it. It's fun to watch.</text>
+      <source>Arizona Republic</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>http://www.azcentral.com/story/entertainment/movies/2015/08/13/review-cop-car-movie-kevn-bacon/31483649/</link>
+      <author>Bill Goodykoontz</author>
+    </item>
+    <item index="7">
+      <text>"Cop Car" builds up a nice, suspenseful head of steam, mixing dark comedy and true creepiness in such a way that one mood never overwhelms the other.</text>
+      <source>Washington Post</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>http://www.washingtonpost.com/goingoutguide/movies/review-cop-car-takes-viewers-on-a-suspenseful-ride-into-genre-territory/2015/08/12/565b1032-3f9f-11e5-bfe3-ff1d8549bfd2_story.html</link>
+      <author>Michael O'Sullivan</author>
+    </item>
+    <item index="8">
+      <text>There's something mythic about the story unfolding before us, but the film avoids self-importance.</text>
+      <source>New York Magazine/Vulture</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>http://www.vulture.com/2015/08/kevin-bacon-is-terminator-and-clown-in-cop-car.html</link>
+      <author>Bilge Ebiri</author>
+    </item>
+    <item index="9">
+      <text>The plot description is a good old-fashioned okey-doke, a distraction that lulls you with its absurdity so you'll be blindsided by the lean, suspenseful and effective movie director Jon Watts delivers.</text>
+      <source>RogerEbert.com</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>http://www.rogerebert.com/reviews/cop-car-2015</link>
+      <author>Odie Henderson</author>
+    </item>
+    <item index="10">
+      <text>There's no denying Watts' skill at a certain kind of desolate cat and mouse, but it's in the service of what is ultimately a somewhat heartless exercise.</text>
+      <source>Los Angeles Times</source>
+      <image>rottentomatoes://image.review.rotten</image>
+      <link>http://www.latimes.com/entertainment/movies/la-et-mn-cop-car-movie-review-20150807-story.html</link>
+      <author>Robert Abele</author>
+    </item>
+    <item index="11">
+      <text>Cop Car feels like a great short stretched into a mediocre feature.</text>
+      <source>Entertainment Weekly</source>
+      <image>rottentomatoes://image.review.rotten</image>
+      <link>http://www.ew.com/article/2015/08/06/cop-car-ew-review</link>
+      <author>Chris Nashawaty</author>
+    </item>
+    <item index="12">
+      <text>Part of what makes "Cop Car" such easy viewing is that it doesn't ask much of you narratively or ethically.</text>
+      <source>New York Times</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>http://www.nytimes.com/2015/08/07/movies/review-in-cop-car-a-joyride-by-2-runaway-boys-takes-a-wrong-turn.html?partner=rss&amp;emc=rss</link>
+      <author>Manohla Dargis</author>
+    </item>
+    <item index="13">
+      <text>Watts demonstrates a sadistic patience that's refreshing, especially compared to the usual blockbuster breathlessness.</text>
+      <source>AV Club</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>http://www.avclub.com/review/kevin-bacon-wants-his-stolen-cop-car-back-nasty-in-223322</link>
+      <author>Mike D'Angelo</author>
+    </item>
+    <item index="14">
+      <text>Scenes that should take 30 seconds take three minutes. Writer-director Jon Watts does successfully channel childhood, though: He's like a kid short of ideas who triple-spaces his book report.</text>
+      <source>New York Post</source>
+      <image>rottentomatoes://image.review.rotten</image>
+      <link>http://nypost.com/2015/08/05/kevin-bacons-cop-car-deserves-a-ticket-for-terrible/</link>
+      <author>Kyle Smith</author>
+    </item>
+    <item index="15">
+      <text>Despite the real, bloody stakes, "Cop Car" keeps a boyish sense of action and adventure through to a twist ending. You have a right to remain thrilled.</text>
+      <source>New York Daily News</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>http://www.nydailynews.com/entertainment/movies/kevin-bacon-car-shines-dirty-sheriff-article-1.2315482</link>
+      <author>Jordan Hoffman</author>
+    </item>
+    <item index="16">
+      <text>The film soars early as a fantasy steeped in life and crashes into a drag of a crime drama, one ripped from the movies rather than anyone's idea of small-town Colorado.</text>
+      <source>Village Voice</source>
+      <image>rottentomatoes://image.review.rotten</image>
+      <link>http://www.villagevoice.com/film/a-promising-lemon-cop-car-starts-well-but-doesn-t-get-anywhere-7437409</link>
+      <author>Alan Scherstuhl</author>
+    </item>
+  </reviews>
+  <roles>
+    <item index="0">
+      <photo>http://image.tmdb.org/t/p/original/rjX2Oz3tCZMfSwOoIAyEhdtXnTE.jpg</photo>
+      <role>Sheriff Kretzer</role>
+      <name>Kevin Bacon</name>
+    </item>
+    <item index="1">
+      <photo>http://image.tmdb.org/t/p/original/5A3IAxyB2T2zBzM20PH0iVVDMXE.jpg</photo>
+      <role>Travis</role>
+      <name>James Freedson-Jackson</name>
+    </item>
+    <item index="2">
+      <photo>http://image.tmdb.org/t/p/original/bnHJ0V7TeOl9zyhSnXgNp8b9pfs.jpg</photo>
+      <role>Harrison</role>
+      <name>Hays Wellford</name>
+    </item>
+    <item index="3">
+      <photo>http://image.tmdb.org/t/p/original/baUSk3l2bcmxGvIpifFAyHq2v28.jpg</photo>
+      <role>Bev</role>
+      <name>Camryn Manheim</name>
+    </item>
+    <item index="4">
+      <photo>http://image.tmdb.org/t/p/original/xlLI0hrutcyKOIHs4b47iSh65NU.jpg</photo>
+      <role>Man</role>
+      <name>Shea Whigham</name>
+    </item>
+    <item index="5">
+      <photo/>
+      <role>Motorcycle Cop</role>
+      <name>Sean Hartley</name>
+    </item>
+    <item index="6">
+      <photo>http://image.tmdb.org/t/p/original/udLKlspMdXSC9LMdhygL5rcJ4XI.jpg</photo>
+      <role>Dispatch</role>
+      <name>Kyra Sedgwick</name>
+    </item>
+    <item index="7">
+      <photo/>
+      <role>Waiter</role>
+      <name>Loi Nguyen</name>
+    </item>
+    <item index="8">
+      <photo/>
+      <role>Hostess</role>
+      <name>Sit Lenh</name>
+    </item>
+    <item index="9">
+      <photo/>
+      <role>Officer</role>
+      <name>Chuck Kull</name>
+    </item>
+    <item index="10">
+      <photo/>
+      <role>Officer</role>
+      <name>Thomas Coates</name>
+    </item>
+    <item index="11">
+      <photo/>
+      <role>Trailer Park Lady</role>
+      <name>Kathleen Bentley</name>
+    </item>
+    <item index="12">
+      <photo/>
+      <role>Guy in Trailer Park</role>
+      <name>Justin Barr</name>
+    </item>
+    <item index="13">
+      <photo/>
+      <role>Drunk at Intersection</role>
+      <name>Adam Barr</name>
+    </item>
+    <item index="14">
+      <photo/>
+      <role>Dog</role>
+      <name>Lily Heber</name>
+    </item>
+    <item index="15">
+      <photo/>
+      <role>Dog</role>
+      <name>Cooter Heber</name>
+    </item>
+    <item index="16">
+      <photo/>
+      <role/>
+      <name>Bluebell</name>
+    </item>
+  </roles>
+  <similar>
+    <item index="0">Cold in July</item>
+    <item index="1">The Rover</item>
+    <item index="2">The Guest</item>
+    <item index="3">Bone Tomahawk</item>
+    <item index="4">Good Kill</item>
+    <item index="5">Slow West</item>
+    <item index="6">Backcountry</item>
+    <item index="7">Killer Joe</item>
+    <item index="8">Stretch</item>
+    <item index="9">Dying of the Light</item>
+    <item index="10">Transsiberian</item>
+    <item index="11">Zipper</item>
+    <item index="12">Joe</item>
+    <item index="13">Infini</item>
+    <item index="14">The Woodsman</item>
+    <item index="15">Kill the Messenger</item>
+    <item index="16">Mississippi Grind</item>
+    <item index="17">Extraterrestrial</item>
+    <item index="18">Transit</item>
+    <item index="19">The Last Days on Mars</item>
+  </similar>
+  <studio>Park Pictures</studio>
+  <summary>Two kids find themselves in the centre of a deadly game of cat and mouse after taking a sheriff's cruiser for a joy ride.</summary>
+  <tagline>Their first drive could be their last.</tagline>
+  <tags/>
+  <themes/>
+  <title>Cop Car</title>
+  <writers>
+    <item index="0">
+      <photo>http://image.tmdb.org/t/p/original/5CKKBhuScdsHs2KPBBx5pveMOQQ.jpg</photo>
+      <role/>
+      <name>Jon Watts</name>
+    </item>
+    <item index="1">
+      <photo/>
+      <role/>
+      <name>Christopher D. Ford</name>
+    </item>
+  </writers>
+  <year>2015</year>
+</Movie>

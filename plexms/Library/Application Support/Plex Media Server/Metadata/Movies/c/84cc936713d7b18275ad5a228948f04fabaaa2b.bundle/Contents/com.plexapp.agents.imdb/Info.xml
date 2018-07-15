@@ -1,0 +1,541 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Movie id="tt3300542">
+  <rating>2.5</rating>
+  <title_sort/>
+  <art>
+    <item external="True" url="http://image.tmdb.org/t/p/original/nLB6GrMc80ERdUuiInht2kGCZYX.jpg" preview="bd360bc32cb37a9ca61b24505f6143627cbfc9bc" sort_order="1"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/tPAV8vSLIlEDHDPWg7jicNR2qsk.jpg" preview="d25ffa4341a7fe05f37c691d993f7fd44655ec58" sort_order="2"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/3JSakCxcM7mPDhLXCPH7jnwwbXy.jpg" preview="af3b44becacb74205cd6bae66f90afd952258fac" sort_order="3"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/qh3huQzcRUXZZihUE0cV6kW0SuE.jpg" preview="ba14333d1d357ea08c4ca216ae389151f36890a0" sort_order="4"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/9VJzgg4xXHEA8xlqQpHSrijFfCC.jpg" preview="7d373210c50e5af50909e5068327a00a7f980574" sort_order="5"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/pcIuA8bDvhrrVU6msHAHNxOsvq7.jpg" preview="d7bdd8911073664f49fd6cd93c11d2248efe38db" sort_order="6"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/32Z7LL3EJtfL8MWf0hHVrhFK1QJ.jpg" preview="dbf207e52fd6bd8eab91af11733768ad604dbb90" sort_order="7"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/gDezOsN52aEHNTgBr4DeKF5vkT2.jpg" preview="9bb6407f5fb801a86ae9b0e17995cebfd6cf5236" sort_order="8"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/sIyxPbPIQGkiiJohm0KnqAJEtnO.jpg" preview="4d462e63063e863c4eeac344712c707b49336647" sort_order="9"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/8zaRahCVUZknvIY0vqbtObVM8SJ.jpg" preview="0d0471b12cd26d79f266f53e5eab1881865db421" sort_order="10"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/lVMFM1hhj5s0oYFQXlcJAFAzlkQ.jpg" preview="e347c667452139ae8fc8e3002f5df8e78a7d0014" sort_order="11"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/bbqXvMblqSc2cNXs82iiyLoJ0iz.jpg" preview="a0c7e58a07e82d88d4b7e756699b2e7879531c77" sort_order="12"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/2YToCcIkkwbJxtAOVK530nhHcPT.jpg" preview="b2fc69de2c49bcdd0bd093d9c2c7e1ec8e441bcc" sort_order="13"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/jYPr9IpwuIK6UXwIFlezm0oS1tT.jpg" preview="d56cd44029e5725476255c4158ac27489e2a5718" sort_order="14"/>
+  </art>
+  <writers>
+    <item index="0">
+      <photo/>
+      <role/>
+      <name>Creighton Rothenberger</name>
+    </item>
+    <item index="1">
+      <photo/>
+      <role/>
+      <name>Katrin Benedikt</name>
+    </item>
+    <item index="2">
+      <photo>http://image.tmdb.org/t/p/original/36PHfwA6XsnAVrJ6aXC1xDEipVE.jpg</photo>
+      <role/>
+      <name>Christian Gudegast</name>
+    </item>
+    <item index="3">
+      <photo/>
+      <role/>
+      <name>Chad St. John</name>
+    </item>
+  </writers>
+  <chapters>
+    <item index="0">
+      <title>Chapter 1</title>
+      <end_time_offset>98000</end_time_offset>
+      <start_time_offset>0</start_time_offset>
+    </item>
+    <item index="1">
+      <title>Chapter 2</title>
+      <end_time_offset>423000</end_time_offset>
+      <start_time_offset>98000</start_time_offset>
+    </item>
+    <item index="2">
+      <title>Chapter 3</title>
+      <end_time_offset>686000</end_time_offset>
+      <start_time_offset>423000</start_time_offset>
+    </item>
+    <item index="3">
+      <title>Chapter 4</title>
+      <end_time_offset>1097000</end_time_offset>
+      <start_time_offset>686000</start_time_offset>
+    </item>
+    <item index="4">
+      <title>Chapter 5</title>
+      <end_time_offset>1380000</end_time_offset>
+      <start_time_offset>1097000</start_time_offset>
+    </item>
+    <item index="5">
+      <title>Chapter 6</title>
+      <end_time_offset>1697000</end_time_offset>
+      <start_time_offset>1380000</start_time_offset>
+    </item>
+    <item index="6">
+      <title>Chapter 7</title>
+      <end_time_offset>2046000</end_time_offset>
+      <start_time_offset>1697000</start_time_offset>
+    </item>
+    <item index="7">
+      <title>Chapter 8</title>
+      <end_time_offset>2350000</end_time_offset>
+      <start_time_offset>2046000</start_time_offset>
+    </item>
+    <item index="8">
+      <title>Chapter 9</title>
+      <end_time_offset>2751000</end_time_offset>
+      <start_time_offset>2350000</start_time_offset>
+    </item>
+    <item index="9">
+      <title>Chapter 10</title>
+      <end_time_offset>3072000</end_time_offset>
+      <start_time_offset>2751000</start_time_offset>
+    </item>
+    <item index="10">
+      <title>Chapter 11</title>
+      <end_time_offset>3410000</end_time_offset>
+      <start_time_offset>3072000</start_time_offset>
+    </item>
+    <item index="11">
+      <title>Chapter 12</title>
+      <end_time_offset>3797000</end_time_offset>
+      <start_time_offset>3410000</start_time_offset>
+    </item>
+    <item index="12">
+      <title>Chapter 13</title>
+      <end_time_offset>4057000</end_time_offset>
+      <start_time_offset>3797000</start_time_offset>
+    </item>
+    <item index="13">
+      <title>Chapter 14</title>
+      <end_time_offset>4422000</end_time_offset>
+      <start_time_offset>4057000</start_time_offset>
+    </item>
+    <item index="14">
+      <title>Chapter 15</title>
+      <end_time_offset>4701000</end_time_offset>
+      <start_time_offset>4422000</start_time_offset>
+    </item>
+    <item index="15">
+      <title>Chapter 16</title>
+      <end_time_offset>4831000</end_time_offset>
+      <start_time_offset>4701000</start_time_offset>
+    </item>
+    <item index="16">
+      <title>Chapter 17</title>
+      <end_time_offset>5127000</end_time_offset>
+      <start_time_offset>4831000</start_time_offset>
+    </item>
+    <item index="17">
+      <title>Chapter 18</title>
+      <end_time_offset>5499000</end_time_offset>
+      <start_time_offset>5127000</start_time_offset>
+    </item>
+    <item index="18">
+      <title>Chapter 19</title>
+      <end_time_offset>5757000</end_time_offset>
+      <start_time_offset>5499000</start_time_offset>
+    </item>
+    <item index="19">
+      <title>Chapter 20</title>
+      <end_time_offset>-1</end_time_offset>
+      <start_time_offset>5757000</start_time_offset>
+    </item>
+  </chapters>
+  <themes/>
+  <quotes/>
+  <year>2016</year>
+  <duration>5940000</duration>
+  <genres>
+    <item index="0">Action</item>
+    <item index="1">Thriller</item>
+  </genres>
+  <title>London Has Fallen</title>
+  <tagline>The world's leaders have assembled. So have their enemies.</tagline>
+  <content_rating_age/>
+  <rating_count/>
+  <collections/>
+  <trivia/>
+  <tags/>
+  <audience_rating_image>rottentomatoes://image.rating.spilled</audience_rating_image>
+  <rating_image>rottentomatoes://image.rating.rotten</rating_image>
+  <producers>
+    <item index="0">
+      <photo>http://image.tmdb.org/t/p/original/i54XoxYieuff2w6MwyfwVUBvmR0.jpg</photo>
+      <role/>
+      <name>Gerard Butler</name>
+    </item>
+    <item index="1">
+      <photo/>
+      <role/>
+      <name>Mark Gill</name>
+    </item>
+    <item index="2">
+      <photo/>
+      <role/>
+      <name>Matthew O'Toole</name>
+    </item>
+    <item index="3">
+      <photo/>
+      <role/>
+      <name>Alan Siegel</name>
+    </item>
+    <item index="4">
+      <photo/>
+      <role/>
+      <name>John Thompson</name>
+    </item>
+    <item index="5">
+      <photo/>
+      <role/>
+      <name>Les Weldon</name>
+    </item>
+  </producers>
+  <audience_rating>5.1</audience_rating>
+  <studio>Millennium Films</studio>
+  <posters>
+    <item external="True" url="http://image.tmdb.org/t/p/original/9j2AmDhZvdwMyYKpqe4CtBkN1Tw.jpg" preview="b75ee6abfd88ab1c1788bdb6820a49c66d9be5aa" sort_order="1"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/hSne6Iwn41mL0Q5CroTYCM9lQEG.jpg" preview="493faa4994b07a8494cedb9ef5b8fd15ac5c6729" sort_order="2"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/dT2ckqPYnro521KCv7Xfn5FfOvI.jpg" preview="59cbe9c2fbba639258d3c8469c9f9e7097dafcec" sort_order="3"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/E67Y687gfMFuWP4Wsqmiy7eQEh.jpg" preview="a5ac28e74d927dc6b4d6647b83ed7a63f231b519" sort_order="4"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/lLwFZy0X2pSN8CfSbQiCJiLYzbd.jpg" preview="0920822b54e54c945c760f21a9cc5d1bd0aabdce" sort_order="5"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/fCNswVV8sR93L5WWxlgY9dpF8nm.jpg" preview="487fad98e7bc83f8dfef59ce334a9f0021e402eb" sort_order="6"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/FvL652As7JG3Y4fBIggSpeFGe2.jpg" preview="3871831969050d1d7a3aaa909c7796331144bf37" sort_order="7"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/4bveEn38MmTQY3beFSgWbpWp1Eh.jpg" preview="24fee2255da43bc18a14535b59339baa9f7f21ae" sort_order="8"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/pKVPZKnygvKLwAyrGDUMA0ejEpY.jpg" preview="15b5250dec4c7e23d59620cf2369793a194063b4" sort_order="9"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/4OVSWcCsVxtbBGtWN9boZIyscK1.jpg" preview="11e6ecce207ab0a663d7a30c59a624e69a8ae7d1" sort_order="10"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/ylvbSJ9HgMzhKK2WDfvuUrKBFaD.jpg" preview="e9dc36021af618c8db91052c4454e2e8884b0f22" sort_order="11"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/zbszjmtTLOyDTXhknHt6ANZgXOv.jpg" preview="7153d7310d2b6dab3333412e68547152d3cfb8c8" sort_order="12"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/698pNbIAaz1njQl0vsDKOBNpBAV.jpg" preview="b744929af9f7ea02eb633d01b53cd691f3b70ec1" sort_order="13"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/nfvVoblnKWJQZNMWq5h7Ofh735R.jpg" preview="fef5efd0b0aa804b6a2a9069dae111114485f5b7" sort_order="14"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/oqqjJc7PQTIWRpTGnbaJGagIiS6.jpg" preview="843e299db56b984175490c080c68d5ae876e1479" sort_order="15"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/cpVzQyZOPV8iMoiGJzSmxs0i1nm.jpg" preview="11d7867cb2b068b4010ffc2371a7ee44edb1f6ce" sort_order="16"/>
+  </posters>
+  <originally_available_at>2016-03-02</originally_available_at>
+  <roles>
+    <item index="0">
+      <photo>http://image.tmdb.org/t/p/original/i54XoxYieuff2w6MwyfwVUBvmR0.jpg</photo>
+      <role>Mike Banning</role>
+      <name>Gerard Butler</name>
+    </item>
+    <item index="1">
+      <photo>http://image.tmdb.org/t/p/original/aRSofX2rMpOhPanB9Wh7veYmFn4.jpg</photo>
+      <role>President Benjamin Asher</role>
+      <name>Aaron Eckhart</name>
+    </item>
+    <item index="2">
+      <photo>http://image.tmdb.org/t/p/original/oGJQhOpT8S1M56tvSsbEBePV5O1.jpg</photo>
+      <role>Vice President Alan Trumbull</role>
+      <name>Morgan Freeman</name>
+    </item>
+    <item index="3">
+      <photo>http://image.tmdb.org/t/p/original/qvIFNQLWzWyqjykiU0ONQ7u6Ihz.jpg</photo>
+      <role>Lynne Jacobs</role>
+      <name>Angela Bassett</name>
+    </item>
+    <item index="4">
+      <photo>http://image.tmdb.org/t/p/original/fcDdsUAyp7DZEi4UEzGXZEjXlUC.jpg</photo>
+      <role>Secretary of Defense Ruth McMillan</role>
+      <name>Melissa Leo</name>
+    </item>
+    <item index="5">
+      <photo>http://image.tmdb.org/t/p/original/3ulaOBmEqmGQ8ywo8wHAqGJ2odX.jpg</photo>
+      <role>General Edward Clegg</role>
+      <name>Robert Forster</name>
+    </item>
+    <item index="6">
+      <photo>http://image.tmdb.org/t/p/original/adcm6TZquODUdNwcTqOMTEM2SK2.jpg</photo>
+      <role>Amal Mansoor</role>
+      <name>Shivani Ghai</name>
+    </item>
+    <item index="7">
+      <photo>http://image.tmdb.org/t/p/original/doVNkZLo1aqfRVfUymkjuTpyUYa.jpg</photo>
+      <role>NSA Deputy Director Ray Monroe</role>
+      <name>Sean O'Bryan</name>
+    </item>
+    <item index="8">
+      <photo>http://image.tmdb.org/t/p/original/kKbnljNC07nqiucGeouxhKESXUC.jpg</photo>
+      <role>Leah Banning</role>
+      <name>Radha Mitchell</name>
+    </item>
+    <item index="9">
+      <photo>http://image.tmdb.org/t/p/original/38HSlzqG3Cqdm9CEp7l1VUKS8nU.jpg</photo>
+      <role>Deputy Chief Mason</role>
+      <name>Jackie Earle Haley</name>
+    </item>
+    <item index="10">
+      <photo>http://image.tmdb.org/t/p/original/pkiZKysfb0oXvaBBm6zWQkWSvVu.jpg</photo>
+      <role>MI6 Jacquelin Marshall</role>
+      <name>Charlotte Riley</name>
+    </item>
+    <item index="11">
+      <photo>http://image.tmdb.org/t/p/original/4mwfsLYlDRvH4dKY5QMmbZYDoOZ.jpg</photo>
+      <role>Sultan Mansoor</role>
+      <name>Mehdi Dehbi</name>
+    </item>
+    <item index="12">
+      <photo>http://image.tmdb.org/t/p/original/2RHy23vEDs0JRI4uy6IXNxKOrzL.jpg</photo>
+      <role>Chief Hazard</role>
+      <name>Colin Salmon</name>
+    </item>
+    <item index="13">
+      <photo>http://image.tmdb.org/t/p/original/l9uuuYI01kF7979UgbfOtbj7Jsg.jpg</photo>
+      <role>Aamir Barkawi</role>
+      <name>Alon Aboutboul</name>
+    </item>
+    <item index="14">
+      <photo>http://image.tmdb.org/t/p/original/nWYveATaySCXosWAjcSS8VNPRe7.jpg</photo>
+      <role>Secret Service</role>
+      <name>Jorge Leon Martinez</name>
+    </item>
+    <item index="15">
+      <photo>http://image.tmdb.org/t/p/original/b7NMq4XyyFkZRKKCag3mpR74jJX.jpg</photo>
+      <role>Kamran Barkawi</role>
+      <name>Waleed Zuaiter</name>
+    </item>
+    <item index="16">
+      <photo>http://image.tmdb.org/t/p/original/tx51bAbUpyNTsiFPjswTniQR6Fb.jpg</photo>
+      <role>Raza Mansoor</role>
+      <name>Adel Bencherif</name>
+    </item>
+    <item index="17">
+      <photo>http://image.tmdb.org/t/p/original/lMD5D5luP2n70SZJI97FYNxLFdi.jpg</photo>
+      <role>Agent Voight</role>
+      <name>Michael Wildman</name>
+    </item>
+    <item index="18">
+      <photo>http://image.tmdb.org/t/p/original/eLC3RQcnX8ECuRo1YxStMQlBCeG.jpg</photo>
+      <role>Home Secretary Rose Kenter</role>
+      <name>Penny Downie</name>
+    </item>
+    <item index="19">
+      <photo>http://image.tmdb.org/t/p/original/zpSuumaMPPr4fGjaoWNUqAsJTeu.jpg</photo>
+      <role>MI5 Intel John Lancaster</role>
+      <name>Patrick Kennedy</name>
+    </item>
+    <item index="20">
+      <photo>http://image.tmdb.org/t/p/original/9OxbMq6BxYdiF2peA9gvboQ2Nq7.jpg</photo>
+      <role>Doris</role>
+      <name>Deborah Grant</name>
+    </item>
+    <item index="21">
+      <photo>http://image.tmdb.org/t/p/original/tiMLyqTDBx0TgfQKlLHObr9eGyG.jpg</photo>
+      <role>Agent Bronson</role>
+      <name>Andrew Pleavin</name>
+    </item>
+    <item index="22">
+      <photo>http://image.tmdb.org/t/p/original/lWw8gfMAIxA6SmYvdJyEfaTXQDI.jpg</photo>
+      <role>Canadian Prime Minister Robert Bowman</role>
+      <name>Nigel Whitmey</name>
+    </item>
+    <item index="23">
+      <photo>http://image.tmdb.org/t/p/original/8Oe5fqtyQTRVqSHwW3EoDBWt90w.jpg</photo>
+      <role>Bowman's Wife</role>
+      <name>Julia Montgomery Brown</name>
+    </item>
+    <item index="24">
+      <photo>http://image.tmdb.org/t/p/original/eZtknBTIiWJsrQjGEz3MgKs7EcI.jpg</photo>
+      <role>Viviana Gusto</role>
+      <name>Elsa Mollien</name>
+    </item>
+    <item index="25">
+      <photo>http://image.tmdb.org/t/p/original/o6LzbRYkaEalA9NWArtVDTyhB8Y.jpg</photo>
+      <role>Jacques Mainard</role>
+      <name>Philip Delancy</name>
+    </item>
+    <item index="26">
+      <photo>http://image.tmdb.org/t/p/original/350Hz6tI2qXZ7h55tCmamBUsxnF.jpg</photo>
+      <role>Pradhan</role>
+      <name>Nikesh Patel</name>
+    </item>
+    <item index="27">
+      <photo>http://image.tmdb.org/t/p/original/jiaqP571MPLiQkbEhUflgGCBNYC.jpg</photo>
+      <role>German Chancellor Agnes Bruckner</role>
+      <name>Nancy Baldwin</name>
+    </item>
+    <item index="28">
+      <photo>http://image.tmdb.org/t/p/original/bpDcdEVdT1TEJ9UszW7UM51wcwf.jpg</photo>
+      <role>Fire Dept. Head</role>
+      <name>Terence Beesley</name>
+    </item>
+  </roles>
+  <countries>
+    <item index="0">United Kingdom</item>
+  </countries>
+  <content_rating>R</content_rating>
+  <original_title/>
+  <summary>In London for the Prime Minister's funeral, Mike Banning discovers a plot to assassinate all the attending world leaders.</summary>
+  <reviews>
+    <item index="0">
+      <text>London Has Fallen is Donald Trump in film form.</text>
+      <source>ChristyLemire.com</source>
+      <image>rottentomatoes://image.review.rotten</image>
+      <link>http://christylemire.com/london-has-fallen/</link>
+      <author>Christy Lemire</author>
+    </item>
+    <item index="1">
+      <text>Racist, stupid and boasting cheesy effects that wouldn't pass muster on basic cable.</text>
+      <source>New York Post</source>
+      <image>rottentomatoes://image.review.rotten</image>
+      <link>http://nypost.com/2016/03/03/racist-idiotic-london-has-fallen-is-a-revenge-dud/</link>
+      <author>Lou Lumenick</author>
+    </item>
+    <item index="2">
+      <text>Agent Banning is the latest in a long line of heroes whose every bullet kills someone while the bad guys constantly spray him with hundreds of bullets from machine guns, none of which seem to hit the target.</text>
+      <source>TheWrap</source>
+      <image>rottentomatoes://image.review.rotten</image>
+      <link>http://www.thewrap.com/london-has-fallen-review-gerard-butler-aaron-eckhart-morgan-freeman/</link>
+      <author>Andy Klein</author>
+    </item>
+    <item index="3">
+      <text>Butler doesn't even have his own catchphrase. He just poaches two of Schwarzenegger's, bellowing both "Get to the chopper!" and "I'll be back!"</text>
+      <source>MTV</source>
+      <image>rottentomatoes://image.review.rotten</image>
+      <link>http://www.mtv.com/news/2749195/london-has-fallen-bigger-dumber-and-even-more-offensive/?xrs=_s.tw_news</link>
+      <author>Amy Nicholson</author>
+    </item>
+    <item index="4">
+      <text>director Babak Najafi, who not surprisingly staged something called Easy Money II, botches the action sequences so crudely, consistently and cynically that he makes Michael Bay look like Kurosawa.</text>
+      <source>Rolling Stone</source>
+      <image>rottentomatoes://image.review.rotten</image>
+      <link>http://www.rollingstone.com/movies/reviews/london-has-fallen-20160304</link>
+      <author>Peter Travers</author>
+    </item>
+    <item index="5">
+      <text>Somewhere along the line, it may occur to you that Babak Najafi's sequel to 2013's president-in-peril pic Olympus Has Fallen is a sly attack on America masquerading as a celebration of same.</text>
+      <source>San Diego Reader</source>
+      <image>rottentomatoes://image.review.rotten</image>
+      <link>http://www.sandiegoreader.com/movies/london-has-fallen/</link>
+      <author>Matthew Lickona</author>
+    </item>
+    <item index="6">
+      <text>Butler's dark gusto is unexplained, and his character lacks the charisma and one-liners of fellow macho world-savers Rambo, James Bond and John McClane.</text>
+      <source>Globe and Mail</source>
+      <image>rottentomatoes://image.review.rotten</image>
+      <link>http://www.theglobeandmail.com/arts/film/film-reviews/london-has-fallen-sequel-pits-gerard-butler-against-terrorism-in-another-epic/article29015014/</link>
+      <author>Brad Wheeler</author>
+    </item>
+    <item index="7">
+      <text>It's rarely exciting or suspenseful, and some of the digital effects are also reminiscent of a 1980s action movie level.</text>
+      <source>Detroit News</source>
+      <image>rottentomatoes://image.review.rotten</image>
+      <link>http://www.detroitnews.com/story/entertainment/movies/2016/03/03/movie-review-london-fallen-quality-control/81300976/</link>
+      <author>Adam Graham</author>
+    </item>
+    <item index="8">
+      <text>Represents a geopolitical obliteration fantasy flushed from the mind of the angriest and dumbest and most conspiracy-minded among us.</text>
+      <source>Los Angeles Times</source>
+      <image>rottentomatoes://image.review.rotten</image>
+      <link>http://www.latimes.com/entertainment/movies/la-et-mn-london-has-fallen-review-20160304-story.html#nt=oft13a-2gp1</link>
+      <author>Robert Abele</author>
+    </item>
+    <item index="9">
+      <text>President Benjamin Asher needs two things: better security personnel and better scriptwriters.</text>
+      <source>New York Times</source>
+      <image>rottentomatoes://image.review.rotten</image>
+      <link>http://www.nytimes.com/2016/03/04/movies/london-has-fallen-review.html?partner=rss&amp;emc=rss</link>
+      <author>Neil Genzlinger</author>
+    </item>
+    <item index="10">
+      <text>Like the original, London Has Fallen features a top-notch cast and some crackling good action sequences. And, alas, like the original, this is a cliché-riddled, aggressively violent, laughably plotted exploitation flick.</text>
+      <source>Chicago Sun-Times</source>
+      <image>rottentomatoes://image.review.rotten</image>
+      <link>http://chicago.suntimes.com/entertainment/london-has-fallen-the-fast-and-the-foggy/</link>
+      <author>Richard Roeper</author>
+    </item>
+    <item index="11">
+      <text>While taking the action to an international stage, the lumbering story isn't at all concerned with legit drama, let alone intelligently considering the ramifications of the mayhem it imagines.</text>
+      <source>Boston Globe</source>
+      <image>rottentomatoes://image.review.rotten</image>
+      <link>http://www.bostonglobe.com/arts/movies/2016/03/02/london-has-fallen-don-get/TD772Tp4zISumxFMnghKBL/story.html</link>
+      <author>Tom Russo</author>
+    </item>
+    <item index="12">
+      <text>London Has Fallen is competently made and offers what any viewer would reasonably expect. There's plenty of action, a fair amount of wide-scale destruction, and a rousing climax.</text>
+      <source>ReelViews</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>http://www.reelviews.net/reelviews/london-has-fallen</link>
+      <author>James Berardinelli</author>
+    </item>
+    <item index="13">
+      <text>It makes the 2013 original Olympus Has Fallen - loglined as "Die Hard in the White House" - seem in nostalgic comparison like quality entertainment and a model of logic and good taste.</text>
+      <source>Toronto Star</source>
+      <image>rottentomatoes://image.review.rotten</image>
+      <link>http://www.thestar.com/entertainment/movies/2016/03/03/london-has-fallen-and-so-will-your-brain-cells-review.html</link>
+      <author>Peter Howell</author>
+    </item>
+    <item index="14">
+      <text>[Butler and Eckhart's] mildly diverting performances aren't enough to dislodge the film's troubling pro-engagement message.</text>
+      <source>Chicago Reader</source>
+      <image>rottentomatoes://image.review.rotten</image>
+      <link>http://www.chicagoreader.com/chicago/london-has-fallen/MovieTimes?oid=21176132</link>
+      <author>Leah Pickett</author>
+    </item>
+    <item index="15">
+      <text>The sequel swaps cunning for brutal violence and turns Banning into a one man killing machine.</text>
+      <source>Toronto Sun</source>
+      <image>rottentomatoes://image.review.rotten</image>
+      <link>http://www.torontosun.com/2016/03/03/london-has-fallen-review-gerard-butlers-sequel-sinks-to-a-new-low</link>
+      <author>Liz Braun</author>
+    </item>
+    <item index="16">
+      <text>I don't know the best way to deal with America's enemies, but I suspect a jingoistic macho-porn slaughterfest is not likely to win hearts and minds.</text>
+      <source>Minneapolis Star Tribune</source>
+      <image>rottentomatoes://image.review.rotten</image>
+      <link>http://www.startribune.com/reviewed-in-brief-london-has-fallen-the-wave-rabin-the-last-day-the-boy-and-the-beast-rams/370938531/</link>
+      <author>Colin Covert</author>
+    </item>
+    <item index="17">
+      <text>An impossibly enjoyable live-action cartoon that plays on our real-life anxieties about vengeful cadres of foreign radicals blowing up people - and places.</text>
+      <source>Philadelphia Inquirer</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>http://www.philly.com/philly/entertainment/movies/20160304__London_Has_Fallen___A_rip-roaring_sequel_to_2013_White_House-under-siege_hit.html</link>
+      <author>Steven Rea</author>
+    </item>
+    <item index="18">
+      <text>"London Has Fallen" is remarkable only because of how much worse it is than its inane predecessor, 2013's "Olympus Has Fallen."</text>
+      <source>Washington Post</source>
+      <image>rottentomatoes://image.review.rotten</image>
+      <link>https://www.washingtonpost.com/goingoutguide/movies/brutal-inane-london-has-fallen-is-even-worse-than-the-original/2016/03/03/3ff7da6a-dcbf-11e5-81ae-7491b9b9e7df_story.html</link>
+      <author>Stephanie Merry</author>
+    </item>
+    <item index="19">
+      <text>It's all silly and meant to be fun, except when Najafi tries to throw in some serious bits, which wind up being sillier still.</text>
+      <source>Arizona Republic</source>
+      <image>rottentomatoes://image.review.rotten</image>
+      <link>http://www.azcentral.com/story/entertainment/movies/billgoodykoontz/2016/03/03/london-has-fallen-movie-review/81198114/</link>
+      <author>Bill Goodykoontz</author>
+    </item>
+  </reviews>
+  <directors>
+    <item index="0">
+      <photo>http://image.tmdb.org/t/p/original/9cR7JVaaeB5u7zRdT8AfIWdHkM0.jpg</photo>
+      <role/>
+      <name>Babak Najafi</name>
+    </item>
+  </directors>
+  <extras external="True" extension="xml"/>
+  <banners/>
+  <similar>
+    <item index="0">13 Hours: The Secret Soldiers of Benghazi</item>
+    <item index="1">Olympus Has Fallen</item>
+    <item index="2">Hitman: Agent 47</item>
+    <item index="3">Point Break</item>
+    <item index="4">Criminal</item>
+    <item index="5">Gods of Egypt</item>
+    <item index="6">Triple 9</item>
+    <item index="7">Central Intelligence</item>
+    <item index="8">Independence Day: Resurgence</item>
+    <item index="9">Jack Reacher: Never Go Back</item>
+    <item index="10">Mechanic: Resurrection</item>
+    <item index="11">Run All Night</item>
+    <item index="12">Jason Bourne</item>
+    <item index="13">No Escape</item>
+    <item index="14">The Finest Hours</item>
+    <item index="15">Money Monster</item>
+    <item index="16">Grimsby</item>
+    <item index="17">Self/less</item>
+    <item index="18">The Transporter Refueled</item>
+    <item index="19">White House Down</item>
+  </similar>
+</Movie>

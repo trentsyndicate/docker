@@ -1,0 +1,714 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Movie>
+  <art>
+    <item external="True" url="http://image.tmdb.org/t/p/original/kQsoK8QIImUqSLPSYaIIAXE9HR7.jpg" sort_order="1" provider="com.plexapp.agents.imdb" media="com.plexapp.agents.imdb_4dd787576975c6472f5dda12fc75993af8995d54"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/qI7A58lmqBBRExdRcGZoM39C6fq.jpg" preview="com.plexapp.agents.imdb_3ed0719bf0b285ebc6dae8a4efe1552db7a0c24b" sort_order="2" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/sGsHVJ2TiG4NBjo7OuV5cAUWkCW.jpg" preview="com.plexapp.agents.imdb_afbcf48a7bf83adcd2b3b5883b95a9b30b3d0e85" sort_order="3" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/l6FFSnDvrVSEFftx5QVk7G8LWwU.jpg" preview="com.plexapp.agents.imdb_b96fda8b1aa710c7a07487c18e4e05b669cb0075" sort_order="4" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/xq6hXdBpDPIXWjtmvbFmtLvBFJt.jpg" preview="com.plexapp.agents.imdb_a7a59ffd2aabec1a4e8544f9839d20a0f9350a7d" sort_order="5" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/oniUX4bIxedP3jfeXjGB7lg55Bm.jpg" preview="com.plexapp.agents.imdb_82cad8f43ab7ee436fe29052eb1e885b61f439d9" sort_order="6" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/zf4wg7oOUFe9OnCJN6Vji0cwI3U.jpg" preview="com.plexapp.agents.imdb_568ca867a4ccea14dcad44abf160a0ed2110e713" sort_order="7" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/unjitzR3YpZbjTlZ43Fh0Vyk4WX.jpg" preview="com.plexapp.agents.imdb_18919a202fecb630552e026bd354dc60972e71ec" sort_order="8" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/mhZOcBYqzzKYTDzz1GwDA3knWVA.jpg" preview="com.plexapp.agents.imdb_2dbf0e01471344aec3bc08c6a0bd18373742cdfa" sort_order="9" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/nmEtNvJlS8y9gPkaSLcNpV6TaB3.jpg" preview="com.plexapp.agents.imdb_7c5b37a709335b150dad09907992f030dfc50926" sort_order="10" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/gzqhV08ALVFGQ4MZKl6MMLugCW9.jpg" preview="com.plexapp.agents.imdb_4721149bfd524dd271748dfac4256766058edf4f" sort_order="11" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/dsC84A4BPIBGr0f9YnWOYNt4Nfw.jpg" preview="com.plexapp.agents.imdb_c9948399bcf5402a2befb8b40cb762182b7a6b56" sort_order="12" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/ckJNF0ecFdqm8OW4BJAmG6Y49DE.jpg" preview="com.plexapp.agents.imdb_07166a300f4aadc42c2042a8f47b990582788c9e" sort_order="13" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/2kV0JOSZr1PsXrdJocyGzjPVjue.jpg" preview="com.plexapp.agents.imdb_35c28a3b52cba5a6f4b82271446b08f191462c88" sort_order="14" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/5SWE9JmsMp7BvHUHj1Dpnk24F4N.jpg" preview="com.plexapp.agents.imdb_150fa9c840886e584924c2ebf3dffa058eb1972c" sort_order="15" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/3HFhVqXuCXFKJBiJYcJsdgHkr6X.jpg" preview="com.plexapp.agents.imdb_225830175f775b310bf89a454757879d03be07fa" sort_order="16" provider="com.plexapp.agents.imdb"/>
+  </art>
+  <banners/>
+  <chapters>
+    <item index="0">
+      <title>Sir James</title>
+      <end_time_offset>578000</end_time_offset>
+      <start_time_offset>0</start_time_offset>
+    </item>
+    <item index="1">
+      <title>M's Remains</title>
+      <end_time_offset>1171000</end_time_offset>
+      <start_time_offset>578000</start_time_offset>
+    </item>
+    <item index="2">
+      <title>Paying The Piper</title>
+      <end_time_offset>1536000</end_time_offset>
+      <start_time_offset>1171000</start_time_offset>
+    </item>
+    <item index="3">
+      <title>Corrupt Or Kill</title>
+      <end_time_offset>2119000</end_time_offset>
+      <start_time_offset>1536000</start_time_offset>
+    </item>
+    <item index="4">
+      <title>The Toughest Training</title>
+      <end_time_offset>2399000</end_time_offset>
+      <start_time_offset>2119000</start_time_offset>
+    </item>
+    <item index="5">
+      <title>Evelyn Tremble</title>
+      <end_time_offset>2722000</end_time_offset>
+      <start_time_offset>2399000</start_time_offset>
+    </item>
+    <item index="6">
+      <title>A New Identity</title>
+      <end_time_offset>3471000</end_time_offset>
+      <start_time_offset>2722000</start_time_offset>
+    </item>
+    <item index="7">
+      <title>Mata Bond</title>
+      <end_time_offset>4042000</end_time_offset>
+      <start_time_offset>3471000</start_time_offset>
+    </item>
+    <item index="8">
+      <title>Spy School</title>
+      <end_time_offset>4632000</end_time_offset>
+      <start_time_offset>4042000</start_time_offset>
+    </item>
+    <item index="9">
+      <title>Stealing The Films</title>
+      <end_time_offset>5406000</end_time_offset>
+      <start_time_offset>4632000</start_time_offset>
+    </item>
+    <item index="10">
+      <title>Game Preparations</title>
+      <end_time_offset>5921000</end_time_offset>
+      <start_time_offset>5406000</start_time_offset>
+    </item>
+    <item index="11">
+      <title>Le Chiffre</title>
+      <end_time_offset>6209000</end_time_offset>
+      <start_time_offset>5921000</start_time_offset>
+    </item>
+    <item index="12">
+      <title>Mind Torture</title>
+      <end_time_offset>6843000</end_time_offset>
+      <start_time_offset>6209000</start_time_offset>
+    </item>
+    <item index="13">
+      <title>Smersh Headquarters</title>
+      <end_time_offset>7545000</end_time_offset>
+      <start_time_offset>6843000</start_time_offset>
+    </item>
+    <item index="14">
+      <title>Casino Royale</title>
+      <end_time_offset>7999000</end_time_offset>
+      <start_time_offset>7545000</start_time_offset>
+    </item>
+    <item index="15">
+      <title>End Credits</title>
+      <end_time_offset>-1</end_time_offset>
+      <start_time_offset>7999000</start_time_offset>
+    </item>
+  </chapters>
+  <collections/>
+  <content_rating>PG-13</content_rating>
+  <countries>
+    <item index="0">United Kingdom</item>
+  </countries>
+  <directors>
+    <item index="0">
+      <photo>http://image.tmdb.org/t/p/original/qhx0AySf8yH3kiHrinWknUJbr1y.jpg</photo>
+      <role/>
+      <name>Martin Campbell</name>
+    </item>
+  </directors>
+  <duration>8640000</duration>
+  <genres>
+    <item index="0">Action</item>
+    <item index="1">Adventure</item>
+    <item index="2">Thriller</item>
+  </genres>
+  <originally_available_at>2006-11-14</originally_available_at>
+  <posters>
+    <item external="True" url="http://image.tmdb.org/t/p/original/toEaueEfDxX57y4J5MRRA7qsy5K.jpg" sort_order="1" provider="com.plexapp.agents.imdb" media="com.plexapp.agents.imdb_6362a162ab115789a418b045947b4e6700df27a2"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/zlWBxz2pTA9p45kUTrI8AQiKrHm.jpg" preview="com.plexapp.agents.imdb_1d91490dca66ba02380fb0e10a3f8dae61240954" sort_order="2" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/sh3AbgQW8McaV8MgYMnDYJNfZtw.jpg" preview="com.plexapp.agents.imdb_8b56dc80e30a1dc27abad8014ee15e97c21295bf" sort_order="3" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/aCeZhRQf0dUjW29wyWqx33bt1O7.jpg" preview="com.plexapp.agents.imdb_5c8d3a6e2c422fb5eac37ae1b91b064631a96fce" sort_order="4" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/pd3TzVqecYqKz9FoFMbGVwC4s7W.jpg" preview="com.plexapp.agents.imdb_0257cd0b61ba7f6682f9a79f56312539ac20d106" sort_order="5" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/upxzECVBiCTA3MpM09xHkqjv1nI.jpg" preview="com.plexapp.agents.imdb_36c8733240ebd0b6190398e7a712383330b82da9" sort_order="6" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/zgdyVH3QkO8EYE82nWMNIjPBq3m.jpg" preview="com.plexapp.agents.imdb_cfc9da8b26ea94609939b0cb3c7d7d0e4ea95bc8" sort_order="7" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/ltJxWqaiDxjuxTjRMAd7JMjNszl.jpg" preview="com.plexapp.agents.imdb_754a5fb621390b22e50e6373e6984128f98f5745" sort_order="8" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/1P2SaV8mXFPn1jYD166KV0SWp8J.jpg" preview="com.plexapp.agents.imdb_2627c1ba1fc4bd779a396f6fd74498a81ce3435d" sort_order="9" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/j5Zars3CKyMxJGm2hMrjOwHxJJe.jpg" preview="com.plexapp.agents.imdb_33bb266478592b358a0e9bb95f6b4c55b0823312" sort_order="10" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/sw3XmY2JFh6zVI94cCDCxwNNGEO.jpg" preview="com.plexapp.agents.imdb_219bf06182d1218df4af6036481d44d6ab1ae3df" sort_order="11" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/5sunXoWeVBU2LLFwSmMAW9E5fRp.jpg" preview="com.plexapp.agents.imdb_8d48bf85e305af784f879534f2bfdd03c2642c55" sort_order="12" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/uvrZJgQX4Gob7kfiithYKGBxdtT.jpg" preview="com.plexapp.agents.imdb_f4505cfc814e0606ceaa3f3d15550ff72c751917" sort_order="13" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/oQcFmNSIfDREMrfbc4XghpJCGgx.jpg" preview="com.plexapp.agents.imdb_1d72f31362271f12bfa35b637552cff4c2e7a194" sort_order="14" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/tATE6zWizXWFVTji5JlrijnNBD9.jpg" preview="com.plexapp.agents.imdb_3c66489ddc71fbf62e7108ed8b03db6f0c4b1a32" sort_order="15" provider="com.plexapp.agents.imdb"/>
+    <item external="True" url="http://image.tmdb.org/t/p/original/bfxO19EPfHJAxAdfhfZMznjVRa0.jpg" preview="com.plexapp.agents.imdb_82bdec835bc6b5da3179cc11278511c305de024d" sort_order="16" provider="com.plexapp.agents.imdb"/>
+  </posters>
+  <producers>
+    <item index="0">
+      <photo/>
+      <role/>
+      <name>Barbara Broccoli</name>
+    </item>
+    <item index="1">
+      <photo>http://image.tmdb.org/t/p/original/j9E7oKJMgprlrwkUkk2JXdY5tnJ.jpg</photo>
+      <role/>
+      <name>Michael G. Wilson</name>
+    </item>
+  </producers>
+  <rating>9.4</rating>
+  <rating_image>rottentomatoes://image.rating.ripe</rating_image>
+  <audience_rating>8.9</audience_rating>
+  <audience_rating_image>rottentomatoes://image.rating.upright</audience_rating_image>
+  <reviews>
+    <item index="0">
+      <text>Unlike recent Bonds, whose kills had no more weight than the one-liners that generally accompanied them, Craig's tend to be intimate, bloody, and devoid of glamour.</text>
+      <source>The Atlantic</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>http://www.theatlantic.com/entertainment/archive/2007/03/the-movie-review-casino-royale/69244/</link>
+      <author>Christopher Orr</author>
+    </item>
+    <item index="1">
+      <text>Bond as a human being? Who'd'a'thunk?</text>
+      <source>NPR</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>http://www.npr.org/templates/story/story.php?storyId=6503751</link>
+      <author>Bob Mondello</author>
+    </item>
+    <item index="2">
+      <text>Casino Royale has the answers to all my complaints about the 45-year-old James Bond series, and some I hadn't even thought of.</text>
+      <source>Chicago Sun-Times</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>http://www.rogerebert.com/reviews/casino-royale-2007</link>
+      <author>Roger Ebert</author>
+    </item>
+    <item index="3">
+      <text>I hope Craig finds more moments like that in Bond. And I hope he gets to wear that tuxedo again and again and again.</text>
+      <source>New York Magazine/Vulture</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>http://nymag.com/movies/reviews/24089/</link>
+      <author>David Edelstein</author>
+    </item>
+    <item index="4">
+      <text>I consider Daniel Craig to be the most effective and appealing of the six actors who have played 007, and that includes even Sean Connery.</text>
+      <source>New York Observer</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>http://observer.com/2006/11/new-bonds-stormy-virility-trumps-connery-and-moore/</link>
+      <author>Andrew Sarris</author>
+    </item>
+    <item index="5">
+      <text>Craig is also the best Bond in the franchise's history.</text>
+      <source>Time Out</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>http://www.timeout.com/us/film/casino-royale</link>
+      <author>Joshua Rothkopf</author>
+    </item>
+    <item index="6">
+      <text>This, at last, is Bond stripped bare.</text>
+      <source>Salon.com</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>http://www.salon.com/2006/11/17/casino_4/</link>
+      <author>Stephanie Zacharek</author>
+    </item>
+    <item index="7">
+      <text>There's clearly life in the old dog yet.</text>
+      <source>CNN.com</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>http://cnn.com/2006/SHOWBIZ/Movies/11/16/review.casino/index.html?eref=sitesearch</link>
+      <author>Tom Charity</author>
+    </item>
+    <item index="8">
+      <text>Welcome to the new world of MI6's most storied agent.</text>
+      <source>ReelViews</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>http://www.reelviews.net/php_review_template.php?identifier=769</link>
+      <author>James Berardinelli</author>
+    </item>
+    <item index="9">
+      <text>Casino Royale is a step in the right direction for the Bond franchise. But it's a small, tentative step.</text>
+      <source>AV Club</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>http://www.avclub.com/review/casino-royale-3704</link>
+      <author>Noel Murray</author>
+    </item>
+    <item index="10">
+      <text>It's The Spy Who Came In From the Warmth.</text>
+      <source>Wall Street Journal</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>http://online.wsj.com/article/SB10001424052970204552304577114432341153856.html</link>
+      <author>Joe Morgenstern</author>
+    </item>
+    <item index="11">
+      <text>[Craig's] portrayal feels grittier and more complex than previous 007s. This is also partly the result of a better script, by Neal Purvis, Robert Wade and Oscar winner Paul Haggis, as well as top-notch directing by Martin Campbell.</text>
+      <source>USA Today</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>http://usatoday30.usatoday.com/life/movies/reviews/2006-11-16-review-casino-royale_x.htm</link>
+      <author>Claudia Puig</author>
+    </item>
+    <item index="12">
+      <text>Gone or reshaped are most of the conceits that have made Bond movies seem like an exercise in parody and nostalgia.</text>
+      <source>Toronto Star</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>http://WWW.TheStar.COM/NASApp/cs/ContentServer?&amp;pagename=thestar/Layout/Article_Type1&amp;c=Article&amp;cid=1163761301633&amp;call_pageid=1022183557980&amp;col=1022183560753</link>
+      <author>Peter Howell</author>
+    </item>
+    <item index="13">
+      <text>It's not as bad as Die Another Day, and not up to the jolly mayhem of the best films in the series.</text>
+      <source>Orlando Sentinel</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>http://articles.orlandosentinel.com/2006-11-17/entertainment/CASINO_1_casino-royale-bond-mads-mikkelsen</link>
+      <author>Roger Moore</author>
+    </item>
+    <item index="14">
+      <text>What, no jet packs? No world-conquering supervillains orbiting the planet? No preference for shaken martinis?</text>
+      <source>Houston Chronicle</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>http://www.chron.com/disp/story.mpl/ent/movies/reviews/4300061.html</link>
+      <author>Amy Biancolli</author>
+    </item>
+    <item index="15">
+      <text>Now this is more like it.</text>
+      <source>Globe and Mail</source>
+      <image>rottentomatoes://image.review.fresh</image>
+      <link>http://www.theglobeandmail.com/incoming/bloody-good-bond/article971512/</link>
+      <author>Liam Lacey</author>
+    </item>
+  </reviews>
+  <roles>
+    <item index="0">
+      <photo>http://image.tmdb.org/t/p/original/mr6cdu6lLRscfFUv8onVWZqaRdZ.jpg</photo>
+      <role>James Bond</role>
+      <name>Daniel Craig</name>
+    </item>
+    <item index="1">
+      <photo>http://image.tmdb.org/t/p/original/wqK0BhMuNBvDqIg1bwT9RhYMy6L.jpg</photo>
+      <role>Vesper Lynd</role>
+      <name>Eva Green</name>
+    </item>
+    <item index="2">
+      <photo>http://image.tmdb.org/t/p/original/8F1dY2rjZ1YDEKH0imDs21xdTDX.jpg</photo>
+      <role>Le Chiffre</role>
+      <name>Mads Mikkelsen</name>
+    </item>
+    <item index="3">
+      <photo>http://image.tmdb.org/t/p/original/2is9RvJ3BQAku2EtCmyk5EZoxzT.jpg</photo>
+      <role>M</role>
+      <name>Judi Dench</name>
+    </item>
+    <item index="4">
+      <photo>http://image.tmdb.org/t/p/original/wBh9rwK3aRr1hCrSRLxxPHKzGeU.jpg</photo>
+      <role>Felix Leiter</role>
+      <name>Jeffrey Wright</name>
+    </item>
+    <item index="5">
+      <photo>http://image.tmdb.org/t/p/original/tIUO3sO3wIuxGNAlZ1c7zMySln3.jpg</photo>
+      <role>René Mathis</role>
+      <name>Giancarlo Giannini</name>
+    </item>
+    <item index="6">
+      <photo>http://image.tmdb.org/t/p/original/4jGqHO8driLwa4rU19J0tif5ck8.jpg</photo>
+      <role>Solange Dimitrios</role>
+      <name>Caterina Murino</name>
+    </item>
+    <item index="7">
+      <photo>http://image.tmdb.org/t/p/original/oR1F42rVMY8QsmjK0R8ST4RBBe0.jpg</photo>
+      <role>Alex Dimitrios</role>
+      <name>Simon Abkarian</name>
+    </item>
+    <item index="8">
+      <photo>http://image.tmdb.org/t/p/original/pr2AoaFlgQfdbIIv88UhCyp8wuF.jpg</photo>
+      <role>Steven Obanno</role>
+      <name>Isaach De Bankolé</name>
+    </item>
+    <item index="9">
+      <photo>http://image.tmdb.org/t/p/original/fnE1D2BtNex0bUZE4DdxAsju0YR.jpg</photo>
+      <role>Mr. White</role>
+      <name>Jesper Christensen</name>
+    </item>
+    <item index="10">
+      <photo>http://image.tmdb.org/t/p/original/ukBpu3MgWoncHcR4Cjs81BCBPvu.jpg</photo>
+      <role>Valenka</role>
+      <name>Ivana Miličević</name>
+    </item>
+    <item index="11">
+      <photo>http://image.tmdb.org/t/p/original/bXUpxFsIowySRyyqchaE1XprptI.jpg</photo>
+      <role>Villiers</role>
+      <name>Tobias Menzies</name>
+    </item>
+    <item index="12">
+      <photo>http://image.tmdb.org/t/p/original/9jpxCLE19Q2oGxCcxWRJph5hvVc.jpg</photo>
+      <role>Carlos</role>
+      <name>Claudio Santamaria</name>
+    </item>
+    <item index="13">
+      <photo>http://image.tmdb.org/t/p/original/bA8Rnww0qymoLMXSUOk6iUICe0Q.jpg</photo>
+      <role>Mollaka</role>
+      <name>Sebastien Foucan</name>
+    </item>
+    <item index="14">
+      <photo>http://image.tmdb.org/t/p/original/4dz3MZ3QZG3art7eWGY5bXfC92s.jpg</photo>
+      <role>Dryden</role>
+      <name>Malcolm Sinclair</name>
+    </item>
+    <item index="15">
+      <photo>http://image.tmdb.org/t/p/original/fa1eHH0Tg7CugDg9qIsxTsF2STX.jpg</photo>
+      <role>Adolph Gettler</role>
+      <name>Richard Sammel</name>
+    </item>
+    <item index="16">
+      <photo>http://image.tmdb.org/t/p/original/Avz9EkxdDbI2DN9h3wAVRUXsesz.jpg</photo>
+      <role>Mendel</role>
+      <name>Ludger Pistor</name>
+    </item>
+    <item index="17">
+      <photo>http://image.tmdb.org/t/p/original/9bbu5Nqxr6X0yp0kp9pyFKlf2bz.jpg</photo>
+      <role>Carter</role>
+      <name>Joseph Millson</name>
+    </item>
+    <item index="18">
+      <photo>http://image.tmdb.org/t/p/original/d9GZ0MbHuBYgqhnowL5JUfJp2nq.jpg</photo>
+      <role>Fisher</role>
+      <name>Darwin Shaw</name>
+    </item>
+    <item index="19">
+      <photo>http://image.tmdb.org/t/p/original/tvagQMAJiZTuz89WoFLCF5XmDDv.jpg</photo>
+      <role>Kratt</role>
+      <name>Clemens Schick</name>
+    </item>
+    <item index="20">
+      <photo>http://image.tmdb.org/t/p/original/lL4dxpeu8MLui2caKihxpWHVz1T.jpg</photo>
+      <role>Leo</role>
+      <name>Emmanuel Avena</name>
+    </item>
+    <item index="21">
+      <photo>http://image.tmdb.org/t/p/original/dv3o2286MwZ8SPUg5G6yS8JQzSe.jpg</photo>
+      <role>Stockbroker</role>
+      <name>Tom Chadbon</name>
+    </item>
+    <item index="22">
+      <photo>http://image.tmdb.org/t/p/original/AqlriScl6KcKy2SHWSyLSCiBexH.jpg</photo>
+      <role>Infante</role>
+      <name>Ade</name>
+    </item>
+    <item index="23">
+      <photo>http://image.tmdb.org/t/p/original/e2nXmLYlYc2XQphLKeReJ1nka0O.jpg</photo>
+      <role>Tomelli</role>
+      <name>Urbano Barberini</name>
+    </item>
+    <item index="24">
+      <photo>http://image.tmdb.org/t/p/original/2icB7ENqRRXxqzirAH3PupzTyqQ.jpg</photo>
+      <role>Madame Wu</role>
+      <name>Tsai Chin</name>
+    </item>
+    <item index="25">
+      <photo>http://image.tmdb.org/t/p/original/pANyfGd5U8eABBuZ6qoJSIWo6uc.jpg</photo>
+      <role>Kaminofsky</role>
+      <name>Lazar Ristovski</name>
+    </item>
+    <item index="26">
+      <photo>http://image.tmdb.org/t/p/original/ox6Nt1dQ6TbjZrp8Sv36V16Xsuu.jpg</photo>
+      <role>Gräfin von Wallenstein</role>
+      <name>Veruschka von Lehndorff</name>
+    </item>
+    <item index="27">
+      <photo>http://image.tmdb.org/t/p/original/nF66rMin2azCHPv1Q2BT8bjHkkL.jpg</photo>
+      <role>Gallardo</role>
+      <name>Charlie Levi Leroy</name>
+    </item>
+    <item index="28">
+      <photo>http://image.tmdb.org/t/p/original/3mS48mhk9smmowX29CiCtO2AzTz.jpg</photo>
+      <role>Fukutu</role>
+      <name>Tom So</name>
+    </item>
+    <item index="29">
+      <photo>http://image.tmdb.org/t/p/original/iD0ZAJmSSzIOXOS7RnRPJ3XpaXH.jpg</photo>
+      <role>Dealer</role>
+      <name>Andreas Daniel</name>
+    </item>
+    <item index="30">
+      <photo>http://image.tmdb.org/t/p/original/h4700aOa2wFI3Nb5sMz5xErJAHf.jpg</photo>
+      <role>Tournament Director</role>
+      <name>Carlos Leal</name>
+    </item>
+    <item index="31">
+      <photo>http://image.tmdb.org/t/p/original/ca0BPHF7QPACZU4GdR8NTErJkAV.jpg</photo>
+      <role>Ocean Club Receptionist</role>
+      <name>Christina Cole</name>
+    </item>
+    <item index="32">
+      <photo>http://image.tmdb.org/t/p/original/fXIh3fjLIoxqU0LdyPeANUEtJcu.jpg</photo>
+      <role>Schultz</role>
+      <name>Jürgen Tarrach</name>
+    </item>
+    <item index="33">
+      <photo/>
+      <role>Card Players</role>
+      <name>John Gold</name>
+    </item>
+    <item index="34">
+      <photo/>
+      <role>Card Players</role>
+      <name>Jerry Inzerillo</name>
+    </item>
+    <item index="35">
+      <photo/>
+      <role>Card Players</role>
+      <name>Diane Hartford</name>
+    </item>
+    <item index="36">
+      <photo/>
+      <role>Dealer</role>
+      <name>Jessica Miller</name>
+    </item>
+    <item index="37">
+      <photo>http://image.tmdb.org/t/p/original/spIQvqijJVRazqfABlMw4NOvNOa.jpg</photo>
+      <role>Tall Man</role>
+      <name>Leo Stransky</name>
+    </item>
+    <item index="38">
+      <photo/>
+      <role>Hot Room Doctors</role>
+      <name>Paul Bhattacharjee</name>
+    </item>
+    <item index="39">
+      <photo/>
+      <role>Hot Room Doctors</role>
+      <name>Crispin Bonham-Carter</name>
+    </item>
+    <item index="40">
+      <photo/>
+      <role>Hot Room Technicians</role>
+      <name>Simon Cox</name>
+    </item>
+    <item index="41">
+      <photo/>
+      <role>Hot Room Technicians</role>
+      <name>Rebecca Gethings</name>
+    </item>
+    <item index="42">
+      <photo/>
+      <role>MI6 Technician</role>
+      <name>Peter Notley</name>
+    </item>
+    <item index="43">
+      <photo/>
+      <role>Police Commander</role>
+      <name>John Chancer</name>
+    </item>
+    <item index="44">
+      <photo>http://image.tmdb.org/t/p/original/bOffHK0N95QJqviDk1j8NoEYr9C.jpg</photo>
+      <role>Airport Policemen</role>
+      <name>Peter Brooke</name>
+    </item>
+    <item index="45">
+      <photo/>
+      <role>Airport Policemen</role>
+      <name>Jason Durran</name>
+    </item>
+    <item index="46">
+      <photo>http://image.tmdb.org/t/p/original/cOGUNTZrSDJgt9MkOyxm67wa4GB.jpg</photo>
+      <role>Arresting Officer</role>
+      <name>Robert Jezek</name>
+    </item>
+    <item index="47">
+      <photo/>
+      <role>Pilot</role>
+      <name>Robert G. Slade</name>
+    </item>
+    <item index="48">
+      <photo>http://image.tmdb.org/t/p/original/qm25MAwHFcVUZfnzFUA8O16MZB8.jpg</photo>
+      <role>French News Reporter</role>
+      <name>Félicité Du Jeu</name>
+    </item>
+    <item index="49">
+      <photo/>
+      <role>Shop Assistant</role>
+      <name>Michaela Ochotská</name>
+    </item>
+    <item index="50">
+      <photo/>
+      <role>Obanno's Lieutenant</role>
+      <name>Michael Offei</name>
+    </item>
+    <item index="51">
+      <photo/>
+      <role>Obanno's Liaison</role>
+      <name>Makhoudia Diaw</name>
+    </item>
+    <item index="52">
+      <photo>http://image.tmdb.org/t/p/original/j9E7oKJMgprlrwkUkk2JXdY5tnJ.jpg</photo>
+      <role>Chief of Police</role>
+      <name>Michael G. Wilson</name>
+    </item>
+    <item index="53">
+      <photo/>
+      <role>Police Chief's Girlfriends</role>
+      <name>Martina Duravolá</name>
+    </item>
+    <item index="54">
+      <photo/>
+      <role>Police Chief's Girlfriends</role>
+      <name>Marcela Martincáková</name>
+    </item>
+    <item index="55">
+      <photo/>
+      <role>Croatian General</role>
+      <name>Vladimir Kulhavy</name>
+    </item>
+    <item index="56">
+      <photo/>
+      <role>Nambutu Embassy Official</role>
+      <name>Valentine Nonyela</name>
+    </item>
+    <item index="57">
+      <photo/>
+      <role>Bartender</role>
+      <name>Dusan Pelech</name>
+    </item>
+    <item index="58">
+      <photo>http://image.tmdb.org/t/p/original/7dvzEurZ3sI5L2RYxvHjS4RLNl3.jpg</photo>
+      <role>Treasury Bureaucrat</role>
+      <name>Phil Meheux</name>
+    </item>
+    <item index="59">
+      <photo>http://image.tmdb.org/t/p/original/bK4bJQxoFlou40d5Gs4Qdor9hwD.jpg</photo>
+      <role>Tennis Girls</role>
+      <name>Alessandra Ambrosio</name>
+    </item>
+    <item index="60">
+      <photo/>
+      <role>Tennis Girls</role>
+      <name>Veronika Hladikova</name>
+    </item>
+    <item index="61">
+      <photo/>
+      <role>Hotel Splendide Clerk</role>
+      <name>Regina Gabajová</name>
+    </item>
+    <item index="62">
+      <photo/>
+      <role>Cola Kid</role>
+      <name>Olutunji Ebun-Cole</name>
+    </item>
+    <item index="63">
+      <photo/>
+      <role>Barman</role>
+      <name>Martin Ucík</name>
+    </item>
+    <item index="64">
+      <photo/>
+      <role>Waitress</role>
+      <name>Vlastina Svátková</name>
+    </item>
+    <item index="65">
+      <photo>http://image.tmdb.org/t/p/original/gOuTX1jQTWO2gyIyIFxy1umzOxX.jpg</photo>
+      <role>Disapproving Man</role>
+      <name>Miroslav Šimůnek</name>
+    </item>
+    <item index="66">
+      <photo>http://image.tmdb.org/t/p/original/wR0LrkRd1xRu8l2m04iNSBEaFP6.jpg</photo>
+      <role>Venice Hotel Concierge</role>
+      <name>Ivan G'Vera</name>
+    </item>
+    <item index="67">
+      <photo/>
+      <role>Hotel Splendide Limo Driver</role>
+      <name>Jirí Lenc</name>
+    </item>
+    <item index="68">
+      <photo/>
+      <role>Hermitage Waiter</role>
+      <name>Jaroslav Jankovsky</name>
+    </item>
+    <item index="69">
+      <photo>http://image.tmdb.org/t/p/original/oBaR9wdTZTM5bF0QHVY28p00Nrf.jpg</photo>
+      <role>Airport Staff (uncredited)</role>
+      <name>Lasco Atkins</name>
+    </item>
+    <item index="70">
+      <photo>http://image.tmdb.org/t/p/original/e1MYki7kzPr2szSVllY4Vrv8qv2.jpg</photo>
+      <role>Man at Airport Security (uncredited)</role>
+      <name>Richard Branson</name>
+    </item>
+    <item index="71">
+      <photo>http://image.tmdb.org/t/p/original/qhx0AySf8yH3kiHrinWknUJbr1y.jpg</photo>
+      <role>Airport Worker (uncredited)</role>
+      <name>Martin Campbell</name>
+    </item>
+    <item index="72">
+      <photo>http://image.tmdb.org/t/p/original/piAvMhqfni3hXY0khar8aNHCg9n.jpg</photo>
+      <role>Woman in Casino (uncredited)</role>
+      <name>Tara Cardinal</name>
+    </item>
+    <item index="73">
+      <photo>http://image.tmdb.org/t/p/original/mdYAaW3tctXeEqYFl6pKYcgDKSx.jpg</photo>
+      <role>MI6 Agent (uncredited)</role>
+      <name>Ben Cooke</name>
+    </item>
+    <item index="74">
+      <photo/>
+      <role>Croupier (uncredited)</role>
+      <name>Nigel Pilkington</name>
+    </item>
+    <item index="75">
+      <photo/>
+      <role>Dossier Girl (uncredited)</role>
+      <name>Simona Roman</name>
+    </item>
+    <item index="76">
+      <photo/>
+      <role>Barmen &amp; Driver (uncredited)</role>
+      <name>Victor Sobchak</name>
+    </item>
+    <item index="77">
+      <photo/>
+      <role>Young Woman in Casino (uncredited)</role>
+      <name>Valarie Trapp</name>
+    </item>
+    <item index="78">
+      <photo/>
+      <role>Airport Driver, Miami (uncredited)</role>
+      <name>Greg Bennett</name>
+    </item>
+  </roles>
+  <similar>
+    <item index="0">Quantum of Solace</item>
+    <item index="1">The Bourne Identity</item>
+    <item index="2">GoldenEye</item>
+    <item index="3">Mission: Impossible</item>
+    <item index="4">Die Another Day</item>
+    <item index="5">The Bourne Ultimatum</item>
+    <item index="6">The Bourne Supremacy</item>
+    <item index="7">Mission: Impossible III</item>
+    <item index="8">Mission: Impossible II</item>
+    <item index="9">Live Free or Die Hard</item>
+    <item index="10">Tomorrow Never Dies</item>
+    <item index="11">The World Is Not Enough</item>
+    <item index="12">Die Hard: With a Vengeance</item>
+    <item index="13">Die Hard 2</item>
+    <item index="14">Mission: Impossible - Ghost Protocol</item>
+    <item index="15">Skyfall</item>
+    <item index="16">Indiana Jones and the Last Crusade</item>
+    <item index="17">Die Hard</item>
+    <item index="18">Indiana Jones and the Kingdom of the Crystal Skull</item>
+    <item index="19">Indiana Jones and the Temple of Doom</item>
+  </similar>
+  <studio>Eon Productions</studio>
+  <summary>Le Chiffre, a banker to the world's terrorists, is scheduled to participate in a high-stakes poker game in Montenegro, where he intends to use his winnings to establish his financial grip on the terrorist market. M sends Bond – on his maiden mission as a 00 Agent – to attend this game and prevent Le Chiffre from winning. With the help of Vesper Lynd and Felix Leiter, Bond enters the most important poker game in his already dangerous career.</summary>
+  <tagline>Everyone has a past. Every legend has a beginning.</tagline>
+  <tags/>
+  <themes/>
+  <title>Casino Royale</title>
+  <writers>
+    <item index="0">
+      <photo>http://image.tmdb.org/t/p/original/eossmqcHU9EeV28foEiYLOpxjST.jpg</photo>
+      <role/>
+      <name>Neal Purvis</name>
+    </item>
+    <item index="1">
+      <photo>http://image.tmdb.org/t/p/original/txwb1hbBMiNuvJA8LvcvsjiIML8.jpg</photo>
+      <role/>
+      <name>Robert Wade</name>
+    </item>
+    <item index="2">
+      <photo>http://image.tmdb.org/t/p/original/v2MadHJVrBAv0tEgs9H9PJ9y50z.jpg</photo>
+      <role/>
+      <name>Paul Haggis</name>
+    </item>
+  </writers>
+  <year>2006</year>
+</Movie>

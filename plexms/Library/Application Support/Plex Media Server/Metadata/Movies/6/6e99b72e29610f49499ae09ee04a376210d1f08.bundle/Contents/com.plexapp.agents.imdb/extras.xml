@@ -1,0 +1,423 @@
+<?xml version='1.0' encoding='utf-8'?>
+<MediaContainer size="21" identifier="com.plexapp.agents.imdb" mediaTagPrefix="/system/bundle/media/flags/" prefsKey="/:/plugins/com.plexapp.agents.imdb/prefs">
+  <Video url="iva://api.internetvideoarchive.com/2.0/DataService/VideoAssets(184531)?lang=en&amp;bitrates=80,212,450,750,1500,2500,5000,8000&amp;duration=145&amp;adaptive=1&amp;dts=0" key="/system/services/url/lookup?url=iva%3A%2F%2Fapi.internetvideoarchive.com%2F2.0%2FDataService%2FVideoAssets%28184531%29%3Flang%3Den%26bitrates%3D80%2C212%2C450%2C750%2C1500%2C2500%2C5000%2C8000%26duration%3D145%26adaptive%3D1%26dts%3D0" type="clip" relationType="trailer" year="2014" title="The Hobbit: An Unexpected Journey" originallyAvailableAt="2014-01-15" thumb="https://iva-images.plex.tv/content/hdphotos/8049/008049/008049_1280x720_184531_021.jpg" ratingKey="iva://api.internetvideoarchive.com/2.0/DataService/VideoAssets(184531)?lang=en&amp;bitrates=80,212,450,750,1500,2500,5000,8000&amp;duration=145&amp;adaptive=1&amp;dts=0">
+    <Media container="mp4" height="1080" width="1920" audioCodec="aac" duration="145000" videoCodec="h264" bitrate="2500">
+      <Part duration="145000" key="/services/iva/assets/184531/video.mp4?bitrate=2500" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="1080" width="1920" codec="h264" bitrate="2500" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+    <Media container="mp4" height="720" width="1280" audioCodec="aac" duration="145000" videoCodec="h264" bitrate="1500">
+      <Part duration="145000" key="/services/iva/assets/184531/video.mp4?bitrate=1500" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="720" width="1280" codec="h264" bitrate="1500" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+    <Media container="mp4" height="480" width="640" audioCodec="aac" duration="145000" videoCodec="h264" bitrate="450">
+      <Part duration="145000" key="/services/iva/assets/184531/video.mp4?bitrate=450" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="480" width="640" codec="h264" bitrate="450" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+  </Video>
+  <Video url="iva://api.internetvideoarchive.com/2.0/DataService/VideoAssets(613935)?lang=en&amp;bitrates=80,212,450,750,1500,2500,5000,8000&amp;duration=278&amp;adaptive=1&amp;dts=0" key="/system/services/url/lookup?url=iva%3A%2F%2Fapi.internetvideoarchive.com%2F2.0%2FDataService%2FVideoAssets%28613935%29%3Flang%3Den%26bitrates%3D80%2C212%2C450%2C750%2C1500%2C2500%2C5000%2C8000%26duration%3D278%26adaptive%3D1%26dts%3D0" type="clip" relationType="behindTheScenes" year="2012" title="Peter Jackson" originallyAvailableAt="2012-12-14" thumb="https://iva-images.plex.tv/content/hdphotos/8179/008179/008179_1280x720_613935_005.jpg" ratingKey="iva://api.internetvideoarchive.com/2.0/DataService/VideoAssets(613935)?lang=en&amp;bitrates=80,212,450,750,1500,2500,5000,8000&amp;duration=278&amp;adaptive=1&amp;dts=0">
+    <Media container="mp4" height="1080" width="1920" audioCodec="aac" duration="278000" videoCodec="h264" bitrate="2500">
+      <Part duration="278000" key="/services/iva/assets/613935/video.mp4?bitrate=2500" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="1080" width="1920" codec="h264" bitrate="2500" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+    <Media container="mp4" height="720" width="1280" audioCodec="aac" duration="278000" videoCodec="h264" bitrate="1500">
+      <Part duration="278000" key="/services/iva/assets/613935/video.mp4?bitrate=1500" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="720" width="1280" codec="h264" bitrate="1500" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+    <Media container="mp4" height="480" width="640" audioCodec="aac" duration="278000" videoCodec="h264" bitrate="450">
+      <Part duration="278000" key="/services/iva/assets/613935/video.mp4?bitrate=450" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="480" width="640" codec="h264" bitrate="450" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+  </Video>
+  <Video url="iva://api.internetvideoarchive.com/2.0/DataService/VideoAssets(747416)?lang=en&amp;bitrates=80,212,450,750,1500,2500,5000,8000&amp;duration=78&amp;adaptive=1&amp;dts=0" key="/system/services/url/lookup?url=iva%3A%2F%2Fapi.internetvideoarchive.com%2F2.0%2FDataService%2FVideoAssets%28747416%29%3Flang%3Den%26bitrates%3D80%2C212%2C450%2C750%2C1500%2C2500%2C5000%2C8000%26duration%3D78%26adaptive%3D1%26dts%3D0" type="clip" relationType="behindTheScenes" year="2012" title="Peter Hambleton Is Gloin" originallyAvailableAt="2012-12-14" thumb="https://iva-images.plex.tv/content/hdphotos/8179/008179/008179_1280x720_747416_006.jpg" ratingKey="iva://api.internetvideoarchive.com/2.0/DataService/VideoAssets(747416)?lang=en&amp;bitrates=80,212,450,750,1500,2500,5000,8000&amp;duration=78&amp;adaptive=1&amp;dts=0">
+    <Media container="mp4" height="1080" width="1920" audioCodec="aac" duration="78000" videoCodec="h264" bitrate="2500">
+      <Part duration="78000" key="/services/iva/assets/747416/video.mp4?bitrate=2500" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="1080" width="1920" codec="h264" bitrate="2500" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+    <Media container="mp4" height="720" width="1280" audioCodec="aac" duration="78000" videoCodec="h264" bitrate="1500">
+      <Part duration="78000" key="/services/iva/assets/747416/video.mp4?bitrate=1500" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="720" width="1280" codec="h264" bitrate="1500" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+    <Media container="mp4" height="480" width="640" audioCodec="aac" duration="78000" videoCodec="h264" bitrate="450">
+      <Part duration="78000" key="/services/iva/assets/747416/video.mp4?bitrate=450" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="480" width="640" codec="h264" bitrate="450" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+  </Video>
+  <Video url="iva://api.internetvideoarchive.com/2.0/DataService/VideoAssets(478014)?lang=en&amp;bitrates=80,212,450,750,1500,2500,5000,8000&amp;duration=182&amp;adaptive=1&amp;dts=0" key="/system/services/url/lookup?url=iva%3A%2F%2Fapi.internetvideoarchive.com%2F2.0%2FDataService%2FVideoAssets%28478014%29%3Flang%3Den%26bitrates%3D80%2C212%2C450%2C750%2C1500%2C2500%2C5000%2C8000%26duration%3D182%26adaptive%3D1%26dts%3D0" type="clip" relationType="behindTheScenes" year="2012" title="Martin Freeman Is Bilbo" originallyAvailableAt="2012-12-14" thumb="https://iva-images.plex.tv/content/hdphotos/8179/008179/008179_1280x720_478014_006.jpg" ratingKey="iva://api.internetvideoarchive.com/2.0/DataService/VideoAssets(478014)?lang=en&amp;bitrates=80,212,450,750,1500,2500,5000,8000&amp;duration=182&amp;adaptive=1&amp;dts=0">
+    <Media container="mp4" height="1080" width="1920" audioCodec="aac" duration="182000" videoCodec="h264" bitrate="2500">
+      <Part duration="182000" key="/services/iva/assets/478014/video.mp4?bitrate=2500" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="1080" width="1920" codec="h264" bitrate="2500" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+    <Media container="mp4" height="720" width="1280" audioCodec="aac" duration="182000" videoCodec="h264" bitrate="1500">
+      <Part duration="182000" key="/services/iva/assets/478014/video.mp4?bitrate=1500" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="720" width="1280" codec="h264" bitrate="1500" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+    <Media container="mp4" height="480" width="640" audioCodec="aac" duration="182000" videoCodec="h264" bitrate="450">
+      <Part duration="182000" key="/services/iva/assets/478014/video.mp4?bitrate=450" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="480" width="640" codec="h264" bitrate="450" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+  </Video>
+  <Video url="iva://api.internetvideoarchive.com/2.0/DataService/VideoAssets(529821)?lang=en&amp;bitrates=80,212,450,750,1500,2500,5000,8000&amp;duration=59&amp;adaptive=1&amp;dts=0" key="/system/services/url/lookup?url=iva%3A%2F%2Fapi.internetvideoarchive.com%2F2.0%2FDataService%2FVideoAssets%28529821%29%3Flang%3Den%26bitrates%3D80%2C212%2C450%2C750%2C1500%2C2500%2C5000%2C8000%26duration%3D59%26adaptive%3D1%26dts%3D0" type="clip" relationType="behindTheScenes" year="2012" title="Mark Hadlow Is Dori" originallyAvailableAt="2012-12-14" thumb="https://iva-images.plex.tv/content/hdphotos/8179/008179/008179_1280x720_529821_009.jpg" ratingKey="iva://api.internetvideoarchive.com/2.0/DataService/VideoAssets(529821)?lang=en&amp;bitrates=80,212,450,750,1500,2500,5000,8000&amp;duration=59&amp;adaptive=1&amp;dts=0">
+    <Media container="mp4" height="1080" width="1920" audioCodec="aac" duration="59000" videoCodec="h264" bitrate="2500">
+      <Part duration="59000" key="/services/iva/assets/529821/video.mp4?bitrate=2500" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="1080" width="1920" codec="h264" bitrate="2500" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+    <Media container="mp4" height="720" width="1280" audioCodec="aac" duration="59000" videoCodec="h264" bitrate="1500">
+      <Part duration="59000" key="/services/iva/assets/529821/video.mp4?bitrate=1500" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="720" width="1280" codec="h264" bitrate="1500" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+    <Media container="mp4" height="480" width="640" audioCodec="aac" duration="59000" videoCodec="h264" bitrate="450">
+      <Part duration="59000" key="/services/iva/assets/529821/video.mp4?bitrate=450" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="480" width="640" codec="h264" bitrate="450" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+  </Video>
+  <Video url="iva://api.internetvideoarchive.com/2.0/DataService/VideoAssets(680819)?lang=en&amp;bitrates=80,212,450,750,1500,2500,5000,8000&amp;duration=98&amp;adaptive=1&amp;dts=0" key="/system/services/url/lookup?url=iva%3A%2F%2Fapi.internetvideoarchive.com%2F2.0%2FDataService%2FVideoAssets%28680819%29%3Flang%3Den%26bitrates%3D80%2C212%2C450%2C750%2C1500%2C2500%2C5000%2C8000%26duration%3D98%26adaptive%3D1%26dts%3D0" type="clip" relationType="behindTheScenes" year="2012" title="James Nesbitt Is Bofur" originallyAvailableAt="2012-12-14" thumb="https://iva-images.plex.tv/content/hdphotos/8179/008179/008179_1280x720_680819_005.jpg" ratingKey="iva://api.internetvideoarchive.com/2.0/DataService/VideoAssets(680819)?lang=en&amp;bitrates=80,212,450,750,1500,2500,5000,8000&amp;duration=98&amp;adaptive=1&amp;dts=0">
+    <Media container="mp4" height="1080" width="1920" audioCodec="aac" duration="98000" videoCodec="h264" bitrate="2500">
+      <Part duration="98000" key="/services/iva/assets/680819/video.mp4?bitrate=2500" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="1080" width="1920" codec="h264" bitrate="2500" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+    <Media container="mp4" height="720" width="1280" audioCodec="aac" duration="98000" videoCodec="h264" bitrate="1500">
+      <Part duration="98000" key="/services/iva/assets/680819/video.mp4?bitrate=1500" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="720" width="1280" codec="h264" bitrate="1500" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+    <Media container="mp4" height="480" width="640" audioCodec="aac" duration="98000" videoCodec="h264" bitrate="450">
+      <Part duration="98000" key="/services/iva/assets/680819/video.mp4?bitrate=450" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="480" width="640" codec="h264" bitrate="450" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+  </Video>
+  <Video url="iva://api.internetvideoarchive.com/2.0/DataService/VideoAssets(540914)?lang=en&amp;bitrates=80,212,450,750,1500,2500,5000,8000&amp;duration=90&amp;adaptive=1&amp;dts=0" key="/system/services/url/lookup?url=iva%3A%2F%2Fapi.internetvideoarchive.com%2F2.0%2FDataService%2FVideoAssets%28540914%29%3Flang%3Den%26bitrates%3D80%2C212%2C450%2C750%2C1500%2C2500%2C5000%2C8000%26duration%3D90%26adaptive%3D1%26dts%3D0" type="clip" relationType="behindTheScenes" year="2012" title="Elijah Wood Is Frodo" originallyAvailableAt="2012-12-14" thumb="https://iva-images.plex.tv/content/hdphotos/8179/008179/008179_1193x671_540914_015.jpg" ratingKey="iva://api.internetvideoarchive.com/2.0/DataService/VideoAssets(540914)?lang=en&amp;bitrates=80,212,450,750,1500,2500,5000,8000&amp;duration=90&amp;adaptive=1&amp;dts=0">
+    <Media container="mp4" height="1080" width="1920" audioCodec="aac" duration="90000" videoCodec="h264" bitrate="2500">
+      <Part duration="90000" key="/services/iva/assets/540914/video.mp4?bitrate=2500" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="1080" width="1920" codec="h264" bitrate="2500" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+    <Media container="mp4" height="720" width="1280" audioCodec="aac" duration="90000" videoCodec="h264" bitrate="1500">
+      <Part duration="90000" key="/services/iva/assets/540914/video.mp4?bitrate=1500" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="720" width="1280" codec="h264" bitrate="1500" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+    <Media container="mp4" height="480" width="640" audioCodec="aac" duration="90000" videoCodec="h264" bitrate="450">
+      <Part duration="90000" key="/services/iva/assets/540914/video.mp4?bitrate=450" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="480" width="640" codec="h264" bitrate="450" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+  </Video>
+  <Video url="iva://api.internetvideoarchive.com/2.0/DataService/VideoAssets(302498)?lang=en&amp;bitrates=80,212,450,750,1500,2500,5000,8000&amp;duration=61&amp;adaptive=1&amp;dts=0" key="/system/services/url/lookup?url=iva%3A%2F%2Fapi.internetvideoarchive.com%2F2.0%2FDataService%2FVideoAssets%28302498%29%3Flang%3Den%26bitrates%3D80%2C212%2C450%2C750%2C1500%2C2500%2C5000%2C8000%26duration%3D61%26adaptive%3D1%26dts%3D0" type="clip" relationType="behindTheScenes" year="2012" title="John Callen Is Oin" originallyAvailableAt="2012-12-14" thumb="https://iva-images.plex.tv/content/hdphotos/8179/008179/008179_1280x720_302498_005.jpg" ratingKey="iva://api.internetvideoarchive.com/2.0/DataService/VideoAssets(302498)?lang=en&amp;bitrates=80,212,450,750,1500,2500,5000,8000&amp;duration=61&amp;adaptive=1&amp;dts=0">
+    <Media container="mp4" height="1080" width="1920" audioCodec="aac" duration="61000" videoCodec="h264" bitrate="2500">
+      <Part duration="61000" key="/services/iva/assets/302498/video.mp4?bitrate=2500" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="1080" width="1920" codec="h264" bitrate="2500" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+    <Media container="mp4" height="720" width="1280" audioCodec="aac" duration="61000" videoCodec="h264" bitrate="1500">
+      <Part duration="61000" key="/services/iva/assets/302498/video.mp4?bitrate=1500" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="720" width="1280" codec="h264" bitrate="1500" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+    <Media container="mp4" height="480" width="640" audioCodec="aac" duration="61000" videoCodec="h264" bitrate="450">
+      <Part duration="61000" key="/services/iva/assets/302498/video.mp4?bitrate=450" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="480" width="640" codec="h264" bitrate="450" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+  </Video>
+  <Video url="iva://api.internetvideoarchive.com/2.0/DataService/VideoAssets(509068)?lang=en&amp;bitrates=80,212,450,750,1500,2500,5000,8000&amp;duration=61&amp;adaptive=1&amp;dts=0" key="/system/services/url/lookup?url=iva%3A%2F%2Fapi.internetvideoarchive.com%2F2.0%2FDataService%2FVideoAssets%28509068%29%3Flang%3Den%26bitrates%3D80%2C212%2C450%2C750%2C1500%2C2500%2C5000%2C8000%26duration%3D61%26adaptive%3D1%26dts%3D0" type="clip" relationType="behindTheScenes" year="2012" title="Graham Mctavish Is Dwalin" originallyAvailableAt="2012-12-14" thumb="https://iva-images.plex.tv/content/hdphotos/8179/008179/008179_1280x720_509068_009.jpg" ratingKey="iva://api.internetvideoarchive.com/2.0/DataService/VideoAssets(509068)?lang=en&amp;bitrates=80,212,450,750,1500,2500,5000,8000&amp;duration=61&amp;adaptive=1&amp;dts=0">
+    <Media container="mp4" height="1080" width="1920" audioCodec="aac" duration="61000" videoCodec="h264" bitrate="2500">
+      <Part duration="61000" key="/services/iva/assets/509068/video.mp4?bitrate=2500" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="1080" width="1920" codec="h264" bitrate="2500" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+    <Media container="mp4" height="720" width="1280" audioCodec="aac" duration="61000" videoCodec="h264" bitrate="1500">
+      <Part duration="61000" key="/services/iva/assets/509068/video.mp4?bitrate=1500" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="720" width="1280" codec="h264" bitrate="1500" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+    <Media container="mp4" height="480" width="640" audioCodec="aac" duration="61000" videoCodec="h264" bitrate="450">
+      <Part duration="61000" key="/services/iva/assets/509068/video.mp4?bitrate=450" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="480" width="640" codec="h264" bitrate="450" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+  </Video>
+  <Video url="iva://api.internetvideoarchive.com/2.0/DataService/VideoAssets(826226)?lang=en&amp;bitrates=80,212,450,750,1500,2500,5000,8000&amp;duration=56&amp;adaptive=1&amp;dts=0" key="/system/services/url/lookup?url=iva%3A%2F%2Fapi.internetvideoarchive.com%2F2.0%2FDataService%2FVideoAssets%28826226%29%3Flang%3Den%26bitrates%3D80%2C212%2C450%2C750%2C1500%2C2500%2C5000%2C8000%26duration%3D56%26adaptive%3D1%26dts%3D0" type="clip" relationType="behindTheScenes" year="2012" title="Syvester Mccoy Is Radagast" originallyAvailableAt="2012-12-14" thumb="https://iva-images.plex.tv/content/hdphotos/8179/008179/008179_1280x720_826226_014.jpg" ratingKey="iva://api.internetvideoarchive.com/2.0/DataService/VideoAssets(826226)?lang=en&amp;bitrates=80,212,450,750,1500,2500,5000,8000&amp;duration=56&amp;adaptive=1&amp;dts=0">
+    <Media container="mp4" height="1080" width="1920" audioCodec="aac" duration="56000" videoCodec="h264" bitrate="2500">
+      <Part duration="56000" key="/services/iva/assets/826226/video.mp4?bitrate=2500" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="1080" width="1920" codec="h264" bitrate="2500" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+    <Media container="mp4" height="720" width="1280" audioCodec="aac" duration="56000" videoCodec="h264" bitrate="1500">
+      <Part duration="56000" key="/services/iva/assets/826226/video.mp4?bitrate=1500" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="720" width="1280" codec="h264" bitrate="1500" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+    <Media container="mp4" height="480" width="640" audioCodec="aac" duration="56000" videoCodec="h264" bitrate="450">
+      <Part duration="56000" key="/services/iva/assets/826226/video.mp4?bitrate=450" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="480" width="640" codec="h264" bitrate="450" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+  </Video>
+  <Video url="iva://api.internetvideoarchive.com/2.0/DataService/VideoAssets(543177)?lang=en&amp;bitrates=80,212,450,750,1500,2500,5000,8000&amp;duration=51&amp;adaptive=1&amp;dts=0" key="/system/services/url/lookup?url=iva%3A%2F%2Fapi.internetvideoarchive.com%2F2.0%2FDataService%2FVideoAssets%28543177%29%3Flang%3Den%26bitrates%3D80%2C212%2C450%2C750%2C1500%2C2500%2C5000%2C8000%26duration%3D51%26adaptive%3D1%26dts%3D0" type="clip" relationType="behindTheScenes" year="2012" title="Dean O'gorman Is Fili" originallyAvailableAt="2012-12-14" thumb="https://iva-images.plex.tv/content/hdphotos/8179/008179/008179_1280x720_543177_002.jpg" ratingKey="iva://api.internetvideoarchive.com/2.0/DataService/VideoAssets(543177)?lang=en&amp;bitrates=80,212,450,750,1500,2500,5000,8000&amp;duration=51&amp;adaptive=1&amp;dts=0">
+    <Media container="mp4" height="1080" width="1920" audioCodec="aac" duration="51000" videoCodec="h264" bitrate="2500">
+      <Part duration="51000" key="/services/iva/assets/543177/video.mp4?bitrate=2500" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="1080" width="1920" codec="h264" bitrate="2500" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+    <Media container="mp4" height="720" width="1280" audioCodec="aac" duration="51000" videoCodec="h264" bitrate="1500">
+      <Part duration="51000" key="/services/iva/assets/543177/video.mp4?bitrate=1500" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="720" width="1280" codec="h264" bitrate="1500" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+    <Media container="mp4" height="480" width="640" audioCodec="aac" duration="51000" videoCodec="h264" bitrate="450">
+      <Part duration="51000" key="/services/iva/assets/543177/video.mp4?bitrate=450" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="480" width="640" codec="h264" bitrate="450" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+  </Video>
+  <Video url="iva://api.internetvideoarchive.com/2.0/DataService/VideoAssets(695282)?lang=en&amp;bitrates=80,212,450,750,1500,2500,5000,8000&amp;duration=106&amp;adaptive=1&amp;dts=0" key="/system/services/url/lookup?url=iva%3A%2F%2Fapi.internetvideoarchive.com%2F2.0%2FDataService%2FVideoAssets%28695282%29%3Flang%3Den%26bitrates%3D80%2C212%2C450%2C750%2C1500%2C2500%2C5000%2C8000%26duration%3D106%26adaptive%3D1%26dts%3D0" type="clip" relationType="behindTheScenes" year="2012" title="Christopher Lee Is Saruman" originallyAvailableAt="2012-12-14" thumb="https://iva-images.plex.tv/content/hdphotos/8179/008179/008179_1280x720_695282_005.jpg" ratingKey="iva://api.internetvideoarchive.com/2.0/DataService/VideoAssets(695282)?lang=en&amp;bitrates=80,212,450,750,1500,2500,5000,8000&amp;duration=106&amp;adaptive=1&amp;dts=0">
+    <Media container="mp4" height="1080" width="1920" audioCodec="aac" duration="106000" videoCodec="h264" bitrate="2500">
+      <Part duration="106000" key="/services/iva/assets/695282/video.mp4?bitrate=2500" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="1080" width="1920" codec="h264" bitrate="2500" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+    <Media container="mp4" height="720" width="1280" audioCodec="aac" duration="106000" videoCodec="h264" bitrate="1500">
+      <Part duration="106000" key="/services/iva/assets/695282/video.mp4?bitrate=1500" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="720" width="1280" codec="h264" bitrate="1500" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+    <Media container="mp4" height="480" width="640" audioCodec="aac" duration="106000" videoCodec="h264" bitrate="450">
+      <Part duration="106000" key="/services/iva/assets/695282/video.mp4?bitrate=450" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="480" width="640" codec="h264" bitrate="450" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+  </Video>
+  <Video url="iva://api.internetvideoarchive.com/2.0/DataService/VideoAssets(292867)?lang=en&amp;bitrates=80,212,450,750,1500,2500,5000,8000&amp;duration=52&amp;adaptive=1&amp;dts=0" key="/system/services/url/lookup?url=iva%3A%2F%2Fapi.internetvideoarchive.com%2F2.0%2FDataService%2FVideoAssets%28292867%29%3Flang%3Den%26bitrates%3D80%2C212%2C450%2C750%2C1500%2C2500%2C5000%2C8000%26duration%3D52%26adaptive%3D1%26dts%3D0" type="clip" relationType="behindTheScenes" year="2012" title="Ken Stott Is Balin" originallyAvailableAt="2012-12-14" thumb="https://iva-images.plex.tv/content/hdphotos/8179/008179/008179_1280x720_292867_014.jpg" ratingKey="iva://api.internetvideoarchive.com/2.0/DataService/VideoAssets(292867)?lang=en&amp;bitrates=80,212,450,750,1500,2500,5000,8000&amp;duration=52&amp;adaptive=1&amp;dts=0">
+    <Media container="mp4" height="1080" width="1920" audioCodec="aac" duration="52000" videoCodec="h264" bitrate="2500">
+      <Part duration="52000" key="/services/iva/assets/292867/video.mp4?bitrate=2500" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="1080" width="1920" codec="h264" bitrate="2500" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+    <Media container="mp4" height="720" width="1280" audioCodec="aac" duration="52000" videoCodec="h264" bitrate="1500">
+      <Part duration="52000" key="/services/iva/assets/292867/video.mp4?bitrate=1500" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="720" width="1280" codec="h264" bitrate="1500" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+    <Media container="mp4" height="480" width="640" audioCodec="aac" duration="52000" videoCodec="h264" bitrate="450">
+      <Part duration="52000" key="/services/iva/assets/292867/video.mp4?bitrate=450" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="480" width="640" codec="h264" bitrate="450" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+  </Video>
+  <Video url="iva://api.internetvideoarchive.com/2.0/DataService/VideoAssets(495211)?lang=en&amp;bitrates=80,212,450,750,1500,2500,5000,8000&amp;duration=120&amp;adaptive=1&amp;dts=0" key="/system/services/url/lookup?url=iva%3A%2F%2Fapi.internetvideoarchive.com%2F2.0%2FDataService%2FVideoAssets%28495211%29%3Flang%3Den%26bitrates%3D80%2C212%2C450%2C750%2C1500%2C2500%2C5000%2C8000%26duration%3D120%26adaptive%3D1%26dts%3D0" type="clip" relationType="behindTheScenes" year="2012" title="Cate Blanchette Is Galadriel" originallyAvailableAt="2012-12-14" thumb="https://iva-images.plex.tv/content/hdphotos/8179/008179/008179_1280x720_495211_003.jpg" ratingKey="iva://api.internetvideoarchive.com/2.0/DataService/VideoAssets(495211)?lang=en&amp;bitrates=80,212,450,750,1500,2500,5000,8000&amp;duration=120&amp;adaptive=1&amp;dts=0">
+    <Media container="mp4" height="1080" width="1920" audioCodec="aac" duration="120000" videoCodec="h264" bitrate="2500">
+      <Part duration="120000" key="/services/iva/assets/495211/video.mp4?bitrate=2500" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="1080" width="1920" codec="h264" bitrate="2500" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+    <Media container="mp4" height="720" width="1280" audioCodec="aac" duration="120000" videoCodec="h264" bitrate="1500">
+      <Part duration="120000" key="/services/iva/assets/495211/video.mp4?bitrate=1500" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="720" width="1280" codec="h264" bitrate="1500" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+    <Media container="mp4" height="480" width="640" audioCodec="aac" duration="120000" videoCodec="h264" bitrate="450">
+      <Part duration="120000" key="/services/iva/assets/495211/video.mp4?bitrate=450" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="480" width="640" codec="h264" bitrate="450" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+  </Video>
+  <Video url="iva://api.internetvideoarchive.com/2.0/DataService/VideoAssets(847246)?lang=en&amp;bitrates=80,212,450,750,1500,2500,5000,8000&amp;duration=329&amp;adaptive=1&amp;dts=0" key="/system/services/url/lookup?url=iva%3A%2F%2Fapi.internetvideoarchive.com%2F2.0%2FDataService%2FVideoAssets%28847246%29%3Flang%3Den%26bitrates%3D80%2C212%2C450%2C750%2C1500%2C2500%2C5000%2C8000%26duration%3D329%26adaptive%3D1%26dts%3D0" type="clip" relationType="behindTheScenes" year="2012" title="Richard Armitrage Is Thorin" originallyAvailableAt="2012-12-14" thumb="https://iva-images.plex.tv/content/hdphotos/8179/008179/008179_1280x720_847246_005.jpg" ratingKey="iva://api.internetvideoarchive.com/2.0/DataService/VideoAssets(847246)?lang=en&amp;bitrates=80,212,450,750,1500,2500,5000,8000&amp;duration=329&amp;adaptive=1&amp;dts=0">
+    <Media container="mp4" height="1080" width="1920" audioCodec="aac" duration="329000" videoCodec="h264" bitrate="2500">
+      <Part duration="329000" key="/services/iva/assets/847246/video.mp4?bitrate=2500" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="1080" width="1920" codec="h264" bitrate="2500" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+    <Media container="mp4" height="720" width="1280" audioCodec="aac" duration="329000" videoCodec="h264" bitrate="1500">
+      <Part duration="329000" key="/services/iva/assets/847246/video.mp4?bitrate=1500" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="720" width="1280" codec="h264" bitrate="1500" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+    <Media container="mp4" height="480" width="640" audioCodec="aac" duration="329000" videoCodec="h264" bitrate="450">
+      <Part duration="329000" key="/services/iva/assets/847246/video.mp4?bitrate=450" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="480" width="640" codec="h264" bitrate="450" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+  </Video>
+  <Video url="iva://api.internetvideoarchive.com/2.0/DataService/VideoAssets(339806)?lang=en&amp;bitrates=80,212,450,750,1500,2500,5000,8000&amp;duration=102&amp;adaptive=1&amp;dts=0" key="/system/services/url/lookup?url=iva%3A%2F%2Fapi.internetvideoarchive.com%2F2.0%2FDataService%2FVideoAssets%28339806%29%3Flang%3Den%26bitrates%3D80%2C212%2C450%2C750%2C1500%2C2500%2C5000%2C8000%26duration%3D102%26adaptive%3D1%26dts%3D0" type="clip" relationType="behindTheScenes" year="2012" title="Hobbit: An Unexpected Journey: Aidan Turner Is Kili" originallyAvailableAt="2012-12-14" thumb="https://iva-images.plex.tv/content/hdphotos/8179/008179/008179_1280x720_339806_005.jpg" ratingKey="iva://api.internetvideoarchive.com/2.0/DataService/VideoAssets(339806)?lang=en&amp;bitrates=80,212,450,750,1500,2500,5000,8000&amp;duration=102&amp;adaptive=1&amp;dts=0">
+    <Media container="mp4" height="1080" width="1920" audioCodec="aac" duration="102000" videoCodec="h264" bitrate="2500">
+      <Part duration="102000" key="/services/iva/assets/339806/video.mp4?bitrate=2500" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="1080" width="1920" codec="h264" bitrate="2500" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+    <Media container="mp4" height="720" width="1280" audioCodec="aac" duration="102000" videoCodec="h264" bitrate="1500">
+      <Part duration="102000" key="/services/iva/assets/339806/video.mp4?bitrate=1500" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="720" width="1280" codec="h264" bitrate="1500" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+    <Media container="mp4" height="480" width="640" audioCodec="aac" duration="102000" videoCodec="h264" bitrate="450">
+      <Part duration="102000" key="/services/iva/assets/339806/video.mp4?bitrate=450" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="480" width="640" codec="h264" bitrate="450" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+  </Video>
+  <Video url="iva://api.internetvideoarchive.com/2.0/DataService/VideoAssets(996771)?lang=en&amp;bitrates=80,212,450,750,1500,2500,5000,8000&amp;duration=40&amp;adaptive=1&amp;dts=0" key="/system/services/url/lookup?url=iva%3A%2F%2Fapi.internetvideoarchive.com%2F2.0%2FDataService%2FVideoAssets%28996771%29%3Flang%3Den%26bitrates%3D80%2C212%2C450%2C750%2C1500%2C2500%2C5000%2C8000%26duration%3D40%26adaptive%3D1%26dts%3D0" type="clip" relationType="behindTheScenes" year="2012" title="Adam Brown Is Ori" originallyAvailableAt="2012-12-14" thumb="https://iva-images.plex.tv/content/hdphotos/8179/008179/008179_1280x720_996771_002.jpg" ratingKey="iva://api.internetvideoarchive.com/2.0/DataService/VideoAssets(996771)?lang=en&amp;bitrates=80,212,450,750,1500,2500,5000,8000&amp;duration=40&amp;adaptive=1&amp;dts=0">
+    <Media container="mp4" height="1080" width="1920" audioCodec="aac" duration="40000" videoCodec="h264" bitrate="2500">
+      <Part duration="40000" key="/services/iva/assets/996771/video.mp4?bitrate=2500" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="1080" width="1920" codec="h264" bitrate="2500" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+    <Media container="mp4" height="720" width="1280" audioCodec="aac" duration="40000" videoCodec="h264" bitrate="1500">
+      <Part duration="40000" key="/services/iva/assets/996771/video.mp4?bitrate=1500" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="720" width="1280" codec="h264" bitrate="1500" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+    <Media container="mp4" height="480" width="640" audioCodec="aac" duration="40000" videoCodec="h264" bitrate="450">
+      <Part duration="40000" key="/services/iva/assets/996771/video.mp4?bitrate=450" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="480" width="640" codec="h264" bitrate="450" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+  </Video>
+  <Video url="iva://api.internetvideoarchive.com/2.0/DataService/VideoAssets(547668)?lang=en&amp;bitrates=80,212,450,750,1500,2500,5000,8000&amp;duration=50&amp;adaptive=1&amp;dts=0" key="/system/services/url/lookup?url=iva%3A%2F%2Fapi.internetvideoarchive.com%2F2.0%2FDataService%2FVideoAssets%28547668%29%3Flang%3Den%26bitrates%3D80%2C212%2C450%2C750%2C1500%2C2500%2C5000%2C8000%26duration%3D50%26adaptive%3D1%26dts%3D0" type="clip" relationType="behindTheScenes" year="2012" title="Stephen Hunter Is Bombur" originallyAvailableAt="2012-12-14" thumb="https://iva-images.plex.tv/content/hdphotos/8179/008179/008179_1280x720_547668_005.jpg" ratingKey="iva://api.internetvideoarchive.com/2.0/DataService/VideoAssets(547668)?lang=en&amp;bitrates=80,212,450,750,1500,2500,5000,8000&amp;duration=50&amp;adaptive=1&amp;dts=0">
+    <Media container="mp4" height="1080" width="1920" audioCodec="aac" duration="50000" videoCodec="h264" bitrate="2500">
+      <Part duration="50000" key="/services/iva/assets/547668/video.mp4?bitrate=2500" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="1080" width="1920" codec="h264" bitrate="2500" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+    <Media container="mp4" height="720" width="1280" audioCodec="aac" duration="50000" videoCodec="h264" bitrate="1500">
+      <Part duration="50000" key="/services/iva/assets/547668/video.mp4?bitrate=1500" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="720" width="1280" codec="h264" bitrate="1500" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+    <Media container="mp4" height="480" width="640" audioCodec="aac" duration="50000" videoCodec="h264" bitrate="450">
+      <Part duration="50000" key="/services/iva/assets/547668/video.mp4?bitrate=450" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="480" width="640" codec="h264" bitrate="450" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+  </Video>
+  <Video url="iva://api.internetvideoarchive.com/2.0/DataService/VideoAssets(922955)?lang=en&amp;bitrates=80,212,450,750,1500,2500,5000,8000&amp;duration=94&amp;adaptive=1&amp;dts=0" key="/system/services/url/lookup?url=iva%3A%2F%2Fapi.internetvideoarchive.com%2F2.0%2FDataService%2FVideoAssets%28922955%29%3Flang%3Den%26bitrates%3D80%2C212%2C450%2C750%2C1500%2C2500%2C5000%2C8000%26duration%3D94%26adaptive%3D1%26dts%3D0" type="clip" relationType="behindTheScenes" year="2012" title="William Kircher Is Bifur And Tom Troll" originallyAvailableAt="2012-12-14" thumb="https://iva-images.plex.tv/content/hdphotos/8179/008179/008179_1280x720_922955_005.jpg" ratingKey="iva://api.internetvideoarchive.com/2.0/DataService/VideoAssets(922955)?lang=en&amp;bitrates=80,212,450,750,1500,2500,5000,8000&amp;duration=94&amp;adaptive=1&amp;dts=0">
+    <Media container="mp4" height="1080" width="1920" audioCodec="aac" duration="94000" videoCodec="h264" bitrate="2500">
+      <Part duration="94000" key="/services/iva/assets/922955/video.mp4?bitrate=2500" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="1080" width="1920" codec="h264" bitrate="2500" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+    <Media container="mp4" height="720" width="1280" audioCodec="aac" duration="94000" videoCodec="h264" bitrate="1500">
+      <Part duration="94000" key="/services/iva/assets/922955/video.mp4?bitrate=1500" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="720" width="1280" codec="h264" bitrate="1500" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+    <Media container="mp4" height="480" width="640" audioCodec="aac" duration="94000" videoCodec="h264" bitrate="450">
+      <Part duration="94000" key="/services/iva/assets/922955/video.mp4?bitrate=450" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="480" width="640" codec="h264" bitrate="450" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+  </Video>
+  <Video url="iva://api.internetvideoarchive.com/2.0/DataService/VideoAssets(489830)?lang=en&amp;bitrates=80,212,450,750,1500,2500,5000,8000&amp;duration=140&amp;adaptive=1&amp;dts=0" key="/system/services/url/lookup?url=iva%3A%2F%2Fapi.internetvideoarchive.com%2F2.0%2FDataService%2FVideoAssets%28489830%29%3Flang%3Den%26bitrates%3D80%2C212%2C450%2C750%2C1500%2C2500%2C5000%2C8000%26duration%3D140%26adaptive%3D1%26dts%3D0" type="clip" relationType="behindTheScenes" year="2012" title="Ian Mckellan Is Gandalf" originallyAvailableAt="2012-12-14" thumb="https://iva-images.plex.tv/content/hdphotos/8179/008179/008179_1280x720_489830_008.jpg" ratingKey="iva://api.internetvideoarchive.com/2.0/DataService/VideoAssets(489830)?lang=en&amp;bitrates=80,212,450,750,1500,2500,5000,8000&amp;duration=140&amp;adaptive=1&amp;dts=0">
+    <Media container="mp4" height="1080" width="1920" audioCodec="aac" duration="140000" videoCodec="h264" bitrate="2500">
+      <Part duration="140000" key="/services/iva/assets/489830/video.mp4?bitrate=2500" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="1080" width="1920" codec="h264" bitrate="2500" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+    <Media container="mp4" height="720" width="1280" audioCodec="aac" duration="140000" videoCodec="h264" bitrate="1500">
+      <Part duration="140000" key="/services/iva/assets/489830/video.mp4?bitrate=1500" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="720" width="1280" codec="h264" bitrate="1500" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+    <Media container="mp4" height="480" width="640" audioCodec="aac" duration="140000" videoCodec="h264" bitrate="450">
+      <Part duration="140000" key="/services/iva/assets/489830/video.mp4?bitrate=450" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="480" width="640" codec="h264" bitrate="450" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+  </Video>
+  <Video url="iva://api.internetvideoarchive.com/2.0/DataService/VideoAssets(227782)?lang=en&amp;bitrates=80,212,450,750,1500,2500,5000,8000&amp;duration=111&amp;adaptive=1&amp;dts=0" key="/system/services/url/lookup?url=iva%3A%2F%2Fapi.internetvideoarchive.com%2F2.0%2FDataService%2FVideoAssets%28227782%29%3Flang%3Den%26bitrates%3D80%2C212%2C450%2C750%2C1500%2C2500%2C5000%2C8000%26duration%3D111%26adaptive%3D1%26dts%3D0" type="clip" relationType="behindTheScenes" year="2012" title="Hugo Weaving Is Elrond" originallyAvailableAt="2012-12-14" thumb="https://iva-images.plex.tv/content/hdphotos/8179/008179/008179_1280x720_227782_005.jpg" ratingKey="iva://api.internetvideoarchive.com/2.0/DataService/VideoAssets(227782)?lang=en&amp;bitrates=80,212,450,750,1500,2500,5000,8000&amp;duration=111&amp;adaptive=1&amp;dts=0">
+    <Media container="mp4" height="1080" width="1920" audioCodec="aac" duration="111000" videoCodec="h264" bitrate="2500">
+      <Part duration="111000" key="/services/iva/assets/227782/video.mp4?bitrate=2500" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="1080" width="1920" codec="h264" bitrate="2500" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+    <Media container="mp4" height="720" width="1280" audioCodec="aac" duration="111000" videoCodec="h264" bitrate="1500">
+      <Part duration="111000" key="/services/iva/assets/227782/video.mp4?bitrate=1500" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="720" width="1280" codec="h264" bitrate="1500" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+    <Media container="mp4" height="480" width="640" audioCodec="aac" duration="111000" videoCodec="h264" bitrate="450">
+      <Part duration="111000" key="/services/iva/assets/227782/video.mp4?bitrate=450" container="mp4" optimizedForStreaming="1" file="">
+        <Stream index="0" selected="1" streamType="1" height="480" width="640" codec="h264" bitrate="450" id="1"/>
+        <Stream index="1" selected="1" streamType="2" channels="2" codec="aac" languageCode="en" id="2"/>
+      </Part>
+    </Media>
+  </Video>
+</MediaContainer>
